@@ -1,0 +1,64 @@
+{
+  "book": "John",
+  "chapter": 15,
+  "sections": [
+    {
+      "reference": "15:1-3",
+      "section_title": "The True Vine",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading identifies Jesus as 'the true vine' fulfilling Israel's vine tradition (Isaiah 5, Psalm 80, Jeremiah 2, Ezekiel 15), with the Father as vinedresser who performs two actions on branches: removal of the fruitless and pruning of the fruitful.",
+      "relevance": "The neutral reading directly addresses the believer's standing by identifying branches described as 'in me' (en emoi) that do not bear fruit and are 'taken away' (airei) by the Father. The reading explicitly notes: 'The branches that do not bear fruit are described as being \"in me.\" They are not outsiders, not strangers to the vine. They are connected -- or at least they appear to be connected -- to Jesus.' The reading connects the fruitless-branch pattern to Judas, who was chosen (6:70), ate at Jesus's table, had his feet washed, yet was 'not clean.' The verb airei is analyzed as meaning removal throughout the document (1:29, 11:39, 19:15, 20:1-2). The vinedresser's two actions -- removal of fruitless, pruning of fruitful -- are the only two possibilities, with no third category. This is part of the author's own sustained argument, not an aside or illustration.",
+      "key_phrases": ["every branch in me that does not bear fruit, he takes away", "en emoi me pheron karpon airei auto", "I am the true vine"],
+      "confidence": "high"
+    },
+    {
+      "reference": "15:4-8",
+      "section_title": "The Imperative to Abide and Its Consequences",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading presents the imperative to abide as a command (not a description), the absolute impossibility of fruit apart from the vine, and the explicit fate of the non-abiding branch: thrown out, dried up, gathered, and burned.",
+      "relevance": "The neutral reading identifies multiple elements bearing directly on the permanence question. First, 'abide in me' (meinate en emoi) is an aorist imperative -- a command that 'assumes the possibility of not abiding, otherwise the imperative would be meaningless.' Second, the branch that does not abide 'is thrown away as a branch and dries up; and they gather them, and throw them into the fire, and they are burned' (v.6). The reading notes: 'The sequence -- thrown out, dried up, gathered, burned -- describes a complete process of removal and destruction. There is no indication that the branch can be reattached after being thrown out.' Third, the reading draws the critical connection between 6:37 ('the one who comes to me I will certainly not cast out') and 15:6 ('the one who does not abide is cast out'), noting: 'The difference is between the coming and the abiding -- between initial approach and sustained connection.' Fourth, the ean me tis mene conditional is third-class (real possibility). Fifth, the reading's summary states: 'The chapter does not describe a relationship in which the branch can rely on its initial attachment as a guarantee; it describes a relationship that must be continuously maintained through active abiding.' This is the author's own argument, developed at length as the central teaching of the farewell discourse.",
+      "key_phrases": ["abide in me, and I in you", "apart from me you can do nothing", "if anyone does not abide in me, he is thrown away as a branch and dries up", "they gather them, and throw them into the fire, and they are burned", "the difference is between the coming and the abiding"],
+      "confidence": "high"
+    },
+    {
+      "reference": "15:9-11",
+      "section_title": "The Chain of Love and Abiding in Love",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the mechanism of abiding as keeping Jesus's commandments, with Jesus modeling the same pattern in his own relationship with the Father: obedience sustains love.",
+      "relevance": "The neutral reading identifies a conditional structure: 'If you keep my commandments, you will abide in my love' (v.10). The reading states that 'the abiding is not unconditional; it depends on keeping the commandments.' Jesus offers himself as the model: 'I have kept my Father's commandments and abide in his love' (v.10b). The reading notes that the chain of obedience runs Father-to-Son-to-disciples: 'The authority flows downward; the obedience flows upward; the love flows in both directions.' The relationship between love and obedience is presented as ongoing: the same verb tereo ('keep, guard') is used throughout the farewell discourse (8:51, 14:15, 21, 23, 24) to link keeping with continued standing.",
+      "key_phrases": ["if you keep my commandments, you will abide in my love", "just as I have kept my Father's commandments and abide in his love"],
+      "confidence": "high"
+    },
+    {
+      "reference": "15:12-17",
+      "section_title": "The Commandment, Friendship, and Choosing",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's friendship as conditional on obedience, election as Jesus's initiative that does not eliminate the conditions of abiding, and the love commandment as the single obligation that summarizes all others.",
+      "relevance": "The neutral reading identifies several elements bearing on the question. First, 'You are my friends if you do what I command you' (v.14) -- friendship is conditional on ongoing obedience (present subjunctive poiete indicating continuous action). Second, 'You did not choose me but I chose you' (v.16) establishes divine initiative in election. Third, the reading explicitly addresses the relationship between election and abiding: 'The choosing and the appointing do not eliminate the conditions of abiding stated in the preceding verses. Jesus chose the twelve, including Judas (6:70), and Judas proved to be a fruitless branch.' The reading's summary states: 'The election establishes the relationship; the abiding sustains it. Election initiates; obedience and love maintain.' The coexistence of divine election and human responsibility for abiding is presented as sequential, not contradictory.",
+      "key_phrases": ["you are my friends if you do what I command you", "you did not choose me but I chose you", "the choosing establishes the relationship; the abiding sustains it"],
+      "confidence": "high"
+    },
+    {
+      "reference": "15:18-21",
+      "section_title": "The World's Hatred",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the world's hatred of the disciples as derivative of its hatred of Jesus, reframing persecution as a sign of authentic connection to Jesus rather than as evidence of failure."
+    },
+    {
+      "reference": "15:22-25",
+      "section_title": "Words, Works, and Hatred Without Cause",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus's words and works as evidence that removes all excuse for unbelief, with the hatred fulfilling the psalmist's pattern of the righteous sufferer hated without cause."
+    },
+    {
+      "reference": "15:26-27",
+      "section_title": "The Spirit's Testimony and the Disciples' Witness",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the Spirit as the parakletos who testifies about Jesus alongside the disciples' own historical testimony, creating a double witness for the post-departure community."
+    }
+  ]
+}

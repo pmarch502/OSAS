@@ -1,0 +1,62 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 16,
+  "sections": [
+    {
+      "reference": "16:1-4",
+      "section_title": "The Collection for the Saints in Jerusalem",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul instructs the Corinthians to set aside money on the first day of every week, proportional to their prosperity, for the collection for the saints in Jerusalem, following the same pattern he directed the Galatian churches, with accredited delegates to carry the gift."
+    },
+    {
+      "reference": "16:5-9",
+      "section_title": "Paul's Travel Plans",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul announces his intention to visit Corinth after passing through Macedonia, hoping to spend extended time or even winter with them, while remaining in Ephesus until Pentecost because a great and effective door for ministry has opened despite many adversaries."
+    },
+    {
+      "reference": "16:10-11",
+      "section_title": "Instructions Concerning Timothy",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul instructs the Corinthians to receive Timothy without fear and not to despise him, because Timothy is doing the work of the Lord just as Paul is, and they should send him on his way in peace."
+    },
+    {
+      "reference": "16:12",
+      "section_title": "Concerning Apollos",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reports that he strongly urged Apollos to visit Corinth, but Apollos firmly declined to come at this time and will come when he has opportunity, dissolving any suspicion of rivalry between them."
+    },
+    {
+      "reference": "16:13-14",
+      "section_title": "Five Imperatives",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul delivers five compressed imperatives -- be watchful, stand firm in the faith, act with courage, be strong, and let everything be done in love -- drawing on LXX language of divine encouragement spoken to Israel at moments of crisis.",
+      "relevance": "The imperative stekete en te pistei ('stand firm in the faith') directly echoes 15:1, where the community's standing (hestekate) in the gospel was described as conditional on holding fast. The neutral reading connects the two: 'The verb stekete in 16:13 echoes the hestekate of 15:1 -- the community's standing in the gospel requires firmness and vigilance.' The call to watchfulness (gregorite) carries eschatological urgency and implies that the community can fail to be vigilant. The call to courage and strength, drawn from the LXX language of Deuteronomy 31:6 and Joshua 1:6-9, frames the community's situation as a genuine contest requiring active resolve. These imperatives presuppose that standing is not automatic but requires ongoing effort and active faithfulness, though the passage addresses the question through exhortation rather than direct theological argument.",
+      "key_phrases": ["Be watchful", "stand firm in the faith", "act like men, be strong", "Let all that you do be done in love"],
+      "confidence": "low"
+    },
+    {
+      "reference": "16:15-18",
+      "section_title": "The Household of Stephanas and the Recognition of Service",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul commends the household of Stephanas as the firstfruits of Achaia who devoted themselves to the service of the saints, urges the community to submit to such persons and to every fellow worker and laborer, and acknowledges the refreshment brought by Stephanas, Fortunatus, and Achaicus."
+    },
+    {
+      "reference": "16:19-20",
+      "section_title": "Greetings from the Churches",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul conveys greetings from the churches of Asia, from Aquila and Prisca with the assembly in their house, and from all the brothers, instructing the Corinthians to greet one another with a holy kiss."
+    },
+    {
+      "reference": "16:21-24",
+      "section_title": "Paul's Own Hand and Final Words",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul takes the pen from his secretary and writes the final words himself: an anathema formula declaring that anyone who does not love the Lord is accursed, the Aramaic cry Maranatha ('Our Lord, come!'), a grace benediction, and a personal declaration of love for the whole community.",
+      "relevance": "The anathema formula -- 'if anyone has no love for the Lord, let him be accursed' (v. 22) -- places a condition on belonging to the community: love for the Lord is the irreducible minimum. The word anathema translates the Hebrew herem ('the ban of total destruction') and carries the weight of covenant exclusion. The neutral reading connects this to 'the series of exclusion warnings that run through the letter': destruction of God's temple (3:17), delivery to Satan (5:5), purging the evil person (5:13), the unrighteous not inheriting the kingdom (6:9-10), the incompatibility of the Lord's table and demons' table (10:21-22). The passage implies that community members who fail to maintain love for the Lord face the ultimate exclusion. While the anathema formula functions primarily as a boundary marker rather than a direct treatment of whether standing is permanent or conditional, it presupposes that persons within the community can fail the condition and be excluded.",
+      "key_phrases": ["If anyone has no love for the Lord, let him be accursed", "Marana tha -- Our Lord, come!"],
+      "confidence": "medium"
+    }
+  ]
+}

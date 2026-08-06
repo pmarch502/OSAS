@@ -1,0 +1,187 @@
+# Matthew 7
+
+## Context Within the Author's Argument
+
+**What came before (Matthew 6):** The author continued the mountain discourse by shifting from Torah reinterpretation (chapter 5) to religious practice and material orientation. Three parallel examples -- almsgiving, prayer, and fasting -- demonstrated that religious acts performed for human recognition have already received their full payment (apechousin ton misthon auton), while acts done in hiddenness receive the Father's own response. The model prayer was introduced, and its forgiveness petition was singled out for elaboration: the one who refuses to forgive others will not be forgiven by the Father. The chapter then turned to the question of ultimate loyalty -- two treasuries, the single versus evil eye, God versus mammon -- and concluded with the argument against anxiety: because the Father knows what his children need and actively provides, they should "seek first the kingdom of God and his righteousness" (6:33) and trust that material provision will follow.
+
+**What comes after (Matthew 8-9):** The author transitions from discourse to narrative. Jesus descends the mountain and immediately performs a series of healings and mighty works: a leper cleansed, a centurion's servant healed, Peter's mother-in-law restored, a storm stilled, demoniacs freed, a paralytic forgiven and healed, and more. The author presents these actions as demonstrations of the authority that the crowds recognized at 7:28-29. The one who taught "as one having authority" now acts with that same authority over disease, nature, demons, and sin. The transition from words to deeds is deliberate: chapters 5-7 established what Jesus teaches, and chapters 8-9 establish what Jesus does, and the author treats both as expressions of the same kingdom authority.
+
+**How chapter 7 connects them:** Chapter 5 redefined obedience to Torah through six antitheses. Chapter 6 redefined religious devotion and material orientation. Chapter 7 now brings the entire discourse to its conclusion with a series of warnings and a final demand: hearing must become doing. The chapter moves from the interpersonal (how to relate to others regarding their faults, vv. 1-5), to confidence in the Father's generosity (vv. 7-11), to a summary principle (v. 12), and then into a sequence of sharp binary warnings -- two gates, two trees, two claims of allegiance, two builders -- all of which sort people into two categories based on whether they act on what they have heard. The author's argument never leaves the question raised at 5:20: what does it mean for righteousness to exceed that of the scribes and Pharisees? Chapter 7 answers: it means actually doing what Jesus has commanded, not merely hearing, affirming, or performing.
+
+---
+
+## The Warning Against Judging (vv. 1-5)
+
+"Do not judge, so that you may not be judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you."
+
+The verb "judge" (krinete) in this context does not refer to all acts of evaluation or discernment -- the chapter itself will demand discernment about false prophets (v. 15), about dogs and swine (v. 6), and about the fruit that reveals a person's true character (vv. 16-20). The prohibition targets a specific posture: setting oneself up as the pronouncer of verdict over another person. The structure reveals this. The one who judges places himself in the position of authority over another, but the author's Jesus warns that this act triggers a reciprocal process -- the standard employed against others will be turned back on the one who employed it.
+
+The phrase "with the measure you use it will be measured to you" (en ho metro metreite metrethsetai hymin) was a well-known principle in Jewish teaching. It appears in the Mishnah (Sotah 1:7): "By the measure with which a man measures, it is measured to him." The passive "will be measured to you" (metrethsetai) is a divine passive -- God is the one who will apply the same standard. The warning is that the person who appoints himself judge of others has thereby established the standard by which God will judge him. If that standard is harsh, unsparing, and focused on fault-finding, that is the standard under which the judge himself will stand.
+
+This connects directly to the forgiveness principle established at 6:14-15. There, refusal to forgive others resulted in the Father's refusal to forgive. Here, the principle is generalized: whatever measure one applies to others is the measure one will receive. The horizontal and vertical dimensions remain inseparable. The way one treats others determines how one is treated by God.
+
+### The Beam and the Splinter (vv. 3-5)
+
+"Why do you see the speck (karphos) that is in your brother's eye, but do not notice the beam (dokon) that is in your own eye? Or how can you say to your brother, 'Let me take the speck out of your eye,' when there is the beam in your own eye? You hypocrite, first take the beam out of your own eye, and then you will see clearly to take the speck out of your brother's eye."
+
+The karphos is a tiny fragment -- a splinter, a bit of straw or chaff. The dokos is a massive construction timber, a roof beam. The disproportion is absurd and deliberately comic. The person with a roof beam protruding from his own eye offers to perform delicate surgery on someone else's splinter. The image exposes the self-deception inherent in the judgmental posture: the one most eager to identify faults in others is typically the one least aware of his own far greater faults.
+
+The word "hypocrite" (hypokrita) returns. It was the controlling term in 6:2, 5, 16, where it described those who performed piety as theater. Here the same word applies to a different kind of performance: the person who stages moral authority over others while ignoring his own condition. The theatrical metaphor holds -- this person is playing the role of righteous judge while being disqualified by his own failures.
+
+Critically, the passage does not end by prohibiting all correction. It ends: "first take the beam out of your own eye, and then you will see clearly to take the speck out of your brother's eye." The word "then" (tote) permits and even expects that after self-examination and self-correction, one may help a brother with his fault. The prohibition is not against mutual care within the community but against the arrogant presumption of judging others while exempt from scrutiny oneself. The sequence matters: self-examination first, then service to others.
+
+The word "brother" (adelphos) appears twice. This is not about evaluating strangers or enemies but about conduct within the community of disciples. The warning is addressed to those within the circle of followers about how they treat one another.
+
+---
+
+## The Saying About What Is Holy (v. 6)
+
+"Do not give what is holy to dogs, and do not throw your pearls before swine, lest they trample them underfoot and turn to attack you."
+
+This verse arrives without explicit transition and has often been read as disconnected from its context. But the author's method throughout this discourse has been to present complementary tensions, and this saying balances the preceding prohibition against judging. If vv. 1-5 warned against harsh, hypocritical evaluation of others, v. 6 warns against the opposite error: indiscriminate distribution of what is valuable without any evaluation at all. The two together establish a range: do not set yourself up as condemning judge, but do not abandon discernment entirely.
+
+"Dogs" (kynes) and "swine" (choiroi) were both unclean animals in Israel's purity system (Leviticus 11:7 for swine; dogs were scavengers, associated with impurity in passages like 1 Kings 21:19 and Psalm 22:16). Both terms were used in Jewish discourse to refer to those outside the covenant who were hostile to Israel's holy things. "What is holy" (to hagion) likely refers to sacred teaching or sacred things -- in later rabbinic usage, it was applied to sacrificial meat that must not be fed to dogs. "Pearls" (margaritas) represent what is precious and costly.
+
+The warning is practical: some recipients will not merely ignore what is offered but will respond with contempt and violence -- "trample them underfoot and turn to attack you." The author is not contradicting the command to love enemies (5:44) but recognizing that discernment is required in determining when and how to share what is sacred. The community of disciples needs judgment -- not the condemning kind prohibited in vv. 1-2, but the discerning kind that recognizes when teaching will be received and when it will provoke destruction.
+
+---
+
+## Confidence in the Father's Generosity (vv. 7-11)
+
+"Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened."
+
+The three imperatives -- ask (aiteite), seek (zeteite), knock (krouete) -- are all present tense, indicating continuous or habitual action: keep asking, keep seeking, keep knocking. The three passive constructions that follow -- "it will be given," "you will find," "it will be opened" -- are divine passives: God is the one who gives, who allows finding, who opens. The repetition in verse 8 restates the promise in universal terms: "everyone" (pas) who asks, seeks, knocks receives a response.
+
+This passage follows naturally from 6:25-34, where the Father was presented as the one who knows what his children need before they ask. It also connects to the model prayer of 6:9-13, where the disciples were taught to bring their needs to the Father directly. If the Father already knows (6:8, 32) and already provides (6:26, 30), why ask? Because prayer, as the author has presented it, is not about informing God but about the posture of dependence. The act of asking expresses trust. The act of seeking expresses desire for the kingdom. The act of knocking expresses persistent confidence that the door will open. The command to ask is a command to maintain the orientation established at 6:33 -- seeking first the kingdom.
+
+### The Father's Character as Guarantee (vv. 9-11)
+
+"Or which one of you, if his son asks him for bread, will give him a stone? Or if he asks for a fish, will give him a serpent? If you then, who are evil (poneroi ontes), know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!"
+
+The argument is again a fortiori -- from the lesser to the greater. Human fathers, despite being "evil" (poneros, the same word used for the "evil eye" in 6:23 and "the evil one" in 6:13), possess enough natural affection to respond appropriately to their children's requests. A stone resembles a round loaf of bread; a serpent resembles a fish. The point is that even flawed human fathers do not mock their children by offering a dangerous or worthless counterfeit in place of what was requested.
+
+The concession "you who are evil" is striking. Jesus does not soften or qualify this assessment of human moral condition. Even those who are his disciples, even those being taught to pray "Our Father," are described as poneros. The argument's force depends on the gap between human evil and divine goodness: if even evil people give good gifts to their children, "how much more" (poso mallon) will the Father -- who is not evil, who is wholly good -- give good things to those who ask?
+
+The word "good things" (agatha) is unspecified. The author does not limit what the Father gives to material provision (though that was the subject in 6:25-34). In the context of the discourse as a whole, the "good things" would include everything the disciples have been taught to seek: the kingdom, righteousness, forgiveness, deliverance from evil, daily bread. The Father's giving is characterized by its generosity and appropriateness -- he gives what is genuinely good, not counterfeit substitutes.
+
+---
+
+## The Summary Principle (v. 12)
+
+"So whatever you wish that others would do to you, do also to them, for this is the Torah and the Prophets."
+
+The word "so" (oun, "therefore") connects this saying to everything that has preceded it. It is not an isolated ethical maxim but a conclusion drawn from the discourse's argument. The logic runs: because the Father is generous to those who ask (vv. 7-11), and because the Father measures to you as you measure to others (vv. 1-2), and because forgiveness given is forgiveness received (6:14-15), therefore treat others as you wish to be treated.
+
+The formulation is positive: "whatever you wish that others would do to you, do also to them." This is not merely the avoidance of harm (which would be the negative form, attested in Tobit 4:15: "What you hate, do not do to anyone") but the active pursuit of the other's good. The positive form is more demanding. Refraining from stealing is the negative; providing for someone's need is the positive. The author's Jesus requires the active form.
+
+The concluding phrase, "this is the Torah and the Prophets" (houtos gar estin ho nomos kai hoi prophetai), is the second bookend of a frame the author opened at 5:17: "Do not think that I have come to abolish the Torah or the Prophets; I have not come to abolish them but to fulfill them." At 5:17, Jesus declared his continuity with Torah and Prophets. Now at 7:12, he provides the summary of what Torah and Prophets demand. The entire discourse between these two statements -- all the antitheses, all the instructions on piety, all the teaching on anxiety and treasure and prayer -- is an exposition of what the Torah and Prophets actually require. And its essence is this: treat others as you would want to be treated.
+
+This is consistent with how other first-century Jewish teachers summarized the Torah. The Talmud records that when Hillel was asked to teach the whole Torah while standing on one foot, he replied: "What is hateful to you, do not do to your neighbor. That is the whole Torah; the rest is commentary. Go and learn" (Shabbat 31a). Jesus's positive formulation goes beyond Hillel's negative one, but both share the conviction that the Torah can be distilled to a relational principle. The author places this summary at the pivot point of the chapter, marking the transition from instruction to warning.
+
+---
+
+## The Two Gates and Two Roads (vv. 13-14)
+
+"Enter through the narrow gate. For the gate is wide and the road is broad that leads to destruction, and those who enter through it are many. For the gate is narrow and the road is hard that leads to life, and those who find it are few."
+
+The author now shifts from instruction to a series of four binary warnings, each dividing hearers into two groups. This is the first. The images are spatial: two gates and two roads. One gate is wide (plateia), its road broad (eurychoros), and it leads to destruction (apoleian). The other gate is narrow (stene), its road compressed or afflicted (tethlimmene, from thlibo, "to press, to afflict" -- the same root as thlipsis, "tribulation"), and it leads to life (zoen).
+
+The word tethlimmene deserves attention. The road that leads to life is not merely narrow in a spatial sense but is characterized by pressure and affliction. This connects to the declarations of blessedness in 5:10-12, where persecution for righteousness' sake was identified as the condition of those who belong to the kingdom. The road to life is hard precisely because the conduct Jesus has been describing -- turning the other cheek, loving enemies, giving without recognition, forgiving those who wrong you, refusing to serve mammon -- brings pressure and opposition from the world that operates on contrary principles.
+
+The sorting is stark: "many" (polloi) enter through the wide gate; "few" (oligoi) find the narrow one. The verb "find" (heuriskontes) is significant -- the narrow gate must be found, which implies it is not obvious. The wide gate requires no searching; the broad road is the default path. The narrow gate requires intentional seeking, which recalls the command of verse 7: "seek, and you will find." The few who find the narrow gate are those who have been actively seeking. The many who enter the wide gate are those who take the path of least resistance.
+
+The author does not identify who constitutes the "many" and "few" in concrete terms. The warning is addressed to the disciples and the crowds listening. The implication is that hearing this very discourse does not automatically place a person on the narrow road. What matters is not hearing but doing -- a point the author will make explicit in the chapter's closing parable.
+
+---
+
+## Recognizing by Fruit (vv. 15-20)
+
+"Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves."
+
+The warning shifts from the general danger of the wide road to a specific danger: false prophets (pseudopropheton) who enter the community of disciples disguised. The image of sheep's clothing and wolves is drawn from Israel's prophetic tradition. Ezekiel 22:27 describes Israel's leaders: "Her officials within her are like wolves tearing the prey, shedding blood, destroying lives to get dishonest gain." Zephaniah 3:3: "Her officials within her are roaring lions; her judges are evening wolves." The false prophet problem was not new. Jeremiah 23:16 warns: "Do not listen to the words of the prophets who prophesy to you, filling you with vain hopes. They speak visions of their own minds, not from the mouth of the LORD." Deuteronomy 13:1-5 provided procedures for identifying and responding to false prophets.
+
+The image of wolves in sheep's clothing indicates that these false prophets will be difficult to identify by appearance or profession. They look like members of the flock. They speak the language of the community. The deception is external -- "sheep's clothing" (endymata probaton) -- while the reality is internal: "inwardly" (esothen) they are predatory. This echoes the concern throughout the discourse about the gap between outward appearance and inward reality, which has been the author's consistent theme since the denunciation of the hypocrites in chapter 6.
+
+### The Fruit Test (vv. 16-20)
+
+"You will recognize them by their fruits. Are grapes gathered from thornbushes, or figs from thistles? So, every good tree bears good fruit, but the bad tree bears bad fruit. A good tree cannot bear bad fruit, nor can a bad tree bear good fruit. Every tree that does not bear good fruit is cut down and thrown into the fire. Thus you will recognize them by their fruits."
+
+The test Jesus provides is not doctrinal examination or prophetic accuracy (Deuteronomy 18:22 used fulfillment as a test) but fruit -- the observable outcomes of a person's life and teaching. The word "fruits" (karpois) here refers to conduct, the visible results of what a person actually is. The botanical analogy is simple and forceful: the nature of the tree determines the nature of the fruit. A thornbush (akanthon) does not produce grapes; a thistle (triboloi) does not produce figs. The identification is not arbitrary but organic -- what a thing is determines what it produces.
+
+The language echoes John the Baptist's warning at 3:10: "Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into the fire." The same image, the same consequence. The author creates continuity between John's announcement and Jesus's teaching: the demand for fruit -- for actual, visible, evaluable conduct -- has been consistent from the beginning.
+
+The repetition of "you will recognize them by their fruits" (apo ton karpon auton epignosesthe autous) in both verse 16 and verse 20 forms an inclusio, bracketing the botanical illustrations as a unit. The verb epiginosko means to know fully, to recognize clearly. Despite the difficulty of detecting wolves in sheep's clothing, the fruit test provides a reliable method over time. Conduct eventually reveals character. The disguise cannot be maintained indefinitely because the inner nature of the tree will inevitably express itself in what it produces.
+
+This section demands the very discernment that verse 6 called for and that vv. 1-5 clarified: not condemning judgment but careful evaluation. The community must be capable of recognizing false prophets by their fruit without becoming hypocritical judges who ignore their own failures.
+
+---
+
+## The Insufficiency of Profession Without Practice (vv. 21-23)
+
+"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven."
+
+This is one of the most consequential statements in the entire discourse. The address "Lord, Lord" (Kyrie, Kyrie) is the language of allegiance, confession, and worship. The doubled vocative intensifies it -- these are not casual or halfhearted speakers. They address Jesus with the title Kyrios, which in the LXX regularly translates the divine name YHWH. Whether or not these speakers understand the full weight of the title, they are using the most respectful and submissive form of address available. And Jesus says it is not enough.
+
+The criterion for entering the kingdom of heaven is not verbal profession -- not saying the right words, not confessing the right title -- but "doing the will of my Father who is in heaven" (ho poion to thelema tou patros mou tou en tois ouranois). The will of the Father is precisely what the model prayer asked to be done "on earth as it is in heaven" (6:10). The will of the Father is what the entire discourse has been defining: the exceeding righteousness of 5:20, the hidden piety of 6:1-18, the undivided loyalty of 6:24, the active love summarized in 7:12. Doing this will is the sole criterion for entry.
+
+The author's Jesus implicitly claims the authority to determine who enters the kingdom. The statement "not everyone who says to me" positions Jesus as the one to whom allegiance is directed and the one who evaluates whether that allegiance is genuine. The kingdom of heaven has a gatekeeper, and it is Jesus himself.
+
+### The Day of Judgment Scene (vv. 22-23)
+
+"On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?' And then will I declare to them, 'I never knew you; depart from me, you workers of lawlessness.'"
+
+"On that day" (en ekeine te hemera) is a phrase with deep roots in the prophetic literature. It refers to the day of the LORD -- the decisive moment of divine judgment (Isaiah 2:11, 17; Amos 8:9; Zephaniah 1:10; Joel 2:31). The author places Jesus as the judge on that day, the one to whom the appeal is made and from whom the verdict comes.
+
+The defendants present an impressive resume. They prophesied (epropheteusamen) -- they spoke on behalf of God. They cast out demons (daimonia exebalomen) -- they exercised spiritual authority. They performed many mighty works (dynameis pollas epoiesamen) -- they did miraculous deeds. And all of this was done "in your name" (to so onomati) -- explicitly invoking Jesus's authority and identity. These are not pagans or outsiders. They are people who operated within the sphere of Jesus's name, who performed the very kinds of acts that chapters 8-10 will show Jesus and his disciples performing. Their credentials are real; the activities they describe may well have happened.
+
+Yet Jesus's response is devastating: "I never knew you" (oudepote egnon hymas). The word "never" (oudepote) is absolute -- not "I once knew you and then stopped," but "at no point did I ever know you." The verb ginosko here carries the Hebrew sense of relational knowledge -- the intimate, covenantal knowing expressed in Amos 3:2, "You only have I known of all the families of the earth," or in Hosea 13:5, "I knew you in the wilderness." Jesus denies any relational bond with these people, despite their use of his name and their spectacular activities.
+
+He then quotes from the Psalms: "Depart from me, you workers of lawlessness" (apochorette ap' emou hoi ergazomenoi ten anomian). The phrase echoes Psalm 6:8 (LXX 6:9): "Depart from me, all you workers of iniquity" (apostete ap' emou pantes hoi ergazomenoi ten anomian). The word anomia means "lawlessness" -- not merely general sinfulness but the condition of living without regard for God's law, God's will, God's instruction. These miracle-workers are called "workers of lawlessness" precisely because, despite their dramatic spiritual activities, they did not do "the will of my Father." They prophesied, exorcised, and performed wonders, but they did not practice the conduct the discourse has been defining: mercy, forgiveness, purity of heart, love of enemies, hidden piety, undivided loyalty.
+
+The implications are severe. Prophesying in Jesus's name does not guarantee relationship with Jesus. Casting out demons in Jesus's name does not guarantee entry into the kingdom. Mighty works performed in Jesus's name do not constitute doing the Father's will. The author draws a sharp line between spiritual power and obedient living. The criterion remains what it was in verse 21: doing the Father's will. Everything else -- no matter how impressive, no matter how publicly validated, no matter how explicitly connected to Jesus's name -- is insufficient.
+
+---
+
+## The Two Builders (vv. 24-27)
+
+"Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock. And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand. And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it."
+
+This parable closes the entire discourse and serves as its final interpretive key. The phrase "these words of mine" (tous logous mou toutous) refers to everything Jesus has said from 5:3 onward. The parable is about the response to this specific teaching.
+
+Both builders hear the same words. The difference is not access to teaching, not quality of instruction, not theological knowledge. Both heard the discourse. The sole differentiator is what they do with what they heard. The wise (phronimos) man hears and does (poiei). The foolish (moros) man hears and does not do (me poion). The author uses the same verb (poieo, "to do") that appeared in verse 21 ("the one who does the will of my Father") and that runs throughout the discourse (5:19, "whoever does and teaches"; 6:1, "practicing your righteousness"; 7:12, "do also to them"). The entire three-chapter discourse has been building toward this single distinction: doing versus not doing.
+
+The testing conditions are identical for both houses: "the rain fell, and the floods came, and the winds blew." The author describes a catastrophic storm -- the kind that exposes the quality of a foundation. The storm is not punishment for the foolish builder or reward for the wise one. Both face the same crisis. The difference is in what the storm reveals about what was there all along. The house on rock stands because the foundation was secure before the storm arrived. The house on sand collapses because the foundation was never adequate, though this was invisible until the storm exposed it.
+
+The rock (petra) and sand (ammos) represent two kinds of foundation for a life: obedience to Jesus's words versus mere hearing. The imagery resonates with Israel's scriptures. In Isaiah 28:16-17, the LORD declares: "Behold, I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation... And I will make justice the line, and righteousness the plumb line; and hail will sweep away the refuge of lies, and waters will overwhelm the shelter." In Ezekiel 13:10-16, false prophets who build a flimsy wall and cover it with whitewash are warned that when the storm comes, the wall will collapse. In both prophetic texts, the storm is an image of divine testing that exposes the difference between genuine and counterfeit foundations.
+
+The phrase "and great was the fall of it" (kai en he ptosis autes megale) ends the parable on a note of finality. The collapse is not partial or reparable. It is total and devastating. The author leaves no middle ground: one either builds on the rock of obedience or on the sand of hearing-without-doing, and the consequences are absolute.
+
+---
+
+## The Conclusion: Authority Unlike the Scribes (vv. 28-29)
+
+"And when Jesus finished these sayings, the crowds were astonished at his teaching, for he was teaching them as one having authority, and not as their scribes."
+
+The author now steps back from the discourse itself and narrates its effect. The formula "and when Jesus finished" (kai egeneto hote etelesen ho Iesous) will recur at the end of each of the five major discourses in this document (7:28, 11:1, 13:53, 19:1, 26:1), marking them as a structural feature of the author's composition.
+
+The crowds' reaction is "astonishment" (exeplessonto, from ekplesso, "to be struck out of one's senses"). They are not merely impressed but stunned. The reason is specified: Jesus taught "as one having authority" (hos exousian echon), "and not as their scribes" (kai ouch hos hoi grammateis auton).
+
+The distinction matters. Scribes taught by citing precedent -- they transmitted and interpreted the tradition of previous authorities. A scribal argument took the form: Rabbi so-and-so says this, but Rabbi so-and-so says that. Authority was derived from the chain of transmission. Jesus has done something entirely different throughout the discourse. He has said, "You have heard that it was said... but I say to you" (5:21-22, 27-28, 31-32, 33-34, 38-39, 43-44). He has not cited other authorities; he has spoken on his own authority. He has not merely interpreted Torah; he has intensified, extended, and in some cases appeared to override its surface provisions in favor of what he presents as its deeper intention. He has presented the model prayer not as received tradition but as his own instruction. He has declared that entry into the kingdom depends on doing "these words of mine." He has placed himself in the position of final judge on "that day."
+
+The crowds perceive this. Whatever conclusions they draw, they recognize that what they have witnessed is categorically different from scribal teaching. The author uses this recognition to close the discourse and prepare for the demonstrations of authority that follow in chapters 8-9.
+
+---
+
+## The Chapter's Function in the Author's Larger Argument
+
+1. **It completes the discourse's movement from instruction to demand.** Chapter 5 defined the standard. Chapter 6 applied it to religious life and material orientation. Chapter 7 insists that the entire teaching is worthless if not practiced. The trajectory is from content (what to do) to crisis (what happens if you do not do it).
+
+2. **It establishes doing as the sole criterion of authentic discipleship.** Hearing, prophesying, exorcising, performing wonders -- none of these substitute for the doing of the Father's will. The author could not be more explicit: "Not everyone who says to me, 'Lord, Lord'" (v. 21). Verbal confession of Jesus as Lord, combined with spectacular spiritual activity in his name, does not secure entry into the kingdom. Only obedient conduct does.
+
+3. **It positions Jesus as judge and standard.** Jesus is the one who determines entry to the kingdom (v. 21), who recognizes or rejects those who claim his name (v. 23), and whose words constitute the foundation on which a life must be built (vv. 24-27). The discourse that began with Jesus seated in the posture of an authoritative teacher concludes with him exercising the authority of a final judge. The crowds' astonishment at his authority (v. 29) confirms what the discourse itself has demonstrated: this is not a scribe offering one more interpretation. This is a figure who speaks with the authority of the one who sent him.
+
+4. **It maintains the binary sorting pattern.** Two gates, two trees, two confessions, two builders -- the chapter presents no middle category. There is no third gate, no neutral tree, no ambiguous foundation. This is consistent with the author's wider pattern: wheat and chaff (3:12), sheep and goats (25:31-46), good and bad fish (13:47-50). The author's Jesus consistently presents the response to his teaching as a forced choice with ultimate consequences.
+
+5. **It closes the frame opened at 5:17.** Jesus began by declaring that he did not come to abolish Torah and Prophets but to fulfill them. He concludes with the golden rule and the statement "this is the Torah and the Prophets" (v. 12). Everything between these two markers -- the antitheses, the hidden piety, the Lord's prayer, the anxiety teaching, the warnings about judgment and fruit -- constitutes the author's presentation of what Torah and Prophets, properly understood, actually demand. The fulfillment Jesus brings is not abstract but concrete: it is the life described in this discourse, and the narrow gate that leads to it.
+
+6. **It redefines the relationship between knowledge and salvation.** The foolish builder heard every word the wise builder heard. The workers of lawlessness prophesied, exorcised, and performed miracles in Jesus's name. Access to Jesus's teaching and even the exercise of spiritual power in his name do not constitute the relationship Jesus calls "knowing" (v. 23). The only thing that constitutes that relationship is doing the Father's will. The author drives this point home with devastating clarity: proximity to Jesus's words without obedience to them is the sand foundation that collapses under testing.

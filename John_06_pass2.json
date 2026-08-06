@@ -1,0 +1,96 @@
+{
+  "book": "John",
+  "chapter": 6,
+  "sections": [
+    {
+      "reference": "6:1-4",
+      "section_title": "Setting -- The Sea, the Mountain, the Crowd, the Passover",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus crosses the Sea of Galilee, ascends a mountain with his disciples, and the author notes that Passover is near — establishing the exodus typology that controls the chapter."
+    },
+    {
+      "reference": "6:5-13",
+      "section_title": "The Feeding of the Multitude",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus tests Philip, then feeds five thousand from five barley loaves and two fish, with twelve baskets of fragments remaining; the command to gather fragments 'so that nothing will be lost' uses the same verb (apollymi) that will reappear in verse 39 about losing none of the Father's gift."
+    },
+    {
+      "reference": "6:14-15",
+      "section_title": "The Crowd's Response -- The Prophet and the Attempt to Make Him King",
+      "category": "NOT_APPLICABLE",
+      "summary": "The crowd identifies Jesus as the prophet like Moses and attempts to make him king by force, but Jesus withdraws to the mountain alone."
+    },
+    {
+      "reference": "6:16-21",
+      "section_title": "Jesus on the Sea",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus walks on the sea to his disciples at night, identifies himself with 'I am; do not be afraid,' and the boat immediately reaches the shore — completing the exodus pattern of bread in the wilderness followed by passage through the sea."
+    },
+    {
+      "reference": "6:22-27",
+      "section_title": "The Crowd Seeks Jesus -- Perishable and Imperishable Food",
+      "category": "NOT_APPLICABLE",
+      "summary": "The crowd pursues Jesus across the sea; Jesus diagnoses their motive as seeking bread rather than recognizing signs, and commands them to work for the food that endures to eternal life rather than the food that perishes."
+    },
+    {
+      "reference": "6:28-34",
+      "section_title": "The Work of God, the Bread from Heaven",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "When the crowd asks what works God requires, Jesus answers that the work of God is 'that you believe in him whom he has sent' — using the present-tense subjunctive pisteuete, indicating ongoing belief; the crowd then invokes Moses and the manna, and Jesus corrects their understanding by identifying the Father as the true source of the bread from heaven.",
+      "relevance": "Jesus redefines the 'work of God' as a single, continuous activity: believing (present tense) in the one God sent. The present-tense subjunctive pisteuete indicates that this 'work' is not a one-time act but an ongoing orientation. If the work God requires is ongoing believing, then the believer's standing is maintained through ongoing faith rather than secured by a past moment of initial belief.",
+      "key_phrases": ["this is the work of God, that you believe in him whom he has sent", "pisteuete — present tense subjunctive, ongoing belief"],
+      "confidence": "low"
+    },
+    {
+      "reference": "6:35-40",
+      "section_title": "I Am the Bread of Life -- The First Declaration",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Jesus declares 'I am the bread of life,' promises that the one who comes will never hunger and the one who believes will never thirst, states that all the Father gives him will come and he will certainly not cast out the one who comes, and that it is the Father's will that he lose nothing but raise it up on the last day — with the individual condition being present-tense beholding and believing.",
+      "relevance": "This is a major proof-text for permanence. The promise language is emphatically strong: 'I will certainly not cast out' (ou me ekbalo exo — strongest negation in Greek), 'I lose nothing' (me apoleso), and 'I will raise him up on the last day.' These directly address whether Jesus would reject someone who comes to him. However, the neutral reading identifies two important qualifications. First, the 'not cast out' promise is specifically about Jesus's own action — he guarantees he will not be the one to reject. The promise addresses the fear of being rejected upon arrival, not the question of whether one can depart voluntarily. Second, verse 40 states the individual condition with present-tense participles: 'everyone who beholds the Son and believes in him' (theoron, pisteuon — continuous action). The neutral reading explicitly states that the Father's giving and the individual's believing are 'two perspectives on the same reality' and that 'the all that the Father gives is not a fixed group determined apart from human response.' The promises are genuinely strong, but they are framed within present-tense conditions.",
+      "key_phrases": ["I am the bread of life", "the one who comes to me I will certainly not cast out", "all that the Father gives me will come to me", "I lose nothing but raise it up on the last day", "everyone who beholds the Son and believes in him will have eternal life", "theoron, pisteuon — present tense participles"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:41-51",
+      "section_title": "The Grumbling, the Father's Drawing, and the Living Bread",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_permanence",
+      "summary": "The crowd grumbles (echoing Israel's wilderness rebellion), and Jesus responds that no one can come to him unless the Father draws him; the mechanism of drawing is defined as teaching — 'they shall all be taught of God; everyone who has heard and learned from the Father comes to me'; Jesus contrasts the manna (which sustained temporarily) with the living bread that gives life forever.",
+      "relevance": "The 'drawing' language (helkyo) is conventionally cited to support permanence through irresistible divine grace, but the neutral reading reveals that the mechanism of drawing is defined in verse 45 as teaching: 'everyone who has heard and learned from the Father comes to me.' The Father draws by teaching, and those who hear and learn respond by coming. This is not mechanical compulsion but the attractive power of God's self-disclosure, consistent with Jeremiah 31:3 ('I have drawn you with lovingkindness'). The author's own usage in 12:32 defines the scope of drawing as universal: 'I will draw all people to myself.' If drawing is through teaching (which can be resisted — the grumblers in this very passage resist it) rather than irresistible compulsion, then the believer's coming is a genuine response that could in principle be reversed. The 'live forever' promise (v. 51) is strong but conditional: 'if anyone eats' (ean tis phage).",
+      "key_phrases": ["no one can come to me unless the Father draws him", "they shall all be taught of God", "everyone who has heard and learned from the Father comes to me", "drawing is through teaching, not compulsion", "if anyone eats of this bread he will live forever", "the grumbling echoes Israel's wilderness rebellion"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:52-59",
+      "section_title": "Eating Flesh and Drinking Blood",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus intensifies the bread-of-life discourse by declaring that his flesh must be eaten and his blood must be drunk for one to have life; the one eating and drinking abides in Jesus and Jesus in him, with present-tense participles (ho trogon) describing continuous activity throughout.",
+      "relevance": "The neutral reading notes that the present-tense participle ho trogon ('the one eating/gnawing') describes continuous, ongoing activity — not a one-time act. The result of this ongoing eating and drinking is mutual abiding: 'he who eats my flesh and drinks my blood abides in me, and I in him' (menei, from meno). The neutral reading explicitly connects this abiding language to chapter 15 (vine and branches), noting that 'the abiding is not automatic or irreversible in chapter 15 — branches that do not abide are removed and wither.' The abiding described here is 'the condition of the one who is currently eating and drinking — the present-tense participles describe what is happening now, not a guaranteed future state.' This makes the mutual indwelling conditional on the ongoing activity of participation in Christ.",
+      "key_phrases": ["unless you eat the flesh of the Son of Man and drink his blood you have no life", "the one eating my flesh and drinking my blood has eternal life", "ho trogon — present tense, continuous eating", "abides in me and I in him", "menei — the abiding is conditioned on ongoing participation"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:60-66",
+      "section_title": "Many Disciples Withdraw",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Many of Jesus's disciples find the teaching intolerable and withdraw, no longer walking with him; Jesus identifies unbelief among them and states that no one can come to him unless it has been granted by the Father.",
+      "relevance": "This is the most direct demonstration in the document that following Jesus can be abandoned. The neutral reading emphasizes several critical points. First, these are mathetai — disciples, learners, followers who had been walking with Jesus. Second, 'the text does not describe them as having been false disciples all along, nor does it say they never truly followed.' Third, the imperfect tense periepatoun ('were walking') implies they had been walking with Jesus previously and now stopped. Fourth, the language of departure ('went back,' apelthon eis ta opiso) echoes the LXX vocabulary for Israel's apostasy. The departure proves that proximity to Jesus, exposure to his teaching, and initial following do not constitute a permanent, irreversible state. The author records the departure as historical fact, not as an unveiling of people who were never genuine followers.",
+      "key_phrases": ["many of his disciples withdrew", "were not walking with him anymore", "periepatoun — imperfect tense, they had been walking", "went back — apelthon eis ta opiso, echoing Israel's apostasy language", "there are some of you who do not believe", "no one can come to me unless it has been granted him from the Father"],
+      "confidence": "high"
+    },
+    {
+      "reference": "6:67-71",
+      "section_title": "Peter's Confession and the Identification of Judas",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus asks the Twelve whether they also wish to leave; Peter confesses that Jesus has the words of eternal life and they have believed and come to know that he is the Holy One of God; Jesus responds that he chose the Twelve yet one of them is a devil, referring to Judas.",
+      "relevance": "The passage demonstrates that election does not guarantee faithfulness. Jesus chose (exelexamen) the Twelve — using the same verb (eklegomai) that describes God's election of Israel in the LXX. Yet one of the chosen is 'a devil.' The neutral reading explicitly states: 'Election does not override the agency of the one elected. This mirrors the pattern of Israel's election throughout the Hebrew scriptures: God chose Israel, yet many within Israel proved faithless.' Jesus's question to the Twelve — 'You do not want to go away also, do you?' — acknowledges their freedom to leave, implying no compulsion to remain. Peter's perfect-tense verbs ('we have believed and have come to know') describe an established and persisting commitment, modeling the ongoing faith the discourse demands. The juxtaposition of Peter's confession with Judas's identification warns that even within the elected group, betrayal is possible.",
+      "key_phrases": ["did I not choose you the twelve", "yet one of you is a devil", "eklegomai — the verb for God's election of Israel", "election does not override agency", "you do not want to go away also, do you", "we have believed and have come to know"],
+      "confidence": "medium"
+    }
+  ]
+}

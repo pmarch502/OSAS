@@ -1,0 +1,52 @@
+{
+  "book": "John",
+  "chapter": 10,
+  "sections": [
+    {
+      "reference": "10:1-6",
+      "section_title": "The Sheepfold Figure",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus presents the figure of the sheepfold: the shepherd enters through the door, calls his own sheep by name, and leads them out; the sheep follow him because they know his voice but flee from strangers; the audience does not understand the figure."
+    },
+    {
+      "reference": "10:7-10",
+      "section_title": "I Am the Door",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares 'I am the door of the sheep' — whoever enters through him will be saved, will go in and out, and will find pasture; he contrasts the thief who comes to steal, kill, and destroy with his own purpose of giving life abundantly."
+    },
+    {
+      "reference": "10:11-18",
+      "section_title": "The Good Shepherd Lays Down His Life",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares 'I am the good shepherd' who lays down his life for the sheep, in contrast to the hired hand who abandons them to the wolf; he knows his own and his own know him, just as the Father knows him and he knows the Father; he has other sheep not of this fold whom he must also bring; no one takes his life — he lays it down voluntarily and takes it up again by the Father's command."
+    },
+    {
+      "reference": "10:19-21",
+      "section_title": "Division Over Jesus's Words",
+      "category": "NOT_APPLICABLE",
+      "summary": "The crowd divides again — some accuse Jesus of having a demon and being mad, while others point to his words and deeds (especially the healing of the blind man) as evidence against demonic possession."
+    },
+    {
+      "reference": "10:22-30",
+      "section_title": "My Sheep Hear My Voice; the Father and I Are One",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "At the Feast of Dedication (Hanukkah), the authorities demand Jesus tell them plainly whether he is the Christ; Jesus responds that his works testify but they do not believe because they are not his sheep; his sheep hear his voice, he knows them, they follow him, he gives them eternal life, they will never perish, and no one will snatch them from his hand or from the Father's hand; Jesus concludes 'I and the Father are one.'",
+      "relevance": "This is one of the most widely cited proof-texts for permanence in the entire New Testament, and the promise language is genuinely strong. Three elements support permanence: (1) 'they will never perish' (ou me apolontai eis ton aiona — strongest Greek negation with 'forever'); (2) 'no one will snatch them out of my hand' (ouch harpasei tis auta ek tes cheiros mou); (3) the Father's hand provides a second layer of security ('no one is able to snatch them out of the Father's hand'). These promises are emphatic and unconditional in form. However, the neutral reading identifies critical qualifications that the conventional permanence reading overlooks. First, the verbs that define sheep identity are present tense: 'my sheep hear my voice' (akouei — present), 'I know them' (ginosko — present), 'they follow me' (akolouthousin — present). The sheep are identified by their ongoing activity of hearing and following, not by a past moment of initial response. Second, 'no one will snatch them' (harpazo) addresses external threats — predators, thieves, hostile forces — not voluntary departure. The verb harpazo is the same word used in verse 12 for the wolf's predatory action, making the promise specifically about protection from external forces, not a guarantee against voluntary departure. The document has already demonstrated at 6:60-66 that disciples can voluntarily withdraw; Jesus asked the Twelve 'you do not want to go away also, do you?' — acknowledging their freedom to leave. Third, the neutral reading explicitly states: 'The passage protects against predation; it does not address the sheep that wanders.' The Ezekiel 34 background itself includes judgment between sheep within the flock (34:17-22), indicating that not all within the flock remain faithful. The passage is rated LEANS_PERMANENT rather than STRONG_PERMANENT because while the promise language is among the strongest in the document, the present-tense grammar of sheep identity and the limitation of the protection to external threats (not voluntary departure) introduce genuine qualification.",
+      "key_phrases": ["my sheep hear my voice", "I give them eternal life", "they will never perish", "ou me apolontai — strongest negation", "no one will snatch them out of my hand", "no one is able to snatch them out of the Father's hand", "akouei, akolouthousin — present tense, ongoing hearing and following", "harpazo addresses external threats, not voluntary departure", "the passage protects against predation; it does not address the sheep that wanders", "I and the Father are one"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "10:31-39",
+      "section_title": "The Stoning Attempt and the Appeal to Psalm 82",
+      "category": "NOT_APPLICABLE",
+      "summary": "The authorities take up stones; Jesus appeals to his works and to Psalm 82 ('you are gods') as an a fortiori argument for calling himself God's Son; the authorities try to seize him but he escapes."
+    },
+    {
+      "reference": "10:40-42",
+      "section_title": "Beyond the Jordan",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus goes back across the Jordan to the place where John first baptized; many come to him there and believe, saying that everything John said about him was true."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "book": "Galatians",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-5",
+      "section_title": "The Greeting as Argument",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul asserts his apostolic authority as divinely sourced and defines Christ's work as completed deliverance from the present evil age, according to God's will."
+    },
+    {
+      "reference": "1:6-10",
+      "section_title": "The Rebuke and the Anathema",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul expresses astonishment that the Galatians are in the process of deserting the God who called them in grace and turning to a qualitatively different gospel, and pronounces a double anathema on anyone who preaches contrary to the gospel they received.",
+      "relevance": "The present tense of 'deserting' (metatithesthe) indicates that believers who were called into the sphere of grace can actively transfer themselves out of it. The verb describes changing allegiance -- going over to the other side. Paul's language presupposes that the calling into grace does not prevent the called from abandoning the caller, implying that the believer's standing is not automatically preserved against volitional departure. The connection between the sphere of grace and the believer's position -- developed fully in 5:4 -- is introduced here at the letter's outset.",
+      "key_phrases": ["you are so quickly deserting him who called you in the grace of Christ", "turning to a different gospel"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:11-12",
+      "section_title": "The Gospel's Divine Origin",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul declares that the gospel he preaches is not of human origin but came through a direct revelation of Jesus Christ."
+    },
+    {
+      "reference": "1:13-14",
+      "section_title": "Paul's Former Life in Judaism",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes his former life of violent persecution of God's assembly and extreme zeal for ancestral traditions as evidence that his gospel could not have developed from his prior commitments."
+    },
+    {
+      "reference": "1:15-17",
+      "section_title": "The Call -- Prophetic Language and Independent Action",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes his calling in the language of the prophetic commissions of Jeremiah and Isaiah, emphasizing that God set him apart before birth and revealed his Son in Paul for the purpose of preaching among the Gentiles."
+    },
+    {
+      "reference": "1:18-20",
+      "section_title": "The Brief Visit to Jerusalem",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul recounts his brief fifteen-day visit to Cephas three years after his call, during which he saw no other apostle except James, and swears an oath to the accuracy of his account."
+    },
+    {
+      "reference": "1:21-24",
+      "section_title": "The Judean Churches -- Unknown in Person, Known by Reputation",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reports that the Judean churches, who had never met him, heard reports that the former persecutor was now preaching the faith and glorified God because of him."
+    }
+  ]
+}

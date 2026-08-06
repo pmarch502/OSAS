@@ -1,0 +1,74 @@
+{
+  "book": "Luke",
+  "chapter": 10,
+  "sections": [
+    {
+      "reference": "10:1-4",
+      "section_title": "The Sending of the Seventy(-Two)",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus appoints seventy(-two) others and sends them ahead as advance messengers, with instructions to travel light and greet no one on the way, framing the mission as both an extension of authority and a signal of universal scope."
+    },
+    {
+      "reference": "10:5-9",
+      "section_title": "Instructions for Reception",
+      "category": "NOT_APPLICABLE",
+      "summary": "The missionaries are to pronounce peace on receptive households, remain in one house accepting hospitality, heal the sick, and announce that the kingdom of God has come near."
+    },
+    {
+      "reference": "10:10-12",
+      "section_title": "Instructions for Rejection",
+      "category": "NOT_APPLICABLE",
+      "summary": "Cities that reject the messengers are to be publicly denounced through the dust-shaking gesture, with the declaration that the kingdom has come near regardless of their response and that their judgment will exceed Sodom's."
+    },
+    {
+      "reference": "10:13-16",
+      "section_title": "Woes on the Cities of Galilee",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus pronounces prophetic woes on Chorazin, Bethsaida, and Capernaum for failing to repent despite witnessing his mighty works, declaring that Gentile cities would have responded more readily and establishing the chain of representation between the messengers, Jesus, and God."
+    },
+    {
+      "reference": "10:17-20",
+      "section_title": "The Return of the Seventy",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The seventy return reporting that demons submit to them in Jesus's name, and Jesus redirects their joy from the power they exercise to the deeper reality that their names are recorded in heaven.",
+      "relevance": "Jesus distinguishes between delegated power (which is temporary and tied to mission) and identity before God (names recorded in heaven), presenting the latter as the more enduring ground for joy. The contrast between revocable power and recorded names suggests that the believer's standing before God has a permanence that functional authority does not. However, the neutral reading notes the Exodus 32:32-33 background, where God says 'whoever has sinned against Me, I will blot him out of My book,' indicating that the register is not unconditionally permanent.",
+      "key_phrases": ["do not rejoice in this, that the spirits are subject to you, but rejoice that your names are recorded in heaven"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "10:21-24",
+      "section_title": "Jesus's Thanksgiving and the Disciples' Privilege",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus rejoices in the Holy Spirit, thanking the Father for hiding revelation from the wise and revealing it to infants, declares his exclusive mutual knowledge with the Father, and privately tells the disciples they are seeing what prophets and kings longed to see."
+    },
+    {
+      "reference": "10:25-29",
+      "section_title": "The Lawyer's Question",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "A lawyer tests Jesus with the question of how to inherit eternal life, and Jesus directs him back to the Torah's own answer -- love God totally and love your neighbor as yourself -- affirming it with the phrase 'do this and you will live.'",
+      "relevance": "Jesus affirms that eternal life is connected to ongoing doing: 'do this and you will live' echoes Leviticus 18:5, tying life to sustained obedience rather than to a single moment of commitment. The present imperative 'do' implies continuous action, and the lawyer's knowledge of the right answer is distinguished from the actual doing of it, suggesting that knowing the way to life and walking in it are not the same thing.",
+      "key_phrases": ["do this and you will live", "What shall I do to inherit eternal life"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "10:30-35",
+      "section_title": "The Parable of the Good Samaritan",
+      "category": "NOT_APPLICABLE",
+      "summary": "A man is beaten and left half dead on the Jericho road; a priest and Levite pass by, but a Samaritan shows costly compassion, dismantling ethnic and religious boundaries around the command to love one's neighbor."
+    },
+    {
+      "reference": "10:36-37",
+      "section_title": "The Reversal of the Question",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus transforms the lawyer's question from 'who qualifies as my neighbor' to 'which person proved to be a neighbor,' shifting the focus from identifying recipients of love to becoming the kind of person who shows mercy."
+    },
+    {
+      "reference": "10:38-42",
+      "section_title": "Martha and Mary",
+      "category": "NOT_APPLICABLE",
+      "summary": "Mary sits at Jesus's feet listening to his word while Martha is distracted by preparations; Jesus declares that Mary has chosen the one necessary thing, which will not be taken away from her."
+    }
+  ]
+}

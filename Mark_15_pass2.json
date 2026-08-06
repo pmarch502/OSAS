@@ -1,0 +1,60 @@
+{
+  "book": "Mark",
+  "chapter": 15,
+  "sections": [
+    {
+      "reference": "15:1-5",
+      "section_title": "Jesus Before Pilate",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Sanhedrin hands Jesus over to Pilate; Pilate asks if he is the King of the Jews; Jesus answers ambiguously ('You say so') and then falls silent before the accusations, fulfilling the Suffering Servant's silence of Isaiah 53:7."
+    },
+    {
+      "reference": "15:6-15",
+      "section_title": "Barabbas and the Crowd's Choice",
+      "category": "NOT_APPLICABLE",
+      "summary": "The crowd, stirred by the chief priests, chooses the release of Barabbas (an insurrectionist whose name means 'son of the father') over Jesus; Pilate, wishing to satisfy the crowd rather than render justice, has Jesus flogged and hands him over for crucifixion."
+    },
+    {
+      "reference": "15:16-20",
+      "section_title": "The Soldiers' Mockery -- An Ironic Enthronement",
+      "category": "NOT_APPLICABLE",
+      "summary": "Roman soldiers perform a mock coronation with purple cloak, crown of thorns, and the salute 'Hail, King of the Jews,' parodying imperial ceremony in a scene the author presents as ironically true -- every mocking gesture unwittingly enacts the real enthronement of Jesus."
+    },
+    {
+      "reference": "15:21",
+      "section_title": "Simon of Cyrene",
+      "category": "NOT_APPLICABLE",
+      "summary": "Simon of Cyrene, a bystander identified as the father of Alexander and Rufus, is compelled by soldiers to carry Jesus's cross -- literally doing what the disciples were called to do figuratively (8:34) while the disciples themselves are absent."
+    },
+    {
+      "reference": "15:22-26",
+      "section_title": "The Crucifixion",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus is crucified at Golgotha at the third hour, refuses wine mixed with myrrh, and the soldiers divide his garments by casting lots (fulfilling Psalm 22:18); the inscription of the charge reads 'The King of the Jews,' functioning as both criminal charge and christological proclamation."
+    },
+    {
+      "reference": "15:27-32",
+      "section_title": "The Mockery at the Cross",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus is crucified between two rebels (occupying the 'right and left' positions James and John requested), mocked by passersby who shake their heads (Psalm 22:7), and taunted by the chief priests who declare 'He saved others; He cannot save himself' -- a statement the author presents as profoundly true in ways the mockers do not intend, since the ransom logic of 10:45 requires that saving others and saving himself are mutually exclusive."
+    },
+    {
+      "reference": "15:33-39",
+      "section_title": "Darkness, Death, the Veil, and the Centurion",
+      "category": "NOT_APPLICABLE",
+      "summary": "Darkness covers the land from the sixth to the ninth hour; Jesus cries Psalm 22:1 ('My God, my God, why have you forsaken me?'), invoking a psalm that moves from abandonment through deliverance to universal worship; at his death the temple veil tears from top to bottom (divine action removing the barrier between God and humanity, using the same verb as the heavens 'tearing' at baptism in 1:10); and a Roman centurion declares 'Truly this Man was God's Son,' completing the christological arc from the narrator's opening (1:1) through the divine voice (1:11, 9:7) to this Gentile confession at the cross."
+    },
+    {
+      "reference": "15:40-41",
+      "section_title": "The Women Who Watched",
+      "category": "NOT_APPLICABLE",
+      "summary": "Women who followed and served Jesus in Galilee -- Mary Magdalene, Mary the mother of James and Joses, Salome, and many others -- are identified as watching from a distance, having remained present through the crucifixion while the male disciples fled."
+    },
+    {
+      "reference": "15:42-47",
+      "section_title": "The Burial",
+      "category": "NOT_APPLICABLE",
+      "summary": "Joseph of Arimathea, a respected council member waiting for the kingdom of God, boldly asks Pilate for the body; the centurion confirms death; Joseph wraps the body in linen and places it in a rock-hewn tomb sealed with a stone; Mary Magdalene and Mary the mother of Joses observe the burial location, maintaining the chain of witness."
+    }
+  ]
+}

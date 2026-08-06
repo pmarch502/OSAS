@@ -1,0 +1,56 @@
+{
+  "book": "Matthew",
+  "chapter": 6,
+  "sections": [
+    {
+      "reference": "6:1",
+      "section_title": "The Thesis Statement on Practiced Righteousness",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this verse warns against performing religious acts for human recognition, establishing that the orientation of an act -- toward human approval or toward the Father -- determines whether it receives the Father's reward."
+    },
+    {
+      "reference": "6:2-4",
+      "section_title": "Giving to the Needy",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage contrasts almsgiving performed as public theater (which has already received its full payment from the human audience) with giving done in secrecy, which the Father who sees in secret will reward."
+    },
+    {
+      "reference": "6:5-13",
+      "section_title": "Prayer and the Model Prayer",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage contrasts public performance prayer and empty Gentile repetition with private prayer to the Father, introducing a model prayer structured as three petitions oriented toward God (name, kingdom, will) and three toward human need (bread, forgiveness, deliverance), redefining prayer as alignment with the Father's purposes rather than technique for securing divine attention."
+    },
+    {
+      "reference": "6:14-15",
+      "section_title": "The Author's Commentary on Forgiveness",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage is the sole petition from the model prayer singled out for elaboration, establishing a stark binary: forgiveness given to others results in forgiveness received from the Father; forgiveness withheld results in the Father's forgiveness withheld.",
+      "relevance": "This passage directly and unambiguously makes the Father's forgiveness -- a foundational component of the believer's standing before God -- conditional on the believer's ongoing conduct toward others. The conditional structure is explicit: 'if you do not forgive others their trespasses, neither will your Father forgive your trespasses.' The neutral reading notes there is 'no third option -- no scenario in which the one who refuses to forgive others nevertheless receives forgiveness from the Father.' This is not an illustration or aside; it is the one petition Jesus chose to elaborate, structurally highlighted as central to the discourse. The vertical relationship with the Father depends on the horizontal relationship with others, meaning a believer's forgiveness before God is maintained only through ongoing forgiveness of others.",
+      "key_phrases": ["if you forgive others their trespasses, your heavenly Father will also forgive you", "if you do not forgive others their trespasses, neither will your Father forgive your trespasses"],
+      "confidence": "high"
+    },
+    {
+      "reference": "6:16-18",
+      "section_title": "Fasting",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage completes the threefold pattern by contrasting public fasting with hidden fasting, where the Father who sees in secret is the only audience that matters."
+    },
+    {
+      "reference": "6:19-24",
+      "section_title": "Competing Treasuries and the Question of Orientation",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage presents a forced binary choice between two treasuries (earth vs. heaven), two ways of seeing (single eye vs. evil eye), and two masters (God vs. mammon), with no possibility of synthesis or compromise.",
+      "relevance": "The declaration 'you cannot serve God and mammon' presents ultimate allegiance as a binary, forced choice. The structure implies that one who was serving God could redirect allegiance to mammon, and that such a shift would constitute a fundamental break in one's relationship with God. The teaching that 'where your treasure is, there your heart will be also' suggests that orientation can change -- hearts follow treasure, and if treasure is redirected, the heart follows. This bears on the permanence question because it presents the believer's orientation toward God as something that must be actively maintained against a competing claim, not as something automatically fixed.",
+      "key_phrases": ["you cannot serve God and mammon", "where your treasure is, there your heart will be also", "if the light in you is darkness, how great is the darkness"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:25-34",
+      "section_title": "The Argument Against Anxiety",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage argues against anxiety about material provision by appealing to the Father's character -- he feeds the birds, clothes the lilies, and knows what his children need -- culminating in the command to 'seek first the kingdom of God and his righteousness' and trust that material provision will follow."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "book": "Luke",
+  "chapter": 12,
+  "sections": [
+    {
+      "reference": "12:1-3",
+      "section_title": "The Leaven of the Pharisees",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus warns the disciples against the leaven of the Pharisees, identified as hypocrisy, declaring that all concealment will be stripped away -- what is whispered in private will be proclaimed publicly."
+    },
+    {
+      "reference": "12:4-7",
+      "section_title": "Whom to Fear",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus tells his friends not to fear those who can only kill the body but to fear the one who has authority to cast into Gehenna, then reassures them that the same God who judges also attends to sparrows and numbers their hairs."
+    },
+    {
+      "reference": "12:8-12",
+      "section_title": "Confessing and Denying Before the Son of Man",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus declares that public confession of him before men results in the Son of Man confessing that person before the angels, while denial before men results in denial before the angels, with a distinction between forgivable speech against the Son of Man and unforgivable blasphemy against the Holy Spirit.",
+      "relevance": "The reciprocity between present conduct and eschatological outcome is direct and exact: the disciple's public posture toward Jesus in the present determines the Son of Man's posture toward that person in the heavenly court. Denial of Jesus -- which is precisely the temptation facing believers under persecution -- results in being denied before the angels. This is stated as a general principle within the author's own argument, addressed to the disciples. The subsequent distinction between forgivable and unforgivable sin confirms that the framework is conditional: some failures can be recovered from (denial, as Peter will demonstrate) while others cannot (blasphemy against the Spirit), but both operate within a system where present conduct shapes eternal standing.",
+      "key_phrases": ["everyone who confesses Me before men, the Son of Man will also confess him before the angels of God", "he who denies Me before men will be denied before the angels of God", "he who blasphemes against the Holy Spirit, it will not be forgiven him"],
+      "confidence": "high"
+    },
+    {
+      "reference": "12:13-15",
+      "section_title": "The Inheritance Dispute",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus refuses to adjudicate a property dispute and warns the crowd against every form of greed, declaring that life does not consist of possessions even when one has abundance."
+    },
+    {
+      "reference": "12:16-21",
+      "section_title": "The Rich Fool",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "A parable depicts a rich man who stores up goods for himself, addresses his soul with complacency, and is told by God that his soul is demanded of him that very night, illustrating the folly of being rich for oneself rather than rich toward God.",
+      "relevance": "The parable establishes that one's standing before God at the moment of death is determined by the orientation of one's life -- being 'rich toward God' versus storing up treasure for oneself. The rich fool prepared everything except his relationship with God, and when his soul was demanded, he had nothing before God. While the fool is not presented as a believer who lost standing, the principle that life before God is determined by ongoing orientation rather than accumulated possessions bears on the question of whether standing is secured once or maintained through faithfulness.",
+      "key_phrases": ["You fool! This very night your soul is required of you", "So is the one who stores up treasure for himself, and is not rich toward God"],
+      "confidence": "low"
+    },
+    {
+      "reference": "12:22-31",
+      "section_title": "Freedom from Anxiety",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus teaches the disciples not to worry about food or clothing, pointing to the ravens and lilies as evidence of God's provision, and commands them to seek the kingdom rather than material necessities."
+    },
+    {
+      "reference": "12:32-34",
+      "section_title": "Treasure in Heaven",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus addresses the disciples as a little flock to whom the Father has chosen gladly to give the kingdom, commands them to sell possessions and give to charity, and declares that where one's treasure is, there the heart will be also."
+    },
+    {
+      "reference": "12:35-40",
+      "section_title": "Readiness for the Master's Return",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus teaches the disciples to be dressed for action with lamps lit, waiting for the master's return, promising that faithful servants found alert will be served by the master himself, and warning that the Son of Man comes at an unexpected hour.",
+      "relevance": "The passage frames the eschatological outcome as contingent on the state in which the servant is found at the master's return. Blessedness belongs to those found alert and ready; the implication is that not being ready leads to a different outcome. The parable assumes that the period between the master's departure and return is a time during which the servant's faithfulness is tested, and the result of that test determines the servant's fate. This implies ongoing conditionality rather than a secured outcome.",
+      "key_phrases": ["Blessed are those slaves whom the master will find on the alert when he comes", "the Son of Man is coming at an hour that you do not expect"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "12:41-48",
+      "section_title": "The Faithful and Unfaithful Steward",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "In response to Peter's question about scope, Jesus tells a parable of two stewards: the faithful one found doing his duty is promoted, while the unfaithful one who exploits the master's absence through violence and self-indulgence is cut in pieces and assigned a place with the unbelievers, with the principle that greater knowledge brings greater accountability.",
+      "relevance": "This passage directly addresses a person entrusted with responsibility within the master's household -- a figure representing those given delegated authority in God's community -- and describes the severe consequences of unfaithfulness. The unfaithful steward was genuinely part of the household, was given real responsibility, but through his conduct (violence, self-indulgence, presumption on the master's delay) is removed from the community of the faithful and placed 'with the unbelievers.' The passage is the Lukan parallel to Matthew 24:45-51, which is conventionally cited in the eternal security debate. The principle 'from everyone who has been given much, much will be required' confirms that established standing creates proportional accountability, not immunity from judgment.",
+      "key_phrases": ["will cut him in pieces, and assign him a place with the unbelievers", "that slave who knew his master's will and did not get ready or act in accord with his will, will receive many lashes", "from everyone who has been given much, much will be required"],
+      "confidence": "high"
+    },
+    {
+      "reference": "12:49-53",
+      "section_title": "Fire and Division",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares that he came to cast fire on the earth and has a baptism of suffering to undergo, and that his coming produces not peace but division that splits families along the fault line of response to him."
+    },
+    {
+      "reference": "12:54-56",
+      "section_title": "Reading the Present Time",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus rebukes the crowds for being able to read weather signs but unable to discern the present decisive moment, calling them hypocrites for their selective perception."
+    },
+    {
+      "reference": "12:57-59",
+      "section_title": "Settling Before Judgment",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus urges the crowd to settle with their accuser on the way to the magistrate, warning that once judgment comes there will be no release until the very last cent is paid.",
+      "relevance": "The parable functions as an analogy for the eschatological situation: the present time is the opportunity to settle one's account with God, and once the judgment arrives, the opportunity for resolution is gone. The finality of the imprisonment until the last cent is paid implies that the window for response has limits, and the time for securing one's standing before God is now -- not after the judge renders his verdict. This frames standing before God as something that must be actively secured during the present opportunity, not as a permanently settled status.",
+      "key_phrases": ["you will not get out of there until you have paid the very last cent", "on your way there make an effort to settle with him"],
+      "confidence": "low"
+    }
+  ]
+}

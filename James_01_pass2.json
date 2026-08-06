@@ -1,0 +1,90 @@
+{
+  "book": "James",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1",
+      "section_title": "The Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "James identifies himself as a servant of God and the Lord Jesus Christ and addresses the letter to the twelve tribes in the Dispersion, establishing the audience as reconstituted Israel living in exile."
+    },
+    {
+      "reference": "1:2-4",
+      "section_title": "Trials and the Work of Endurance",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Trials produce testing, testing produces endurance, and endurance brought to completion produces wholeness and maturity.",
+      "relevance": "The sequence trials-testing-endurance-completeness is presented as a process that must run its course. The imperative 'let endurance have its perfect work' implies the audience must actively allow the process to complete rather than cutting it short. The goal of being 'perfect and complete, lacking in nothing' is the result of completed endurance, not of initial enrollment. The analogy to Israel's failed wilderness testing reinforces that the process can be abandoned before completion.",
+      "key_phrases": ["let endurance have its perfect work", "so that you may be perfect and complete, lacking in nothing", "the testing of your faith produces endurance"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:5-8",
+      "section_title": "Wisdom, Asking, and the Double-Minded Person",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "God gives wisdom generously to those who ask in undivided faith, but the double-minded person who wavers should not expect to receive anything from the Lord.",
+      "relevance": "The double-minded person -- one with divided loyalty between God and something else -- is disqualified from receiving from the Lord. The condition is not moral perfection but singleness of orientation. The contrast between God's simplicity (haplous) in giving and the doubter's divided state (dipsychos) implies that a person's internal orientation toward God directly affects what they can receive, including wisdom essential for navigating trials. The instability extends to 'all his ways,' making double-mindedness a structural condition affecting the whole life.",
+      "key_phrases": ["the double-minded man, unstable in all his ways", "ought not to expect that he will receive anything from the Lord", "ask in faith without any doubting"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:9-11",
+      "section_title": "The Reversal of Low and High",
+      "category": "NOT_APPLICABLE",
+      "summary": "The lowly brother is to glory in his God-given exaltation while the rich person will pass away like grass under the scorching wind, drawing on Isaiah 40:6-8 to contrast the permanence of divine exaltation with the transience of wealth-based identity."
+    },
+    {
+      "reference": "1:12",
+      "section_title": "Endurance, Testing, and the Crown of Life",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The one who perseveres under trial is declared blessed and will receive the crown of life promised to those who love God, with the crown conditioned on endurance, approval, and love.",
+      "relevance": "The verse establishes a clear sequential condition: trial endured, character proven (dokimos), then crown received. The neutral reading states explicitly: 'The crown is the reward for completion, not for enrollment. This is the logic of the race or the contest: the prize goes to those who finish, not to those who merely enter.' The crown of life -- the fullness of life belonging to God's age -- is promised specifically to 'those who love Him,' echoing Deuteronomy's pairing of loving God with obeying God. The Deuteronomic background (Deuteronomy 30:15-20, 'choose life, by loving the LORD your God, obeying his voice') makes the conditionality explicit: loving God, which includes obedience, is the condition for life.",
+      "key_phrases": ["blessed is a man who perseveres under trial", "once he has been approved", "the crown of life", "promised to those who love Him"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:13-15",
+      "section_title": "The Origin of Temptation",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Temptation toward sin originates from one's own desire, which conceives sin, and sin when completed brings forth death -- presenting a trajectory from desire through sin to death that operates as the deadly counterpart to the endurance-to-life trajectory.",
+      "relevance": "The passage presents two paths to completion (telos): endurance under trial reaching wholeness and life (vv. 4, 12), and desire producing sin producing death (v. 15). The parallel use of the teleios word group for both paths implies that the audience must choose which process they allow to reach its end. The desire-sin-death trajectory is presented as a real possibility for the audience, not merely for outsiders. The birth metaphor (desire conceives, gives birth to sin, which produces death) implies a natural progression that must be actively resisted.",
+      "key_phrases": ["each one is tempted when he is carried away and enticed by his own desire", "when desire has conceived, it gives birth to sin", "when sin is accomplished, it brings forth death"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:16-18",
+      "section_title": "The Father of Lights and the Word of Truth",
+      "category": "NOT_APPLICABLE",
+      "summary": "God is the unchanging source of every good and perfect gift, with no variation or shifting shadow, who brought forth the community by the word of truth as firstfruits of his creation."
+    },
+    {
+      "reference": "1:19-21",
+      "section_title": "Receiving the Word with the Right Posture",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The audience is instructed to put aside filthiness and wickedness and receive in humility the implanted word, which has the power to save their souls -- but the saving power is activated through reception and action, not automatically.",
+      "relevance": "The implanted word is described as 'able to save your souls' (dynamenon), but the neutral reading notes: 'The statement that the implanted word is able to save does not mean it automatically saves regardless of human response. The entire passage is built on the conditional logic of reception.' The imperatives -- putting aside filth, receiving in humility -- are prerequisites for the word's saving power to operate. The word has the power, but human reception and response are the conditions under which that power is realized. This framework implies that the saving relationship is not unilateral but requires ongoing human participation.",
+      "key_phrases": ["the word implanted, which is able to save your souls", "in humility receive", "putting aside all filthiness and all that remains of wickedness"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:22-25",
+      "section_title": "Hearers and Doers",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The audience must be doers of the word and not merely hearers who deceive themselves, because hearing without doing is like looking in a mirror and immediately forgetting what one saw, while the doer who looks intently at the perfect law of liberty and acts will be blessed.",
+      "relevance": "The mirror metaphor illustrates that recognition of truth without corresponding action is functionally useless. The blessing (makarios, the same word from v. 12) is located 'in his doing,' not in his hearing or understanding alone. The contrast between the forgetful hearer and the effectual doer implies that the audience's relationship to the word -- and therefore to God -- depends on action, not merely on hearing or knowing. This is the thesis statement that generates the faith-and-works argument of chapter 2.",
+      "key_phrases": ["prove yourselves doers of the word, and not merely hearers who delude themselves", "this man will be blessed in what he does", "the perfect law, the law of liberty"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:26-27",
+      "section_title": "The Definition of Religion",
+      "category": "NOT_APPLICABLE",
+      "summary": "Authentic religion is defined as caring for orphans and widows in their distress and keeping oneself unstained by the world, while the religion of one who does not bridle their tongue is declared worthless."
+    }
+  ]
+}

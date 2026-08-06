@@ -1,0 +1,84 @@
+{
+  "book": "1 Thessalonians",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-2",
+      "section_title": "The Decision to Send Timothy",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Unable to return themselves, the apostles sent Timothy to Thessalonica to establish and encourage the community concerning their faith, at the cost of being left alone in Athens.",
+      "relevance": "Timothy's mission was specifically to 'establish and encourage' the community's faith, using the verb sterizo (to fix firmly, to stabilize). The neutral reading notes this means 'to make the Thessalonians' faith firm, to stabilize what the affliction is threatening to destabilize.' The fact that Timothy was sent specifically because the community's faith was at risk of being destabilized by affliction implies that the community's standing was not guaranteed simply by their initial reception of the gospel.",
+      "key_phrases": ["to establish and encourage you concerning your faith"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:3-4",
+      "section_title": "Affliction as the Appointed Reality",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul states that Timothy was sent so that no one would be shaken by afflictions, since the apostles had always warned that affliction was the appointed lot of those who follow Christ.",
+      "relevance": "The goal of Timothy's mission is stated negatively: 'so that no one would be shaken by these afflictions.' The verb sainesthai means 'to be disturbed, moved from one's position.' Paul treats it as genuinely possible that affliction could move members of the community from their position of faith. The warning presupposes that believers can be dislodged from their standing by external pressure, and that preventive action (Timothy's visit) was needed to forestall this outcome.",
+      "key_phrases": ["so that no one would be shaken by these afflictions", "we are destined for this"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:5",
+      "section_title": "Paul's Own Anxiety -- The Shift to 'I'",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul reveals his personal fear that the tempter had succeeded in breaking the community's faith, rendering the apostolic labor empty.",
+      "relevance": "The neutral reading identifies this as a decisive statement about the contingency of the community's standing: 'This verse reveals something crucial about Paul's understanding of his own work: its outcome is contingent. The labor can be \"in vain.\" The community's perseverance is not guaranteed by the mere fact that God chose them (1:4) or that the gospel arrived with power (1:5). The divine choice and the powerful arrival created a real beginning, but the continuation depends on the community's ongoing pistis.' Paul genuinely feared that the tempter could have succeeded in destroying the community's faith despite God's prior election and the Spirit's powerful work in their founding. This directly addresses whether a believer's standing, once established, is guaranteed.",
+      "key_phrases": ["for fear that somehow the tempter had tempted you", "our labor would be in vain", "I also could no longer bear it"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:6",
+      "section_title": "Timothy's Return -- The Good News",
+      "category": "NOT_APPLICABLE",
+      "summary": "Timothy returned with the good news that the Thessalonians' faith and love were intact and that the mutual longing between community and founders was undiminished."
+    },
+    {
+      "reference": "3:7",
+      "section_title": "The Consolation",
+      "category": "NOT_APPLICABLE",
+      "summary": "The apostles were comforted in their own distress and affliction through the report of the Thessalonians' persevering faith."
+    },
+    {
+      "reference": "3:8",
+      "section_title": "Life Contingent on Faithfulness",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul declares that the apostles truly live 'if' the Thessalonians stand firm in the Lord, using an explicit conditional structure.",
+      "relevance": "The conditional particle ean with the present subjunctive creates a present general condition: the apostles' vitality depends on the Thessalonians' continuing firmness. The neutral reading notes: 'The condition is not expressing doubt -- Timothy has just reported that they are standing firm -- but it does express the ongoing nature of the requirement. Their standing firm is not a completed past event but a continuing present reality that must be maintained.' This conditional structure directly addresses the permanence question by presenting the community's standing as something that requires ongoing maintenance rather than being a settled, irreversible state.",
+      "key_phrases": ["for now we really live", "if you stand firm in the Lord"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:9-10",
+      "section_title": "Joy and Ongoing Prayer",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul expresses overwhelming gratitude and describes relentless prayer for reunion and for completing what is still lacking in the community's faith.",
+      "relevance": "Paul prays to 'complete what is lacking in your faith,' acknowledging that the community's faith, while intact, is not yet complete. The neutral reading says this 'acknowledges that their faith, while intact, is not yet complete. There are gaps, areas of understanding or practice that still need to be filled.' This implies that faith is a dynamic reality requiring ongoing development, not a fixed state established once for all.",
+      "key_phrases": ["may complete what is lacking in your faith", "night and day keep praying most earnestly"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:11",
+      "section_title": "Prayer-Wish for the Way to Be Opened",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul prays that God and the Lord Jesus would direct the missionaries' way back to Thessalonica, since their own efforts to return had been thwarted."
+    },
+    {
+      "reference": "3:12-13",
+      "section_title": "Prayer-Wish for the Thessalonians' Growth and Establishment",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul prays that the Lord would cause the community to increase and abound in love, so that their hearts may be established blameless in holiness before God at the coming of the Lord Jesus with all his holy ones.",
+      "relevance": "The prayer asks God to produce in the community what they do not yet fully possess: blameless holiness at the parousia. The neutral reading's chapter summary states: 'No one in this picture is secure in isolation. The apostles need the community; the community needs the apostles; both need God's establishing work; and all are moving toward an evaluation that has not yet occurred.' The prayer orientation is toward a future assessment (the parousia) for which the community is not yet fully prepared, and the establishment of their hearts is something God must still accomplish.",
+      "key_phrases": ["may the Lord cause you to increase and abound in love", "establish your hearts without blame in holiness", "before our God and Father at the coming of our Lord Jesus"],
+      "confidence": "medium"
+    }
+  ]
+}

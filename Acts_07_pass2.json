@@ -1,0 +1,86 @@
+{
+  "book": "Acts",
+  "chapter": 7,
+  "sections": [
+    {
+      "reference": "7:1",
+      "section_title": "The High Priest's Question",
+      "category": "NOT_APPLICABLE",
+      "summary": "The high priest asks Stephen whether the charges against him are true, inviting a defense that Stephen will transform into a sweeping retelling of Israel's history."
+    },
+    {
+      "reference": "7:2-8",
+      "section_title": "Abraham -- God's Call Outside the Land",
+      "category": "NOT_APPLICABLE",
+      "summary": "Stephen recounts God's call to Abraham in Mesopotamia, before the promised land was given, establishing that God acts and speaks far from any holy place and gave the covenant of circumcision within the patriarchal narrative."
+    },
+    {
+      "reference": "7:9-16",
+      "section_title": "Joseph -- The Rejected Deliverer in Egypt",
+      "category": "NOT_APPLICABLE",
+      "summary": "Stephen recounts how the patriarchs sold Joseph into Egypt out of jealousy, yet God was with him and made him ruler over Egypt, establishing the pattern of Israel rejecting the deliverer God sends."
+    },
+    {
+      "reference": "7:17-29",
+      "section_title": "Moses -- First Rejection",
+      "category": "NOT_APPLICABLE",
+      "summary": "Stephen recounts Moses's birth, upbringing in Pharaoh's court, and first attempt to help his people, which was met with the rejection 'Who made you a ruler and a judge over us?' -- causing Moses to flee to Midian."
+    },
+    {
+      "reference": "7:30-34",
+      "section_title": "Moses at the Burning Bush -- God Outside the Land",
+      "category": "NOT_APPLICABLE",
+      "summary": "Stephen recounts God's appearance to Moses at the burning bush in the wilderness of Sinai, where God declares the ground holy -- establishing that God's holy presence is not tied to the temple or even the promised land."
+    },
+    {
+      "reference": "7:35-38",
+      "section_title": "Moses -- The Rejected One Whom God Sent",
+      "category": "NOT_APPLICABLE",
+      "summary": "Stephen declares that the Moses whom Israel 'disowned' (arneomai -- the same verb used for Israel's treatment of Jesus in 3:13-14) is the one God sent as ruler and deliverer, who performed wonders and signs and received living oracles to pass on."
+    },
+    {
+      "reference": "7:39-43",
+      "section_title": "Israel's Rejection of Moses and Turn to Idolatry",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Stephen recounts that Israel's fathers were unwilling to obey Moses, repudiated him, turned back to Egypt in their hearts, made the golden calf, and rejoiced in the works of their hands; God responded by turning away and delivering them over to serve the host of heaven, as prophesied by Amos.",
+      "relevance": "The passage establishes a principle about God's response to persistent rejection by his covenant people: 'God turned away and delivered them over' (estrepsen... paredoken). Israel turned from God; God turned from Israel and released them to the consequences of their choices. The neutral reading emphasizes this is not God forcing idolatry but 'releasing them to its consequences.' While this describes a corporate/national pattern rather than individual believer standing, it establishes that God's covenant people can be 'given over' when they persistently reject God's appointed agents -- a principle relevant to the question of whether covenant standing is conditional.",
+      "key_phrases": ["our fathers were unwilling to be obedient to him, but repudiated him", "in their hearts turned back to Egypt", "God turned away and delivered them over to serve the host of heaven"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "7:44-50",
+      "section_title": "The Tabernacle, the Temple, and God's Dwelling",
+      "category": "NOT_APPLICABLE",
+      "summary": "Stephen traces the history from the tabernacle (portable, divinely designed) through David's desire to Solomon's temple, then cites Isaiah 66:1-2 to argue that the Most High does not dwell in houses made by human hands."
+    },
+    {
+      "reference": "7:51-53",
+      "section_title": "The Accusation",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Stephen directly accuses the Sanhedrin of being stiff-necked and uncircumcised in heart and ears, always resisting the Holy Spirit just as their fathers did, having become betrayers and murderers of the Righteous One, and having received the law through angels yet not keeping it.",
+      "relevance": "Stephen declares that the covenant people -- those who bear circumcision and received the law through angels -- 'are always resisting the Holy Spirit' (7:51). The accusation 'uncircumcised in heart and ears' applies covenant-failure language to those who bear the outward covenant sign. The neutral reading notes that the verb antipipto ('to resist, to fight against') combined with 'always' (aei) makes the charge comprehensive. This establishes that those who possess the outward marks of covenant membership can be in a state of chronic resistance to God's Spirit, and that having received the law does not guarantee keeping it.",
+      "key_phrases": ["you are always resisting the Holy Spirit", "stiff-necked and uncircumcised in heart and ears", "received the law as ordained by angels, and yet did not keep it"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "7:54-56",
+      "section_title": "The Vision",
+      "category": "NOT_APPLICABLE",
+      "summary": "The council is enraged; Stephen, full of the Holy Spirit, sees the heavens opened and the Son of Man standing at the right hand of God."
+    },
+    {
+      "reference": "7:57-58",
+      "section_title": "The Mob Violence",
+      "category": "NOT_APPLICABLE",
+      "summary": "The mob cries out, covers their ears, rushes at Stephen, casts him out of the city, and begins stoning him; the witnesses lay their cloaks at the feet of a young man named Saul."
+    },
+    {
+      "reference": "7:59-60",
+      "section_title": "Stephen's Death",
+      "category": "NOT_APPLICABLE",
+      "summary": "Stephen prays for the Lord Jesus to receive his spirit and cries out for God not to hold this sin against his killers, echoing Jesus's own words from the cross; then he falls asleep."
+    }
+  ]
+}

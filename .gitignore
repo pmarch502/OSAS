@@ -1,0 +1,7 @@
+# Keep only the report site files
+# Ignore intermediate/source data
+pass2_combined.json
+*.jsonl
+
+# Ignore Claude project files
+.claude/

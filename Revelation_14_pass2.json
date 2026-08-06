@@ -1,0 +1,60 @@
+{
+  "book": "Revelation",
+  "chapter": 14,
+  "sections": [
+    {
+      "reference": "14:1-5",
+      "section_title": "The Lamb and the 144,000 on Mount Zion",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the 144,000 standing with the Lamb on Mount Zion, bearing the divine name on their foreheads, described as those who follow the Lamb wherever he goes, are blameless, and in whose mouths no lie was found.",
+      "relevance": "The 144,000 are identified by a series of characteristics that describe sustained faithfulness: they 'follow the Lamb wherever he goes' (present participle indicating ongoing action), they have 'not been defiled with women' (the neutral reading identifies this as prophetic language for refusing Babylon's idolatrous system), they are 'blameless' (amōmoi, sacrificial vocabulary for the unblemished offering), and 'no lie was found in their mouth' (contrasting the dragon's deception). Their identity is constituted by ongoing following, maintained purity, and sustained truthfulness. The neutral reading notes that 'following the Lamb wherever he goes' includes following into suffering and death (12:11). This defines the redeemed community by what they continue to do, not merely by an initial status.",
+      "key_phrases": ["These are the ones who follow the Lamb wherever he goes", "they have not been defiled with women, for they have kept themselves chaste", "no lie was found in their mouth; they are blameless"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "14:6-7",
+      "section_title": "The First Angel -- The Call to Worship the Creator",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the first angel's proclamation of the eternal gospel to every nation, calling all to fear God, give him glory, and worship the Creator because the hour of judgment has come; the section is a universal call to worship rather than a direct statement about the believer's standing."
+    },
+    {
+      "reference": "14:8",
+      "section_title": "The Second Angel -- Babylon's Fall Announced",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the anticipatory announcement of Babylon's fall, drawing on Isaiah 21:9 and Jeremiah 51:8; the section announces a future judgment on Babylon rather than directly addressing the believer's standing."
+    },
+    {
+      "reference": "14:9-12",
+      "section_title": "The Third Angel -- The Consequences of Beast-Worship",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading presents the third angel's warning that anyone who worships the beast, his image, or receives his mark will drink the undiluted wine of God's wrath and be tormented with fire and brimstone, followed by the editorial statement identifying the perseverance of the saints as those who keep God's commandments and their faith in Jesus.",
+      "relevance": "This passage directly addresses the question of whether a person's standing before God can be determined by subsequent conduct. The warning 'if anyone worships the beast' (ei tis, the widest possible address) states that the act of capitulating to the beast's worship system results in drinking God's undiluted wrath. The neutral reading notes the deliberate structural irony: those who drank Babylon's seductive wine (14:8) now drink God's wrathful wine. The editorial conclusion -- 'Here is the perseverance of the saints who keep the commandments of God and their faith in Jesus' -- explicitly defines the saints by ongoing keeping and faith, and the neutral reading identifies it as the author's 'direct address to his audience' explaining that 'the knowledge of what awaits capitulation strengthens the resolve not to capitulate.' The passage presupposes that the audience faces a genuine choice between faithful endurance and catastrophic capitulation, implying that standing before God is conditional on maintained allegiance.",
+      "key_phrases": ["If anyone worships the beast and his image, and receives a mark on his forehead or on his hand, he also will drink of the wine of the wrath of God", "mixed in full strength in the cup of his anger", "Here is the perseverance of the saints who keep the commandments of God and their faith in Jesus"],
+      "confidence": "high"
+    },
+    {
+      "reference": "14:13",
+      "section_title": "The Blessedness of the Faithful Dead",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the beatitude declaring blessed those who die in the Lord from now on, with the Spirit confirming that they will rest from their labors and their deeds follow with them.",
+      "relevance": "Blessedness is attached to a specific condition: dying 'in the Lord' (en kyriō) -- within the sphere of belonging to him. The neutral reading notes the contrast between this rest and the beast-worshipers' restlessness (14:11): 'The faithful dead rest; the beast-worshipers do not rest.' The phrase 'their deeds follow with them' affirms that conduct matters beyond death and connects to the judgment-by-deeds framework of 20:12. The present participle 'those who are dying' (apothnēskontes) indicates an ongoing category rather than a completed group. The passage implies that blessedness is tied to the condition of dying within the Lord's sphere and that deeds have lasting significance.",
+      "key_phrases": ["Blessed are the dead who die in the Lord from now on", "they may rest from their labors, for their deeds follow with them"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "14:14-16",
+      "section_title": "The First Harvest -- The Grain Harvest",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the one like a son of man on a white cloud reaping the earth's ripe harvest with a sharp sickle, drawing on Daniel 7:13-14 and Joel 3:13; the section is harvest/judgment imagery rather than a direct statement about the believer's standing."
+    },
+    {
+      "reference": "14:17-20",
+      "section_title": "The Second Harvest -- The Grape Harvest and the Winepress of God's Wrath",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the grape harvest gathered by angels and thrown into the winepress of God's wrath, producing blood flowing for 1,600 stadia, drawing on Isaiah 63:1-6 and Joel 3:13; the section is judgment imagery rather than a direct statement about the believer's standing."
+    }
+  ]
+}

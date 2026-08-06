@@ -1,0 +1,64 @@
+{
+  "book": "Luke",
+  "chapter": 14,
+  "sections": [
+    {
+      "reference": "14:1-6",
+      "section_title": "Healing a Man with Dropsy on the Sabbath",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus heals a man with dropsy at the home of a Pharisaic leader on the Sabbath, silencing the lawyers and Pharisees with an argument they cannot counter about rescuing a son or ox from a well on the Sabbath."
+    },
+    {
+      "reference": "14:7-11",
+      "section_title": "Teaching about Humility at the Table",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus observes the guests scrambling for places of honor and teaches that self-exaltation leads to humiliation while self-humbling leads to exaltation, framing the reversal as God's action through the divine passive."
+    },
+    {
+      "reference": "14:12-14",
+      "section_title": "Teaching to the Host about Whom to Invite",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus tells the host to invite the poor, crippled, lame, and blind -- those excluded by Levitical standards from cultic participation -- rather than those who can reciprocate, with the promise of repayment at the resurrection of the righteous."
+    },
+    {
+      "reference": "14:15-24",
+      "section_title": "The Parable of the Great Dinner",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "When a guest piously exclaims about eating bread in the kingdom, Jesus tells a parable in which those originally invited to a great dinner refuse because of possessions and family and are permanently excluded, while the poor, crippled, blind, and lame from the streets, and then strangers from the highways and hedges, fill the feast.",
+      "relevance": "The originally invited guests had accepted the preliminary invitation -- they were within the scope of the host's generosity and had committed to attend. Their subsequent refusal, driven by competing priorities (land, oxen, marriage), results in permanent exclusion: 'none of those men who were invited shall taste of my dinner.' The passage shows that initial acceptance of God's invitation does not guarantee final inclusion. The refusal to respond when the moment of fulfillment arrives -- even after initial commitment -- results in irrevocable exclusion. The two waves of replacement guests (marginalized within the city, then outsiders from beyond) enact the reversal of insiders and outsiders that has been building since chapter 13.",
+      "key_phrases": ["they all alike began to make excuses", "none of those men who were invited shall taste of my dinner", "compel them to come in, so that my house may be filled"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "14:25-27",
+      "section_title": "The Cost of Following -- Hating One's Own",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus tells the large crowds following him that anyone who does not subordinate every kinship tie and even one's own life to following him, and does not carry his own cross, cannot be his disciple.",
+      "relevance": "The threefold 'cannot be My disciple' structure defines ongoing conditions for discipleship, not merely entry requirements. The demands -- subordinating family, accepting the cross, following Jesus -- describe a continuous posture, not a single decision. The implication is that discipleship is something that can be forfeited through the reassertion of competing loyalties, which frames the believer's standing as conditioned on sustained commitment rather than permanently secured at the moment of initial commitment.",
+      "key_phrases": ["does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be My disciple", "Whoever does not carry his own cross and come after Me cannot be My disciple"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "14:28-33",
+      "section_title": "Two Parables about Counting the Cost",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "A builder who cannot finish his tower is publicly shamed, and a king who cannot win a battle must sue for peace; both illustrate the necessity of reckoning with the total cost of discipleship before committing, culminating in the demand to renounce all possessions.",
+      "relevance": "The parables warn against beginning what one cannot complete. The builder who lays a foundation but cannot finish is ridiculed; the king who cannot match his opponent must surrender. Applied to discipleship, these warn that half-commitment is worse than no commitment -- starting and failing to follow through results in public shame and the need for unconditional surrender. The conclusion that no one who does not give up all possessions can be Jesus's disciple frames discipleship as requiring total, sustained renunciation, not merely an initial act of faith.",
+      "key_phrases": ["This man began to build and was not able to finish", "none of you can be My disciple who does not give up all his own possessions"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "14:34-35",
+      "section_title": "Salt That Has Lost Its Taste",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Salt that has lost its saltiness is useless for any purpose and is thrown out, serving as a warning that disciples who lose their distinctive commitment become fit for nothing.",
+      "relevance": "The salt metaphor directly addresses what happens to a disciple who once had the quality that made discipleship distinctive (saltiness) but has lost it. The neutral reading explicitly identifies this as 'a disciple who has begun but not followed through.' The consequence is absolute: the salt is 'useless either for the soil or for the manure pile; it is thrown out.' The verb 'thrown out' (ekballo) is the same word used in 13:28 for insiders being thrown out of the kingdom. A disciple who loses the distinctive quality of commitment is not merely diminished but completely rejected. This implies that the standing of a disciple is not permanently secured but depends on maintaining the quality that constitutes genuine discipleship.",
+      "key_phrases": ["if even salt has become tasteless, with what will it be seasoned?", "It is useless either for the soil or for the manure pile; it is thrown out"],
+      "confidence": "high"
+    }
+  ]
+}

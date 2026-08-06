@@ -1,0 +1,48 @@
+{
+  "book": "Romans",
+  "chapter": 14,
+  "sections": [
+    {
+      "reference": "14:1-4",
+      "section_title": "Welcoming the Weak, Not Judging the Servant of Another",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul instructs the community to welcome the weak in faith without quarreling over their convictions, identifies the specific dispute as dietary practice (some eat anything, others eat only vegetables), prohibits both the strong's contempt and the weak's judgment, and affirms that each believer stands or falls before their own master -- the Lord, who is able to make them stand. The passage is about intra-community disputes over food practices and the jurisdictional principle that judgment belongs to the master, not to fellow servants."
+    },
+    {
+      "reference": "14:5-9",
+      "section_title": "Days and the Lordship of Christ Over Living and Dead",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul addresses day-observance alongside the food dispute, establishing that each person must be fully convinced in their own mind, that both the observer and the non-observer act 'in honor of the Lord,' and that Christ's death and resurrection established his lordship over both the dead and the living, so that 'whether we live or whether we die, we are the Lord's' -- a statement about Christ's comprehensive lordship and the inappropriateness of judging fellow believers, not directly about whether standing before God is permanent or conditional."
+    },
+    {
+      "reference": "14:10-12",
+      "section_title": "The Judgment Seat of God and the Isaiah Quotation",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul warns both parties to stop judging and despising each other because 'we will all stand before the judgment seat of God,' quoting Isaiah 45:23 that every knee will bow and every tongue confess, and concluding that 'each of us will give an account of himself to God.'",
+      "relevance": "The universal accountability before God's judgment seat -- where each person will give an individual account of themselves -- implies that the believer's standing involves genuine future evaluation. The emphasis on personal accountability ('each of us will give an account of himself to God') and the solemn Isaiah quotation about universal submission before God suggest that the believer's standing before God is a matter of ongoing seriousness with real consequences attached to how one lives. While the primary thrust of the passage is to stop believers from judging one another in matters of food and days, the grounding argument -- that God's judgment is the only one that matters -- implies that this divine evaluation carries weight for the believer's standing, not merely for rewards.",
+      "key_phrases": ["we will all stand before the judgment seat of God", "every knee shall bow to me, and every tongue shall confess to God", "each of us will give an account of himself to God"],
+      "confidence": "low"
+    },
+    {
+      "reference": "14:13-18",
+      "section_title": "Stumbling Blocks, the Clean and the Unclean, and the Kingdom of God",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul shifts from prohibiting judgment to requiring love: though nothing is unclean in itself, the strong must not exercise their freedom in ways that cause the weak to stumble; 'do not destroy the one for whom Christ died' (14:15); the kingdom of God is 'not a matter of eating and drinking but of righteousness and peace and joy in the Holy Spirit.'",
+      "relevance": "The warning 'do not destroy the one for whom Christ died' (14:15) uses the verb apollymi ('to destroy, to ruin, to cause to perish'), a term Paul uses elsewhere for ultimate destruction. The neutral reading notes that 'the destruction in view is not mere discomfort but the ruin of the brother's faith -- the spiritual catastrophe that occurs when a person is induced to act against their conscience and, in the wreckage of that violated conscience, their faith may collapse entirely.' If a believer for whom Christ died can be 'destroyed' through another's careless exercise of freedom, this implies that a believer's standing is not unconditionally permanent -- faith can be so damaged that spiritual ruin results. The passage treats this destruction as a real possibility to be actively prevented through love, not as a rhetorical impossibility.",
+      "key_phrases": ["if your brother is grieved by what you eat, you are no longer walking in love", "do not destroy the one for whom Christ died", "the kingdom of God is not a matter of eating and drinking but of righteousness and peace and joy in the Holy Spirit"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "14:19-23",
+      "section_title": "Pursuing Peace, Not Destroying God's Work, and the Principle of Faith",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul commands pursuit of peace and mutual edification, warns against tearing down 'the work of God' for food's sake, instructs the strong to hold their conviction privately before God, and states the governing principle: 'whatever does not proceed from faith is sin.'",
+      "relevance": "The concluding principle -- 'whatever does not proceed from faith is sin' (14:23) -- connects to the letter's foundational declaration that 'the righteous shall live by faith' (1:17). The neutral reading notes that the identical preposition ek pisteos ('from faith') appears in both 1:17 and 14:23, establishing that the faith which justifies a person initially is the same faith that must govern their ongoing conduct. If all action must proceed from faith to avoid being sin, then faith is an ongoing condition for righteous living, not merely an entry requirement. The warning against destroying 'the work of God' for food's sake (14:20, using the verb katalyo, 'to tear down, to demolish') implies that what God is building in a believer's life -- the ongoing work of sanctification -- can be dismantled, and that this dismantling has real spiritual consequences.",
+      "key_phrases": ["do not, for the sake of food, destroy the work of God", "whatever does not proceed from faith is sin", "blessed is the one who has no reason to pass judgment on himself for what he approves"],
+      "confidence": "medium"
+    }
+  ]
+}

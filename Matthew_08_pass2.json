@@ -1,0 +1,46 @@
+{
+  "book": "Matthew",
+  "chapter": 8,
+  "sections": [
+    {
+      "reference": "8:1-4",
+      "section_title": "The Man with a Skin Disease",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage demonstrates Jesus's authority over the most deeply entrenched form of ritual exclusion in Israelite life, with cleanness flowing from Jesus to the unclean man rather than contamination flowing the other direction, and Jesus directing the healed man to fulfill the Mosaic purification process."
+    },
+    {
+      "reference": "8:5-13",
+      "section_title": "The Centurion's Servant and the Question of Faith's Location",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage presents a Gentile centurion whose faith surpasses all in Israel, prompting Jesus to declare that many will come from east and west to recline with the patriarchs in the kingdom while 'the sons of the kingdom' will be thrown into outer darkness.",
+      "relevance": "The declaration that 'the sons of the kingdom will be thrown into the outer darkness' directly addresses whether those who belong to the kingdom by identity or heritage are guaranteed inclusion. The neutral reading identifies these as Israelites who 'assumed their place at the table was guaranteed by heritage rather than by the kind of faith the centurion demonstrates.' This connects to John's warning in 3:9 about presuming on Abrahamic descent. While the passage primarily addresses the insufficiency of ethnic-covenant identity rather than individual believers who have exercised faith, the principle it establishes -- that positional belonging does not guarantee final inclusion, and that active faith is required -- bears directly on the broader question of whether standing before God is conditional or automatic.",
+      "key_phrases": ["many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven", "the sons of the kingdom will be thrown into the outer darkness", "in that place there will be weeping and gnashing of teeth", "with no one in Israel have I found such faith"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "8:14-17",
+      "section_title": "Healing in Peter's House and the Fulfillment Citation",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage presents Jesus healing Peter's mother-in-law and casting out spirits with a word, framed by the author's citation of Isaiah 53:4 to present the healings as fulfillment of the Servant's vocation of bearing the people's weaknesses and diseases."
+    },
+    {
+      "reference": "8:18-22",
+      "section_title": "The Cost of Following: Two Who Approach Jesus",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage presents two encounters that define the cost and urgency of discipleship: the Son of Man has nowhere to lay his head, and a disciple must leave the dead to bury their own dead rather than delay following, placing Jesus's call above the most sacred familial obligation."
+    },
+    {
+      "reference": "8:23-27",
+      "section_title": "Authority Over the Sea: The Storm on the Lake",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage demonstrates Jesus's authority over the sea through a single rebuke that produces immediate calm, with the disciples' 'little faith' exposed by their fear, and their question 'What sort of man is this?' pointing toward the scriptural answer that authority over the sea belongs to YHWH alone."
+    },
+    {
+      "reference": "8:28-34",
+      "section_title": "The Two Demoniacs in the Country of the Gadarenes",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage demonstrates Jesus's authority over the demonic realm in Gentile territory, with demons acknowledging his identity as Son of God and protesting that he is acting 'before the time,' and the Gadarene city responding by asking Jesus to leave, preferring their pigs to his presence."
+    }
+  ]
+}

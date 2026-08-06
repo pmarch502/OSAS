@@ -1,0 +1,114 @@
+{
+  "book": "James",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1",
+      "section_title": "Command Against Partiality",
+      "category": "NOT_APPLICABLE",
+      "summary": "James commands the community not to hold the faith of the Lord Jesus Christ with acts of favoritism, establishing partiality as incompatible with genuine faith."
+    },
+    {
+      "reference": "2:2-4",
+      "section_title": "Scene in the Assembly",
+      "category": "NOT_APPLICABLE",
+      "summary": "A concrete scenario of discrimination in the assembly where a gold-ringed rich person is honored while a poor person is marginalized, exposing the community's partiality as a form of evil judgment."
+    },
+    {
+      "reference": "2:5-7",
+      "section_title": "God's Choice and the Community's Contradiction",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "God chose the poor in the world to be rich in faith and heirs of the kingdom he promised to those who love him, and the community's favoritism toward the rich contradicts God's own choice.",
+      "relevance": "The kingdom is promised to 'those who love Him,' the identical phrase from 1:12 where the crown of life was conditioned on endurance and love. The promise of the kingdom is not unconditional but directed to a particular relational orientation. The community's dishonoring of those God has honored suggests that human actions can contradict and undermine God's purposes, rather than those purposes operating irrespective of human response.",
+      "key_phrases": ["heirs of the kingdom which He promised to those who love Him", "God chose the poor of this world to be rich in faith"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:8-11",
+      "section_title": "The Royal Law and the Indivisible Demand",
+      "category": "NOT_APPLICABLE",
+      "summary": "The royal law of love-of-neighbor is indivisible: stumbling at one point makes one a transgressor of the whole law, because the same God who forbade adultery also forbade murder."
+    },
+    {
+      "reference": "2:12-13",
+      "section_title": "Judgment by the Law of Liberty",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The community is to speak and act as those about to be judged by the law of liberty, and judgment will be merciless to those who showed no mercy, though mercy triumphs over judgment.",
+      "relevance": "This is a direct statement by the author about the judgment that awaits members of the believing community. The audience is being judged by the law of liberty -- the same law that blesses the doer in 1:25. The principle that judgment corresponds to conduct is explicitly stated: mercilessness in conduct produces merciless judgment. The community is not exempt from judgment but will be evaluated by how they have acted. The final clause -- 'mercy triumphs over judgment' -- introduces a counterweight but does not eliminate the principle that conduct affects the verdict.",
+      "key_phrases": ["so speak and so act as those who are to be judged by the law of liberty", "judgment will be merciless to one who has shown no mercy", "mercy triumphs over judgment"],
+      "confidence": "high"
+    },
+    {
+      "reference": "2:14-17",
+      "section_title": "Can That Faith Save?",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "James asks whether faith without works can save, and answers that faith which produces no action on behalf of a needy brother or sister is dead (nekra), using the food-and-clothing scenario to illustrate the emptiness of verbal-only faith.",
+      "relevance": "The question 'Can that faith save him?' is a direct interrogation of whether faith alone -- without corresponding works -- has saving power. The expected answer from the rhetorical structure is no. The adjective nekra (dead) applied to workless faith means it is inert, non-functioning, incapable of producing its intended effect. If faith is the means of receiving salvation and that faith is dead, then the person who possesses only dead faith is not saved. This directly addresses the question of the believer's standing: not every form of 'faith' secures standing before God.",
+      "key_phrases": ["what use is it if someone says he has faith but he has no works", "can that faith save him", "faith, if it has no works, is dead, being by itself"],
+      "confidence": "high"
+    },
+    {
+      "reference": "2:18",
+      "section_title": "The Interlocutor's Challenge",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "An objector proposes separating faith and works, but James counters that faith is demonstrated through works and cannot be shown apart from them.",
+      "relevance": "The argument insists that faith and works cannot be separated even in principle. If someone claims faith but cannot demonstrate it through works, the claim is empty. This reinforces the thesis that standing before God is not secured by an invisible, unverifiable internal state but requires visible evidence in conduct.",
+      "key_phrases": ["show me your faith without the works", "I will show you my faith by my works"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:19",
+      "section_title": "Belief and the Demons",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Demons believe that God is one -- correct monotheistic conviction -- and they shudder, demonstrating that correct belief alone does not constitute saving faith.",
+      "relevance": "If correct theological belief were sufficient for right standing before God, demons would be saved. The argument is reductio ad absurdum: the demons' example proves that belief (pisteuein) without works cannot be equated with saving faith. This demolishes the idea that assent to correct doctrine, by itself, secures one's standing before God. The demons even have an emotional response (they shudder), yet they remain demons. Neither cognition nor emotion substitutes for the obedient action that characterizes living faith.",
+      "key_phrases": ["you believe that God is one; you do well", "the demons also believe, and shudder"],
+      "confidence": "high"
+    },
+    {
+      "reference": "2:20",
+      "section_title": "The Empty Person",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "James challenges the 'empty person' to recognize that faith apart from works is useless (arge -- idle, barren, producing nothing).",
+      "relevance": "The adjective arge means barren or unproductive. Faith without works does not merely fail to prove itself; it is functionally inert. This reinforces the earlier verdict of nekra (dead): faith that does nothing accomplishes nothing, including securing standing before God.",
+      "key_phrases": ["you foolish fellow", "faith without works is useless"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:21-24",
+      "section_title": "Abraham: Faith Brought to Completion",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Abraham was justified by works when he offered Isaac, and his faith was 'brought to completion' (eteleiōthē) by his works, so that Genesis 15:6 was 'fulfilled' -- leading to the declaration that a person is justified by works and not by faith alone.",
+      "relevance": "The passage makes the most explicit statement in the letter about the relationship between faith, works, and justification: 'a person is justified by works and not by faith alone.' Abraham's faith, though real from Genesis 15:6 onward, was not complete until it produced the corresponding action of Genesis 22. The verb eteleiōthē (brought to completion) uses the same telos root from 1:4 (endurance having its 'perfect work'). Faith that does not reach completion through works is not yet the faith that justifies. This directly addresses whether standing before God (justification) depends on conduct: James says it does.",
+      "key_phrases": ["was not Abraham our father justified by works", "faith was working with his works, and as a result of the works, faith was perfected", "you see that a man is justified by works and not by faith alone"],
+      "confidence": "high"
+    },
+    {
+      "reference": "2:25",
+      "section_title": "Rahab: Faith Enacted at the Margins",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Rahab the harlot was justified by works when she received the messengers and sent them out by another way, extending the faith-and-works principle beyond the patriarch to the gentile outsider.",
+      "relevance": "The Rahab example demonstrates that the faith-works nexus is not limited to Abraham's unique case but is a universal principle. Even a gentile outsider was justified specifically by what she did in response to what she believed. The breadth of the examples (patriarch and prostitute) rules out treating the principle as a narrow exception.",
+      "key_phrases": ["was not Rahab the harlot also justified by works", "when she received the messengers and sent them out by another way"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:26",
+      "section_title": "The Final Analogy",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Just as the body without the spirit is dead, so faith without works is dead -- works are to faith what the animating breath is to the body.",
+      "relevance": "The body-spirit analogy is the letter's concluding argument on faith and works. The spirit is what makes the body a living being rather than a corpse; works are what make faith living rather than dead. Without works, faith is a corpse -- it has the form but not the life. Since dead faith cannot save (2:14), and since the body-spirit analogy makes this verdict structurally necessary, the passage directly implies that standing before God requires faith that is alive, which means faith that produces works.",
+      "key_phrases": ["just as the body without the spirit is dead", "so also faith without works is dead"],
+      "confidence": "high"
+    }
+  ]
+}

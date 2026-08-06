@@ -1,0 +1,46 @@
+{
+  "book": "3 John",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "vv. 1-2",
+      "section_title": "The Greeting and Health-Wish",
+      "category": "NOT_APPLICABLE",
+      "summary": "The elder addresses Gaius with a standard health-wish, notable for its comparison of physical well-being to spiritual well-being: he prays that Gaius's outer circumstances may match the prosperity of his soul."
+    },
+    {
+      "reference": "vv. 3-4",
+      "section_title": "The Elder's Joy -- Children Walking in Truth",
+      "category": "NOT_APPLICABLE",
+      "summary": "The elder reports his great joy at receiving testimony from traveling brothers that Gaius walks in truth, declaring that he has no greater joy than hearing that his children walk in the truth."
+    },
+    {
+      "reference": "vv. 5-8",
+      "section_title": "Commendation and Exhortation -- Hospitality to the Missionaries",
+      "category": "NOT_APPLICABLE",
+      "summary": "The elder commends Gaius for faithfully receiving traveling missionaries (even strangers) who go out for the sake of the Name and accept nothing from the Gentiles, and urges the community to support such men so as to become fellow workers with the truth."
+    },
+    {
+      "reference": "vv. 9-10",
+      "section_title": "The Problem of Diotrephes",
+      "category": "NOT_APPLICABLE",
+      "summary": "The elder reports that Diotrephes, who loves to be first, refuses to accept the elder's authority, slanders the elder with evil words, refuses hospitality to the traveling missionaries, and expels from the community those who wish to receive them."
+    },
+    {
+      "reference": "vv. 11-12",
+      "section_title": "The Moral Principle and the Commendation of Demetrius",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that the one who does good is 'of God' while the one who does evil 'has not seen God,' applying the Johannine diagnostic principle to the practical conflict, and then commending Demetrius with threefold testimony from everyone, from the truth itself, and from the elder.",
+      "relevance": "The passage states the Johannine tradition's fundamental diagnostic principle in its most compact form: 'The one who does good is of God; the one who does evil has not seen God.' The neutral reading identified this as 'the theological hinge of the entire letter,' connecting practical conduct to spiritual identity. The formula ek tou theou ('of God') describes origin and belonging -- conduct reveals whose child one is. The perfect tense heoraken ('has seen') with the negative makes a comprehensive denial: the evil-doer has never had a genuine encounter with God. The neutral reading noted that by the elder's categories, Diotrephes's conduct (love of primacy, slander, refusal of hospitality, expulsion of the faithful) constitutes evidence that he 'has not seen God.' The passage implies that spiritual identity is not self-declared but diagnosed by conduct.",
+      "key_phrases": ["the one who does good is of God", "the one who does evil has not seen God", "beloved, do not imitate what is evil, but what is good"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "vv. 13-15",
+      "section_title": "The Closing",
+      "category": "NOT_APPLICABLE",
+      "summary": "The elder expresses his preference for face-to-face communication, pronounces peace, and exchanges greetings between 'the friends' -- a distinctive Johannine designation for fellow believers, reflecting Jesus's calling his disciples friends in John 15:14-15."
+    }
+  ]
+}

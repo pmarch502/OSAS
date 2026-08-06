@@ -1,0 +1,78 @@
+{
+  "book": "Hebrews",
+  "chapter": 13,
+  "sections": [
+    {
+      "reference": "13:1-3",
+      "section_title": "Love, Hospitality, and Solidarity",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author commands that brotherly love continue, that hospitality to strangers not be neglected (since some have entertained angels unknowingly), and that the audience remember prisoners and the ill-treated as though sharing their condition."
+    },
+    {
+      "reference": "13:4-6",
+      "section_title": "Marriage, Contentment, and God's Faithfulness",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The author commands that marriage be held in honor and the marriage bed undefiled, warns that God will judge the sexually immoral and adulterers, instructs the audience to be content and free from the love of money, and grounds this in God's fivefold-negated promise from Deuteronomy 31 and Joshua 1: 'I will never desert you, nor will I ever abandon you,' enabling the confident confession from Psalm 118: 'The Lord is my helper, I will not be afraid.'",
+      "relevance": "God's fivefold-negated promise never to desert or abandon his people has implications for the permanence of the divine-human relationship. The promise describes God's side of the commitment as absolute and unconditional in its language. However, the neutral reading applies this promise to the audience's material situation (their property had been seized) rather than to the impossibility of apostasy. The letter's other passages demonstrate that while God will not abandon his people, the people can abandon God (3:12, 6:4-6, 10:26-31). The promise thus speaks to God's faithfulness but does not settle whether a person's standing is unilaterally guaranteed.",
+      "key_phrases": ["I will never desert you, nor will I ever abandon you", "The Lord is my helper, I will not be afraid"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:7-8",
+      "section_title": "Past Leaders and the Unchanging Christ",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author instructs the audience to remember their deceased leaders who spoke God's word, to consider the outcome of their lives and imitate their faith, and declares that Jesus Christ is the same yesterday, today, and forever."
+    },
+    {
+      "reference": "13:9",
+      "section_title": "Strange Teachings and the Heart Strengthened by Grace",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author warns against being carried away by varied and strange teachings, asserting that the heart should be strengthened by grace rather than by foods, since those occupied with dietary regulations were not benefited."
+    },
+    {
+      "reference": "13:10-14",
+      "section_title": "The Altar, the Camp, and the City to Come",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The author declares the community has an altar from which those serving the tabernacle cannot eat, establishes the typological connection between the Day of Atonement animals burned outside the camp and Jesus suffering outside the gate to sanctify the people through his own blood, exhorts the audience to go out to Jesus outside the camp bearing his reproach, and explains that they have no lasting city here but are seeking the city which is to come.",
+      "relevance": "The command to 'go out to Him outside the camp, bearing His reproach' requires a deliberate, ongoing choice to identify with the crucified Christ and leave behind the security of the established religious order. The verbal parallel with Abraham's going out in 11:8 frames this as an act of faith that requires sustained commitment. The audience's whole life is oriented as a journey toward a city not yet possessed (13:14), which parallels the patriarchs' sojourn in 11:13-16. The conditional implication is that faithfulness requires ongoing identification with Christ outside the camp, and the alternative -- remaining in the camp -- represents the very retreat from faith the letter has warned against throughout.",
+      "key_phrases": ["let us go out to Him outside the camp, bearing His reproach", "here we do not have a lasting city, but we are seeking the city which is to come"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:15-16",
+      "section_title": "The Sacrifices That Remain: Praise and Good Works",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author identifies the community's ongoing sacrifices under the new covenant: the sacrifice of praise through Christ (the fruit of lips confessing God's name, offered continually) and the sacrifice of doing good and sharing, with which God is pleased."
+    },
+    {
+      "reference": "13:17",
+      "section_title": "Obey Your Present Leaders",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author commands the audience to obey and submit to their current leaders, who keep watch over their souls as those who will give an account, so that they may do this with joy rather than groaning."
+    },
+    {
+      "reference": "13:18-19",
+      "section_title": "Personal Request for Prayer",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author requests prayer from the audience, claiming a good conscience and honorable conduct, and urges prayer for a speedy restoration to them."
+    },
+    {
+      "reference": "13:20-21",
+      "section_title": "The Benediction",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The author prays that the God of peace -- who raised from the dead the great Shepherd of the sheep through the blood of the eternal covenant, Jesus -- would equip the audience in every good thing to do his will, working in them what is pleasing in his sight through Jesus Christ, to whom be glory forever.",
+      "relevance": "The covenant is designated 'eternal' (aioniou), placing it in the category of the permanent and unshakable that cannot be removed (12:27-28). The prayer that God would 'work in us that which is pleasing in His sight' attributes the audience's ongoing faithfulness to divine enablement, suggesting that God's working sustains the relationship. The combination of 'eternal covenant' and divine working in the community has implications for permanence. However, the neutral reading observes that the benediction holds together both divine enablement and human responsibility without resolving the tension: 'The commands are real; the empowerment is also real.'",
+      "key_phrases": ["through the blood of the eternal covenant", "equip you in every good thing to do His will", "working in us that which is pleasing in His sight"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:22-25",
+      "section_title": "The Author's Final Words",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author identifies his letter as a 'word of exhortation,' mentions Timothy's release, sends greetings to all leaders and saints, relays greetings from those from Italy, and closes with the benediction: 'Grace be with you all.'"
+    }
+  ]
+}

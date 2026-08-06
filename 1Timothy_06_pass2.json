@@ -1,0 +1,78 @@
+{
+  "book": "1 Timothy",
+  "chapter": 6,
+  "sections": [
+    {
+      "reference": "6:1-2a",
+      "section_title": "Slaves and Masters -- Honor and the Name of God",
+      "category": "NOT_APPLICABLE",
+      "summary": "Slaves must honor their masters so that God's name and the teaching are not reviled; those with believing masters should serve them even better because the beneficiaries are brothers in the faith."
+    },
+    {
+      "reference": "6:2b-5",
+      "section_title": "The Return to False Teaching -- Different Doctrine and Its Fruits",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Anyone who teaches different doctrine and does not agree with the sound words of Christ Jesus is puffed up with conceit, understanding nothing, sick with controversy, producing envy, strife, slander, evil suspicions, and constant friction -- people who are corrupted in mind and deprived of the truth, treating godliness as commercial gain.",
+      "relevance": "The neutral reading identifies these false teachers as people who have been 'deprived of the truth' (apesteremenon tes aletheias, perfect passive -- stripped of truth they once had) and whose minds are 'corrupted' (diephtharmenon ton noun, perfect passive -- thoroughly ruined). The truth was once available to them; they have been stripped of it. The passage describes the terminal condition of those whose teaching has departed from the sound words of Christ Jesus, contributing to the letter's cumulative picture of real departure from the faith by people who were once insiders.",
+      "key_phrases": ["depraved in mind and deprived of the truth", "puffed up with conceit and understands nothing", "imagining that godliness is a means of gain"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:6-8",
+      "section_title": "Godliness with Contentment -- The True Gain",
+      "category": "NOT_APPLICABLE",
+      "summary": "True gain is godliness combined with contentment (autarkeia); since we brought nothing into the world and cannot take anything out, food and covering are sufficient for contentment."
+    },
+    {
+      "reference": "6:9-10",
+      "section_title": "The Love of Money -- The Mechanism of Departure",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Those who desire to be rich fall into temptation, snares, and destructive desires that plunge them into ruin and destruction; the love of money is a root of all kinds of evils, and through this craving some have wandered away from the faith and pierced themselves with many pangs.",
+      "relevance": "This passage reports the fourth explicit departure from the faith in the letter (after 1:6, 1:19, 4:1, 5:15). The verb apoplanasthai ('to wander away from') in the perfect tense (apeplanethesan) describes completed, lasting departure from 'the faith' (tes pisteos, with the definite article marking the community's shared confession). The neutral reading traces the nautical imagery that runs through the letter: faith can be shipwrecked (1:19) and persons can be plunged beneath the surface (bythizousin, 'sink/drown') into 'ruin and destruction' (olethron kai apoleian). The mechanism is specific: the craving for wealth. The passage treats departure from the faith as a real event that has already happened to identifiable persons, not as a theoretical impossibility.",
+      "key_phrases": ["fall into temptation, into a snare", "plunge people into ruin and destruction", "some have wandered away from the faith", "pierced themselves with many pangs"],
+      "confidence": "high"
+    },
+    {
+      "reference": "6:11-12",
+      "section_title": "The Final Charge to Timothy -- Flee, Pursue, Fight, Take Hold",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Timothy, as 'man of God,' must flee the love of money, pursue six virtues (righteousness, godliness, faith, love, steadfastness, gentleness), fight the good fight of the faith, and take hold of the eternal life to which he was called and about which he made the good confession before many witnesses.",
+      "relevance": "The command to 'take hold of eternal life' (epilabou tes aioniou zoes) uses the verb epilambanesthai ('to seize, to grasp firmly'), implying that eternal life requires active grasping -- it is not passively possessed but must be seized and held. The neutral reading notes: 'The eternal life is not merely future; it is a present reality that must be actively seized and held.' The fourfold command structure (flee, pursue, fight, take hold) presents the Christian life as requiring sustained effort and vigilance. Combined with the immediately preceding warning that some have wandered from the faith through craving wealth (6:10), the passage implies that eternal life must be actively maintained, not merely initially received.",
+      "key_phrases": ["flee these things", "fight the good fight of the faith", "take hold of the eternal life to which you were called"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:13-16",
+      "section_title": "The Solemn Charge Before God -- Keep the Commandment Until the Appearing",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul charges Timothy before God and Christ Jesus (who made the good confession before Pontius Pilate) to keep the commandment unstained and above reproach until the appearing of Christ, followed by a doxology ascribing to God sole sovereignty, exclusive immortality, unapproachable light, and invisibility.",
+      "relevance": "The charge to 'keep the commandment unstained and free from reproach until the appearing' (mechri tes epiphaneias) defines Timothy's obligation as extending without interruption to the end. The neutral reading observes: 'There is no point at which he can stop, no moment when the commandment expires. Faithfulness is required for the entire distance.' The preposition mechri ('until') combined with the imperative terein ('keep, guard') implies that the commandment could be stained or abandoned before the appearing -- the charge only makes sense if failure is a genuine possibility. The parallel between Timothy's good confession and Christ's good confession before Pilate frames faithfulness as costly and ongoing.",
+      "key_phrases": ["keep the commandment unstained and free from reproach", "until the appearing of our Lord Jesus Christ"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:17-19",
+      "section_title": "Instructions to the Rich -- Right Use of Wealth",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The rich must not be arrogant or set their hope on uncertain wealth but on God; they should do good, be rich in good works, and be generous -- thereby storing up a good foundation for the future and taking hold of that which is truly life.",
+      "relevance": "The phrase 'so that they may take hold of that which is truly life' (hina epilabontai tes ontos zoes) uses the same verb as verse 12 (epilambanesthai, 'to take hold of'). The neutral reading notes that ontōs zōē ('life that is truly life') is distinguished from the mere appearance of life that wealth provides. The passage implies that genuine life must be actively grasped through specific conduct (generosity, good works, right hope), not passively assumed. The connection between conduct and the experience of 'truly life' reinforces the letter's consistent pattern of contingency.",
+      "key_phrases": ["not to set their hopes on the uncertainty of riches, but on God", "so that they may take hold of that which is truly life"],
+      "confidence": "low"
+    },
+    {
+      "reference": "6:20-21",
+      "section_title": "The Final Exhortation -- Guard the Deposit",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Timothy must guard the deposit of sound teaching entrusted to him, avoiding the profane babble and contradictions of falsely named 'knowledge,' because by professing it some have swerved from the faith.",
+      "relevance": "This is the letter's fifth and final explicit statement of departure from the faith. The verb astochein ('to miss the mark, to swerve') is the same word used in 1:6, creating an inclusio: the letter begins and ends with swerving from the faith. The neutral reading catalogs the cumulative departures across the letter: swerving (1:6), shipwreck (1:19), departing (4:1), straying after Satan (5:15), wandering away (6:10), and now swerving again (6:21). The tense is past (estochesan, 'they have swerved') -- these are accomplished departures, not theoretical possibilities. The neutral reading concludes: 'The letter does not treat faith as an irrevocable possession. It treats faith as a deposit to be guarded, a fight to be fought, a life to be seized and held, and a path from which one can deviate.'",
+      "key_phrases": ["guard the deposit entrusted to you", "by professing it some have swerved from the faith"],
+      "confidence": "high"
+    }
+  ]
+}

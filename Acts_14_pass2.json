@@ -1,0 +1,58 @@
+{
+  "book": "Acts",
+  "chapter": 14,
+  "sections": [
+    {
+      "reference": "14:1-3",
+      "section_title": "Iconium -- The Pattern Repeats and Intensifies",
+      "category": "NOT_APPLICABLE",
+      "summary": "At Iconium, Paul and Barnabas speak in the synagogue and a large number of both Jews and Greeks believe; unbelieving Jews stir up opposition; the missionaries spend a long time there speaking boldly, with the Lord confirming the word of his grace through signs and wonders."
+    },
+    {
+      "reference": "14:4-7",
+      "section_title": "Division, Threat, and Flight to Lycaonia",
+      "category": "NOT_APPLICABLE",
+      "summary": "The city divides between those aligned with the Jews and those aligned with the apostles; when an attempt is made to stone them, Paul and Barnabas flee to Lystra and Derbe and continue preaching the gospel."
+    },
+    {
+      "reference": "14:8-10",
+      "section_title": "A Lame Man Healed at Lystra",
+      "category": "NOT_APPLICABLE",
+      "summary": "At Lystra, Paul heals a man crippled from birth who 'had faith to be made well,' commanding him to stand -- and the man immediately leaps up and walks."
+    },
+    {
+      "reference": "14:11-13",
+      "section_title": "The Crowd's Pagan Response -- Zeus and Hermes",
+      "category": "NOT_APPLICABLE",
+      "summary": "The pagan crowd misidentifies Barnabas and Paul as Zeus and Hermes and attempts to offer sacrifices to them -- a response that demonstrates the gap between the missionaries' message and the religious framework of their audience."
+    },
+    {
+      "reference": "14:14-18",
+      "section_title": "Paul's Speech to Pagans -- The Living God Who Made Everything",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul and Barnabas tear their garments, reject the worship, and redirect the crowd to 'a living God, who made the heaven and the earth and the sea and all that is in them,' declaring that in past generations God allowed the nations to walk in their own ways while nevertheless providing rain, fruitful seasons, and food."
+    },
+    {
+      "reference": "14:19-20",
+      "section_title": "The Stoning of Paul",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jews from Antioch and Iconium pursue the missionaries, persuade the crowds, stone Paul, and drag him out of the city supposing him dead; when the disciples gather around him, he rises and enters the city, departing the next day for Derbe."
+    },
+    {
+      "reference": "14:21-23",
+      "section_title": "The Return Journey -- Strengthening, Exhorting, Organizing",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "After making disciples at Derbe, Paul and Barnabas retrace their route through hostile cities, 'strengthening the souls of the disciples, encouraging them to continue in the faith, and saying that through many tribulations we must enter the kingdom of God'; they appoint elders in every church and entrust the communities to the Lord in whom they had believed.",
+      "relevance": "The verb emmenein ('to remain in, to persevere in') demands ongoing commitment and presupposes that continuing is not automatic. The neutral reading states explicitly: 'If perseverance were guaranteed, the exhortation would be pointless. The fact that Paul urges these new believers to continue in the faith implies that not continuing is a real possibility -- that the pressures of tribulation could lead some to abandon what they have embraced.' Furthermore, the kingdom of God is presented as something to be 'entered' (eiselthein) through many tribulations -- a future destination reached by enduring, not a present possession that cannot be lost. The consistent pattern of exhortation verbs across Acts (prosmenein in 11:23 and 13:43, emmenein here in 14:22) creates a sustained argument that ongoing faithfulness is both necessary and non-guaranteed.",
+      "key_phrases": ["encouraging them to continue in the faith", "emmenein te pistei", "through many tribulations we must enter the kingdom of God", "if perseverance were guaranteed, the exhortation would be pointless"],
+      "confidence": "high"
+    },
+    {
+      "reference": "14:24-28",
+      "section_title": "The Return to Antioch -- Report to the Sending Church",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul and Barnabas return to Antioch in Syria and report to the sending church 'all the things that God had done with them and how he had opened a door of faith to the Gentiles,' then remain there for a long time."
+    }
+  ]
+}

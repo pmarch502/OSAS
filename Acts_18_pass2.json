@@ -1,0 +1,46 @@
+{
+  "book": "Acts",
+  "chapter": 18,
+  "sections": [
+    {
+      "reference": "18:1-4",
+      "section_title": "Arrival in Corinth, Aquila and Priscilla, Tentmaking",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul arrives in Corinth, meets Aquila and Priscilla (Jews expelled from Rome by Claudius's edict, likely already believers), works with them as a tentmaker, and reasons in the synagogue every Sabbath trying to persuade Jews and Greeks."
+    },
+    {
+      "reference": "18:5-8",
+      "section_title": "The Arrival of Silas and Timothy, the Turn to Gentiles, Crispus",
+      "category": "NOT_APPLICABLE",
+      "summary": "When Silas and Timothy arrive from Macedonia, Paul intensifies his testimony that the Christ is Jesus; when the synagogue opposes and reviles him, he declares 'Your blood be on your own heads! I am innocent. From now on I will go to the Gentiles'; he moves next door to the house of God-fearer Titius Justus, and Crispus the synagogue ruler believes with his entire household, followed by many Corinthians."
+    },
+    {
+      "reference": "18:9-11",
+      "section_title": "The Lord's Vision and Paul's Extended Stay",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The Lord speaks to Paul in a night vision: 'Do not be afraid, but go on speaking and do not be silent, for I am with you, and no one will attack you to harm you, for I have many people in this city'; Paul stays eighteen months teaching the word of God.",
+      "relevance": "The Lord's declaration 'I have many people (laos) in this city' uses the covenant term laos -- the LXX word for Israel as God's chosen people -- to describe an uncollected, as-yet-unbelieving population in a pagan city. The neutral reading observes: 'God has a people in Corinth who are already his, who belong to him, who will respond when the word is spoken. They exist before Paul's preaching gathers them. They are God's prior possession -- a people who need to be found, not created.' This language of divine prior possession has implications for permanence: if God possesses a people before they believe, and their believing corresponds to God's prior claim on them, then their standing may rest on something more durable than their own decision. However, the text does not address what happens after they believe -- whether God's prior claim also guarantees their perseverance.",
+      "key_phrases": ["I have many people in this city", "laos -- God's covenant people", "God's prior possession", "a people who need to be found, not created"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "18:12-17",
+      "section_title": "The Gallio Incident",
+      "category": "NOT_APPLICABLE",
+      "summary": "When the Jews bring Paul before the proconsul Gallio on charges of promoting worship 'contrary to the law,' Gallio dismisses the case as an internal Jewish dispute about 'words and names and your own law,' establishing the first Roman judicial precedent that the Christian proclamation is not a violation of Roman law."
+    },
+    {
+      "reference": "18:18-23",
+      "section_title": "Departure from Corinth, Ephesus Visit, Return to Antioch",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul departs Corinth with Priscilla and Aquila, keeps a Nazirite vow at Cenchreae, briefly visits the Ephesian synagogue (leaving Priscilla and Aquila there), travels to Caesarea and Jerusalem, returns to Antioch, and departs on a third journey through Galatia and Phrygia, strengthening all the disciples."
+    },
+    {
+      "reference": "18:24-28",
+      "section_title": "Apollos in Ephesus and Corinth",
+      "category": "NOT_APPLICABLE",
+      "summary": "Apollos, an eloquent Alexandrian Jew competent in the scriptures, arrives in Ephesus teaching accurately about Jesus but knowing only John's baptism; Priscilla and Aquila privately instruct him 'more accurately'; he crosses to Corinth where 'he greatly helped those who through grace had believed, for he powerfully refuted the Jews in public, showing by the Scriptures that the Christ was Jesus.'"
+    }
+  ]
+}

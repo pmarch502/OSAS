@@ -1,0 +1,44 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 13,
+  "sections": [
+    {
+      "reference": "13:1-2",
+      "section_title": "The Third Visit and the Standard of Evidence",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul announces his imminent third visit, invokes the Deuteronomic standard of two or three witnesses, and warns those who sinned previously and all others that if he comes again he will not spare them.",
+      "relevance": "Paul's warning that he will 'not spare' those who have sinned and not repented carries implications for standing within the believing community. The verb pheidomai (to spare) deliberately echoes 1:23 where Paul's earlier restraint was an act of mercy; the cessation of that mercy signals that consequences for unrepented sin are real and approaching. The warning is addressed to people within the community -- not outsiders -- and the chain of warnings (second visit in person, this letter while absent, the coming third visit) satisfies Deuteronomy 19:15's evidentiary standard. The implication is that membership in the community and whatever standing it represents is not immune to the consequences of persistent, unrepented conduct.",
+      "key_phrases": ["if I come again I will not spare them", "I warned those who sinned before and all the others", "Every charge must be established by the evidence of two or three witnesses"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:3-4",
+      "section_title": "The Proof They Demand and the Christological Pattern of Weakness and Power",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul responds to the demand for proof that Christ speaks through him by grounding his ministry in the christological pattern: Christ was crucified in weakness but lives by God's power, and Paul likewise participates in both the cruciform weakness and the resurrection power."
+    },
+    {
+      "reference": "13:5-7",
+      "section_title": "The Reversal -- Test Yourselves, Not Paul",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_by_both",
+      "summary": "Paul reverses the Corinthians' demand for proof of his authority by commanding them to examine themselves to see whether they are in the faith, raising the possibility that they may be adokimoi (disqualified), and then declaring that he would rather they do what is right and he appear to have failed than that they do wrong and he appear vindicated.",
+      "relevance": "The command to self-examine ('whether you are in the faith') directly implies that being 'in the faith' is not automatically guaranteed and requires diagnostic verification. The possibility of being adokimoi (counterfeit, rejected after testing, disqualified) is raised as a real, if rhetorically unlikely, prospect. The neutral reading notes that Paul expects them to find Christ in them, but the logical force of the argument requires that failing the test is genuinely possible -- otherwise the test is meaningless. Furthermore, Paul's willingness to appear adokimos himself if the Corinthians do what is right subordinates apostolic vindication to the community's moral condition, implying that conduct matters for standing. The passage's rhetorical purpose is to prove Paul's legitimacy by showing that the Corinthians' own genuineness depends on his ministry, but the conditional implication -- that one's status as genuinely 'in the faith' must be verified and could be found wanting -- is intrinsic to the argument's logic.",
+      "key_phrases": ["Examine yourselves, to see whether you are in the faith", "Test yourselves", "unless indeed you fail to meet the test", "that you may do what is right, though we may seem to have failed"],
+      "confidence": "high"
+    },
+    {
+      "reference": "13:8-10",
+      "section_title": "Truth, Weakness, and the Purpose of Authority",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul states that apostolic authority cannot act against truth but only for it, rejoices when the community is strong and he is weak, prays for their restoration (katartisis), and explains that he writes these warnings while absent so that when present he will not have to be severe with the authority God gave him for building up, not tearing down."
+    },
+    {
+      "reference": "13:11-14",
+      "section_title": "Final Exhortations and Benediction",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul closes with exhortations to rejoice, aim for restoration, comfort one another, agree, and live in peace, promises that the God of love and peace will be with a community that practices these things, extends greetings and the holy kiss, and concludes with the trinitarian benediction of grace, love, and fellowship directed to all of them without exclusion."
+    }
+  ]
+}

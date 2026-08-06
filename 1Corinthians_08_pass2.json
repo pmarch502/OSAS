@@ -1,0 +1,46 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 8,
+  "sections": [
+    {
+      "reference": "8:1",
+      "section_title": "The Corinthian Slogan and Paul's Correction",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul engages the Corinthians' confident claim that 'all of us possess knowledge' regarding food offered to idols, immediately countering that knowledge puffs up while love builds up, reframing the entire question from theological correctness to communal responsibility."
+    },
+    {
+      "reference": "8:2-3",
+      "section_title": "The Insufficiency of Knowledge and the Priority of Being Known",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul warns that the person who thinks they have arrived at knowledge has not yet known as they ought, and shifts the framework from knowing God to loving God and being known by God, placing the relational reality of covenantal recognition above intellectual achievement."
+    },
+    {
+      "reference": "8:4-6",
+      "section_title": "The Content of the Knowledge -- Monotheistic Confession",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul affirms the Corinthians' theological knowledge -- that an idol is nothing and there is no God but one -- and reformulates the monotheistic confession christologically: one God the Father as source and goal of all things, and one Lord Jesus Christ as agent through whom all things exist."
+    },
+    {
+      "reference": "8:7-8",
+      "section_title": "The Weak Conscience and the Limits of Knowledge",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul qualifies the Corinthians' claim by noting that not all possess this knowledge: some, shaped by lifelong familiarity with idol worship, still experience idol-food as genuinely offered to a real deity, and their weak conscience is defiled when they eat, even though food itself is indifferent before God."
+    },
+    {
+      "reference": "8:9-12",
+      "section_title": "The Stumbling Block, the Destruction of the Brother, and Sin Against Christ",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul warns that the knowledgeable believer's exercise of their legitimate right to eat idol-food can become a stumbling block that emboldens a weak brother to violate his own conscience, resulting in the destruction of that brother -- one for whom Christ died -- which constitutes sin against Christ himself.",
+      "relevance": "This passage uses the verb apollymi ('to destroy, to perish') -- the same word that describes 'those who are perishing' in 1:18 -- for a brother within the community who is being destroyed by another believer's careless exercise of freedom. The neutral reading draws the connection explicitly: 'The same verb, the same trajectory. The knowledgeable person's exercise of freedom is pushing a brother onto the path of destruction -- the path that leads away from salvation.' The person being destroyed is identified as 'the brother for whom Christ died' (ho adelphos di' hon Christos apethanen), establishing that Christ's death had this specific person in view. The neutral reading states: 'The destruction of this brother undoes what Christ's death accomplished. Christ died to save; the knowledgeable person's freedom is destroying.' Paul identifies this action as sin against Christ himself (8:12). The passage directly implies that a believer -- someone inside the community, for whom Christ died -- can be placed on the trajectory of eschatological destruction through the actions of another believer. This is Paul's own argument, central to his treatment of the idol-food question.",
+      "key_phrases": ["this weak person is destroyed", "the brother for whom Christ died", "you sin against Christ", "wounding their weak conscience", "a stumbling block to the weak"],
+      "confidence": "high"
+    },
+    {
+      "reference": "8:13",
+      "section_title": "Paul's Own Resolution -- Total Self-Limitation",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul states his own resolution: he would permanently and absolutely give up all meat rather than cause a brother to stumble, establishing the principle that love constrains the exercise of legitimate rights and preparing for the extended personal demonstration of voluntary self-limitation in chapter 9."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "book": "Hebrews",
+  "chapter": 7,
+  "sections": [
+    {
+      "reference": "7:1-3",
+      "section_title": "The Scriptural Portrait of Melchizedek",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds the author presents Melchizedek from Genesis 14:18-20 as king of righteousness (by the meaning of his name) and king of peace (by his title 'king of Salem'), noting that scripture records him without genealogy, beginning, or end of life -- 'made like the Son of God' -- so that he remains a priest perpetually in the textual record."
+    },
+    {
+      "reference": "7:4-10",
+      "section_title": "The Greatness of Melchizedek Demonstrated Through Abraham",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds the author demonstrates Melchizedek's superiority over Abraham and the Levitical priesthood through two arguments: Abraham (the patriarch to whom the promises were given) paid tithes to Melchizedek and received his blessing, and Levi himself, still in Abraham's loins, paid tithes through his ancestor."
+    },
+    {
+      "reference": "7:11-14",
+      "section_title": "The Insufficiency of the Levitical Priesthood and the Need for a New Order",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds the author argues that if the Levitical priesthood had achieved its purpose (teleiōsis -- bringing people into full access to God), God would not have announced another priest from a different order, and since the priesthood is the foundation of the law, a change of priesthood necessitates a change of law -- noting that Jesus belongs to Judah, a tribe about which Moses said nothing concerning priests."
+    },
+    {
+      "reference": "7:15-17",
+      "section_title": "The Basis of the New Priesthood -- Indestructible Life",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds the author contrasts the Levitical priesthood, established on fleshly legal requirements (lineage, physical qualification, terminated by death), with the Melchizedekian priesthood, established on the power of an indestructible life -- attested by Psalm 110:4, 'You are a priest forever.'"
+    },
+    {
+      "reference": "7:18-19",
+      "section_title": "The Nullification of the Old and the Introduction of the Better",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds the author declares the former commandment annulled because of its weakness and uselessness -- the law made nothing perfect -- and a better hope introduced, through which the audience comes near to God."
+    },
+    {
+      "reference": "7:20-22",
+      "section_title": "The Oath and the Guarantee of a Better Covenant",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds the author contrasts the Levitical priests, who were appointed without an oath, with Jesus, whose priesthood was established by God's sworn, irrevocable oath ('The Lord has sworn and will not change His mind'), making Jesus the personal guarantor (enguos) of a better covenant.",
+      "relevance": "The passage bears on the question by establishing Jesus as the guarantor of a better covenant -- a term (enguos) that means the one who personally stands behind an obligation and pledges their own person to ensure it is fulfilled. The oath 'will not change His mind' eliminates the theoretical possibility of reversal. The priesthood is permanent because God's sworn commitment is permanent. This grounds the covenant's reliability not in the believer's performance but in God's irrevocable act. The emphasis on the oath's irreversibility and Jesus's personal guarantee of the covenant's terms supports the permanence of the arrangement from God's side.",
+      "key_phrases": ["The Lord has sworn and will not change His mind", "You are a priest forever", "Jesus has become the guarantee of a better covenant"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "7:23-25",
+      "section_title": "The Permanence of Jesus's Priesthood",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds the author contrasts the mortality-limited service of Levitical priests (many in number because death prevented them from continuing) with Jesus's permanent, non-transferable priesthood, concluding that he is able to save forever/completely those who come to God through him, since he always lives to make intercession for them.",
+      "relevance": "The passage bears on the question from both directions. The dominant theme is the permanence of Jesus's priestly ministry: he holds his priesthood permanently (aparabaton), he always lives (pantote zōn), and his intercession never ceases. The ability to 'save forever' (sōzein eis to panteles) encompasses both temporal permanence (no gap in priestly coverage) and qualitative completeness (full, not partial salvation). This powerfully supports the permanence of the saving arrangement. However, the neutral reading observes that the recipients are described with a present participle: 'those who come to God through Him' (tous proserchomenous), indicating an ongoing posture of approach rather than a completed past event. The neutral reading states this is 'consistent with the author's repeated exhortations throughout the letter to hold firmly... The permanent priesthood provides permanent saving power, but that power is directed toward those who continue in the posture of approaching God through the high priest.' The passage holds together permanent priestly power and ongoing worshipper participation.",
+      "key_phrases": ["holds His priesthood permanently", "He is able to save forever those who come to God through Him", "He always lives to make intercession for them"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "7:26-28",
+      "section_title": "The Character and Finality of This High Priest",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds the author describes the kind of high priest fitting for the audience -- holy, innocent, undefiled, separated from sinners, exalted above the heavens -- who has no need to offer daily sacrifices for his own sins because he offered himself once for all time, and who was appointed not by the law (which installs weak men) but by the word of the oath (which appoints a Son perfected forever).",
+      "relevance": "The passage bears on the question through the concept of finality. The phrase 'once for all time' (ephapax) establishes that Jesus's sacrifice does not require repetition -- unlike the Levitical sacrifices that had to be repeated daily and annually because they could not definitively resolve sin. The completeness and unrepeatable character of the sacrifice supports the permanence of its effect. The Son 'has been made perfect forever' (eis ton aiōna teteleiōmenon), indicating his priestly qualification and the benefits flowing from it do not expire. The contrast between the law's appointment of 'men who are weak' and the oath's appointment of 'a Son who has been perfected forever' grounds the permanence of the new arrangement in the Son's own perfected, eternal status rather than in the fluctuating condition of the worshippers.",
+      "key_phrases": ["holy, innocent, undefiled, separated from sinners", "He did this once for all time when He offered up Himself", "the word of the oath appoints a Son", "who has been made perfect forever"],
+      "confidence": "medium"
+    }
+  ]
+}

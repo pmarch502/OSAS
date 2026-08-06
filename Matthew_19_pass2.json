@@ -1,0 +1,56 @@
+{
+  "book": "Matthew",
+  "chapter": 19,
+  "sections": [
+    {
+      "reference": "19:1-2",
+      "section_title": "Transition: Departure from Galilee",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies this as a structural transition marking the end of the fourth discourse and Jesus's departure from Galilee toward Judea, with large crowds following and healings mentioned without detail."
+    },
+    {
+      "reference": "19:3-9",
+      "section_title": "The Pharisees' Question About Divorce",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus grounding marriage permanence in the creation design of Genesis 1-2, overriding the Mosaic concession for divorce granted because of hardness of heart, and classifying remarriage after divorce as adultery."
+    },
+    {
+      "reference": "19:10-12",
+      "section_title": "The Disciples' Response and the Teaching on Celibacy",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus recognizing celibacy for the kingdom as a valid calling given by God to some, without universalizing it or denigrating marriage."
+    },
+    {
+      "reference": "19:13-15",
+      "section_title": "Children Brought to Jesus",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading shows the disciples attempting to block children from Jesus despite chapter 18's teaching, with Jesus reaffirming that the kingdom belongs to those who share the quality of child-like dependence and lowliness."
+    },
+    {
+      "reference": "19:16-22",
+      "section_title": "The Young Man's Question About Eternal Life",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents a devout young man who kept the commandments but could not relinquish his possessions when called to sell all, give to the poor, and follow Jesus, making him the only person in the document who receives the call to follow and refuses.",
+      "relevance": "The passage establishes that eternal life requires not merely commandment-keeping but total reorientation involving ongoing discipleship ('come, follow me'). The young man's refusal shows that a genuine call to life can be declined and that the conditions involve ongoing allegiance to Jesus, not a single transactional act. The call 'follow me' is the same verb used for discipleship throughout the document, indicating that the path to eternal life is an ongoing relationship, not a one-time decision.",
+      "key_phrases": ["if you would be perfect", "sell what you possess and give to the poor", "come, follow me", "he went away sorrowful, for he had great possessions"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "19:23-26",
+      "section_title": "The Difficulty of Wealth and the Kingdom",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus's teaching that kingdom entry is impossible by human effort, progressing from 'with difficulty' to 'impossible' to 'with God all things are possible,' locating the possibility of salvation entirely in God's power rather than human achievement."
+    },
+    {
+      "reference": "19:27-30",
+      "section_title": "Peter's Question About Reward and the First-Last Reversal",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus promising thrones and eternal life to those who sacrifice for his name while warning through the first-last reversal that assumed security of position is unsafe.",
+      "relevance": "The first-last reversal ('many who are first will be last, and the last first') functions as a warning even to those who have genuinely left everything to follow Jesus. The neutral reading states that 'those who assume their position is secure may discover it is not,' implying that established discipleship does not automatically guarantee final standing. The warning is addressed to insiders (Peter and the twelve), not outsiders.",
+      "key_phrases": ["many who are first will be last, and the last first"],
+      "confidence": "low"
+    }
+  ]
+}

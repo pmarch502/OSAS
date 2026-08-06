@@ -1,0 +1,44 @@
+{
+  "book": "Matthew",
+  "chapter": 22,
+  "sections": [
+    {
+      "reference": "22:1-14",
+      "section_title": "The Parable of the Wedding Feast: Invitation, Refusal, and Judgment",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_by_both",
+      "summary": "The neutral reading presents a parable where a king's invited guests refuse and are destroyed, new guests are gathered from the roads (both bad and good), but a man without a wedding garment is cast into outer darkness, concluding with 'many are called, but few are chosen.'",
+      "relevance": "The passage directly addresses whether participation in the kingdom can be revoked. The man without the wedding garment was at the feast -- he had responded to the invitation and entered -- but was cast into outer darkness for lacking the appropriate condition of participation. The neutral reading states: 'Being called is necessary but not sufficient; being among the eklektoi requires responding to the call on the king's terms.' This implies that entry into the kingdom celebration does not guarantee final inclusion, and that standing depends on meeting ongoing conditions the host has established.",
+      "key_phrases": ["many are called, but few are chosen", "Friend, how did you get in here without a wedding garment", "bind him hand and foot and cast him into the outer darkness"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "22:15-22",
+      "section_title": "The Question about Paying Taxes to Caesar",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus escaping the Pharisees' trap about Roman taxation by distinguishing what bears Caesar's image (the coin) from what bears God's image (the person), asserting that what belongs to God is the whole self."
+    },
+    {
+      "reference": "22:23-33",
+      "section_title": "The Sadducees' Question about the Resurrection",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus grounding the resurrection not in philosophical argument but in God's covenant faithfulness: God identifies himself as the God of Abraham, Isaac, and Jacob in the present tense, which means his covenant relationship with his people persists beyond death.",
+      "relevance": "The neutral reading states: 'The resurrection is a corollary of God's faithfulness' and 'God's covenant commitments to his people persist beyond death.' If God maintains covenant relationship with his people even through death, this bears on the permanence of standing: a God who is 'not the God of the dead but of the living' sustains the relationship he has entered into. The basis of resurrection is not human achievement but the character of God as one who keeps covenant.",
+      "key_phrases": ["I am the God of Abraham, and the God of Isaac, and the God of Jacob", "He is not God of the dead, but of the living"],
+      "confidence": "low"
+    },
+    {
+      "reference": "22:34-40",
+      "section_title": "The Question about the Greatest Commandment",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus identifying the love of God (Deuteronomy 6:5) and love of neighbor (Leviticus 19:18) as the two commandments on which the entire Law and the Prophets hang, establishing love as the organizing principle of Torah."
+    },
+    {
+      "reference": "22:41-46",
+      "section_title": "The Question about David's Son: Jesus's Counter-Question",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus using Psalm 110:1 to show that the Messiah is not merely David's descendant but David's Lord, possessing an authority that transcends human lineage and derives from divine appointment, silencing all further challenges."
+    }
+  ]
+}

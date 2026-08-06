@@ -1,0 +1,44 @@
+{
+  "book": "1 Timothy",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Greeting -- Apostolic Authority and Spiritual Kinship",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul establishes his apostolic authority by divine command and addresses Timothy as his legitimate spiritual child, with a greeting of grace, mercy, and peace."
+    },
+    {
+      "reference": "1:3-7",
+      "section_title": "The Problem -- False Teaching in Ephesus",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Certain persons have swerved from the aims of sound teaching -- love from a pure heart, good conscience, and sincere faith -- and wandered into empty speculation, desiring to be Torah teachers without understanding.",
+      "relevance": "The neutral reading describes insiders who 'swerved from' (astochesantes) the triple aim of love, good conscience, and sincere faith, and 'wandered away' (exetraphesan) into vain discussion. The language of departure from a position previously held implies that standing within the community's faith was real but has been abandoned. The passage does not directly address whether this departure is reversible or what its final consequences are, but it establishes that those within the faith community can and do depart from its foundational qualities.",
+      "key_phrases": ["swerving from these", "wandered away into vain discussion", "desiring to be teachers of the law without understanding"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:8-11",
+      "section_title": "The Proper Function of the Law",
+      "category": "NOT_APPLICABLE",
+      "summary": "The law is good when used lawfully -- its function is to identify and restrain transgression, as demonstrated by a vice list corresponding to the Decalogue, all in accordance with the gospel of God's glory entrusted to Paul."
+    },
+    {
+      "reference": "1:12-17",
+      "section_title": "Paul's Own Story -- The Paradigm of Mercy",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul presents himself as the foremost sinner who received mercy because he acted in ignorance, serving as a paradigmatic demonstration of Christ's patience for all future believers, prompting a doxology to the eternal, immortal, invisible God."
+    },
+    {
+      "reference": "1:18-20",
+      "section_title": "The Charge Renewed -- Warning by Example",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Paul entrusts the charge to Timothy and warns that Hymenaeus and Alexander, by deliberately rejecting good conscience, have made shipwreck of their faith and been handed over to Satan for pedagogical discipline.",
+      "relevance": "This passage directly addresses the destruction of faith through deliberate rejection of conscience. The neutral reading identifies the mechanism with precision: the rejection of conscience (aposamenoi -- a deliberate pushing away) is the direct cause of the destruction of faith (enauagesan -- shipwreck). The contrast with Paul's own story is pointed: Paul sinned in ignorance and received mercy; these persons rejected what they knew to be right. The shipwreck metaphor implies total destruction of the vessel (faith), not mere damage. The discipline has a pedagogical aim ('that they may learn not to blaspheme'), but the text does not guarantee the outcome. The passage treats faith as something that can be irreparably destroyed by the deliberate rejection of moral conscience.",
+      "key_phrases": ["by rejecting this", "some have made shipwreck of their faith", "whom I have handed over to Satan that they may learn not to blaspheme"],
+      "confidence": "high"
+    }
+  ]
+}

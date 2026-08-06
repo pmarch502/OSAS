@@ -1,0 +1,46 @@
+{
+  "book": "Hebrews",
+  "chapter": 8,
+  "sections": [
+    {
+      "reference": "8:1-2",
+      "section_title": "The Summary Claim: We Have Such a High Priest",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author summarizes the preceding argument by declaring that the community possesses a high priest who has taken his seat at God's right hand and who ministers in the true, heavenly tabernacle that God himself erected."
+    },
+    {
+      "reference": "8:3-5",
+      "section_title": "The Earthly Priesthood as Copy and Shadow",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author argues that earthly priests serve a derivative copy of the heavenly reality, grounding this in Exodus 25:40's command that Moses build according to the pattern shown on the mountain."
+    },
+    {
+      "reference": "8:6",
+      "section_title": "Better Ministry, Better Covenant, Better Promises",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author declares that Christ has obtained a more excellent ministry as mediator of a better covenant enacted on better promises, with the superiority of the ministry proportional to the superiority of the covenant."
+    },
+    {
+      "reference": "8:7-8a",
+      "section_title": "The Inadequacy of the First Covenant",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author argues that the existence of a prophesied second covenant proves the first was not faultless, with the fault lying in the people's inability to keep it and the covenant's structural inability to remedy that failure."
+    },
+    {
+      "reference": "8:8b-12",
+      "section_title": "The Jeremiah Quotation: God's Own Words About a Coming Covenant",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "The author quotes Jeremiah 31:31-34 at full length, presenting God's announcement of a new covenant featuring internalized law, restored covenant relationship, universal direct knowledge of God, and definitive forgiveness where sins are remembered no more.",
+      "relevance": "The new covenant's promise that God will 'no longer remember' sins describes a definitive, once-for-all resolution of the sin problem, contrasting with the old covenant's provisional, repeated atonement. The internalization of law on hearts and minds addresses the structural failure that caused the old covenant to break down, suggesting a more durable arrangement that produces obedience from within rather than imposing it from without. However, the passage describes the covenant's terms and design rather than directly addressing whether an individual participant can abandon it. The four features together constitute a coherent system designed to prevent the bilateral breakdown that destroyed the first covenant, which has permanence implications, but the passage remains a description of the covenant's provisions rather than a direct statement about the irrevocability of individual standing.",
+      "key_phrases": ["their sins I will no longer remember", "I will put My laws into their minds and write them on their hearts", "I will be their God and they shall be My people", "they will all know Me from the least to the greatest"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "8:13",
+      "section_title": "The Author's Conclusion: Obsolescence",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author draws the inference that God's use of the word 'new' for the coming covenant rendered the first covenant obsolete, and observes that the old system is presently aging and approaching disappearance."
+    }
+  ]
+}

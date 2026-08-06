@@ -1,0 +1,56 @@
+{
+  "book": "Revelation",
+  "chapter": 11,
+  "sections": [
+    {
+      "reference": "11:1-2",
+      "section_title": "The Measuring of the Temple",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "John is commanded to measure the inner sanctuary, the altar, and the worshippers within it -- signifying God's protective claim over his worshipping community -- while excluding the outer court, which is given to the nations to trample for forty-two months.",
+      "relevance": "The measuring of the worshippers parallels the sealing of the 144,000 in chapter 7: both acts delimit the community God claims and protects through tribulation. The divine passive 'was given' indicates that God controls the scope of what the nations are permitted to do. God's active identification, counting, and protection of those who worship within the measured space implies a protective faithfulness over his recognized people. However, the passage does not address whether individuals can move from the measured to the unmeasured space, and the distinction between protected inner sanctuary and surrendered outer court introduces some ambiguity about what determines inclusion.",
+      "key_phrases": ["measure the temple of God and the altar, and those who worship in it", "it has been given to the nations", "they will tread under foot the holy city for forty-two months"],
+      "confidence": "low"
+    },
+    {
+      "reference": "11:3-6",
+      "section_title": "The Two Witnesses",
+      "category": "NOT_APPLICABLE",
+      "summary": "God grants authority to two witnesses who prophesy for 1,260 days clothed in sackcloth, identified as the two olive trees and lampstands of Zechariah 4, exercising the powers of Elijah (shutting the heavens) and Moses (turning water to blood and striking with plagues) throughout the entire period of the nations' trampling."
+    },
+    {
+      "reference": "11:7-10",
+      "section_title": "The Beast Kills the Witnesses",
+      "category": "NOT_APPLICABLE",
+      "summary": "The beast from the abyss kills the two witnesses only after they have completed their testimony; their unburied bodies lie in the street of the great city (identified as Sodom, Egypt, and the place of the crucifixion) while the earth-dwellers celebrate the silencing of the prophetic word that tormented them."
+    },
+    {
+      "reference": "11:11-13",
+      "section_title": "Resurrection, Ascension, and Earthquake",
+      "category": "NOT_APPLICABLE",
+      "summary": "After three and a half days, God's breath of life enters the witnesses and they ascend to heaven in the cloud while their enemies watch; an earthquake destroys a tenth of the city and kills seven thousand, and the rest -- in deliberate contrast to the refusal to repent in 9:20-21 -- are terrified and give glory to the God of heaven."
+    },
+    {
+      "reference": "11:14",
+      "section_title": "The Transition to the Third Woe",
+      "category": "NOT_APPLICABLE",
+      "summary": "The editorial transition declares the second woe past and the third woe imminent, connecting the interlude of the witnesses back to the structural woe-framework established in 8:13."
+    },
+    {
+      "reference": "11:15-18",
+      "section_title": "The Seventh Trumpet",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The seventh trumpet sounds and heavenly voices declare that the kingdom of the world has become God's and Christ's kingdom; the twenty-four elders worship, declaring that God has taken his great power and begun to reign, that the time has come to judge the dead, to reward his servants, and to destroy those who destroy the earth.",
+      "relevance": "The elders' song presents a dual-outcome framework at the eschatological consummation: reward for servants, prophets, saints, and God-fearers on one hand, and destruction for earth-destroyers on the other. The reward language corresponds to the conditional promises made to 'the one who conquers' in chapters 2-3 (tree of life, crown of life, white garments, a seat on the throne), now reaching fulfillment. The description of the rewarded uses active participial language ('those who fear your name') implying ongoing disposition and conduct, and the dual outcome implies that final destiny corresponds to the category one occupies. The passage does not directly address whether a believer can move between categories, but the reward-for-faithfulness structure implies that the outcome is linked to sustained conduct rather than a one-time status change.",
+      "key_phrases": ["the time to reward your bond-servants the prophets and the saints and those who fear your name, the small and the great", "to destroy those who destroy the earth", "you have taken your great power and have begun to reign"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "11:19",
+      "section_title": "The Opened Temple and the Ark of the Covenant",
+      "category": "NOT_APPLICABLE",
+      "summary": "The heavenly temple opens to reveal the ark of the covenant -- the symbol of God's covenant faithfulness lost since 586 BCE -- accompanied by an escalating theophany formula of lightning, sounds, thunder, earthquake, and hailstorm, grounding the eschatological consummation in the same covenant faithfulness established at Sinai."
+    }
+  ]
+}

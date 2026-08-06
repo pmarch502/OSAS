@@ -1,0 +1,78 @@
+{
+  "book": "Mark",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1",
+      "section_title": "The Opening Declaration",
+      "category": "NOT_APPLICABLE",
+      "summary": "The opening superscription identifies Jesus as Christ and Son of God, establishing his identity and the nature of the narrative as 'good news.'"
+    },
+    {
+      "reference": "1:2-3",
+      "section_title": "The Scriptural Foundation",
+      "category": "NOT_APPLICABLE",
+      "summary": "A composite citation from Malachi and Isaiah identifies Jesus as the Lord whose coming fulfills the promises of Israel's restoration from exile."
+    },
+    {
+      "reference": "1:4-8",
+      "section_title": "John in the Wilderness",
+      "category": "NOT_APPLICABLE",
+      "summary": "John the Baptist appears as the Elijah figure proclaiming a baptism of repentance for forgiveness of sins and announcing the coming of one who will baptize with the Holy Spirit."
+    },
+    {
+      "reference": "1:9-11",
+      "section_title": "Jesus' Immersion and the Heavenly Declaration",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus is baptized by John, the heavens are torn open, the Spirit descends on him, and the heavenly voice identifies him as God's beloved Son by fusing Psalm 2 and Isaiah 42."
+    },
+    {
+      "reference": "1:12-13",
+      "section_title": "The Spirit Drives Jesus Into the Wilderness",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Spirit drives Jesus into the wilderness for forty days of testing by Satan, recapitulating Israel's wilderness experience, with Jesus prevailing where Israel failed."
+    },
+    {
+      "reference": "1:14-15",
+      "section_title": "Jesus Begins Proclaiming in Galilee",
+      "category": "NOT_APPLICABLE",
+      "summary": "After John's arrest, Jesus proclaims the arrival of God's kingdom and calls for repentance and belief in the good news."
+    },
+    {
+      "reference": "1:16-20",
+      "section_title": "Calling the First Followers",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus calls Simon, Andrew, James, and John from their occupations; they immediately leave everything and follow him, demonstrating the total authority of his summons."
+    },
+    {
+      "reference": "1:21-28",
+      "section_title": "Teaching and Authority in Capernaum",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus teaches with intrinsic authority in the synagogue and casts out an unclean spirit that recognizes him as 'the Holy One of God,' while Jesus suppresses the spirit's testimony."
+    },
+    {
+      "reference": "1:29-31",
+      "section_title": "Healing in Simon's House",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus heals Simon's mother-in-law of a fever; she responds by serving, mirroring the angels' ministry to Jesus in the wilderness."
+    },
+    {
+      "reference": "1:32-34",
+      "section_title": "Evening Healings at the Door",
+      "category": "NOT_APPLICABLE",
+      "summary": "At sundown the crowds bring the sick and demon-possessed to Jesus; he heals many and silences the demons who know his identity."
+    },
+    {
+      "reference": "1:35-39",
+      "section_title": "Withdrawal, Prayer, and Expansion",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus withdraws to pray, refuses to be anchored to Capernaum's demand, and defines his mission as proclamation throughout Galilee."
+    },
+    {
+      "reference": "1:40-45",
+      "section_title": "Cleansing a Leper",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus cleanses a leper by touch, reversing the expected direction of contamination; the leper's disobedience to the silence command pushes Jesus to the margins."
+    }
+  ]
+}

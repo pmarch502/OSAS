@@ -1,0 +1,50 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 7,
+  "sections": [
+    {
+      "reference": "7:1",
+      "section_title": "The Demands of the Promises",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul draws the practical conclusion from the covenant promises of 6:16-18: since the community possesses these promises, they must cleanse themselves from every defilement of body and spirit, bringing holiness to completion in the fear of God.",
+      "relevance": "The neutral reading identifies a critical principle: 'the promises of God carry demands. The divine commitment to dwell among the community and to be their Father does not produce a passive assurance that nothing further is required. It produces the obligation to cleanse, to pursue holiness, to complete what has been begun.' Holiness (hagiosyne) is described as a process that must be 'brought to completion' (epiteleo), not a static condition conferred once. The fear of God providing the motivation connects to the judgment-seat awareness of 5:10-11. The indicative-imperative structure -- God has promised (indicative), therefore cleanse yourselves (imperative) -- presents the believer's standing as sustained through active pursuit of holiness rather than maintained passively. The reading notes: 'The community that has received the staggering promise of God's indwelling presence must live in a manner appropriate to that presence.'",
+      "key_phrases": ["since we have these promises", "let us cleanse ourselves from every defilement of body and spirit", "bringing holiness to completion in the fear of God"],
+      "confidence": "high"
+    },
+    {
+      "reference": "7:2-4",
+      "section_title": "The Renewed Appeal and Paul's Overflowing Joy",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul resumes his appeal for the Corinthians to make room in their hearts, insists on his integrity with a triple denial of wrongdoing, corruption, and exploitation, affirms his unbreakable bond with them 'to die together and to live together,' and declares boldness, pride, comfort, and overflowing joy in them despite all affliction."
+    },
+    {
+      "reference": "7:5-7",
+      "section_title": "The Narrative Resumed -- Titus's Arrival and God's Comfort",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul resumes the travel narrative interrupted at 2:13, recounting his restless arrival in Macedonia with affliction on every side -- fighting without and fear within -- until God comforted him through Titus's arrival bearing news of the Corinthians' longing, mourning, and zeal for Paul."
+    },
+    {
+      "reference": "7:8-11",
+      "section_title": "The Severe Letter and the Distinction Between Godly and Worldly Grief",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul discusses the effect of his severe letter, revealing his own temporary regret before learning its fruit, and draws a fundamental distinction: godly grief (kata theon) produces a repentance that leads to salvation without regret, whereas worldly grief (tou kosmou) produces death, with the Corinthians' seven-fold response demonstrating that their grief was genuinely godly.",
+      "relevance": "Verse 10 directly addresses the mechanism by which believers remain on the trajectory of salvation: 'godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death.' The neutral reading states explicitly: 'The text presents salvation not as a condition fixed by a single past decision but as a destination reached through an ongoing process that includes repentance when failure occurs.' Salvation here requires active repentance when one has gone wrong -- it is a trajectory maintained through turning back to God. The alternative -- grief that does not produce genuine repentance but remains focused on worldly concerns -- leads to death, not merely to diminished rewards. The two options are exhaustive: 'There is no third path.' The neutral reading also connects this to the offender of 2:5-11, noting that excessive unforgiven sorrow could become worldly grief that is 'destructive, hopeless, leading to spiritual death.' This is part of Paul's own sustained theological argument, not an aside, illustration, or assumption.",
+      "key_phrases": ["godly grief produces a repentance that leads to salvation without regret", "worldly grief produces death", "you were grieved into repenting", "at every point you have proved yourselves innocent in the matter"],
+      "confidence": "high"
+    },
+    {
+      "reference": "7:12",
+      "section_title": "The Deeper Purpose of the Severe Letter",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reveals that the severe letter's ultimate purpose was not about the offender or the victim but about revealing to the Corinthians their own earnestness for Paul in the sight of God -- the crisis served the community's self-knowledge."
+    },
+    {
+      "reference": "7:13-16",
+      "section_title": "The Joy of Titus and Paul's Complete Confidence",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reports that Titus was refreshed by all the Corinthians, that Paul's boasting about them to Titus proved true, that Titus's affection for them grew as he witnessed their obedient reception of him with fear and trembling, and Paul closes with a declaration of complete confidence in them in everything."
+    }
+  ]
+}

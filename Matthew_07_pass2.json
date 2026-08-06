@@ -1,0 +1,80 @@
+{
+  "book": "Matthew",
+  "chapter": 7,
+  "sections": [
+    {
+      "reference": "7:1-5",
+      "section_title": "The Warning Against Judging",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage warns that the standard one applies to others is the standard God will apply to oneself, using the hyperbolic image of a beam and splinter to expose self-deception in the judgmental posture, while still permitting correction after self-examination.",
+      "relevance": "The principle 'with the measure you use it will be measured to you' establishes that God's treatment of the believer is reciprocally connected to the believer's treatment of others. This extends the pattern established in 6:14-15 (forgiveness given/received) to judgment more broadly. The implication is that the believer's standing before God is not independent of their conduct toward others -- harsh, unsparing judgment of others establishes a harsh, unsparing standard under which the believer will be evaluated by God.",
+      "key_phrases": ["with the judgment you pronounce you will be judged", "with the measure you use it will be measured to you"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "7:6",
+      "section_title": "The Saying About What Is Holy",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage balances the prohibition against judging by warning against indiscriminate distribution of what is sacred, calling for discernment about when teaching will be received and when it will provoke contempt and violence."
+    },
+    {
+      "reference": "7:7-11",
+      "section_title": "Confidence in the Father's Generosity",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage encourages persistent asking, seeking, and knocking, grounded in the Father's character: if even evil human fathers give good gifts to their children, how much more will the heavenly Father give good things to those who ask."
+    },
+    {
+      "reference": "7:12",
+      "section_title": "The Summary Principle",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage provides the positive form of the golden rule as the summary of the Torah and Prophets, closing the frame opened at 5:17, with everything between constituting the author's exposition of what Torah and Prophets actually require."
+    },
+    {
+      "reference": "7:13-14",
+      "section_title": "The Two Gates and Two Roads",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage presents a binary choice between a wide gate and broad road leading to destruction (chosen by many) and a narrow gate and hard road leading to life (found by few), where the narrow road is characterized by pressure and affliction.",
+      "relevance": "The image of two roads implies an ongoing journey, not a single decisive moment. The road to life is described with the word tethlimmene (pressed, afflicted), connecting it to the persecution and pressure experienced by those who live the kingdom's demands described in 5:10-12. The few who 'find' the narrow gate are those who actively seek it. This framing suggests that the believer's destiny is determined by the road they continue to walk, not merely by a gate they once entered -- bearing directly on whether ongoing faithfulness is required for the final outcome.",
+      "key_phrases": ["the gate is narrow and the road is hard that leads to life", "those who find it are few", "the gate is wide and the road is broad that leads to destruction"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "7:15-20",
+      "section_title": "Recognizing by Fruit",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage warns against false prophets who enter the community disguised as sheep but are inwardly wolves, providing the fruit test as the reliable method for identification, with trees that do not bear good fruit cut down and thrown into fire.",
+      "relevance": "The warning that 'every tree that does not bear good fruit is cut down and thrown into the fire' echoes John the Baptist's identical warning in 3:10, creating continuity across the narrative. These are people within the community (wearing 'sheep's clothing') who face destruction based on the fruit their lives produce. The passage implies that membership in the community does not protect against the judgment of being cut down -- what matters is the observable conduct (fruit) one produces over time. This supports the view that standing within God's people is conditional on ongoing fruitfulness.",
+      "key_phrases": ["you will recognize them by their fruits", "every tree that does not bear good fruit is cut down and thrown into the fire", "a good tree cannot bear bad fruit, nor can a bad tree bear good fruit"],
+      "confidence": "high"
+    },
+    {
+      "reference": "7:21-23",
+      "section_title": "The Insufficiency of Profession Without Practice",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading finds this passage declares that verbal confession of Jesus as Lord and even spectacular spiritual activity in his name -- prophesying, casting out demons, performing mighty works -- are insufficient for kingdom entry; only doing the Father's will secures entry.",
+      "relevance": "This passage directly addresses whether those who profess allegiance to Jesus and exercise spiritual power in his name are guaranteed entry into the kingdom. The answer is no: 'Not everyone who says to me, Lord, Lord, will enter the kingdom of heaven, but the one who does the will of my Father.' The criterion is ongoing obedient conduct, not verbal profession or spiritual activity. The phrase 'I never knew you' (oudepote, absolute -- at no point) introduces ambiguity: it could mean these people never had genuine standing despite their activities (which some read as supporting permanence), or that profession without practice was never an adequate basis for relationship (supporting conditionality). However, the passage's primary thrust is unmistakable: kingdom entry is conditional on doing the Father's will, which the entire Sermon on the Mount has been defining. The author places this as Jesus's own direct teaching, not an illustration or aside.",
+      "key_phrases": ["not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven", "the one who does the will of my Father who is in heaven", "I never knew you; depart from me, you workers of lawlessness"],
+      "confidence": "high"
+    },
+    {
+      "reference": "7:24-27",
+      "section_title": "The Two Builders",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this parable closes the entire discourse by making the sole distinction between the wise and foolish builder whether they do or do not act on Jesus's words, with identical storm conditions exposing the adequacy of the foundation, and the house on sand suffering a total, irreversible collapse.",
+      "relevance": "This passage directly addresses what determines whether a person's life withstands ultimate testing. Both builders hear Jesus's words -- both have access to his teaching and are within earshot of the kingdom's proclamation. The sole differentiator is action: doing versus not doing. The house on sand collapses catastrophically and irreversibly ('great was the fall of it'). Since both builders are hearers of Jesus's teaching -- people within the sphere of his proclamation -- the passage implies that hearing and knowing are not enough to secure one's standing; ongoing practice of what Jesus teaches is the only adequate foundation. This is the climactic conclusion of the entire Sermon, functioning as the author's own argument about what constitutes genuine standing.",
+      "key_phrases": ["everyone who hears these words of mine and does them", "everyone who hears these words of mine and does not do them", "great was the fall of it"],
+      "confidence": "high"
+    },
+    {
+      "reference": "7:28-29",
+      "section_title": "The Conclusion: Authority Unlike the Scribes",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage narrates the crowds' astonishment at Jesus's teaching, noting that he taught 'as one having authority, and not as their scribes,' recognizing a categorically different kind of teaching that spoke on its own authority rather than citing precedent."
+    }
+  ]
+}

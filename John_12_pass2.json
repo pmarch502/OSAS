@@ -1,0 +1,64 @@
+{
+  "book": "John",
+  "chapter": 12,
+  "sections": [
+    {
+      "reference": "12:1-8",
+      "section_title": "The Anointing at Bethany",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Mary's anointing as a prophetic act anticipating Jesus's burial, with Judas's objection revealing his character rather than addressing the believer's standing."
+    },
+    {
+      "reference": "12:9-11",
+      "section_title": "Response of the Crowd and the Plot Against Lazarus",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies this section as showing the authorities' escalating opposition, with Lazarus as living evidence of Jesus's power prompting a plot to silence that evidence."
+    },
+    {
+      "reference": "12:12-19",
+      "section_title": "Entry into Jerusalem",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the triumphal entry as a public declaration of kingship with messianic overtones, fulfilling Zechariah 9:9, without directly bearing on the believer's standing."
+    },
+    {
+      "reference": "12:20-26",
+      "section_title": "Greeks Seek Jesus and the Grain of Wheat",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading identifies this section as extending the grain-of-wheat pattern from Jesus's death to anyone who serves him, with the principle of self-loss as the path to life explicitly applied to followers.",
+      "relevance": "The neutral reading presents 'He who loves his life loses it, and he who hates his life in this world will keep it to life eternal' (v.25) as a principle extending beyond Jesus to his followers. The verb apollyei (destroys/loses) is from the same root as 'perish' in 3:16. The conditional 'if anyone serves me, he must follow me' (v.26) establishes an ongoing obligation for those who serve Jesus, framing the relationship as one requiring continued following.",
+      "key_phrases": ["he who loves his life loses it", "he who hates his life in this world will keep it to life eternal", "if anyone serves me, he must follow me"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "12:27-36a",
+      "section_title": "The Troubled Soul, the Voice from Heaven, and the Lifting Up",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's being 'lifted up' as drawing all people, with a temporal urgency to believe while the Light is present so that one may become a child of Light.",
+      "relevance": "The neutral reading identifies 'While you have the Light, believe in the Light, so that you may become sons of Light' (v.36a) as implying a window of opportunity that can close. The language of becoming (genēsthe) children of Light through present believing carries the same present-tense conditional structure seen throughout the document. The urgency suggests that the opportunity to enter the relationship is not indefinitely open.",
+      "key_phrases": ["while you have the Light, believe in the Light", "so that you may become sons of Light", "I will draw all men to myself"],
+      "confidence": "low"
+    },
+    {
+      "reference": "12:36b-43",
+      "section_title": "Author's Commentary on Israel's Unbelief",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the author's theological reflection on why Israel failed to believe despite the signs, citing Isaiah's hardening passages, while also identifying believing rulers who refused to confess because they loved human approval more than God's.",
+      "relevance": "The neutral reading identifies a category the document does not celebrate: rulers who believed but did not confess 'for they loved the approval of men rather than the approval of God' (v.43). This deficient faith -- belief without confession -- receives no assurance from the document. The neutral reading connects this to 5:44, noting that competing loyalties can prevent genuine faith from forming fully. The implication is that belief alone, without public identification and obedience, does not secure one's standing.",
+      "key_phrases": ["many even of the rulers believed in him", "but because of the Pharisees they were not confessing him", "they loved the approval of men rather than the approval of God"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "12:44-50",
+      "section_title": "Jesus's Final Public Declaration",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's final public statement as a summary of the document's central claims: believing in Jesus means believing in the Father, and the word Jesus has spoken will serve as the standard of judgment on the last day.",
+      "relevance": "The neutral reading identifies 'everyone who believes in me will not remain in darkness' (v.46) as continuing the present-tense participial pattern (ho pisteuon eis eme). The promise addresses the one presently believing. Additionally, 'the word I spoke is what will judge him at the last day' (v.48) establishes accountability to what has been spoken, connecting ongoing relationship to ongoing response to Jesus's words.",
+      "key_phrases": ["everyone who believes in me will not remain in darkness", "the word I spoke is what will judge him at the last day", "ho pisteuon eis eme"],
+      "confidence": "medium"
+    }
+  ]
+}

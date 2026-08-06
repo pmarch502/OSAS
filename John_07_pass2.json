@@ -1,0 +1,76 @@
+{
+  "book": "John",
+  "chapter": 7,
+  "sections": [
+    {
+      "reference": "7:1-5",
+      "section_title": "Remaining in Galilee and the Brothers' Challenge",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus remains in Galilee because the authorities seek to kill him; his brothers, who do not believe, urge him to go to Judea and display his works publicly."
+    },
+    {
+      "reference": "7:6-9",
+      "section_title": "Jesus's Time and the World's Hatred",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus tells his brothers his appointed time has not arrived, explains that the world hates him because he testifies against its evil deeds, and stays in Galilee."
+    },
+    {
+      "reference": "7:10-13",
+      "section_title": "Jesus Goes Up Secretly; the Crowd's Murmuring",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus goes to the feast secretly; the crowds murmur about him — some calling him good, others saying he leads people astray — but no one speaks openly for fear of the authorities."
+    },
+    {
+      "reference": "7:14-18",
+      "section_title": "Jesus Teaches in the Temple; the Source of His Teaching",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus teaches in the temple at mid-feast; the authorities marvel at his learning without formal education; Jesus says his teaching comes from the one who sent him and that anyone willing to do God's will can discern whether the teaching is divine."
+    },
+    {
+      "reference": "7:19-24",
+      "section_title": "The Sabbath Healing and the Argument from Moses",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus appeals to the Sabbath circumcision practice to argue that his healing of a whole person on the Sabbath is consistent with Moses's own law, and calls for righteous judgment rather than surface-level evaluation."
+    },
+    {
+      "reference": "7:25-31",
+      "section_title": "The Question of Origin",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jerusalemites debate Jesus's identity based on their knowledge of his geographic origin; Jesus declares that they know him superficially but do not know the one who sent him; many in the crowd believe on the basis of his signs."
+    },
+    {
+      "reference": "7:32-36",
+      "section_title": "Going to the One Who Sent Me",
+      "category": "NOT_APPLICABLE",
+      "summary": "The authorities send officers to arrest Jesus; Jesus speaks of his coming departure to the one who sent him, saying they will seek him but not find him; the authorities misunderstand, speculating about the Diaspora among the Greeks."
+    },
+    {
+      "reference": "7:37-39",
+      "section_title": "Living Water and the Spirit",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "On the last and greatest day of the Feast of Tabernacles, Jesus stands and cries out that anyone who is thirsty should come to him and drink, and that rivers of living water will flow from the one who believes in him; the author identifies the living water as the Spirit, not yet given because Jesus was not yet glorified.",
+      "relevance": "The present-tense grammar of believing continues the pattern observed throughout the document. 'The one who believes in me' (ho pisteuon eis eme) uses the present participle, describing ongoing trust rather than a completed past event. The invitation is universal ('if anyone is thirsty') and requires action: 'come to me and drink' — present imperatives indicating ongoing activity. The rivers of living water flow from or to the one who IS believing. The promise is dynamic and present-oriented rather than describing a past acquisition that cannot be lost.",
+      "key_phrases": ["if anyone is thirsty let him come to me and drink", "the one believing in me", "ho pisteuon — present tense participle", "rivers of living water", "the Spirit not yet given because Jesus not yet glorified"],
+      "confidence": "low"
+    },
+    {
+      "reference": "7:40-44",
+      "section_title": "Division Over Jesus's Identity",
+      "category": "NOT_APPLICABLE",
+      "summary": "The crowd divides over whether Jesus is the Prophet, the Christ, or disqualified by his Galilean origin; the author notes the scriptural objection about Bethlehem but conspicuously does not resolve it, having already answered the origin question in the prologue."
+    },
+    {
+      "reference": "7:45-49",
+      "section_title": "The Officers Return Empty-Handed",
+      "category": "NOT_APPLICABLE",
+      "summary": "The temple officers return without arresting Jesus, confessing that no one has ever spoken as he does; the Pharisees dismiss both the officers and the believing crowd as ignorant and accursed."
+    },
+    {
+      "reference": "7:50-52",
+      "section_title": "Nicodemus Speaks",
+      "category": "NOT_APPLICABLE",
+      "summary": "Nicodemus, identified as one of their own who had previously come to Jesus, raises a procedural objection that the law requires hearing a person before judging him; his colleagues dismiss him with contempt."
+    }
+  ]
+}

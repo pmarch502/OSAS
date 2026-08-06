@@ -1,0 +1,38 @@
+{
+  "book": "Matthew",
+  "chapter": 28,
+  "sections": [
+    {
+      "reference": "28:1-8",
+      "section_title": "The Women at the Tomb and the Angel's Announcement",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the two Marys arriving at the tomb, the great earthquake, the angel descending to roll back the stone (revealing the tomb is already empty), the guards becoming 'like dead men,' and the angel's declaration: 'He is not here, for he has risen, as he said' -- vindicating every prediction Jesus made, with the instruction to tell the disciples he is going before them to Galilee."
+    },
+    {
+      "reference": "28:9-10",
+      "section_title": "Jesus Meets the Women",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the risen Jesus meeting the women, who grasp his feet and worship him, and his instruction: 'Go and tell my brothers to go to Galilee, and there they will see me.'",
+      "relevance": "The passage's key significance for the question of standing is the shift from 'disciples' (the angel's term in v.7) to 'my brothers' (Jesus's own term in v.10). The neutral reading states: 'The disciples who abandoned him (26:56), whose leader denied him three times (26:69-75), are now called brothers (adelphoi).' At 12:49-50, Jesus defined his brothers as 'whoever does the will of my Father in heaven.' By calling the scattered, failed disciples 'my brothers,' the risen Jesus restores the relationship that their desertion had fractured. The desertion was real, but it is not the final word. The shepherd who was struck regathers the scattered sheep and names them brothers. This bears on permanence: the relationship survives catastrophic failure on the human side, restored by the risen Jesus's initiative rather than by the disciples' merit.",
+      "key_phrases": ["go and tell my brothers to go to Galilee"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "28:11-15",
+      "section_title": "The Guards' Report and the Bribery",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the guards reporting to the chief priests, the bribery to spread the false story that the disciples stole the body (an internally contradictory claim), and the authorial note that 'this story has been spread among the Jews to this day' -- addressing the counter-narrative known to the first-century audience."
+    },
+    {
+      "reference": "28:16-20",
+      "section_title": "The Risen Jesus on the Mountain in Galilee",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the eleven disciples meeting Jesus on the mountain in Galilee (with 'some doubting' even at this moment), Jesus declaring 'all authority in heaven and on earth has been given to me' (fulfilling Daniel 7:13-14), commissioning them to 'make disciples of all nations,' and closing with the promise: 'I am with you always, to the end of the age.'",
+      "relevance": "The passage bears on the question of standing through two elements. First, the declaration of universal authority (pasa exousia) fulfills the Daniel 7 investiture and establishes the risen Jesus as the one in whom all authority resides -- the permanence of his authority is the ground for the community's existence. Second, the promise 'I am with you always, to the end of the age' (ego meth' hymon eimi heos tes synteleias tou aionos) forms an inclusio with 1:23, where Jesus was named Emmanuel ('God with us'). The neutral reading states: 'The document that began with the declaration that the child would be called God with us ends with the risen Jesus declaring I am with you.' This promise of divine presence extends without interruption 'to the end of the age,' encompassing the entire interim period. The community that receives this promise includes doubters (v.17) -- Jesus's presence persists despite imperfect faith. However, the promise is given in the context of a commission ('make disciples... baptize... teach them to observe all that I have commanded'), implying that the community's ongoing existence under the promise is shaped by its obedient response to the commission.",
+      "key_phrases": ["all authority in heaven and on earth has been given to me", "I am with you always, to the end of the age", "make disciples of all nations"],
+      "confidence": "medium"
+    }
+  ]
+}

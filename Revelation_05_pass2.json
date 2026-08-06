@@ -1,0 +1,34 @@
+{
+  "book": "Revelation",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-4",
+      "section_title": "The Sealed Scroll and the Crisis of Worthiness",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes the scroll in God's right hand as the comprehensive divine plan for history's consummation, sealed with seven seals, which no one in all creation is found worthy to open, prompting John's anguished weeping at the prospect that God's purposes -- including the vindication of the assemblies -- might remain unexecuted."
+    },
+    {
+      "reference": "5:5-7",
+      "section_title": "The Lion Who Is the Lamb",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies the decisive literary-theological move of the chapter as the disjunction between what John hears (the Lion of Judah, a conquering Messiah) and what he sees (a Lamb standing as though slain), redefining messianic conquest as sacrificial self-offering, with the Lamb possessing complete power (seven horns) and complete knowledge (seven eyes, identified as the seven spirits of God), and taking the scroll from God's right hand."
+    },
+    {
+      "reference": "5:8-10",
+      "section_title": "The New Song",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading describes the new song declaring the Lamb worthy because he was slain and by his blood ransomed people for God from every tribe, language, people, and nation, constituting them as a kingdom and priests who shall reign on the earth -- replicating the exodus-Sinai pattern at a cosmic scale.",
+      "relevance": "The ransom is presented as a completed, definitive act: the aorist 'you were slain' (esphages) and the marketplace verb agorazo ('to buy, to purchase') indicate a transaction that is accomplished. The resulting status -- 'you have made them a kingdom and priests to our God' -- is established as a present reality flowing from that completed act. The emphasis on the Lamb's finished work as the basis of the community's new identity could imply that what has been purchased remains purchased and the standing thereby created is durable. However, the neutral reading's own parallel to the exodus introduces ambiguity: Israel's constitution as a kingdom of priests at Sinai (Exodus 19:6) was preceded by the conditional clause 'if you will indeed obey my voice and keep my covenant' (Exodus 19:5), and Israel subsequently faced covenant consequences for unfaithfulness.",
+      "key_phrases": ["you were slain", "by your blood you ransomed people for God", "from every tribe and language and people and nation", "you have made them a kingdom and priests to our God", "they shall reign on the earth"],
+      "confidence": "low"
+    },
+    {
+      "reference": "5:11-14",
+      "section_title": "The Expanding Circles of Worship",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes worship expanding in three concentric circles -- from the four living creatures and elders, through myriads of angels, to every creature in all creation -- culminating in a joint doxology directed to God and to the Lamb together, with the Lamb receiving a sevenfold ascription of worthiness and sharing in the worship that belongs to God alone."
+    }
+  ]
+}

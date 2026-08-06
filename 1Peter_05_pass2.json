@@ -1,0 +1,56 @@
+{
+  "book": "1 Peter",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-4",
+      "section_title": "Charge to Elders and the Crown of Glory",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Peter charges fellow elders to shepherd God's flock among them, exercising oversight willingly rather than under compulsion, eagerly rather than for sordid gain, and as examples rather than domineering lords, with the promise that when the Chief Shepherd appears they will receive the unfading crown of glory.",
+      "relevance": "The unfading crown of glory is promised to elders who shepherd faithfully -- willingly, eagerly, as examples. The three contrasts (willing vs. compelled, eager vs. greedy, exemplary vs. domineering) imply that the reward is for those who serve in the right manner. Unfaithful shepherding -- serving under compulsion, for gain, or by domineering -- presumably does not receive the crown. This parallels James 1:12 where the crown of life goes to those who persevere and love God. The crown is conditional on faithful completion of the pastoral charge.",
+      "key_phrases": ["shepherd the flock of God among you", "exercising oversight not under compulsion, but voluntarily", "not for sordid gain, but with eagerness", "nor yet as lording it over those allotted to your charge, but proving to be examples", "you will receive the unfading crown of glory"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:5-7",
+      "section_title": "Humility Under God's Mighty Hand",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Younger members are to be subject to elders, and all are to clothe themselves with humility, because God opposes the proud but gives grace to the humble; the community is to humble themselves under God's mighty hand so that he may exalt them at the proper time, casting all anxiety on him.",
+      "relevance": "The Proverbs 3:34 citation ('God is opposed to the proud, but gives grace to the humble') establishes that God's responsive posture toward the community depends on their posture toward him. God actively opposes (antitassetai) the proud -- an adversarial stance from God himself toward the arrogant. The exaltation is conditional on humbling: 'humble yourselves under the mighty hand of God, that He may exalt you at the proper time.' The 'that' (hina) is a purpose clause making exaltation contingent on humility. The casting of anxiety on God is grounded in 'because He cares for you' -- God's care is affirmed, but the community's response of humility and trust is required for exaltation.",
+      "key_phrases": ["God is opposed to the proud, but gives grace to the humble", "humble yourselves under the mighty hand of God, that He may exalt you at the proper time", "casting all your anxiety on Him, because He cares for you"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:8-9",
+      "section_title": "The Adversary and the Call to Resistance",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The community is to be sober and alert because their adversary the devil prowls around like a roaring lion seeking someone to devour, and they are to resist him, firm in their faith, knowing that the same experiences of suffering are being accomplished by their brethren throughout the world.",
+      "relevance": "The adversary 'seeks someone to devour' (katapiein) -- the verb means to swallow whole, to consume completely. This is not a metaphor for inconvenience but for total destruction. The adversary is targeting members of the believing community, and the community is told to resist, implying that failure to resist leads to being devoured. If the believer's standing were permanently secure regardless of conduct, the warning to resist would be unnecessary and the threat of being devoured would be empty. The instruction to be 'firm in your faith' (stereoi tē pistei) implies that faith can become unfirm, and that the adversary's strategy exploits precisely that vulnerability.",
+      "key_phrases": ["be of sober spirit, be on the alert", "your adversary, the devil, prowls around like a roaring lion, seeking someone to devour", "but resist him, firm in your faith"],
+      "confidence": "high"
+    },
+    {
+      "reference": "5:10-11",
+      "section_title": "Promise of Restoration After Suffering",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The God of all grace, who called the community to his eternal glory in Christ, will himself perfect, confirm, strengthen, and establish them after they have suffered for a little while.",
+      "relevance": "This is a strong affirmation of God's initiative and commitment to the community's completion. Four verbs describe God's own action: he will perfect (katartisei), confirm (stērixei), strengthen (sthenōsei), and establish (themeliōsei) them. The source of these actions is 'the God of all grace' who 'called you to His eternal glory.' The emphasis is on what God himself will do, not on what the community must do. However, the promise follows immediately after the call to resist the adversary (5:8-9) and is directed to those who have 'suffered for a little while' -- suggesting that the promise is for those who have endured the trial and resisted, not for those who were devoured. The context makes the promise conditional on endurance, even though its content emphasizes divine initiative.",
+      "key_phrases": ["the God of all grace, who called you to His eternal glory in Christ", "will Himself perfect, confirm, strengthen and establish you", "after you have suffered for a little while"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:12-14",
+      "section_title": "Closing Greetings",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Peter identifies Silvanus as the letter's carrier, declares he has written briefly to exhort and testify that 'this is the true grace of God,' commands the community to 'stand firm in it,' sends greetings from the co-elect church in Babylon and from Mark, and offers a benediction of peace.",
+      "relevance": "The command 'stand firm in it' (stēte) -- with 'it' referring to the true grace of God -- implies that the community can fail to stand firm. If standing were automatic, the imperative would be empty. The exhortation to maintain their position in grace presupposes the possibility of not maintaining it. This final instruction encapsulates the letter's dual emphasis: God's grace is real and true (permanence language), but the community must actively stand in it (conditionality language).",
+      "key_phrases": ["this is the true grace of God", "stand firm in it"],
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 9,
+  "sections": [
+    {
+      "reference": "9:1-2",
+      "section_title": "Paul's Assertion of Freedom and Apostolic Status",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul asserts his freedom and apostolic credentials through four rhetorical questions, establishing the platform from which the rest of the chapter will argue."
+    },
+    {
+      "reference": "9:3-6",
+      "section_title": "The Catalogue of Rights",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul catalogues three specific apostolic rights — food and drink, marital companionship on mission, and freedom from manual labor — presenting them as his formal defense to those who examine him."
+    },
+    {
+      "reference": "9:7-14",
+      "section_title": "Four Arguments for the Legitimacy of Apostolic Support",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul argues from common sense analogies, Torah (the unmuzzled ox), the principle of reciprocity and temple service, and the Lord's own command that apostolic workers possess a legitimate right to material support from the communities they serve."
+    },
+    {
+      "reference": "9:15-18",
+      "section_title": "The Voluntary Renunciation and Its Motive",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reveals that he has used none of his apostolic rights, preferring to preach the gospel free of charge as his boasting, because the act of preaching itself is compulsory rather than voluntary."
+    },
+    {
+      "reference": "9:19-23",
+      "section_title": "Voluntary Self-Adaptation",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul describes his practice of becoming all things to all people for the sake of the gospel, concluding that he does it all so that he may share with them in its blessings.",
+      "relevance": "Paul states that he does everything 'for the sake of the gospel, that I may share with them in its blessings' (v. 23). The neutral reading notes that the gospel 'saves others also saves Paul, but only if Paul remains a participant in it, not merely a herald of it.' The word synkoinonos ('fellow-sharer') implies that Paul's participation in the gospel's saving benefits is ongoing and conditional on his continued engagement, not guaranteed by his apostolic role. This section anticipates the urgency of vv. 24-27, where Paul makes explicit that his own standing requires relentless self-discipline.",
+      "key_phrases": ["that by all means I might save some", "that I may share with them in its blessings"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "9:24-27",
+      "section_title": "The Athletic Metaphor — Discipline and the Possibility of Disqualification",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Paul uses the athletic metaphor of running and boxing to argue that self-discipline is essential, culminating in the statement that he himself could be 'disqualified' (adokimos) after preaching to others.",
+      "relevance": "Paul directly states that he — an apostle who has seen the risen Lord, founded churches, and preaches under divine compulsion — could be adokimos ('disqualified, rejected after examination, failing the test'). The neutral reading emphasizes this is not hypothetical: 'The entire athletic metaphor depends on the reality of the danger.' Paul is not raising a theoretical impossibility for rhetorical effect; his self-discipline is motivated by a genuine possibility of disqualification. The word adokimos describes someone tested and found wanting — the opposite of dokimos ('approved'). Paul applies this possibility to himself as contingent on whether he exercises ongoing self-discipline. If the apostle who founded the Corinthian community and encountered the risen Christ can be disqualified, the passage directly addresses whether a believer's established standing before God can be forfeited through failure of ongoing faithfulness.",
+      "key_phrases": ["Run in such a way that you may win it", "Every athlete exercises self-control in all things", "I discipline my body and keep it under control", "lest after preaching to others I myself should be disqualified"],
+      "confidence": "high"
+    }
+  ]
+}

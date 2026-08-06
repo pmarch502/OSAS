@@ -1,0 +1,54 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "Opening -- Sender, Recipients, and Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "Standard epistolary opening identifying Paul as an apostle by God's will, with Timothy as co-sender, addressed to the church of God at Corinth and all the saints in Achaia, with the greeting of grace and peace from God and the Lord Jesus Christ."
+    },
+    {
+      "reference": "1:3-7",
+      "section_title": "The Blessing -- God as the Source of Comfort in Affliction",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul blesses God as the Father of mercies and God of all comfort, establishing a chain of comfort flowing from God through Paul to the community, with the Corinthians' suffering and comfort understood as participation in the sufferings and comfort of Christ.",
+      "relevance": "Verse 6 connects the Corinthians' salvation to their capacity to 'patiently endure' (en hypomone) the same sufferings Paul endures, presenting salvation as linked to ongoing faithfulness under affliction rather than as a settled status independent of subsequent conduct. While Paul's hope for them is described as 'unshaken' (bebaia) in v. 7, the operative connection between salvation and active endurance implies that the standing is maintained through continuing faithfulness, not passively guaranteed.",
+      "key_phrases": ["for your comfort and salvation", "which you experience when you patiently endure the same sufferings", "our hope for you is unshaken"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:8-11",
+      "section_title": "The Affliction in Asia -- Despair and Deliverance",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul discloses a near-death affliction in Asia that drove him beyond his own strength to trust in 'the God who raises the dead,' establishing a pattern of past deliverance grounding future hope, with the Corinthians participating through intercessory prayer."
+    },
+    {
+      "reference": "1:12-14",
+      "section_title": "The Defense of Sincerity -- Conscience, Conduct, and the Day of the Lord",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul defends the sincerity of his conduct as governed by divine grace rather than fleshly wisdom, anticipating mutual boasting between himself and the Corinthians on the day of the Lord Jesus when the true character of their relationship will be revealed."
+    },
+    {
+      "reference": "1:15-22",
+      "section_title": "The Travel Plans and the Faithfulness of God's 'Yes'",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Paul defends his changed travel plans by grounding his reliability in God's own faithfulness, arguing that all God's promises find their 'Yes' in Christ, and that God has established, anointed, sealed, and given the Spirit as a guarantee (arrabon) to both Paul and the Corinthians together.",
+      "relevance": "The four divine actions in vv. 21-22 -- establishing (bebaioo), anointing (chrio), sealing (sphragizo), and giving the Spirit as guarantee (arrabon) -- describe God's comprehensive investment in the believing community. The arrabon metaphor, drawn from binding commercial practice, means God has made a down payment that legally obligates completion of the full transaction. The neutral reading describes this as 'not a fragile arrangement that might collapse' but 'a transaction backed by God's own commitment.' This genuinely supports the permanence of God's commitment. However, the passage functions within an argument about divine faithfulness in general (defending Paul's reliability), not as a direct statement that individual believers cannot fall away. The guarantee describes God's side of the commitment; the question of whether human response remains necessary is not addressed here but is taken up in 5:5-10.",
+      "key_phrases": ["God who establishes us with you in Christ", "has anointed us", "sealed us", "given us the Spirit in our hearts as a guarantee"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:23-24",
+      "section_title": "The Reason for Not Coming -- Sparing, Not Dominating",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul explains he refrained from visiting Corinth to spare them, clarifying that he does not lord over their faith but works alongside them for their joy, and affirms that they stand firm in their faith.",
+      "relevance": "The statement 'you stand firm in your faith' (te pistei hestekate) frames the Corinthians' standing as grounded in ongoing faith, not in Paul's authority or an irrevocable external status. The neutral reading notes this is 'both an affirmation and a subtle warning' and connects it forward to 13:5 ('Examine yourselves, to see whether you are in the faith'), implying that standing by faith is a present condition that requires continuation rather than a past event whose consequences are permanent regardless of future conduct.",
+      "key_phrases": ["not that we lord it over your faith", "you stand firm in your faith"],
+      "confidence": "low"
+    }
+  ]
+}

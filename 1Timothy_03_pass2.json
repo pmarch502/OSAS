@@ -1,0 +1,78 @@
+{
+  "book": "1 Timothy",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1",
+      "section_title": "The Trustworthy Saying About Aspiring to Oversight",
+      "category": "NOT_APPLICABLE",
+      "summary": "The community saying that aspiring to the office of overseer is the desire for a noble work (kalon ergon) is endorsed as trustworthy, affirming the value of leadership aspiration in the difficult Ephesian context."
+    },
+    {
+      "reference": "3:2-3",
+      "section_title": "The Character of the Overseer",
+      "category": "NOT_APPLICABLE",
+      "summary": "The overseer must be above reproach, characterized by marital fidelity, sobriety, self-control, respectability, hospitality, teaching ability, gentleness, and freedom from drunkenness, violence, quarrelsomeness, and love of money."
+    },
+    {
+      "reference": "3:4-5",
+      "section_title": "The Household Test",
+      "category": "NOT_APPLICABLE",
+      "summary": "The overseer must manage his own household well with dignity, since competence in domestic leadership is the prerequisite for caring for God's church -- the argument moves from the lesser (household) to the greater (church)."
+    },
+    {
+      "reference": "3:6",
+      "section_title": "Not a Recent Convert",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "A neophyte must not be appointed overseer because premature elevation produces pride (typhotheis), which leads to falling into the condemnation of the devil (krima tou diabolou).",
+      "relevance": "The passage describes a mechanism by which a person within the believing community can 'fall into the condemnation of the devil.' The verb empiptein ('to fall into') describes sudden, unexpected descent into judgment. Whether the genitive is objective (sharing the devil's condemnation for sharing the devil's vice of pride) or subjective (the devil bringing about the fall), the result is condemnation for a person who was genuinely within the community. The neutral reading notes that the same pride-driven swelling (typhoo) afflicts the false teachers (6:4), connecting the neophyte's danger to the trajectory of those who have already departed from sound teaching.",
+      "key_phrases": ["he may become puffed up with conceit", "fall into the condemnation of the devil"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:7",
+      "section_title": "The Outsider Test",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The overseer must be well regarded by outsiders or risk falling into disgrace and into a snare of the devil, where shame creates leverage, vulnerability, and entrapment.",
+      "relevance": "The passage describes a second way a community leader can fall: through poor reputation leading to disgrace (oneidismos) and entrapment by the devil (pagis tou diabolou). The neutral reading notes the connection to 2 Timothy 2:26, where opponents are 'captured by the devil to do his will,' and emphasizes that the double mention of the devil in the overseer qualifications frames leadership in warfare terms. A person within the community can be caught in a snare from which escape is uncertain. The danger is real and ongoing, not hypothetical.",
+      "key_phrases": ["fall into disgrace", "into a snare of the devil"],
+      "confidence": "low"
+    },
+    {
+      "reference": "3:8-10",
+      "section_title": "Qualifications for Deacons",
+      "category": "NOT_APPLICABLE",
+      "summary": "Deacons must be dignified, consistent in speech, temperate, not greedy, holding the mystery of the faith with a clear conscience, and must be tested before serving."
+    },
+    {
+      "reference": "3:11",
+      "section_title": "The Women",
+      "category": "NOT_APPLICABLE",
+      "summary": "Women (whether wives of deacons or women who serve in a diaconal capacity) must be dignified, not slanderers, sober-minded, and faithful in all things."
+    },
+    {
+      "reference": "3:12-13",
+      "section_title": "Completing the Deacon Qualifications",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Deacons must be faithful in marriage and household management; those who serve well gain good standing (bathmon kalon) and great confidence (parresian) in the faith in Christ Jesus.",
+      "relevance": "The neutral reading identifies this passage as important for the letter's broader argument about the structural connection between conduct and spiritual condition. Faithful service produces good standing and genuine confidence before God; the inverse is equally true. The neutral reading states explicitly: 'those who serve well gain boldness before God; those who serve poorly or abandon their conscience lose it.' This connects to the shipwreck of faith in 1:19, the condemnation of the devil in 3:6, and the entrapment in 3:7. The passage treats the believer's standing and confidence as outcomes of ongoing faithful conduct, not as fixed possessions independent of behavior.",
+      "key_phrases": ["those who serve well as deacons gain a good standing for themselves", "great confidence in the faith that is in Christ Jesus"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:14-15",
+      "section_title": "The Purpose of the Letter -- Conduct in God's Household",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul states the letter's purpose: so Timothy may know how to conduct himself in the household of God, which is the church of the living God, the pillar and buttress of the truth."
+    },
+    {
+      "reference": "3:16",
+      "section_title": "The Mystery of Godliness",
+      "category": "NOT_APPLICABLE",
+      "summary": "A six-line confessional hymn describes the content of the mystery the church upholds: Christ manifested in flesh, vindicated by the Spirit, seen by angels, proclaimed among nations, believed in the world, taken up in glory."
+    }
+  ]
+}

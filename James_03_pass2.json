@@ -1,0 +1,56 @@
+{
+  "book": "James",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-2",
+      "section_title": "Warning to Teachers and Test of Completeness",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "James warns against eagerly becoming teachers because they will receive stricter judgment, and identifies tongue-control as the mark of the 'perfect' (teleios) person able to bridle the whole body.",
+      "relevance": "The concept of 'stricter judgment' (meizon krima) for teachers implies proportional accountability within the believing community. Greater responsibility produces greater liability. The verse assumes that judgment of community members is real and consequential, not merely hypothetical or pedagogical. Those who teach and stumble face a heavier verdict than those who do not teach.",
+      "key_phrases": ["let not many of you become teachers", "knowing that as such we will incur a stricter judgment"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:3-6",
+      "section_title": "Three Metaphors for the Tongue's Power",
+      "category": "NOT_APPLICABLE",
+      "summary": "The bit in a horse's mouth, the rudder of a ship, and the spark that sets a forest ablaze illustrate the disproportionate power of the tongue to direct or destroy, with the tongue described as a fire that stains the whole body and is set on fire by Gehenna."
+    },
+    {
+      "reference": "3:7-8",
+      "section_title": "The Untamable Tongue",
+      "category": "NOT_APPLICABLE",
+      "summary": "Every species of beast, bird, reptile, and sea creature has been tamed by humankind, but no human being can tame the tongue -- a restless evil full of deadly poison."
+    },
+    {
+      "reference": "3:9-12",
+      "section_title": "Contradiction of Blessing and Cursing",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The same mouth blesses the Lord and Father and curses people made in God's likeness, and James insists this contradiction should not exist, using the illustrations of a spring producing both fresh and bitter water, and a fig tree bearing olives.",
+      "relevance": "The natural-world illustrations (spring, fig tree, grapevine) establish that what comes out reveals what is within. A corrupt source cannot produce good output. The double-tongued person is an expression of the dipsychos (double-minded person) from 1:8 who is unstable in all ways. The connection to the standing question is indirect but real: the internal inconsistency that produces blessing-and-cursing is the same divided loyalty that disqualifies the double-minded from receiving from the Lord (1:7-8) and makes one an enemy of God (4:4).",
+      "key_phrases": ["from the same mouth come both blessing and cursing", "my brethren, these things ought not to be this way", "does a fountain send out from the same opening both fresh and bitter water"],
+      "confidence": "low"
+    },
+    {
+      "reference": "3:13-14",
+      "section_title": "Two Kinds of Wisdom: Challenge and Warning",
+      "category": "NOT_APPLICABLE",
+      "summary": "The wise person demonstrates wisdom through good conduct and gentleness, while those who have bitter jealousy and selfish ambition in their hearts are told not to be arrogant and lie against the truth."
+    },
+    {
+      "reference": "3:15-16",
+      "section_title": "Character and Fruit of Earthly Wisdom",
+      "category": "NOT_APPLICABLE",
+      "summary": "The wisdom that does not come from above is earthly, natural (psychikē), and demonic, producing disorder and every evil thing wherever jealousy and selfish ambition exist."
+    },
+    {
+      "reference": "3:17-18",
+      "section_title": "Character and Fruit of Heavenly Wisdom",
+      "category": "NOT_APPLICABLE",
+      "summary": "The wisdom from above is first pure, then peaceable, gentle, reasonable, full of mercy and good fruits, unwavering, without hypocrisy, and the fruit of righteousness is sown in peace by those who make peace."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "book": "John",
+  "chapter": 20,
+  "sections": [
+    {
+      "reference": "20:1-2",
+      "section_title": "Mary Comes to the Tomb in Darkness",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Mary's arrival 'while it was still dark' as both a temporal marker and a continuation of the document's light/darkness motif, with the darkness about to give way to the light of the resurrection."
+    },
+    {
+      "reference": "20:3-10",
+      "section_title": "Peter and the Beloved Disciple at the Tomb",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the beloved disciple's 'he saw and believed' as belief based on the evidence of the empty wrappings, preceding full scriptural understanding -- faith as recognition that deepens over time."
+    },
+    {
+      "reference": "20:11-18",
+      "section_title": "Mary Encounters the Risen Jesus",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Mary's recognition of Jesus when he speaks her name (the shepherd calling his sheep by name, 10:3), Jesus's designation of the disciples as 'my brethren,' and the language 'my Father and your Father' that draws the disciples into familial relationship while maintaining the uniqueness of Jesus's sonship."
+    },
+    {
+      "reference": "20:19-23",
+      "section_title": "Jesus Appears to the Gathered Disciples",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the appearance as fulfilling the farewell discourse's promises: the peace of 14:27 and 16:33 is spoken, the joy of 16:22 is experienced, the Spirit of 14:16-17 is given, and the mission of 17:18 is commissioned.",
+      "relevance": "The neutral reading identifies the breathing of the Spirit (emphysao, v.22) as a new creation act connecting to Genesis 2:7 and Ezekiel 37:9, fulfilling the conditional of 16:7 ('the Spirit comes when Jesus departs') and the promise of 7:39 ('the Spirit given after Jesus's glorification'). The Spirit's coming fulfills the promise that the Paraclete would be with them 'forever' (14:16). The community that was scattered (16:32) and gathered behind closed doors in fear is now reconstituted, commissioned, and empowered. The fulfillment of the permanence promises (peace, joy, Spirit) favors the permanence reading, though the section does not directly address whether this standing can subsequently be forfeited.",
+      "key_phrases": ["Peace be with you", "he breathed on them and said to them, Receive the Holy Spirit", "as the Father has sent me, I also send you"],
+      "confidence": "low"
+    },
+    {
+      "reference": "20:24-29",
+      "section_title": "Thomas's Absence and Confession",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Thomas's journey from doubt to the climactic confession 'My Lord and my God' -- completing the document's Christological arc from 'the Word was God' (1:1) to a human character confessing that identity -- with the beatitude extending to all who believe without seeing."
+    },
+    {
+      "reference": "20:30-31",
+      "section_title": "The Author's Statement of Purpose",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the document's reason for existing: that readers may believe Jesus is the Christ, the Son of God, and that believing they may have life in his name.",
+      "relevance": "The neutral reading identifies the present participle pisteuontes ('believing') in 'that believing you may have life' as describing the ongoing condition under which life is possessed. The reading notes the textual variant between pisteusete (aorist, 'come to believe') and pisteuete (present, 'continue believing'), observing that the document serves both purposes. The life-giving function is tied to ongoing believing, consistent with the document's sustained pattern of present-tense participles describing the condition of having life (3:16, 6:35, 6:54, 11:25-26). The document exists to produce and sustain the believing that results in life.",
+      "key_phrases": ["these have been written so that you may believe", "that believing you may have life in his name", "pisteuontes"],
+      "confidence": "low"
+    }
+  ]
+}

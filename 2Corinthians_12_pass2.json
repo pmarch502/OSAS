@@ -1,0 +1,40 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 12,
+  "sections": [
+    {
+      "reference": "12:1-6",
+      "section_title": "The Heavenly Vision",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul recounts a visionary experience in which a person in Christ was caught up to the third heaven and paradise, heard inexpressible things, but deliberately refrains from boasting about it so that he is evaluated only by what is visibly seen and heard in his ministry."
+    },
+    {
+      "reference": "12:7-10",
+      "section_title": "The Thorn, the Appeal, and the Answer",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes a thorn in the flesh given to prevent self-exaltation after the revelations; after three appeals for its removal, Christ answered that divine grace is sufficient and that power is perfected in weakness, leading Paul to embrace the paradox that human weakness is the location of divine strength."
+    },
+    {
+      "reference": "12:11-13",
+      "section_title": "Apostolic Credentials Revisited",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul declares that the Corinthians forced the fool's boast upon him, that he is not inferior to the super-apostles despite being nothing, that the signs of a true apostle were performed among them, and sarcastically asks forgiveness for the only disadvantage they suffered -- his refusal to accept their financial support."
+    },
+    {
+      "reference": "12:14-18",
+      "section_title": "The Financial Dispute",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul defends his financial policy using the parent-children metaphor, declares his willingness to spend and be spent for the Corinthians, and refutes the charge that he exploited them indirectly through delegates like Titus."
+    },
+    {
+      "reference": "12:19-21",
+      "section_title": "The Pivot to Warning",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul clarifies that everything he has said is for the Corinthians' upbuilding, then expresses two fears about his upcoming visit: finding the community in social disintegration (quarreling, jealousy, disorder), and having to mourn over many who previously sinned and have not repented of impurity, sexual immorality, and debauchery.",
+      "relevance": "The neutral reading explicitly identifies the implication: Paul's anguish presupposes that unrepented sin threatens the community's standing, and that belonging to Christ is not a settled, irreversible status that makes subsequent behavior irrelevant. The passage connects to 13:5's command to self-examine and to 6:1's warning not to receive grace in vain. The critical element is that the community members in view are not outsiders but people who were previously within the community ('many who previously sinned') and whose unrepented sin is now a source of apostolic mourning. Repentance is presented as the expected and necessary response to sin, and its absence is cause for alarm -- implying that the community's relationship with God depends on ongoing responsiveness, not merely on an initial act of faith.",
+      "key_phrases": ["I may have to mourn over many who previously sinned and have not repented", "the impurity, sexual immorality, and debauchery that they have practiced", "my God may humble me before you"],
+      "confidence": "high"
+    }
+  ]
+}

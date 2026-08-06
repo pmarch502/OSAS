@@ -1,0 +1,38 @@
+{
+  "book": "Matthew",
+  "chapter": 23,
+  "sections": [
+    {
+      "reference": "23:1-4",
+      "section_title": "Address to the Crowds and Disciples: The Scribes and Pharisees on Moses's Seat",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus acknowledging the scribes' and Pharisees' institutional authority as occupants of Moses's seat while exposing the gap between their teaching and their practice: they preach but do not practice, and they impose heavy burdens they are unwilling to bear themselves."
+    },
+    {
+      "reference": "23:5-12",
+      "section_title": "The Love of Display: Public Piety as Performance",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus condemning the scribes' and Pharisees' love of broad phylacteries, long fringes, seats of honor, and religious titles, and establishing an alternative community structure in which no one holds hierarchical titles because there is one teacher (Christ), one Father (God), and all are brothers."
+    },
+    {
+      "reference": "23:13-36",
+      "section_title": "The Seven Woes: A Sustained Indictment",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents seven woe pronouncements against the scribes and Pharisees as a sustained prophetic indictment: they shut the kingdom, make converts into children of Gehenna, construct oath-casuistry to evade truthfulness, tithe minutiae while neglecting justice, mercy, and faithfulness, maintain external purity while being internally rapacious, and build prophets' tombs while preparing to kill the one who sent them.",
+      "relevance": "The woes demonstrate that holding the position of covenant insider -- sitting on Moses's seat, administering the temple, teaching Torah -- does not guarantee standing before God when the substance of faithfulness is absent. The neutral reading identifies the sixth woe (whitewashed tombs) as revealing people who 'outwardly appear righteous' but are 'full of hypocrisy and lawlessness' (anomia), the same term used at 7:23 for those whom Jesus never knew despite their prophesying in his name. Religious position and external observance are insufficient when the 'weightier matters' (justice, mercy, faithfulness) are neglected. This implies that standing is conditional on the substance of one's conduct, not merely on institutional position.",
+      "key_phrases": ["you shut the kingdom of heaven in people's faces", "you have neglected the weightier matters of the law: justice and mercy and faithfulness", "outwardly appear righteous to others, but within you are full of hypocrisy and lawlessness", "you serpents, you brood of vipers, how are you to escape being sentenced to Gehenna"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "23:37-39",
+      "section_title": "The Lament over Jerusalem",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's lament over Jerusalem using the image of a hen seeking to gather her brood under her wings -- applying to himself the scriptural imagery of God's protective sheltering -- but declaring that Jerusalem 'was not willing,' resulting in desolation: 'your house is left to you desolate.'",
+      "relevance": "The passage directly addresses whether divine protection, once offered, can be forfeited through human refusal. The neutral reading notes that Jesus claims the role the scriptures assign to God (sheltering under wings) and that the failure is not divine inability but human unwillingness ('you were not willing'). The temple that was 'my house' (21:13) becomes 'your house' -- God's presence withdraws from an institution that refused his gathering. This establishes that God's protective intent can be thwarted by human refusal, and that the consequence is desolation, bearing on whether standing before God is maintained regardless of human response.",
+      "key_phrases": ["how often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing", "your house is left to you desolate"],
+      "confidence": "medium"
+    }
+  ]
+}

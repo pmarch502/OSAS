@@ -1,0 +1,60 @@
+{
+  "book": "2 Peter",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "The greeting establishes the audience's faith as equal in standing (isotimos) with the apostles', received by God's righteousness, and ties grace and peace to the knowledge (epignosis) of God and Jesus."
+    },
+    {
+      "reference": "1:3-4",
+      "section_title": "What the Divine Power Has Provided",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that God's divine power has already granted everything necessary for life and godliness, that the audience has already received precious promises, and that they have already escaped the corruption of the world -- all described with completed-action verb forms.",
+      "relevance": "The completeness of the divine provision and the accomplished nature of the escape from corruption (aorist participle apophygontes) could support permanence: God has already given everything needed. However, the same verb for 'escaped' will be applied to the false teachers in 2:20 who subsequently returned to corruption, showing that an accomplished escape does not automatically guarantee permanence.",
+      "key_phrases": ["divine power has granted to us everything pertaining to life and godliness", "having escaped the corruption that is in the world by desire", "become partakers of the divine nature"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:5-7",
+      "section_title": "The Chain of Virtues",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that the author demands active, diligent human effort to supply a chain of virtues -- from faith through moral excellence, knowledge, self-control, perseverance, godliness, brotherly kindness, and love -- as the required response to the divine provision of vv. 3-4.",
+      "relevance": "The chain of virtues is presented as the necessary human response to what God has provided. The imperative structure ('applying all diligence, in your faith supply') establishes that the divine provision is not self-executing: the audience must actively cultivate these qualities. The consequences of failure are described in the next section, making this an integral part of a conditional argument.",
+      "key_phrases": ["applying all diligence", "in your faith supply moral excellence", "the chain is cumulative, not sequential"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:8-11",
+      "section_title": "The Consequences -- Fruitful or Blind",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading found that the outcome for the believer is presented as a stark conditional: possessing and growing in the virtues produces fruitfulness in the knowledge of Christ, while lacking them produces blindness and forgetting one's purification, and the entrance into the eternal kingdom is tied to the practice of these virtues.",
+      "relevance": "This passage directly addresses whether the believer's standing is permanent or conditional. Three elements are decisive: (1) the person who lacks the virtues is described as having 'forgotten the purification from his former sins' -- a purification that genuinely happened but is now functionally negated by failure to grow; (2) the command to make calling and election 'firm' (bebaian) through diligent practice implies these can be left unconfirmed; (3) the promise 'you will never stumble' uses the strongest possible Greek negation (ou me ... pote) but is explicitly conditional: 'as long as you practice these things' (tauta gar poiountes). The entrance into the eternal kingdom is 'richly supplied' to those who practice -- the conditional structure leaves open what happens to those who do not.",
+      "key_phrases": ["the one who lacks these qualities is blind or short-sighted, having forgotten the purification from his former sins", "be all the more diligent to make certain about His calling and choosing you", "as long as you practice these things, you will never stumble", "the entrance into the eternal kingdom will be richly supplied to you"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:12-15",
+      "section_title": "The Reason for Writing -- Peter's Impending Death",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author explains that his impending death motivates him to provide a permanent reminder of these teachings for the community after his departure."
+    },
+    {
+      "reference": "1:16-18",
+      "section_title": "Eyewitness of Christ's Majesty at the Transfiguration",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author grounds the apostolic testimony in eyewitness experience of the transfiguration, establishing that the proclamation about Christ's power and coming is not mythology but historically attested."
+    },
+    {
+      "reference": "1:19-21",
+      "section_title": "The Prophetic Word Confirmed",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author establishes that the prophetic word is confirmed by the transfiguration experience and that prophecy originated from God through the Holy Spirit, not from human will or private interpretation."
+    }
+  ]
+}

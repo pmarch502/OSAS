@@ -1,0 +1,60 @@
+{
+  "book": "John",
+  "chapter": 16,
+  "sections": [
+    {
+      "reference": "16:1-4a",
+      "section_title": "The Purpose of the Persecution Warning",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's persecution warnings as prophylactic -- spoken in advance 'so that you may be kept from stumbling' (skandalisthete), with the verb describing the kind of trap-triggered fall that caused many disciples to withdraw in 6:66.",
+      "relevance": "The neutral reading identifies skandalisthete as critical: the word describes falling away from faith, and the author explicitly connects it to 6:61, where Jesus asked 'does this cause you to stumble?' followed by the withdrawal of many disciples who 'were not walking with him anymore' (6:66). The purpose of the warning is to prevent this kind of departure. The implication is that stumbling/falling away is a genuine possibility for the disciples, requiring advance preparation to prevent it. If departure from faith were impossible, the warning would serve no purpose.",
+      "key_phrases": ["so that you may be kept from stumbling", "skandalisthete", "they will make you outcasts from the synagogue"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "16:4b-7",
+      "section_title": "The Departure and the Advantage of Going Away",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus's departure as advantageous because it enables the sending of the Helper, reframing the disciples' grief-focused silence as a failure to inquire into the meaning of his going."
+    },
+    {
+      "reference": "16:8-11",
+      "section_title": "The Spirit's Work of Convicting the World",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the Spirit's threefold convicting work -- concerning sin (defined as unbelief), righteousness (demonstrated by Jesus's going to the Father), and judgment (the ruler of this world has been judged) -- as directed toward the world, not toward the believing community."
+    },
+    {
+      "reference": "16:12-15",
+      "section_title": "The Spirit Guiding into All Truth",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the Spirit's role as continuing the Son's revelatory work by guiding the community into all truth, speaking what he hears, and glorifying Jesus by disclosing what belongs to him."
+    },
+    {
+      "reference": "16:16-22",
+      "section_title": "Grief Turning to Joy",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the sorrow-to-joy transition through the image of a woman in labor, with the promise that the disciples' joy after seeing the risen Lord will be permanent: 'no one will take your joy away from you.'",
+      "relevance": "The neutral reading identifies 'no one will take your joy away from you' (v.22) as permanence language echoing the shepherd discourse's 'no one will snatch them out of my hand' (10:28-29). The reading notes that the joy is grounded in the risen Lord's presence rather than in the world's condition, making it resistant to external threats. However, the statement addresses external removal ('no one will take') rather than voluntary departure, leaving the question of self-removal unaddressed.",
+      "key_phrases": ["your heart will rejoice, and no one will take your joy away from you"],
+      "confidence": "low"
+    },
+    {
+      "reference": "16:23-28",
+      "section_title": "Prayer in Jesus's Name and Plain Speech about the Father",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the new post-departure reality of direct access to the Father through prayer in Jesus's name, with Jesus promising to speak plainly about the Father rather than in figurative language."
+    },
+    {
+      "reference": "16:29-33",
+      "section_title": "The Disciples' Premature Confidence and Jesus's Final Declaration",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the disciples' premature declaration of belief, immediately undermined by Jesus's prediction of their scattering, concluding with the accomplished victory declaration 'I have overcome the world.'",
+      "relevance": "The neutral reading identifies a tension between the disciples' fragile faith (they will scatter, 'each to his own home,' fulfilling Zechariah 13:7) and Jesus's accomplished victory ('I have overcome the world,' nenikeka, perfect tense -- completed conquest). The reading notes that the basis for courage is Jesus's victory, not the disciples' capacity. The peace offered is 'in me' (en emoi) -- located within the relationship to Jesus, not in the disciples' independent strength. The accomplished nature of the victory (perfect tense) suggests its permanence, though the scattering simultaneously demonstrates the disciples' capacity for failure.",
+      "key_phrases": ["an hour is coming for you to be scattered, each to his own home", "in the world you have tribulation, but take courage; I have overcome the world"],
+      "confidence": "low"
+    }
+  ]
+}

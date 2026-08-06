@@ -1,0 +1,44 @@
+{
+  "book": "1 John",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Prologue -- Eyewitness Testimony to the Word of Life",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author establishes apostolic authority through a cascade of sensory verbs -- heard, seen, gazed upon, touched -- insisting on firsthand, physical encounter with the incarnate Word of life that was with the Father and has been manifested."
+    },
+    {
+      "reference": "1:3-4",
+      "section_title": "The Purpose -- Fellowship and Complete Joy",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author states that the proclamation's purpose is to bring the audience into the fellowship (koinonia) that the eyewitnesses share with the Father and with his Son Jesus Christ, so that the community's joy may be made complete."
+    },
+    {
+      "reference": "1:5",
+      "section_title": "The Message -- God is Light",
+      "category": "NOT_APPLICABLE",
+      "summary": "The foundational message received from Jesus is declared: God is light and in him there is no darkness at all, establishing the governing metaphor for every subsequent ethical test in the letter."
+    },
+    {
+      "reference": "1:6-7",
+      "section_title": "Walking in Darkness and Walking in the Light",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that claiming fellowship with God while walking in darkness is a lie, while walking in the light produces fellowship with one another and ongoing cleansing from all sin by the blood of Jesus.",
+      "relevance": "The passage establishes that fellowship with God is conditional on walking in the light. The cleansing by the blood of Jesus is described with the present tense (katharizei, 'cleanses' -- ongoing action) and applies specifically to 'those who walk in the light.' The implication is that those who do not walk in the light are not being cleansed. The conditional structure -- 'if we walk in the light' -- means the blood's ongoing cleansing depends on the believer's ongoing conduct. Fellowship with God is not described as automatic or unconditional but as contingent upon correspondence between one's life and God's character as light.",
+      "key_phrases": ["if we say that we have fellowship with Him and yet walk in the darkness, we lie and do not practice the truth", "if we walk in the light as He Himself is in the light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:8-10",
+      "section_title": "Three Statements About Sin -- Self-Deception, Confession, and Making God a Liar",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that claiming sinlessness is self-deception that expels truth, confessing sins brings guaranteed forgiveness because God is faithful and righteous, and claiming a sinless history makes God a liar and expels his word -- establishing that ongoing honest confession is the required posture for the believer.",
+      "relevance": "While verse 9 provides strong assurance (God IS faithful and righteous to forgive -- his character guarantees the response to confession), the passage as a whole establishes that the believer's ongoing relationship with God requires ongoing honest engagement with sin. The cleansing in verse 9 is conditional on confession, and the passage assumes that truth and God's word can be absent from a person ('the truth is not in us,' 'his word is not in us'). The believer's standing is maintained through the ongoing practice of confession and transparency before God, not through a one-time transaction that requires no further engagement.",
+      "key_phrases": ["if we confess our sins, He is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness", "the truth is not in us", "His word is not in us"],
+      "confidence": "medium"
+    }
+  ]
+}

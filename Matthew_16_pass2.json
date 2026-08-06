@@ -1,0 +1,46 @@
+{
+  "book": "Matthew",
+  "chapter": 16,
+  "sections": [
+    {
+      "reference": "16:1-4",
+      "section_title": "The Pharisees and Sadducees Demand a Sign",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Pharisees and Sadducees, united for the first time, test Jesus by demanding a sign from heaven; Jesus calls them a wicked and adulterous generation, offers only the sign of Jonah, and abruptly departs."
+    },
+    {
+      "reference": "16:5-12",
+      "section_title": "The Leaven of the Pharisees and Sadducees",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus warns the disciples against the leaven of the Pharisees and Sadducees, rebukes their literal misunderstanding by recalling the two feedings and their surplus, and the disciples finally understand that the leaven refers to the corrupting influence of their teaching."
+    },
+    {
+      "reference": "16:13-16",
+      "section_title": "The Question at Caesarea Philippi",
+      "category": "NOT_APPLICABLE",
+      "summary": "At Caesarea Philippi, Jesus asks who people and then who the disciples say the Son of Man is, and Peter confesses: 'You are the Christ, the Son of the living God.'"
+    },
+    {
+      "reference": "16:17-20",
+      "section_title": "Jesus's Response to Peter's Confession",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus blesses Peter for receiving a revelation from the Father, declares he will build his ekklesia on 'this rock' with the gates of Hades unable to prevail against it, gives Peter the keys of the kingdom with authority to bind and loose, and commands silence about his messianic identity until its meaning is redefined through the cross."
+    },
+    {
+      "reference": "16:21-23",
+      "section_title": "The First Passion Prediction and Peter's Rebuke",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus reveals for the first time that he must go to Jerusalem, suffer at the hands of the elders, chief priests, and scribes, be killed, and be raised on the third day; Peter rebukes him and is in turn addressed as 'Satan' and called a 'stumbling block' for setting his mind on human rather than divine things."
+    },
+    {
+      "reference": "16:24-28",
+      "section_title": "The Cost of Following: Cross, Life, and the Coming of the Son of Man",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus teaches that following him requires self-denial and cross-bearing, that whoever saves his life will lose it while whoever loses it for his sake will find it, that gaining the whole world is worthless if one forfeits one's soul, and that the Son of Man will repay each person according to what he has done.",
+      "relevance": "The passage establishes three ongoing conditions for following Jesus -- self-denial, cross-bearing, and following -- and makes the finding or losing of one's life directly dependent on maintained loyalty. The statement that the Son of Man 'will repay each person according to what he has done' makes the eschatological outcome dependent on conduct. The neutral reading notes: 'what a person does with the choice between self-preservation and cross-bearing will determine the outcome at the judgment.' The rhetorical questions about gaining the world but forfeiting the soul, and the impossibility of ransoming the soul once it is forfeited, treat the soul as something that can be irretrievably lost through wrong choices. This directly addresses whether the believer's standing depends on ongoing faithfulness or is settled by initial commitment.",
+      "key_phrases": ["if anyone would come after me, let him deny himself and take up his cross and follow me", "whoever would save his life will lose it, but whoever loses his life for my sake will find it", "what will it profit a man if he gains the whole world and forfeits his soul", "he will repay each person according to what he has done"],
+      "confidence": "high"
+    }
+  ]
+}

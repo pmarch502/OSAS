@@ -1,0 +1,42 @@
+{
+  "book": "Revelation",
+  "chapter": 7,
+  "sections": [
+    {
+      "reference": "7:1-3",
+      "section_title": "The Four Angels and the Sealing Angel",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that four angels hold back destructive winds while a fifth angel, carrying the seal of the living God, commands that God's bond-servants be marked on their foreheads before judgment proceeds, replicating the protective-marking pattern of Ezekiel 9:4-6.",
+      "relevance": "God takes the initiative to seal and protect his servants before judgment falls, demonstrating divine commitment to preserving his people. The seal marks ownership by the living God, and the entire judgment sequence is delayed until the sealing is complete, establishing that God's priority is the protection of those who belong to him. However, the passage presupposes that the sealed are already identified as bond-servants; it does not address whether the seal can be forfeited or whether one can cease to be a bond-servant.",
+      "key_phrases": ["the seal of the living God", "Do not harm the earth or the sea or the trees until we have sealed the bond-servants of our God on their foreheads"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "7:4-8",
+      "section_title": "The 144,000 from the Twelve Tribes",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading found that the 144,000 is a symbolic number (12 x 12 x 1,000) expressing the completeness and perfect organization of God's people, with the tribal list arranged according to theological rather than genealogical criteria and the hearing/seeing pattern connecting this census to the innumerable multitude of 7:9."
+    },
+    {
+      "reference": "7:9-12",
+      "section_title": "The Great Multitude Before the Throne",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that an innumerable multitude from every nation stands before the throne and the Lamb in white robes with palm branches, declaring that salvation belongs to God and to the Lamb, directly answering the question of 6:17 about who is able to stand.",
+      "relevance": "The multitude's secure standing before the throne answers the question of who can survive divine judgment, and their cry attributes salvation entirely to God and the Lamb rather than to their own effort. The doxological declaration echoes Psalm 3:8 and Jonah 2:9, placing the accomplishment of salvation with God. The scene is one of unqualified security and celebration. However, the basis for their standing is explained in the following section, which introduces conditional elements.",
+      "key_phrases": ["standing before the throne and before the Lamb", "Salvation belongs to our God who sits on the throne, and to the Lamb"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "7:13-17",
+      "section_title": "The Elder's Explanation",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that the elder identifies the great multitude as those who come out of the great tribulation and have washed their robes and made them white in the blood of the Lamb, with the causal phrase 'for this reason' (dia touto) connecting their active washing to their standing before the throne.",
+      "relevance": "The standing before God is explicitly tied to active participation: 'they washed' (eplynon) and 'they made white' (eleukanan) are aorist active verbs indicating the multitude's own appropriation of the Lamb's blood. The causal connection ('for this reason, they are before the throne') makes their position the consequence of endurance through tribulation and active cleansing. The neutral reading concludes that 'the endurance is the condition, not the guarantee for all without distinction' and that 'those who do not conquer receive no such assurance.' The present participle 'hoi erchomenoi' (the ones coming) describes an ongoing stream, not a single completed event, connecting to the seven messages' demand for ongoing faithfulness.",
+      "key_phrases": ["These are the ones who come out of the great tribulation", "they have washed their robes and made them white in the blood of the Lamb", "For this reason, they are before the throne of God"],
+      "confidence": "high"
+    }
+  ]
+}

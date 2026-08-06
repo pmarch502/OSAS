@@ -1,0 +1,66 @@
+{
+  "book": "Acts",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-3",
+      "section_title": "Peter and John Go Up to the Temple",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter and John go to the temple at the hour of prayer and encounter a man lame from birth who is begging at the Beautiful Gate."
+    },
+    {
+      "reference": "3:4-8",
+      "section_title": "The Healing",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter heals the congenital lame man in the name of Jesus Christ the Nazarene, and the man leaps up, walks, and enters the temple praising God, fulfilling the eschatological vision of Isaiah 35."
+    },
+    {
+      "reference": "3:9-10",
+      "section_title": "The Crowd's Reaction",
+      "category": "NOT_APPLICABLE",
+      "summary": "The people recognize the healed man as the one who begged daily at the Beautiful Gate and are filled with wonder and amazement."
+    },
+    {
+      "reference": "3:11-16",
+      "section_title": "Peter's Speech -- The Healing Explained",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter redirects the crowd's amazement away from himself toward the God of Abraham, Isaac, and Jacob, who glorified his Servant Jesus -- the Holy and Righteous One, the Author of life -- whom the audience killed but God raised, and whose name and the faith that comes through him produced this complete healing."
+    },
+    {
+      "reference": "3:17-18",
+      "section_title": "The Concession of Ignorance and the Fulfillment of Prophecy",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter concedes that the audience and their rulers acted in ignorance when they killed Jesus, and that God fulfilled through their actions what all the prophets foretold -- that the Christ would suffer."
+    },
+    {
+      "reference": "3:19-21",
+      "section_title": "The Call to Repentance and the Promise of Restoration",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Peter calls the audience to repent and return so that their sins may be wiped away, times of refreshing may come from the Lord's presence, and God may send the appointed Christ, whom heaven must receive until the period of restoration of all things.",
+      "relevance": "The passage establishes a conditional chain: repent and return --> sins wiped away --> times of refreshing --> God sends the Christ --> restoration of all things. The structure is explicitly conditional -- the promised blessings follow from and depend upon the human response of repentance and return. This conditional architecture bears on whether the believer's relationship with God is structured as ongoing responsiveness rather than a one-time transaction.",
+      "key_phrases": ["repent and return", "so that your sins may be wiped away", "in order that times of refreshing may come from the presence of the Lord"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:22-23",
+      "section_title": "The Prophet Like Moses",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Peter cites Moses's prophecy from Deuteronomy 18 that God will raise up a prophet like Moses whom the people must heed, with the warning that every soul who does not listen to that prophet will be utterly destroyed from among the people.",
+      "relevance": "The Deuteronomy 18 warning directly addresses covenant excision: those who do not heed the Prophet like Moses (Jesus) will be 'utterly destroyed from among the people.' The neutral reading explicitly states this is 'not a threat directed at outsiders; it is a warning directed at insiders' -- those currently within the covenant community will be cut off if they refuse to listen. This establishes the principle that membership in God's people is conditional on ongoing response to God's appointed agent. The verb exolethreuo is the standard LXX term for being cut off from the covenant community.",
+      "key_phrases": ["every soul that does not heed that prophet shall be utterly destroyed from among the people", "to Him you shall give heed to everything He says to you"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:24-26",
+      "section_title": "The Prophets, the Covenant, and the Mission to Israel First",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Peter identifies the audience as sons of the prophets and of the Abrahamic covenant, and declares that God sent his Servant first to Israel to bless them by turning every one of them from their wicked ways.",
+      "relevance": "The content of the messianic blessing is defined as moral transformation -- 'turning every one of you from your wicked ways' -- rather than a forensic status change or unconditional guarantee. The neutral reading notes that 'repentance is itself the blessing' and that 'the ability to turn from sin is the gift that God sends through his Servant.' This frames salvation in terms of ongoing moral transformation rather than a one-time legal declaration, bearing indirectly on whether the believer's standing depends on that transformation continuing.",
+      "key_phrases": ["to bless you by turning every one of you from your wicked ways", "for you first, God raised up His Servant and sent Him"],
+      "confidence": "low"
+    }
+  ]
+}

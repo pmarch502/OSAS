@@ -1,0 +1,54 @@
+{
+  "book": "2 Timothy",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Greeting -- Apostleship and the Promise of Life",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul, apostle by the will of God according to the promise of life in Christ Jesus, greets Timothy his beloved child with grace, mercy, and peace."
+    },
+    {
+      "reference": "1:3-5",
+      "section_title": "Thanksgiving -- Ancestral Faith and Spiritual Heritage",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul thanks God whom he serves with a clear conscience, remembers Timothy constantly in prayer, and affirms the sincere faith that dwelt first in Timothy's grandmother Lois and mother Eunice and now dwells in Timothy."
+    },
+    {
+      "reference": "1:6-7",
+      "section_title": "The Gift Rekindled -- Power Instead of Cowardice",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul reminds Timothy to fan into flame (anazopyrein) the gift of God received through Paul's laying on of hands, since God gave a spirit not of cowardice but of power, love, and self-discipline.",
+      "relevance": "The command to 'fan into flame' the gift implies that the gift can become dormant -- the embers are not extinguished but they need active tending to remain aflame. The neutral reading develops the Levitical parallel: the priestly fire must be maintained continuously (Leviticus 6:12-13), and letting it die is a failure of stewardship. The very need for the command, combined with Paul's statement that he is 'persuaded' Timothy's faith is genuine (v. 5), suggests that genuine faith and genuine gifts can be allowed to dim through fear, pressure, or neglect. The passage treats the spiritual endowment as requiring ongoing active tending, not as self-sustaining regardless of the recipient's engagement.",
+      "key_phrases": ["fan into flame the gift of God", "God gave us a spirit not of cowardice but of power and love and self-discipline"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:8-12",
+      "section_title": "The Call to Suffer Without Shame -- Grounded in God's Saving Purpose",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Timothy must not be ashamed of the gospel or Paul's imprisonment but share in suffering by the power of God, who saved and called his people not because of works but because of his own purpose and grace given in Christ before the ages, now revealed through Christ's appearing which abolished death and brought life to light; Paul is not ashamed because he knows whom he has believed and is convinced God is able to guard his deposit until that day.",
+      "relevance": "This passage contains 2 Timothy 1:12, conventionally cited for permanence ('he is able to guard what I have entrusted to me'). The neutral reading supports the passage's expression of confidence in God's power and faithfulness but clarifies several points that nuance the conventional use. First, 'my deposit' (ten paratheken mou) refers to what Paul has entrusted to God -- his life, ministry, and faithfulness -- not to the gospel God entrusted to Timothy (which is the paratheke in v. 14). The direction of entrustment is reversed from the conventional reading. Second, Paul's confidence is grounded in personal relationship ('I know whom I have believed') and is personal, not a systematic statement about all believers' irrevocable standing. Third, verses 9-10 do strongly affirm God's sovereign initiative in salvation -- saving and calling 'not because of our works but because of his own purpose and grace, given before the ages began.' This grounds salvation entirely in God's prior purpose, which leans toward permanence. However, the neutral reading sets this theological statement within a letter whose central concern is mass desertion (v. 15, 'all in Asia turned away'), where Paul must urge Timothy not to join the departing. The passage expresses genuine confidence in God's faithfulness without addressing whether all believers irrevocably retain their standing.",
+      "key_phrases": ["saved us and called us to a holy calling, not because of our works but because of his own purpose and grace", "I know whom I have believed", "he is able to guard until that day what has been entrusted to me"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:13-14",
+      "section_title": "The Pattern and the Deposit -- What Timothy Must Guard",
+      "category": "NOT_APPLICABLE",
+      "summary": "Timothy must follow the pattern of sound words heard from Paul, holding them in faith and love, and must guard the good deposit entrusted to him through the Holy Spirit who dwells within the community."
+    },
+    {
+      "reference": "1:15-18",
+      "section_title": "Two Responses to Suffering -- Desertion and Faithfulness",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "All in Asia have turned away from Paul (including the named Phygelus and Hermogenes), while Onesiphorus was not ashamed of Paul's chain, searched earnestly for him in Rome, and refreshed him often; Paul prays for mercy on Onesiphorus and his household on 'that day.'",
+      "relevance": "The mass desertion described in verse 15 -- 'all who are in Asia turned away from me' (apestraphesan me pantes) -- demonstrates that abandonment of the apostle and his gospel under pressure is a widespread, real phenomenon, not a hypothetical. The neutral reading notes that the letter treats association with Paul as inseparable from the gospel itself, so turning away from the imprisoned apostle is functionally a turning away from the testimony he embodies. The contrast between the many who deserted and the one who remained faithful (Onesiphorus) frames the choice before Timothy as a genuine either/or with real consequences. Paul's prayer that Onesiphorus may 'find mercy from the Lord on that day' implies that faithfulness under pressure is connected to eschatological outcome. The passage bears on the question by demonstrating that those within the community of faith can and do abandon their fidelity when the cost becomes high.",
+      "key_phrases": ["all who are in Asia turned away from me", "he was not ashamed of my chain", "may the Lord grant him to find mercy from the Lord on that day"],
+      "confidence": "medium"
+    }
+  ]
+}

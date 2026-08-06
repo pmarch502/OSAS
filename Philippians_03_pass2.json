@@ -1,0 +1,80 @@
+{
+  "book": "Philippians",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1",
+      "section_title": "Transitional Exhortation",
+      "category": "NOT_APPLICABLE",
+      "summary": "A transitional verse in which Paul calls the Philippians to rejoice in the Lord, noting that repeating this is no trouble for him and serves as a safeguard for them."
+    },
+    {
+      "reference": "3:2-3",
+      "section_title": "The Warning and the Redefinition of Circumcision",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul warns against those he calls 'dogs,' 'evil workers,' and 'the mutilation,' and redefines true circumcision as worship by the Spirit, boasting in Christ Jesus, and placing no confidence in the flesh. This concerns the basis of covenant membership rather than the permanence or conditionality of standing once established."
+    },
+    {
+      "reference": "3:4-6",
+      "section_title": "Paul's Credentials in the Flesh",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul catalogs his former credentials -- circumcision, tribal lineage, Pharisaic zeal, blamelessness under Torah -- to demonstrate that he has more grounds for flesh-confidence than anyone, establishing his authority to reject that basis of standing."
+    },
+    {
+      "reference": "3:7-8",
+      "section_title": "The Revaluation",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul revalues all his former credentials as loss for the sake of Christ, counting everything as rubbish in light of the surpassing worth of knowing Christ Jesus his Lord. The passage concerns the radical shift in what constitutes value, not directly the question of whether standing once gained can be lost."
+    },
+    {
+      "reference": "3:9-11",
+      "section_title": "Righteousness, Knowledge, and Conformity to Christ",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Paul desires to be found in Christ having a righteousness from God through faith, to know the power of Christ's resurrection and the fellowship of his sufferings, being conformed to his death, in order that he might somehow attain to the resurrection from the dead.",
+      "relevance": "The conditional particle 'ei pos' ('if somehow,' 'if by any means') in verse 11 introduces explicit contingency into Paul's own statement about attaining the resurrection. The neutral reading identifies this as language that 'stands in tension with any reading that treats the believer's final destiny as already settled.' Crucially, the one using this contingent language is not a wavering novice but Paul himself -- the apostle who has abandoned everything for Christ. Yet even he frames his own participation in the resurrection as the end of a process he is still undergoing: knowing Christ (progressive), sharing his sufferings (ongoing), being conformed to his death (present passive). The goal of resurrection is not presented as a possession already secured but as the culmination of an ongoing conformity to Christ's death-and-resurrection pattern. This directly bears on whether the believer's final standing is guaranteed regardless of subsequent conduct.",
+      "key_phrases": ["that I may know Him and the power of His resurrection and the fellowship of His sufferings", "being conformed to His death", "if somehow I may attain to the resurrection from the dead"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:12-14",
+      "section_title": "Pressing Forward",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Paul explicitly and triply denies having already obtained the goal or reached perfection. He presses on to make his own what Christ has made his own, forgetting what lies behind and straining toward the prize of the upward call of God in Christ Jesus.",
+      "relevance": "Paul's threefold denial of having arrived (v.12: 'not that I have already obtained'; 'not that I am already perfect'; v.13: 'I do not consider that I have made it my own') is stated with emphatic force. The neutral reading observes: 'Paul explicitly and repeatedly denies having reached final completion.' The athletic metaphor of the race with a prize (brabeion) ahead -- not behind -- presents final salvation as something to be pursued and won, not something already deposited in an inviolable account. The connection to 1 Corinthians 9:24-27 (which the neutral reading notes) further reinforces this: there Paul uses the same athletic imagery and admits the possibility of being 'disqualified' (adokimos). The passage directly and forcefully addresses the question: Paul treats his own final destiny as contingent on pressing forward, not as a fait accompli.",
+      "key_phrases": ["not that I have already obtained this or am already perfect", "I press on toward the goal", "forgetting what lies behind and straining forward to what lies ahead", "the prize of the upward call of God in Christ Jesus"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:15-16",
+      "section_title": "The Appeal to the Mature",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul calls on those who are 'mature' (teleioi) to share his mindset of not having arrived, and trusts that God will reveal the right perspective to any who think otherwise. He urges the community to hold true to what they have already attained.",
+      "relevance": "The appeal defines maturity as the recognition that one has not yet arrived -- a paradox in which the 'perfect' are precisely those who know they are not yet perfect. The exhortation to 'hold true to what we have attained' (v.16) treats the community's current position as something that must be actively maintained. If no one could fail to hold true, the imperative would be empty. The passage leans conditional because it assumes the community's progress can stall or reverse if they adopt a different mindset.",
+      "key_phrases": ["let those of us who are mature think this way", "God will reveal that also to you", "let us hold true to what we have attained"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:17-19",
+      "section_title": "The Call to Imitate and the Warning About Enemies of the Cross",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul calls for imitation of himself and those who walk according to his pattern. He weeps over many who walk as enemies of the cross of Christ, whose end is destruction, whose god is their belly, who glory in their shame, and who set their minds on earthly things.",
+      "relevance": "The 'enemies of the cross' are people Paul knows personally and weeps over -- they are not remote pagans but people connected to the believing community. Their 'end is destruction' (apoleia), the antithesis of salvation. The neutral reading notes that their behavior represents a 'systematic inversion of the Christ-pattern' described in 2:5-11: instead of self-emptying, they indulge; instead of the cross, they serve their belly; instead of glory through humiliation, they glory in shame. The tears suggest Paul had expected better of them, implying they once walked differently. Their trajectory from apparent belonging to 'enemies of the cross' whose end is destruction illustrates that proximity to the community does not guarantee final destiny. This leans conditional rather than strong because the passage does not explicitly state these were genuine believers who lost their standing; it presents them as a warning example.",
+      "key_phrases": ["many walk as enemies of the cross of Christ", "their end is destruction", "their god is their belly", "they glory in their shame, with minds set on earthly things"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:20-21",
+      "section_title": "Heavenly Citizenship and Bodily Transformation",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul declares that the community's citizenship is in heaven, from which they await a Savior who will transform their lowly body to be like his glorious body, by the power that enables him to subject all things to himself.",
+      "relevance": "The passage affirms Christ's sovereign power to transform and subject all things. The agency for the final transformation is entirely Christ's -- he transforms, he subjects, he exercises the power. This has implications favoring permanence because it grounds the believer's hope in Christ's power rather than in human effort. However, the neutral reading places this passage as the answer to the 'not yet' of verses 11-14: the goal toward which Paul presses is the transformation that Christ will accomplish. The passage thus functions as the promise that awaits those who complete the race, not as a guarantee that every runner will finish. Its force leans permanent because of the emphasis on Christ's sovereign power, but the immediate context (enemies whose end is destruction in vv.18-19; the pressing-forward of vv.12-14) qualifies the scope of the promise.",
+      "key_phrases": ["our citizenship is in heaven", "we await a Savior, the Lord Jesus Christ", "will transform our lowly body to be like his glorious body", "by the power that enables him even to subject all things to himself"],
+      "confidence": "medium"
+    }
+  ]
+}

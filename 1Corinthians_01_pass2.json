@@ -1,0 +1,44 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-3",
+      "section_title": "The Opening -- Sender, Recipients, and Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul identifies himself as a called apostle and addresses the Corinthian community as sanctified, called saints, greeting them with grace and peace from God and the Lord Jesus Christ."
+    },
+    {
+      "reference": "1:4-9",
+      "section_title": "Thanksgiving -- God's Gifts and God's Faithfulness",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Paul thanks God for the grace given to the Corinthians, affirming that God will sustain them to the end, guiltless on the day of the Lord, grounding this in God's faithfulness as the one who called them into fellowship with his Son.",
+      "relevance": "The passage affirms God's active commitment to sustain (bebaiosei) believers to the end so they stand guiltless at judgment. However, the neutral reading explicitly notes that this affirmation of divine faithfulness coexists with urgent warnings throughout the letter (6:9, 9:27, 10:12) and parallels Deuteronomy 7:9-12, where God's faithfulness operates alongside the expectation that his people love him and keep his commandments. The passage genuinely leans toward permanence because the sustaining is attributed to God's action, not human effort, but the covenantal framework the neutral reading identifies means it does not eliminate human responsibility -- it grounds it.",
+      "key_phrases": ["will sustain you to the end", "guiltless in the day of our Lord Jesus Christ", "God is faithful", "by whom you were called into the fellowship of his Son"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:10-17",
+      "section_title": "The Exposure of the Community's Division",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul confronts the community's factionalism -- divisions along the lines of allegiance to Paul, Apollos, Cephas, or Christ -- arguing that Christ is not divided and that the community's identity rests in the one who was crucified for them and in whose name they were baptized."
+    },
+    {
+      "reference": "1:18-25",
+      "section_title": "The Word of the Cross -- God's Power Through Apparent Foolishness",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul argues that the message of the cross is foolishness to those who are perishing but the power of God to those who are being saved, developing the paradox that God's power operates through apparent weakness and foolishness.",
+      "relevance": "The neutral reading draws attention to the present tense participles: 'those who are perishing' (tois apollymenois) and 'those who are being saved' (tois sozomenois). The reading notes that both 'indicate a current direction, not a finished destination' and that 'being saved is an ongoing process, not a completed event.' This description of salvation as an ongoing trajectory rather than a completed, settled status has implications for the permanence question, since it suggests the community currently stands on a path rather than having already arrived at an irreversible destination.",
+      "key_phrases": ["to those who are perishing", "to us who are being saved", "it is the power of God"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:26-31",
+      "section_title": "The Evidence in the Community Itself -- God Chooses What the World Discards",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul points to the community's own composition as evidence of God's method: God chose the foolish, weak, and lowborn to shame the wise and strong, so that no human being might boast before God, and Christ became for them wisdom, righteousness, sanctification, and redemption."
+    }
+  ]
+}

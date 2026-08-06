@@ -1,0 +1,76 @@
+{
+  "book": "Acts",
+  "chapter": 15,
+  "sections": [
+    {
+      "reference": "15:1-2",
+      "section_title": "The Crisis at Antioch",
+      "category": "NOT_APPLICABLE",
+      "summary": "Men from Judea teach at Antioch that circumcision according to the custom of Moses is necessary for salvation, provoking sharp dissension and debate with Paul and Barnabas, who are appointed to go to Jerusalem to resolve the question with the apostles and elders."
+    },
+    {
+      "reference": "15:3",
+      "section_title": "The Journey Through Phoenicia and Samaria",
+      "category": "NOT_APPLICABLE",
+      "summary": "En route to Jerusalem, Paul and Barnabas describe the conversion of the Gentiles in detail to the communities in Phoenicia and Samaria, bringing great joy to all the brothers."
+    },
+    {
+      "reference": "15:4-5",
+      "section_title": "Arrival in Jerusalem and the Pharisee Believers' Demand",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul and Barnabas are welcomed in Jerusalem and report what God has done; believers from the party of the Pharisees insist that Gentile believers must be circumcised and ordered to keep the law of Moses."
+    },
+    {
+      "reference": "15:6",
+      "section_title": "The Assembly",
+      "category": "NOT_APPLICABLE",
+      "summary": "The apostles and elders gather formally to consider the question of what is required of Gentile believers."
+    },
+    {
+      "reference": "15:7-11",
+      "section_title": "Peter's Speech -- God Already Settled This",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Peter testifies that God chose him to bring the gospel to Gentiles, gave them the Holy Spirit just as to Jewish believers, made no distinction between Jew and Gentile, and cleansed their hearts by faith; he warns against 'putting God to the test' by imposing a yoke that neither their fathers nor they could bear, and concludes: 'We believe that we will be saved through the grace of the Lord Jesus, just as they will.'",
+      "relevance": "Peter's declaration that salvation is 'through the grace of the Lord Jesus' (v. 11), with grace as the universal basis (not Law-keeping), has implications for the permanence question. If salvation rests on grace rather than on human performance under the Law, this could support permanence: what depends on God's grace may be more secure than what depends on human compliance. Additionally, God's unilateral act of cleansing hearts 'by faith' (v. 9) and giving the Spirit without distinction (v. 8) emphasizes divine initiative. However, Peter does not directly address whether the grace-based standing can be forfeited; his argument is about the basis of salvation (grace vs. Law), not its duration.",
+      "key_phrases": ["we will be saved through the grace of the Lord Jesus, just as they will", "God made no distinction between us and them", "cleansed their hearts by faith", "God who knows the heart bore witness to them"],
+      "confidence": "low"
+    },
+    {
+      "reference": "15:12",
+      "section_title": "Barnabas and Paul's Testimony",
+      "category": "NOT_APPLICABLE",
+      "summary": "The assembly falls silent and listens as Barnabas and Paul report the signs and wonders God performed through them among the Gentiles."
+    },
+    {
+      "reference": "15:13-18",
+      "section_title": "James's Speech -- Scripture Confirms What God Has Done",
+      "category": "NOT_APPLICABLE",
+      "summary": "James declares that Peter's testimony agrees with the prophets, quoting Amos 9:11-12 (LXX) to show that God's rebuilding of David's fallen tent was always intended to include Gentiles who bear God's name -- a purpose 'known from of old.'"
+    },
+    {
+      "reference": "15:19-21",
+      "section_title": "James's Judgment -- The Four Prohibitions",
+      "category": "NOT_APPLICABLE",
+      "summary": "James rules that Gentile believers should not be troubled beyond four prohibitions (things polluted by idols, sexual immorality, things strangled, and blood) -- requirements corresponding to the Torah's provisions for the sojourner in Israel (Leviticus 17-18), creating the conditions for table fellowship between Jewish and Gentile believers."
+    },
+    {
+      "reference": "15:22-29",
+      "section_title": "The Letter",
+      "category": "NOT_APPLICABLE",
+      "summary": "The apostles, elders, and whole church send a letter to Gentile believers in Antioch, Syria, and Cilicia, disavowing the unauthorized teachers, commending Paul and Barnabas, and declaring that 'it has seemed good to the Holy Spirit and to us to lay on you no greater burden than these requirements' -- the four prohibitions restated."
+    },
+    {
+      "reference": "15:30-35",
+      "section_title": "The Letter's Reception in Antioch",
+      "category": "NOT_APPLICABLE",
+      "summary": "The letter is read in Antioch and received with joy and encouragement; Judas and Silas, identified as prophets, encourage and strengthen the brothers; they are sent off in peace, and Paul and Barnabas remain in Antioch teaching and preaching."
+    },
+    {
+      "reference": "15:36-41",
+      "section_title": "The Separation of Paul and Barnabas",
+      "category": "NOT_APPLICABLE",
+      "summary": "A sharp disagreement (paroxysmos) over John Mark separates Paul and Barnabas; Barnabas takes Mark to Cyprus while Paul chooses Silas and departs through Syria and Cilicia, strengthening the churches."
+    }
+  ]
+}

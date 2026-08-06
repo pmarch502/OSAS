@@ -1,0 +1,88 @@
+{
+  "book": "Matthew",
+  "chapter": 13,
+  "sections": [
+    {
+      "reference": "13:1-3a",
+      "section_title": "The Setting: Teaching by the Sea",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus leaves the house and teaches great crowds by the sea from a boat, speaking in parables as his mode of communication after the rejection documented in chapter 12."
+    },
+    {
+      "reference": "13:3b-9",
+      "section_title": "The Parable of the Sower",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus tells a parable of a sower whose seed falls on four types of ground -- path, rocky ground, thorns, and good soil -- with only the last producing a harvest, while the rocky and thorny ground produce initial growth that ultimately fails.",
+      "relevance": "The parable depicts a pattern in which the same seed produces varying outcomes depending on the soil's condition, including initial growth that fails to reach fruition. The rocky ground and thorny ground represent responses that begin positively but do not endure -- the first springs up quickly then withers, the second is choked by competing forces. This implies that initial reception of the message does not guarantee final fruitfulness. The full bearing on the permanence/conditionality question emerges in the explanation at vv. 18-23.",
+      "key_phrases": ["immediately they sprang up, since they had no depth of soil", "when the sun rose they were scorched, and since they had no root they withered away", "the thorns grew up and choked them"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:10-17",
+      "section_title": "Why Parables: The Isaiah Citation",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus explains that parables reveal truth to the receptive and conceal it from those who have closed their eyes, citing Isaiah 6:9-10, and pronounces the disciples blessed because they see and hear what prophets longed to witness.",
+      "relevance": "The neutral reading observes that the disciples' beatitude 'carries a warning by implication: the disciples are blessed because they see and hear. If they were to stop seeing, stop hearing -- if they were to close their eyes as this people has -- their blessedness would evaporate. The blessing is conditional on continued receptivity.' The principle that 'to the one who has, more will be given, but from the one who has not, even what he has will be taken away' describes a dynamic spiritual condition in which existing responsiveness produces greater understanding while unresponsiveness produces loss -- implying that standing is not static.",
+      "key_phrases": ["to the one who has, more will be given", "from the one who has not, even what he has will be taken away", "their eyes they have closed", "blessed are your eyes, for they see"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:18-23",
+      "section_title": "Explanation of the Sower",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus explains the four soils as four types of hearers: one who never understands, one who receives with joy but falls away under pressure, one whose hearing is choked by worldly anxiety and riches, and one who hears, understands, and bears fruit.",
+      "relevance": "The rocky-ground hearer 'receives it with joy' and 'endures for a while' but 'immediately falls away' when tribulation or persecution comes -- a direct depiction of initial positive response that does not persist. The neutral reading states: 'The rocky ground person is not an outsider who never responded but a responder who did not persist. The text is explicit that this person falls away.' The thorny-ground hearer similarly hears the word but becomes 'unfruitful' as worldly concerns choke it. The chapter summary notes: 'Initial reception does not guarantee final fruitfulness.' This directly addresses the permanence/conditionality question: genuine initial reception of the word can fail to produce enduring fruit.",
+      "key_phrases": ["receives it with joy", "he has no root in himself, but endures for a while", "immediately he falls away", "the cares of the world and the deceitfulness of riches choke the word, and it proves unfruitful", "hears the word and understands it, he indeed bears fruit"],
+      "confidence": "high"
+    },
+    {
+      "reference": "13:24-30",
+      "section_title": "The Parable of the Wheat and the Weeds",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus tells a parable about an enemy sowing weeds among wheat, with the master forbidding premature separation and ordering both to grow together until the harvest, when the reapers will sort them."
+    },
+    {
+      "reference": "13:31-33",
+      "section_title": "The Mustard Seed and the Leaven",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus uses two parables to describe the kingdom of heaven's characteristic mode: beginning with something negligibly small and growing or permeating until the result is comprehensive and disproportionate to the beginning."
+    },
+    {
+      "reference": "13:34-35",
+      "section_title": "The Author's Comment: Fulfillment of Psalm 78",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author notes that Jesus spoke only in parables to the crowds, fulfilling Psalm 78:2 about opening the mouth in parables and uttering things hidden since the foundation of the world."
+    },
+    {
+      "reference": "13:36-43",
+      "section_title": "Explanation of the Wheat and the Weeds",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus identifies the sower of good seed as the Son of Man, the field as the world, the good seed as sons of the kingdom, the weeds as sons of the evil one, the harvest as the end of the age, and the reapers as angels who will gather all causes of sin and law-breakers for fiery judgment while the righteous shine in the Father's kingdom."
+    },
+    {
+      "reference": "13:44-50",
+      "section_title": "Three Short Parables: Treasure, Pearl, Dragnet",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus tells three parables: the hidden treasure and the pearl of great price, depicting joyful total commitment to the kingdom, and the dragnet, depicting a comprehensive catch followed by sorting at the end of the age with the bad thrown into the fiery furnace.",
+      "relevance": "The dragnet parable warns against assuming that being gathered into the kingdom's net guarantees being kept. The neutral reading notes that the parable is 'a warning against two errors: premature exclusion (trying to sort the catch while still in the water) and complacent inclusion (assuming that being in the net guarantees being kept).' The net gathers every kind indiscriminately; the sorting into good and bad occurs afterward. This implies that present inclusion in the community does not automatically equate to final acceptance.",
+      "key_phrases": ["gathered fish of every kind", "sorted the good into containers but threw away the bad", "the angels will come out and separate the evil from the righteous"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:51-52",
+      "section_title": "The Scribe Trained for the Kingdom",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus confirms the disciples' understanding and describes the scribe trained for the kingdom as one who brings out of his treasure what is new and what is old, integrating Israel's scriptures with the kingdom realities Jesus reveals."
+    },
+    {
+      "reference": "13:53-58",
+      "section_title": "Rejection at Nazareth",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus returns to his hometown where the people take offense at his ordinariness, and the author notes that he did not do many mighty works there because of their unbelief, illustrating the sower parable's depiction of unreceptive soil."
+    }
+  ]
+}

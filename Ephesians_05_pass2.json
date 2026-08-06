@@ -1,0 +1,66 @@
+{
+  "book": "Ephesians",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-2",
+      "section_title": "The Pattern of Imitation -- Walking in Love",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section commands the community to imitate God as beloved children and to walk in love, with Christ's self-sacrificial death -- described as a fragrant offering and sacrifice to God using LXX sacrificial vocabulary -- serving as the defining pattern for the love that governs the new walk."
+    },
+    {
+      "reference": "5:3-7",
+      "section_title": "The Warning -- What Has No Place in the Community",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading finds this section declares that every sexually immoral, impure, or covetous person has no inheritance in the kingdom of Christ and God, warns against deception by empty words, states that God's wrath comes upon the sons of disobedience for these things, and commands the community not to become co-sharers with them.",
+      "relevance": "The passage directly addresses whether a believer's inheritance -- the same inheritance established in 1:11-14 and guaranteed by the Spirit's arrabon -- can be forfeited through conduct. The verdict is stated in the present tense ('does not have,' not 'will not have'), indicating present dispossession for anyone characterized by these behaviors. The neutral reading explicitly connects this to covenant conditionality in the LXX: 'the inheritance declared in 1:11-14 can be forfeited by those whose conduct is characterized by the three named vices.' The warning against 'empty words' (v.6) may target the claim that grace covers such behavior without consequence. The phrase 'sons of disobedience' is the exact phrase from 2:2 describing those under the ruler of the air, creating a direct warning against returning to the former condition. The command 'do not become co-sharers with them' (v.7) uses symmetochoi -- the same syn-compound family that defined the positive mystery in 3:6 (co-heirs, co-members, co-sharers) -- now deployed as a warning: the community that became co-sharers of the promise must not become co-sharers with those under wrath. This is the author's own argument, part of the letter's sustained ethical instruction, addressed to believers, about the forfeiture of inheritance through conduct.",
+      "key_phrases": ["has no inheritance in the kingdom of Christ and God", "let no one deceive you with empty words", "because of these things the wrath of God comes upon the sons of disobedience", "do not become partners with them"],
+      "confidence": "high"
+    },
+    {
+      "reference": "5:8-14",
+      "section_title": "The Identity Argument -- Darkness, Light, and Exposure",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this section declares the recipients were once darkness itself but are now light in the Lord, commands them to walk as children of light whose fruit is goodness, righteousness, and truth, instructs them to expose rather than participate in the unfruitful works of darkness, and closes with what appears to be an early Christian hymn calling the sleeper to awake and arise from the dead so that Christ will shine upon them.",
+      "relevance": "The identity transformation from darkness to light is total and God-initiated, but the imperative to 'walk as children of light' implies that conduct must correspond to identity -- the transformation creates obligations, not mere status. The call to 'awake, O sleeper, and arise from the dead' (v.14), drawing on Isaiah's prophetic summons to drowsy Zion, may function as a warning to community members drifting back toward the behaviors condemned in 5:3-7. The neutral reading notes this call 'may also function as a warning to those within the community who are drifting back.' The echo of 'arise from the dead' -- the same language used in 2:1, 5 where the community was dead and made alive -- raises the question of whether spiritual drowsiness can return one to a state analogous to the former death from which they were rescued.",
+      "key_phrases": ["you were darkness, but now you are light in the Lord", "walk as children of light", "take no part in the unfruitful works of darkness", "awake, O sleeper, and arise from the dead, and Christ will shine on you"],
+      "confidence": "low"
+    },
+    {
+      "reference": "5:15-21",
+      "section_title": "Walking Carefully -- Wisdom, the Spirit, and Communal Life",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section instructs the community to walk carefully as wise people, making the most of the time because the days are evil, understanding the Lord's will, being filled with the Spirit rather than drunk with wine, and expressing their Spirit-filled life in communal worship, thanksgiving, and mutual submission in the fear of Christ."
+    },
+    {
+      "reference": "5:22-24",
+      "section_title": "Wives and Husbands -- The First Instruction",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section instructs wives to submit to their own husbands as to the Lord, grounded in the analogy that the husband is head of the wife as Christ is head of the church, while noting that only Christ -- not the husband -- is savior of the body."
+    },
+    {
+      "reference": "5:25-27",
+      "section_title": "The Husband's Love -- Christ's Self-Giving as Model",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this section instructs husbands to love their wives as Christ loved the church and gave himself up for her, with Christ's purpose being to sanctify and present the church 'holy and blameless' -- the exact language of the election purpose in 1:4 -- establishing that the goal of election is accomplished through Christ's sacrificial work.",
+      "relevance": "Christ's active work to sanctify and present the church holy and blameless -- fulfilling the election purpose stated in 1:4 -- suggests divine initiative toward a guaranteed corporate outcome. The neutral reading notes that 'the holiness comes from Christ's action, not from the community's self-effort -- he sanctifies, he cleanses, he presents,' implying the goal depends on Christ's work rather than human performance. This lends weight to permanence at the corporate level: God will have a holy people because Christ works to produce one. However, this is a statement about the corporate church as the bride of Christ, not about every individual member's irrevocable standing. The same chapter's warning about inheritance forfeiture (5:5) creates tension with any reading that eliminates individual conditionality, suggesting that the corporate guarantee and individual responsibility coexist in the author's thought.",
+      "key_phrases": ["Christ loved the church and gave himself up for her", "that he might sanctify her", "having cleansed her by the washing of water with the word", "that she might be holy and without blemish"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:28-30",
+      "section_title": "The Husband's Love as Self-Care",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section extends the husband-wife instruction by arguing that loving one's wife is loving oneself, since Christ nourishes and cherishes the church because the community are members of his body."
+    },
+    {
+      "reference": "5:31-33",
+      "section_title": "The Mystery -- Genesis 2:24 and Christ and the Church",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section quotes Genesis 2:24 on the one-flesh union, declares it a profound mystery referring to Christ and the church, and concludes with a summary instruction for husbands to love and wives to respect, connecting the marital union to the letter's central theme of unification."
+    }
+  ]
+}

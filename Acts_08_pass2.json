@@ -1,0 +1,82 @@
+{
+  "book": "Acts",
+  "chapter": 8,
+  "sections": [
+    {
+      "reference": "8:1a",
+      "section_title": "Saul's Consent to Stephen's Death",
+      "category": "NOT_APPLICABLE",
+      "summary": "Saul is in hearty agreement with Stephen's execution, linking the end of the Stephen narrative to the beginning of the persecution that follows."
+    },
+    {
+      "reference": "8:1b-3",
+      "section_title": "The Great Persecution and the Scattering",
+      "category": "NOT_APPLICABLE",
+      "summary": "A great persecution begins against the Jerusalem church; all except the apostles are scattered throughout Judea and Samaria; devout men bury Stephen with loud lamentation; Saul begins ravaging the church, dragging off men and women to prison."
+    },
+    {
+      "reference": "8:4",
+      "section_title": "The Scattered Ones Preach the Word",
+      "category": "NOT_APPLICABLE",
+      "summary": "Those who have been scattered go about preaching the word, transforming persecution into mission expansion."
+    },
+    {
+      "reference": "8:5-8",
+      "section_title": "Philip in Samaria",
+      "category": "NOT_APPLICABLE",
+      "summary": "Philip goes down to the city of Samaria and proclaims the Christ; the crowds pay attention with one accord, unclean spirits come out, the paralyzed and lame are healed, and there is much rejoicing in that city."
+    },
+    {
+      "reference": "8:9-13",
+      "section_title": "Simon the Magician",
+      "category": "NOT_APPLICABLE",
+      "summary": "Simon, who had previously practiced magic and amazed the people of Samaria claiming to be someone great, sees Philip's signs and message; Simon himself believes and is baptized, and continues on with Philip, constantly amazed at the signs and great miracles being performed."
+    },
+    {
+      "reference": "8:14-17",
+      "section_title": "The Apostles Send Peter and John",
+      "category": "NOT_APPLICABLE",
+      "summary": "The apostles in Jerusalem send Peter and John to Samaria; they pray for the new believers to receive the Holy Spirit, since the Spirit had not yet fallen on any of them -- they had only been baptized in the name of the Lord Jesus; then Peter and John lay hands on them and they receive the Holy Spirit."
+    },
+    {
+      "reference": "8:18-24",
+      "section_title": "Simon's Attempt to Purchase the Spirit's Power",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_by_both",
+      "summary": "Simon sees that the Spirit is given through the laying on of the apostles' hands and offers them money, asking for the same authority; Peter responds with a devastating rebuke: Simon's silver should perish with him for thinking God's gift could be purchased; he has no part or share in this matter because his heart is not right before God; he is in the gall of bitterness and bondage of unrighteousness; he must repent and pray to the Lord if possible for forgiveness.",
+      "relevance": "This passage is critical to the permanence-versus-conditionality question. Simon is explicitly described as having 'believed' and 'been baptized' (8:13) -- the same verbs used for genuine converts throughout Acts. Yet Peter tells him he has 'no part or share in this matter' (8:21), his 'heart is not right before God' (8:21), he is in the 'gall of bitterness and bondage of unrighteousness' (8:23), and his forgiveness is conditional: 'if possible (ei ara), the intention of your heart will be forgiven you' (8:22). The neutral reading explicitly states: 'Luke does not say Simon's belief was fake -- he uses the same vocabulary he uses everywhere else for genuine response to the gospel. The problem is not that Simon never believed but that his heart is not right before God.' The neutral reading further draws the principle: 'believing and being baptized is the beginning of the journey, not its automatic completion.' Whether Simon represents failed initial belief or genuine belief that went wrong, the passage establishes that belief-plus-baptism does not automatically guarantee a right standing before God, and that forgiveness after failure within the community is conditional rather than guaranteed.",
+      "key_phrases": ["May your silver perish with you", "you have no part or share in this matter", "your heart is not right before God", "you are in the gall of bitterness and bondage of unrighteousness", "if possible, the intention of your heart will be forgiven you"],
+      "confidence": "high"
+    },
+    {
+      "reference": "8:25",
+      "section_title": "Return to Jerusalem",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter and John return to Jerusalem, preaching the gospel to many villages of the Samaritans along the way."
+    },
+    {
+      "reference": "8:26-29",
+      "section_title": "Philip Directed to the Desert Road",
+      "category": "NOT_APPLICABLE",
+      "summary": "An angel of the Lord directs Philip to go south on the desert road from Jerusalem to Gaza; there he encounters an Ethiopian eunuch, a court official of the Candace, who has come to Jerusalem to worship and is reading from Isaiah; the Spirit tells Philip to go up and join the chariot."
+    },
+    {
+      "reference": "8:30-35",
+      "section_title": "Philip Interprets Isaiah for the Ethiopian",
+      "category": "NOT_APPLICABLE",
+      "summary": "Philip hears the eunuch reading Isaiah 53 and asks if he understands it; the eunuch invites Philip to guide him; Philip begins from that Scripture and proclaims Jesus to him."
+    },
+    {
+      "reference": "8:36-39",
+      "section_title": "The Ethiopian Eunuch's Baptism",
+      "category": "NOT_APPLICABLE",
+      "summary": "The eunuch sees water and asks what prevents him from being baptized; they go down into the water and Philip baptizes him; the Spirit of the Lord snatches Philip away, and the eunuch goes on his way rejoicing."
+    },
+    {
+      "reference": "8:40",
+      "section_title": "Philip's Continuing Mission",
+      "category": "NOT_APPLICABLE",
+      "summary": "Philip is found at Azotus and keeps preaching the gospel to all the cities until he comes to Caesarea."
+    }
+  ]
+}

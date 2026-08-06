@@ -1,0 +1,72 @@
+{
+  "book": "Mark",
+  "chapter": 9,
+  "sections": [
+    {
+      "reference": "9:1",
+      "section_title": "The Promise of the Kingdom Seen Before Death",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus promises that some standing with him will see the kingdom of God come with power before they die, functioning as a transition from the eschatological warnings of chapter 8 to the transfiguration that follows."
+    },
+    {
+      "reference": "9:2-8",
+      "section_title": "The Unveiling on the Mountain (Transfiguration)",
+      "category": "NOT_APPLICABLE",
+      "summary": "Three disciples witness Jesus transfigured in glory alongside Moses and Elijah, with a divine voice confirming his identity as the beloved Son and commanding them to listen to him."
+    },
+    {
+      "reference": "9:9-13",
+      "section_title": "The Descent and the Question About Elijah",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus commands silence about the transfiguration until the resurrection, explains that Elijah has already come in John the Baptist, and draws a parallel between the forerunner's suffering and the Son of Man's coming suffering."
+    },
+    {
+      "reference": "9:14-29",
+      "section_title": "The Failure at the Foot of the Mountain and the Father's Cry",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The disciples fail to cast out an unclean spirit because they lacked prayer, a father confesses mixed faith and unbelief, and Jesus diagnoses the community as a faithless generation while demonstrating that power flows from sustained dependence on God.",
+      "relevance": "The passage presents faith not as a binary, one-time state but as a condition that exists in degrees, can be mixed with doubt, and requires ongoing dependence on God through prayer. The disciples' delegated authority failed because they attempted to exercise it without maintaining connection to the one who delegated it. The father's cry -- 'I believe; help my unbelief' -- models faith as requiring continuous divine assistance. If the power to act in God's name depends on sustained relational maintenance through prayer, then standing before God is portrayed as requiring ongoing faithfulness rather than resting on a past authorization.",
+      "key_phrases": ["O faithless generation", "I believe; help thou mine unbelief", "This kind can come forth by nothing, but by prayer", "all things are possible to him that believeth"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "9:30-32",
+      "section_title": "The Second Passion Prediction and the Disciples' Silence",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus delivers the second passion prediction -- the Son of Man will be handed over, killed, and rise after three days -- and the disciples do not understand but are afraid to ask."
+    },
+    {
+      "reference": "9:33-37",
+      "section_title": "The Dispute About Status and the Child in the Arms",
+      "category": "NOT_APPLICABLE",
+      "summary": "The disciples argue about who is greatest, and Jesus responds by redefining greatness as being last and servant of all, placing a child in their midst to illustrate that receiving the lowliest in his name is equivalent to receiving God."
+    },
+    {
+      "reference": "9:38-41",
+      "section_title": "The Outside Exorcist and the Boundaries of the Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "The disciples try to stop an outsider casting out demons in Jesus's name because he does not belong to their group, and Jesus reverses their exclusivism by establishing that anyone not against them is for them, and even a cup of water given in his name will not lose its reward."
+    },
+    {
+      "reference": "9:42-48",
+      "section_title": "Warnings About Causing the Vulnerable to Fall",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus warns that causing a 'little one who believes in me' to stumble merits punishment worse than drowning, and instructs disciples to amputate whatever causes them to stumble, because the alternative to entering life or the kingdom of God is being cast into Gehenna where the fire is unquenchable.",
+      "relevance": "This passage directly addresses the standing of believers before God and presents it as conditional on ongoing conduct. The 'little ones who believe in me' are explicitly identified as believers, and the passage warns that they can be caused to stumble (skandalizo -- the same word used for falling away in the sower parable at 4:17). The threefold warning about hand, foot, and eye presents the disciple's destiny as a live choice between two outcomes: entering life/the kingdom of God or being cast into Gehenna. The choice depends on the disciple's ongoing willingness to cut away whatever causes stumbling. This is not addressed to unbelievers being warned about initial entry but to those already within the believing community. The passage assumes that believers face genuine danger of Gehenna and must exercise radical self-discipline to avoid it. There is no suggestion that belief itself provides immunity from this danger.",
+      "key_phrases": ["whosoever shall offend one of these little ones that believe in me", "it is better for thee to enter into life maimed, than having two hands to go into hell", "it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire", "where their worm dieth not, and the fire is not quenched"],
+      "confidence": "high"
+    },
+    {
+      "reference": "9:49-50",
+      "section_title": "Salt, Fire, and Peace",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus teaches that every follower will be salted with fire, that salt which loses its saltness cannot be restored, and commands disciples to have salt in themselves and peace with one another.",
+      "relevance": "The salt metaphor warns that the distinctive quality Jesus requires in his followers -- faith, service, willingness to suffer, rejection of status-seeking -- can be irreversibly lost. The question 'wherewith will ye season it?' expects the answer 'nothing': unsalted salt cannot be re-salted. This implies that the disciple's standing is not automatically maintained. The quality that makes a disciple fit for purpose can be lost, and once lost, there is no mechanism for its restoration. The irreversibility of the loss is the most striking feature: the passage does not describe a temporary lapse but a permanent disqualification.",
+      "key_phrases": ["if the salt have lost his saltness, wherewith will ye season it?", "Have salt in yourselves"],
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "book": "Romans",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-4",
+      "section_title": "The Sender, the Gospel, and the Son",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul identifies himself as an apostle set apart for the gospel concerning God's Son, descended from David according to the flesh and designated Son of God in power by the resurrection."
+    },
+    {
+      "reference": "1:5-7",
+      "section_title": "The Apostolic Commission and the Recipients",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes his commission to bring about the obedience of faith among the Gentiles, and addresses the Roman believers as called saints beloved of God."
+    },
+    {
+      "reference": "1:8-15",
+      "section_title": "Paul's Relationship to the Roman Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul expresses thanksgiving for the Romans' faith, his desire to visit them for mutual encouragement, and his eagerness to preach the gospel in Rome."
+    },
+    {
+      "reference": "1:16-17",
+      "section_title": "The Thesis of the Letter",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul declares the gospel to be God's power for salvation to everyone who believes (pisteuonti, present participle), revealing God's righteousness from faith to faith.",
+      "relevance": "The present participle pisteuonti ('the one who is believing') describes the recipient of salvation as one engaged in ongoing trust, not a one-time past act. The neutral reading explicitly notes that the participle 'describes an ongoing stance, not a one-time act.' This has implications for whether salvation remains operative for someone who ceases to trust.",
+      "key_phrases": ["panti to pisteuonti", "the one who is believing", "from faith to faith"],
+      "confidence": "low"
+    },
+    {
+      "reference": "1:18-23",
+      "section_title": "The Revelation of Wrath and the Human Exchange",
+      "category": "NOT_APPLICABLE",
+      "summary": "God's wrath is revealed against humanity for suppressing truth, refusing to honor God, and exchanging God's glory for images of created things."
+    },
+    {
+      "reference": "1:24-25",
+      "section_title": "The First Giving Over",
+      "category": "NOT_APPLICABLE",
+      "summary": "God gave humanity over to the lusts of their hearts and to impurity, because they exchanged the truth of God for the lie and worshiped the creature rather than the Creator."
+    },
+    {
+      "reference": "1:26-27",
+      "section_title": "The Second Giving Over",
+      "category": "NOT_APPLICABLE",
+      "summary": "God gave humanity over to degrading passions as a consequence of the exchange described in the preceding verses, with the sexual reversal mirroring the theological exchange of idolatry."
+    },
+    {
+      "reference": "1:28-31",
+      "section_title": "The Third Giving Over",
+      "category": "NOT_APPLICABLE",
+      "summary": "God gave humanity over to a depraved mind, resulting in a comprehensive catalogue of social and moral vices that trace the complete disintegration produced by the refusal to acknowledge God."
+    },
+    {
+      "reference": "1:32",
+      "section_title": "The Culminating Indictment",
+      "category": "NOT_APPLICABLE",
+      "summary": "Those who know God's righteous decree that such practices deserve death not only do them but give hearty approval to those who practice them, representing the deepest level of moral inversion."
+    }
+  ]
+}

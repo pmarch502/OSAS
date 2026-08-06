@@ -1,0 +1,34 @@
+{
+  "book": "Galatians",
+  "chapter": 6,
+  "sections": [
+    {
+      "reference": "6:1-5",
+      "section_title": "Communal Responsibility and Self-Knowledge",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul instructs the community to restore a transgressor in gentleness while watching themselves against temptation, commands mutual burden-bearing as the fulfillment of the law of Christ, warns against self-deception and self-importance, calls each person to examine their own work, and reminds them that each will bear their own proper load."
+    },
+    {
+      "reference": "6:6",
+      "section_title": "Sharing with Those Who Teach",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul instructs those being taught the word to share all good things with the one who teaches."
+    },
+    {
+      "reference": "6:7-10",
+      "section_title": "Sowing and Reaping -- The Flesh-Spirit Contrast Applied",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul warns against self-deception, declares that God is not mocked and that whatever one sows one will reap, specifies that sowing to the flesh reaps corruption while sowing to the Spirit reaps eternal life, exhorts perseverance in doing good with the promise of a harvest if they do not give up, and calls for doing good to all, especially the household of faith.",
+      "relevance": "The passage directly ties eschatological outcomes to ongoing conduct: those who sow to the flesh reap corruption (phthora -- decay, destruction), while those who sow to the Spirit reap eternal life (zoe aionios). This is addressed to believers and functions as part of Paul's own sustained argument about the flesh-Spirit contrast that governs chapters 5-6. The conditional 'if we do not give up' (6:9) implies that giving up is a real possibility and would forfeit the harvest. The neutral reading notes that 'the choice between flesh and Spirit is not merely a present-tense lifestyle decision but a choice with ultimate consequences -- corruption or eternal life.' The passage treats the eschatological outcome as genuinely contingent on what the believer sows throughout the course of life, not as automatically guaranteed by an initial act of faith.",
+      "key_phrases": ["God is not mocked, for whatever one sows, that will he also reap", "the one who sows to his own flesh will from the flesh reap corruption", "the one who sows to the Spirit will from the Spirit reap eternal life", "in due season we will reap, if we do not give up"],
+      "confidence": "high"
+    },
+    {
+      "reference": "6:11-18",
+      "section_title": "Paul's Handwritten Conclusion -- The Cross Against Circumcision",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul writes in his own hand to expose the agitators' motives of vanity and fear of persecution, declares his sole boast in the cross by which the world has been crucified to him and he to the world, asserts that only new creation matters rather than circumcision or uncircumcision, pronounces peace and mercy on those who walk by this rule as the Israel of God, points to his own scars as the marks of Jesus, and closes with a benediction of grace."
+    }
+  ]
+}

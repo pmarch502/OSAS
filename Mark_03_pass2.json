@@ -1,0 +1,48 @@
+{
+  "book": "Mark",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-6",
+      "section_title": "The Sabbath Controversy Completed",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus heals a man's withered hand on the Sabbath, grieving at the Pharisees' hardness of heart, and the Pharisees respond by conspiring with the Herodians to kill him."
+    },
+    {
+      "reference": "3:7-12",
+      "section_title": "Withdrawal, Crowds, and Unclean Spirits",
+      "category": "NOT_APPLICABLE",
+      "summary": "Crowds from every direction gather to Jesus for healing while unclean spirits repeatedly recognize and declare him as the Son of God, and Jesus silences them."
+    },
+    {
+      "reference": "3:13-19",
+      "section_title": "The Appointment of the Twelve on the Mountain",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus sovereignly appoints twelve on a mountain to be with him and to share in his mission, including Judas Iscariot whom the author immediately identifies as the one who betrayed him.",
+      "relevance": "The neutral reading notes that Judas was called, appointed, and given the same mission and authority as the other eleven, yet betrayed Jesus. The reading explicitly states: 'Being chosen and appointed by Jesus is not a guarantee against betrayal. The community Jesus constitutes includes the possibility of failure from within.' This complicates any framework in which divine calling or appointment guarantees final faithfulness. The appointment is by Jesus's sovereign will alone, yet the outcome includes betrayal.",
+      "key_phrases": ["He appointed twelve", "those whom He Himself wanted", "Judas Iscariot, who also betrayed Him"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:20-30",
+      "section_title": "The Accusation and Jesus's Response",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_by_both",
+      "summary": "The Jerusalem scribes attribute Jesus's Spirit-empowered works to Beelzebul; Jesus refutes their logic with the divided-kingdom argument, presents himself as the one who binds the strong man, and warns that blasphemy against the Holy Spirit constitutes an eternal sin with no forgiveness.",
+      "relevance": "The passage establishes that forgiveness, though extraordinarily broad ('all sins will be forgiven the sons and daughters of men, and whatever blasphemies they commit'), has a definitive limit: blasphemy against the Holy Spirit 'never has forgiveness' and constitutes 'an eternal sin.' The neutral reading identifies the mechanism: 'the person who commits it has positioned themselves beyond the reach of forgiveness' because they have 'disabled the very capacity that makes repentance possible.' This bears on the permanence question by demonstrating that a state exists from which forgiveness is permanently unavailable -- there is a point of no return. While the immediate subjects are non-believing scribes, the principle that forgiveness has a boundary challenges any framework of absolutely unconditional permanent security.",
+      "key_phrases": ["all sins will be forgiven the sons and daughters of men", "whoever blasphemes against the Holy Spirit never has forgiveness", "guilty of an eternal sin", "because they were saying, 'He has an unclean spirit'"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:31-35",
+      "section_title": "The Redefinition of Family",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "When his biological family stands outside seeking him, Jesus redefines family as 'whoever does the will of God,' identifying those sitting around him as his true mother, brothers, and sisters.",
+      "relevance": "The criterion for belonging to Jesus's family is defined by ongoing action -- 'whoever does the will of God' -- not by a one-time event or by biological relationship. The neutral reading observes that the insider/outsider division 'is not arbitrary or predestined by God's unilateral decree; it is the result of the responses documented in chapter 3.' Belonging depends on present obedience, implying that membership in Jesus's community is conditioned on continued faithfulness rather than permanently fixed by an initial act of reception.",
+      "key_phrases": ["whoever does the will of God", "this is My brother, and sister, and mother", "standing outside", "sitting around Him"],
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "book": "John",
+  "chapter": 9,
+  "sections": [
+    {
+      "reference": "9:1-5",
+      "section_title": "The Disciples' Question and the Works of God",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus encounters a man born blind; the disciples ask whether his blindness is due to his own sin or his parents'; Jesus rejects both explanations and says the man's condition exists so that the works of God might be displayed in him, and that Jesus must work the works of the one who sent him while it is day."
+    },
+    {
+      "reference": "9:6-7",
+      "section_title": "The Healing",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus makes mud with saliva, anoints the man's eyes, and sends him to wash in the Pool of Siloam (which the author translates as 'Sent'); the man washes and comes back seeing."
+    },
+    {
+      "reference": "9:8-12",
+      "section_title": "The Neighbors' Inquiry",
+      "category": "NOT_APPLICABLE",
+      "summary": "The man's neighbors debate whether he is the same person who used to sit and beg; he insists on his identity and describes what happened; they bring him to the Pharisees."
+    },
+    {
+      "reference": "9:13-17",
+      "section_title": "The Pharisees' First Investigation",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Pharisees investigate the healing, which occurred on the Sabbath; they are divided — some say Jesus cannot be from God because he does not keep the Sabbath, others ask how a sinner could perform such signs; the healed man declares Jesus is a prophet."
+    },
+    {
+      "reference": "9:18-23",
+      "section_title": "The Parents' Interrogation",
+      "category": "NOT_APPLICABLE",
+      "summary": "The authorities summon the man's parents, who confirm he is their son and was born blind but refuse to explain how he now sees, fearing expulsion from the synagogue (aposynagogos) — the first use of this term in the document, reflecting the post-70 CE tension between the Johannine community and the synagogue."
+    },
+    {
+      "reference": "9:24-34",
+      "section_title": "The Second Interrogation and Expulsion",
+      "category": "NOT_APPLICABLE",
+      "summary": "The authorities demand the man give glory to God and deny Jesus; the man responds with increasingly bold testimony — 'whether he is a sinner I do not know; one thing I do know, that though I was blind, now I see'; his ironic theological argument (God does not hear sinners but hears the devout who do his will) provokes the authorities to cast him out of the synagogue."
+    },
+    {
+      "reference": "9:35-38",
+      "section_title": "Jesus Finds the Man",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus seeks out the expelled man and asks whether he believes in the Son of Man; the man asks who he is, Jesus reveals himself, and the man responds 'Lord, I believe' and worships — completing a progressive confession from 'the man called Jesus' to 'a prophet' to 'Lord' with worship."
+    },
+    {
+      "reference": "9:39-41",
+      "section_title": "Judgment, Sight, and Blindness",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares that he came into the world for judgment — that those who do not see might see, and those who see might become blind; the Pharisees ask whether they too are blind, and Jesus responds that if they were blind they would have no sin, but because they say 'we see,' their sin remains."
+    }
+  ]
+}

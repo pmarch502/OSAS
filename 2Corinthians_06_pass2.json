@@ -1,0 +1,48 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 6,
+  "sections": [
+    {
+      "reference": "6:1-2",
+      "section_title": "The Appeal Not to Receive Grace in Vain and the Prophetic Now",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul appeals to the Corinthians as God's co-worker not to receive the grace of God in vain (eis kenon), grounding the urgency in Isaiah 49:8 to declare that now is the favorable time and the day of salvation.",
+      "relevance": "The warning that grace can be received 'in vain' (eis kenon -- into emptiness, producing nothing) directly addresses whether the believer's standing, once established through grace, remains operative regardless of subsequent response. The neutral reading is unambiguous: 'The implication is that it is possible to receive the grace of God and have it come to nothing' and 'The warning assumes that it is genuinely possible for grace, once received, to be rendered empty -- to come to nothing. The exhortation would be meaningless if this were impossible.' The reading connects this to 1 Corinthians 15:2 (believing 'in vain' unless one holds fast) and to the judgment-seat accountability of 5:10. Grace that is 'not in vain' produces labor and faithfulness (1 Corinthians 15:10); grace received 'in vain' leaves the recipient unchanged and comes to nothing. This warning is part of Paul's own sustained argument about the ministry of reconciliation, issued from his role as God's ambassador, not an aside or illustration.",
+      "key_phrases": ["not to receive the grace of God in vain", "behold, now is the favorable time; behold, now is the day of salvation"],
+      "confidence": "high"
+    },
+    {
+      "reference": "6:3-10",
+      "section_title": "Blameless Ministry -- Sufferings, Virtues, and Paradoxes",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul commends his ministry through a three-part catalogue: sufferings endured (afflictions, beatings, imprisonments, riots, labors, sleepless nights, hunger), virtues and powers displayed (purity, knowledge, patience, kindness, the Holy Spirit, genuine love, truthful speech, the power of God, weapons of righteousness), and paradoxes embodied (as dying yet living, as poor yet enriching many, as having nothing yet possessing everything)."
+    },
+    {
+      "reference": "6:11-13",
+      "section_title": "The Direct Emotional Appeal",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul makes a direct emotional appeal to the Corinthians by name, declaring his heart wide open to them, identifying the restriction as being in their own affections rather than in his, and asking them as his children to reciprocate by widening their hearts."
+    },
+    {
+      "reference": "6:14-16a",
+      "section_title": "The Warning Against Incompatible Yoking",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul prohibits being unequally yoked with unbelievers, supporting the prohibition with five rhetorical questions demonstrating the irreconcilable opposition between righteousness and lawlessness, light and darkness, Christ and Belial, believer and unbeliever, the temple of God and idols.",
+      "relevance": "The five antithetical pairs present covenant loyalty as an absolute either/or with no middle ground: one belongs to the realm of Christ or to the realm of Belial, and 'membership in one is incompatible with membership in the other.' This implies that believers who align themselves with the opposing realm through incompatible partnerships compromise their covenant position. The passage frames the believing life as requiring ongoing covenant fidelity -- one cannot maintain standing with God while being yoked to what is fundamentally opposed to God. The prohibition carries the force of a command whose violation would jeopardize the relationship with God.",
+      "key_phrases": ["do not be unequally yoked with unbelievers", "what partnership has righteousness with lawlessness", "what fellowship has light with darkness", "what accord has Christ with Belial", "what agreement has the temple of God with idols"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:16b-18",
+      "section_title": "The Catena of Covenant Promises and Commands",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul identifies the community as the temple of the living God and supports this with a composite quotation weaving together Leviticus 26:11-12, Ezekiel 37:27, Isaiah 52:11, and 2 Samuel 7:14, declaring that God will dwell among them and be their Father, with sons and daughters, contingent upon their separation from uncleanness.",
+      "relevance": "The neutral reading notes that the original context of 'I will walk among you and be your God' (Leviticus 26:11-12) is 'explicitly conditional: If you walk in my statutes and observe my commandments and do them,' with the blessings of divine presence tied to covenant faithfulness. Paul's catena pairs the promises of divine presence and filial relationship with commands to 'go out,' 'be separate,' and 'touch no unclean thing' -- the welcome of God follows the separation. The reading observes: 'the promise of divine presence is real, but it is accompanied by the demand for holiness' and 'the promises and the commands are a single package.' The covenant structure -- promises inseparable from obligations -- implies that the relationship can be jeopardized by failure to maintain covenant faithfulness. The precedent of Ezekiel 8-11, where God's glory departed the temple because of abominations committed within it, stands as a warning for the community that is now itself God's temple.",
+      "key_phrases": ["I will make my dwelling among them and walk among them", "therefore go out from their midst, and be separate from them", "touch no unclean thing; then I will welcome you", "I will be a father to you, and you shall be sons and daughters to me, says the Lord Almighty"],
+      "confidence": "medium"
+    }
+  ]
+}

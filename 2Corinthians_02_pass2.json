@@ -1,0 +1,40 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1-4",
+      "section_title": "The Decision to Write Instead of Visit",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul explains his decision to write a severe letter rather than make another painful visit, revealing the emotional anguish behind the letter and affirming that it was motivated by overflowing love rather than punitive intent."
+    },
+    {
+      "reference": "2:5-8",
+      "section_title": "The Case of the Offender -- From Punishment to Forgiveness",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul addresses the specific person who caused the crisis, declares the community's punishment sufficient, and urges them to forgive, comfort, and officially reaffirm their love for the repentant offender lest he be overwhelmed and swallowed up by excessive sorrow."
+    },
+    {
+      "reference": "2:9-11",
+      "section_title": "The Test, the Forgiveness, and Satan's Designs",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reveals the severe letter was a test of the Corinthians' obedience in everything, aligns his forgiveness with theirs as enacted 'in the face of Christ,' and warns that refusal to forgive the repentant offender would allow Satan to exploit the situation, turning righteous discipline into destructive cruelty."
+    },
+    {
+      "reference": "2:12-13",
+      "section_title": "The Interrupted Journey -- Troas and the Search for Titus",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul recounts his anxious journey from Troas to Macedonia, where despite a divinely opened door for the gospel he could not minister because his spirit found no rest without news from Titus about the Corinthians' response."
+    },
+    {
+      "reference": "2:14-17",
+      "section_title": "The Triumphal Procession and the Fragrance of Christ",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul breaks into thanksgiving, describing God leading him in triumphal procession while spreading through him the fragrance of the knowledge of God -- a fragrance functioning as the aroma of Christ to God, producing life in those being saved and death in those perishing.",
+      "relevance": "The present-tense participles 'those who are being saved' (sozomenois) and 'those who are perishing' (apollymenois) describe salvation and destruction as ongoing processes rather than fixed, sealed verdicts. The neutral reading explicitly states these are 'not fixed categories assigned in advance but descriptions of two trajectories that people are currently on' and that 'the present tense of both participles indicates that these are processes underway, not verdicts already sealed.' This frames salvation as an ongoing trajectory rather than an irrevocable past event, bearing on the question of whether standing before God is a process requiring continuation or a status permanently secured.",
+      "key_phrases": ["among those who are being saved and among those who are perishing", "to one a fragrance from death to death, to the other a fragrance from life to life"],
+      "confidence": "medium"
+    }
+  ]
+}

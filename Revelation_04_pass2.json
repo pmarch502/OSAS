@@ -1,0 +1,68 @@
+{
+  "book": "Revelation",
+  "chapter": 4,
+  "sections": [
+    {
+      "reference": "4:1",
+      "section_title": "The Transition from Earth to Heaven",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds that this verse functions as a transition marker, with John summoned to heaven by the trumpet-voice to see 'what must take place,' linking the commissioning of 1:1 and 1:19 to the heavenly vision through Sinai-theophany language."
+    },
+    {
+      "reference": "4:2",
+      "section_title": "The Throne and the One Seated",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes the central throne as the permanent fixture of the heavenly reality, with the one seated described only by position rather than by name, following the biblical tradition of restraint in directly describing God's person."
+    },
+    {
+      "reference": "4:3",
+      "section_title": "The Appearance of the One Seated",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies the one on the throne as described in terms of precious stones (jasper and sardius, corresponding to the first and last stones of the high priest's breastplate) and surrounded by a rainbow evoking the Noahic covenant of Genesis 9:12-17 and the glory-radiance of Ezekiel 1:28."
+    },
+    {
+      "reference": "4:4",
+      "section_title": "The Twenty-Four Elders",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds that the twenty-four elders, clothed in white garments and wearing golden crowns, represent the complete priestly service of God's people and are already wearing what the assemblies are promised they will receive if they conquer.",
+      "relevance": "The neutral reading explicitly states that the elders' white garments correspond to the promise to conquerors in Sardis (3:5) and their crowns to the crown of life (2:10) and the crown Philadelphia must hold fast (3:11). The framing 'if they conquer' connects these heavenly rewards to the conditional demands of the seven messages. The heavenly reality confirms the rewards are real, but their attainment is tied to ongoing faithfulness and conquest -- the assemblies must earn what the elders already possess.",
+      "key_phrases": ["clothed in white garments", "golden crowns on their heads"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "4:5",
+      "section_title": "Lightning, Thunder, and the Seven Spirits",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies the lightning, sounds, and thunder as continuous emanations from the throne drawn from the Sinai theophany (Exodus 19:16), and the seven lamps of fire as the seven spirits of God corresponding to the menorah and to Zechariah's seven-eyed lampstand (Zechariah 4:10)."
+    },
+    {
+      "reference": "4:6a",
+      "section_title": "The Sea of Glass",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies the sea of glass before the throne as converging three OT images -- the pavement under God's feet at Sinai (Exodus 24:10), the crystal-like expanse in Ezekiel 1:22, and the bronze sea of Solomon's temple (1 Kings 7:23-26) -- serving as the heavenly counterpart of the temple laver."
+    },
+    {
+      "reference": "4:6b-8a",
+      "section_title": "The Four Living Creatures",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds the four living creatures are a composite of Ezekiel's cherubim (four faces distributed one per creature) and Isaiah's seraphim (six wings), full of eyes around and within, representing the fullness of created life in its highest expressions gathered around the throne to worship the Creator."
+    },
+    {
+      "reference": "4:8b",
+      "section_title": "The Trisagion",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies the creatures' ceaseless declaration as combining Isaiah's threefold 'holy' (Isaiah 6:3) with the temporal divine-name formula ('who was and who is and who is to come'), declaring God's absolute holiness, sovereign power (pantokrator), and active presence across all time."
+    },
+    {
+      "reference": "4:9-11",
+      "section_title": "The Worship Cycle -- The Elders' Response",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading describes a continuous worship cycle in which the elders prostrate themselves before the throne, cast their crowns, and declare God worthy as Creator of all things, with the crown-casting acknowledged as demonstrating that all authority and honor derive from and are returned to the one on the throne.",
+      "relevance": "The neutral reading connects the crown-casting to the conditional framework of the seven messages: 'The assemblies strive to conquer, and the conquerors receive crowns, and the crowned ones throw their crowns at the feet of the sovereign. The trajectory of faithfulness leads not to autonomous authority but to worship.' The implication is that crowns are attained through faithful conquest and then offered back -- reinforcing a reward structure that presupposes ongoing faithfulness rather than irrevocable possession. The crown Philadelphia must 'hold fast' (3:11) can be lost; the elders in the completed heavenly reality have successfully held theirs.",
+      "key_phrases": ["cast their crowns before the throne", "Worthy are You, our Lord and our God", "You created all things"],
+      "confidence": "low"
+    }
+  ]
+}

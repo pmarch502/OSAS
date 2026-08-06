@@ -1,0 +1,34 @@
+{
+  "book": "Titus",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1",
+      "section_title": "The Pivot -- From False Teaching to Sound Doctrine",
+      "category": "NOT_APPLICABLE",
+      "summary": "Titus is instructed to teach what accords with sound doctrine, in sharp contrast to the false teachers described in the preceding section."
+    },
+    {
+      "reference": "2:2-10",
+      "section_title": "Behavioral Instructions by Social Category",
+      "category": "NOT_APPLICABLE",
+      "summary": "Specific behavioral instructions are given for older men, older women, younger women, younger men, Titus himself as a model, and slaves, all oriented toward visible conduct that commends the gospel, with self-control as the dominant quality across every category."
+    },
+    {
+      "reference": "2:11-14",
+      "section_title": "The Theological Ground -- The Grace of God Has Appeared",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The grace of God has appeared bringing salvation for all people, actively training believers to renounce ungodliness and live godly lives in the present age, while they await Christ's appearing; Christ gave himself to redeem them from all lawlessness and purify for himself a people for his own possession zealous for good works.",
+      "relevance": "The passage describes salvation as initiated and sustained entirely by God's action: grace appeared, grace actively trains, Christ gave himself to redeem and purify. The neutral reading emphasizes that the community's behavioral transformation is 'not a human achievement but the product of divine grace operating through Christ's redemptive self-giving.' The redemption is described as comprehensive ('from all lawlessness') and purposive (creating 'a people for his own possession'). This emphasis on divine initiative in both establishing and maintaining the community's transformed life favors permanence. However, the ongoing training metaphor (grace as paideuousa, present participle indicating continuous action) implies a continuing process that believers participate in, and the 'laos periousios' language echoes the Exodus covenant (Exodus 19:5), which in Israel's history was conditional on obedience. The passage does not directly address whether the standing created by grace can subsequently be forfeited.",
+      "key_phrases": ["the grace of God has appeared", "training us to renounce ungodliness", "gave himself for us to redeem us from all lawlessness", "purify for himself a people for his own possession who are zealous for good works"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:15",
+      "section_title": "The Charge to Titus",
+      "category": "NOT_APPLICABLE",
+      "summary": "Titus is charged to declare, exhort, and rebuke with full apostolic authority, and to allow no one to disregard him."
+    }
+  ]
+}

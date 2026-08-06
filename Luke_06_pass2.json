@@ -1,0 +1,86 @@
+{
+  "book": "Luke",
+  "chapter": 6,
+  "sections": [
+    {
+      "reference": "6:1-5",
+      "section_title": "Authority Over the Sabbath -- The Grain Incident",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus defends his disciples' Sabbath grain-plucking by citing David's precedent with the consecrated bread and declares that the Son of Man is Lord of the Sabbath, claiming authority over something that belongs to God's own ordering of time."
+    },
+    {
+      "reference": "6:6-11",
+      "section_title": "Authority Over the Sabbath -- The Withered Hand",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus heals a man with a withered hand on the Sabbath under hostile surveillance, reframing the issue as a choice between doing good and doing harm, and the scribes and Pharisees respond with rage and begin plotting against him."
+    },
+    {
+      "reference": "6:12-16",
+      "section_title": "The Selection of the Twelve",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "After all-night prayer, Jesus selects twelve from his disciples and names them apostles, forming the nucleus of a renewed Israel, with the list including Judas Iscariot, whom the author identifies as one who 'became a traitor.'",
+      "relevance": "The author's note that Judas 'became' (egeneto) a traitor indicates that betrayal was not his identity from the start but something he became -- a transformation away from his chosen role. One of the twelve, personally selected by Jesus after prayer, fell away from the community he was chosen to be part of. This bears on the question of whether those chosen and commissioned by Jesus can subsequently abandon that standing.",
+      "key_phrases": ["Judas Iscariot, who became a traitor"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:17-19",
+      "section_title": "Descent and Healing",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus descends with the twelve to a level place where a large crowd from Judea, Jerusalem, and the Gentile coastal region of Tyre and Sidon has gathered to hear him and be healed, and power comes from him to heal them all."
+    },
+    {
+      "reference": "6:20-23",
+      "section_title": "The Blessings",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus pronounces four blessings on his disciples: the poor possess the kingdom, the hungry will be satisfied, the weeping will laugh, and those hated and excluded for the Son of Man's sake stand in the lineage of the persecuted prophets with a great reward in heaven."
+    },
+    {
+      "reference": "6:24-26",
+      "section_title": "The Corresponding Warnings",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus pronounces four corresponding woes: the rich have received their comfort in full, the well-fed will hunger, those laughing now will mourn, and those universally praised stand in the lineage of the false prophets, creating a reversal structure that mirrors the Magnificat."
+    },
+    {
+      "reference": "6:27-31",
+      "section_title": "The Command to Love Enemies",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus commands love for enemies, good toward those who hate, blessing toward those who curse, and prayer for those who mistreat, defining the disciple's response not by the enemy's behavior but by a commitment to do good regardless."
+    },
+    {
+      "reference": "6:32-36",
+      "section_title": "The Logic of Gratuitous Generosity",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus argues that reciprocal love and lending carry no credit since even sinners do the same, and calls disciples to love enemies and lend expecting nothing in return, grounding this in God's own character: He is kind to the ungrateful and evil, and disciples are to be merciful as their Father is merciful."
+    },
+    {
+      "reference": "6:37-38",
+      "section_title": "On Judging and Giving",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus instructs his followers not to judge or condemn but to pardon and give, establishing the principle that the measure one uses toward others becomes the measure God uses in return."
+    },
+    {
+      "reference": "6:39-42",
+      "section_title": "The Blind Guide, the Student, and the Plank",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus teaches through three illustrations that the blind cannot lead the blind, that students become like their teachers, and that self-examination must precede any attempt to correct others."
+    },
+    {
+      "reference": "6:43-45",
+      "section_title": "The Character of the Tree",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus establishes the diagnostic principle that trees are known by their fruit and that the heart's stored content is revealed by what it produces in speech and action, connecting backward to John the Baptist's demand for fruit consistent with repentance."
+    },
+    {
+      "reference": "6:46-49",
+      "section_title": "The Two Builders",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus asks why people call him 'Lord, Lord' without doing what he says, then contrasts the person who hears his words and acts on them (whose house survives the flood) with the person who hears without acting (whose house collapses with great ruin).",
+      "relevance": "The passage directly addresses the relationship between verbal acknowledgment of Jesus's lordship and practical obedience. Those who call Jesus 'Lord, Lord' but do not act on his words face catastrophic collapse when testing comes. The implication is that verbal profession or initial acknowledgment is insufficient for enduring standing before God; obedient action is required, and its absence leads to 'great ruin.' The distinction is not between hearing and not hearing but between hearing-and-doing and hearing-without-doing, making ongoing obedience the decisive factor. This parallels Matthew 7:21-23, a recognized proof-text for conditionality.",
+      "key_phrases": ["Why do you call Me Lord Lord and do not do what I say", "he is like a man building a house who dug deep and laid a foundation on the rock", "the one who has heard and has not acted accordingly", "immediately it collapsed and the ruin of that house was great"],
+      "confidence": "high"
+    }
+  ]
+}

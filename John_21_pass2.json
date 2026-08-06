@@ -1,0 +1,56 @@
+{
+  "book": "John",
+  "chapter": 21,
+  "sections": [
+    {
+      "reference": "21:1-3",
+      "section_title": "The Return to the Sea",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the seven disciples' return to fishing at the Sea of Tiberias as the setting for the final revelation, with Peter's initiative and the fruitless night catch establishing the contrast with what the morning will bring."
+    },
+    {
+      "reference": "21:4-8",
+      "section_title": "The Morning Manifestation and the Catch",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the miraculous catch at Jesus's direction as illustrating the principle of 15:5 ('apart from me you can do nothing') -- the fruitless night representing what the disciples can produce on their own, the abundant morning catch representing what happens when they act on the shepherd's word."
+    },
+    {
+      "reference": "21:9-14",
+      "section_title": "The Charcoal Fire and the Meal",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the charcoal fire (anthrakia, the same word as 18:18) and the bread-and-fish meal as deliberate echoes of both Peter's denial and the feeding of the five thousand, with Jesus as the host who provides and serves."
+    },
+    {
+      "reference": "21:15-17",
+      "section_title": "The Threefold Question and the Shepherd's Commission",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Peter's threefold restoration beside a charcoal fire as the structured reversal of his threefold denial beside a charcoal fire, with each affirmation of love answered by a commission to shepherd Jesus's flock.",
+      "relevance": "The neutral reading identifies the correspondence between three denials and three restorations as deliberate: 'three denials require three affirmations. Each time Peter affirms his love, the denial is answered.' The restoration demonstrates that Peter's catastrophic failure did not permanently destroy his standing or his usefulness. Jesus initiates the restoration, addresses Peter by his original name ('Simon, son of John'), and commissions him to shepherd 'my sheep' -- the flock remains Jesus's, and Peter serves as under-shepherd. Peter's appeal to Jesus's omniscience ('Lord, you know all things; you know that I love you') replaces the earlier self-confident boast (13:37). The section favors permanence in that the shepherd does not abandon the one who failed but actively restores and recommissions him. However, it also demonstrates that the restoration required an active, relational process -- it was not automatic or assumed.",
+      "key_phrases": ["Simon, son of John, do you love me?", "Feed my lambs", "Shepherd my sheep", "Feed my sheep", "Lord, you know all things; you know that I love you"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "21:18-19",
+      "section_title": "The Prediction of Peter's Death",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's prediction of Peter's martyrdom as the ultimate fulfillment of Peter's earlier failed boast to lay down his life (13:37), with the command 'Follow me' closing the circle of Peter's discipleship.",
+      "relevance": "The neutral reading notes that Peter's boast 'I will lay down my life for you' (13:37) 'which failed at the charcoal fire of denial, will ultimately be fulfilled -- not in Peter's own strength but in the aged weakness to which Jesus's prophecy points.' The prediction that Peter will 'glorify God' through death uses the same vocabulary as Jesus's own glorification through the cross (12:23, 13:31-32, 17:1). The command 'Follow me' (akolouthei moi) is the original call of discipleship renewed, now with the full knowledge that following leads to the cross. The section favors permanence in that the shepherd's call persists through failure and extends to the ultimate self-giving.",
+      "key_phrases": ["signifying by what kind of death he would glorify God", "Follow me", "you will stretch out your hands"],
+      "confidence": "low"
+    },
+    {
+      "reference": "21:20-23",
+      "section_title": "The Beloved Disciple and the Rumor",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus's response to Peter's question about the beloved disciple as placing the beloved disciple's fate entirely in Jesus's hands, correcting the community's speculation about whether this disciple would die."
+    },
+    {
+      "reference": "21:24-25",
+      "section_title": "The Witness and the Close",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the identification of the beloved disciple as the document's witness and the community's authentication of his testimony, with the final hyperbolic statement about the world's inability to contain all that Jesus did."
+    }
+  ]
+}

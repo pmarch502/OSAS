@@ -1,0 +1,64 @@
+{
+  "book": "Matthew",
+  "chapter": 27,
+  "sections": [
+    {
+      "reference": "27:1-2",
+      "section_title": "The Council's Decision and the Transfer to Pilate",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the morning transfer of Jesus from the Sanhedrin to Pilate the governor, fulfilling the prediction at 20:18-19 that the Son of Man would be delivered first to the chief priests and scribes, then to the Gentiles."
+    },
+    {
+      "reference": "27:3-10",
+      "section_title": "The Death of the Betrayer and the Blood Money",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Judas's trajectory from regret (metamelomai, distinguished from metanoeo/repentance) through his confession of having sinned by betraying 'innocent blood,' the return of the thirty pieces of silver flung into the sanctuary, and his death by hanging -- paralleling Ahithophel, David's trusted counselor who also betrayed and hanged himself (2 Samuel 17:23).",
+      "relevance": "The passage presents the complete arc of an insider's destruction: from selection as one of the twelve, through betrayal, to self-destruction. The neutral reading distinguishes Judas's metamelomai (regret about the outcome) from metanoeo (genuine repentance that turns toward God), noting that 'the regret leads to self-destruction, not restoration.' Judas's confession that the blood is 'innocent' (athoos) functions as testimony to Jesus's guiltlessness from the one most implicated in the betrayal. The Ahithophel parallel underscores the pattern: a trusted intimate of the anointed one who betrays and then destroys himself. The trajectory from the innermost circle to suicide demonstrates that insider status at the highest level does not guarantee preservation.",
+      "key_phrases": ["I have sinned by betraying innocent blood", "he went and hanged himself", "the Field of Blood"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "27:11-14",
+      "section_title": "Jesus Before Pilate: The Question of Kingship",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus's enigmatic response to Pilate's question about kingship ('You have said so') and his silence before accusation, fulfilling Isaiah 53:7, which leaves the governor 'greatly amazed.'"
+    },
+    {
+      "reference": "27:15-26",
+      "section_title": "The Release of Barabbas and the Condemnation of Jesus",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the choice between Barabbas ('son of the father' by name) and Jesus ('Son of the Father' by nature), Pilate's wife's dream warning about 'that righteous man,' the chief priests' persuasion of the crowd, Pilate's hand-washing, and the crowd's assumption of blood guilt -- all connected to the 'this generation' judgment framework of 23:35-36."
+    },
+    {
+      "reference": "27:27-31",
+      "section_title": "The Soldiers' Mockery of the King",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the soldiers' parody of royal investiture -- scarlet robe, thorn crown, reed scepter, mock homage -- identifying the sustained irony that the soldiers unknowingly enact the truth about Jesus's kingship while intending only ridicule."
+    },
+    {
+      "reference": "27:32-44",
+      "section_title": "The Crucifixion",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the crucifixion with its dense scriptural framework: Simon conscripted to carry the cross, the gall of Psalm 69:21, the division of garments from Psalm 22:18, the titulus proclaiming 'This is Jesus, the King of the Jews,' the crucifixion between two lestai (fulfilling Isaiah 53:12), and the mockery from passersby, chief priests, and criminals -- all unwittingly quoting Psalm 22:7-8 and replicating the wilderness temptation structure ('If you are the Son of God')."
+    },
+    {
+      "reference": "27:45-56",
+      "section_title": "The Death of Jesus and Its Attendant Signs",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the three hours of darkness (invoking Amos 8:9 and the Egyptian plague), Jesus's cry of Psalm 22:1 (invoking the entire psalm's arc from abandonment to vindication), the voluntary release of his spirit, the temple curtain torn from top to bottom (divine agency removing the barrier between God's presence and the people), the earthquake, the opening of tombs, and the centurion's confession: 'Truly this was the Son of God.'"
+    },
+    {
+      "reference": "27:57-61",
+      "section_title": "The Burial",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Joseph of Arimathea -- a rich man and disciple -- burying Jesus in his own new rock-hewn tomb (fulfilling Isaiah 53:9), with Mary Magdalene and the other Mary watching the burial, establishing the chain of witness from cross to tomb to resurrection."
+    },
+    {
+      "reference": "27:62-66",
+      "section_title": "The Guard at the Tomb",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the chief priests and Pharisees requesting a Roman guard and sealed stone to secure the tomb against the possibility of the disciples stealing the body, noting that the religious leaders remember Jesus's resurrection prediction more clearly than the disciples do, and that their security measures become evidence for the reality of what they were intended to prevent."
+    }
+  ]
+}

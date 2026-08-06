@@ -1,0 +1,62 @@
+{
+  "book": "Revelation",
+  "chapter": 21,
+  "sections": [
+    {
+      "reference": "21:1-2",
+      "section_title": "The New Heaven, New Earth, and the Descending City",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the vision of the new heaven and new earth with the sea no more, and the holy city new Jerusalem descending from heaven prepared as a bride; the section describes the new creation rather than addressing the believer's standing."
+    },
+    {
+      "reference": "21:3-4",
+      "section_title": "God's Dwelling with His People",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the voice from the throne declaring that God's tabernacle is with humanity, with the covenant formula fulfilled and the elimination of death, mourning, crying, and pain; the section describes the final state of the new creation rather than addressing the conditionality or permanence of the believer's standing."
+    },
+    {
+      "reference": "21:5-8",
+      "section_title": "The Declaration from the Throne -- Making All Things New",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading presents God's declaration from the throne that he is making all things new, the offer of the water of life freely to the thirsty, the promise that the overcomer will inherit and become God's son, and the warning that the cowardly, unbelieving, abominable, and other categories face the second death.",
+      "relevance": "The juxtaposition of verses 7 and 8 presents the document's final two-path statement. Verse 7: 'He who overcomes will inherit these things, and I will be his God and he will be my son' -- inheritance is conditional on overcoming (ho nikōn, present participle indicating ongoing activity). Verse 8: the first two categories in the exclusion list are 'the cowardly' (deiloi) and 'the unbelieving' (apistoi). The neutral reading identifies deiloi as 'those whose fear causes them to abandon their allegiance' under the beast's pressure, and apistoi as 'those who lack pistis (faith, faithfulness, trust)' -- the opposite of the persevering saints of 14:12. These are not outsiders who never believed but insiders whose fear and unfaithfulness caused capitulation. The two-path structure -- overcomer inherits vs. the cowardly/faithless face the second death -- directly addresses whether standing before God is permanent or conditional, and the passage makes it conditional on maintained faithfulness. The Davidic covenant formula ('I will be his God and he will be my son') is democratized to every overcomer, but the operative condition is overcoming.",
+      "key_phrases": ["He who overcomes will inherit these things, and I will be his God and he will be my son", "But for the cowardly and unbelieving and abominable and murderers", "their part will be in the lake that burns with fire and brimstone, which is the second death"],
+      "confidence": "high"
+    },
+    {
+      "reference": "21:9-14",
+      "section_title": "The Angel Shows the Bride -- The City's Identity and Structure",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the bowl-angel showing John the bride/wife of the Lamb as the holy city Jerusalem descending from God with his glory, having twelve gates with the names of the twelve tribes and twelve foundations with the names of the twelve apostles; the section describes the city's identity and structure rather than addressing the believer's standing."
+    },
+    {
+      "reference": "21:15-17",
+      "section_title": "The Measurement of the City",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the angel measuring the city as a perfect cube of 12,000 stadia with a wall of 144 cubits, encoding the covenant number twelve and its multiples in the dimensions of the Holy-of-Holies-shaped city; the section describes the city's dimensions rather than addressing the believer's standing."
+    },
+    {
+      "reference": "21:18-21",
+      "section_title": "The Materials of the City",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes the city's construction materials -- jasper walls, gold transparent as glass, twelve precious stone foundations, and pearl gates -- drawing on the high priest's breastpiece, Isaiah's jeweled Jerusalem, and Ezekiel's garden of Eden; the section describes the city's materials rather than addressing the believer's standing."
+    },
+    {
+      "reference": "21:22-23",
+      "section_title": "No Temple, No Sun -- God and the Lamb as Temple and Light",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the absence of a temple because God and the Lamb are the temple, and the absence of sun and moon because God's glory and the Lamb's light illuminate the city; the section describes the unmediated divine presence rather than addressing the believer's standing."
+    },
+    {
+      "reference": "21:24-27",
+      "section_title": "The Nations, the Open Gates, and the Exclusion of the Unclean",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the nations walking by the city's light, the kings bringing their glory, the gates never shut, and the exclusion of anything unclean or anyone who practices abomination and lying -- with entry limited to those written in the Lamb's book of life.",
+      "relevance": "Entry into the holy city is determined by two criteria: moral character (nothing unclean, no practitioner of abomination or lying) and inscription in the Lamb's book of life. The neutral reading notes the exclusion categories connect to the harlot's system (bdelygma/abomination from 17:4-5) and the dragon's deception program (pseudos/lying, contrasting the 144,000 in whose mouths no lie was found, 14:5). The passage defines the city's nature as constitutionally holy, precluding the presence of what is unclean. The criterion 'only those who are written in the Lamb's book of life' echoes 20:15 and makes final access to the new creation conditional on book-of-life inscription, which throughout the document has been linked to both divine registration and maintained faithfulness.",
+      "key_phrases": ["nothing unclean, and no one who practices abomination and lying, shall ever come into it", "but only those who are written in the Lamb's book of life"],
+      "confidence": "medium"
+    }
+  ]
+}

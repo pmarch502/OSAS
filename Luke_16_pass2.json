@@ -1,0 +1,56 @@
+{
+  "book": "Luke",
+  "chapter": 16,
+  "sections": [
+    {
+      "reference": "16:1-8a",
+      "section_title": "The Parable of the Shrewd Manager",
+      "category": "NOT_APPLICABLE",
+      "summary": "A manager reported as squandering his master's possessions faces termination and shrewdly reduces the debts of his master's debtors to secure future welcome, and his master commends his shrewdness though not his dishonesty."
+    },
+    {
+      "reference": "16:8b-9",
+      "section_title": "The Application -- Shrewdness and Eternal Dwellings",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus observes that the sons of this age are shrewder than the sons of light and instructs the disciples to use worldly wealth to make friends who will welcome them into eternal dwellings when the wealth fails."
+    },
+    {
+      "reference": "16:10-13",
+      "section_title": "Faithfulness with What Is Entrusted",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus teaches that faithfulness in small things reveals faithfulness in large ones, that unfaithfulness with worldly wealth disqualifies one from receiving true wealth, that unfaithfulness with another's property forfeits one's own, and that serving God and mammon simultaneously is impossible.",
+      "relevance": "The passage frames earthly wealth as a test whose results determine whether the person receives the 'true wealth' of the kingdom. Unfaithfulness with what has been entrusted (worldly resources) disqualifies one from receiving what is genuine and permanent (kingdom riches). This implies that the believer's access to eternal reward depends on present faithfulness -- it is not secured independently of how one stewards what has been given. The absolute declaration 'you cannot serve God and wealth' presents the choice as binary and ongoing: allegiance to one master precludes allegiance to the other, and the choice determines one's standing.",
+      "key_phrases": ["if you have not been faithful in the use of unrighteous wealth, who will entrust the true wealth to you?", "if you have not been faithful in the use of that which is another's, who will give you that which is your own?", "You cannot serve God and wealth"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "16:14-15",
+      "section_title": "The Pharisees' Response",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Pharisees, characterized by the narrator as lovers of money, ridicule Jesus's teaching, and Jesus tells them that their self-justification before people is detestable to God, who knows their hearts."
+    },
+    {
+      "reference": "16:16-17",
+      "section_title": "The Law, the Prophets, and the Kingdom",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares that the Law and the Prophets were proclaimed until John, that since then the kingdom of God is being preached and everyone is forcing their way into it, and that not one stroke of the Law will fail."
+    },
+    {
+      "reference": "16:18",
+      "section_title": "Divorce and the Law's Continuing Authority",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares that divorce and remarriage constitutes adultery, functioning as a concrete example of the Law's continuing authority and of how the Pharisees use the Law's letter to circumvent its deeper intent."
+    },
+    {
+      "reference": "16:19-31",
+      "section_title": "The Rich Man and Lazarus",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "A rich man who feasted daily in splendor while a poor man named Lazarus lay starving at his gate dies and finds himself in torment in Hades, while Lazarus rests in Abraham's bosom, with a permanent chasm between them; Abraham tells the rich man that his brothers have Moses and the Prophets and will not be persuaded even if someone rises from the dead.",
+      "relevance": "The rich man is a covenant member -- he addresses Abraham as 'father' and Abraham calls him 'child,' acknowledging the relationship. He had Moses and the Prophets, the scriptures that define covenant life. Yet his failure to act on what those scriptures commanded -- care for the poor at his gate -- resulted in permanent, irreversible torment after death. The chasm between comfort and torment is described as fixed and impassable. The passage directly demonstrates that covenant membership, Abrahamic descent, and possession of the scriptures do not guarantee positive eternal standing. Ongoing faithfulness to what the scriptures require -- particularly justice and mercy toward the destitute -- determines one's eternal state. Abraham's final statement that even a resurrection will not persuade those who refuse to listen to Moses and the Prophets implies that the problem is not insufficient evidence but hardened refusal, and that the consequences of that refusal are permanent.",
+      "key_phrases": ["between us and you a great chasm has been set", "during your life you received your good things, and likewise Lazarus bad things; but now he is being comforted here, and you are in agony", "They have Moses and the Prophets; let them hear them", "If they do not listen to Moses and the Prophets, they will not be persuaded even if someone rises from the dead"],
+      "confidence": "high"
+    }
+  ]
+}

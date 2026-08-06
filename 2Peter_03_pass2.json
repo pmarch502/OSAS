@@ -1,0 +1,70 @@
+{
+  "book": "2 Peter",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-2",
+      "section_title": "The Purpose Restated",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author restates his purpose of stirring up the audience's sincere mind by way of reminder, directing them to remember the prophets' words and the Lord's commandment transmitted through the apostles."
+    },
+    {
+      "reference": "3:3-4",
+      "section_title": "The Scoffers and Their Argument",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading found that scoffers will arise in the last days, driven by their own lusts, denying the promise of Christ's coming on the basis that nothing has changed since the beginning of creation -- an argument rooted in observed uniformity and willful disregard of divine intervention."
+    },
+    {
+      "reference": "3:5-7",
+      "section_title": "The Author's Rebuttal from Creation and the Flood",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading found that the author refutes the scoffers' uniformitarian argument by demonstrating that the world was created by God's word, destroyed once by water through the flood, and is now being reserved by the same word for fire on the day of judgment."
+    },
+    {
+      "reference": "3:8-9",
+      "section_title": "The Lord's Patience Explained",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that the author reframes the apparent delay of Christ's return as divine patience (makrothymia), drawing on Psalm 90:4 and the Exodus 34:6 tradition of God's longsuffering character, and states that God does not wish for any to perish but for all to come to repentance.",
+      "relevance": "The statement that God does not wish 'any to perish but for all to come to repentance' implies that perishing remains a genuine possibility for those addressed. The neutral reading noted that 'the patience that gives time for repentance can be used for either purpose -- to turn back, or to sink deeper.' God's desire is for repentance; the false teachers' choice is for corruption. The 'any' and 'all' most naturally refer to the community (the 'you' of the preceding clause), including its vulnerable members. The passage does not say that perishing is impossible for those within the community; it says God desires that none of them perish and gives them time to repent.",
+      "key_phrases": ["not wishing for any to perish but for all to come to repentance", "is patient toward you", "with the Lord one day is like a thousand years"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:10",
+      "section_title": "The Day of the Lord",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading found that the day of the Lord will come like a thief, bringing the dissolution of the heavens, the destruction of the elements by fire, and the exposure of the earth and its works -- a day that is both destructive and revelatory."
+    },
+    {
+      "reference": "3:11-13",
+      "section_title": "The Practical Inference -- What Sort of People",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that the certainty of cosmic dissolution produces a practical imperative: the audience must live in holy conduct and godliness, looking for and potentially hastening the day of God, with the ultimate hope being new heavens and a new earth in which righteousness permanently dwells.",
+      "relevance": "The rhetorical question 'what sort of people ought you to be' assumes that conduct in the present has consequences for one's condition at the eschatological day. The language of obligation (dei, 'it is necessary') frames holy conduct and godliness not as optional accessories to faith but as requirements. The connection back to 1:3 is deliberate: God provided everything for godliness, and now the audience is asked what they are doing with that provision. The implication is that the eschatological outcome is not independent of present conduct.",
+      "key_phrases": ["what sort of people ought you to be in holy conduct and godliness", "looking for and hastening the coming of the day of God", "new heavens and a new earth, in which righteousness dwells"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:14-16",
+      "section_title": "Practical Exhortation and the Reference to Paul",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that the audience is commanded to be diligent to be found spotless and blameless (the antithesis of the false teachers who are 'stains and blemishes'), to regard the Lord's patience as salvation, and that the untaught and unstable distort Paul's letters and the rest of the Scriptures to their own destruction.",
+      "relevance": "The command to 'be diligent to be found by Him in peace, spotless and blameless' implies that the condition in which one is found at the day of the Lord depends on present effort. The verb spoudasate ('be diligent') forms an inclusio with 1:5 and 1:10, bracketing the entire letter with the demand for active effort. The warning that the unstable distort Scripture 'to their own destruction' indicates that destruction (apoleia) remains a possible outcome for those within the community who handle the apostolic teaching irresponsibly.",
+      "key_phrases": ["be diligent to be found by Him in peace, spotless and blameless", "regard the patience of our Lord as salvation", "the untaught and unstable distort, as they do also the rest of the Scriptures, to their own destruction"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:17-18",
+      "section_title": "The Final Warning and Doxology",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading found that the author's final warning commands the audience to guard themselves so that they are not carried away by the error of unprincipled men and 'fall from their own steadfastness,' followed by the imperative to grow in grace and knowledge as the only alternative to falling.",
+      "relevance": "This passage directly addresses whether a believer's standing can be forfeited. The verb ekpipto ('to fall from') describes a genuine departure from a position genuinely held. The neutral reading emphasized that the steadfastness (sterigmos) is 'their own' (idiou) -- it belongs to the audience, genuinely, not nominally. The falling is 'presented as a genuine possibility -- not an inevitability, but not an impossibility either.' The neutral reading connected ekpipto to Galatians 5:4 ('you have fallen from grace'), where the same verb describes falling from a real position. The final imperative to 'grow' establishes that the only alternative to falling is active growth -- static maintenance is not an option. The dying apostle's final words are a warning against falling, which would be pointless if falling were impossible.",
+      "key_phrases": ["be on your guard so that you are not carried away by the error of unprincipled men", "fall from your own steadfastness", "grow in the grace and knowledge of our Lord and Savior Jesus Christ"],
+      "confidence": "high"
+    }
+  ]
+}

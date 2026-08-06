@@ -1,0 +1,38 @@
+{
+  "book": "Revelation",
+  "chapter": 20,
+  "sections": [
+    {
+      "reference": "20:1-3",
+      "section_title": "The Binding of the Dragon",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading narrates an angel binding the dragon (identified as the serpent of old, the devil, Satan) in the abyss for a thousand years to prevent him from deceiving the nations, with the note that he must be released for a short time afterward; the section describes cosmic conflict rather than addressing the believer's standing."
+    },
+    {
+      "reference": "20:4-6",
+      "section_title": "The First Resurrection and the Reign of the Faithful",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading presents the enthronement and resurrection of those beheaded for their testimony of Jesus and those who refused to worship the beast or receive his mark, who came to life and reigned with Christ for a thousand years, with the fifth beatitude declaring blessed those who share in the first resurrection over whom the second death has no power.",
+      "relevance": "Participation in the first resurrection -- and the attendant immunity from the second death -- is explicitly tied to maintained faithfulness: those who qualify are 'beheaded because of their testimony of Jesus and because of the word of God' and those who 'had not worshiped the beast or his image, and had not received the mark.' The neutral reading notes that the passage fulfills the conditional promises to the overcomers in the letters (2:11 on the second death, 3:21 on thrones, 5:10 on priestly kingship) and that 'the ones who lost everything -- including their lives -- gain everything: life, priesthood, kingship, and immunity from the second death.' The criteria for entry are behavioral: faithfulness to the point of death and refusal to capitulate. The passage resolves the document's central paradox: 'the saints conquer by being conquered.' The promise of security ('over these the second death has no power') is granted to those who demonstrated sustained faithfulness, not to all who initially believed.",
+      "key_phrases": ["the souls of those who had been beheaded because of their testimony of Jesus and because of the word of God", "those who had not worshiped the beast or his image, and had not received the mark", "Blessed and holy is the one who has a part in the first resurrection; over these the second death has no power"],
+      "confidence": "high"
+    },
+    {
+      "reference": "20:7-10",
+      "section_title": "The Release of Satan and the Final Defeat",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading narrates Satan's release after the thousand years, his deception of the nations (Gog and Magog), their attack on the camp of the saints and the beloved city, fire from heaven consuming the attackers, and the devil's casting into the lake of fire; the section describes the final cosmic conflict and the dragon's permanent destruction rather than addressing the believer's standing."
+    },
+    {
+      "reference": "20:11-15",
+      "section_title": "The Great White Throne and the Final Judgment",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading presents the great white throne judgment where all the dead stand before the throne, books of deeds are opened alongside the book of life, the dead are judged according to their deeds, Death and Hades are thrown into the lake of fire (the second death), and anyone whose name was not found in the book of life was thrown into the lake of fire.",
+      "relevance": "The passage directly addresses final standing before God through a dual basis of judgment: deeds recorded in the books AND inscription in the book of life. The neutral reading notes that 'deeds are the basis of judgment; inscription in the book of life is the basis of final outcome' and that the two are 'complementary, not contradictory.' The judgment is individualized: 'each person stands before the throne and is judged on the basis of his or her own deeds' (hekastos, 'each one'). The criterion stated in 20:15 -- 'if anyone's name was not found written in the book of life, he was thrown into the lake of fire' -- implies a search (heurethē, 'was found') rather than an automatic outcome. The neutral reading connects this to the document's consistent dual emphasis: 'deeds matter (2:2, 23; 3:1, 8, 15; 14:13; 20:12-13; 22:12), and belonging to the Lamb matters (3:5; 13:8; 17:8; 21:27).' The deeds-based judgment implies that conduct determines outcome, favoring conditionality.",
+      "key_phrases": ["the dead were judged from the things which were written in the books, according to their deeds", "if anyone's name was not found written in the book of life, he was thrown into the lake of fire", "they were judged, every one of them according to their deeds"],
+      "confidence": "high"
+    }
+  ]
+}

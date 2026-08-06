@@ -1,0 +1,44 @@
+{
+  "book": "1 Thessalonians",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1",
+      "section_title": "The Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "The letter's salutation identifies three co-senders and the community as the ekklesia of the Thessalonians existing in God the Father and the Lord Jesus Christ."
+    },
+    {
+      "reference": "1:2-3",
+      "section_title": "The Thanksgiving -- Faith, Love, and Hope as Active Realities",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The co-senders give thanks for the community's work of faith, labor of love, and steadfastness of hope, describing each as an active, ongoing reality produced by and requiring continuous engagement.",
+      "relevance": "The triad describes the community's standing not as a completed past event but as a present, active reality: faith produces visible work, love drives costly labor, and hope sustains endurance under pressure. Each term assumes ongoing effort and resistance to external pressure. The neutral reading notes that 'each term assumes that something is pressing against them -- the work is needed, the labor is costly, the endurance is tested.' This framing implies that the community's standing requires continuous maintenance of faith, love, and hope.",
+      "key_phrases": ["work of faith", "labor of love", "steadfastness of hope", "in the presence of our God and Father"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:4-5",
+      "section_title": "The Evidence of Divine Choice",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul declares knowledge of the community's election by God, grounding that knowledge in the observable evidence of how the gospel arrived -- with power, the Holy Spirit, and full conviction -- rather than in a hidden decree."
+    },
+    {
+      "reference": "1:6-7",
+      "section_title": "The Chain of Imitation",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Thessalonians became imitators of the apostles and the Lord by receiving the word under affliction with Spirit-given joy, and in turn became the pattern for all believers in Macedonia and Achaia."
+    },
+    {
+      "reference": "1:8-10",
+      "section_title": "The Sounding Forth and the Content of Conversion",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The report of the Thessalonians' conversion has spread everywhere, described as a three-part movement: turning from idols (past decisive break), serving the living and true God (present ongoing posture), and waiting for his Son from heaven who rescues from the coming wrath (future orientation).",
+      "relevance": "The neutral reading describes conversion not as a single completed event but as a three-part ongoing reorientation requiring all three movements. The reading explicitly states: 'All three are necessary; none is sufficient alone. A community that turned but does not serve has not completed the movement. A community that serves but does not wait has lost its eschatological orientation. A community that waits but has not turned and does not serve has no basis for its expectation.' This framing presents the believer's standing as requiring ongoing serving and waiting, not merely an initial turning.",
+      "key_phrases": ["you turned to God from idols", "to serve a living and true God", "to wait for His Son from heaven", "who rescues us from the wrath to come"],
+      "confidence": "medium"
+    }
+  ]
+}

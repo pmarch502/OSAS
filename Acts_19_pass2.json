@@ -1,0 +1,64 @@
+{
+  "book": "Acts",
+  "chapter": 19,
+  "sections": [
+    {
+      "reference": "19:1-7",
+      "section_title": "Disciples Who Knew Only John's Baptism",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul finds about twelve disciples in Ephesus who had received John's baptism but had never heard that the Holy Spirit had been given; Paul explains that John's baptism was preparatory, pointing to 'the one who was to come after him, that is, Jesus'; they are baptized in the name of the Lord Jesus, Paul lays hands on them, and the Spirit comes with tongues and prophecy -- a small-scale Pentecost completing their incomplete faith."
+    },
+    {
+      "reference": "19:8-10",
+      "section_title": "The Synagogue, the Hall of Tyrannus, and the Spread of the Word",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reasons in the Ephesian synagogue for three months about the kingdom of God; when some become stubborn (esklerynonto) and continue in unbelief, speaking evil of the Way before the congregation, Paul withdraws and separates the disciples, reasoning daily in the hall of Tyrannus for two years, so that 'all the residents of Asia heard the word of the Lord, both Jews and Greeks.'"
+    },
+    {
+      "reference": "19:11-12",
+      "section_title": "Extraordinary Acts of Power",
+      "category": "NOT_APPLICABLE",
+      "summary": "God performs extraordinary miracles through Paul, such that even handkerchiefs and aprons that had touched his skin are carried to the sick, and diseases and evil spirits depart -- God is the acting subject, Paul the instrument."
+    },
+    {
+      "reference": "19:13-17",
+      "section_title": "The Sons of Sceva and the Failure of Borrowed Authority",
+      "category": "NOT_APPLICABLE",
+      "summary": "Itinerant Jewish exorcists, including seven sons of a high priest named Sceva, attempt to use 'the Jesus whom Paul proclaims' as a magical formula; the evil spirit responds 'Jesus I know, and Paul I recognize, but who are you?' and the demonized man overpowers all seven; fear falls on the city and 'the name of the Lord Jesus was extolled.'"
+    },
+    {
+      "reference": "19:18-20",
+      "section_title": "Confession, Renunciation, and the Burning of the Magic Books",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Existing believers (pepisteukoton -- perfect participle: 'those who had believed') come forward confessing and divulging their ongoing involvement in magical practices; those who had practiced magic arts burn their books publicly at a cost of fifty thousand pieces of silver; 'the word of the Lord continued to increase and prevail mightily.'",
+      "relevance": "The passage reveals that believers had retained magical practices incompatible with their confession of Jesus as Lord. The neutral reading states that 'these believers had come to faith in Jesus but had not fully renounced the magical practices that pervaded Ephesian culture' and that the Sceva incident 'confronted these believers with the incompatibility between their faith in Jesus and their continuing reliance on magical techniques. They could not confess Jesus as Lord and continue to practice the arts that treated his name as one more incantation among many.' The narrative treats exclusive allegiance as a demand of the faith, not an automatic consequence of it. The fact that believers had to be confronted -- by the dramatic exposure of what happens when Jesus's name is treated as mere formula -- before renouncing their practices implies that ongoing transformation and exclusive commitment are expected but not guaranteed. The costly, irrevocable, public nature of the book-burning (destroying assets worth 137 years of daily labor) underscores that faithfulness requires active, costly choices after initial belief. However, the text does not explicitly state what would have happened had these believers failed to renounce -- it narrates the positive outcome without threatening a negative consequence for refusal.",
+      "key_phrases": ["those who were now believers came, confessing and divulging their practices", "they could not confess Jesus as Lord and continue to practice magic", "burned them in the sight of all", "exclusive allegiance as a demand of the faith, not an automatic consequence"],
+      "confidence": "low"
+    },
+    {
+      "reference": "19:21-22",
+      "section_title": "Paul's Resolve to Go to Jerusalem and Rome",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul resolves in the Spirit to pass through Macedonia and Achaia, go to Jerusalem, and then to Rome ('I must also see Rome' -- the dei of divine necessity); he sends Timothy and Erastus ahead to Macedonia while he remains in Asia."
+    },
+    {
+      "reference": "19:23-27",
+      "section_title": "Demetrius and the Economic Threat of the Gospel",
+      "category": "NOT_APPLICABLE",
+      "summary": "Demetrius the silversmith, whose guild manufactures silver shrines of Artemis, gathers the craftsmen and warns them that Paul's message ('gods made with hands are not gods') threatens their trade, the temple of Artemis, and the goddess's magnificence -- his argument begins with revenue, adds religion, and crowns it with civic pride."
+    },
+    {
+      "reference": "19:28-34",
+      "section_title": "The Riot",
+      "category": "NOT_APPLICABLE",
+      "summary": "The craftsmen incite a city-wide riot; the crowd rushes to the 25,000-seat theater dragging Paul's companions Gaius and Aristarchus; Paul is prevented from entering by the disciples and by friendly Asiarchs; Alexander, put forward by the Jews to distinguish them from the Christians, is shouted down when the crowd recognizes he is Jewish; the mob chants 'Great is Artemis of the Ephesians' for two hours."
+    },
+    {
+      "reference": "19:35-41",
+      "section_title": "The Town Clerk Restores Order",
+      "category": "NOT_APPLICABLE",
+      "summary": "The town clerk quiets the crowd by affirming Ephesus's status as neokoros (temple keeper) of Artemis, declaring that Paul's companions are 'neither sacrilegious nor blasphemers of our goddess,' directing Demetrius to pursue legal channels, warning that the riot endangers the city's self-governing privileges with Rome, and dismissing the assembly."
+    }
+  ]
+}

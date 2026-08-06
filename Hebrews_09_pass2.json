@@ -1,0 +1,72 @@
+{
+  "book": "Hebrews",
+  "chapter": 9,
+  "sections": [
+    {
+      "reference": "9:1-5",
+      "section_title": "The Earthly Sanctuary and Its Furnishings",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author describes the physical layout and contents of the earthly tabernacle -- the outer room with its lampstand, table, and sacred bread, and the inner room with the golden altar of incense, the ark of the covenant containing the manna jar, Aaron's staff, and the tablets, topped by the cherubim of glory above the mercy seat."
+    },
+    {
+      "reference": "9:6-10",
+      "section_title": "The Levitical Ritual and Its Built-In Limitation",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author describes the restricted access of the Levitical system -- ordinary priests entering the outer room continually but only the high priest entering the inner room once a year with blood -- and interprets this structure as the Holy Spirit's declaration that the way into God's full presence had not yet been disclosed, since the system could not perfect the worshiper in conscience but dealt only in bodily regulations imposed until a time of reformation."
+    },
+    {
+      "reference": "9:11-12",
+      "section_title": "Christ's Entry into the Heavenly Sanctuary",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The author declares that Christ entered the greater, heavenly tabernacle -- not made with hands and not of this creation -- not with animal blood but with his own blood, entering once for all time and obtaining eternal redemption.",
+      "relevance": "The redemption Christ obtained is described as 'eternal' (aionian) -- it does not expire, does not need renewal, and does not require annual re-enactment. The modifier 'eternal' directly contrasts with the annual, temporal nature of the Levitical atonement. Combined with 'once for all time' (ephapax), the passage presents Christ's achievement as a permanent, unrepeatable act whose results endure indefinitely. This has implications favoring permanence because the objective provision of redemption is settled. However, the passage describes the quality of what was obtained rather than directly addressing whether an individual beneficiary can subsequently walk away from it.",
+      "key_phrases": ["He entered the holy place once for all time", "having obtained eternal redemption", "through His own blood"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "9:13-14",
+      "section_title": "The How Much More Argument",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author constructs a lesser-to-greater argument: if animal blood and heifer ashes sanctify for bodily cleansing, how much more will the blood of Christ -- who offered himself without blemish through the eternal Spirit -- cleanse the conscience from dead works to serve the living God."
+    },
+    {
+      "reference": "9:15-17",
+      "section_title": "Mediator of a New Covenant Through Death",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The author identifies Christ as the mediator of a new covenant inaugurated by his death, which provides redemption for violations committed under the first covenant so that those who have been called may receive the promise of the eternal inheritance, and explains that a covenant/testament requires the death of the one who made it to take effect.",
+      "relevance": "The inheritance is described as 'eternal' (aionios), placing it in the category of the permanent and enduring. Christ's death retroactively addresses sins from the old covenant era, demonstrating a scope that transcends temporal limitation. The recipients are 'those who have been called' (perfect participle), describing a completed calling with ongoing effect. The permanence of the inheritance and the covenantal nature of its provision have implications favoring a secure standing. However, the passage describes the provision and its legal activation through death rather than directly addressing whether someone who has received the inheritance can subsequently forfeit it.",
+      "key_phrases": ["the promise of the eternal inheritance", "those who have been called", "a death has taken place for the redemption of the violations that were committed under the first covenant"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "9:18-22",
+      "section_title": "The Blood Requirement: The First Covenant's Inauguration",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author demonstrates that the first covenant was inaugurated with blood, citing Moses's sprinkling of the book, people, tabernacle, and vessels, and states the principle that without shedding of blood there is no forgiveness."
+    },
+    {
+      "reference": "9:23-24",
+      "section_title": "Heavenly Things Require Better Sacrifices",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author argues that if earthly copies required animal blood for purification, the heavenly originals required better sacrifices, and that Christ entered not a handmade copy but heaven itself to appear in the presence of God on behalf of the community."
+    },
+    {
+      "reference": "9:25-26",
+      "section_title": "The Unrepeatable Character of the Offering",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author argues that Christ did not need to offer himself repeatedly like the annual Levitical entry but was manifested once at the consummation of the ages to put away sin by the sacrifice of himself, abolishing sin as a condition rather than merely covering individual transgressions."
+    },
+    {
+      "reference": "9:27-28",
+      "section_title": "Death, Judgment, and the Second Appearing",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The author parallels the universal human appointment of death followed by judgment with Christ's sequence of being offered once to bear the sins of many and then appearing a second time for salvation -- without reference to sin -- to those who eagerly await him.",
+      "relevance": "The recipients of salvation at Christ's second appearing are identified by their present, ongoing posture -- 'those who eagerly await Him' (present participle, apekdechomenois) -- rather than by a past decision or settled status. The neutral reading explicitly connects this to the author's sustained pattern of describing salvation's recipients with present participles and conditional clauses: 'those who come to God through Him' (7:25), 'if we hold fast our confidence' (3:6), 'if we hold the beginning of our assurance firm until the end' (3:14), 'you have need of endurance' (10:36), and 'those who have faith to the preserving of the soul' (10:39). The second appearing brings salvation to those maintaining the posture of eager expectation rather than to a category defined solely by a past event.",
+      "key_phrases": ["to those who eagerly await Him", "will appear a second time for salvation without reference to sin", "having been offered once to bear the sins of many"],
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "book": "Romans",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-2",
+      "section_title": "Peace, Access, and the Hope of Glory",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul declares that the justified have peace with God, access into grace in which they stand (hestekamen, perfect tense indicating settled standing), and rejoicing in hope of the glory of God.",
+      "relevance": "The perfect tense hestekamen ('we stand' -- a past action with continuing results) describes the justified as having taken a position in grace and remaining there. The language of 'standing' implies stability and settledness rather than precariousness. The glory that was lost (3:23, 'fall short of the glory of God') is now the object of confident hope, suggesting the standing in grace is secure enough to produce hope rather than anxiety.",
+      "key_phrases": ["we have peace with God", "this grace in which we stand", "we rejoice in hope of the glory of God"],
+      "confidence": "low"
+    },
+    {
+      "reference": "5:3-5",
+      "section_title": "Suffering, Endurance, and the Love Poured Out",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes the chain of character development through suffering (suffering produces endurance, endurance produces character, character produces hope) and declares that hope does not disappoint because God's love has been poured into believers' hearts through the Holy Spirit."
+    },
+    {
+      "reference": "5:6-8",
+      "section_title": "Christ's Death for the Ungodly as the Demonstration of God's Love",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul establishes the magnitude of God's love by noting that Christ died for the ungodly, the weak, and sinners at the right time -- a love demonstrated precisely toward those who had no claim on it."
+    },
+    {
+      "reference": "5:9-11",
+      "section_title": "The 'Much More' Arguments and Reconciliation",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Paul deploys two a fortiori (pollo mallon) arguments: if God justified us by Christ's blood while we were sinners, much more shall we be saved from wrath; if God reconciled us through Christ's death while we were enemies, much more shall we be saved by his life.",
+      "relevance": "The a fortiori logic is strong and directly addresses the certainty of future salvation for those who have been justified. The argument runs: God accomplished the harder thing (reconciling enemies through Christ's death) and therefore will certainly complete the easier thing (preserving the now-reconciled from future wrath). This is Paul's own argument, not an illustration or aside, and it directly bears on whether the justified will reach final salvation. However, the argument assumes the 'we' (those currently justified and reconciled) as its subject without explicitly addressing whether someone could exit that category. The logic guarantees completion for those who remain in the reconciled state but does not directly argue that departure from that state is impossible.",
+      "key_phrases": ["much more shall we be saved", "while we were enemies we were reconciled", "saved by his life", "pollo mallon"],
+      "confidence": "high"
+    },
+    {
+      "reference": "5:12-14",
+      "section_title": "Sin and Death Through One Man",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul introduces the Adam-Christ typology, arguing that sin entered the world through one man and death through sin, with death spreading to all because all sinned, and death reigning from Adam to Moses even over those who did not sin like Adam."
+    },
+    {
+      "reference": "5:15-17",
+      "section_title": "The Gift Is Not Like the Trespass",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul argues that the free gift is not like the trespass: if death reigned through one man's trespass, much more will those who receive the abundance of grace and the gift of righteousness reign in life through Christ, with the gift overcoming not one but many trespasses.",
+      "relevance": "The a fortiori argument emphasizes the overwhelming superiority of grace over sin, which leans toward permanence -- grace is more powerful than sin, the remedy exceeds the disease. However, the neutral reading explicitly notes that the present participle hoi lambanontes ('those who receive') in 5:17 'indicates ongoing reception, not a single past event.' This introduces a participatory dimension: the gift must be continually received. The passage thus holds together the superabundance of grace (favoring permanence) with the ongoing character of reception (implying continued engagement).",
+      "key_phrases": ["much more have the grace of God and the free gift abounded", "those who receive the abundance of grace", "will reign in life", "hoi lambanontes"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:18-19",
+      "section_title": "The Completed Parallel",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul completes the Adam-Christ parallel: as one trespass led to condemnation for all, so one act of righteousness leads to justification and life for all; as by one man's disobedience the many were made sinners, so by one man's obedience the many will be made righteous."
+    },
+    {
+      "reference": "5:20-21",
+      "section_title": "The Law, the Increase of Sin, and the Super-Abounding of Grace",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul states that the law entered to increase the trespass, but where sin increased grace super-abounded, so that as sin reigned in death, grace might also reign through righteousness leading to eternal life through Jesus Christ."
+    }
+  ]
+}

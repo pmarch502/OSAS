@@ -1,0 +1,68 @@
+{
+  "book": "Acts",
+  "chapter": 20,
+  "sections": [
+    {
+      "reference": "20:1-6",
+      "section_title": "Paul's Journey Through Macedonia, Greece, and Back to Troas",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes Paul's travel itinerary from Ephesus through Macedonia to Greece and back, including the Jewish plot that forced a change of route and the list of traveling companions representing the collection-bearing churches."
+    },
+    {
+      "reference": "20:7-12",
+      "section_title": "The Gathering at Troas, Eutychus",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes the community gathering on the first day of the week to break bread, Paul's extended discourse, Eutychus's fatal fall from the third-story window, and Paul's restoration of the young man to life in the manner of Elijah and Elisha."
+    },
+    {
+      "reference": "20:13-16",
+      "section_title": "The Coastal Voyage from Troas to Miletus",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading narrates Paul's solitary walk to Assos and the coastal voyage south to Miletus, bypassing Ephesus because Paul was hastening to reach Jerusalem by Pentecost."
+    },
+    {
+      "reference": "20:17-21",
+      "section_title": "Paul's Address to the Ephesian Elders -- Review of His Ministry",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Paul's review of his Ephesian ministry, describing his service with humility and tears, his comprehensive teaching in public and from house to house, and his proclamation of repentance toward God and faith in the Lord Jesus Christ to both Jews and Greeks."
+    },
+    {
+      "reference": "20:22-24",
+      "section_title": "Paul's Resolve to Go to Jerusalem",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes Paul as constrained by the Spirit to go to Jerusalem despite the Holy Spirit's testimony in every city that imprisonment and afflictions await him, declaring that he does not account his life of any value if only he may finish his course and testify to the gospel of the grace of God."
+    },
+    {
+      "reference": "20:25-27",
+      "section_title": "Paul's Declaration That They Will See His Face No More",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Paul's absolute declaration that none of his hearers will see his face again, his claim to be innocent of the blood of all based on the Ezekiel watchman tradition, and his assertion that he did not shrink from declaring the whole counsel of God."
+    },
+    {
+      "reference": "20:28-31",
+      "section_title": "The Warning About Wolves and False Teachers",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Paul's warning that after his departure fierce wolves will come in from outside the community and men from among the elders themselves will speak twisted things to draw away the disciples after them, requiring the elders to be vigilant shepherds of the flock the Holy Spirit has entrusted to them.",
+      "relevance": "The warning that false teachers will arise to 'draw away the disciples after them' (apospao, 'to drag away, to pull apart') implies that believers can be separated from their proper allegiance to the Lord. The disciples are described as vulnerable to being pulled from their connection to the truth and drawn after self-serving teachers. The command to the elders to 'be alert' (gregoreo, the word Jesus used in Gethsemane) implies that ongoing vigilance is necessary to protect believers from threats to their faith, and that failure of vigilance has real consequences for the flock.",
+      "key_phrases": ["fierce wolves will come in among you, not sparing the flock", "from among your own selves will arise men speaking twisted things", "to draw away the disciples after them", "be alert"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "20:32-35",
+      "section_title": "Commendation to God and the Word of His Grace",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading describes Paul's commendation of the community to God and to the word of his grace, declaring that this word is able to build them up and to give them the inheritance among all those who are sanctified, followed by Paul's testimony of economic self-sufficiency and generosity.",
+      "relevance": "Paul commends the community not to human leadership or institutional structures but to God and to the word of his grace. The word of grace is described as having inherent power (dynamis) to accomplish two things: to build the community up and to give them the inheritance among the sanctified. The emphasis on the word's capacity to secure the believers' inheritance suggests that the community's ultimate security rests in divine provision rather than human performance. The resource that sustains the community and guarantees its inheritance is God himself and his word, not the community's own effort.",
+      "key_phrases": ["I commend you to God and to the word of his grace", "which is able to build you up", "to give you the inheritance among all those who are sanctified"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "20:36-38",
+      "section_title": "The Farewell",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes the emotional farewell scene at Miletus: Paul kneeling in prayer with the elders, the community weeping and embracing Paul, grieving most of all because of his declaration that they would not see his face again, and escorting him to the ship."
+    }
+  ]
+}

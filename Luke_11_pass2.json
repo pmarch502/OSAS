@@ -1,0 +1,98 @@
+{
+  "book": "Luke",
+  "chapter": 11,
+  "sections": [
+    {
+      "reference": "11:1-4",
+      "section_title": "The Disciples Ask for Instruction in Prayer",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus teaches the disciples a prayer addressing God as Father, oriented toward the hallowing of God's name and the coming of his kingdom, requesting daily bread, forgiveness linked to the practice of forgiving others, and protection from testing.",
+      "relevance": "The forgiveness petition links divine forgiveness to the believer's ongoing practice of forgiving others: 'forgive us our sins, for we ourselves also forgive everyone who is indebted to us.' The present tense indicates continuous action, and the logic is that receiving forgiveness and extending forgiveness belong together -- one cannot receive what one refuses to extend. This implies that the believer's standing in the sphere of divine forgiveness is connected to ongoing conduct, not secured independently of it.",
+      "key_phrases": ["forgive us our sins, for we ourselves also forgive everyone who is indebted to us", "lead us not into temptation"],
+      "confidence": "low"
+    },
+    {
+      "reference": "11:5-8",
+      "section_title": "Persistence in Prayer -- The Friend at Midnight",
+      "category": "NOT_APPLICABLE",
+      "summary": "A parable teaches that if persistent asking works even with a reluctant human neighbor, it will certainly work with a willing God, illustrating the posture of confident, unashamed prayer behind the petition for daily bread."
+    },
+    {
+      "reference": "11:9-13",
+      "section_title": "The Assurance of the Father's Response",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus assures the disciples that asking, seeking, and knocking will be answered, using the analogy of human fathers who give good gifts to argue that the heavenly Father will give the Holy Spirit to those who ask."
+    },
+    {
+      "reference": "11:14-16",
+      "section_title": "The Exorcism and the Accusation",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus casts out a mute demon and the man speaks, provoking two hostile responses: some accuse him of operating by Beelzebul's power, and others demand a sign from heaven."
+    },
+    {
+      "reference": "11:17-20",
+      "section_title": "The Kingdom Divided",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus refutes the Beelzebul accusation with three arguments -- a divided kingdom cannot stand, the accusers' own exorcists would condemn the inconsistency, and if Jesus casts out demons by the finger of God then the kingdom of God has arrived upon them."
+    },
+    {
+      "reference": "11:21-23",
+      "section_title": "The Strong Man and the Stronger",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus interprets the exorcisms as cosmic warfare in which a stronger one overpowers the armed strong man and distributes his plunder, declaring that neutrality is impossible -- whoever is not with him is against him."
+    },
+    {
+      "reference": "11:24-26",
+      "section_title": "The Return of the Unclean Spirit",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "A teaching warns that when an expelled unclean spirit returns and finds the house swept and empty, it brings seven worse spirits, and the person's last state becomes worse than the first.",
+      "relevance": "The passage directly warns that liberation from evil is insufficient on its own -- the house must be filled, not merely emptied. A person who has been freed from demonic oppression (a change of state analogous to receiving salvation) but does not fill the resulting space with active allegiance to Jesus becomes vulnerable to a condition worse than the original bondage. The neutral reading explicitly connects this to the larger argument: 'liberation without allegiance to the stronger one leaves a person vulnerable to a worse condition.' This implies that a positive change of standing, if not sustained by ongoing commitment, can be reversed and made worse.",
+      "key_phrases": ["the last state of that man becomes worse than the first", "it finds it swept and put in order", "seven other spirits more evil than itself"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "11:27-28",
+      "section_title": "True Blessedness",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus redirects a woman's blessing on his mother to a broader principle: those who hear the word of God and observe it are the truly blessed, shifting the basis of blessedness from biological proximity to active, ongoing response."
+    },
+    {
+      "reference": "11:29-32",
+      "section_title": "The Sign of Jonah",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares this generation wicked for demanding signs, offers only the sign of Jonah, and warns that the Queen of the South and the men of Nineveh -- Gentiles who responded to lesser revelation -- will condemn this generation at the judgment."
+    },
+    {
+      "reference": "11:33-36",
+      "section_title": "The Lamp and the Eye",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus teaches that the light of God's revelation is already shining, and the problem is not insufficient evidence but impaired perception -- the eye that is bad fills the body with darkness, and the most dangerous condition is believing one's inner darkness is light."
+    },
+    {
+      "reference": "11:37-41",
+      "section_title": "The First Set of Woes -- Against the Pharisees",
+      "category": "NOT_APPLICABLE",
+      "summary": "At a Pharisee's meal, Jesus exposes the gap between external ritual cleanliness and internal robbery and wickedness, arguing that the Creator who made the outside also made the inside and that inner generosity produces true purity."
+    },
+    {
+      "reference": "11:42-44",
+      "section_title": "Three Woes on the Pharisees",
+      "category": "NOT_APPLICABLE",
+      "summary": "Three woes condemn the Pharisees for tithing herbs while neglecting justice and the love of God, for loving public honor, and for being like concealed tombs that contaminate others without their knowledge."
+    },
+    {
+      "reference": "11:45-52",
+      "section_title": "Three Woes on the Lawyers",
+      "category": "NOT_APPLICABLE",
+      "summary": "Three woes condemn the lawyers for burdening others with rules they will not follow, for building tombs for prophets their fathers killed while continuing the same pattern of rejection, and for taking away the key of knowledge -- neither entering themselves nor allowing others to enter."
+    },
+    {
+      "reference": "11:53-54",
+      "section_title": "The Response of the Scribes and Pharisees",
+      "category": "NOT_APPLICABLE",
+      "summary": "The scribes and Pharisees respond to the woes with intensified hostility, questioning Jesus closely and plotting to catch him in his words, confirming the very pattern of prophet-rejection that Jesus has just named."
+    }
+  ]
+}

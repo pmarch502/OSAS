@@ -1,0 +1,58 @@
+{
+  "book": "Acts",
+  "chapter": 4,
+  "sections": [
+    {
+      "reference": "4:1-4",
+      "section_title": "The Arrest and the Growth of the Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "The priests, temple captain, and Sadducees arrest Peter and John for proclaiming resurrection in Jesus, but the community has already grown to about five thousand men."
+    },
+    {
+      "reference": "4:5-7",
+      "section_title": "The Assembly of the Sanhedrin",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Sanhedrin convenes with the high-priestly family and asks the apostles by what power or name they performed the healing."
+    },
+    {
+      "reference": "4:8-12",
+      "section_title": "Peter's Defense",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter, filled with the Holy Spirit, declares that the healing was done in the name of Jesus Christ the Nazarene -- the stone rejected by the builders that became the cornerstone -- and that there is salvation in no one else, for there is no other name under heaven by which we must be saved."
+    },
+    {
+      "reference": "4:13-22",
+      "section_title": "The Council's Response and the Apostles' Release",
+      "category": "NOT_APPLICABLE",
+      "summary": "The council is amazed at the apostles' boldness, recognizes them as having been with Jesus, cannot deny the miracle, and commands them to stop speaking in Jesus's name; Peter and John respond that they must obey God rather than men."
+    },
+    {
+      "reference": "4:23-30",
+      "section_title": "The Community's Prayer",
+      "category": "NOT_APPLICABLE",
+      "summary": "The community prays to God as sovereign creator, cites Psalm 2 about the nations raging against God's anointed, identifies Herod, Pilate, Gentiles, and Israel as those who fulfilled God's predetermined plan, and asks for boldness and continued signs through Jesus's name."
+    },
+    {
+      "reference": "4:31",
+      "section_title": "The Answer to the Prayer",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The place is shaken, and the community is all filled with the Holy Spirit again and speaks the word of God with boldness.",
+      "relevance": "The neutral reading emphasizes that people already filled at Pentecost are filled again, demonstrating that 'the Spirit's empowerment is not a one-time endowment but a renewable resource that God provides as situations demand.' This bears on the permanence question because it presents the Spirit's work as ongoing provision matched to the need rather than a permanent, irrevocable deposit. The community must keep praying because they keep needing to be filled.",
+      "key_phrases": ["they were all filled with the Holy Spirit"],
+      "confidence": "low"
+    },
+    {
+      "reference": "4:32-35",
+      "section_title": "The Life of the Believing Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "The believers are of one heart and soul, hold all things in common, and there is no needy person among them -- fulfilling the Deuteronomic vision of Deuteronomy 15:4 -- as owners sell property and bring proceeds to the apostles for distribution according to need."
+    },
+    {
+      "reference": "4:36-37",
+      "section_title": "The Example of Barnabas",
+      "category": "NOT_APPLICABLE",
+      "summary": "Barnabas, a Levite from Cyprus, sells a tract of land and brings the full proceeds to the apostles' feet, serving as a concrete example of the community's generosity and setting up the contrast with Ananias and Sapphira."
+    }
+  ]
+}

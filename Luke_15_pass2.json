@@ -1,0 +1,38 @@
+{
+  "book": "Luke",
+  "chapter": 15,
+  "sections": [
+    {
+      "reference": "15:1-3",
+      "section_title": "The Narrative Frame",
+      "category": "NOT_APPLICABLE",
+      "summary": "Tax collectors and sinners draw near to hear Jesus, provoking the Pharisees and scribes to complain that he receives sinners and eats with them, which triggers a single composite parable in three parts."
+    },
+    {
+      "reference": "15:4-7",
+      "section_title": "The Lost Sheep",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "A shepherd leaves ninety-nine sheep to seek the one that is lost, searches until he finds it, carries it home on his shoulders, and celebrates with friends, illustrating heaven's joy over one sinner who repents.",
+      "relevance": "The passage emphasizes God's initiative in seeking the lost: the shepherd does all the work -- seeking, finding, carrying, celebrating. The sheep does nothing to earn its recovery. The search continues 'until he find it,' suggesting that God's pursuit is persistent and determined. This emphasis on divine initiative in recovery supports the view that God actively works to maintain his people rather than passively allowing them to wander away permanently. However, the premise of the parable is that a sheep belonging to the flock can be lost -- it was one of a hundred, part of the fold, and yet it strayed. The passage thus supports both God's persistent seeking and the reality that the flock's members can be lost.",
+      "key_phrases": ["go after that which is lost, until he find it", "joy shall be in heaven over one sinner that repenteth, more than over ninety-nine just persons which need no repentance"],
+      "confidence": "low"
+    },
+    {
+      "reference": "15:8-10",
+      "section_title": "The Lost Coin",
+      "category": "NOT_APPLICABLE",
+      "summary": "A woman searches diligently for one lost coin from ten, finds it, and celebrates, illustrating God's joy in the presence of the angels over one sinner who repents."
+    },
+    {
+      "reference": "15:11-32",
+      "section_title": "The Two Sons and Their Father",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_by_both",
+      "summary": "A younger son demands his inheritance, squanders it in a far country, hits bottom, returns to his father who celebrates extravagantly, while the older son refuses to join the feast, and the parable ends with the father pleading with the older son to come in.",
+      "relevance": "The parable presents a son -- not a stranger, but a genuine member of the family -- who departs from the father's house and is described as having been 'dead' and 'lost' during his absence. The language of death and lostness implies a genuine change of standing: the son was alive and found, then became dead and lost, then was restored to life and found again. This directly implies that family membership (covenant standing) does not prevent a person from entering a state of death and lostness through their own choices. The father's unchanged love and his watching for the son's return support the permanence of the father's desire for relationship, but the son's genuine death-state during his departure undermines the claim that standing is unconditionally permanent. The older brother's complaint reveals that physical presence without relational engagement is its own form of estrangement, and the parable's open ending leaves unresolved whether the older son will enter the feast.",
+      "key_phrases": ["this my son was dead, and is alive again; he was lost, and is found", "when he was yet a great way off, his father saw him, and had compassion, and ran", "you are always with me, and all that I have is yours", "I have been serving you for so many years"],
+      "confidence": "medium"
+    }
+  ]
+}

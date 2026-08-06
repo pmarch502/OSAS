@@ -1,0 +1,70 @@
+{
+  "book": "James",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-3",
+      "section_title": "Rich Addressed: Rotting Wealth",
+      "category": "NOT_APPLICABLE",
+      "summary": "The rich are told to weep and howl for the miseries coming upon them, with their wealth rotting and their garments moth-eaten, functioning as a prophetic denunciation of the unjust wealthy rather than as pastoral instruction to the community."
+    },
+    {
+      "reference": "5:4-6",
+      "section_title": "Specific Charges Against the Rich",
+      "category": "NOT_APPLICABLE",
+      "summary": "The rich are charged with defrauding laborers whose wages cry out to the Lord of Hosts, living in luxury while fattening themselves for the day of slaughter, and condemning and killing the righteous one who does not resist."
+    },
+    {
+      "reference": "5:7-9",
+      "section_title": "Patience Until the Coming of the Lord",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The community is called to patience until the Lord's coming, using the farmer awaiting the harvest as a model, and warned not to grumble against one another so as not to be judged, because the Judge is standing at the door.",
+      "relevance": "The warning against grumbling carries a specific consequence: judgment. The Judge standing at the door creates urgency and implies that the community's conduct in the interim period before the Lord's coming directly affects their verdict. The instruction to be patient 'until the coming of the Lord' implies that the testing period is not yet complete and the outcome is not yet settled.",
+      "key_phrases": ["be patient, brethren, until the coming of the Lord", "do not complain, brethren, against one another, so that you yourselves may not be judged", "the Judge is standing right at the door"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:10-11",
+      "section_title": "Prophets and Job as Models of Endurance",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The prophets who spoke in the Lord's name are held up as examples of suffering and patience, Job's endurance (hypomonē) is recalled, and God is described as full of compassion and mercy in the outcome (telos) he brought about.",
+      "relevance": "The blessed (makarioi) are identified as 'those who endured' -- the blessedness is connected to completed endurance, not to initial standing alone. The 'outcome that the Lord brought about' (to telos kyriou) for Job came after sustained endurance through suffering. God's compassion and mercy are real, but they are experienced by those who endure, not by those who abandon the trial. The pattern aligns with 1:12: the crown goes to those who persevere.",
+      "key_phrases": ["we count those blessed who endured", "you have heard of the endurance of Job", "have seen the outcome of the Lord's dealings", "the Lord is full of compassion and is merciful"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:12",
+      "section_title": "Integrity of Speech",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "James prohibits oath-swearing and commands simple yes-or-no integrity, with the stated purpose of not falling under judgment.",
+      "relevance": "The purpose clause 'so that you may not fall under judgment' (hina mē hypo krisin pesēte) directly implies that believers can fall under judgment through their conduct -- in this case, through dishonest speech. The verb 'fall' (piptō) combined with 'under judgment' implies a negative change of status that the audience must actively avoid.",
+      "key_phrases": ["let your yes be yes, and your no, no", "so that you may not fall under judgment"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:13-16a",
+      "section_title": "Prayer, Anointing, and Confession",
+      "category": "NOT_APPLICABLE",
+      "summary": "Instructions for the community's mutual care: the suffering should pray, the cheerful should sing, the sick should call elders for anointing and prayer, the prayer of faith will restore the sick, and sins confessed within the community bring healing."
+    },
+    {
+      "reference": "5:16b-18",
+      "section_title": "Power of the Righteous Person's Prayer",
+      "category": "NOT_APPLICABLE",
+      "summary": "The effective prayer of a righteous person can accomplish much, illustrated by Elijah's prayers that stopped and started the rain, demonstrating the principle that human faithfulness activates divine power."
+    },
+    {
+      "reference": "5:19-20",
+      "section_title": "Turning Back the Wanderer",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "If any community member strays from the truth and another turns them back, the one who turns back the sinner will save that person's soul from death and cover a multitude of sins.",
+      "relevance": "This is a listed conventional proof-text for conditionality, and the neutral reading strongly supports the conventional use. The passage addresses someone 'among you' (en hymin) -- an insider, a community member -- who 'strays from the truth' (planēthē apo tēs alētheias). The straying person is called 'a sinner' (hamartōlon), and the one who turns them back 'will save his soul from death' (sōsei psychēn autou ek thanatou). The neutral reading identifies this as the reversal of the desire-sin-death trajectory from 1:14-15: where desire conceived sin and completed sin produced death, the turning-back interrupts the process before it reaches its telos of death. The death in view is real, not hypothetical. The soul in view is the same soul the implanted word is 'able to save' in 1:21. This passage presupposes that a member of the believing community can stray from the truth, be on a path toward death, and need to be rescued -- directly contradicting the notion that a believer's standing is permanent regardless of conduct.",
+      "key_phrases": ["if any among you strays from the truth", "one turns him back", "will save his soul from death", "will cover a multitude of sins"],
+      "confidence": "high"
+    }
+  ]
+}

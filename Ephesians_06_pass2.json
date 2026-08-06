@@ -1,0 +1,52 @@
+{
+  "book": "Ephesians",
+  "chapter": 6,
+  "sections": [
+    {
+      "reference": "6:1-4",
+      "section_title": "Instructions to Children and Fathers",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section instructs children to obey their parents in the Lord and quotes the fifth commandment with its promise of well-being (universalized from 'the land' to 'the earth'), then instructs fathers not to provoke their children but to bring them up in the Lord's discipline and instruction."
+    },
+    {
+      "reference": "6:5-9",
+      "section_title": "Instructions to Slaves and Masters",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section instructs slaves to obey their earthly masters with sincerity as though serving Christ, and instructs masters to treat slaves justly, knowing that the same impartial Lord in heaven is Master of both slave and free."
+    },
+    {
+      "reference": "6:10-13",
+      "section_title": "The Strength and the Struggle",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this section commands the community to be empowered in the Lord's strength, to put on God's full armor to stand against the devil's schemes, identifies the struggle as against cosmic spiritual powers in the heavenly places rather than human opponents, and commands the community to take up God's armor to withstand in the evil day and, having done all, to stand firm.",
+      "relevance": "The passage assumes the community faces genuine threat from organized cosmic powers and must actively resist to maintain its position. The controlling verb is 'stand' (histemi, four occurrences), and the repeated imperative implies that failure to stand is a real possibility -- otherwise the urgency would be unwarranted. The community that has been 'seated with Christ in the heavenly places' (2:6) must now actively contend with hostile forces inhabiting those same heavenly places (6:12). The need for God's 'full armor' (panoplia) and the reference to withstanding 'in the evil day' suggest the community's position is not automatically maintained but requires active engagement with divine provision. While the passage does not directly threaten loss of salvation, the real possibility of not withstanding implies that the community's standing in the cosmic conflict depends on continued appropriation of God's resources rather than on an unconditional guarantee.",
+      "key_phrases": ["be strong in the Lord and in the strength of his might", "put on the whole armor of God", "that you may be able to stand against the schemes of the devil", "having done all, to stand firm"],
+      "confidence": "low"
+    },
+    {
+      "reference": "6:14-17",
+      "section_title": "The Components of God's Armor",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section describes the six components of God's armor -- belt of truth, breastplate of righteousness, shoes of the gospel of peace, shield of faith, helmet of salvation, and sword of the Spirit (the word of God) -- drawn primarily from Isaiah 59:17 and Isaiah 11:5, where the armor belongs to God himself and the messianic king, now transferred to the community."
+    },
+    {
+      "reference": "6:18-20",
+      "section_title": "Prayer as Combat",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section instructs the community to pray at all times in the Spirit with all perseverance for all the saints, and specifically for Paul that he might receive bold utterance to make known the mystery of the gospel for which he serves as an ambassador in chains."
+    },
+    {
+      "reference": "6:21-22",
+      "section_title": "The Commendation of Tychicus",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section introduces Tychicus as a beloved brother and faithful minister in the Lord who will inform the recipients of Paul's situation and encourage their hearts."
+    },
+    {
+      "reference": "6:23-24",
+      "section_title": "The Benediction",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds the letter closes with a benediction of peace, love with faith, and grace from God the Father and the Lord Jesus Christ, with the final word being grace to all who love the Lord Jesus Christ with incorruptible love."
+    }
+  ]
+}

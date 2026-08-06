@@ -1,0 +1,64 @@
+{
+  "book": "Luke",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-2",
+      "section_title": "The Historical Framework",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author locates John's prophetic call within an elaborate political synchronism naming seven rulers, using the prophetic call formula to signal that the prophetic voice, silent since Malachi, has returned to Israel -- and comes not to any center of power but to a priest's son in the wilderness."
+    },
+    {
+      "reference": "3:3-6",
+      "section_title": "John's Ministry and the Isaiah Citation",
+      "category": "NOT_APPLICABLE",
+      "summary": "John preaches a baptism of repentance for the forgiveness of sins in the Jordan region, and the author cites Isaiah 40:3-5, extending the quotation beyond the other Gospels to include 'all flesh will see the salvation of God,' signaling the universal scope of God's saving action."
+    },
+    {
+      "reference": "3:7-9",
+      "section_title": "John's Warning to the Crowds",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "John warns the crowds coming for baptism not to rely on Abrahamic descent as automatic protection from judgment, demands visible fruit consistent with repentance, and declares that the axe is already at the root of the trees -- every tree without good fruit will be cut down and thrown into fire.",
+      "relevance": "John directly challenges the assumption that established covenant standing -- being children of Abraham -- provides automatic security before God regardless of conduct. The demand for fruit consistent with repentance, the declaration that God can raise up children to Abraham from stones, and the warning that fruitless trees face destruction establish the principle that standing before God requires corresponding faithfulness, not merely inherited or once-established identity. While addressed to Israel's covenant members broadly rather than to post-conversion believers specifically, the principle that established standing does not guarantee final security apart from ongoing faithful response bears directly on the question.",
+      "key_phrases": ["produce fruits consistent with repentance", "do not start saying We have Abraham as our father", "from these stones God is able to raise up children to Abraham", "every tree that does not produce good fruit is being cut down and thrown into the fire", "the axe is already laid at the root of the trees"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:10-14",
+      "section_title": "Practical Instructions for Three Groups",
+      "category": "NOT_APPLICABLE",
+      "summary": "John gives concrete ethical instructions to the crowds (share with the needy), tax collectors (collect only what is ordered), and soldiers (do not extort or accuse falsely), defining the 'fruits consistent with repentance' as tangible acts of justice and the refusal to exploit others."
+    },
+    {
+      "reference": "3:15-17",
+      "section_title": "John's Testimony About the Coming One",
+      "category": "NOT_APPLICABLE",
+      "summary": "John distinguishes himself from the Coming One who will baptize with the Holy Spirit and fire and whose winnowing fork will thoroughly clear the threshing floor, gathering wheat into the barn and burning chaff with unquenchable fire."
+    },
+    {
+      "reference": "3:18",
+      "section_title": "Summary of John's Preaching",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author summarizes John's entire ministry -- including warnings of wrath, calls to repentance, and images of fire and judgment -- as preaching good news to the people."
+    },
+    {
+      "reference": "3:19-20",
+      "section_title": "Herod and John",
+      "category": "NOT_APPLICABLE",
+      "summary": "John is imprisoned by Herod Antipas for rebuking him about Herodias and his other wicked deeds, closing off John's public ministry as a completed unit before Jesus's ministry begins."
+    },
+    {
+      "reference": "3:21-22",
+      "section_title": "The Baptism of Jesus",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus is baptized while praying, heaven opens, the Spirit descends in bodily form like a dove, and a divine voice declares 'You are My beloved Son, in You I am well pleased,' combining Psalm 2's royal sonship with Isaiah 42's servant identity."
+    },
+    {
+      "reference": "3:23-38",
+      "section_title": "The Genealogy",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus's genealogy is traced backward through David and Abraham all the way to Adam and God, establishing his identity within both Israel's covenantal story and the story of all humanity."
+    }
+  ]
+}

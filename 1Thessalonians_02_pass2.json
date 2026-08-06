@@ -1,0 +1,50 @@
+{
+  "book": "1 Thessalonians",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1-2",
+      "section_title": "The Quality of the Apostolic Entrance",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes the missionaries' arrival in Thessalonica after suffering in Philippi, emphasizing their God-given courage to proclaim the gospel amid opposition."
+    },
+    {
+      "reference": "2:3-6",
+      "section_title": "What the Appeal Was Not",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul systematically denies that the missionaries' appeal arose from error, impurity, deceit, flattery, greed, or glory-seeking, presenting their conduct as evidence of the gospel's divine origin."
+    },
+    {
+      "reference": "2:7-9",
+      "section_title": "The Positive Description -- Mother and Laborer",
+      "category": "NOT_APPLICABLE",
+      "summary": "The missionaries' conduct is described through the image of a nursing mother tenderly caring for her own children and through the reality of self-supporting manual labor, sharing not only the gospel but their own lives."
+    },
+    {
+      "reference": "2:10-12",
+      "section_title": "The Father Image and the Witness Appeal",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul describes the missionaries as exhorting, encouraging, and imploring each community member individually, like a father with his children, so that they would walk worthy of the God who is calling them into his own kingdom and glory.",
+      "relevance": "The neutral reading highlights that God's calling is described with a present-tense participle (kalountos, 'the one who calls'), indicating an ongoing summons rather than a completed past event. The reading states: 'The present-tense calling indicates that this summons is ongoing -- they are being called, continuously, toward a destination they have not yet reached.' The community must 'walk in a manner worthy' of this calling, and the kingdom and glory are the not-yet-reached destination. This implies the believer's standing involves an ongoing journey toward a future goal, with the possibility that the walk might not match the calling.",
+      "key_phrases": ["walk in a manner worthy of the God who calls you", "into His own kingdom and glory", "the one who calls"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:13-16",
+      "section_title": "The Word at Work and the Pattern of Persecution",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul gives thanks that the Thessalonians received the apostolic message as the word of God, which is actively at work in them, and identifies their suffering from their own countrymen as following the same pattern as the Judean communities' suffering."
+    },
+    {
+      "reference": "2:17-20",
+      "section_title": "Separation, Longing, and the Parousia",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul describes the forced separation from the community as orphaning, recounts thwarted attempts to return, and declares that the Thessalonians are the missionaries' hope, joy, and crown of boasting at the parousia of the Lord Jesus.",
+      "relevance": "The neutral reading explicitly states: 'Paul's joy, hope, and crown depend on the Thessalonians' continued faithfulness. If the community fails, Paul's crown is lost.' The eschatological framing ties the missionaries' own standing at the parousia to the community's perseverance. The reading's summary reinforces this: 'The chapter does not treat the community's standing as a settled, past-tense matter; the missionaries' crown at the parousia depends on the community's continued faithfulness, and the community's continued faithfulness is the work that the living word of God is even now performing in them.' This implies that the community's standing is contingent on ongoing faithfulness, not guaranteed by past conversion alone.",
+      "key_phrases": ["who is our hope or joy or crown of exultation", "Is it not even you, in the presence of our Lord Jesus at His coming", "you are our glory and joy"],
+      "confidence": "medium"
+    }
+  ]
+}

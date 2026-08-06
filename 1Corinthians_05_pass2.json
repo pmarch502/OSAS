@@ -1,0 +1,38 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-2",
+      "section_title": "The Report and the Community's Failure",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul confronts the community with a specific case of sexual immorality -- a man maintaining an ongoing sexual arrangement with his father's wife, a violation of Leviticus 18:8 that even pagans would not tolerate -- and indicts the community for being arrogant rather than mourning."
+    },
+    {
+      "reference": "5:3-5",
+      "section_title": "Paul's Judgment and the Assembly's Action",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul pronounces judgment on the offender and directs the assembled community, acting in the name and power of the Lord Jesus, to deliver the man to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord.",
+      "relevance": "This passage directly addresses a believer whose conduct has placed his salvation in jeopardy. The purpose clause 'so that his spirit may be saved in the day of the Lord' (hina to pneuma sothe en te hemera tou kyriou) presupposes that without this drastic intervention, the man's spirit would NOT be saved on that day. The neutral reading makes this explicit: 'the current arrangement -- tolerated within the community -- is leading him toward destruction on the day of the Lord.' The man is a community member, someone who was inside (5:12), yet Paul describes a trajectory toward eschatological ruin that requires severe corrective action. The discipline is restorative in intent -- Paul does not say the man is beyond recovery -- but the very necessity of such extreme intervention demonstrates that a believer's standing can be genuinely endangered by ongoing sinful conduct. This is part of Paul's own direct argument, not an aside.",
+      "key_phrases": ["deliver this man to Satan", "for the destruction of the flesh", "so that his spirit may be saved in the day of the Lord"],
+      "confidence": "high"
+    },
+    {
+      "reference": "5:6-8",
+      "section_title": "The Leaven and the Passover",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul uses the Passover metaphor to argue that tolerated sin works through the entire community like leaven through dough, commanding the Corinthians to purge the old leaven and live as the unleavened people they truly are, since Christ their Passover lamb has already been sacrificed.",
+      "relevance": "The passage implies that the community's standing requires active maintenance of holiness. The indicative-imperative structure is significant: 'you ARE unleavened' (identity established by God's action) but you must 'become unleavened' (behavior must match identity). The proverbial warning that 'a little leaven leavens the whole lump' suggests that tolerated sin does not remain contained but corrupts the entire community. Since the community is God's temple (3:16) and its holiness is non-negotiable, the failure to purge sin threatens the community's relationship with God. The bearing on permanence/conditionality is indirect -- this is primarily about communal obligation rather than individual standing -- but the logic that identity requires corresponding conduct is relevant to the broader question.",
+      "key_phrases": ["a little leaven leavens the whole lump", "cleanse out the old leaven", "as you really are unleavened", "Christ, our Passover lamb, has been sacrificed"],
+      "confidence": "low"
+    },
+    {
+      "reference": "5:9-13",
+      "section_title": "The Boundary Between Inside and Outside",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul clarifies a previous letter's instruction about associating with immoral people, distinguishing between outsiders (whom God judges) and insiders (whom the community judges), and closes with the Deuteronomic command to purge the evil person from among them."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "book": "Luke",
+  "chapter": 9,
+  "sections": [
+    {
+      "reference": "9:1-6",
+      "section_title": "The Twelve Sent Out",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus gives the twelve power and authority over demons and disease and sends them to proclaim the kingdom, with instructions creating total dependence on the hospitality of those who hear their message."
+    },
+    {
+      "reference": "9:7-9",
+      "section_title": "Herod's Perplexity",
+      "category": "NOT_APPLICABLE",
+      "summary": "Herod Antipas hears reports about Jesus and is perplexed by competing theories about his identity, unable to resolve the question of who Jesus is."
+    },
+    {
+      "reference": "9:10-17",
+      "section_title": "Feeding the Five Thousand",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus feeds five thousand men with five loaves and two fish, acting in the pattern of Moses and Elisha as the one through whom God feeds Israel in the wilderness."
+    },
+    {
+      "reference": "9:18-21",
+      "section_title": "The Identity Question Answered",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter confesses Jesus as the Christ of God, and Jesus commands silence because the title, though correct, requires the redefinition that follows."
+    },
+    {
+      "reference": "9:22-27",
+      "section_title": "Suffering Redefined, Discipleship Redefined",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus predicts his suffering and death, then declares that following him requires daily self-denial and cross-bearing, with the eschatological consequence that the Son of Man will be ashamed of whoever is ashamed of him.",
+      "relevance": "The passage establishes an exact reciprocity between present conduct and eschatological outcome: whoever is ashamed of Jesus now will be shamed by the Son of Man at the judgment. The daily cross-bearing requirement frames discipleship as an ongoing condition, not a one-time event. The paradox of losing life to save it and saving life only to lose it implies that one's ultimate standing is determined by ongoing choices about allegiance to Jesus, not secured at a single moment.",
+      "key_phrases": ["whoever wishes to save his life will lose it", "whoever loses his life for My sake, he is the one who will save it", "what is a man profited if he gains the whole world, and loses or forfeits himself", "whoever is ashamed of Me and My words, the Son of Man will be ashamed of him", "take up his cross daily"],
+      "confidence": "high"
+    },
+    {
+      "reference": "9:28-36",
+      "section_title": "The Revelation on the Mountain",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus is transfigured before Peter, James, and John, appearing in glory with Moses and Elijah who discuss his coming departure in Jerusalem, and the divine voice identifies him as the Son and Chosen One."
+    },
+    {
+      "reference": "9:37-43a",
+      "section_title": "Failure at the Foot of the Mountain",
+      "category": "NOT_APPLICABLE",
+      "summary": "The disciples fail to heal a tormented boy despite having been given power and authority, and Jesus rebukes the generation's unbelief before healing the child himself."
+    },
+    {
+      "reference": "9:43b-45",
+      "section_title": "The Second Prediction and the Disciples' Incomprehension",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus predicts his betrayal into human hands, but the disciples cannot understand the statement because its meaning is concealed from them, and they are afraid to ask."
+    },
+    {
+      "reference": "9:46-48",
+      "section_title": "The Argument About Greatness",
+      "category": "NOT_APPLICABLE",
+      "summary": "The disciples argue about who is greatest, and Jesus responds by placing a child beside him and teaching that receiving the least is equivalent to receiving him and the Father who sent him."
+    },
+    {
+      "reference": "9:49-50",
+      "section_title": "The Outsider Who Acts in Jesus's Name",
+      "category": "NOT_APPLICABLE",
+      "summary": "John reports trying to stop an outsider from casting out demons in Jesus's name, and Jesus rebukes this possessive attitude, declaring that whoever is not against them is for them."
+    },
+    {
+      "reference": "9:51-56",
+      "section_title": "The Turn Toward Jerusalem and the Samaritan Rejection",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus sets his face toward Jerusalem in Suffering Servant language, a Samaritan village refuses to receive him, and Jesus rebukes James and John for wanting to call down destructive fire."
+    },
+    {
+      "reference": "9:57-62",
+      "section_title": "Three Encounters About the Cost of Following",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Three encounters on the road establish the escalating cost of following Jesus: homelessness, priority of the kingdom over the most sacred family duties, and the disqualification of anyone who looks back after beginning.",
+      "relevance": "The declaration that no one who puts his hand to the plow and looks back is fit for the kingdom of God implies that a person who begins following Jesus can become unfit for the kingdom through divided loyalty or backward glances. The word 'fit' (euthetos) means suitable or useful, and looking back disqualifies -- suggesting that initial commitment does not guarantee final standing if that commitment is subsequently withdrawn.",
+      "key_phrases": ["No one, after putting his hand to the plow and looking back, is fit for the kingdom of God"],
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "book": "Matthew",
+  "chapter": 25,
+  "sections": [
+    {
+      "reference": "25:1-13",
+      "section_title": "The Parable of the Ten Virgins: Preparedness for Delay",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading presents ten virgins who all went out to meet the bridegroom (all insiders, all participants in the wedding procession), but only five brought extra oil. When the bridegroom was delayed, all slept. At the midnight arrival, the five without oil found their lamps going out, could not borrow what they lacked, and arrived at the feast to find the door shut and the bridegroom declaring: 'I do not know you.'",
+      "relevance": "The passage directly addresses whether initial participation in the community guarantees final inclusion. All ten virgins went out to meet the bridegroom -- all performed the insider action of joining the procession. The wise and foolish were indistinguishable at the start (all had lamps, all went out). The difference was invisible until the delay exposed it. The neutral reading identifies the explicit echo of 7:21-23: the address 'Lord, Lord' (kyrie kyrie) and the response 'I do not know you' replicate the structure of 'Not everyone who says to me Lord, Lord will enter the kingdom.' The parable's 'sharpest point' is that the oil -- 'whatever sustains readiness over time' -- 'cannot be borrowed at the last moment from someone else. Each person's readiness is their own.' The closed door is final. The passage establishes that initial identification with the bridegroom (going out to meet him) does not guarantee entry, and that sustained inner preparedness over time is the determining factor.",
+      "key_phrases": ["I do not know you", "the door was shut", "our lamps are going out", "watch therefore, for you know neither the day nor the hour"],
+      "confidence": "high"
+    },
+    {
+      "reference": "25:14-30",
+      "section_title": "The Parable of the Talents: Faithful Use of What Is Entrusted",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading presents a master who entrusts enormous sums to three servants according to their ability, departs on a long journey, and returns to settle accounts. The five-talent and two-talent servants traded and doubled their sums, receiving identical commendation ('Well done, good and faithful servant') and expanded responsibility. The one-talent servant buried his talent, returned it intact, and was condemned as 'wicked and slothful,' stripped of what he had, and cast into 'the outer darkness' with 'weeping and gnashing of teeth.'",
+      "relevance": "The passage directly addresses whether insiders who fail to use what has been entrusted to them can be excluded from the kingdom. The one-talent servant was explicitly an insider -- the master's own servant, entrusted, known, and given responsibility proportional to his ability. He did not steal or waste the talent; he simply did not use it. The neutral reading states: 'Inaction in the face of entrustment is itself wickedness.' The 'outer darkness' (to skotos to exoteron) is the author's consistent destination for insiders who lack the essential thing: 'sons of the kingdom' at 8:12, the wedding guest without a garment at 22:13, and now the unproductive servant. The passage warns that receiving something from the master creates an obligation to act, and that the failure to act results in exclusion. The condemnation is for omission, not commission.",
+      "key_phrases": ["you wicked and slothful servant", "cast the worthless servant into the outer darkness", "to everyone who has, more will be given; but from the one who has not, even what he has will be taken away"],
+      "confidence": "high"
+    },
+    {
+      "reference": "25:31-46",
+      "section_title": "The Son of Man Judges the Nations: The Criterion of Concrete Mercy",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading presents the Son of Man enthroned in glory, judging all nations by separating sheep from goats based on whether they fed the hungry, gave drink to the thirsty, welcomed the stranger, clothed the naked, visited the sick, and came to those in prison. The King identifies himself with the suffering: 'as you did it to one of the least of these my brothers, you did it to me.' The righteous enter eternal life; the condemned go to eternal punishment.",
+      "relevance": "The passage makes ongoing concrete conduct -- not initial conversion, doctrinal confession, or religious observance -- the criterion of final judgment. The neutral reading notes that none of the six acts are 'acts of religious observance' but 'acts of practical mercy toward persons in material need,' drawing on Isaiah 58's criterion of authentic religion. The righteous were surprised by the verdict (they did not know they were serving the King), establishing that their acts were spontaneous, not calculated -- the opposite of performed righteousness. The condemned are judged for omission: they 'did not feed,' 'did not welcome,' 'did not visit.' The passage shares the pattern established throughout chapters 24-25: inaction is condemned as forcefully as wrong action, and the assessment is based on the lifetime pattern of conduct, not a single prior decision.",
+      "key_phrases": ["as you did it to one of the least of these my brothers, you did it to me", "depart from me, you cursed, into the eternal fire prepared for the devil and his angels", "these will go away into eternal punishment, but the righteous into eternal life"],
+      "confidence": "medium"
+    }
+  ]
+}

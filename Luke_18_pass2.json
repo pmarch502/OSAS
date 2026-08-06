@@ -1,0 +1,46 @@
+{
+  "book": "Luke",
+  "chapter": 18,
+  "sections": [
+    {
+      "reference": "18:1-8",
+      "section_title": "Persistent Prayer and the Vindication of God's Chosen",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this parable to be an instruction to pray persistently and not lose heart during the interval before the Son of Man's vindication, concluding with the open-ended question 'when the Son of Man comes, will He find the faith on the earth?' -- a question whose form implies that the outcome depends on whether the hearers will persevere.",
+      "relevance": "The passage directly addresses whether faith will endure through the waiting period. The open question in v. 8 -- 'will He find the faith on the earth?' -- is left unanswered, and the neutral reading states that 'the outcome depends on whether the hearers will persevere.' The definite article ('the faith') points to a specific quality: persistent, dependent trust sustained over time. The faith the Son of Man seeks is defined as 'not a single moment of belief but an ongoing posture of dependent, persistent trust -- the widow's posture -- sustained throughout the long period of waiting.' The passage warns against the specific danger of losing heart (enkakeō) -- ceasing to pray, giving up on God's justice. This bears on conditionality because it frames faithfulness as something that must be maintained and that can be abandoned.",
+      "key_phrases": ["at all times they ought to pray and not lose heart", "will not God bring about justice for His elect who cry to Him day and night", "when the Son of Man comes, will He find the faith on the earth"],
+      "confidence": "high"
+    },
+    {
+      "reference": "18:9-14",
+      "section_title": "Two Men in the Temple -- Self-Justification and Mercy",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this parable to be a contrast between the Pharisee who trusted in his own righteousness and went home unjustified, and the tax collector who threw himself on God's mercy and went home justified -- establishing that justification is God's act, given to the one who asks for mercy rather than the one who recites merits."
+    },
+    {
+      "reference": "18:15-17",
+      "section_title": "Receiving the Kingdom as Infants Receive",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be a declaration that the kingdom of God must be received as a child receives -- without merit, contribution, or even the capacity to understand -- and that whoever does not receive it this way will absolutely not enter it."
+    },
+    {
+      "reference": "18:18-30",
+      "section_title": "The Ruler Who Could Not Let Go",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be the account of a ruler who asked about inheriting eternal life but could not surrender his wealth to follow Jesus, prompting Jesus's declaration that entry to the kingdom is humanly impossible but divinely possible, and his promise that those who have left everything for the kingdom's sake will receive eternal life."
+    },
+    {
+      "reference": "18:31-34",
+      "section_title": "The Son of Man's Path Through Suffering",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this to be the third passion prediction in Luke, in which Jesus privately tells the Twelve that everything written through the prophets about the Son of Man -- including mockery, shameful treatment, scourging, death, and resurrection on the third day -- will be accomplished in Jerusalem, while the disciples comprehend none of it."
+    },
+    {
+      "reference": "18:35-43",
+      "section_title": "The Blind Man Who Cried Out for Mercy",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this episode to be the living embodiment of every quality the chapter has described as 'the faith the Son of Man is looking for': the widow's persistence, the tax collector's humility, the infant's helplessness, and the willingness to follow that the ruler lacked -- culminating in Jesus's declaration 'your faith has saved you' and the blind man's immediate following of Jesus."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "book": "John",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Word Before Creation",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author establishes the Word's pre-existence and relationship to God before creation."
+    },
+    {
+      "reference": "1:3-5",
+      "section_title": "The Word's Role in Creation, Life, and Light",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Word is identified as the agent of creation and the source of life and light that the darkness has not overcome."
+    },
+    {
+      "reference": "1:6-8",
+      "section_title": "John's Testimony Introduced",
+      "category": "NOT_APPLICABLE",
+      "summary": "John the Baptist is introduced as a witness sent by God to testify about the light."
+    },
+    {
+      "reference": "1:9-13",
+      "section_title": "The True Light Enters the World",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The true light enters the world, is rejected by his own, but to those who receive him and believe in his name he gives the right to become children of God — born not of blood, nor of the will of the flesh, nor of the will of a man, but of God.",
+      "relevance": "The birth-from-God metaphor (born of God, not of human will or descent) inherently suggests irreversibility — one cannot be un-born. The divine initiative in the birth (not of blood, not of human will, but of God) places the origin of the believer's status in God's action rather than human effort. However, the condition for receiving this right is stated in present-tense participles: 'receiving' and 'believing in his name' describe ongoing activities, creating tension between the permanence of the birth metaphor and the ongoing nature of the condition.",
+      "key_phrases": ["to those who received him", "to those believing in his name", "he gave the right to become children of God", "born not of blood", "nor of the will of the flesh", "nor of the will of a man", "but of God"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:14",
+      "section_title": "The Word Becomes Flesh",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Word became flesh and tabernacled among the community, who beheld his glory — glory as of the only-begotten from the Father, full of grace and truth."
+    },
+    {
+      "reference": "1:15",
+      "section_title": "John's Testimony Restated",
+      "category": "NOT_APPLICABLE",
+      "summary": "John the Baptist testifies that Jesus, who came after him, has surpassed him because he existed before him."
+    },
+    {
+      "reference": "1:16-18",
+      "section_title": "What the Community Has Received",
+      "category": "NOT_APPLICABLE",
+      "summary": "The community has received grace upon grace from the Word's fullness; the law came through Moses, but grace and truth came through Jesus Christ, who alone has revealed the Father."
+    },
+    {
+      "reference": "1:19-23",
+      "section_title": "John's Testimony to the Jerusalem Delegation",
+      "category": "NOT_APPLICABLE",
+      "summary": "John the Baptist denies being the Christ, Elijah, or the Prophet, and identifies himself as the voice crying in the wilderness."
+    },
+    {
+      "reference": "1:24-28",
+      "section_title": "The Question About Baptism",
+      "category": "NOT_APPLICABLE",
+      "summary": "The delegation questions John's authority to baptize, and John points to one standing among them whom they do not know."
+    },
+    {
+      "reference": "1:29-31",
+      "section_title": "The Lamb of God",
+      "category": "NOT_APPLICABLE",
+      "summary": "John identifies Jesus as the Lamb of God who takes away the sin of the world and explains that his baptizing ministry was aimed at manifesting Jesus to Israel."
+    },
+    {
+      "reference": "1:32-34",
+      "section_title": "The Spirit's Descent and the Son of God",
+      "category": "NOT_APPLICABLE",
+      "summary": "John testifies that the Spirit descended and remained on Jesus, and identifies him as the Son of God."
+    },
+    {
+      "reference": "1:35-39",
+      "section_title": "The First Disciples Follow Jesus",
+      "category": "NOT_APPLICABLE",
+      "summary": "Two of John's disciples hear his testimony and follow Jesus, who invites them to come and see where he is staying."
+    },
+    {
+      "reference": "1:40-42",
+      "section_title": "Andrew Brings Simon",
+      "category": "NOT_APPLICABLE",
+      "summary": "Andrew finds his brother Simon and brings him to Jesus, who renames him Cephas (Peter)."
+    },
+    {
+      "reference": "1:43-46",
+      "section_title": "Philip and Nathanael",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus finds Philip, who in turn finds Nathanael and tells him they have found the one Moses and the prophets wrote about."
+    },
+    {
+      "reference": "1:47-51",
+      "section_title": "Nathanael's Confession and the Son of Man",
+      "category": "NOT_APPLICABLE",
+      "summary": "Nathanael confesses Jesus as the Son of God and King of Israel, and Jesus promises he will see greater things — angels ascending and descending on the Son of Man."
+    }
+  ]
+}

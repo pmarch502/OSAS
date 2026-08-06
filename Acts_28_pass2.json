@@ -1,0 +1,46 @@
+{
+  "book": "Acts",
+  "chapter": 28,
+  "sections": [
+    {
+      "reference": "28:1-6",
+      "section_title": "Malta, the Snake, and the Reversal of Judgment",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes the landing on Malta, the islanders' hospitality, the viper that fastened on Paul's hand, the islanders' expectation that Paul would die as divine justice, and their reversal to calling him a god when he suffered no harm."
+    },
+    {
+      "reference": "28:7-10",
+      "section_title": "Healings on Malta",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes Paul's healing of Publius's father through prayer and laying on of hands, followed by other islanders coming to be healed, and the community's generous provision for Paul's party at their departure."
+    },
+    {
+      "reference": "28:11-16",
+      "section_title": "The Journey to Rome",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes the three-month stay on Malta, the voyage to Rome via Syracuse, Rhegium, and Puteoli, the welcome from brothers who came from Rome to meet Paul at the Forum of Appius and Three Taverns, and Paul's permission to live by himself with a soldier guarding him."
+    },
+    {
+      "reference": "28:17-22",
+      "section_title": "First Meeting with the Jewish Leaders in Rome",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes Paul's first meeting with the Jewish leaders in Rome, his explanation of his situation, the leaders' response that they had received no negative letters about Paul from Judea, and their desire to hear his views since the sect is everywhere spoken against."
+    },
+    {
+      "reference": "28:23-28",
+      "section_title": "The Final Meeting, the Isaiah Quotation, and the Declaration to the Gentiles",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading describes Paul's all-day exposition of the kingdom of God from the Law of Moses and the Prophets, the divided response of the Jewish audience, and Paul's final declaration citing Isaiah 6:9-10 about the people's self-imposed hardening, followed by the announcement that the salvation of God has been sent to the Gentiles.",
+      "relevance": "The Isaiah 6:9-10 quotation, presented in the LXX version, attributes the hardening to human agency rather than divine decree: 'their eyes they have closed' (ekammusan). The passage establishes a pattern in which relationship with God requires ongoing human responsiveness -- seeing, hearing, understanding, turning -- and in which humans can choose to close their eyes, stop their ears, and dull their hearts. The availability of healing is explicitly conditional: 'lest they should see... and turn, and I would heal them.' God is willing to heal, but the people must turn. While the immediate referent is Israel's initial response to the gospel, the principle that salvation requires ongoing human openness and that self-imposed hardening results in self-exclusion from God's healing has implications for the broader question of whether standing before God can be forfeited through human choice.",
+      "key_phrases": ["their eyes they have closed", "lest they should see with their eyes and hear with their ears and understand with their heart and turn", "and I would heal them", "this salvation of God has been sent to the Gentiles"],
+      "confidence": "low"
+    },
+    {
+      "reference": "28:30-31",
+      "section_title": "The Open Conclusion",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes Paul's two-year stay in Rome in his own rented quarters, welcoming all who came to him, proclaiming the kingdom of God and teaching about the Lord Jesus Christ with all boldness and without hindrance."
+    }
+  ]
+}

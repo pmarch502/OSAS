@@ -1,0 +1,64 @@
+{
+  "book": "Acts",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1-4",
+      "section_title": "The Arrival of the Holy Spirit",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Holy Spirit arrives at Pentecost with the sound of violent wind and visible tongues of fire, filling all who are present and producing speech in other languages."
+    },
+    {
+      "reference": "2:5-13",
+      "section_title": "The Multinational Audience and Their Response",
+      "category": "NOT_APPLICABLE",
+      "summary": "Devout Jews from every nation hear the Spirit-filled community speaking the mighty deeds of God in their own native languages, producing amazement and perplexity."
+    },
+    {
+      "reference": "2:14-21",
+      "section_title": "Peter Interprets the Event Through Joel",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter identifies the Pentecost event as the fulfillment of Joel's prophecy about the Spirit being poured out on all flesh in the last days, culminating in the promise that everyone who calls on the name of the Lord will be saved."
+    },
+    {
+      "reference": "2:22-24",
+      "section_title": "Jesus's Ministry, Death, and Resurrection",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter declares that Jesus was attested by God through signs, delivered over by God's predetermined plan, crucified by the audience's hands, and raised by God because it was impossible for death to hold him."
+    },
+    {
+      "reference": "2:25-28",
+      "section_title": "The Testimony of David -- Psalm 16",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter cites Psalm 16 as David's prophetic testimony that God's Holy One would not be abandoned to Hades or undergo bodily decay."
+    },
+    {
+      "reference": "2:29-31",
+      "section_title": "David Cannot Be the Subject -- Therefore It Is the Christ",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter argues that David died, was buried, and his tomb is still present, so Psalm 16's promises of preservation from decay must refer not to David but prophetically to the Christ whom God would raise."
+    },
+    {
+      "reference": "2:32-36",
+      "section_title": "The Exaltation and the Declaration",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter declares that the apostles are witnesses to the resurrection, that the exalted Jesus has received and poured out the Spirit (fulfilling Joel), and that God has made the crucified Jesus both Lord and Christ."
+    },
+    {
+      "reference": "2:37-40",
+      "section_title": "The Response of the Crowd and Peter's Instruction",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The crowd, pierced to the heart, asks what to do; Peter commands repentance, baptism in Jesus's name for forgiveness of sins, and promises the gift of the Holy Spirit to all whom the Lord calls, urging them to save themselves from this perverse generation.",
+      "relevance": "The conversion pattern establishes that entering salvation requires active human response: 'repent' (imperative), 'be baptized' (imperative), 'save yourselves from this perverse generation' (imperative). The command 'save yourselves' frames salvation as requiring the audience's participation, not as an automatic bestowment. At the same time, 'as many as the Lord our God will call to Himself' affirms divine initiative. The architecture of entry-by-active-response bears indirectly on whether continued response matters for maintaining standing.",
+      "key_phrases": ["Repent, and each of you be baptized", "for the forgiveness of your sins", "you will receive the gift of the Holy Spirit", "Save yourselves from this perverse generation", "as many as the Lord our God will call to Himself"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:41-47",
+      "section_title": "The Formation of the Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "Three thousand are baptized and the community devotes itself to the apostles' teaching, fellowship, breaking of bread, and prayer, sharing possessions according to need, with the Lord daily adding 'those who were being saved' (present participle)."
+    }
+  ]
+}

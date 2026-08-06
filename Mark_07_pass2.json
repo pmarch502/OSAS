@@ -1,0 +1,36 @@
+{
+  "book": "Mark",
+  "chapter": 7,
+  "sections": [
+    {
+      "reference": "7:1-5",
+      "section_title": "The Challenge from Jerusalem",
+      "category": "NOT_APPLICABLE",
+      "summary": "Pharisees and scribes from Jerusalem challenge Jesus about his disciples eating with unwashed hands, invoking the tradition of the elders rather than Torah itself."
+    },
+    {
+      "reference": "7:6-13",
+      "section_title": "Jesus's Response -- Tradition Against Commandment",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus accuses the Pharisees of abandoning God's commandment in favor of human tradition, citing Isaiah 29:13 and illustrating with the Corban practice that allows a person to evade the duty of supporting parents."
+    },
+    {
+      "reference": "7:14-23",
+      "section_title": "What Defiles a Person",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares that defilement comes from within the heart rather than from external contact, listing twelve internal sources of moral defilement; the author adds the interpretive note that Jesus thereby declared all foods clean."
+    },
+    {
+      "reference": "7:24-30",
+      "section_title": "The Syrophoenician Woman",
+      "category": "NOT_APPLICABLE",
+      "summary": "A Gentile woman in the region of Tyre asks Jesus to heal her demon-possessed daughter; Jesus uses a metaphor of children's bread and dogs, the woman accepts the framework but argues from within it, and Jesus heals her daughter at a distance because of her answer."
+    },
+    {
+      "reference": "7:31-37",
+      "section_title": "The Deaf Man with the Speech Impediment in the Decapolis",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus heals a deaf man with a speech impediment in the Decapolis through physical touch and the Aramaic command 'Ephphatha'; the Gentile crowd declares 'He has done all things well,' echoing Genesis 1:31 and fulfilling Isaiah 35:5-6."
+    }
+  ]
+}

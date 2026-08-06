@@ -1,0 +1,70 @@
+{
+  "book": "John",
+  "chapter": 13,
+  "sections": [
+    {
+      "reference": "13:1-3",
+      "section_title": "Passover Setting and Theological Introduction",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the theological introduction as establishing Jesus's love 'to the end' (eis telos) and his knowledge of his divine origin, destiny, and the Father's grant of authority, framing everything that follows."
+    },
+    {
+      "reference": "13:4-5",
+      "section_title": "The Foot-Washing",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the foot-washing as an enacted parable of Jesus's impending death -- the one from God strips himself and serves, foreshadowing the cross."
+    },
+    {
+      "reference": "13:6-11",
+      "section_title": "Exchange with Peter",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Peter's resistance to the washing and Jesus's insistence that without it Peter has 'no part with me,' followed by the distinction between those who are clean and the one who is not.",
+      "relevance": "The neutral reading identifies 'If I do not wash you, you have no part with me' (v.8) as establishing that having a share (meros) with Jesus is conditional on receiving what he offers. Further, 'You are clean, but not all of you' (v.10) draws a distinction within the group of twelve: all were washed, but one is not clean. Judas was present, was washed, and yet is excluded from the cleanness the others share. This distinguishes between external participation and genuine standing.",
+      "key_phrases": ["if I do not wash you, you have no part with me", "you are clean, but not all of you", "he knew the one who was betraying him"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:12-17",
+      "section_title": "Interpretation of the Foot-Washing",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's interpretation of the foot-washing as establishing a pattern of mutual service that the disciples are to replicate, with blessing explicitly conditioned on doing.",
+      "relevance": "The neutral reading identifies 'If you know these things, you are blessed if you do them' (v.17) as making the blessing conditional on action, not merely on knowledge. The double conditional (know + do) is consistent with the document's pattern of linking promise to ongoing response.",
+      "key_phrases": ["if you know these things, you are blessed if you do them"],
+      "confidence": "low"
+    },
+    {
+      "reference": "13:18-20",
+      "section_title": "The Betrayer and Scripture Fulfillment",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's acknowledgment that not all who were chosen will remain faithful, with Judas's betrayal fulfilling Scripture while still being a genuine departure from the chosen group.",
+      "relevance": "The neutral reading notes that Jesus states 'I know the ones I have chosen' (v.18) while simultaneously acknowledging that one of those chosen will betray him. The choosing did not prevent the departure. The citation of Psalm 41:9 frames the betrayal as intimate -- 'he who eats my bread has lifted up his heel against me' -- meaning the betrayer was genuinely within the fellowship, not an outsider. This complicates any reading in which election automatically guarantees perseverance.",
+      "key_phrases": ["I do not speak of all of you", "I know the ones I have chosen", "he who eats my bread has lifted up his heel against me"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:21-30",
+      "section_title": "Identification and Departure of the Betrayer",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Judas's departure as the moment when Satan enters him and he goes out into the night, with the other disciples unaware of the significance of his leaving.",
+      "relevance": "The neutral reading notes the symbolic weight of Judas going 'out into the night' (v.30), connecting this to the document's light/darkness framework. The entry of Satan into Judas (v.27) after the morsel marks the completion of a process of turning. The fact that the other disciples did not recognize the significance -- some thought Jesus sent Judas on an errand -- indicates that the departure of one from among the group was not outwardly obvious until the final act.",
+      "key_phrases": ["Satan then entered into him", "he went out immediately; and it was night"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:31-35",
+      "section_title": "The New Commandment",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the new commandment to love one another as the identifying mark of Jesus's community, establishing the standard of mutual love modeled on Jesus's own love."
+    },
+    {
+      "reference": "13:36-38",
+      "section_title": "Peter's Boast and Prediction of Denial",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Peter's premature confidence and Jesus's prediction of threefold denial, illustrating the gap between a disciple's self-assessment and the reality of coming testing."
+    }
+  ]
+}

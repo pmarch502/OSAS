@@ -1,0 +1,36 @@
+{
+  "book": "Romans",
+  "chapter": 16,
+  "sections": [
+    {
+      "reference": "16:1-2",
+      "section_title": "The Commendation of Phoebe",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul commends Phoebe, a diakonos of the church at Cenchreae and a prostatis (patron and benefactor) of many including Paul himself, asking the Roman community to welcome her in the Lord in a manner worthy of the saints and to assist her in whatever business she has."
+    },
+    {
+      "reference": "16:3-16",
+      "section_title": "Greetings to Persons in the Roman Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul sends greetings to over twenty-five named individuals and their associated households and house-churches in Rome, characterizing them as fellow workers, kinsmen, beloved, approved in Christ, and laborers in the Lord -- a diverse network of Jewish and Gentile, slave and free, male and female believers that embodies the community the letter's argument has been building toward."
+    },
+    {
+      "reference": "16:17-20",
+      "section_title": "Warning Against Divisive Persons",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul warns against persons who cause divisions and stumbling blocks contrary to the teaching the community received; these persons 'do not serve our Lord Christ but their own appetites' and deceive the innocent through smooth speech; Paul expresses confidence in the community's obedience and promises that 'the God of peace will soon crush Satan under your feet.'"
+    },
+    {
+      "reference": "16:21-24",
+      "section_title": "Greetings from Paul's Companions",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul conveys greetings from his companions in Corinth -- Timothy, Jewish kinsmen Lucius, Jason, and Sosipater, the amanuensis Tertius who identifies himself as writing the letter, host Gaius, city treasurer Erastus, and Quartus -- revealing the social diversity of the sending community."
+    },
+    {
+      "reference": "16:25-27",
+      "section_title": "The Doxology -- The Mystery Revealed to All Nations",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul closes with a doxology praising God 'who is able to establish you' according to the gospel and the revelation of the mystery kept silent for ages but now disclosed through the prophetic scriptures to all nations 'to bring about the obedience of faith' -- forming an inclusio with 1:5 and sealing the letter's entire argument with the same phrase ('obedience of faith') that opened it."
+    }
+  ]
+}

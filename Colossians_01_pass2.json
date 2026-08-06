@@ -1,0 +1,50 @@
+{
+  "book": "Colossians",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul, an apostle of Christ Jesus by the will of God, and Timothy address the saints and faithful brothers in Christ at Colossae with grace and peace from God our Father."
+    },
+    {
+      "reference": "1:3-8",
+      "section_title": "Thanksgiving -- The Report of Their Faith",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul gives thanks for the Colossians' faith in Christ Jesus and love for all the saints, grounded in the hope laid up for them in heaven. The gospel has been bearing fruit and increasing since the day they heard and understood the grace of God in truth from Epaphras, their faithful minister. The section validates their original reception of the gospel and establishes Epaphras's reliability as a gospel messenger. Its primary concern is the authenticity of what they received, not the question of whether their standing is permanent or conditional."
+    },
+    {
+      "reference": "1:9-14",
+      "section_title": "Prayer for the Community and the Father's Rescue",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul prays for the Colossians to be filled with knowledge of God's will, to walk worthily, to bear fruit, to grow in knowledge, and to be strengthened for endurance. He gives thanks to the Father who qualified them for the inheritance of the saints in Light, rescued them from the domain of darkness, and transferred them to the kingdom of his beloved Son, in whom they have redemption and forgiveness of sins.",
+      "relevance": "The section contains two movements. The prayer (vv.9-12a) seeks ongoing growth in knowledge, fruitfulness, and endurance, implying these require development. The rescue narrative (vv.12b-14) presents God's acts in completed terms: He qualified, rescued, transferred, and redeemed. The Exodus pattern is explicit -- as God delivered Israel from Egypt, so the Father has rescued the community from the domain of darkness and relocated them into the kingdom of his beloved Son. The completed verbs (qualified, rescued, transferred) describe accomplished changes of status that lean toward permanence. The redemption and forgiveness of sins are presented as present possessions ('in whom we have redemption'). The passage leans permanent because it attributes the community's new position entirely to God's initiative and completed action, though the prayer for ongoing growth and endurance in vv.9-12a qualifies the picture by indicating the community is not yet at its destination in terms of practical godliness.",
+      "key_phrases": ["qualified us to share in the inheritance of the saints in Light", "rescued us from the domain of darkness", "transferred us to the kingdom of His beloved Son", "in whom we have redemption, the forgiveness of sins"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:15-20",
+      "section_title": "The Messiah's Relationship to Creation and Reconciliation",
+      "category": "NOT_APPLICABLE",
+      "summary": "The passage declares the Messiah's supremacy in two domains: creation (vv.15-17) and reconciliation (vv.18-20). He is the image of the invisible God, the firstborn of all creation, the one in whom, through whom, and for whom all things were created. He is the head of the body, the church, the firstborn from the dead, the one in whom all the fullness was pleased to dwell, and through whom all things are reconciled by the blood of his cross. This is a Christological passage establishing who the Messiah is and what God has accomplished through him, rather than a direct argument about whether the believer's standing is permanent or conditional."
+    },
+    {
+      "reference": "1:21-23",
+      "section_title": "Application to the Colossians -- Reconciliation and Its Condition",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The cosmic reconciliation of vv.15-20 is applied personally to the Colossians. Though they were formerly alienated, hostile in mind, and engaged in evil deeds, God has now reconciled them in the Messiah's fleshly body through death, in order to present them holy, blameless, and beyond reproach before him -- if indeed they continue in the faith, firmly established and steadfast, and not moved away from the hope of the gospel.",
+      "relevance": "This is one of the most directly relevant passages in the entire New Testament to the question of whether the believer's standing is permanent or conditional. The conditional particle 'eige' ('if indeed, provided that') introduces a genuine contingency into the argument. The neutral reading is emphatic: 'The conditional in this verse is not a throwaway formality. It introduces a genuine contingency into the passage's argument.' The reconciliation is real and accomplished (v.22a), the purpose is the community's presentation before God as holy, blameless, and beyond reproach (v.22b), but this presentation is explicitly conditioned on three ongoing postures: (1) continuing in the faith, (2) remaining firmly established and steadfast, and (3) not being moved away from the hope of the gospel. The neutral reading concludes: 'The author does not treat the community's continuation as automatic or guaranteed. He treats it as a real responsibility that corresponds to a real danger.' The three descriptions of the required posture all use language that presupposes the possibility of failure: one can discontinue, become unsteady, and be shifted. The passage directly and forcefully states that the outcome of reconciliation (presentation before God) depends on ongoing faithfulness.",
+      "key_phrases": ["if indeed you continue in the faith", "firmly established and steadfast", "not moved away from the hope of the gospel", "to present you before Him holy and blameless and beyond reproach"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:24-29",
+      "section_title": "Paul's Ministry -- Suffering, Mystery, and Maturity",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes his apostolic ministry: he rejoices in his sufferings for the community's sake, filling up what is lacking in the Messiah's afflictions. He has been made a steward of God's word to disclose the mystery hidden from ages but now revealed -- Christ among/in the Gentiles, the hope of glory. He labors to present every person complete in Christ, striving according to divine power at work in him."
+    }
+  ]
+}

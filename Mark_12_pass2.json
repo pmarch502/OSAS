@@ -1,0 +1,60 @@
+{
+  "book": "Mark",
+  "chapter": 12,
+  "sections": [
+    {
+      "reference": "12:1-12",
+      "section_title": "The Vineyard, the Tenants, and the Rejected Stone",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus tells a parable drawn from Isaiah 5 in which God (the vineyard owner) sends servants (the prophets) to corrupt tenants (Israel's leaders) who beat and kill them, and finally sends his beloved son whom the tenants also kill; the owner will destroy the tenants and give the vineyard to others, and the stone the builders rejected becomes the cornerstone.",
+      "relevance": "The parable directly addresses the question of whether those entrusted with God's purposes can lose their position. The tenants were placed in charge of God's vineyard -- they had a real, authorized standing as stewards of God's project. Their unfaithfulness resulted in the vineyard being taken from them and given to others. While the primary referent is Israel's leadership rather than individual believers, the principle is clear: standing before God as a steward of his purposes is conditional on faithfulness. The corrupt tenants had genuine authorization but lost it through persistent rebellion. The passage operates at the corporate/institutional level rather than the individual level, which prevents a STRONG classification, but the underlying logic -- that God removes unfaithful stewards and replaces them -- has direct implications for any person or community entrusted with God's work.",
+      "key_phrases": ["He will come and put the vine-growers to death, and give the vineyard to others", "A stone which the builders rejected, this has become the chief cornerstone", "beloved son; he sent him to them last of all"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "12:13-17",
+      "section_title": "The Tax Trap -- Caesar's Image and God's",
+      "category": "NOT_APPLICABLE",
+      "summary": "Pharisees and Herodians try to trap Jesus with a question about paying taxes to Caesar; Jesus escapes by reframing the question -- give Caesar what bears Caesar's image (coins) and give God what bears God's image (yourselves)."
+    },
+    {
+      "reference": "12:18-27",
+      "section_title": "The Resurrection Question -- God of the Living",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Sadducees challenge Jesus with a puzzle about levirate marriage and resurrection; Jesus corrects their errors about both scripture and God's power, arguing from Exodus 3:6 that God's ongoing identification as 'the God of Abraham, Isaac, and Jacob' implies the patriarchs are still alive to God, because God is the God of the living, not the dead.",
+      "relevance": "The passage establishes that God's covenant faithfulness to his partners does not terminate at death. The argument rests on the present tense of God's self-identification: God says 'I am' the God of Abraham, not 'I was.' The relationship that defines who God is persists beyond the death of the human partner. If God's identity is bound to his covenant partners and he does not abandon them to nonexistence, this supports the view that God's commitment to those in covenant with him is enduring. However, the passage addresses God's faithfulness to covenant partners rather than the specific question of whether covenant partners can walk away during their lifetime. The permanence established here is about God's side of the relationship -- his unwavering faithfulness -- rather than about the impossibility of the human partner breaking faith.",
+      "key_phrases": ["I am the God of Abraham, the God of Isaac, and the God of Jacob", "He is not the God of the dead, but of the living"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "12:28-34",
+      "section_title": "The Greatest Commandment -- Love as the Center",
+      "category": "NOT_APPLICABLE",
+      "summary": "A scribe asks about the foremost commandment; Jesus answers with the Shema (love God with all heart, soul, mind, strength) and Leviticus 19:18 (love neighbor as self); the scribe affirms that love surpasses all sacrifices, and Jesus tells him he is 'not far from the kingdom of God.'"
+    },
+    {
+      "reference": "12:35-37",
+      "section_title": "David's Son and David's Lord",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus poses a question about how the Messiah can be David's son when David himself, in Psalm 110:1, calls the Messiah 'Lord,' arguing that the Messiah transcends Davidic descent and is enthroned at God's right hand."
+    },
+    {
+      "reference": "12:38-40",
+      "section_title": "Warning Against the Scribes",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus warns publicly against scribes who seek honor through religious performance while devouring widows' houses, declaring they will receive greater condemnation.",
+      "relevance": "The passage establishes the principle that religious position and visible piety do not protect from judgment -- indeed, they intensify it. The scribes occupy the highest positions of religious authority and display the outward markers of devotion (long robes, prominent seats, lengthy prayers), yet their conduct results in 'greater condemnation' (perissoteron krima). The conditional element is that their judgment is described as proportional to their privilege: 'greater' condemnation precisely because they used their religious position for exploitation. If those with the greatest institutional standing before God face the greatest condemnation for unfaithfulness, then standing before God is not a protection but an intensification of accountability.",
+      "key_phrases": ["who devour widows' houses, and for appearance's sake offer long prayers", "These will receive all the more condemnation"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "12:41-44",
+      "section_title": "The Widow at the Treasury",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus observes a poor widow depositing her last two coins into the temple treasury, declaring she gave more than all the wealthy contributors because she gave everything she had to live on -- functioning in context not as praise of her generosity but as an illustration of the temple system's exploitation of the vulnerable."
+    }
+  ]
+}

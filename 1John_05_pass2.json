@@ -1,0 +1,84 @@
+{
+  "book": "1 John",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-3",
+      "section_title": "Faith, Love, and Commandment-Keeping as an Indivisible Reality",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that believing Jesus is the Christ, loving God, loving God's children, and keeping God's commandments are woven into a single inseparable reality, with love for God defined as keeping his commandments.",
+      "relevance": "The passage defines love for God in behavioral terms: 'this is the love of God, that we keep his commandments.' The diagnostic method continues from the entire letter: the community's relationship with God is verified by ongoing obedience. The present subjunctive verbs (poiomen, teromen) indicate habitual, ongoing practice. The passage integrates faith, love, and obedience so tightly that none can exist without the others, implying that the believer's standing requires all three as a continuing reality rather than a one-time transaction. A person who stops keeping the commandments has, by this definition, stopped loving God.",
+      "key_phrases": ["this is the love of God, that we keep his commandments", "everyone who believes that Jesus is the Christ has been born of God", "everyone who loves the one who begot loves the one begotten of him", "his commandments are not burdensome"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:4-5",
+      "section_title": "The Victory That Overcomes the World -- Faith",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that whatever is born of God overcomes the world, that the victory that has already overcome the world is the community's faith, and that the one who believes Jesus is the Son of God is the one who overcomes.",
+      "relevance": "The passage provides strong language of accomplished victory. The aorist participle nikesasa ('that has overcome') treats the victory as a completed, accomplished reality, not a process in progress. The neuter pan to gegennemenon ('whatever has been born of God') generalizes the principle: the divine birth itself carries the overcoming quality. The basis of victory is not human effort but faith directed toward a specific christological confession. This supports permanence by grounding the believer's victory in the power inherent in divine birth and in faith's content rather than in the believer's sustained performance. However, the present tense nika ('overcomes') in v. 4 indicates an ongoing, characteristic reality rather than a single past event, and the community's faith is still defined by its specific content -- believing that Jesus is the Son of God.",
+      "key_phrases": ["whatever has been born of God overcomes the world", "this is the victory that has overcome the world -- our faith", "who is the one who overcomes the world, but the one who believes that Jesus is the Son of God"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:6-8",
+      "section_title": "The Threefold Testimony -- Spirit, Water, and Blood",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading found that Jesus Christ came by water and blood (not by water only), countering opponents who separated the divine Christ from the human Jesus at the crucifixion, and that the threefold testimony of Spirit, water, and blood converges on the single truth that the baptized and crucified one are the same person."
+    },
+    {
+      "reference": "5:9-12",
+      "section_title": "God's Testimony and the Life That Is in the Son",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that God's testimony concerns his Son, that refusing this testimony makes God a liar, that God gave the community eternal life located in the Son, and that the one who has the Son has life while the one who does not have the Son does not have life.",
+      "relevance": "The passage provides a binary that supports assurance: 'the one who has the Son has the life; the one who does not have the Son of God does not have the life.' The emphasis is on present possession: the present participle echon ('having') describes a current, ongoing relationship, and the life is located in the Son rather than existing as a detachable commodity. The neutral reading explicitly noted: 'The life is not a detachable possession that can be separated from the Son; it remains in him. To have the Son is to have the life; to lose the Son is to lose the life.' This primarily supports permanence by grounding assurance in the present relationship with the Son. However, the relational and present-tense framing also implies that the life depends on the ongoing state of 'having' the Son -- a relationship that the letter's departed teachers demonstrate can be abandoned.",
+      "key_phrases": ["God gave us eternal life, and this life is in his Son", "the one who has the Son has the life", "the one who does not have the Son of God does not have the life", "the one who does not believe God has made him a liar"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:13",
+      "section_title": "The Letter's Purpose Statement",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "The neutral reading found that the purpose of the entire letter is so that those who believe in the name of the Son of God may know with settled confidence that they have eternal life as a present possession.",
+      "relevance": "This verse is conventionally cited to support permanence: believers can know they have eternal life, and this knowledge is presented as a settled certainty (eidete, perfect subjunctive of oida, indicating clear and certain knowledge). The present tense echete ('you have') treats eternal life as a current possession, not a future hope. The neutral reading supports this at face value: 'The community is not told to hope for eternal life, to seek eternal life, or to wait for eternal life. They are told to know that they have it now.' However, the neutral reading also placed this purpose statement in the context of the entire letter's diagnostic tests -- the community can know it has eternal life because it believes, loves, and obeys. The assurance is for those who meet the letter's criteria. The verse itself specifies its audience: 'to you who believe in the name of the Son of God.' The assurance is for current believers, about their current state.",
+      "key_phrases": ["these things I have written to you who believe in the name of the Son of God", "so that you may know that you have eternal life"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:14-15",
+      "section_title": "Confidence in Prayer",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading found that the community's confidence in prayer is grounded in the assurance that God hears requests made according to his will, and that the community can know it possesses what it has asked because God's hearing is a reliable, consistent response."
+    },
+    {
+      "reference": "5:16-17",
+      "section_title": "The Sin Unto Death and Intercession for the Brother",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found that the community should intercede for a brother whose sin does not lead to death, but that there exists a category of sin that does lead to death -- identified within the letter's argument as the settled, deliberate denial of the Son that severs connection to the life located in him.",
+      "relevance": "The passage presupposes that there is a category of sin that leads to death, even for those within or adjacent to the community. The neutral reading identified this as the apostasy of the departed teachers who deny the Son and thereby sever themselves from the life that is in him (5:12). The distinction between sin 'not leading to death' and sin 'leading to death' implies that spiritual death is a possible outcome for some sin, and the neutral reading grounded this in the Torah's distinction between inadvertent sin (for which atonement was available) and high-handed sin (for which no sacrificial remedy was prescribed, Numbers 15:30-31). The passage acknowledges that some sin -- specifically the deliberate, sustained rejection of God's testimony about his Son -- moves 'toward death' because it severs the connection to the Son in whom alone life exists.",
+      "key_phrases": ["there is a sin leading to death", "I do not say that he should ask about that", "if anyone sees his brother committing a sin not leading to death, he shall ask, and God will give him life", "all unrighteousness is sin, and there is sin not leading to death"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:18-20",
+      "section_title": "Three Settled Convictions -- We Know",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading found three summary convictions: the one born of God does not habitually sin because the Son keeps him and the evil one does not touch him; the community is from God while the whole world lies in the evil one; and the Son of God has come and given understanding so the community may know the true God, in whom they exist through his Son Jesus Christ.",
+      "relevance": "The passage provides significant support for the believer's security. The first conviction states that 'the one who was born of God keeps him' -- identified by the neutral reading as Jesus, the unique Son, who actively guards the believer -- and that 'the evil one does not touch him.' This echoes Jesus's prayer in John 17:11-12 and presents the believer's protection as Christ's ongoing work. The second conviction establishes a binary between being 'from God' and lying 'in the evil one,' with the community firmly on God's side. The third conviction affirms that the Son has given the community understanding (dianoia) to know the true God. All three convictions are stated with oidamen (settled, certain knowledge). The passage supports permanence by emphasizing divine protection and settled identity. However, the neutral reading noted that the protection is relational -- it is 'not automatic or detached from the relationship with the Son; it is the Son's active guardianship' -- maintaining the relational framework of the entire letter.",
+      "key_phrases": ["no one who is born of God sins", "the one who was born of God keeps him, and the evil one does not touch him", "we know that we are of God, and the whole world lies in the power of the evil one", "we are in the one who is true, in his Son Jesus Christ", "this is the true God and eternal life"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:21",
+      "section_title": "The Closing Command -- Guard Yourselves from Idols",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading found that the closing imperative compresses the entire letter into a single command: guard against every false representation of God, whether the literal images of Greco-Roman polytheism or the theological counterfeits of the departed teachers' christological denials."
+    }
+  ]
+}

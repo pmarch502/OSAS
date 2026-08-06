@@ -1,0 +1,94 @@
+{
+  "book": "Luke",
+  "chapter": 8,
+  "sections": [
+    {
+      "reference": "8:1-3",
+      "section_title": "The Ministry Entourage",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus travels through cities and villages proclaiming the kingdom of God, accompanied by the twelve and by women who had been healed -- including Mary Magdalene, Joanna the wife of Herod's steward, and Susanna -- who support the ministry from their own resources, modeling the good-soil response of hearing, holding fast, and bearing fruit."
+    },
+    {
+      "reference": "8:4-8",
+      "section_title": "The Parable of the Sower and the Soils",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus tells a parable of a sower whose seed falls on four types of ground -- the road, rocky soil, among thorns, and good soil -- with only the good soil producing a crop, depicting a spectrum of responses to the word in which most fail and only one endures to fruitfulness.",
+      "relevance": "The parable establishes that receiving the same word does not produce the same outcome. Three of four soils fail: one never receives the seed, one receives it but withers quickly, and one grows but is eventually choked. Only the fourth produces lasting fruit. The framework implies that initial reception of the word does not guarantee a final fruitful outcome; the condition of the soil determines whether the seed persists. The theological application, made explicit in the interpretation that follows, will directly address whether initial belief guarantees enduring standing.",
+      "key_phrases": ["as soon as it grew up it withered away because it had no moisture", "the thorns grew up with it and choked it out", "fell into the good soil and grew up and produced a crop a hundred times as great", "He who has ears to hear let him hear"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "8:9-10",
+      "section_title": "The Purpose of Parables",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus distinguishes between the disciples, to whom it has been granted to know the mysteries of the kingdom, and the rest, for whom parables function as a filter revealing existing blindness rather than creating it, citing Isaiah 6:9."
+    },
+    {
+      "reference": "8:11-15",
+      "section_title": "The Interpretation of the Parable",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus interprets the four soils: the road represents those from whom the devil removes the word before they believe and are saved; the rocky soil represents those who believe for a while but fall away in time of temptation; the thorny soil represents those choked by worries, riches, and pleasures who bring no fruit to maturity; and the good soil represents those who hear in an honest heart, hold fast, and bear fruit with perseverance.",
+      "relevance": "This passage directly addresses whether initial belief guarantees enduring standing before God. The rocky-soil hearers 'believe for a while' (pros kairon pisteuousin) using the same word for belief that verse 12 connects to being saved, then 'fall away' (aphistantai -- depart, apostatize) when testing comes. The neutral reading explicitly states: 'These are not people who never believed; they believed genuinely but temporarily. When external pressure came, they departed.' The implication is that initial faith does not automatically guarantee final perseverance. Furthermore, the good soil is defined not merely by hearing or even by initial belief but by holding fast (katechousin) and bearing fruit with perseverance (en hypomonē) -- making endurance a requirement, not an automatic result, of genuine reception. The passage presents a category of real-but-temporary faith that does not result in final salvation, directly challenging the premise that once-established belief cannot be lost.",
+      "key_phrases": ["they believe for a while and in time of temptation fall away", "so that they will not believe and be saved", "choked with worries and riches and pleasures of this life and bring no fruit to maturity", "heard the word in an honest and good heart and hold it fast and bear fruit with perseverance"],
+      "confidence": "high"
+    },
+    {
+      "reference": "8:16-18",
+      "section_title": "The Lamp and the Warning about Hearing",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus teaches that a lamp is meant to be placed on a stand for illumination, that nothing hidden will remain concealed, and warns that the manner of hearing matters -- whoever has will receive more, but whoever does not have will lose even what he thinks he has.",
+      "relevance": "The warning that 'whoever does not have, even what he thinks he has shall be taken away from him' directly follows the soils parable and extends its logic. A person may suppose they possess understanding or standing (dokei echein -- 'thinks he has'), but this supposed possession can be lost. The quality of one's hearing determines whether one accumulates more or loses what was seemingly gained. This reinforces the conditional dynamic of the soils: what appears to be genuine reception can be revealed as inadequate, and what seems securely held can be taken away.",
+      "key_phrases": ["take care how you listen", "whoever has to him more shall be given", "whoever does not have even what he thinks he has shall be taken away from him"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "8:19-21",
+      "section_title": "Jesus's True Family",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "When told that his mother and brothers are waiting to see him, Jesus redefines family membership: 'My mother and My brothers are these who hear the word of God and do it,' establishing ongoing hearing and doing as the criterion for belonging to his community.",
+      "relevance": "Jesus defines membership in the family of God not by biological descent, ethnic identity, or a one-time decision but by present-tense participles: 'hearing' (akouontes) and 'doing' (poiountes). Belonging is characterized by ongoing action, not by a past event. This aligns with the good-soil description (holding fast and bearing fruit with perseverance) and with the two builders (hearing and doing vs. hearing without doing). The implication is that standing within Jesus's community is defined by continuous faithful response to the word, which introduces a conditional element.",
+      "key_phrases": ["My mother and My brothers are these who hear the word of God and do it"],
+      "confidence": "low"
+    },
+    {
+      "reference": "8:22-25",
+      "section_title": "Authority over Nature -- Stilling the Storm",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus stills a storm on the Sea of Galilee with a rebuke, demonstrating authority over nature that the Psalms assign to God alone, and challenges the disciples with 'Where is your faith?' while they ask in awe 'Who then is this?'"
+    },
+    {
+      "reference": "8:26-33",
+      "section_title": "Authority over the Demonic -- The Gerasene Demoniac",
+      "category": "NOT_APPLICABLE",
+      "summary": "In Gentile territory, Jesus encounters a man possessed by a legion of demons who recognizes him as Son of the Most High God, casts the demons into a herd of swine that drowns in the lake, and completely restores the man from total dehumanization to clothed sanity."
+    },
+    {
+      "reference": "8:34-39",
+      "section_title": "The Response of the Gerasenes",
+      "category": "NOT_APPLICABLE",
+      "summary": "The healed man is found clothed and in his right mind at Jesus's feet, but the local population asks Jesus to leave out of fear, while the healed man is commissioned to return home and proclaim what God has done -- becoming the first evangelist to the Gentiles in Luke's narrative."
+    },
+    {
+      "reference": "8:40-42a",
+      "section_title": "Two Urgent Needs Intertwined",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jairus, a synagogue official, falls at Jesus's feet and begs him to come to his house because his only daughter, about twelve years old, is dying."
+    },
+    {
+      "reference": "8:42b-48",
+      "section_title": "The Woman with a Flow of Blood",
+      "category": "NOT_APPLICABLE",
+      "summary": "A woman with a twelve-year hemorrhage touches the fringe of Jesus's garment and is immediately healed, then Jesus insists on identifying her publicly, brings her out of concealment, and declares 'Your faith has saved you; go in peace' -- the same declaration made to the sinful woman in chapter 7."
+    },
+    {
+      "reference": "8:49-56",
+      "section_title": "Authority over Death -- Raising Jairus's Daughter",
+      "category": "NOT_APPLICABLE",
+      "summary": "After news arrives that the girl has died, Jesus tells Jairus 'Do not be afraid; only believe, and she will be saved,' then raises the girl by taking her hand and commanding 'Child, arise!' -- demonstrating authority over death itself and challenging Jairus to maintain faith even when circumstances make it appear absurd."
+    }
+  ]
+}

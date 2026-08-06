@@ -1,0 +1,74 @@
+{
+  "book": "Luke",
+  "chapter": 21,
+  "sections": [
+    {
+      "reference": "21:1-4",
+      "section_title": "A Widow Consumed by the System",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to function as exhibit A in the case against the temple establishment: the widow who gives her entire livelihood to the very institution whose guardians devour widows' houses, illustrating the predatory reality Jesus condemned in 20:47 rather than simply modeling exemplary generosity."
+    },
+    {
+      "reference": "21:5-6",
+      "section_title": "The Prediction of the Temple's Destruction",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be Jesus's absolute prediction that the temple's beautiful stones and votive gifts will be completely dismantled, placing the temple in the same prophetic trajectory as Shiloh (Jeremiah 7:14) and the first temple -- sacred structures whose custodians turned them into instruments of injustice."
+    },
+    {
+      "reference": "21:7",
+      "section_title": "The Question",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this to be the question that anchors the entire discourse: when will the temple be destroyed, and what sign will precede it -- framed narrowly about one event (the temple's destruction), not about the end of the world."
+    },
+    {
+      "reference": "21:8-11",
+      "section_title": "What Is Not the Sign",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be a warning against false answers to the question of verse 7, explicitly ruling out false messiahs, wars, disturbances, earthquakes, plagues, famines, and heavenly signs as the answer -- these precede the end but are not the end itself."
+    },
+    {
+      "reference": "21:12-19",
+      "section_title": "The Experience of the Disciples Before the Tribulation",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading finds this passage to be a prediction that the disciples will face persecution from both Jewish and Roman authorities, betrayal from family and friends, and death for some, but that their endurance through these trials is the condition for gaining their lives.",
+      "relevance": "Verse 19 states the principle directly: 'By your endurance you will gain your lives.' The neutral reading is explicit that 'endurance is the condition. Not initial commitment, not a moment of decision, but sustained faithfulness through persecution, betrayal, hatred, and death. The one who endures gains what matters; the one who does not, does not.' This is a direct statement by Jesus about the condition for preserving one's life/soul, addressed to his own followers as part of his sustained argument about what the interim period will require. The Lukan form uses the active voice ('you will gain your lives') rather than Mark's passive ('will be saved'), emphasizing that gaining life is the outcome of enduring. The passage also affirms God's comprehensive care ('not a hair of your head will perish,' v. 18) even though 'they will put some of you to death' (v. 16), resolving the tension by distinguishing physical harm from ultimate preservation -- but ultimate preservation is conditioned on endurance.",
+      "key_phrases": ["By your endurance you will gain your lives", "they will put some of you to death", "you will be hated by all because of My name", "not a hair of your head will perish"],
+      "confidence": "high"
+    },
+    {
+      "reference": "21:20-24",
+      "section_title": "The Sign -- Jerusalem Surrounded by Armies",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this to be the answer to the question of verse 7: the sign is Roman armies surrounding Jerusalem, translating Mark's coded 'abomination of desolation' into a plain military description, with practical instructions to flee the city rather than seek shelter within it, as these are 'days of vengeance' fulfilling prophetic warnings."
+    },
+    {
+      "reference": "21:25-28",
+      "section_title": "Cosmic Signs and the Son of Man",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to employ prophetic 'de-creation' imagery -- the standard prophetic language for the overthrow of political powers -- to describe the vindication of the Son of Man, with the community of Jesus's followers told to 'straighten up and lift up your heads' because their redemption is drawing near, in contrast to the nations' terror."
+    },
+    {
+      "reference": "21:29-33",
+      "section_title": "The Fig Tree and 'This Generation'",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to anchor the discourse's predictions within the lifetime of Jesus's contemporaries ('this generation will not pass away until all things take place'), with the fig tree parable teaching the community to read the approaching events as naturally recognizable signs of the kingdom's nearness."
+    },
+    {
+      "reference": "21:34-36",
+      "section_title": "The Warning to Watch",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage to be a warning addressed to Jesus's followers that their hearts can be weighed down by dissipation, drunkenness, and the worries of life, making them vulnerable to being caught like a trap when the decisive day arrives, with the instruction to stay alert and pray for strength to escape and to stand before the Son of Man.",
+      "relevance": "The warning is directed at the community of Jesus's followers, not at outsiders. The instruction to pray 'that you may have strength to escape all these things' and 'to stand before the Son of Man' implies that these outcomes are not automatic. Standing before the Son of Man (the opposite of falling) requires vigilance and prayer; the alternative -- hearts weighed down by escapism or worldly anxiety -- results in being caught in the trap. The neutral reading connects this to 18:8 ('when the Son of Man comes, will He find faith on the earth?'), stating that 'those who pray, who stay alert, who do not let their hearts be weighed down, are the ones in whom faith will be found.' The passage assumes that the community's readiness for the Son of Man is conditional on their ongoing spiritual discipline, not guaranteed by their initial commitment.",
+      "key_phrases": ["Be on guard, so that your hearts will not be weighted down", "that day will not come on you suddenly like a trap", "praying that you may have strength to escape", "to stand before the Son of Man"],
+      "confidence": "high"
+    },
+    {
+      "reference": "21:37-38",
+      "section_title": "Summary -- The Pattern of Jesus's Final Days",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this to be a summary framing the section from 19:47 through 21:38 as a single block of temple teaching, with Jesus teaching daily in the temple and withdrawing nightly to the Mount of Olives while the people come early each morning to hear him."
+    }
+  ]
+}

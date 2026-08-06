@@ -1,0 +1,30 @@
+{
+  "book": "Matthew",
+  "chapter": 14,
+  "sections": [
+    {
+      "reference": "14:1-12",
+      "section_title": "Herod Hears About Jesus and Recalls John's Death",
+      "category": "NOT_APPLICABLE",
+      "summary": "Herod Antipas identifies Jesus as the risen John the Baptist, and the author narrates a flashback to John's imprisonment and execution, provoked by John's challenge to Herod's unlawful marriage and carried out through Herodias's manipulation at a birthday banquet."
+    },
+    {
+      "reference": "14:13-21",
+      "section_title": "The Feeding of the Five Thousand",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus withdraws upon hearing of John's death, has compassion on the pursuing crowds, and feeds five thousand men plus women and children with five loaves and two fish, producing twelve baskets of surplus in a wilderness setting that recalls the manna provision of Exodus."
+    },
+    {
+      "reference": "14:22-33",
+      "section_title": "Walking on the Sea",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus walks on the sea and identifies himself with ego eimi, rescues the sinking Peter who is rebuked as one of 'little faith,' and receives the disciples' worship and confession: 'Truly you are the Son of God.'"
+    },
+    {
+      "reference": "14:34-36",
+      "section_title": "Healings at Gennesaret",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus lands at Gennesaret where the people recognize him, bring all their sick, and as many as touch the fringe of his garment are completely healed."
+    }
+  ]
+}

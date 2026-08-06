@@ -1,0 +1,82 @@
+{
+  "book": "John",
+  "chapter": 11,
+  "sections": [
+    {
+      "reference": "11:1-4",
+      "section_title": "The Setting and the Purpose Statement",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies this section as establishing the purpose of Lazarus's illness -- not aimed at death but at the glory of God and the glorification of the Son."
+    },
+    {
+      "reference": "11:5-6",
+      "section_title": "The Deliberate Delay",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the two-day delay as flowing from Jesus's love and the Father's sovereign timing, not as bearing on the believer's standing."
+    },
+    {
+      "reference": "11:7-10",
+      "section_title": "The Decision to Return to Judea",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies this section as addressing Jesus's sovereign timing and the light/darkness metaphor applied to his ministry's appointed duration."
+    },
+    {
+      "reference": "11:11-16",
+      "section_title": "Lazarus Has Fallen Asleep",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents this section as establishing the purpose of the greater sign -- a four-day-dead raising rather than a healing -- 'so that you may believe,' aimed at deepening the disciples' faith."
+    },
+    {
+      "reference": "11:17-20",
+      "section_title": "Arrival at Bethany",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies this as narrative staging: the four-day detail, the proximity to Jerusalem, the presence of mourning witnesses, and the two sisters' contrasting responses."
+    },
+    {
+      "reference": "11:21-27",
+      "section_title": "Martha's Confession",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_by_both",
+      "summary": "The neutral reading identifies the 'I am the resurrection and the life' declaration as redefining resurrection from a future event to a present person, with promises framed in present-tense participial constructions describing ongoing states of believing and living.",
+      "relevance": "The neutral reading explicitly notes that the two present participles -- 'the one living' (ho zon) and 'the one believing' (ho pisteuon) -- describe ongoing states, and that 'the promise is for the one who is living and believing, not for one who once believed and then stopped.' The reading connects this to the present-tense grammar of 3:16, 6:35, 6:54, and 10:27, noting that the condition described is continuous. The promise 'will never die' (ou me apotheane eis ton aiona) is strong permanence language, but the neutral reading frames it as operative under the continuous condition of believing.",
+      "key_phrases": ["he who believes in me will live even if he dies", "everyone who lives and believes in me will never die", "ho pisteuon eis eme", "pas ho zon kai pisteuon eis eme"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "11:28-32",
+      "section_title": "Mary Comes to Jesus",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Mary's encounter with Jesus as a parallel to Martha's, with the same reproach ('if you had been here') but leading to Jesus's emotional response rather than theological exchange."
+    },
+    {
+      "reference": "11:33-37",
+      "section_title": "Jesus's Response to Grief",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies Jesus's agitation and tears as revealing that the one with sovereign authority over death is not indifferent to its devastation -- the shepherd's love enters the suffering of the sheep."
+    },
+    {
+      "reference": "11:38-44",
+      "section_title": "The Raising of Lazarus",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies the raising as the climactic sign demonstrating Jesus's authority over death, fulfilling the 'I am the resurrection and the life' declaration and previewing the general resurrection."
+    },
+    {
+      "reference": "11:45-46",
+      "section_title": "The Division Among Witnesses",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the divided response to the sign -- some believed, others reported to the Pharisees -- as consistent with the document's pattern that signs reveal the existing orientation of the heart rather than compelling universal belief."
+    },
+    {
+      "reference": "11:47-53",
+      "section_title": "The Council's Decision",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies Caiaphas's unwitting prophecy as the document's clearest statement of the purpose of Jesus's death: to gather the scattered children of God into unity, extending beyond the nation to all who will hear the shepherd's voice."
+    },
+    {
+      "reference": "11:54-57",
+      "section_title": "Withdrawal and the Approaching Passover",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus's withdrawal to Ephraim and the public speculation about his appearance at the Passover as narrative transition, establishing the setting for the final events."
+    }
+  ]
+}

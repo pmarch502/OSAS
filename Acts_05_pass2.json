@@ -1,0 +1,78 @@
+{
+  "book": "Acts",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-4",
+      "section_title": "Ananias and the Lie to the Holy Spirit",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Ananias, a member of the believing community, sells property and secretly withholds part of the proceeds while presenting a portion as the whole; Peter identifies this as Satan filling his heart to lie to the Holy Spirit and lying to God, while clarifying that the giving was entirely voluntary.",
+      "relevance": "A member of the believing community has his heart 'filled by Satan' (the same verb pleroo used for Spirit-filling at Pentecost, now with the opposite agent) and lies to the Holy Spirit. Peter's statement that lying to the Spirit is lying to God establishes that conduct within the community carries ultimate weight. The contrast between Spirit-filling and Satan-filling within the same community demonstrates that membership does not provide automatic immunity from the adversary's influence. The voluntary nature of the giving (5:4) makes the sin entirely a matter of heart disposition, not external compulsion.",
+      "key_phrases": ["why has Satan filled your heart to lie to the Holy Spirit", "You have not lied to men, but to God", "While it remained unsold, did it not remain your own?"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:5-6",
+      "section_title": "The Death of Ananias",
+      "category": "NOT_APPLICABLE",
+      "summary": "Ananias falls dead immediately upon hearing Peter's words, producing great fear among all who heard, and the young men bury him."
+    },
+    {
+      "reference": "5:7-10",
+      "section_title": "The Death of Sapphira",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Sapphira arrives three hours later, is given an independent opportunity to tell the truth, confirms the lie, and Peter identifies their joint act as 'putting the Spirit of the Lord to the test'; she falls dead and is buried beside her husband.",
+      "relevance": "Peter describes the couple's conspiracy as 'putting the Spirit of the Lord to the test' (peirasai to pneuma kyriou), deliberately connecting their act to Israel's testing of God at Massah and Meribah in the wilderness. The neutral reading notes this means they 'acted as though the Spirit's presence in the community could be deceived, as though God might not really be there.' Sapphira is given an explicit opportunity to tell the truth and independently confirms the lie, demonstrating that the consequence follows genuine, deliberate choice. Community members face ultimate consequences for their conduct toward the Spirit.",
+      "key_phrases": ["why is it that you have agreed together to put the Spirit of the Lord to the test", "the feet of those who have buried your husband are at the door"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:11",
+      "section_title": "Great Fear and the First Use of 'Ekklesia'",
+      "category": "NOT_APPLICABLE",
+      "summary": "Great fear comes over the whole church (the first use of ekklesia in Acts) and over all who heard, establishing the seriousness of integrity within the Spirit-filled community."
+    },
+    {
+      "reference": "5:12-16",
+      "section_title": "Signs, Wonders, and the Growth of the Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "The apostles perform many signs and wonders in Solomon's Portico; none dare join casually, yet believers are added in multitudes; the sick are brought from surrounding cities and all are healed."
+    },
+    {
+      "reference": "5:17-21a",
+      "section_title": "The Second Arrest and the Angel's Deliverance",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Sadducean leadership, filled with jealousy, arrests all the apostles; during the night an angel opens the prison and commands them to return to the temple and speak 'the whole message of this Life.'"
+    },
+    {
+      "reference": "5:21b-26",
+      "section_title": "The Empty Prison and the Apostles' Return",
+      "category": "NOT_APPLICABLE",
+      "summary": "The council convenes and sends for the prisoners, only to find the prison securely locked and empty; the apostles are found teaching in the temple and are brought back without violence because the officers fear the people."
+    },
+    {
+      "reference": "5:27-32",
+      "section_title": "Peter's Defense Before the Sanhedrin",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Peter declares that they must obey God rather than men, that God raised Jesus whom the council killed by hanging on a tree, exalted him as Prince and Savior to grant repentance and forgiveness to Israel, and that the Holy Spirit is given to those who obey God.",
+      "relevance": "Two elements bear directly on the question. First, repentance is described as a divine gift: God exalted Jesus 'to grant repentance to Israel, and forgiveness of sins' (5:31) -- the capacity to turn toward God is itself something the exalted Christ gives, not something humans generate independently. Second, the Spirit is given conditionally: 'the Holy Spirit, whom God has given to those who obey Him' (5:32). The neutral reading notes that the verb peitharcheo ('to obey') is used twice in this speech -- once for the apostles' obligation to obey God (5:29) and once for the condition of receiving the Spirit (5:32) -- creating a pointed contrast. The neutral reading explicitly states: 'The Spirit is not an unconditional deposit but a gift to the obedient.'",
+      "key_phrases": ["to grant repentance to Israel, and forgiveness of sins", "the Holy Spirit, whom God has given to those who obey Him", "We must obey God rather than men"],
+      "confidence": "high"
+    },
+    {
+      "reference": "5:33-39",
+      "section_title": "Gamaliel's Counsel",
+      "category": "NOT_APPLICABLE",
+      "summary": "Gamaliel, a Pharisee and respected teacher, counsels the Sanhedrin to leave the apostles alone, arguing that if the movement is human it will fail on its own, but if it is from God they cannot overthrow it and may be found fighting against God."
+    },
+    {
+      "reference": "5:40-42",
+      "section_title": "The Flogging, the Rejoicing, and the Continued Mission",
+      "category": "NOT_APPLICABLE",
+      "summary": "The apostles are flogged, commanded again to stop speaking in Jesus's name, and released; they depart rejoicing at being considered worthy to suffer for the Name, and continue teaching and preaching daily in the temple and from house to house."
+    }
+  ]
+}

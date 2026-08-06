@@ -1,0 +1,44 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-4",
+      "section_title": "The Devastating Application -- You Are Not Spiritual",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul tells the Corinthians he could not address them as spiritual people but as fleshly, as infants in Christ, citing their factionalism as proof that they are operating by human criteria rather than exercising the spiritual discernment they should possess."
+    },
+    {
+      "reference": "3:5-9",
+      "section_title": "The Agricultural Metaphor -- Servants in God's Field",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul redefines apostles as servants through whom the Corinthians believed, using an agricultural metaphor in which Paul planted, Apollos watered, but God alone gave the growth, concluding that neither planter nor waterer is anything and the community is God's field and building."
+    },
+    {
+      "reference": "3:10-15",
+      "section_title": "The Construction Metaphor -- Foundation, Builders, and Fire",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Paul describes himself as having laid the foundation (Jesus Christ) on which others build, warning that each builder's work will be tested by fire on the Day, with surviving work earning a reward and consumed work resulting in loss -- though the builder himself will be saved, as through fire.",
+      "relevance": "The passage directly addresses whether a person whose contribution to the community proves worthless will lose their standing before God. The neutral reading says the builder whose work burns 'is not destroyed with it' and 'the work perishes; the person survives,' with the future passive sothesetai ('will be saved') affirming ongoing standing despite failed labor. This leans toward permanence because the person's salvation survives the total loss of their work. However, the neutral reading carefully limits the scope: this passage addresses builders -- teachers and leaders -- and their ministry quality, not the general spiritual condition of all believers. The neutral reading also insists this scenario must be distinguished from the immediately following temple-destruction warning (3:16-17), where the outcome is far more severe.",
+      "key_phrases": ["he will suffer loss", "though he himself will be saved", "but only as through fire", "the fire itself will test what sort of work each one has done"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:16-17",
+      "section_title": "The Temple Warning -- Destruction Brings Destruction",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul identifies the community as God's temple where the Spirit dwells and warns that anyone who destroys God's temple will be destroyed by God, because the temple is holy.",
+      "relevance": "This passage directly states that a person within the community can face God's destruction as a consequence of their destructive behavior. The neutral reading carefully distinguishes this from the preceding scenario (3:14-15): 'The difference is between building poorly and destroying.' A builder whose work is poor suffers loss of reward but is personally saved. A person who destroys the temple -- the community, God's dwelling place -- faces God's own destroying action (phtherei touton ho theos). The neutral reading identifies the Corinthians' factionalism as precisely this kind of temple-destruction: 'The faction-promoters, those who divide the community along the lines of teacher-allegiance, are engaging in temple-destruction.' The warning is addressed to people within the believing community and uses the lex talionis pattern: what you do to God's dwelling, God does to you. This is Paul's own sustained argument, not an aside or illustration.",
+      "key_phrases": ["If anyone destroys God's temple, God will destroy him", "God's temple is holy", "you are that temple"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:18-23",
+      "section_title": "The Final Inversion -- All Things Are Yours",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul prohibits boasting in human beings and inverts the Corinthians' framework: all things belong to the community -- including their teachers -- and the community belongs to Christ, and Christ belongs to God, establishing the proper chain of belonging."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "book": "Mark",
+  "chapter": 10,
+  "sections": [
+    {
+      "reference": "10:1-12",
+      "section_title": "Marriage, Divorce, and God's Original Design",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus grounds marriage in God's creational intent rather than Mosaic concession, teaching that divorce was permitted because of hardness of heart but that God's original purpose was indissoluble union, and privately tells the disciples that remarriage after divorce constitutes adultery."
+    },
+    {
+      "reference": "10:13-16",
+      "section_title": "Children and the Kingdom -- Who Can Receive It",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus declares that the kingdom of God belongs to 'such as these' (children) and that whoever does not receive it like a child will not enter it at all, rebuking the disciples for turning children away.",
+      "relevance": "The passage establishes that the kingdom must be received in the posture of a child -- one who has no status, no credentials, and nothing to offer in exchange. The double negative (ou me) creates the strongest possible denial of entry for those who fail this condition. While the passage directly addresses the mode of initial entry rather than ongoing standing, it implies that the kingdom is inherently a gift received by empty hands rather than a possession secured by achievement. Since the passage contrasts children (who receive) with the disciples (who tried to gatekeep) and the rich man who follows (who could not let go), the receiving posture appears to be an ongoing requirement rather than a one-time event. If the kingdom can only be held by those who continue to receive it as dependent children, then standing is conditional on maintaining that posture.",
+      "key_phrases": ["the kingdom of God belongs to such as these", "whoever does not receive the kingdom of God like a child will not enter it at all"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "10:17-31",
+      "section_title": "The Wealthy Man and the Impossibility of Entering the Kingdom",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "A man who has kept the commandments from his youth is told to sell everything and follow Jesus but departs grieving because of his possessions; Jesus teaches that it is impossible for a rich person to enter the kingdom by human effort but that with God all things are possible; and he promises a hundredfold return for sacrifice but 'with persecutions,' warning that many who are first will be last.",
+      "relevance": "Multiple elements bear on the question. The rich man's departure despite Jesus's love shows that divine love and divine calling can be refused -- the man's standing was conditional on a response he did not make. The reversal saying ('many who are first will be last, and the last, first') warns that position is 'not permanently secured by any human calculation.' The 'with God all things are possible' language could in principle support either permanence (God's power guarantees continued salvation) or conditionality (God enables what humans cannot achieve on their own, but the human must still respond). However, the neutral reading interprets this as God's capacity to accomplish what is impossible for humans (entry to the kingdom), not as a guarantee that those who enter will remain. The rich man demonstrates that the barrier to the kingdom is whatever competes with God for ultimate allegiance, and the removal of that barrier requires ongoing choice.",
+      "key_phrases": ["One thing you lack", "he went away grieving; for he was one who owned much property", "How hard it will be for those who are wealthy to enter the kingdom of God", "With people it is impossible, but not with God; for all things are possible with God", "many who are first will be last, and the last, first"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "10:32-34",
+      "section_title": "The Third Passion Prediction",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus delivers the most detailed passion prediction, describing how the Son of Man will be handed over to the chief priests and scribes, condemned, handed to the Gentiles, mocked, spat upon, flogged, killed, and will rise after three days."
+    },
+    {
+      "reference": "10:35-45",
+      "section_title": "James and John's Request and the Redefinition of Power",
+      "category": "NOT_APPLICABLE",
+      "summary": "James and John request seats of honor in Jesus's glory, Jesus asks whether they can drink his cup and share his baptism, redefines greatness as servanthood, and declares that the Son of Man came not to be served but to serve and give his life as a ransom for many."
+    },
+    {
+      "reference": "10:46-52",
+      "section_title": "Bartimaeus -- The Blind Man Who Sees",
+      "category": "NOT_APPLICABLE",
+      "summary": "Blind Bartimaeus calls Jesus 'Son of David,' persistently cries for mercy despite the crowd's opposition, throws away his cloak, is healed by faith, and follows Jesus on the road to Jerusalem -- contrasting with the rich man who went away and with James and John who sought status."
+    }
+  ]
+}

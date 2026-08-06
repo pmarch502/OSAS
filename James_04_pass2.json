@@ -1,0 +1,58 @@
+{
+  "book": "James",
+  "chapter": 4,
+  "sections": [
+    {
+      "reference": "4:1-3",
+      "section_title": "Source of Quarrels: Desires at War",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Quarrels and conflicts among the community originate from disordered desires that wage war within, and even their prayers fail because they ask with wrong motives to spend on their pleasures.",
+      "relevance": "The community's internal desires disrupt their relationship with God: they do not have because they do not ask, and when they do ask they receive nothing because their motives are corrupt. This echoes the double-minded person of 1:5-8 who cannot receive from the Lord. Wrong internal orientation directly affects what the believer receives from God, implying that the relationship is not static but responsive to the believer's moral condition.",
+      "key_phrases": ["your pleasures that wage war in your members", "you ask and do not receive, because you ask with wrong motives"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "4:4-6",
+      "section_title": "Friendship with the World as Spiritual Adultery",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "James declares that friendship with the world is hostility toward God, addressing the community as 'adulteresses' and stating that whoever wishes to be a friend of the world makes himself an enemy of God.",
+      "relevance": "This is one of the most direct statements in the letter bearing on the permanence-conditionality question. The audience -- already members of the believing community -- is told that choosing friendship with the world makes them enemies of God. The verb 'makes himself' (kathistatai) indicates a change of status that the person's own choice effects. The adultery metaphor draws on the prophetic tradition (Hosea, Ezekiel) of Israel as God's unfaithful spouse, which presupposes a prior covenant relationship that is now being violated. One cannot commit spiritual adultery unless one is already in covenant with God. The passage directly implies that insiders can, through their choices, become God's enemies.",
+      "key_phrases": ["you adulteresses", "friendship with the world is hostility toward God", "whoever wishes to be a friend of the world makes himself an enemy of God"],
+      "confidence": "high"
+    },
+    {
+      "reference": "4:7-10",
+      "section_title": "Call to Repentance: Ten Imperatives",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "James issues ten rapid imperatives calling the community to submit, resist, draw near, cleanse, purify, grieve, mourn, weep, and humble themselves, addressing them as 'sinners' and 'double-minded' and promising that God will exalt those who humble themselves.",
+      "relevance": "The community is addressed as 'sinners' (hamartōloi) and 'double-minded' (dipsychoi) and called to repent. The terms are not applied to outsiders but to the letter's own audience -- those within the believing community. The call to 'cleanse your hands' and 'purify your hearts' implies that their hands are currently unclean and their hearts impure, placing them in a state that requires active reversal. The double-mindedness first diagnosed in 1:8 is now treated with a specific prescription: full-hearted return to God. The promise that God 'will exalt you' is conditioned on humbling oneself, maintaining the conditional logic throughout.",
+      "key_phrases": ["submit therefore to God", "resist the devil and he will flee from you", "draw near to God and He will draw near to you", "cleanse your hands, you sinners; and purify your hearts, you double-minded", "humble yourselves in the presence of the Lord, and He will exalt you"],
+      "confidence": "high"
+    },
+    {
+      "reference": "4:11-12",
+      "section_title": "Speaking Against One Another",
+      "category": "NOT_APPLICABLE",
+      "summary": "James warns against speaking against or judging one another, arguing that to judge the law is to usurp the role of the one Lawgiver and Judge who alone is able to save and destroy."
+    },
+    {
+      "reference": "4:13-16",
+      "section_title": "Presumptuous Planning",
+      "category": "NOT_APPLICABLE",
+      "summary": "James addresses those who make confident plans without acknowledging God's sovereignty, calling such boasting arrogant and evil, and reminding them that life is a vapor that appears briefly and then vanishes."
+    },
+    {
+      "reference": "4:17",
+      "section_title": "Knowing Good and Not Doing It as Sin",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The one who knows the right thing to do and does not do it commits sin, transforming the gap between knowing and doing into a formal category of culpable failure.",
+      "relevance": "This verse universalizes the hearing-doing gap from 1:22-25. Knowledge of the good without corresponding action is not merely a missed opportunity but sin (hamartia) -- the same word from 1:15 that, when completed, brings forth death. The principle implies that believers who know what God requires and fail to act are not exempt from the consequences. Their knowledge increases rather than decreases their culpability.",
+      "key_phrases": ["to one who knows the right thing to do and does not do it, to him it is sin"],
+      "confidence": "medium"
+    }
+  ]
+}

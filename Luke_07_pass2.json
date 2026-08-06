@@ -1,0 +1,88 @@
+{
+  "book": "Luke",
+  "chapter": 7,
+  "sections": [
+    {
+      "reference": "7:1-5",
+      "section_title": "Setting Up the Centurion's Request",
+      "category": "NOT_APPLICABLE",
+      "summary": "A Roman centurion, whose valued slave is dying, sends Jewish elders to Jesus, and they argue he is 'worthy' because he loves the Jewish nation and built their synagogue -- framing access to God's favor as earned by meritorious deeds."
+    },
+    {
+      "reference": "7:6-10",
+      "section_title": "The Centurion's Faith",
+      "category": "NOT_APPLICABLE",
+      "summary": "The centurion contradicts the elders' assessment by declaring himself unworthy, instead expressing confidence that Jesus's word alone carries sufficient authority to heal, and Jesus marvels that he has not found such great faith even in Israel."
+    },
+    {
+      "reference": "7:11-12",
+      "section_title": "The Widow at Nain",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus encounters a funeral procession for the only son of a widow, placing before the reader a figure of maximum social vulnerability in first-century Jewish society."
+    },
+    {
+      "reference": "7:13-17",
+      "section_title": "Raising the Dead and the People's Response",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus, moved by visceral compassion, touches the bier and commands the dead man to arise, then gives him back to his mother in language deliberately echoing Elijah's raising in 1 Kings 17:23, prompting the crowd to declare that a great prophet has arisen and that God has visited His people."
+    },
+    {
+      "reference": "7:18-20",
+      "section_title": "John's Question from Prison",
+      "category": "NOT_APPLICABLE",
+      "summary": "John the Baptist, hearing reports of Jesus's ministry of mercy rather than the expected ministry of judgment, sends messengers from prison to ask whether Jesus is the Coming One or whether they should look for another."
+    },
+    {
+      "reference": "7:21-23",
+      "section_title": "Jesus's Answer",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus answers John by performing healings in the messengers' presence and then listing the fulfillment of Isaiah's restoration prophecies -- the blind see, the lame walk, lepers are cleansed, the deaf hear, the dead are raised, the poor hear good news -- and pronounces a blessing on anyone not offended by a messiah who heals rather than judges."
+    },
+    {
+      "reference": "7:24-28",
+      "section_title": "Jesus's Testimony about John",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares John greater than any person born of woman, identifies him as the Malachi 3:1 messenger sent to prepare the way, yet states that the least person in the kingdom of God is greater than John, marking the magnitude of the transition from the old order to the new."
+    },
+    {
+      "reference": "7:29-30",
+      "section_title": "Two Responses to God's Purpose",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The author provides an editorial comment stating that the people and tax collectors acknowledged God's justice by accepting John's baptism, while the Pharisees and lawyers rejected God's purpose for themselves by refusing it.",
+      "relevance": "The Pharisees and lawyers -- religious insiders, covenant members, and guardians of Torah -- 'rejected God's purpose for themselves.' The author explicitly states that God's purpose was directed toward them and available to them, but they set it aside. Their established religious standing and covenant membership did not prevent them from rejecting God's saving purpose. This demonstrates that insider status does not guarantee participation in what God is doing; reception depends on ongoing response to God's initiative.",
+      "key_phrases": ["the Pharisees and the lawyers rejected God's purpose for themselves", "not having been baptized by John", "acknowledged God's justice having been baptized with the baptism of John"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "7:31-35",
+      "section_title": "The Parable of Children in the Marketplace",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus compares 'this generation' to children who refuse to play along whether the music is happy or sad, exposing the irrationality of those who rejected both John's asceticism and Jesus's sociability, and declares that wisdom is vindicated by all her children."
+    },
+    {
+      "reference": "7:36-39",
+      "section_title": "The Setting at the Pharisee's House",
+      "category": "NOT_APPLICABLE",
+      "summary": "At a dinner in the Pharisee Simon's house, a woman known as a sinner performs extravagant acts of devotion at Jesus's feet, and Simon internally concludes that a true prophet would know her character and refuse her touch."
+    },
+    {
+      "reference": "7:40-43",
+      "section_title": "The Parable of Two Debtors",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus tells the parable of a moneylender who graciously forgives two debtors of different amounts, establishing the principle that the one forgiven more will love more, and Simon correctly identifies this logic."
+    },
+    {
+      "reference": "7:44-47",
+      "section_title": "Application to the Woman and Simon",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus contrasts Simon's minimal hospitality with the woman's extravagant devotion, declaring that her many sins have been forgiven -- her great love being the evidence of great forgiveness received, not its cause -- while the one forgiven little loves little."
+    },
+    {
+      "reference": "7:48-50",
+      "section_title": "Forgiveness Declared and the Question of Authority",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares the woman's sins forgiven, provoking the other guests to ask 'Who is this who even forgives sins?', and then tells her 'Your faith has saved you; go in peace,' identifying faith as the operative reality connecting a person to God's forgiveness and salvation."
+    }
+  ]
+}

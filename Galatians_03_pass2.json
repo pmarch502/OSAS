@@ -1,0 +1,52 @@
+{
+  "book": "Galatians",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-5",
+      "section_title": "The Galatians' Own Experience as Evidence",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul appeals to the Galatians' own experience of receiving the Spirit through faith-hearing rather than law-works, asking whether having begun by the Spirit they are now being perfected by the flesh, and whether their suffering was in vain.",
+      "relevance": "The question 'Having begun by the Spirit, are you now being perfected by the flesh?' (3:3) presupposes that a Spirit-begun process can be derailed by turning to a different mechanism. The question 'Did you suffer so many things in vain?' (3:4) implies that the Galatians' spiritual progress could be rendered fruitless by their current trajectory. Together these questions indicate that beginning in the Spirit does not guarantee completion, and that the standing established through the Spirit received by faith could be undermined by a turn to law-based observance.",
+      "key_phrases": ["Having begun by the Spirit, are you now being perfected by the flesh?", "Did you suffer so many things in vain -- if indeed it was in vain?"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:6-9",
+      "section_title": "Abraham and the Blessing of the Nations",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul argues from Genesis 15:6 that Abraham was justified by faith and that those who share Abraham's faith are his sons and share his blessing, citing the promise that all nations would be blessed in Abraham."
+    },
+    {
+      "reference": "3:10-14",
+      "section_title": "The Law's Curse and Christ's Redemption",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul argues that those who rely on works of the law are under a curse because the law demands comprehensive obedience that no one achieves, that no one is justified by the law since the righteous shall live by faith, and that Christ redeemed those under the curse by becoming a curse himself on the cross, so that Abraham's blessing could flow to the Gentiles and the promise of the Spirit could be received through faith."
+    },
+    {
+      "reference": "3:15-18",
+      "section_title": "The Priority of the Promise over the Law",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul argues from the legal principle that a ratified covenant cannot be annulled or amended, establishing that the Abrahamic promise -- made to Abraham and his singular seed identified as Christ -- cannot be altered by the law which came 430 years later, and that the inheritance comes by promise, not by law."
+    },
+    {
+      "reference": "3:19-22",
+      "section_title": "The Purpose of the Law",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul explains that the law was added because of transgressions until the promised seed should come, was delivered indirectly through angels and a mediator, cannot give life or produce righteousness, and functioned to imprison everything under sin so that the promise could be given through faith to those who believe."
+    },
+    {
+      "reference": "3:23-25",
+      "section_title": "The Law as Paidagogos",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes the law as a paidagogos -- a custodial escort, not a teacher -- that supervised those under it until Christ came, with the purpose of delivering them to justification by faith, a custodial role that is now complete."
+    },
+    {
+      "reference": "3:26-29",
+      "section_title": "Identity in Christ",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul declares that in Christ Jesus all are sons of God through faith, baptized into Christ and clothed with Christ, with the divisions of Jew-Greek, slave-free, and male-female rendered irrelevant as determinants of standing, and that those who belong to Christ are Abraham's seed and heirs according to promise."
+    }
+  ]
+}

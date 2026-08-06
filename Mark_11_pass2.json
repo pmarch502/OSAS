@@ -1,0 +1,56 @@
+{
+  "book": "Mark",
+  "chapter": 11,
+  "sections": [
+    {
+      "reference": "11:1-6",
+      "section_title": "The Colt and the Approach",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus sends two disciples to find a colt that has never been ridden, demonstrating foreknowledge and deliberate orchestration of his entry into Jerusalem from the Mount of Olives."
+    },
+    {
+      "reference": "11:7-10",
+      "section_title": "The Entry -- Riding into David's City",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus enters Jerusalem on a colt, evoking the humble king of Zechariah 9:9 and the coronation of Solomon, while the crowd shouts Psalm 118:25-26 and adds their own expectation of the coming kingdom of David."
+    },
+    {
+      "reference": "11:11",
+      "section_title": "The Inspection",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus enters the temple, deliberately looks around at everything, and departs to Bethany, conducting a deliberate inspection before the judgment actions of the following day."
+    },
+    {
+      "reference": "11:12-14",
+      "section_title": "The Fig Tree Cursed -- A Prophetic Sign-Act",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus curses a fig tree that has leaves but no fruit, performing a prophetic sign-act drawn from Israel's prophetic tradition (Hosea, Jeremiah, Micah) in which the fig tree represents Israel/the temple -- fruitless despite outward appearance of life.",
+      "relevance": "The fig tree's cursing establishes a principle with direct implications for the believer's standing: outward appearance of covenant life (leaves) without actual fruit results in judgment. The tree was in a covenant relationship with the one who planted and tended it, yet its fruitlessness led to irreversible judgment ('May no one ever eat fruit from you again'). The neutral reading identifies the fig tree as a prophetic symbol for Israel's temple establishment, making this primarily about corporate standing. However, the principle extends: being part of God's covenant people and displaying the external markers of religious life does not protect from judgment if there is no fruit. The irreversibility of the curse -- the tree withered to its roots (11:20) -- suggests that standing before God, once forfeited through fruitlessness, may not be recoverable.",
+      "key_phrases": ["he found nothing but leaves", "May no one ever eat fruit from you again", "it was not the season for figs"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "11:15-19",
+      "section_title": "The Temple Action -- The House of Prayer and the Den of Robbers",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus disrupts the temple's commercial operations and declares the temple has been turned from a house of prayer for all nations (Isaiah 56:7) into a den of robbers (Jeremiah 7:11), invoking the template of God's destruction of his own dwelling place at Shiloh."
+    },
+    {
+      "reference": "11:20-25",
+      "section_title": "The Fig Tree Withered -- Faith, Prayer, and Forgiveness",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The fig tree is found withered to its roots, and Jesus teaches that faith, prayer, and forgiveness operate apart from the temple system, with God's forgiveness of the believer conditioned on the believer's willingness to forgive others.",
+      "relevance": "The conditional structure of the forgiveness teaching directly bears on the believer's standing before God. Jesus says: 'Whenever you stand praying, forgive, if you have anything against anyone, so that your Father in heaven may also forgive you your trespasses.' God's ongoing forgiveness -- which is central to standing before God -- is explicitly conditioned on the believer's ongoing behavior toward others. The one who refuses to forgive is described as 'not in the posture to receive forgiveness.' This implies that the believer's standing before God is not a settled, one-time transaction but an ongoing relational dynamic that requires ongoing conduct. If God's forgiveness can be withheld from a believer who refuses to forgive, then the believer's standing is conditional on continued faithfulness to the command.",
+      "key_phrases": ["forgive, if you have anything against anyone, so that your Father in heaven may also forgive you your trespasses", "the fig tree withered away to its roots"],
+      "confidence": "high"
+    },
+    {
+      "reference": "11:27-33",
+      "section_title": "The Question of Authority",
+      "category": "NOT_APPLICABLE",
+      "summary": "The chief priests, scribes, and elders challenge Jesus's authority; Jesus responds with a question about John's baptism that exposes their unwillingness to engage honestly, since both possible answers would condemn them."
+    }
+  ]
+}

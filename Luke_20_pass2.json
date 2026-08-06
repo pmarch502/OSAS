@@ -1,0 +1,46 @@
+{
+  "book": "Luke",
+  "chapter": 20,
+  "sections": [
+    {
+      "reference": "20:1-8",
+      "section_title": "The Question About Authority",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be a confrontation in which the Sanhedrin delegation challenges Jesus's authority to teach and act in the temple, and Jesus's counter-question about John's baptism exposes their inability or unwillingness to discern prophetic authority, disqualifying them from evaluating his."
+    },
+    {
+      "reference": "20:9-19",
+      "section_title": "The Parable of the Vineyard Tenants",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this parable, drawn from Isaiah 5's vineyard imagery, to be about Israel's leadership as unfaithful tenants who rejected the prophets and will kill the son, resulting in the owner's destruction of the tenants and transfer of the vineyard to others.",
+      "relevance": "Though primarily about the corporate transfer of covenant stewardship from Israel's current leaders to 'others,' the passage establishes the principle that covenant responsibility can be forfeited through persistent unfaithfulness. The tenants had legitimate custody of the vineyard but lost it through their rejection of the owner's messengers and son. The cornerstone imagery (Psalm 118:22, Isaiah 8:14-15, Daniel 2:34-35) reinforces the point: opposition to God's purposes results not in the stone's defeat but in the opposers' destruction. The underlying logic -- that those entrusted with God's covenant can lose that trust through unfaithfulness -- has implications for the broader question of whether standing before God is conditional on ongoing faithfulness.",
+      "key_phrases": ["He will come and destroy these vine-growers and will give the vineyard to others", "the stone which the builders rejected, this became the chief corner stone", "everyone who falls on that stone will be broken to pieces"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "20:20-26",
+      "section_title": "The Question About Tribute to Caesar",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be an attempt to trap Jesus with the question of paying Roman taxes, which Jesus transcends by distinguishing between what bears Caesar's image (coins, belonging to Caesar) and what bears God's image (human beings, belonging to God), placing the totality of human obligation to God above any civic obligation."
+    },
+    {
+      "reference": "20:27-40",
+      "section_title": "The Sadducees and the Resurrection",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be Jesus's refutation of the Sadducees' denial of resurrection by distinguishing between 'this age' (where marriage exists because of death) and 'that age' (where death is abolished and the resurrected are like angels), and by arguing from Exodus 3 that God's self-identification as the God of Abraham, Isaac, and Jacob entails their continued life because God is the God of the living."
+    },
+    {
+      "reference": "20:41-44",
+      "section_title": "David's Son and David's Lord",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be Jesus's own question exposing the inadequacy of the standard messianic category of 'Son of David,' demonstrating from Psalm 110:1 that the Messiah is not merely David's descendant but David's Lord, occupying a position at YHWH's right hand that transcends the patriarchal hierarchy."
+    },
+    {
+      "reference": "20:45-47",
+      "section_title": "Warning Against the Scribes",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be a moral indictment of the scribes who love public recognition and places of honor while devouring widows' houses and offering long prayers as a facade, with Jesus declaring they will receive greater condemnation because their knowledge of Torah intensifies rather than mitigates their responsibility."
+    }
+  ]
+}

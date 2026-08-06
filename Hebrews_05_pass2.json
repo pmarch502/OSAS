@@ -1,0 +1,44 @@
+{
+  "book": "Hebrews",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-4",
+      "section_title": "The Template -- What a High Priest Is and How One Is Made",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section establishes the general qualifications of the high priestly office using the Aaronic model: taken from among men, appointed on behalf of the people in things pertaining to God, able to deal gently with the ignorant and misguided because of shared weakness, and called by God rather than self-appointed."
+    },
+    {
+      "reference": "5:5-6",
+      "section_title": "The Divine Appointment -- Two Declarations from God",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds the author cites Psalm 2:7 and Psalm 110:4 to demonstrate that Christ's high priesthood was conferred by divine initiative, not self-appointed -- the same God who declared 'You are My Son' also declared 'You are a priest forever according to the order of Melchizedek.'"
+    },
+    {
+      "reference": "5:7-8",
+      "section_title": "The Testing of the Son -- Suffering, Prayer, and Learned Obedience",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section describes Jesus's anguished prayers during his mortal life -- prayers with loud crying and tears to the one able to save him from death -- and his experiential learning of obedience through suffering, even though he was the Son."
+    },
+    {
+      "reference": "5:9-10",
+      "section_title": "The Result -- Perfected, Saving, and Designated",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds that having been perfected through suffering, Jesus became the source of eternal salvation for all those who obey him, and was designated by God as High Priest according to the order of Melchizedek.",
+      "relevance": "This passage directly addresses the relationship between Christ's completed work and the believer's ongoing response. The salvation is described as 'eternal' (aiōniou), which could suggest permanence. However, the author explicitly restricts its recipients to 'all those who obey Him' (pasin tois hypakouousin autō), a present-tense participle describing an ongoing posture of obedience. The neutral reading emphasizes the deliberate verbal connection: in verse 8, Jesus 'learned obedience' (hypakoē); in verse 9, salvation is for those who 'obey' (hypakouō) -- the same root. The one who obeyed saves those who obey him. This is consistent with the letter's sustained argument: the wilderness generation was excluded through 'disobedience' (3:18, 4:6, 4:11), and the author's call throughout is for obedient faithfulness. The salvation is eternal and complete on Christ's side; the question is whether the individual remains among those who obey.",
+      "key_phrases": ["having been perfected", "the source of eternal salvation", "for all those who obey Him", "designated by God as High Priest according to the order of Melchizedek"],
+      "confidence": "high"
+    },
+    {
+      "reference": "5:11-14",
+      "section_title": "The Interruption -- Spiritual Regression and the Danger of Dull Hearing",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds the author interrupts his Melchizedek exposition to confront the audience's spiritual regression: they have become dull listeners, need to be retaught the elementary principles, and have returned from solid food to milk -- a condition that, left unchecked, leads toward the falling away described in 6:4-6.",
+      "relevance": "Though this section does not make a direct statement about whether standing is permanent or conditional, the neutral reading identifies the regression as the trajectory toward catastrophic falling away. The perfect tense 'have become' (gegonate) indicates a change of state -- they were not always dull. The same word for 'sluggish' (nōthroi) appears in 6:12, where it is contrasted with 'faith and endurance,' bracketing the severe warning of 6:4-8. The neutral reading states that the author's interruption 'is not a digression but the preparation for the most severe warning in the letter' and that the road from maturity backward 'leads toward the falling away from which there is no recovery.' The diagnosis of regression is itself evidence that the author treats the believer's trajectory as consequential for their ultimate standing.",
+      "key_phrases": ["you have become poor listeners", "you ought to be teachers", "you have come to need milk and not solid food", "senses trained to distinguish between good and evil"],
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "sections": [
+    {
+      "reference": "6:1-6",
+      "section_title": "Internal Disputes Before External Courts",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul rebukes the community for taking internal disputes to pagan courts instead of resolving them among themselves, arguing that since the saints will judge the world and even angels, they are certainly competent to adjudicate trivial cases."
+    },
+    {
+      "reference": "6:7-8",
+      "section_title": "The More Fundamental Failure",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul deepens the argument: the very existence of lawsuits among believers is a defeat, since the community should be willing to absorb wrong rather than litigate, and in fact the Corinthians are the ones committing the wrong against their own brothers."
+    },
+    {
+      "reference": "6:9-11",
+      "section_title": "Those Who Will Not Inherit the Kingdom, and What the Community Was",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul warns that the unrighteous will not inherit the kingdom of God, lists ten categories of behavior that exclude from the kingdom, reminds the Corinthians that some of them formerly belonged to those categories, and declares they have been washed, sanctified, and justified.",
+      "relevance": "This passage directly addresses whether a believer's conduct can exclude them from God's kingdom. The warning 'do not be deceived' (me planasthe) is addressed to community members -- people who have been washed, sanctified, and justified (6:11) -- and warns them that practitioners of the listed behaviors 'will not inherit the kingdom of God.' The neutral reading makes the implication explicit: 'if they have been washed, sanctified, and justified -- removed from the categories that exclude from the kingdom -- then to return to those behaviors is to un-become what they have become.' The reading further states: 'present behavior determines future inheritance. The kingdom is not inherited regardless of conduct.' The parallel with Israel's inheritance is drawn: the land was given by grace but could be lost through disobedience. The warning is not hypothetical or addressed to outsiders; it is directed at believers who are at risk of reverting to the very behaviors from which they were rescued. This is part of Paul's own sustained argument.",
+      "key_phrases": ["the unrighteous will not inherit the kingdom of God", "do not be deceived", "and such were some of you", "but you were washed, you were sanctified, you were justified"],
+      "confidence": "high"
+    },
+    {
+      "reference": "6:12-14",
+      "section_title": "The 'All Things Are Lawful' Slogan and the Body's Purpose",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul engages the Corinthian slogan 'all things are lawful for me' with two qualifications -- not all things are beneficial, and he will not be dominated by anything -- then argues that the body is destined not for sexual immorality but for the Lord, and God will raise both the Lord and believers by his power."
+    },
+    {
+      "reference": "6:15-17",
+      "section_title": "Members of Christ and Union with a Prostitute",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul argues that believers' bodies are members of Christ and that uniting Christ's members with a prostitute creates a one-flesh bond incompatible with the one-spirit union with the Lord, provoking his strongest formula of rejection: 'May it never be!'",
+      "relevance": "The passage implies that a believer's behavior can violate and compromise their union with Christ. Paul presents the scenario of joining Christ's members to a prostitute not as an impossibility but as a real danger requiring the strongest possible rejection (me genoito). The fact that Paul describes this as something that can happen -- rather than something the union with Christ prevents -- suggests that the union is not automatically maintained regardless of conduct. The two unions (one body with a prostitute, one spirit with the Lord) are presented as incompatible, and a believer can actively choose the former over the latter. The neutral reading notes: 'One cannot simultaneously be one spirit with the Lord and one body with a prostitute,' and 'the body and the spirit are not separable compartments... to defile the body is to assault the spirit-union.'",
+      "key_phrases": ["your bodies are members of Christ", "shall I then take the members of Christ and make them members of a prostitute", "may it never be", "he who is joined to the Lord becomes one spirit with him"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:18-20",
+      "section_title": "Flight from Porneia and the Body as Temple",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul commands the community to flee sexual immorality, identifies the individual body as a temple of the Holy Spirit received from God, declares that they are not their own but were bought with a price, and commands them to glorify God in their bodies.",
+      "relevance": "The extension of the temple metaphor from the community (3:16-17) to the individual body intensifies the warning about defiling what is holy. The neutral reading connects this passage directly to the temple-destruction warning of 3:17: 'The logic of 3:17 applies: to defile or destroy what is holy -- what God has made his dwelling place -- is to invite God's corresponding action. The holiness of the temple is not negotiable, whether the temple is the community (3:16) or the individual body (6:19).' The identification of the body as God's purchased possession establishes that the believer's body is under obligation to its owner, and the command to 'glorify God in your body' presupposes that failure to do so constitutes a violation of that ownership. The passage does not directly state that standing can be lost, but the temple logic implies severe consequences for desecration.",
+      "key_phrases": ["your body is a temple of the Holy Spirit within you", "you are not your own", "you were bought with a price", "glorify God in your body"],
+      "confidence": "medium"
+    }
+  ]
+}

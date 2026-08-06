@@ -1,0 +1,82 @@
+{
+  "book": "Luke",
+  "chapter": 17,
+  "sections": [
+    {
+      "reference": "17:1-2",
+      "section_title": "Stumbling Blocks and Their Consequences",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage to be a warning about the catastrophic consequences of causing vulnerable community members ('little ones') to fall, with Jesus declaring that death by drowning would be preferable to causing such spiritual destruction.",
+      "relevance": "The passage implies that believers ('little ones' within the community of followers) can be caused to stumble into spiritual destruction by the actions of others. The language of skandalon (trap mechanism that causes a fall) and the severity of the consequences presuppose that the standing of vulnerable believers is not automatically protected but can be undermined. If a believer's standing were permanently secured regardless of circumstances, the warning's intensity would be disproportionate.",
+      "key_phrases": ["cause one of these little ones to stumble", "woe to him through whom they come", "better for him if a millstone were hung around his neck"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "17:3-4",
+      "section_title": "Rebuke, Repentance, and Forgiveness",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be instruction on community discipline: the obligation to rebuke sin, the condition of repentance for forgiveness, and the radical demand to forgive without limit when repentance is claimed."
+    },
+    {
+      "reference": "17:5-6",
+      "section_title": "The Nature of Faith",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be a correction of the apostles' misunderstanding of faith as a quantifiable resource, showing that even the smallest genuine faith can accomplish what seems impossible because faith is a quality of trust and dependence, not a stockpile."
+    },
+    {
+      "reference": "17:7-10",
+      "section_title": "The Parable of the Slave Who Has Done What Was Commanded",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this parable to be an attack on the notion that complete obedience generates surplus merit or entitles the obedient to special reward, establishing that even total compliance is merely the fulfillment of a pre-existing obligation."
+    },
+    {
+      "reference": "17:11-19",
+      "section_title": "Ten Lepers Cleansed, One Returns",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds that all ten lepers received physical cleansing (katharsis) but only the Samaritan who returned in faith and gratitude received the fuller sōtēria ('your faith has saved you'), establishing a distinction between receiving God's benefits and being made whole through responsive faith.",
+      "relevance": "The distinction between katharsis (physical/ritual cleansing, received by all ten) and sōtēria (salvation/wholeness, received only by the one who responded in faith) implies that receiving God's action is not identical to being saved. The nine who walked away after receiving cleansing did not receive what the one who returned received. The passage suggests that ongoing, responsive faith -- not merely the initial receipt of divine benefit -- is what produces full salvation. This bears on the question because it implies that the believer's standing depends on continued faithful response, not on the initial act of divine intervention alone.",
+      "key_phrases": ["your faith has saved you", "Were there not ten cleansed? But the nine -- where are they?", "Was no one found who returned to give glory to God, except this foreigner?"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "17:20-21",
+      "section_title": "The Kingdom of God Among You",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be Jesus's declaration to the Pharisees that the kingdom of God is not a datable future event requiring careful observation but is already present in their midst through Jesus's person and ministry."
+    },
+    {
+      "reference": "17:22-25",
+      "section_title": "The Son of Man's Day -- Longing, Deception, and Suffering",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be an eschatological teaching about the future day of the Son of Man: it will be preceded by a difficult interval of unfulfilled longing, it should not be confused with false localized claims, it will be as unmistakable as lightning, and it must first be preceded by the Son of Man's suffering and rejection."
+    },
+    {
+      "reference": "17:26-30",
+      "section_title": "The Days of Noah and Lot",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds that Jesus uses the examples of Noah's and Lot's generations to warn that ordinary life -- eating, drinking, buying, selling, planting, building -- can become a form of spiritual oblivion that leaves people unprepared for sudden, catastrophic judgment.",
+      "relevance": "The warning is directed at Jesus's disciples (v. 22), not at outsiders. The danger described is not wickedness per se but absorption in the routines of daily life to the exclusion of awareness of God's action. The people of Noah's day and Lot's day had opportunity to hear and respond but were absorbed in normalcy. The implication is that those who have received warning (as the disciples have) can nevertheless fail to be ready when the decisive moment arrives. The pattern 'revelation given, warning sounded, hearers absorbed and refuse to hear' applies to insiders who become spiritually oblivious, suggesting that having received revelation does not automatically guarantee readiness at the moment of judgment.",
+      "key_phrases": ["they were eating, they were drinking, they were marrying", "the flood came and destroyed them all", "it rained fire and brimstone from heaven and destroyed them all", "it will be just the same on the day that the Son of Man is revealed"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "17:31-33",
+      "section_title": "The Urgency of Detachment",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage to be practical instructions drawn from the Noah and Lot analogies, warning against attachment to possessions and the present order at the moment of crisis, with the paradigmatic negative example of Lot's wife and the paradox that seeking to preserve one's life results in its loss.",
+      "relevance": "The warning 'Remember Lot's wife' addresses someone who was in the process of being delivered from judgment but whose attachment to the old life resulted in destruction. Lot's wife was physically leaving Sodom -- she had responded to the warning, she was on the path to safety -- but her heart remained in the city, and looking back killed her. The principle 'whoever seeks to keep his life will lose it, and whoever loses his life will preserve it' is directed at followers of Jesus and implies that clinging to the present order after having begun the journey of faith can result in the loss of everything. This bears directly on conditionality: someone who has initially responded to God's deliverance can still be lost through backward-looking attachment.",
+      "key_phrases": ["Remember Lot's wife", "whoever seeks to keep his life will lose it", "whoever loses his life will preserve it", "must not turn back"],
+      "confidence": "high"
+    },
+    {
+      "reference": "17:34-37",
+      "section_title": "The Separation and the Vultures",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be a description of the sudden, selective separation at the Son of Man's coming, where two people in identical external circumstances are divided -- one taken in judgment, one left in preservation -- with the concluding proverb about vultures gathering around a body signaling that the location of judgment will be self-evident."
+    }
+  ]
+}

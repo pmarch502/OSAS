@@ -1,0 +1,76 @@
+{
+  "book": "John",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1-2",
+      "section_title": "The Setting at Cana",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author sets the scene for the wedding at Cana, noting Jesus, his mother, and his disciples were invited."
+    },
+    {
+      "reference": "2:3-5",
+      "section_title": "The Wine Runs Out and the Mother's Request",
+      "category": "NOT_APPLICABLE",
+      "summary": "When the wine fails, Jesus's mother reports the need; Jesus responds that his hour has not yet come, and the mother instructs the servants to do whatever he says."
+    },
+    {
+      "reference": "2:6-8",
+      "section_title": "The Water Jars and the Command",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus commands that six stone water jars used for Jewish purification rites be filled with water, then instructs servants to draw some out for the headwaiter."
+    },
+    {
+      "reference": "2:9-10",
+      "section_title": "The Headwaiter's Testimony",
+      "category": "NOT_APPLICABLE",
+      "summary": "The headwaiter tastes the water-become-wine and remarks that the best wine has been kept until now, unwittingly testifying to the superiority of what Jesus provides."
+    },
+    {
+      "reference": "2:11",
+      "section_title": "The Author's Interpretation of the Sign",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author identifies this as the first of Jesus's signs, through which he manifested his glory and his disciples believed in him."
+    },
+    {
+      "reference": "2:12",
+      "section_title": "Transition to Capernaum",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus, his mother, brothers, and disciples go down to Capernaum and stay for a few days."
+    },
+    {
+      "reference": "2:13-14",
+      "section_title": "Jesus Goes to Jerusalem for Passover",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus goes to Jerusalem for Passover and finds merchants and money-changers operating in the temple."
+    },
+    {
+      "reference": "2:15-17",
+      "section_title": "Jesus Drives Out the Merchants",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus makes a whip and drives out the merchants and animals, overturns the money-changers' tables, and the disciples connect his action to the psalm about zeal for God's house consuming him."
+    },
+    {
+      "reference": "2:18-19",
+      "section_title": "The Demand for a Sign and Jesus's Answer",
+      "category": "NOT_APPLICABLE",
+      "summary": "The authorities demand a sign justifying Jesus's action, and Jesus responds with the enigmatic statement about destroying 'this temple' and raising it in three days."
+    },
+    {
+      "reference": "2:20-22",
+      "section_title": "Misunderstanding and Later Understanding",
+      "category": "NOT_APPLICABLE",
+      "summary": "The audience misunderstands the temple reference as the physical building; the author notes that after the resurrection, the disciples remembered and believed both the scripture and Jesus's word."
+    },
+    {
+      "reference": "2:23-25",
+      "section_title": "Belief Based on Signs and Jesus's Knowledge",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Many in Jerusalem believed in Jesus's name because of the signs he performed, but Jesus did not entrust himself to them because he knew what was in every person.",
+      "relevance": "The author distinguishes between sign-based belief and a deeper trust that Jesus would accept. The fact that Jesus 'did not entrust himself' to those who 'believed' implies that not all belief is adequate — some forms of believing do not establish a genuine standing before God. This distinction suggests that the quality and depth of ongoing faith matters, not merely the fact that a person 'believed' at some point. If inadequate belief exists, then the believer's standing depends on the nature and persistence of that belief, not on its bare occurrence.",
+      "key_phrases": ["many believed in his name", "observing his signs", "Jesus was not entrusting himself to them", "he knew what was in man"],
+      "confidence": "medium"
+    }
+  ]
+}

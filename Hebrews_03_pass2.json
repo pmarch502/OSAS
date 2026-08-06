@@ -1,0 +1,72 @@
+{
+  "book": "Hebrews",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1",
+      "section_title": "The Opening Summons",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading identifies this verse as an address to the audience as 'holy brothers, partakers of a heavenly calling,' summoning them to sustained, deliberate attention (katanoeō) toward Jesus as Apostle and High Priest of their confession.",
+      "relevance": "The word 'partakers' (metochoi) is identified in the neutral reading as consistently describing in Hebrews 'a shared participation that is real but not automatically permanent.' The 'calling' (klēsis) is a summons that has been issued and to which one must respond -- the question the chapter will raise is whether they will continue to respond. The command to 'consider' is framed as the antidote to the drifting warned against in 2:1. The terminology sets up a framework where genuine participation requires ongoing attentive response.",
+      "key_phrases": ["partakers of a heavenly calling", "consider the Apostle and High Priest of our confession"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:2-6a",
+      "section_title": "The Comparison with Moses",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this section compares Jesus and Moses: both were faithful in God's house, but Jesus holds greater glory as a Son over the house while Moses was a faithful servant within it, with Moses's ministry serving as testimony pointing forward to realities spoken later."
+    },
+    {
+      "reference": "3:6b",
+      "section_title": "The Conditional That Governs Everything",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading identifies this half-verse as one of the most consequential statements in the letter: membership in the Son's house is stated with an explicit conditional (ean) -- 'whose house we are, if we hold firmly to our confidence and the boast of our hope.'",
+      "relevance": "The passage directly addresses whether belonging to Christ's household is permanent or conditional. The neutral reading observes that the conditional particle ean 'introduces a condition whose fulfillment is genuinely uncertain.' The verb 'hold' (katechomen) is present-tense subjunctive, indicating ongoing, continuous action -- the holding must continue. The confidence (parrēsia) can be 'thrown away' (10:35), confirming it is not an irrevocable possession. The neutral reading states explicitly: 'The author does not say \"we became his house at a past moment and therefore always will be.\" He says \"we are his house if we keep holding.\"' This is the first of several conditionals in Hebrews that form a sustained pattern.",
+      "key_phrases": ["whose house we are", "if we hold firmly", "our confidence and the boast of our hope"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:7-11",
+      "section_title": "The Psalm 95 Quotation -- God's Voice and Israel's Failure",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading finds the author quotes Psalm 95:7-11, attributed to the Holy Spirit in the present tense ('says'), as a living warning: the wilderness generation heard God's voice, saw his works for forty years, hardened their hearts, went astray, and were barred from God's rest by an irrevocable divine oath.",
+      "relevance": "The passage provides the scriptural precedent the author uses to warn his own audience. The wilderness generation was God's redeemed people -- they came out of Egypt, received the covenant, witnessed God's works continuously for four decades. Their privileged position did not prevent their exclusion. God's oath of exclusion ('They certainly shall not enter My rest') was irrevocable -- even subsequent repentance could not undo it (Numbers 14:39-45). The present-tense attribution ('the Holy Spirit says') makes this a living, current address to the audience. The neutral reading's observation that the LXX's translation universalizes the warning -- converting the place-names Meribah and Massah into behavioral descriptions ('provocation,' 'testing') -- confirms the passage functions as a pattern that any generation can replicate.",
+      "key_phrases": ["Today if you hear His voice, do not harden your hearts", "they always go astray in their heart", "They certainly shall not enter My rest", "I was angry with this generation"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:12-14",
+      "section_title": "The Application -- Do Not Repeat Their Failure",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading finds the author applies the Psalm 95 warning directly to his audience: they must guard against an evil, unbelieving heart that falls away from the living God, encourage one another daily against the deceitfulness of sin, and recognize that their participation in Christ is conditioned on holding firm until the end.",
+      "relevance": "This section contains two critical elements for the question. First, the warning in 3:12 addresses 'holy brothers, partakers of a heavenly calling' (3:1) -- people inside the community -- and warns them against developing 'an evil, unbelieving heart that falls away (apostēnai) from the living God.' The neutral reading observes that the people warned 'are not outsiders' but those who 'share in the heavenly calling.' Second, 3:14 restates the conditional of 3:6b: 'we have become partakers of Christ, if we hold the beginning of our commitment firm until the end.' The neutral reading notes the perfect tense 'we have become' (gegonamen) acknowledges genuine past entry into participation, while the intensified conditional (eanper) and the requirement of endurance 'until the end' (mechri telous) make perseverance the test of whether the initial participation was genuine and enduring. The parallel with the wilderness generation is explicit: they had an initial deliverance (the exodus) but did not reach the destination.",
+      "key_phrases": ["an evil, unbelieving heart that falls away from the living God", "encourage one another every day, as long as it is still called today", "hardened by the deceitfulness of sin", "we have become partakers of Christ, if we hold the beginning of our commitment firm until the end"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:15",
+      "section_title": "The Psalm Repeated",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this re-quotation of Psalm 95:7-8 reconnects the conditional of verse 14 with the wilderness warning, confirming that the psalm's exhortation is still operative and addresses the audience in their present moment.",
+      "relevance": "The repetition reinforces the 'today' as the audience's own window of opportunity, during which response is still possible, with the implication that this window will close. The psalm's warning against hardening continues to function as a present-tense address to the community.",
+      "key_phrases": ["Today if you hear His voice, do not harden your hearts"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:16-19",
+      "section_title": "The Interrogation -- Who Failed, and Why?",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading identifies three rhetorical questions that forensically examine the wilderness narrative: who provoked God (all who came out of Egypt), who drew God's anger and died (those who sinned, whose corpses fell in the wilderness), and who was barred from God's rest (those who were disobedient) -- with unbelief identified as the root cause.",
+      "relevance": "The passage directly bears on the question because it establishes that God's own redeemed, covenant people -- the insiders, the delivered, the community that heard God's voice and witnessed his works -- were excluded from God's rest through unbelief. The neutral reading emphasizes the devastating word 'all' (pantes): it was not a fringe group but the entire generation. Their hearing did not prevent their provocation; their deliverance did not prevent their death in the wilderness; their covenant status did not prevent their exclusion. The chain of causation (hearing leads to sinning leads to disobeying, all rooted in unbelief) demonstrates that past deliverance does not guarantee future entry. The parallel to the author's audience is explicit: if the generation under Moses -- the faithful servant -- fell, how much more serious is the danger for the generation under Jesus -- the faithful Son?",
+      "key_phrases": ["all those who came out of Egypt led by Moses", "whose dead bodies fell in the wilderness", "those who were disobedient", "they were not able to enter because of unbelief"],
+      "confidence": "high"
+    }
+  ]
+}

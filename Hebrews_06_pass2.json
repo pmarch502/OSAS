@@ -1,0 +1,76 @@
+{
+  "book": "Hebrews",
+  "chapter": 6,
+  "sections": [
+    {
+      "reference": "6:1-3",
+      "section_title": "The Call to Advance",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds the author calls the audience to leave the elementary teaching about Christ and press on to maturity, listing six foundational items (repentance, faith, washings, laying on of hands, resurrection, judgment) that constitute the starting-point catechesis -- adding the ominous qualifier 'if God permits.'",
+      "relevance": "The passage bears on the question through the qualifier 'if God permits' (eanper epitrepē ho theos), which the neutral reading identifies as carrying 'a somber edge' rather than being formulaic piety. Coming immediately before the warning of 6:4-6, it introduces the possibility that advancing toward maturity may not be available to everyone -- specifically, for those who have decisively fallen away, God does not permit a second foundation-laying. The framework of advancement versus regression has directional consequences for the believer's standing.",
+      "key_phrases": ["let us press on to maturity", "not laying again a foundation", "if God permits"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:4-6",
+      "section_title": "The Impossible Restoration",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading finds the author declares it impossible to restore to repentance those who have been once enlightened, tasted the heavenly gift, been made partakers of the Holy Spirit, tasted the good word of God and the powers of the age to come, and then have fallen away -- since they re-crucify the Son of God and put him to open shame.",
+      "relevance": "This is the most direct and severe statement in the letter bearing on the question. The neutral reading demonstrates that every one of the five participial descriptions uses vocabulary the author employs elsewhere in the letter for genuine spiritual experience: 'enlightened' (phōtisthentas, used in 10:32 for the audience's own conversion), 'tasted' (geusamenous, used in 2:9 for Jesus's real experience of death), 'partakers' (metochous, used in 3:1 and 3:14 for genuine sharing in the heavenly calling and in Christ). The neutral reading states: 'There is no basis in the author's own vocabulary for reading these as descriptions of superficial or counterfeit faith.' The impossibility operates on the same logic as the wilderness oath: the mechanism of restoration (the gospel itself) has been exhausted by rejection. There is no word beyond the Son, no gift beyond the Spirit, no age beyond the age to come. The falling away (parapesontas) is described as a decisive event, and those who fall 'crucify to themselves the Son of God' -- aligning themselves with his executioners and declaring his claims false.",
+      "key_phrases": ["it is impossible", "once been enlightened", "tasted of the heavenly gift", "partakers of the Holy Spirit", "tasted the good word of God and the powers of the age to come", "fallen away", "to restore them again to repentance", "crucify to themselves the Son of God", "put Him to open shame"],
+      "confidence": "high"
+    },
+    {
+      "reference": "6:7-8",
+      "section_title": "The Parable of the Ground",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading finds the author illustrates the warning of 6:4-6 with an agricultural parable: ground that receives rain and produces useful vegetation receives God's blessing, but ground that yields thorns and thistles (echoing the curse of Genesis 3:18) is worthless, close to being cursed, and ends up being burned.",
+      "relevance": "The parable directly bears on the question because the two types of ground receive the same rain. The neutral reading emphasizes: 'The difference between blessing and burning is not in what God provides but in what the ground produces.' The spiritual gifts of 6:4-5 are the rain; the question is the recipient's response. The same divine provision leads to either blessing or destruction, eliminating any reading that would treat the people in 6:4-5 as having received something inferior or counterfeit. The thorns-and-thistles language draws on Genesis 3:17-18 (the curse), Deuteronomy 11:10-17 (covenant blessing and curse mediated through rain imagery), and Isaiah 5:1-7 (God's vineyard receiving every care but producing worthless fruit). The phrase 'close to being cursed' (kataras engys) may indicate the audience has not yet reached the point of no return.",
+      "key_phrases": ["ground that drinks the rain", "produces vegetation useful", "receives a blessing from God", "yields thorns and thistles", "worthless and close to being cursed", "ends up being burned"],
+      "confidence": "high"
+    },
+    {
+      "reference": "6:9-12",
+      "section_title": "Encouragement and the Call to Diligence",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds the author shifts to encouragement, calling the audience 'beloved' (the only occurrence in the letter), expressing conviction that they are producing the fruit of salvation rather than the thorns of apostasy, and calling them to diligence and endurance so as to realize the full assurance of hope until the end.",
+      "relevance": "The passage bears on the question because even the encouragement is framed conditionally. The author's confidence is grounded in observable evidence: their ongoing service to the saints (6:10, with present participle 'still serving'). God's justice means he will not forget this work. But the encouragement is directional: 'demonstrate the same diligence so as to realize the full assurance of hope until the end' (6:11) and 'imitators of those who through faith and endurance inherit the promises' (6:12). The temporal marker 'until the end' (achri telous) matches 3:6 and 3:14, maintaining the pattern that perseverance to the end is the condition of final participation. The exhortation to avoid being 'sluggish' (nōthroi, the same word used in 5:11 for their dull hearing) links their current regression to the danger of falling away.",
+      "key_phrases": ["we are convinced of better things regarding you", "things that accompany salvation", "God is not unjust so as to forget your work", "full assurance of hope until the end", "through faith and endurance inherit the promises"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:13-15",
+      "section_title": "Abraham as the Model",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds the author presents Abraham as the model of one who 'through faith and endurance' obtained the promise: God swore by himself because he could swear by no one greater, and Abraham, having patiently waited, obtained what was promised.",
+      "relevance": "The passage bears on the question primarily by establishing the unbreakable reliability of God's oath -- God swore by himself because there was no greater authority to invoke, and the promise was fulfilled. This grounds the security of the divine commitment in God's own unchangeable character. At the same time, Abraham's 'patient waiting' (makrothymēsas, the verbal form of makrothymia from 6:12) models the endurance required to arrive at the promise's fulfillment. The passage holds together divine reliability and human perseverance: the promise is utterly sure, but arriving at its fulfillment requires sustained faith.",
+      "key_phrases": ["He swore by Himself", "I will greatly bless you and I will greatly multiply you", "having patiently waited, he obtained the promise"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:16-18",
+      "section_title": "The Logic of the Oath",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds the author explains that God, desiring to demonstrate the unchangeableness of his purpose to the heirs of the promise, confirmed it with an oath -- providing two unchangeable things (promise and oath) in which it is impossible for God to lie, giving strong encouragement to those who have taken refuge to hold firmly to the hope set before them.",
+      "relevance": "The passage bears on the question from both directions. The content emphasizes the absolute security of God's commitment: his purpose is 'unchangeable' (ametatheton), it is 'impossible for God to lie' (adynaton pseusasthai ton theon), and the double guarantee of promise and oath provides maximum assurance. This grounds the believer's hope in something that cannot fail from God's side. However, the purpose of this assurance is 'strong encouragement to hold firmly to the hope set before us' -- the need for encouragement to hold implies the possibility of releasing. The audience is described as 'we who have taken refuge' (hoi kataphygontes), echoing the cities of refuge where the person who reached them was protected as long as they remained within the city's boundaries. The dominant note is assurance grounded in God's faithfulness, applied to motivate perseverance.",
+      "key_phrases": ["the unchangeableness of His purpose", "two unchangeable things", "impossible for God to lie", "strong encouragement to hold firmly to the hope"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:19-20",
+      "section_title": "The Anchor and the Forerunner",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds the author describes the hope as an anchor of the soul -- both sure and reliable -- that enters within the veil into the heavenly sanctuary, where Jesus has entered as a forerunner, having become a high priest forever according to the order of Melchizedek.",
+      "relevance": "The passage bears on the question by presenting the believer's hope as anchored in the most secure location conceivable: the heavenly sanctuary, the very presence of God, behind the veil where Jesus serves as permanent high priest. The anchor is 'sure' (asphalē, not liable to fall) and 'reliable' (bebaian, firm and guaranteed). The word 'forerunner' (prodromos) transforms the Levitical model -- the high priest entered alone and came back out, but a forerunner opens a path others will follow, implying that Jesus's entry secures the audience's future entry. The permanence of Jesus's priesthood ('forever according to the order of Melchizedek') means the anchor is attached to something that cannot be removed. The security of the hope is grounded in the permanence of the priestly office that holds it in place.",
+      "key_phrases": ["an anchor of the soul", "both sure and reliable", "enters within the veil", "Jesus has entered as a forerunner for us", "a high priest forever according to the order of Melchizedek"],
+      "confidence": "medium"
+    }
+  ]
+}

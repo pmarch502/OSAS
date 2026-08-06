@@ -1,0 +1,60 @@
+{
+  "book": "Mark",
+  "chapter": 8,
+  "sections": [
+    {
+      "reference": "8:1-10",
+      "section_title": "The Second Feeding -- Bread for the Nations",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus feeds four thousand people with seven loaves in what appears to be Gentile territory, using seven generic baskets (spyrides) for the leftovers rather than the twelve Jewish baskets (kophinoi) of the first feeding, extending God's provision beyond Israel."
+    },
+    {
+      "reference": "8:11-13",
+      "section_title": "The Pharisees Demand a Sign",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Pharisees demand a sign from heaven to test Jesus; he sighs deeply, refuses, and calls them 'this generation,' placing them in continuity with the wilderness generation that saw God's acts and still demanded more."
+    },
+    {
+      "reference": "8:14-21",
+      "section_title": "The Leaven Warning and the Disciples' Failure to Understand",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus warns against the leaven of the Pharisees and Herod; the disciples misunderstand, and Jesus confronts them with his most sustained rebuke, diagnosing their hearts as hardened and applying to them the Isaiah 6 language previously reserved for outsiders.",
+      "relevance": "The neutral reading identifies the most alarming dimension of this passage: Jesus applies to his own disciples the same language of hardened hearts used for the Pharisees (3:5) and the same Isaiah 6 formulation ('Having eyes, do you not see? And having ears, do you not hear?') that in 4:12 characterized 'those who are outside.' The neutral reading states: 'In chapter 4, this condition characterized outsiders -- those who had positioned themselves at a distance from Jesus. Now Jesus applies the same language to the twelve. The insiders are exhibiting the condition of outsiders.' This bears on the permanence question because it demonstrates that insider status does not immunize against developing the same spiritual condition that characterizes those who are outside -- the very condition the author associates with inability to perceive, return, and be forgiven (4:12).",
+      "key_phrases": ["Do you still have your heart hardened?", "Having eyes, do you not see? And having ears, do you not hear?", "Do you not yet understand?"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "8:22-26",
+      "section_title": "The Two-Stage Healing of the Blind Man at Bethsaida",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus heals a blind man in two stages -- first partial sight where people appear as walking trees, then full clarity -- functioning as an enacted parable of the disciples' partial understanding that will require the cross and resurrection for completion."
+    },
+    {
+      "reference": "8:27-30",
+      "section_title": "Peter's Declaration at Caesarea Philippi",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter confesses Jesus as 'the Christ,' the first correct human identification in the document, but Jesus immediately commands silence because the title without the cross is dangerously incomplete."
+    },
+    {
+      "reference": "8:31-33",
+      "section_title": "The First Passion Prediction and the Satanic Rebuke",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus teaches that the Son of Man must suffer, be rejected by Israel's leaders, be killed, and rise after three days; Peter rebukes him, and Jesus rebukes Peter as 'Satan' for setting his mind on human purposes rather than God's.",
+      "relevance": "The passage demonstrates that a disciple who has correctly confessed Jesus as the Christ can immediately thereafter be identified with Satan -- God's ultimate adversary -- for opposing God's determined plan. The neutral reading notes: 'To think in human categories about the Christ is to stand with Satan against God.' This bears on the permanence question because it shows that correct confession and genuine insider status do not prevent a person from positioning themselves in direct opposition to God's purposes, and such opposition is identified not as a minor error but as alignment with the adversary himself.",
+      "key_phrases": ["Get behind Me, Satan", "you are not setting your mind on God's purposes, but on man's"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "8:34-38",
+      "section_title": "The Cost of Following a Suffering Messiah",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus summons the crowd and disciples together and defines following him as self-denial, cross-bearing, and willingness to lose one's life, warning that whoever is ashamed of him in this generation will face the Son of Man's shame at the eschatological judgment.",
+      "relevance": "This passage directly ties eschatological standing to ongoing faithfulness. The saving or losing of one's psyche (life/soul) depends on whether a person holds fast to Jesus or withdraws under social pressure. The neutral reading states: 'Those who were ashamed of him in the time of testing will find him ashamed of them in the time of judgment. The symmetry is exact and inescapable.' The passage is addressed to the crowd 'together with His disciples,' indicating these warnings apply to those already following Jesus, not merely to outsiders. The Son of Man's eschatological response mirrors the disciple's present response -- making final standing explicitly contingent on ongoing loyalty rather than established by an initial act of confession. The neutral reading concludes: 'The choice is binary: follow the way of the cross, or follow the way of Satan. There is no third option.'",
+      "key_phrases": ["whoever wants to save his life will lose it", "whoever loses his life for My sake and the gospel's will save it", "whoever is ashamed of Me and My words in this adulterous and sinful generation", "the Son of Man will also be ashamed of him when He comes in the glory of His Father with the holy angels"],
+      "confidence": "high"
+    }
+  ]
+}

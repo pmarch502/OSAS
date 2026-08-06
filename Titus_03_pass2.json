@@ -1,0 +1,66 @@
+{
+  "book": "Titus",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-2",
+      "section_title": "Civic Conduct -- The Community's Posture Toward the Outside World",
+      "category": "NOT_APPLICABLE",
+      "summary": "The community is instructed to be submissive to rulers and authorities, obedient, ready for every good work, avoiding slander and quarreling, and showing gentleness and courtesy toward all people."
+    },
+    {
+      "reference": "3:3",
+      "section_title": "The Reminder -- What We Once Were",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reminds the community that they were once foolish, disobedient, led astray, enslaved to various passions and pleasures, living in malice and envy, hated by others and hating one another -- establishing that their former condition was identical to the condition of the surrounding world."
+    },
+    {
+      "reference": "3:4-7",
+      "section_title": "The Second Theological Statement -- Salvation by Mercy Through the Washing of Regeneration",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "God saved us not because of our works in righteousness but according to his own mercy, through the washing of regeneration and renewal of the Holy Spirit poured out richly through Jesus Christ, so that being justified by his grace we might become heirs according to the hope of eternal life.",
+      "relevance": "The passage directly addresses the basis of salvation, excluding human works and grounding it entirely in God's mercy, grace, and initiative. The neutral reading states that 'every element of the statement emphasizes divine initiative and excludes human merit as the basis of salvation.' The regeneration language (palingenesia -- rebirth, re-creation) implies a fundamental transformation of identity effected by God. Justification is attributed to grace, not to ongoing conduct. The result is that believers become 'heirs according to the hope of eternal life,' connecting back to the pre-temporal promise of 1:2. The passage favors permanence because its logic implies that if salvation is not established by works, failure in subsequent works cannot reverse what grace established. However, the passage addresses how standing is established rather than explicitly whether it can be forfeited. The 'hope' language acknowledges that the full inheritance remains future, and the neutral reading notes that this statement 'does not devalue good works' but 'locates them properly: good works are the fruit of salvation, not the root of it' -- a formulation that grounds the demand for good works in the security of salvation rather than making salvation contingent upon them.",
+      "key_phrases": ["not because of works done by us in righteousness", "according to his own mercy", "washing of regeneration and renewal of the Holy Spirit", "justified by his grace", "heirs according to the hope of eternal life"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:8",
+      "section_title": "The Faithful Saying -- Believers Must Devote Themselves to Good Works",
+      "category": "NOT_APPLICABLE",
+      "summary": "The theological teaching is declared trustworthy, and Titus is to insist on it so that those who have believed in God may be careful to devote themselves to good works, which are declared excellent and profitable for people."
+    },
+    {
+      "reference": "3:9",
+      "section_title": "The Warning Against Foolish Controversies",
+      "category": "NOT_APPLICABLE",
+      "summary": "Titus is instructed to avoid foolish controversies, genealogies, dissensions, and quarrels about the law, which are declared unprofitable and worthless in contrast to the excellent and profitable good works."
+    },
+    {
+      "reference": "3:10-11",
+      "section_title": "The Divisive Person -- Warning and Rejection",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "A person who stirs up division is to be warned once and then twice, and after that rejected, on the grounds that such a person is warped, sinful, and self-condemned.",
+      "relevance": "The passage describes a process by which a member of the believing community can be warned and then rejected due to persistent divisive behavior. The person is described as 'warped' (exestraptai -- turned from the proper course and remaining in that twisted state) and as one who 'continues to sin' (hamartanei, present tense), and is declared 'self-condemned' -- their own refusal of correction constitutes their judgment against themselves. This implies that a community member's standing can deteriorate through persistent sinful behavior to the point of rejection and self-condemnation. The conditional implications arise from the fact that the person's behavior, not an external decree, produces the condemnation. However, the passage addresses communal discipline rather than explicitly addressing soteriological standing before God, and the 'warped' language could suggest the person was never genuinely transformed rather than that they lost a genuine standing.",
+      "key_phrases": ["after warning him once and then twice, have nothing more to do with him", "warped and sinful", "self-condemned"],
+      "confidence": "low"
+    },
+    {
+      "reference": "3:12-14",
+      "section_title": "Personal Instructions and the Final Charge About Good Works",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul gives travel instructions, charges Titus to provision fellow workers generously, and urges the community to learn to devote themselves to good works for pressing needs so that they may not be unfruitful.",
+      "relevance": "The warning against being 'unfruitful' (akarpoi) implies that fruitlessness is a real possibility for believers and is presented as something to be avoided through deliberate effort. The neutral reading connects this language to Jesus' teaching in John 15:1-8 ('Every branch in me that does not bear fruit he takes away') and states that 'the expectation of fruit-bearing is not an optional addendum to faith but an inherent dimension of it. A faith that does not produce fruit is a faith that has failed to fulfill its purpose.' The framing as something the community must 'learn' (manthanetosan) implies that devotion to good works requires intentional cultivation, not that it happens automatically. These elements carry conditional overtones: fruitlessness is possible, undesirable, and implies a failure of the purpose for which God saved them. However, the passage addresses practical good works rather than directly stating that standing before God is forfeited by unfruitfulness.",
+      "key_phrases": ["not be unfruitful", "learn to devote themselves to good works"],
+      "confidence": "low"
+    },
+    {
+      "reference": "3:15",
+      "section_title": "The Final Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "Final greetings are exchanged and grace is invoked as a continuing presence for the entire community."
+    }
+  ]
+}

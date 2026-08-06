@@ -1,0 +1,40 @@
+{
+  "book": "Romans",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1-5",
+      "section_title": "The Judge Stands Judged",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul turns on the one who judges others while practicing the same things, warning that presuming on God's patience is storing up wrath rather than securing exemption from judgment."
+    },
+    {
+      "reference": "2:6-11",
+      "section_title": "God Renders to Each According to Works, Without Partiality",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul states that God will render to each person according to their works: eternal life to those who by patience in well-doing seek glory, and wrath to those who are self-seeking and disobey truth, applying to Jew and Greek alike without partiality.",
+      "relevance": "The principle that God judges by works and shows no partiality bears directly on whether a believer's standing is determined by ongoing conduct. The criteria include 'patience in well-doing' (sustained pattern, not one-time act) for eternal life, and 'self-seeking' and disobedience for wrath. The neutral reading treats this as a genuine statement of God's judgment criteria, not merely hypothetical, noting the chiastic structure drives toward one conclusion: 'God's judgment is determined by what you do, and your ethnicity determines nothing.'",
+      "key_phrases": ["he will render to each one according to his works", "by patience in well-doing", "God shows no partiality"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:12-16",
+      "section_title": "Having the Law Does Not Determine the Outcome of Judgment",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul argues that possessing the Torah does not determine the outcome of judgment; the doers of the law will be justified, and even Gentiles who do by nature what the law requires demonstrate the law written on their hearts."
+    },
+    {
+      "reference": "2:17-24",
+      "section_title": "The One Who Relies on the Law Is Indicted by the Law",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul enumerates the genuine privileges of Jewish identity and then demolishes the assumption that these privileges provide protection, since the one who teaches others but does not practice what he teaches dishonors God and causes God's name to be blasphemed."
+    },
+    {
+      "reference": "2:25-29",
+      "section_title": "The Meaning of Circumcision and the Identity of the True Jew",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul argues that circumcision has value only when accompanied by obedience, that true circumcision is of the heart by the Spirit, and that the true Jew is one inwardly whose praise comes from God, not from human recognition."
+    }
+  ]
+}

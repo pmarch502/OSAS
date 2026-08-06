@@ -1,0 +1,80 @@
+{
+  "book": "Hebrews",
+  "chapter": 11,
+  "sections": [
+    {
+      "reference": "11:1-3",
+      "section_title": "What Faith Is and What It Does",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author defines faith as the substance of things hoped for and the conviction of things not seen, states that the ancestors gained God's approval through it, and asserts that by faith we understand the worlds were prepared by God's word from invisible origins."
+    },
+    {
+      "reference": "11:4",
+      "section_title": "Abel",
+      "category": "NOT_APPLICABLE",
+      "summary": "Abel offered a better sacrifice than Cain by faith, was attested as righteous by God's testimony about his gifts, and though dead, still speaks through his faith."
+    },
+    {
+      "reference": "11:5-6",
+      "section_title": "Enoch and the Universal Principle",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Enoch was taken up by faith so as not to see death, having been attested as pleasing to God before his removal, and the author states the universal principle that without faith it is impossible to please God, since the one who approaches God must believe that he exists and that he rewards those who seek him.",
+      "relevance": "The declaration that 'without faith it is impossible to please God' establishes faith as an absolute, ongoing requirement for right standing before God -- not a one-time condition but a continual necessity for anyone who 'approaches' (present participle, proserchomenon). The same verb for approaching God appears throughout the letter (4:16, 7:25, 10:22). If faith is the necessary condition for pleasing God, then the cessation of faith would mean the cessation of a pleasing relationship with God. The passage does not directly address whether established standing can be lost, but it establishes the conditional framework within which all standing before God operates.",
+      "key_phrases": ["without faith it is impossible to please Him", "the one who comes to God must believe that He exists and that He proves to be One who rewards those who seek Him"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "11:7",
+      "section_title": "Noah",
+      "category": "NOT_APPLICABLE",
+      "summary": "Noah, warned by God about unseen future events, in reverence prepared an ark for his household's salvation, condemning the world and becoming an heir of the righteousness that is according to faith."
+    },
+    {
+      "reference": "11:8-12",
+      "section_title": "Abraham and Sarah: The Foundation of the Promise",
+      "category": "NOT_APPLICABLE",
+      "summary": "Abraham obeyed by going out to an unknown destination, lived as a foreigner in the promised land dwelling in tents while looking for the city with foundations whose architect is God, and Sarah received ability to conceive because she considered God faithful; from one man as good as dead came descendants as numerous as the stars."
+    },
+    {
+      "reference": "11:13-16",
+      "section_title": "The Interpretive Center: They Died Without Receiving",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "All these ancestors died in faith without receiving the promises, having seen and greeted them from a distance, and confessed themselves strangers and exiles on earth; they desired a heavenly homeland and refused to return to their country of origin, for which reason God was not ashamed to be called their God and prepared a city for them.",
+      "relevance": "The patriarchs 'could have gone back' to their country of origin but refused. The neutral reading explicitly connects this to the audience's temptation to return to the old covenant system: 'The implied question to the audience is: will you do what the patriarchs refused to do? Will you turn back when the road is open?' The possibility of returning is presented as real, and the patriarchs' faithfulness consisted in their ongoing refusal to take it. This implies that ongoing directional choice -- pressing forward rather than turning back -- is integral to faith, which has conditionality implications for the audience's standing.",
+      "key_phrases": ["they confessed that they were strangers and exiles on the earth", "if they had been thinking of that country from which they went out, they would have had opportunity to return", "they desire a better country, that is, a heavenly one"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "11:17-22",
+      "section_title": "The Remaining Patriarchs: Abraham, Isaac, Jacob, Joseph",
+      "category": "NOT_APPLICABLE",
+      "summary": "Abraham offered Isaac by faith, reasoning that God could raise the dead; Isaac, Jacob, and Joseph each exercised faith in blessing future generations and giving instructions concerning future events, demonstrating trust in God's promises beyond their own lifetimes."
+    },
+    {
+      "reference": "11:23-29",
+      "section_title": "Moses and the Exodus",
+      "category": "NOT_APPLICABLE",
+      "summary": "Moses's parents hid him by faith without fearing the king's edict; Moses by faith refused Pharaoh's household, chose solidarity with God's suffering people over temporary pleasure, considered the reproach of Christ greater riches than Egypt's treasures, left Egypt enduring as one who sees the invisible God, kept the Passover and blood-sprinkling, and the people crossed the Red Sea by faith."
+    },
+    {
+      "reference": "11:30-31",
+      "section_title": "Jericho and Rahab",
+      "category": "NOT_APPLICABLE",
+      "summary": "By faith the walls of Jericho fell after being encircled for seven days, and Rahab the prostitute did not perish with the disobedient because she welcomed the spies in peace, demonstrating that faith rather than pedigree determined the outcome."
+    },
+    {
+      "reference": "11:32-38",
+      "section_title": "The Rapid Catalogue: Triumph and Suffering",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author summarizes a vast catalogue of those who by faith conquered kingdoms, shut lions' mouths, quenched fire, and escaped the sword, alongside others who were tortured refusing release for a better resurrection, mocked, scourged, imprisoned, stoned, sawn in two, and driven into caves -- people of whom the world was not worthy."
+    },
+    {
+      "reference": "11:39-40",
+      "section_title": "Approved but Not Yet Completed",
+      "category": "NOT_APPLICABLE",
+      "summary": "All these gained God's approval through their faith yet did not receive what was promised, because God had provided something better for the audience's generation, so that apart from them the ancestors would not be made perfect."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "book": "Matthew",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-6",
+      "section_title": "The Herald's Appearance and the Isaiah Quotation",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage introduces John as the fulfillment of Isaiah 40:3, presenting the arrival of YHWH to redeem his people, with John's Elijah-like appearance signaling the eschatological moment and his baptism in the Jordan symbolically reenacting Israel's entry into God's purposes."
+    },
+    {
+      "reference": "3:7-10",
+      "section_title": "John's Confrontation With the Pharisees and Sadducees",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage establishes that Abrahamic descent is insufficient for covenant standing, demanding instead visible fruit worthy of repentance, with every fruitless tree cut down and thrown into fire.",
+      "relevance": "John directly declares that covenant identity (being children of Abraham) does not secure standing before God; what matters is fruit -- visible, tangible evidence of genuine repentance. The warning that every tree not bearing good fruit is cut down and thrown into fire implies that those within the covenant community face exclusion based on their conduct, not their heritage. This principle -- that belonging to God's people requires demonstrable response, not merely positional identity -- bears directly on whether standing before God is conditional on ongoing faithfulness.",
+      "key_phrases": ["bear fruit worthy of repentance", "do not presume to say to yourselves, 'We have Abraham as our father'", "every tree not bearing good fruit is cut down and thrown into fire", "already the axe is laid to the root of the trees"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:11-12",
+      "section_title": "The Coming One and the Two Baptisms",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage describes the coming one's ministry as a binary sorting -- Spirit for the wheat, unquenchable fire for the chaff -- using the threshing floor image to depict a total separation within Israel based on response.",
+      "relevance": "The sorting motif implies that those within Israel (not outsiders) will be separated into two groups based on their response to the coming kingdom. The threshing floor does not improve grain; it separates what is already wheat from what is already chaff. This image of sorting within the covenant community, where some face unquenchable fire, supports the view that standing within God's people is not automatically permanent but depends on the quality of one's response.",
+      "key_phrases": ["he will baptize you with the Holy Spirit and fire", "his winnowing fork is in his hand", "gathering the wheat into the barn but burning the chaff with unquenchable fire"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:13-15",
+      "section_title": "Jesus Comes to John for Baptism",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage shows Jesus submitting to John's baptism to 'fulfill all righteousness,' establishing righteousness as conformity to God's will and purposes, with Jesus and John each playing their roles in the divine plan."
+    },
+    {
+      "reference": "3:16-17",
+      "section_title": "The Heavens Open and the Divine Declaration",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage presents heaven's public identification of Jesus as the Son who combines the royal identity of Psalm 2 with the servant identity of Isaiah 42, with the Spirit's descent anointing him as both Davidic king and Servant of YHWH."
+    }
+  ]
+}

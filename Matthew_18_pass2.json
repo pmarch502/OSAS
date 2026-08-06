@@ -1,0 +1,56 @@
+{
+  "book": "Matthew",
+  "chapter": 18,
+  "sections": [
+    {
+      "reference": "18:1-5",
+      "section_title": "The Question About Greatness and the Child as Standard",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "In response to the disciples' question about who is greatest in the kingdom, Jesus places a child among them and declares that unless they turn and become like children they will never enter the kingdom, and that whoever humbles himself like a child is the greatest.",
+      "relevance": "The passage is addressed to existing disciples who are told they will 'never enter the kingdom of heaven' unless they undergo a fundamental reorientation. The neutral reading notes that Jesus 'does not simply answer the question about rank; he overturns its premise' by telling them 'they may not enter at all unless they change.' The verb strepho denotes a decisive reversal of orientation. This implies that current discipleship status does not automatically guarantee entry into the kingdom -- a transformation of posture is required, and the disciples are warned they lack it.",
+      "key_phrases": ["unless you turn and become like children, you will never enter the kingdom of heaven", "whoever humbles himself like this child is the greatest in the kingdom of heaven"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "18:6-9",
+      "section_title": "Warning Against Causing the Vulnerable to Stumble",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus warns with extreme severity against causing 'little ones who believe in me' to stumble, pronounces woe on the world for stumbling blocks while holding individual agents culpable, and urges radical self-discipline as preferable to being thrown into eternal fire or Gehenna.",
+      "relevance": "The warnings are addressed to and about members of the believing community ('little ones who believe in me'). Believers can be caused to stumble (skandalizo), and believers themselves face the threat of Gehenna if they do not deal radically with sources of sin. The neutral reading notes the 'catastrophic gravity' of causing a believer to fall and that the warnings imply actual consequences are 'worse than drowning with a millstone.' This implies that believers face genuine spiritual danger and that their standing is not automatically protected from the consequences of stumbling or causing others to stumble.",
+      "key_phrases": ["whoever causes one of these little ones who believe in me to stumble", "it is better for you to enter life crippled or lame than with two hands or two feet to be thrown into the eternal fire", "better for you to enter life with one eye than with two eyes to be thrown into the hell of fire"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "18:10-14",
+      "section_title": "The Father's Concern for the Little Ones: The Lost Sheep",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus warns against despising the little ones whose angels see the Father's face, tells the parable of a shepherd who leaves the ninety-nine to seek one straying sheep, and declares that it is not the Father's will that one of these little ones should perish.",
+      "relevance": "The parable addresses the reality that members of the believing community can go astray and face the possibility of perishing. The neutral reading explicitly states: 'This does not describe a situation in which loss is impossible -- the parable itself envisions a sheep that has gone astray, and the entire discourse addresses what to do when community members sin.' The Father wills that none perish, but the parable's existence as a warning implies that perishing is a real danger for those who wander, requiring active pursuit by the community. The Father's will establishes the aspiration; the parable acknowledges the real possibility of loss.",
+      "key_phrases": ["if one of them has gone astray", "does he not leave the ninety-nine on the mountains and go in search of the one that went astray", "it is not the will of your Father who is in heaven that one of these little ones should perish"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "18:15-20",
+      "section_title": "Confronting Sin Within the Community",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus outlines a three-step discipline process for addressing sin within the community -- private confrontation, witnesses, full assembly -- with the final step treating the unrepentant member as a Gentile and tax collector, and grounds the community's binding-and-loosing authority in Jesus's own presence among those gathered in his name.",
+      "relevance": "The discipline process assumes that a community member ('your brother') can sin so persistently and refuse correction at every level that he is effectively placed outside the community. The neutral reading notes that the process 'exhausts every avenue of restoration before any exclusionary action is taken,' but exclusion remains a real outcome. The binding-and-loosing authority ratified by heaven means that the community's determination that a brother has placed himself outside carries heavenly endorsement. This implies that membership in the believing community is not unconditionally permanent -- a brother can, through persistent sin and refusal of restoration, forfeit his standing.",
+      "key_phrases": ["if your brother sins against you", "if he refuses to listen even to the assembly, let him be to you as a Gentile and a tax collector", "whatever you bind on earth shall be bound in heaven", "where two or three are gathered in my name, there am I among them"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "18:21-35",
+      "section_title": "Peter's Question and the Parable of the Unforgiving Servant",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Peter asks how many times to forgive and Jesus answers seventy-seven times, then tells a parable in which a king forgives a servant's immeasurable debt but revokes the forgiveness when the servant refuses to forgive a fellow servant's trivial debt, concluding: 'So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart.'",
+      "relevance": "This parable directly and explicitly addresses whether divine forgiveness, once genuinely granted, can be revoked. The neutral reading states: 'The forgiveness was real -- the king genuinely canceled the debt. But the servant's subsequent refusal to extend mercy to his fellow servant caused the king to reverse the cancellation. Forgiveness, in the economy of the kingdom as the author presents it, is not a one-time transaction that cannot be undone. It is conditioned on the recipient's response.' Jesus's application -- 'So also my heavenly Father will do to every one of you' -- makes this principle universal and inescapable for the entire community. The passage is the most explicit statement in these chapters that a genuinely granted divine benefit (forgiveness of an unpayable debt) can be withdrawn based on the recipient's subsequent conduct (refusal to extend mercy). This directly answers the permanence/conditionality question: divine forgiveness is conditional on the forgiven person's ongoing practice of forgiveness.",
+      "key_phrases": ["I forgave you all that debt because you pleaded with me", "should you not have had mercy on your fellow servant, as I had mercy on you", "in anger his master delivered him to the jailers, until he should pay all his debt", "so also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart"],
+      "confidence": "high"
+    }
+  ]
+}

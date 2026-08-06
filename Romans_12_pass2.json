@@ -1,0 +1,34 @@
+{
+  "book": "Romans",
+  "chapter": 12,
+  "sections": [
+    {
+      "reference": "12:1-2",
+      "section_title": "The 'Therefore' -- Bodies as Living Sacrifice, the Renewed Mind",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul draws the practical conclusion from the entire theological argument of chapters 1-11: believers are to present their bodies as a living sacrifice and be transformed by the renewal of the mind, which enables discernment of God's will -- the good, acceptable, and perfect. The 'therefore' (oun) gathers everything God has done and makes it the ground of an ongoing ethical obligation.",
+      "relevance": "The passage implies that the believer's position requires ongoing, active response to God's mercies. The imperative structure -- 'present your bodies,' 'do not be conformed,' 'be transformed' -- describes not a one-time event but a sustained posture of self-offering. The neutral reading traces the arc from the adokimos nous ('debased mind') of 1:28 to the anakainosis tou noos ('renewal of the mind') of 12:2, noting that 'what was lost in the fall is restored in Christ through the Spirit.' This arc could in principle be traversed in reverse if the mind ceases to be renewed. The passage presents the ethical life not as an optional supplement to salvation but as the necessary, ongoing response to God's mercies -- suggesting that the believer's standing involves continuous engagement rather than a settled, unalterable status.",
+      "key_phrases": ["I appeal to you therefore, brothers, by the mercies of God", "present your bodies as a living sacrifice", "do not be conformed to this world", "be transformed by the renewal of your mind", "that by testing you may discern what is the will of God"],
+      "confidence": "low"
+    },
+    {
+      "reference": "12:3-8",
+      "section_title": "Sober Self-Assessment and the Body's Varied Members",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul instructs each member not to think more highly of themselves than they ought but to exercise sober judgment according to the measure of faith God has assigned; the body metaphor establishes that the community is one body in Christ with diverse members and diverse gifts -- prophecy, service, teaching, exhortation, giving, leading, and mercy -- each to be exercised within its proper sphere."
+    },
+    {
+      "reference": "12:9-13",
+      "section_title": "The Shape of Love Within the Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes the concrete expressions of genuine love within the community: unhypocritical affection, abhorrence of evil and clinging to good, brotherly devotion, mutual honor, unflagging zeal, fervent spirit, service to the Lord, rejoicing in hope, endurance in tribulation, persistence in prayer, sharing in the needs of the saints, and active pursuit of hospitality."
+    },
+    {
+      "reference": "12:14-21",
+      "section_title": "Relations with the World Beyond the Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul instructs the community to bless persecutors rather than curse them, to enter into others' joys and sorrows, to live in harmony and associate with the lowly rather than being haughty, to repay no one evil for evil, to live peaceably with all insofar as possible, to leave vengeance to God (citing Deuteronomy 32:35), to feed and give drink to the hungry enemy, and to overcome evil not with counter-evil but with good."
+    }
+  ]
+}

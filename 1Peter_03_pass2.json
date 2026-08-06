@@ -1,0 +1,104 @@
+{
+  "book": "1 Peter",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-2",
+      "section_title": "Wives and Power of Conduct",
+      "category": "NOT_APPLICABLE",
+      "summary": "Wives are instructed to be subject to their own husbands so that disobedient husbands may be won without a word through the wives' chaste and respectful conduct."
+    },
+    {
+      "reference": "3:3-4",
+      "section_title": "Adornment God Values",
+      "category": "NOT_APPLICABLE",
+      "summary": "Adornment should not be external (braiding, gold, fine clothing) but the hidden person of the heart with the imperishable quality of a gentle and quiet spirit, which is precious in God's sight."
+    },
+    {
+      "reference": "3:5-6",
+      "section_title": "Sarah as Exemplar",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Holy women of the past adorned themselves by being submissive to their husbands, as Sarah obeyed Abraham and called him lord, and the audience has become her children 'if you do what is right without being frightened by any fear.'",
+      "relevance": "The conditional clause 'if you do what is right' (agathopoiousai) makes identity as Sarah's children contingent on conduct. The community's membership in the lineage of faithful women is not automatic but depends on doing right. This mirrors the broader pattern in 1 Peter where identity markers are connected to ongoing faithfulness rather than being unconditionally permanent.",
+      "key_phrases": ["you have become her children if you do what is right", "without being frightened by any fear"],
+      "confidence": "low"
+    },
+    {
+      "reference": "3:7",
+      "section_title": "Husbands and Shared Inheritance",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Husbands are to live with their wives in an understanding way, granting her honor as a fellow heir of the grace of life, so that their prayers will not be hindered.",
+      "relevance": "The consequence clause 'so that your prayers will not be hindered' (eis to mē enkoptesthai tas proseuchas hymōn) directly connects a husband's conduct toward his wife with his access to God through prayer. Dishonoring a fellow heir obstructs the channel of communication with God. If conduct can obstruct prayer -- which is the believer's ongoing relational access to God -- then the believer's functional standing is affected by behavior. The passage does not address loss of salvation directly, but it establishes the principle that misconduct within the community has spiritual consequences.",
+      "key_phrases": ["live with your wives in an understanding way", "grant her honor as a fellow heir of the grace of life", "so that your prayers will not be hindered"],
+      "confidence": "low"
+    },
+    {
+      "reference": "3:8-9",
+      "section_title": "Community's Unified Ethic",
+      "category": "NOT_APPLICABLE",
+      "summary": "The community is called to harmony, sympathy, brotherly love, compassion, and humility, not returning evil for evil or insult for insult but giving blessing instead, because they were called for the purpose of inheriting a blessing."
+    },
+    {
+      "reference": "3:10-12",
+      "section_title": "Psalm 34 Citation",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Psalm 34 is cited to establish the principle that the one who desires life and good days must keep the tongue from evil, turn away from evil, do good, and seek peace, because the Lord's eyes are on the righteous and his ears attend to their prayer, but his face is against those who do evil.",
+      "relevance": "The Psalm citation presents God's favor as correlating directly with conduct: eyes on the righteous, ears to their prayer, face against evildoers. The verbs are imperative: 'keep,' 'turn away,' 'do,' 'seek' -- ongoing active commands. God's responsive orientation -- toward the righteous, against evildoers -- implies that the community's standing before God is not fixed but corresponds to whether they are doing good or doing evil. The face of the Lord 'against those who do evil' includes no exception for those who were once righteous.",
+      "key_phrases": ["the eyes of the Lord are toward the righteous, and His ears attend to their prayer", "but the face of the Lord is against those who do evil", "the one who desires life, to love and see good days"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:13-14",
+      "section_title": "Suffering for Doing Right",
+      "category": "NOT_APPLICABLE",
+      "summary": "The community is told that no one will harm them if they are zealous for what is good, but even if they suffer for the sake of righteousness they are blessed and should not fear or be troubled."
+    },
+    {
+      "reference": "3:15-16",
+      "section_title": "Defense of Hope",
+      "category": "NOT_APPLICABLE",
+      "summary": "The community is to sanctify Christ as Lord in their hearts and be ready to give a defense for the hope that is in them, with gentleness and reverence, keeping a good conscience so that those who revile their good behavior in Christ may be put to shame."
+    },
+    {
+      "reference": "3:17",
+      "section_title": "The Principle Stated",
+      "category": "NOT_APPLICABLE",
+      "summary": "It is better to suffer for doing good, if God should will it so, than for doing evil -- a practical principle about the relative outcomes of innocent versus guilty suffering."
+    },
+    {
+      "reference": "3:18-19",
+      "section_title": "Christ's Suffering and Proclamation",
+      "category": "NOT_APPLICABLE",
+      "summary": "Christ died once for sins, the righteous for the unrighteous, to bring the community to God, put to death in the flesh but made alive in the spirit, in which he also went and made proclamation to the spirits now in prison."
+    },
+    {
+      "reference": "3:20",
+      "section_title": "Days of Noah",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "In the days of Noah, the patience of God waited while the ark was being prepared, and only a few -- eight persons -- were brought safely through water, establishing a type of salvation through judgment in which the faithful minority is saved while the disobedient majority is not.",
+      "relevance": "The Noah typology establishes that God's patience has limits and that salvation through judgment involves a minority who were faithful while the majority were disobedient. The correspondence to the audience's situation is the typological point: they, too, are a faithful minority in a world of disobedience. The fact that only eight were saved implies that salvation is not universal or automatic even within a world that had access to Noah's preaching and example. Faithfulness during the period of God's patience is what distinguishes the saved from the lost.",
+      "key_phrases": ["the patience of God kept waiting in the days of Noah", "a few, that is, eight persons, were brought safely through the water"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:21",
+      "section_title": "Baptism as Antitype",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Baptism, which corresponds to the Noah event as an antitype, now saves the community -- not the removal of dirt from the flesh but an appeal to God for a good conscience -- through the resurrection of Jesus Christ.",
+      "relevance": "The statement that baptism 'now saves you' (nyn sōzei baptisma) is significant, but the neutral reading identifies the critical qualifier: what saves is not the external washing but the 'appeal to God for a good conscience' (syneidēseōs agathēs eperōtēma eis theon). The saving element is relational and internal -- a commitment or pledge toward God -- not merely ritual. This implies that the saving power of baptism is connected to the ongoing disposition of the person toward God, not to the one-time ritual act alone. A good conscience that deteriorates would presumably undermine the basis of what baptism effected.",
+      "key_phrases": ["corresponding to that, baptism now saves you", "not the removal of dirt from the flesh, but an appeal to God for a good conscience", "through the resurrection of Jesus Christ"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:22",
+      "section_title": "Christ's Cosmic Authority",
+      "category": "NOT_APPLICABLE",
+      "summary": "Christ is at the right hand of God, having gone into heaven, with angels and authorities and powers subjected to him."
+    }
+  ]
+}

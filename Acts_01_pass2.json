@@ -1,0 +1,62 @@
+{
+  "book": "Acts",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Prologue and the Link to the First Volume",
+      "category": "NOT_APPLICABLE",
+      "summary": "Literary prologue addressing Theophilus, establishing Acts as the continuation of what Jesus 'began' to do and teach through his apostles."
+    },
+    {
+      "reference": "1:3-5",
+      "section_title": "The Forty Days and the Promise of the Spirit",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus presents himself alive with many convincing proofs over forty days, teaches about the kingdom of God, and commands the apostles to wait in Jerusalem for the promised baptism with the Holy Spirit."
+    },
+    {
+      "reference": "1:6-8",
+      "section_title": "The Question About Israel's Kingdom and Jesus's Redirection",
+      "category": "NOT_APPLICABLE",
+      "summary": "The disciples ask about restoring the kingdom to Israel; Jesus redirects from timing to mission, giving the programmatic statement that they will be his witnesses from Jerusalem to the end of the earth."
+    },
+    {
+      "reference": "1:9-11",
+      "section_title": "The Ascension",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus is lifted up into the cloud of divine presence while the apostles watch, and two angelic figures promise his return in the same manner."
+    },
+    {
+      "reference": "1:12-14",
+      "section_title": "The Return to Jerusalem and the Gathered Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "The community of about 120 persons -- apostles, women, Mary, and Jesus's brothers -- gathers in the upper room with one mind, continually devoting themselves to prayer."
+    },
+    {
+      "reference": "1:15-20",
+      "section_title": "Peter's Speech About Judas",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Peter explains that Judas, who was fully counted among the apostles and received his share in the ministry, fulfilled scripture by becoming a guide for those who arrested Jesus and meeting a violent end.",
+      "relevance": "Judas is described with full insider language: he was 'counted among us' (katarithmemenos) and 'received his share in this ministry' (elachen ton kleron). The neutral reading emphasizes he was not an outsider or infiltrator but a chosen apostle who became a traitor. This bears on whether someone genuinely included in God's community can fall from that position. However, the passage addresses Judas's apostolic defection as scriptural fulfillment rather than directly arguing about a believer's standing before God.",
+      "key_phrases": ["he was counted among us", "received his share in this ministry", "became a guide to those who arrested Jesus"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:21-22",
+      "section_title": "The Qualifications for Replacing Judas",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter defines the criteria for replacing Judas: the candidate must have accompanied Jesus from John's baptism through the ascension and must serve as a witness of the resurrection."
+    },
+    {
+      "reference": "1:23-26",
+      "section_title": "The Selection of Matthias",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The community prays for God to reveal his choice between two candidates; the prayer describes Judas as one who 'turned aside' from ministry and apostleship 'to go to his own place'; the lot falls on Matthias, restoring the Twelve.",
+      "relevance": "The prayer's language about Judas is directly relevant: he 'turned aside' (parabaino -- to transgress, to deviate) from 'this ministry and apostleship' to go to 'his own place.' The neutral reading notes the verb indicates voluntary departure, not involuntary removal, and 'his own place' implies an eschatological destination corresponding to his choices. An apostle chosen by Jesus himself voluntarily abandoned his calling, with the implication of grave eschatological consequences.",
+      "key_phrases": ["turned aside to go to his own place", "this ministry and apostleship from which Judas turned aside"],
+      "confidence": "medium"
+    }
+  ]
+}

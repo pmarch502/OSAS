@@ -1,0 +1,82 @@
+{
+  "book": "John",
+  "chapter": 4,
+  "sections": [
+    {
+      "reference": "4:1-3",
+      "section_title": "Departure from Judea",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus leaves Judea for Galilee when the Pharisees learn he is making and baptizing more disciples than John."
+    },
+    {
+      "reference": "4:4-6",
+      "section_title": "The Necessity of Samaria and Jacob's Well",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus passes through Samaria by divine necessity and arrives at Jacob's well near Sychar, tired from the journey."
+    },
+    {
+      "reference": "4:7-9",
+      "section_title": "The Request for Water",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus asks a Samaritan woman for water, and she expresses surprise that a Jew would speak to a Samaritan."
+    },
+    {
+      "reference": "4:10-15",
+      "section_title": "Living Water",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus offers the woman 'living water' that will become in the one who drinks it a spring of water springing up to eternal life, in contrast to Jacob's well water from which one thirsts again.",
+      "relevance": "The metaphor of a spring placed within the person — continuously 'springing up to eternal life' — suggests an internal, self-renewing source that continues to produce life. The contrast with ordinary water (which requires repeated drinking) emphasizes that this provision is not temporary or exhaustible. The spring metaphor inherently suggests permanence: once the spring is within, it keeps flowing. However, the passage describes the nature and quality of the gift rather than explicitly addressing whether the recipient can walk away from or lose the gift.",
+      "key_phrases": ["the water that I will give him will become in him a spring of water", "springing up to eternal life", "whoever drinks of the water that I will give him shall never thirst"],
+      "confidence": "low"
+    },
+    {
+      "reference": "4:16-19",
+      "section_title": "The Exposure of Her Situation",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus reveals his knowledge of the woman's marital history, prompting her to identify him as a prophet."
+    },
+    {
+      "reference": "4:20-24",
+      "section_title": "Worship in Spirit and Truth",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus tells the woman that true worship will not be tied to a specific geographic location but will be in spirit and truth, and that the Father seeks such worshipers."
+    },
+    {
+      "reference": "4:25-26",
+      "section_title": "The Messiah Declaration",
+      "category": "NOT_APPLICABLE",
+      "summary": "The woman mentions the coming Messiah, and Jesus identifies himself with the words 'I am, the one speaking to you.'"
+    },
+    {
+      "reference": "4:27-30",
+      "section_title": "The Disciples Return, the Woman Departs",
+      "category": "NOT_APPLICABLE",
+      "summary": "The disciples return and are surprised Jesus is speaking with a Samaritan woman; the woman leaves her water jar and goes to the city to tell others about Jesus."
+    },
+    {
+      "reference": "4:31-38",
+      "section_title": "Food, Harvest, and the Work of the Sent One",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus tells his disciples that his food is to do the will of the one who sent him and to finish his work, then uses harvest imagery to describe the readiness of the Samaritan field for spiritual harvest."
+    },
+    {
+      "reference": "4:39-42",
+      "section_title": "The Samaritans Believe",
+      "category": "NOT_APPLICABLE",
+      "summary": "Many Samaritans believe because of the woman's testimony, and after hearing Jesus directly, they confess him as the Savior of the world — moving from secondhand report to personal knowledge."
+    },
+    {
+      "reference": "4:43-45",
+      "section_title": "Reception in Galilee",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus goes to Galilee, where the Galileans welcome him because they had seen the signs he performed in Jerusalem at the feast."
+    },
+    {
+      "reference": "4:46-54",
+      "section_title": "The Second Sign -- The Royal Official's Son",
+      "category": "NOT_APPLICABLE",
+      "summary": "A royal official begs Jesus to heal his dying son; Jesus declares the son will live, and the man believes Jesus's word and departs, finding that his son recovered at the exact hour Jesus spoke."
+    }
+  ]
+}

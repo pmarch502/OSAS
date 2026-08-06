@@ -1,0 +1,76 @@
+{
+  "book": "Luke",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1-5",
+      "section_title": "The Census and the Journey to Bethlehem",
+      "category": "NOT_APPLICABLE",
+      "summary": "Augustus's decree for a census brings Joseph and the pregnant Mary from Nazareth to Bethlehem, the city of David, fulfilling the Davidic promise through the mechanism of imperial power."
+    },
+    {
+      "reference": "2:6-7",
+      "section_title": "The Birth",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus is born, wrapped in cloths, and laid in a manger because there is no room in the inn, embodying the reversal pattern of Mary's Magnificat in which God exalts the humble."
+    },
+    {
+      "reference": "2:8-14",
+      "section_title": "The Announcement to the Shepherds",
+      "category": "NOT_APPLICABLE",
+      "summary": "An angel announces the birth of a Savior, Christ the Lord, to shepherds in the fields near Bethlehem, using titles that in the Roman world belonged to Caesar, while the heavenly host declares glory to God and peace among people with whom He is pleased."
+    },
+    {
+      "reference": "2:15-20",
+      "section_title": "The Shepherds' Response",
+      "category": "NOT_APPLICABLE",
+      "summary": "The shepherds go to Bethlehem, confirm the angel's message, become the first human proclaimers of the good news, and return glorifying God, while Mary treasures and ponders these things in her heart."
+    },
+    {
+      "reference": "2:21",
+      "section_title": "Circumcision and Naming",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus is circumcised on the eighth day and given the name the angel commanded before his conception, placing him within the Abrahamic covenant community."
+    },
+    {
+      "reference": "2:22-24",
+      "section_title": "The Presentation at the Temple",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus's parents fulfill the Torah's requirements for purification of the mother and consecration of the firstborn, offering the poor person's sacrifice, with the author repeatedly emphasizing complete obedience to the Law of the Lord."
+    },
+    {
+      "reference": "2:25-35",
+      "section_title": "Simeon's Recognition and Declaration",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Simeon, a righteous man waiting for the consolation of Israel with the Holy Spirit upon him, declares the child to be God's salvation and a light to the Gentiles, but also prophesies that the child is appointed for the fall and rise of many in Israel and as a sign to be opposed, so that the thoughts of many hearts may be revealed.",
+      "relevance": "Simeon's prophecy that Jesus is 'appointed for the fall and rise of many in Israel' introduces a conditional dynamic within the covenant community. The outcome for those in Israel -- whether they fall or rise -- depends on their response to this child, and the inner dispositions of their hearts will be revealed by that response. Being within Israel does not guarantee rising rather than falling; the response to God's Messiah is the determining factor.",
+      "key_phrases": ["appointed for the fall and rise of many in Israel", "a sign to be opposed", "thoughts from many hearts may be revealed"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:36-38",
+      "section_title": "Anna's Recognition",
+      "category": "NOT_APPLICABLE",
+      "summary": "The prophetess Anna, from the tribe of Asher, recognizes the child and speaks of him to all who were looking for the redemption of Jerusalem, representing the faithful remnant within Israel."
+    },
+    {
+      "reference": "2:39-40",
+      "section_title": "Return to Nazareth and Growth",
+      "category": "NOT_APPLICABLE",
+      "summary": "After fulfilling all the Law's requirements, the family returns to Nazareth, where the child grows and becomes strong, increasing in wisdom with the grace of God upon him."
+    },
+    {
+      "reference": "2:41-50",
+      "section_title": "The Twelve-Year-Old in the Temple",
+      "category": "NOT_APPLICABLE",
+      "summary": "At age twelve, Jesus is found in the temple among the teachers, speaks his first recorded words identifying the temple as 'my Father's house,' and introduces the divine necessity that will drive his entire ministry."
+    },
+    {
+      "reference": "2:51-52",
+      "section_title": "Obedience and Growth",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus returns to Nazareth, submits to his parents' authority, and continues to increase in wisdom, stature, and favor with God and people, paralleling the description of the child Samuel."
+    }
+  ]
+}

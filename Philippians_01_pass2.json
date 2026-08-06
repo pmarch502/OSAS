@@ -1,0 +1,60 @@
+{
+  "book": "Philippians",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul and Timothy identify themselves as slaves of Christ Jesus and greet the saints at Philippi, including overseers and deacons, with grace and peace."
+    },
+    {
+      "reference": "1:3-8",
+      "section_title": "Thanksgiving and the Language of Partnership",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Paul thanks God for the Philippians' continuous partnership (koinonia) in the gospel from the first day, and expresses confidence that God who began a good work in them will bring it to completion until the day of Christ Jesus.",
+      "relevance": "Verse 6 is a key proof-text for permanence: 'He who began a good work in you will perfect it until the day of Christ Jesus.' The neutral reading identifies the confidence as grounded in God's character as one who completes what he starts, not in the Philippians' own ability. However, the reading also connects this confidence to observable evidence -- the Philippians' sustained koinonia -- making it an expression of Paul's personal confidence about a specific community rather than a universal doctrinal guarantee that no believer can fall away. The passage leans toward permanence because it attributes the work's completion to God's initiative and faithfulness, but it stops short of being a direct argument that the believer's standing is unconditionally guaranteed.",
+      "key_phrases": ["He who began a good work in you will perfect it until the day of Christ Jesus", "your participation in the gospel from the first day until now", "partakers of grace with me"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:9-11",
+      "section_title": "Paul's Prayer for the Community",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul prays that the Philippians' love may abound in knowledge and discernment, enabling them to approve what is excellent and be sincere and blameless until the day of Christ, filled with the fruit of righteousness.",
+      "relevance": "The prayer traces a connected chain of growth from love through discernment to sincerity and blamelessness 'until the day of Christ.' The neutral reading notes this is 'not a once-for-all achievement but an ongoing state that must be maintained.' The prayer's structure assumes that the community's moral life requires continuous growth and development -- love must keep abounding, discernment must keep sharpening, sincerity must be sustained. This ongoing process, oriented toward a future evaluation point (the day of Christ), implies that the community's standing is connected to a trajectory that must be maintained rather than a status already permanently secured.",
+      "key_phrases": ["sincere and blameless until the day of Christ", "your love may abound still more and more", "approve the things that are excellent"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:12-14",
+      "section_title": "Paul's Imprisonment Advances the Gospel",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reports that his imprisonment has advanced the gospel: the praetorian guard has heard of Christ, and most believers have been emboldened to speak fearlessly."
+    },
+    {
+      "reference": "1:15-18a",
+      "section_title": "Different Motives, Same Proclamation",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul acknowledges that some preach Christ from envy and rivalry while others preach from good will, and he rejoices that Christ is proclaimed regardless of motive."
+    },
+    {
+      "reference": "1:18b-26",
+      "section_title": "Paul's Deliberation Between Life and Death",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul deliberates between his desire to depart and be with Christ (which he considers far better) and the necessity of remaining alive for the Philippians' progress and joy in the faith."
+    },
+    {
+      "reference": "1:27-30",
+      "section_title": "Living Worthy of the Gospel",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul commands the Philippians to conduct their citizenship worthily of the gospel, standing firm in one spirit, striving together for the faith, unalarmed by opponents, recognizing that both believing and suffering have been granted as gifts for Christ's sake.",
+      "relevance": "The imperative to 'stand firm' (stekete) implies the real possibility of not standing firm. The community's unshaken courage is described as a divine sign -- 'of destruction for them, but of salvation for you, and that too from God' (v.28). The contrasting outcomes (destruction vs. salvation) are linked to the community's posture: standing firm yields the sign of salvation, while the opponents face destruction. Verse 29 frames both believing and suffering as divine gifts, but the exhortation to stand firm and not be alarmed presupposes that the community's response to opposition affects its trajectory. The military metaphor of standing one's ground assumes the possibility of being overrun.",
+      "key_phrases": ["standing firm in one spirit", "a sign of destruction for them, but of salvation for you", "granted for Christ's sake, not only to believe in Him, but also to suffer"],
+      "confidence": "medium"
+    }
+  ]
+}

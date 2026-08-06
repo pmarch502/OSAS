@@ -1,0 +1,38 @@
+{
+  "book": "Mark",
+  "chapter": 16,
+  "sections": [
+    {
+      "reference": "16:1-4",
+      "section_title": "The Women at the Tomb",
+      "category": "NOT_APPLICABLE",
+      "summary": "After the Sabbath, the three women who witnessed the crucifixion and burial purchase spices and come to the tomb at sunrise to anoint Jesus's body, worrying about who will roll away the large stone, only to find it already removed."
+    },
+    {
+      "reference": "16:5-7",
+      "section_title": "The Young Man and the Message",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "A young man in a white robe inside the empty tomb declares that Jesus the Nazarene, who was crucified, has risen, directs the women to see the empty burial place, and commissions them to tell the disciples and Peter that Jesus is going ahead of them to Galilee, just as he told them.",
+      "relevance": "This passage bears on the permanence/conditionality question primarily through the specific inclusion of Peter in the resurrection message. Peter denied Jesus three times with curses and oaths (14:66-72). All the disciples fled at the arrest (14:50). By any standard, every one of them failed the test of faithfulness. Yet the risen Jesus does not abandon them; he goes ahead of them to Galilee to reconstitute the community. The singling out of Peter -- 'tell his disciples AND Peter' -- functions as a specific invitation to restoration for the one who failed most visibly. The promise of Galilee fulfills 14:28 and demonstrates that the shepherd who was struck (Zechariah 13:7) resumes his role of going before the flock. This supports the permanence of God's commitment to his people even through catastrophic human failure. The neutral reading observes that 'the denial does not cancel the promise.' However, the passage presents restoration as initiated by God's faithfulness rather than as automatic; the invitation must still be received, and Galilee must still be reached.",
+      "key_phrases": ["He has risen; He is not here", "go, tell His disciples and Peter", "He is going ahead of you to Galilee; there you will see Him, just as He told you"],
+      "confidence": "high"
+    },
+    {
+      "reference": "16:8",
+      "section_title": "The Women's Flight and Silence",
+      "category": "NOT_APPLICABLE",
+      "summary": "The women flee the tomb in trembling and astonishment, saying nothing to anyone because they are afraid -- the original author's chosen ending, in which the commission to speak is disobeyed, creating a final reversal of the messianic secret pattern (those told to be silent spoke; those told to speak are silent) and making the reader the recipient of the undelivered message."
+    },
+    {
+      "reference": "16:9-20",
+      "section_title": "The Longer Ending (Later Appendix)",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "A passage absent from the earliest manuscripts summarizes post-resurrection appearances (to Mary Magdalene, to two disciples, to the eleven), records Jesus rebuking the eleven for unbelief and hardness of heart, commissions them to preach the gospel to all creation with the declaration that 'the one who has believed and has been baptized will be saved; but the one who has not believed will be condemned,' lists accompanying signs, and describes Jesus's ascension to God's right hand.",
+      "relevance": "The neutral reading treats this passage as a later appendix not composed by the original author, differing in vocabulary, style, and theology. However, it reflects early traditions. Verse 16 presents belief and baptism as conditions for salvation, with disbelief leading to condemnation. This formulation establishes a conditional framework: salvation is contingent on belief. However, it primarily addresses the initial condition (believing and being baptized) rather than the ongoing question of whether one who has believed can subsequently lose salvation. Verse 14's rebuke for 'unbelief and hardness of heart' (using sklerokardia, a term from elsewhere in Mark) shows the risen Jesus confronting ongoing failure in his own chosen community. The passage's non-original status limits its weight for determining the author's own argument, but it witnesses to an early tradition that understood salvation as requiring ongoing faithfulness.",
+      "key_phrases": ["The one who has believed and has been baptized will be saved; but the one who has not believed will be condemned", "He rebuked them for their unbelief and hardness of heart"],
+      "confidence": "low"
+    }
+  ]
+}

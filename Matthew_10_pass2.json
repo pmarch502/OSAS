@@ -1,0 +1,72 @@
+{
+  "book": "Matthew",
+  "chapter": 10,
+  "sections": [
+    {
+      "reference": "10:1-4",
+      "section_title": "The Delegation of Authority and the Naming of the Twelve",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus summons the twelve disciples, gives them authority over unclean spirits and diseases, and names them as apostles, with the proleptically noted betrayer Judas among them."
+    },
+    {
+      "reference": "10:5-8",
+      "section_title": "The Mission Defined: Scope, Message, and Authority",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus restricts the initial mission to the lost sheep of the house of Israel and commissions the twelve to proclaim the kingdom and perform the same restorative acts he himself has performed."
+    },
+    {
+      "reference": "10:9-15",
+      "section_title": "Instructions for Travel and Reception",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus prescribes radical material dependence for the missionaries and establishes consequences for towns that refuse the message, including judgment worse than Sodom and Gomorrah's."
+    },
+    {
+      "reference": "10:16-23",
+      "section_title": "Sheep Among Wolves: The Warning of Persecution",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus warns the disciples of coming persecution by Jewish and Roman authorities, predicts family betrayal and universal hatred for his name's sake, and declares that the one who endures to the end will be saved.",
+      "relevance": "Verse 22 explicitly makes salvation conditional on endurance: 'the one who endures to the end will be saved.' The neutral reading states that the construction 'makes salvation conditional on endurance' and that salvation is 'not a one-time event that occurs at the beginning of discipleship but an outcome that depends on faithfulness maintained through persecution to the end.' The verb hypomeno describes sustained faithfulness under pressure, not a one-time act. This directly addresses whether the believer's standing is permanent or conditional.",
+      "key_phrases": ["the one who endures to the end will be saved", "you will be hated by all for my name's sake", "the Spirit of your Father speaking through you"],
+      "confidence": "high"
+    },
+    {
+      "reference": "10:24-25",
+      "section_title": "The Disciple and the Teacher: Shared Fate",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus teaches that disciples should expect the same treatment as their teacher, including the accusation of being in league with Beelzebul, framing the community of disciples as Jesus's household that shares the master's reputation."
+    },
+    {
+      "reference": "10:26-31",
+      "section_title": "Three Commands Against Fear",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus issues three commands against fear, grounded in the certainty that truth will be revealed, the proper object of fear is God who can destroy both soul and body in Gehenna, and the Father's intimate knowledge and care for his agents."
+    },
+    {
+      "reference": "10:32-33",
+      "section_title": "Acknowledging and Denying: The Stakes of Public Confession",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus establishes a reciprocal principle: those who publicly acknowledge him will be acknowledged before the Father, and those who deny him will be denied before the Father.",
+      "relevance": "The neutral reading describes this as 'directly continuous with verse 22's declaration that the one who endures to the end will be saved' and states: 'salvation is not secured by an initial act of allegiance but depends on sustained, public faithfulness maintained through persecution.' The passage directly conditions Jesus's eschatological acknowledgment of the disciple on the disciple's ongoing public confession, with denial resulting in corresponding denial before the Father, stated 'without qualification or exception.' The two courts of judgment -- the human sphere and the divine -- are directly linked: what happens in the first determines what happens in the second.",
+      "key_phrases": ["everyone who acknowledges me before men, I also will acknowledge before my Father", "whoever denies me before men, I also will deny before my Father"],
+      "confidence": "high"
+    },
+    {
+      "reference": "10:34-39",
+      "section_title": "Not Peace but a Sword: Household Division and the Cost of Allegiance",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus declares that allegiance to him will produce family division, that those who love family more than him are not worthy of him, that following him requires taking up one's cross, and that whoever clings to life will lose it while whoever loses life for his sake will find it.",
+      "relevance": "The passage makes ongoing allegiance to Jesus the condition of being 'worthy' of him, requiring priority over the strongest natural bonds. The cross-bearing demand and the life-loss paradox both frame the believer's standing as contingent on continued faithfulness. The neutral reading notes: 'The disciple who preserves his physical life by denying Jesus will lose the life that matters ultimately.' The word 'worthy' (axios) is a fitness-for-belonging term, and the passage applies it three times with escalating force: love for family, cross-bearing, and life itself must all be subordinated to loyalty to Jesus.",
+      "key_phrases": ["whoever loves father or mother more than me is not worthy of me", "whoever does not take his cross and follow me is not worthy of me", "whoever finds his life will lose it", "whoever loses his life for my sake will find it"],
+      "confidence": "high"
+    },
+    {
+      "reference": "10:40-42",
+      "section_title": "The Chain of Representation and the Promise of Reward",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus establishes a chain of representation (receiving the disciples is receiving Jesus and the Father) and promises certain reward for those who receive his agents, even with so small an act as a cup of cold water."
+    }
+  ]
+}

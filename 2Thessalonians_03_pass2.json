@@ -1,0 +1,74 @@
+{
+  "book": "2 Thessalonians",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-2",
+      "section_title": "Request for Prayer -- The Word and the Wicked",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul requests prayer that the word of the Lord would advance and be honored, and that the missionaries would be delivered from wicked and evil men, noting that not all have faith."
+    },
+    {
+      "reference": "3:3-5",
+      "section_title": "The Lord's Faithfulness and Confidence in the Community",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul declares that the Lord is faithful and will establish and guard the community against the evil one, expresses confidence that they are doing and will do what is commanded, and prays that the Lord would direct their hearts to the love of God and the steadfastness of Christ.",
+      "relevance": "The declaration 'the Lord is faithful; he will establish you and guard you against the evil one' is a strong statement of divine protection. The neutral reading notes the wordplay: 'Not all people have faith (ou panton he pistis), but the Lord is faithful (pistos ho kyrios).' Human faithfulness is inconsistent; the Lord's is absolute. The verbs sterixei ('will establish') and phylaxei ('will guard') promise future divine action on the community's behalf. This leans toward permanence: the Lord's faithfulness compensates for human inconsistency. However, the passage sits within a context where Paul also prays that the Lord would 'direct your hearts to the love of God and to the steadfastness of Christ' -- suggesting that the community's hearts are not yet fully directed and need divine guidance to get there.",
+      "key_phrases": ["the Lord is faithful", "He will establish you and guard you against the evil one", "we have confidence in the Lord about you", "may the Lord direct your hearts to the love of God and to the steadfastness of Christ"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:6",
+      "section_title": "The Command to Separate from the Disorderly",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul commands the community, in the name of the Lord Jesus Christ, to keep away from any brother who is walking in idleness and not in accord with the tradition received from the apostles."
+    },
+    {
+      "reference": "3:7-9",
+      "section_title": "The Apostolic Example of Self-Supporting Labor",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul appeals to the missionaries' own example during the founding visit: they were not idle, did not eat anyone's bread without paying for it, and worked night and day to avoid burdening anyone, even though they had the right to support -- all to give the community a model to imitate."
+    },
+    {
+      "reference": "3:10",
+      "section_title": "The Rule -- If Anyone Will Not Work, Let Him Not Eat",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul recalls the repeated command given during the founding visit: if anyone is not willing to work, that person should not eat -- a rule applying to those who refuse work by choice, not to those unable to work."
+    },
+    {
+      "reference": "3:11-12",
+      "section_title": "The Specific Problem and Its Correction",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reports that some in the community are walking in idleness, not working but busybodying, and commands them in the Lord Jesus Christ to work quietly and earn their own bread."
+    },
+    {
+      "reference": "3:13",
+      "section_title": "Encouragement to the Faithful",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul exhorts the obedient majority not to grow weary in doing good, addressing the danger of exhaustion and discouragement caused by carrying the weight of the disorderly members' refusal to work."
+    },
+    {
+      "reference": "3:14-15",
+      "section_title": "Communal Discipline and Its Limits",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul prescribes discipline for anyone who does not obey the letter's instructions: take note of the person, withdraw from association to produce shame, but do not regard him as an enemy -- warn him as a brother.",
+      "relevance": "The passage describes a scenario in which a member of the believing community persistently disobeys apostolic instruction. The neutral reading notes that the disobedience is described with the same verb (hypakouei) used in 1:8 for those who 'do not obey the gospel': 'The verbal echo is unsettling: disobedience to the apostolic word in this letter is described with the same verb used for disobedience to the gospel itself.' While verse 15 prevents equating the disobedient brother with an unbeliever (he remains a 'brother'), the parallel vocabulary suggests that persistent disobedience to the apostolic tradition is treated with a seriousness that blurs the boundary between communal discipline and something bearing on one's standing. The passage does not declare the person's salvation lost, but the discipline and the verbal echoes raise the question of what persistent refusal of the tradition means for one's relationship to the God who authorized it.",
+      "key_phrases": ["if anyone does not obey what we say in this letter", "take note of that person", "have nothing to do with him, that he may be ashamed", "do not regard him as an enemy, but warn him as a brother"],
+      "confidence": "low"
+    },
+    {
+      "reference": "3:16",
+      "section_title": "The Closing Prayer -- Peace from the Lord of Peace",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul prays that the Lord of peace would give the community peace at all times and in every way, and that the Lord would be with them all."
+    },
+    {
+      "reference": "3:17-18",
+      "section_title": "Paul's Autograph and the Grace Benediction",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul writes the closing greeting in his own hand as an authenticating mark against forged letters, and closes with the grace benediction extended to all."
+    }
+  ]
+}

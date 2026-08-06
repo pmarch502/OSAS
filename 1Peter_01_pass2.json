@@ -1,0 +1,68 @@
+{
+  "book": "1 Peter",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter addresses the audience as elect sojourners of the Dispersion, chosen according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, for obedience and sprinkling of the blood of Jesus Christ, establishing the community's identity through corporate covenant categories drawn from Israel's story."
+    },
+    {
+      "reference": "1:3-5",
+      "section_title": "Blessing: New Birth, Inheritance, Guarded Salvation",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "God has caused the community to be born again to a living hope through the resurrection of Christ, to an inheritance imperishable, undefiled, and unfading, reserved in heaven for those who are protected by the power of God through faith for a salvation ready to be revealed in the last time.",
+      "relevance": "This is a listed conventional proof-text for permanence, and the passage does carry genuine weight for that position. The inheritance is described with three privative adjectives (imperishable, undefiled, unfading) emphasizing its indestructible quality. It is 'reserved in heaven' -- kept safe on God's side. The believers are 'protected by the power of God.' However, the neutral reading identifies a critical qualifier: the protection operates 'through faith' (dia pisteōs). The neutral reading states: 'Both divine power and human faith are operative: God's power protects, and faith is the channel through which the protection operates. Neither God's power without faith nor faith without God's power is sufficient; they work together.' The salvation is also described as 'ready to be revealed in the last time' -- it is future, not yet fully possessed. The passage genuinely leans toward permanence due to its emphasis on God's initiative, the inheritance's indestructible quality, and divine power guarding believers, but the 'through faith' qualifier introduces a condition that prevents a STRONG_PERMANENT classification.",
+      "key_phrases": ["born again to a living hope", "an inheritance imperishable and undefiled and will not fade away, reserved in heaven", "protected by the power of God through faith", "for a salvation ready to be revealed in the last time"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:6-9",
+      "section_title": "Joy in Suffering and Testing of Faith",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The community rejoices despite distressing trials because the testing of their faith -- more precious than perishable gold tested by fire -- will result in praise, glory, and honor at the revelation of Jesus Christ, and they are obtaining the outcome (telos) of their faith: the salvation of their souls.",
+      "relevance": "The testing imagery (dokimion) implies that faith must be proven genuine through trial, as gold is tested by fire. The language of obtaining (komizomenoi) the 'outcome' (telos) of faith -- the salvation of souls -- implies that salvation is the result of faith that has been tested and found genuine. Faith that fails the test would presumably not produce this outcome. The salvation of souls is positioned as the goal toward which tested faith moves, not as a possession already fully secured. The analogy to gold tested by fire is significant: some gold passes the test, and some does not.",
+      "key_phrases": ["the proof of your faith, being more precious than gold which is perishable, even though tested by fire", "may be found to result in praise and glory and honor at the revelation of Jesus Christ", "obtaining as the outcome of your faith the salvation of your souls"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:10-12",
+      "section_title": "Prophets' Search",
+      "category": "NOT_APPLICABLE",
+      "summary": "The prophets who prophesied of the grace to come searched carefully to learn what the Spirit of Christ within them was indicating about the sufferings of Christ and the glories to follow, and were told they were serving not themselves but the community to whom these things have now been announced."
+    },
+    {
+      "reference": "1:13-16",
+      "section_title": "Call to Hope and Holiness",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The community is commanded to fix their hope completely on the grace coming at the revelation of Jesus Christ, to be holy in all their conduct as obedient children rather than conforming to their former desires in ignorance, because the God who called them is holy.",
+      "relevance": "The imperatives ('prepare your minds for action,' 'keep sober,' 'fix your hope completely,' 'do not be conformed,' 'be holy') imply that the community's standing requires active maintenance. The holiness command ('Be holy, for I am holy') draws on Leviticus 11:44-45, which in its original Exodus 19:5-6 context was explicitly conditional: 'if you will indeed obey my voice and keep my covenant.' The instruction not to be conformed to 'the former lusts which were yours in your ignorance' implies that a return to former conduct is a live possibility that must be actively resisted.",
+      "key_phrases": ["fix your hope completely on the grace to be brought to you at the revelation of Jesus Christ", "as obedient children, do not be conformed to the former lusts", "but like the Holy One who called you, be holy yourselves also in all your behavior", "you shall be holy, for I am holy"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:17-21",
+      "section_title": "Conduct in Reverent Fear, Ransomed by Blood",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The community is told to conduct themselves in fear during their sojourning because the Father who called them impartially judges according to each person's work, and they were ransomed from their futile ancestral way of life not with perishable things but with the precious blood of Christ.",
+      "relevance": "The statement that God 'impartially judges according to each one's work' (aprosōpolēmptōs krinonta kata to hekastou ergon) is a direct assertion that God evaluates conduct without favoritism. The community is explicitly told to 'conduct yourselves in fear during the time of your stay on earth' -- the reverent fear is warranted precisely because the judge is impartial and the judgment corresponds to works. The ransom by Christ's blood establishes the value of the community's redemption; the impartial judgment establishes that this redemption does not exempt them from accountability. Both divine initiative (ransom) and human conduct (works judged impartially) are held together.",
+      "key_phrases": ["if you address as Father the One who impartially judges according to each one's work", "conduct yourselves in fear during the time of your stay on earth", "you were not redeemed with perishable things like silver or gold", "but with precious blood, as of a lamb unblemished and spotless, the blood of Christ"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:22-25",
+      "section_title": "Purification, Love, and Imperishable Word",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Having purified their souls through obedience to the truth for sincere love of the brethren, the community is told to love one another fervently from the heart, for they have been born again not of perishable seed but of imperishable, through the living and enduring word of God.",
+      "relevance": "The new birth from 'imperishable seed' (sporas aphthartou) through the 'living and enduring word of God' suggests that the source and instrument of the community's rebirth is indestructible. The word of God 'lives and endures' while all flesh withers like grass (Isaiah 40 citation). The imperishable quality of the seed leans toward permanence -- the transformation produced by an imperishable agent has a character that resists decay. However, the passage also notes that purification happened 'through obedience to the truth,' linking the community's transformed state to their obedient response, and the imperative to 'fervently love one another from the heart' implies ongoing obligation.",
+      "key_phrases": ["you have been born again not of seed which is perishable but imperishable", "through the living and enduring word of God", "having purified your souls by your obedience to the truth"],
+      "confidence": "low"
+    }
+  ]
+}

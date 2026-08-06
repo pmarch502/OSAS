@@ -1,0 +1,48 @@
+{
+  "book": "Romans",
+  "chapter": 10,
+  "sections": [
+    {
+      "reference": "10:1-4",
+      "section_title": "Paul's Prayer and Israel's Misplaced Zeal",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul expresses his desire for Israel's salvation, acknowledges their genuine zeal for God, but diagnoses their failure as ignorance of God's righteousness and the attempt to establish their own rather than submitting to God's righteousness; Christ is identified as the telos (goal and fulfillment) of the law for righteousness to everyone who believes.",
+      "relevance": "The passage demonstrates that genuine zeal for God and extensive covenant participation do not by themselves secure right standing before God. Israel's failure lay in pursuing their own righteousness rather than submitting to God's -- a misdirection of devotion, not a lack of it. The principle that covenant members can be zealous yet ignorant of what God is doing, and that their self-constructed righteousness is rejected while God's righteousness must be actively submitted to, implies that standing before God depends on the right posture of faith and submission, not merely on prior relationship, heritage, or intensity of devotion.",
+      "key_phrases": ["they have a zeal for God, but not according to knowledge", "being ignorant of the righteousness of God", "seeking to establish their own", "they did not submit to God's righteousness", "Christ is the end of the law for righteousness to everyone who believes"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "10:5-8",
+      "section_title": "Two Kinds of Righteousness -- Moses and the Word of Faith",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul contrasts the righteousness based on the law (which requires doing, per Leviticus 18:5) with the righteousness based on faith (drawn from Deuteronomy 30:12-14), arguing that the word of faith is near -- in the mouth and heart -- because Christ has already descended and risen; no heroic journey is required to access what God has already accomplished."
+    },
+    {
+      "reference": "10:9-13",
+      "section_title": "Confession, Belief, and Universal Access",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_by_both",
+      "summary": "Paul declares that confessing with the mouth that Jesus is Lord and believing in the heart that God raised him from the dead results in salvation, establishing that this salvation is available to everyone who believes and everyone who calls on the name of the Lord without ethnic distinction, because the same Lord is Lord of all and rich toward all who call on him.",
+      "relevance": "The conditions for salvation -- confessing and believing -- are stated with present participles ('the one who believes,' ho pisteuon) that describe an ongoing posture rather than a one-time event. The neutral reading notes that 'faith without public confession would be hidden and unclaimed; confession without heart-belief would be empty words' -- neither alone suffices. The threefold repetition of pas ('everyone') in verses 11-13 universalizes the promise but also universalizes the condition: it is 'everyone who believes' and 'everyone who calls' who will be saved, implying that the believing and calling are the ongoing conditions upon which the promise rests. The passage points toward conditionality because it frames salvation as a response to God's act -- a response that involves both inward trust and outward confession maintained in the present tense.",
+      "key_phrases": ["if you confess with your mouth that Jesus is Lord", "believe in your heart that God raised him from the dead", "you will be saved", "everyone who believes in him will not be put to shame", "everyone who calls on the name of the Lord will be saved", "there is no distinction between Jew and Greek"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "10:14-17",
+      "section_title": "The Chain of Proclamation -- Sending, Preaching, Hearing, Believing, Calling",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul constructs a chain of logical necessity running backward from calling on the Lord to its preconditions: calling requires believing, believing requires hearing, hearing requires preaching, preaching requires sending; he confirms with Isaiah 52:7 that messengers were sent, notes with Isaiah 53:1 that not all obeyed, and states the governing principle that faith comes from hearing the word of Christ."
+    },
+    {
+      "reference": "10:18-21",
+      "section_title": "Israel Heard, Israel Understood, Israel Refused",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul demonstrates that Israel heard the message (it went to all the earth, Psalm 19:4), understood it (Moses predicted God would provoke Israel through a non-nation, Deuteronomy 32:21; Isaiah declared God would be found by non-seekers, Isaiah 65:1), and yet refused to respond; the chapter culminates with God's own testimony of sustained patience toward 'a disobedient and contrary people' with outstretched hands.",
+      "relevance": "The passage shows that receiving God's word, understanding it, and being part of God's covenant people do not prevent disobedience or guarantee faithful response. Israel's active refusal -- characterized by the neutral reading as both passive resistance (apeitheo, 'to disobey') and active opposition (antilego, 'to speak against, to contradict') -- despite God's sustained invitation demonstrates that standing before God depends on faithful response to the proclaimed word. The image of God's outstretched hands 'all day long' implies ongoing patience and the continuing possibility of return, but Israel's disobedience is presented as a real and consequential failure, not a theoretical impossibility. The equation of believing with obeying (hypakouo, 10:16) reinforces that faith is not passive assent but active obedience that must be maintained.",
+      "key_phrases": ["not all obeyed the gospel", "Lord, who has believed what he has heard from us?", "I will make you jealous of those who are not a nation", "I have been found by those who did not seek me", "All day long I have held out my hands to a disobedient and contrary people"],
+      "confidence": "medium"
+    }
+  ]
+}

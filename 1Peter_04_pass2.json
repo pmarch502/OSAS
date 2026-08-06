@@ -1,0 +1,80 @@
+{
+  "book": "1 Peter",
+  "chapter": 4,
+  "sections": [
+    {
+      "reference": "4:1-2",
+      "section_title": "Arming with Christ's Disposition",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The community is to arm themselves with the same purpose as Christ who suffered in the flesh, because the one who has suffered in the flesh has ceased from sin, so as to live the rest of their earthly life no longer for human lusts but for the will of God.",
+      "relevance": "The military metaphor of 'arming' (hoplisasthe) implies an active, deliberate choice to adopt Christ's mindset. The contrast between living for 'human lusts' and living for 'the will of God' presents two possible orientations for the community's remaining time. The instruction to live 'the rest of the time in the flesh' for God's will implies that the break with sin is not automatic but requires deliberate adoption of a Christ-like disposition. The possibility of living for lusts rather than God's will remains real for the audience.",
+      "key_phrases": ["arm yourselves also with the same purpose", "so as to live the rest of the time in the flesh no longer for the lusts of men, but for the will of God"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "4:3-4",
+      "section_title": "Former Way of Life",
+      "category": "NOT_APPLICABLE",
+      "summary": "The community's former life of sensuality, lusts, drunkenness, carousing, and lawless idolatry is in the past, and their former companions are surprised and malign them for no longer participating."
+    },
+    {
+      "reference": "4:5-6",
+      "section_title": "Accountability and Gospel Preached to the Dead",
+      "category": "NOT_APPLICABLE",
+      "summary": "Those who malign the community will give account to the One ready to judge the living and the dead, and the gospel was preached even to the dead so that though judged in the flesh as people, they might live in the spirit according to God."
+    },
+    {
+      "reference": "4:7-8",
+      "section_title": "Nearness of the End and Priority of Love",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The end of all things is near, so the community must be of sound judgment and sober spirit for the purpose of prayer, and above all keep their love for one another fervent, because love covers a multitude of sins.",
+      "relevance": "The nearness of the end creates urgency for right conduct. The priority given to fervent mutual love -- 'above all' (pro pantōn) -- and the explanation that 'love covers a multitude of sins' implies that active love within the community has a protective or atoning function. The community's sins need covering, and fervent love is the instrument. This suggests that the community is not exempt from sin's consequences but has a means of addressing them that requires ongoing effort.",
+      "key_phrases": ["the end of all things is near", "above all, keep fervent in your love for one another", "because love covers a multitude of sins"],
+      "confidence": "low"
+    },
+    {
+      "reference": "4:9-11",
+      "section_title": "Hospitality and Stewardship of Gifts",
+      "category": "NOT_APPLICABLE",
+      "summary": "The community is to be hospitable without complaint and use their varied gifts as good stewards of God's manifold grace, speaking as the oracles of God and serving by the strength God supplies, so that God may be glorified in all things through Jesus Christ."
+    },
+    {
+      "reference": "4:12-13",
+      "section_title": "Fiery Ordeal and Sharing Christ's Sufferings",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The community should not be surprised at the fiery ordeal (pyrōsis) among them as though something strange were happening, but should rejoice to the degree that they share Christ's sufferings, so that at the revelation of his glory they may rejoice with exultation.",
+      "relevance": "The fiery ordeal continues the testing-by-fire imagery from 1:6-7. The purpose clause 'so that also at the revelation of His glory you may rejoice with exultation' connects present participation in Christ's sufferings with future participation in his glory. Joy at the revelation is the outcome for those who share in the sufferings now. The implication is that those who do not share in Christ's sufferings -- who abandon the faith under pressure -- would not share in the joy at his revelation.",
+      "key_phrases": ["do not be surprised at the fiery ordeal among you", "to the degree that you share the sufferings of Christ, keep on rejoicing", "so that also at the revelation of His glory you may rejoice with exultation"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "4:14-16",
+      "section_title": "Suffering for the Name of Christ",
+      "category": "NOT_APPLICABLE",
+      "summary": "Being reviled for the name of Christ brings blessing and the Spirit of glory resting upon the community, but no one should suffer as a murderer, thief, evildoer, or meddler -- suffering as a Christian is not shameful but an occasion to glorify God."
+    },
+    {
+      "reference": "4:17-18",
+      "section_title": "Judgment Beginning at God's Household",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Judgment begins with the household of God, and if it begins with the community first, what will be the outcome for those who do not obey the gospel, and if the righteous person is scarcely saved, where will the ungodly and sinner appear?",
+      "relevance": "This passage directly states that judgment begins with God's own household -- the believing community. The community is not exempt from judgment but is in fact the starting point of judgment. The citation of Proverbs 11:31 LXX ('if the righteous is scarcely saved') describes salvation as achieved molis -- with difficulty, barely. The neutral reading notes that molis describes the experiential difficulty of the journey through fiery ordeals, social hostility, and pressure to conform. The rhetorical question 'what will be the outcome for those who do not obey the gospel of God?' implies a spectrum from difficult salvation (the righteous) to catastrophic outcome (the disobedient). The passage is addressed to believers and presupposes that their salvation, while real, is not effortlessly automatic but achieved through a process of testing and endurance.",
+      "key_phrases": ["it is time for judgment to begin with the household of God", "if it begins with us first, what will be the outcome for those who do not obey the gospel of God", "if it is with difficulty that the righteous is saved, what will become of the godless man and the sinner"],
+      "confidence": "high"
+    },
+    {
+      "reference": "4:19",
+      "section_title": "Entrusting Souls to the Faithful Creator",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Those who suffer according to God's will are to entrust their souls to a faithful Creator in doing what is right.",
+      "relevance": "The instruction combines two elements that must not be separated: entrustment to God AND continued right action ('in doing what is right' -- en agathopoiia). The entrustment is not passive surrender divorced from conduct; it is active trust expressed through ongoing good works. The faithful Creator is trustworthy, but the human response to that faithfulness includes continued good conduct. Neither element alone constitutes the prescription.",
+      "key_phrases": ["entrust their souls to a faithful Creator", "in doing what is right"],
+      "confidence": "medium"
+    }
+  ]
+}

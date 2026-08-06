@@ -1,0 +1,64 @@
+{
+  "book": "Acts",
+  "chapter": 10,
+  "sections": [
+    {
+      "reference": "10:1-2",
+      "section_title": "Cornelius -- A Gentile Described in Israel's Vocabulary",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies Cornelius as a Roman centurion and God-fearer who feared God, gave alms to the Jewish people, and prayed continually -- a Gentile who had done everything possible to approach Israel's God without becoming an Israelite."
+    },
+    {
+      "reference": "10:3-8",
+      "section_title": "The Angel's Instruction to Cornelius",
+      "category": "NOT_APPLICABLE",
+      "summary": "An angel tells Cornelius at the hour of sacrifice that his prayers and alms have ascended as a memorial offering before God, and directs him to send for Peter in Joppa."
+    },
+    {
+      "reference": "10:9-16",
+      "section_title": "Peter's Vision -- The Sheet from Heaven",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter receives a thrice-repeated vision of a sheet containing clean and unclean animals together, with the divine command 'What God has made clean, do not call common' -- a dismantling of the dietary laws that embodied Israel's ethnic separation from the nations."
+    },
+    {
+      "reference": "10:17-23a",
+      "section_title": "The Spirit Interprets the Vision",
+      "category": "NOT_APPLICABLE",
+      "summary": "While Peter is perplexed about the vision's meaning, the Spirit directs him to go with Cornelius's Gentile messengers 'without hesitation' (meden diakrinomenos -- making no distinction), claiming ownership of their mission: 'I have sent them.'"
+    },
+    {
+      "reference": "10:23b-29",
+      "section_title": "Peter Enters a Gentile's House",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter enters Cornelius's house with Jewish witnesses and states the interpretation of his vision: 'God has shown me that I should not call any person common or unclean' -- the food laws were about people, and the ethnic boundary they enforced has been dissolved by divine action."
+    },
+    {
+      "reference": "10:30-33",
+      "section_title": "Cornelius Recounts His Vision",
+      "category": "NOT_APPLICABLE",
+      "summary": "Cornelius retells his angelic visitation and declares that the entire household is assembled 'in the presence of God to hear all that you have been commanded by the Lord.'"
+    },
+    {
+      "reference": "10:34-43",
+      "section_title": "Peter's Speech -- God Shows No Partiality",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter declares that God shows no partiality and that in every nation anyone who fears God and does what is right is acceptable to him, then proclaims the gospel of Jesus's life, death, resurrection, and appointment as judge, concluding that 'everyone who believes in him receives forgiveness of sins through his name.'"
+    },
+    {
+      "reference": "10:44-46",
+      "section_title": "The Spirit Falls on the Gentiles",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "While Peter is still speaking, the Holy Spirit falls on all who hear the word -- unilaterally, without apostolic laying on of hands, without baptism, without circumcision -- producing the same phenomena as Pentecost (tongues, praise of God).",
+      "relevance": "The Spirit's action is entirely sovereign and unilateral: God gives the gift without human mediation, precondition, or qualification. The neutral reading emphasizes that 'God acted first, preempting every human gatekeeping mechanism' and that the Spirit 'acts unilaterally.' This pattern of divine initiative -- God granting the gift apart from human qualification or cooperation -- could be read as supporting the permanence of what God unilaterally bestows. However, the text is primarily about who can receive the gift (Gentiles as well as Jews), not about whether the gift, once received, is irrevocable.",
+      "key_phrases": ["the Holy Spirit fell on all who heard the word", "the gift of the Holy Spirit was poured out even on the Gentiles", "the Spirit acts unilaterally"],
+      "confidence": "low"
+    },
+    {
+      "reference": "10:47-48",
+      "section_title": "Baptism -- The Human Response to God's Action",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter declares that no one can withhold baptism from those who have received the Holy Spirit 'just as we have,' commands their baptism in Jesus's name, and stays with the Gentile household for some days in table fellowship."
+    }
+  ]
+}

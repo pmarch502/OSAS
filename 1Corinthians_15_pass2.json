@@ -1,0 +1,74 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 15,
+  "sections": [
+    {
+      "reference": "15:1-2",
+      "section_title": "The Gospel in Which They Stand -- Conditionally",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Paul reminds the Corinthians of the gospel he preached, which they received, in which they stand, and by which they are being saved -- 'if you hold fast' and 'unless you believed in vain.'",
+      "relevance": "Paul describes the community's salvation with the present tense sozesthe ('you are being saved'), presenting salvation as an ongoing process rather than a completed past event. Two explicit conditions govern this process: ei katechete ('if you hold fast'), requiring the community to maintain its grip on the gospel content, and ektos ei me eike episteusate ('unless you believed in vain'), raising the genuine possibility that initial belief can prove empty. The neutral reading is emphatic: 'Paul does not present the community's standing as guaranteed by a past event alone. The past event (believing) initiated a process (being saved) that continues in the present (standing in the gospel) only if the community maintains its grip on the content of the gospel (holding fast). The possibility of believing in vain is real -- Paul would not raise it otherwise.' The passage also connects to 10:12 through the verb histemi: the community's 'standing' (hestekate) is genuine but not automatic, echoing the warning 'let anyone who thinks he stands take heed lest he fall.' This directly and explicitly addresses whether a believer's standing is conditional.",
+      "key_phrases": ["the gospel which I preached to you, which you received, in which you stand", "by which you are being saved", "if you hold fast to the word I preached to you", "unless you believed in vain"],
+      "confidence": "high"
+    },
+    {
+      "reference": "15:3-5",
+      "section_title": "The Received Tradition -- The Kerygma",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul delivers the core kerygma he received and transmitted: Christ died for our sins according to the Scriptures, was buried, was raised on the third day according to the Scriptures, and appeared to Cephas and then to the twelve."
+    },
+    {
+      "reference": "15:6-11",
+      "section_title": "The Extended Witness List and Paul's Apostolic Standing",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul extends the witness list to include appearances to more than five hundred brothers at once, to James, to all the apostles, and finally to Paul himself as 'one untimely born,' affirming that God's grace toward him was not in vain and that the shared apostolic proclamation grounds the Corinthians' faith."
+    },
+    {
+      "reference": "15:12-19",
+      "section_title": "If No Resurrection, Then Everything Collapses",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul constructs a reductio ad absurdum: if the general resurrection is denied, Christ has not been raised, the apostolic preaching is empty, the Corinthians' faith is empty, they are still in their sins, the dead in Christ have perished, and believers are the most pitiable of all people."
+    },
+    {
+      "reference": "15:20-28",
+      "section_title": "Christ the Firstfruits and the Subjection of All Things",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul declares that Christ has been raised as the firstfruits of those who have fallen asleep, develops the Adam-Christ typology, and traces the cosmic sequence from Christ's resurrection through the destruction of every hostile power including death to the moment when God becomes all in all."
+    },
+    {
+      "reference": "15:29-34",
+      "section_title": "Practical Consequences of the Resurrection",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul appeals to the practice of baptism for the dead and his own daily danger as evidence that the resurrection is presupposed by the community's behavior, then warns against the corrupting influence of resurrection-deniers and commands the community to sober up and stop sinning.",
+      "relevance": "Paul warns that 'bad company ruins good morals' (quoting Menander) and commands the community to 'sober up and stop sinning,' identifying some who have 'ignorance of God' despite being within the community (v. 34). The neutral reading observes that 'the denial of resurrection is not a harmless intellectual opinion; it is a moral toxin that will erode behavior.' The passage implies that false teaching within the community can lead members into sin and ignorance of God, and that community membership does not automatically protect against such corruption. The rebuke 'I say this to your shame' (v. 34) reinforces that those who claim knowledge can harbor fundamental ignorance about God. While the passage primarily argues for the reality of the resurrection, its warning against moral corruption from within bears on whether the community's standing is secure or vulnerable to internal threats.",
+      "key_phrases": ["Bad company ruins good morals", "Come to your right mind, and sin no more", "some have no knowledge of God", "I say this to your shame"],
+      "confidence": "low"
+    },
+    {
+      "reference": "15:35-41",
+      "section_title": "The Seed Analogy and the Diversity of Bodies",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul addresses the skeptic's question about the nature of the resurrection body through the analogy of seeds, the diversity of flesh among creatures, and the varying glory of celestial and terrestrial bodies, demonstrating that God gives each kind of seed its own body."
+    },
+    {
+      "reference": "15:42-49",
+      "section_title": "The Resurrection Body Contrasted with the Present Body",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes the transformation of the resurrection through four contrasting pairs -- perishable to imperishable, dishonor to glory, weakness to power, natural body to spiritual body -- and grounds the contrast in the Adam-Christ typology: as humanity bore the image of the dusty Adam, it will bear the image of the heavenly Christ."
+    },
+    {
+      "reference": "15:50-57",
+      "section_title": "The Mystery -- Transformation, Victory, and the Defeat of Death",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reveals the mystery that all will be changed at the last trumpet, draws on Isaiah 25:8 and Hosea 13:14 to declare death swallowed up in victory, identifies sin as death's sting and the law as sin's power, and gives thanks to God who gives victory through Jesus Christ."
+    },
+    {
+      "reference": "15:58",
+      "section_title": "The Concluding Exhortation",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul exhorts the community to be steadfast, immovable, and always abounding in the work of the Lord, grounding the command in the assurance that their labor is not in vain in the Lord -- answering the chapter's opening warning about believing in vain."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "book": "Mark",
+  "chapter": 4,
+  "sections": [
+    {
+      "reference": "4:1-2",
+      "section_title": "The Setting by the Sea",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus teaches the crowds from a boat on the sea, introducing an extended block of parabolic instruction about the kingdom of God."
+    },
+    {
+      "reference": "4:3-9",
+      "section_title": "The Parable of the Sower, the Seed, and the Soils",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus tells a parable about a sower whose seed falls on four types of ground with four different outcomes -- three failures and one fruitful success -- framed by commands to hear."
+    },
+    {
+      "reference": "4:10-12",
+      "section_title": "The Purpose of Parabolic Teaching",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus explains that insiders have been given the mystery of the kingdom while outsiders receive everything in parables, citing Isaiah 6:9-10 for the pattern of seeing without perceiving and hearing without understanding."
+    },
+    {
+      "reference": "4:13-20",
+      "section_title": "The Explanation of the Seed and the Soils",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Jesus identifies the seed as 'the word' and explains four responses: the road (Satan removes the word immediately), rocky ground (genuine joyful reception followed by falling away under persecution), thorns (the word is gradually choked by worldly concerns), and good soil (fruitful reception in varying degrees).",
+      "relevance": "The rocky-ground hearers present a direct case bearing on the permanence question. The neutral reading states: 'The initial reception is genuine -- they hear, they receive, they rejoice. The author does not present the rocky-ground hearers as insincere. Their problem is not the quality of their initial response but the absence of depth and root.' These hearers then 'fall away' (skandalizontai) when persecution arises because of the word. The neutral reading concludes: 'The author describes a real reception that does not endure' and that 'receiving the word without developing root leads to apostasy.' The third soil likewise describes hearers who have received the word but produce no fruit because it is slowly choked by competing concerns. Both categories describe genuine but non-enduring responses to the kingdom message. This is part of Jesus's own teaching, directly addressing whether reception of the word guarantees permanent standing.",
+      "key_phrases": ["immediately receive it with joy", "have no firm root in themselves", "are only temporary", "they immediately fall away", "choke the word, and it becomes unfruitful"],
+      "confidence": "high"
+    },
+    {
+      "reference": "4:21-25",
+      "section_title": "The Lamp and the Measure",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus teaches that nothing is hidden except to be revealed, warns hearers to take care what they listen to, and states the principle that whoever has will receive more while whoever does not have will lose even what he has.",
+      "relevance": "The neutral reading identifies this as a dynamic, directional process rather than a static condition: 'Reception of the word generates more reception; failure to receive generates progressive loss.' The saying 'whoever does not have, even what he has shall be taken away from him' describes the real possibility that what was once possessed can be lost. The neutral reading concludes: 'There is no stable middle ground.' This implies that the hearer's relationship to the word is a trajectory moving toward abundance or toward emptiness, not a permanently fixed position established at the point of initial reception.",
+      "key_phrases": ["Take care what you listen to", "whoever has, to him more shall be given", "whoever does not have, even what he has shall be taken away from him"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "4:26-29",
+      "section_title": "The Seed That Grows by Itself",
+      "category": "NOT_APPLICABLE",
+      "summary": "A parable unique to Mark describes the kingdom of God as seed that grows by its own power without the farmer's intervention, culminating in a harvest that alludes to Joel 3:13."
+    },
+    {
+      "reference": "4:30-32",
+      "section_title": "The Mustard Seed",
+      "category": "NOT_APPLICABLE",
+      "summary": "The kingdom of God is compared to a mustard seed that begins as the smallest seed but grows into a plant large enough for birds to nest in its shade, echoing Ezekiel 17 and Daniel 4."
+    },
+    {
+      "reference": "4:33-34",
+      "section_title": "The Author's Summary of Jesus's Parabolic Teaching",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author notes that Jesus spoke the word to the crowds in parables calibrated to their capacity, while explaining everything privately to his own disciples."
+    },
+    {
+      "reference": "4:35-41",
+      "section_title": "The Crossing and the Storm",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus calms a storm by rebuking the wind and commanding the sea -- an act Israel's scriptures attribute exclusively to YHWH -- and rebukes the disciples for having no faith, prompting their question 'Who then is this?'"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "book": "Luke",
+  "chapter": 19,
+  "sections": [
+    {
+      "reference": "19:1-10",
+      "section_title": "Salvation Comes to a Tax Collector's House",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be the demonstration that what is impossible with people is possible with God (answering 18:26): a rich chief tax collector voluntarily surrenders his wealth, and Jesus declares 'today salvation has come to this house,' identifying his mission as seeking and saving the lost in fulfillment of YHWH's role in Ezekiel 34."
+    },
+    {
+      "reference": "19:11-27",
+      "section_title": "The Parable of the Minas",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading finds this parable to be a correction of the expectation that the kingdom would appear immediately upon Jesus's arrival in Jerusalem, introducing a departure, an interim of stewardship and opposition, and a future reckoning with three outcomes: reward for faithful servants, loss for the unfaithful servant, and destruction for those who rejected the king's authority.",
+      "relevance": "The parable addresses what happens to those entrusted with the king's resources during the interim before his return. The unfaithful servant, who preserved his mina without using it, has even that taken away. The principle stated in v. 26 -- 'to everyone who has, more shall be given, but from the one who does not have, even what he does have shall be taken away' -- establishes that what is entrusted can be forfeited through failure to act faithfully. The passage implies that the interim period between Jesus's departure and return is not a time of guaranteed preservation but of active accountability, and that failure to exercise faithful stewardship results in loss. The parallel to the talents parable (Matthew 25:14-30) places this in the debate about whether believers can lose what has been entrusted to them.",
+      "key_phrases": ["Do business with this until I come back", "you worthless slave", "to everyone who has, more shall be given, but from the one who does not have, even what he does have shall be taken away", "bring them here and slay them in my presence"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "19:28-40",
+      "section_title": "The Entry into Jerusalem",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be the enactment of Zechariah 9:9 -- the humble king riding a colt, acclaimed by the disciples with Psalm 118:26 and the addition of 'King,' creating an inclusio with the birth narrative's angelic declaration."
+    },
+    {
+      "reference": "19:41-44",
+      "section_title": "Weeping Over Jerusalem",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be Jesus's lament over Jerusalem's failure to recognize the time of its visitation, predicting the city's siege and destruction in concrete terms drawn from prophetic siege language as a consequence of that failure of recognition."
+    },
+    {
+      "reference": "19:45-48",
+      "section_title": "The Temple Action and Daily Teaching",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds the temple action to be a prophetic indictment combining Isaiah 56:7 (the temple as a house of prayer for all) with Jeremiah 7:11 (the den of robbers), framing the temple's failure as both exclusion and presumption, with the Jeremiah 7 precedent implying that God can destroy his own house again."
+    }
+  ]
+}

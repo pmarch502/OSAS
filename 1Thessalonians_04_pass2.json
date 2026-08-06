@@ -1,0 +1,34 @@
+{
+  "book": "1 Thessalonians",
+  "chapter": 4,
+  "sections": [
+    {
+      "reference": "4:1-2",
+      "section_title": "The Transition to Instruction",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul transitions from thanksgiving to instruction, asking and urging the community to continue walking as they were taught and to do so more and more."
+    },
+    {
+      "reference": "4:3-8",
+      "section_title": "God's Will Defined -- Sanctification and the Body",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul defines God's will as the community's sanctification, specifying that this means sexual holiness, governing the body in holiness and honor, not defrauding a brother, and grounding all of it in God's calling and ongoing gift of the Holy Spirit.",
+      "relevance": "The passage connects God's calling directly to moral requirements: 'God has not called us for impurity, but in holiness.' The neutral reading notes that 'God's choice of the Thessalonians was not a selection into a status that permits any behavior; it was a calling with a direction.' The warning that 'whoever disregards this, disregards not man but God, who gives his Holy Spirit to you' implies that rejecting the moral demands of the calling constitutes rejecting God himself. The calling and election language from chapter 1 is here given a moral direction, and violation of that direction is presented as a rejection of the God who called them -- suggesting that the calling carries conditions that can be violated.",
+      "key_phrases": ["this is the will of God, your sanctification", "God has not called us for impurity, but in holiness", "whoever disregards this, disregards not man but God", "the Lord is an avenger in all these things"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "4:9-12",
+      "section_title": "Love Taught by God and the Shape of Daily Life",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul affirms that the community has been taught by God to love one another and is already practicing it, then provides practical instructions about quiet living, minding one's own affairs, and working with one's own hands."
+    },
+    {
+      "reference": "4:13-18",
+      "section_title": "The Fate of Those Who Have Died and the Lord's Descent",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul addresses the community's grief over members who died before the Lord's return, declaring that the dead in Christ will rise first at the Lord's descent, the living will be caught up together with them, and all will be always with the Lord."
+    }
+  ]
+}

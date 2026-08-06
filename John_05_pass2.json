@@ -1,0 +1,70 @@
+{
+  "book": "John",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-5",
+      "section_title": "The Setting at the Pool",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus goes to Jerusalem for a feast and encounters a man who has been ill for thirty-eight years at the pool of Bethesda."
+    },
+    {
+      "reference": "5:6-9a",
+      "section_title": "The Healing",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus asks the man if he wishes to get well, then commands him to rise, take up his pallet, and walk — and the man is immediately healed."
+    },
+    {
+      "reference": "5:9b-16",
+      "section_title": "The Sabbath Confrontation",
+      "category": "NOT_APPLICABLE",
+      "summary": "The healing occurred on the Sabbath, provoking opposition from the authorities who object to the man carrying his pallet; Jesus finds the healed man in the temple and warns him to stop sinning lest something worse happen."
+    },
+    {
+      "reference": "5:17-18",
+      "section_title": "The Father's Work and the Son's Work",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus responds to the Sabbath challenge by declaring that his Father is working until now and he himself is working, which the authorities hear as a claim to equality with God."
+    },
+    {
+      "reference": "5:19-23",
+      "section_title": "The Son Does What the Father Does",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus explains that the Son does nothing on his own but only what he sees the Father doing; the Father has given the Son authority to give life and to judge, so that all will honor the Son as they honor the Father."
+    },
+    {
+      "reference": "5:24-30",
+      "section_title": "Life, Judgment, and Resurrection",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Jesus declares that the one hearing his word and believing the one who sent him has eternal life and has passed from death to life; an hour is coming when all in the tombs will hear his voice and come out — those who did good deeds to a resurrection of life, those who committed evil deeds to a resurrection of judgment.",
+      "relevance": "Verse 24 is a major proof-text for permanence: 'has eternal life,' 'does not come into judgment,' 'has passed from death to life.' The perfect tense of 'has passed' (metabebeken) indicates a decisive crossing that has already occurred with ongoing effect — the strongest permanence language in this section of the document. However, the neutral reading identifies two critical qualifications. First, the conditions 'hearing' and 'believing' are present-tense participles — the transition is framed within the context of ongoing response. The neutral reading's own summary note states that 'the perfect-tense transition indicates a decisive crossing that has occurred, but the context of ongoing hearing and believing suggests the transition is sustained by the continuing response, not merely by its initial occurrence.' Second, verses 28-29 immediately introduce a future resurrection judgment based on deeds — those who did good to life, those who did evil to judgment — creating a tension with a purely unconditional reading of verse 24.",
+      "key_phrases": ["the one hearing my word and believing", "has eternal life", "does not come into judgment", "has passed from death to life", "metabebeken — perfect tense, decisive crossing", "those who did good deeds to a resurrection of life", "those who committed evil deeds to a resurrection of judgment"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:31-35",
+      "section_title": "The Testimony of John",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus cites John the Baptist as a witness who testified to the truth, though Jesus says he does not receive testimony from human beings."
+    },
+    {
+      "reference": "5:36-40",
+      "section_title": "The Testimony of the Works, the Father, and the Scriptures",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus appeals to three witnesses greater than John: the works the Father gave him to accomplish, the Father himself, and the scriptures — yet the authorities are unwilling to come to him for life."
+    },
+    {
+      "reference": "5:41-44",
+      "section_title": "Glory from Men versus Glory from God",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus diagnoses the authorities' inability to believe as rooted in their preference for glory from one another rather than the glory that comes from God alone."
+    },
+    {
+      "reference": "5:45-47",
+      "section_title": "Moses the Accuser",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares that Moses, in whom they have set their hope, will be their accuser, because if they believed Moses they would believe Jesus, since Moses wrote about him."
+    }
+  ]
+}

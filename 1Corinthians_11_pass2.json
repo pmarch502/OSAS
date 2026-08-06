@@ -1,0 +1,92 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 11,
+  "sections": [
+    {
+      "reference": "11:1",
+      "section_title": "The Capstone of the Idol-Food Argument",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul caps the idol-food discussion with the call to imitate him as he imitates Christ, summarizing the principle of voluntary self-limitation for the benefit of others."
+    },
+    {
+      "reference": "11:2",
+      "section_title": "Commendation and the Handing Down of Traditions",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul commends the Corinthians for remembering him and maintaining the traditions he delivered to them, transitioning to the head-covering discussion."
+    },
+    {
+      "reference": "11:3",
+      "section_title": "The Chain of Kephale",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul establishes a three-link chain — Christ is the kephale of every man, man is the kephale of woman, and God is the kephale of Christ — as the theological foundation for the head-covering instructions."
+    },
+    {
+      "reference": "11:4-6",
+      "section_title": "Instructions on Covering and Uncovering",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul instructs that a man dishonors his kephale by praying or prophesying with his head covered, while a woman dishonors hers by doing so uncovered, arguing that the uncovered woman is equivalent to the shorn."
+    },
+    {
+      "reference": "11:7-9",
+      "section_title": "The Creation Argument",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul argues from the creation narrative that man is the image and glory of God while woman is the glory of man, grounding the head-covering practice in the order of creation."
+    },
+    {
+      "reference": "11:10",
+      "section_title": "The Woman's Authority and the Angels",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul states that a woman ought to have authority on her head because of the angels, a notoriously difficult verse whose precise meaning remains debated."
+    },
+    {
+      "reference": "11:11-12",
+      "section_title": "Mutual Dependence in the Lord",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul qualifies the creation argument by insisting that in the Lord, neither man nor woman is independent of the other — woman came from man, but man now comes through woman, and all things come from God."
+    },
+    {
+      "reference": "11:13-16",
+      "section_title": "The Appeal to Nature and Universal Practice",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul appeals to the community's own judgment, to the teaching of nature regarding hair, and to the universal practice of the churches of God to reinforce the head-covering instruction."
+    },
+    {
+      "reference": "11:17-22",
+      "section_title": "Divisions at the Communal Meal",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul rebukes the Corinthians for their gathering, which he says is not for the better but for the worse, because their divisions at the communal meal humiliate the have-nots and despise the church of God."
+    },
+    {
+      "reference": "11:23-26",
+      "section_title": "The Tradition of the Lord's Supper",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul recites the tradition he received from the Lord concerning the bread and cup, establishing the meal as a proclamation of the Lord's death until he comes, which creates the framework for the judgment warnings that follow."
+    },
+    {
+      "reference": "11:27-29",
+      "section_title": "Unworthy Eating and the Failure to Discern the Body",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul warns that whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord, and that eating without discerning the body brings judgment on oneself.",
+      "relevance": "The warning establishes that participation in the Lord's Supper — the covenant meal — carries real consequences for those who participate improperly. Eating 'in an unworthy manner' (anaxios) makes one 'guilty concerning the body and blood of the Lord' and brings 'judgment' (krima) upon oneself. The neutral reading connects the failure to 'discern the body' to the social division described in vv. 17-22: the Corinthians fail to recognize one another as constituting the body of Christ. The passage implies that covenant participation is not automatically beneficial — it can become an occasion of judgment depending on the disposition and conduct of the participant. This bears on whether standing is conditional on ongoing faithfulness to the covenant relationship.",
+      "key_phrases": ["whoever eats the bread or drinks the cup of the Lord in an unworthy manner", "will be guilty concerning the body and blood of the Lord", "anyone who eats and drinks without discerning the body eats and drinks judgment on himself"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "11:30-32",
+      "section_title": "Present Judgment, Discipline, and the Risk of Condemnation",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul identifies the sickness and death in the community as divine judgment for their abuse of the Lord's Supper, explaining that the Lord disciplines believers so that they may not be condemned along with the world.",
+      "relevance": "This passage presents a three-tier structure: self-judgment prevents divine discipline; divine discipline prevents condemnation with the world. The critical clause is 'when we are judged by the Lord, we are disciplined so that we may not be condemned along with the world' (v. 32). The hina me ('so that not') clause presupposes that condemnation with the world is a real possibility for the community, not a hypothetical. The discipline — including physical illness and death (v. 30) — is corrective and parental in character, aimed at producing repentance. But the neutral reading notes that the possibility of condemnation with the world 'is real' and that the discipline must be received and responded to: 'The community that persists in its divisions is a community that moves toward the condemnation that the discipline is designed to prevent.' The passage directly addresses whether believers can face eschatological condemnation, and its answer is that they can — which is precisely why God disciplines.",
+      "key_phrases": ["many of you are weak and ill, and some have died", "if we judged ourselves truly, we would not be judged", "when we are judged by the Lord, we are disciplined", "so that we may not be condemned along with the world"],
+      "confidence": "high"
+    },
+    {
+      "reference": "11:33-34",
+      "section_title": "The Practical Solution",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul offers the practical remedy — wait for one another when gathering to eat, and eat at home if hungry — to prevent coming together for judgment, deferring remaining matters to his arrival."
+    }
+  ]
+}

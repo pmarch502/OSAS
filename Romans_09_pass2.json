@@ -1,0 +1,72 @@
+{
+  "book": "Romans",
+  "chapter": 9,
+  "sections": [
+    {
+      "reference": "9:1-5",
+      "section_title": "Paul's Grief and Israel's Privileges",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul expresses profound grief over Israel's rejection of the Messiah and catalogues Israel's covenant privileges -- adoption, glory, covenants, law, worship, promises, patriarchs, and the Messiah himself -- establishing the problem that if God's promises to Israel have failed, the assurances of chapters 1-8 are unreliable."
+    },
+    {
+      "reference": "9:6-9",
+      "section_title": "The Word Has Not Failed -- Children of Promise, Not Children of Flesh",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Paul argues that God's word has not failed because 'not all who are descended from Israel belong to Israel'; the promise has always operated through calling and divine selection (Isaac over Ishmael), not through automatic physical descent.",
+      "relevance": "This passage is conventionally cited by the permanence side as evidence that God distinguishes between a visible community and an invisible elect whose standing is guaranteed by God's sovereign choice. However, the neutral reading shows it is about the principle by which God constitutes his covenant people -- through promise and calling rather than physical descent -- addressing the corporate question of who belongs to Israel, not the individual question of whether a believer's standing is permanently secured once entered. The distinction between 'children of the flesh' and 'children of the promise' concerns the basis of covenant membership, not the irrevocability of individual salvation.",
+      "key_phrases": ["not all who are descended from Israel belong to Israel", "children of the promise are counted as offspring", "it is not the children of the flesh who are the children of God"],
+      "confidence": "high"
+    },
+    {
+      "reference": "9:10-13",
+      "section_title": "Jacob and Esau -- Election Before Birth, Before Works",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Paul demonstrates through the Jacob-Esau example that God's purpose of election operates through calling rather than through works or descent, selecting Jacob over Esau before either had done anything good or bad.",
+      "relevance": "This passage is conventionally cited by the permanence side as evidence for unconditional individual election that guarantees permanent standing. The neutral reading shows that the oracle 'the older will serve the younger' was about two nations (Israel and Edom), not individual eternal destinies, and that the Malachi quotation 'Jacob I loved, but Esau I hated' refers to national histories and historical fates -- not soteriological verdicts on individual souls. Paul's argument concerns the principle by which God's promise-line runs (calling, not descent), not the irrevocability of individual salvation.",
+      "key_phrases": ["God's purpose of election might continue to stand", "not because of works but because of him who calls", "the older will serve the younger", "Jacob I loved, but Esau I hated"],
+      "confidence": "high"
+    },
+    {
+      "reference": "9:14-18",
+      "section_title": "Is God Unjust? The Freedom of Mercy",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Paul defends God's justice by citing Exodus 33:19 -- God's sovereign freedom to show mercy -- and the Pharaoh narrative, arguing that mercy originates in God's initiative, not in human will or effort.",
+      "relevance": "This passage is conventionally cited by the permanence side as evidence that God's sovereign, irresistible mercy, once applied, cannot be revoked. However, the neutral reading shows that God's declaration 'I will have mercy on whom I have mercy' was spoken in the aftermath of Israel's golden calf idolatry -- it was the freedom to show mercy to idolaters who deserved destruction, not a guarantee that mercy once given is irrevocable. The Pharaoh hardening confirmed a trajectory Pharaoh had already chosen, not an arbitrary imposition on a willing heart. The passage establishes God's freedom in showing mercy, not the permanence of individual standing once mercy is received.",
+      "key_phrases": ["I will have mercy on whom I have mercy", "it depends not on human will or exertion, but on God, who has mercy", "he has mercy on whomever he wills, and he hardens whomever he wills"],
+      "confidence": "high"
+    },
+    {
+      "reference": "9:19-23",
+      "section_title": "The Potter and the Clay",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Paul addresses the objection that God's sovereignty eliminates human accountability by invoking the potter-and-clay metaphor from Isaiah and Jeremiah, asserting God's right to form different vessels from the same lump, while noting that God endured 'with much patience' vessels of wrath fitted for destruction.",
+      "relevance": "This passage is conventionally cited by the permanence side as evidence that God unilaterally determines who is a vessel of mercy or wrath, and that these designations are fixed and permanent. However, the neutral reading identifies the Jeremiah 18 background as essential: God's sovereignty in that passage includes the freedom to reshape the marred vessel and to relent based on a nation's response. The grammatical asymmetry is significant -- vessels of wrath are 'fitted' (passive, agent unspecified) for destruction, while vessels of mercy are 'prepared beforehand' (active, God as explicit agent) for glory -- avoiding direct attribution of the negative condition to God's active purpose. The passage asserts God's sovereign right over the clay, not the immutability of any vessel's current status.",
+      "key_phrases": ["Has the potter no right over the clay", "vessels of wrath prepared for destruction", "vessels of mercy, which he has prepared beforehand for glory", "endured with much patience"],
+      "confidence": "high"
+    },
+    {
+      "reference": "9:24-29",
+      "section_title": "The Calling -- Jews and Gentiles, the Remnant",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul identifies the vessels of mercy as those God has called from both Jews and Gentiles, supported by Hosea's prophecy that 'not my people' would become 'my people' and Isaiah's prophecy that only a remnant of Israel would be saved.",
+      "relevance": "The remnant concept demonstrates that corporate membership in God's covenant people does not guarantee individual inclusion in the fulfillment of the promise. Isaiah's prophecy that 'only a remnant will be saved' despite the multitude of Abraham's physical descendants shows that prior covenant status does not automatically secure standing. The preservation of the remnant is an act of grace, but the fact that the vast majority is excluded despite their covenant standing implies that belonging to God's people is not unconditionally permanent for every individual within that people.",
+      "key_phrases": ["Those who were not my people I will call my people", "only a remnant of them will be saved", "If the Lord of hosts had not left us offspring, we would have been like Sodom"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "9:30-33",
+      "section_title": "Israel's Stumbling and the Stone",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul concludes that Gentiles who did not pursue righteousness attained it through faith, while Israel pursued a law of righteousness but did not reach it because they pursued it 'as though from works' rather than from faith, and stumbled over the stone God laid in Zion.",
+      "relevance": "This passage establishes faith as the dividing line between those who attain righteousness and those who do not, even among God's covenant people. Israel's stumbling despite their comprehensive covenant privileges demonstrates that standing before God depends on the mode of approach -- faith rather than works -- and is not guaranteed by prior covenant relationship or accumulated religious heritage. The present participle 'the one who believes' implies ongoing faith as the condition for not being 'put to shame,' suggesting that standing is maintained through continuing trust rather than secured by a one-time event.",
+      "key_phrases": ["they did not pursue it by faith, but as if it were based on works", "they have stumbled over the stumbling stone", "whoever believes in him will not be put to shame"],
+      "confidence": "medium"
+    }
+  ]
+}

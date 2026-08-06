@@ -1,0 +1,36 @@
+{
+  "book": "Revelation",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-6",
+      "section_title": "The Message to the Assembly in Sardis",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_by_both",
+      "summary": "The neutral reading found that the Sardis assembly is declared dead despite its reputation for being alive, with works incomplete before God; a faithful few who have not soiled their garments will walk in white as worthy, and the conqueror is promised white garments, preservation of his name in the book of life, and confession before the Father -- with the book-of-life promise drawing its force from the OT precedent in Exodus 32:32-33 that names can be blotted out.",
+      "relevance": "This passage contains the single most directly contested verse in Revelation 2-3 for the permanence/conditionality debate: 'I will not blot out his name from the book of life' (3:5). The neutral reading argues extensively that the promise presupposes the real possibility of blotting out: 'If it were impossible for a name to be blotted out of the book of life, the promise would be empty -- it would be like promising I will not do something that could never happen anyway.' The Exodus 32:33 precedent establishes blotting as a real divine action against covenant members who sinned against God. The promise is given specifically and exclusively to the conqueror (ho nikon, present participle), creating an implicit but powerful contrast with non-conquerors who receive no such assurance. The broader context reinforces this: the assembly as a whole is 'dead,' its works are 'not completed before my God,' and only a few have not soiled their garments. The conditional thief-like visitation (avoidable through repentance) and the distinction between the assembly's false reputation and the conqueror's secure inscription in the book of life both demonstrate that standing before God depends on present spiritual condition, not past identity.",
+      "key_phrases": ["you have a name that you are alive, but you are dead", "I have not found your works completed before my God", "if you do not wake up, I will come like a thief", "a few names in Sardis that have not soiled their garments", "I will not blot out his name from the book of life", "I will confess his name before my Father and before his angels"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:7-13",
+      "section_title": "The Message to the Assembly in Philadelphia",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading found that the Philadelphia assembly receives no rebuke, is commended for keeping Christ's word and not denying his name despite little power, is promised an open door no one can shut and preservation through the coming hour of testing -- but is explicitly warned to hold fast what it has so that no one takes its crown, with the conquering promise of permanent placement as a pillar in God's temple and inscription with the names of God, the new Jerusalem, and Christ's new name.",
+      "relevance": "The warning 'hold fast what you have, so that no one takes your crown' directly implies that the crown, though belonging to the assembly ('your crown'), can be lost through failure to maintain grip. The neutral reading states plainly: 'The crown belongs to the Philadelphia assembly, but it is not yet beyond reach of another's taking.' This is addressed to a commended, faithful assembly -- not one under rebuke -- demonstrating that even a faithful community must continue holding fast to secure its reward. The conquering promise contains the strongest permanence language in the seven messages (pillar in the temple, 'he will not go out from it anymore,' triple inscription of divine names), but this permanence is the reward for conquering, not a guarantee given apart from it. The passage thus presents a conditional path to permanent reward: the permanence is real and glorious, but it belongs to the one who conquers, and the conquering requires sustained faithfulness that has not yet reached its conclusion.",
+      "key_phrases": ["I have put before you an open door which no one can shut", "I will keep you from the hour of testing", "hold fast what you have, so that no one takes your crown", "I will make him a pillar in the temple of my God, and he will not go out from it anymore", "I will write on him the name of my God"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:14-22",
+      "section_title": "The Message to the Assembly in Laodicea",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading found that the Laodicean assembly is assessed as lukewarm and about to be vomited from Christ's mouth, self-deceived about its spiritual condition (claiming wealth while wretched, poor, blind, and naked), yet offered the possibility of restoration through repentance and the intimate promise of table fellowship for any individual who opens the door, with the most exalted conquering promise of all seven messages: sharing Christ's own throne.",
+      "relevance": "The threat 'I will vomit you out of my mouth' directly addresses whether a believing assembly's relationship with Christ can be terminated. The neutral reading explicitly parallels this with Leviticus 18:28 and 20:22, where the covenant land vomits out inhabitants who violate the covenant, and concludes: 'The relationship between the speaker and the assembly, like the relationship between the land and its inhabitants, is not unconditional: the assembly can be ejected from its place if it fails to serve its intended function.' The threat is not yet executed (mello, 'about to'), leaving room for the repentance called for in verse 19 -- but the direction is clear without a change of course. The door-knocking image (3:20) shows Christ outside the assembly, waiting for individual response, demonstrating that a community can drift so far from its Lord that he must seek re-entry. The conquering promise of throne-sharing is the most exalted in all seven messages, yet it stands in maximal contrast with the assembly's current condition, and the distance is bridged only by repentance, zeal, and conquest. The pattern of the speaker's own path -- conquest through faithful suffering, then enthronement -- is the model the conqueror must follow.",
+      "key_phrases": ["you are lukewarm, and neither hot nor cold, I will vomit you out of my mouth", "you do not know that you are wretched and miserable and poor and blind and naked", "Those whom I love, I reprove and discipline; therefore be zealous and repent", "Behold, I stand at the door and knock", "I will grant to him to sit down with me on my throne, as I also conquered"],
+      "confidence": "high"
+    }
+  ]
+}

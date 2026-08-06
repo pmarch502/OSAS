@@ -1,0 +1,52 @@
+{
+  "book": "Revelation",
+  "chapter": 19,
+  "sections": [
+    {
+      "reference": "19:1-4",
+      "section_title": "The Hallelujah Chorus -- Heaven Celebrates Babylon's Fall",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents four Hallelujahs celebrating Babylon's fall, declaring God's judgments true and righteous and that he has avenged the blood of his servants; the section is heavenly celebration and vindication of the martyrs rather than a direct statement about the believer's standing."
+    },
+    {
+      "reference": "19:5-8",
+      "section_title": "The Voice from the Throne and the Marriage of the Lamb",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the declaration that God reigns, the announcement that the Lamb's marriage has come and his bride has made herself ready, and the identification of her fine linen garment as the righteous acts of the saints.",
+      "relevance": "The bride's readiness involves both divine gift and human action. The neutral reading notes that the garment 'was given to her' (edothē, divine passive) yet its content is 'the righteous acts of the saints' (ta dikaiōmata tōn hagiōn). The neutral reading explicitly states: 'The bride's readiness is not automatic or guaranteed; it depends on the dikaiōmata of the saints -- the actual righteous acts performed by the faithful.' The tension is held together: 'God gives the garment; the community fills it with their deeds.' The bride 'has made herself ready' (active voice) by living in accordance with God's commandments and maintaining the testimony of Jesus. This implies that the community's final standing involves both divine provision and sustained human faithfulness -- the garment of righteousness is a gift, but the community must supply its content through obedience.",
+      "key_phrases": ["his bride has made herself ready", "It was given to her to clothe herself in fine linen, bright and clean", "the fine linen is the righteous acts of the saints"],
+      "confidence": "high"
+    },
+    {
+      "reference": "19:9",
+      "section_title": "The Beatitude -- The Marriage Supper of the Lamb",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the fourth beatitude declaring blessed those invited to the marriage supper of the Lamb, authenticated as true words of God; the section pronounces blessedness on the invited community rather than directly addressing whether the believer's standing is permanent or conditional."
+    },
+    {
+      "reference": "19:10",
+      "section_title": "The Rebuke -- Worship God",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents John falling to worship the angel and being rebuked as a fellow servant, with the declaration that the testimony of Jesus is the spirit of prophecy; the section addresses proper worship rather than the believer's standing."
+    },
+    {
+      "reference": "19:11-16",
+      "section_title": "Heaven Opens -- The Rider on the White Horse",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the rider called Faithful and True, the Word of God, bearing the title King of Kings and Lord of Lords, leading the armies of heaven to strike the nations with the sword from his mouth; the section is a Christophany and military theophany rather than a direct statement about the believer's standing."
+    },
+    {
+      "reference": "19:17-18",
+      "section_title": "The Angel in the Sun -- The Great Supper of God",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the angel summoning birds to the great supper of God to eat the flesh of kings, commanders, and all who opposed the Lamb; the section narrates the anti-supper contrasting the marriage feast, but addresses the fate of the beast's allies rather than the believer's standing."
+    },
+    {
+      "reference": "19:19-21",
+      "section_title": "The Defeat of the Beast and the False Prophet",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading narrates the capture of the beast and false prophet and their being thrown into the lake of fire, and the slaying of the remaining armies by the sword from the rider's mouth; the section describes the defeat of the adversaries rather than addressing the believer's standing."
+    }
+  ]
+}

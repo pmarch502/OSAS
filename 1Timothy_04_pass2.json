@@ -1,0 +1,32 @@
+{
+  "book": "1 Timothy",
+  "chapter": 4,
+  "sections": [
+    {
+      "reference": "4:1-5",
+      "section_title": "The Spirit's Warning About Departure from the Faith",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The Spirit explicitly states that in later times some will depart from the faith (apostesontai tes pisteos), devoting themselves to deceitful spirits and teachings of demons, through hypocritical liars whose consciences have been cauterized; the specific content of the false teaching is the prohibition of marriage and required food abstinence, which Paul refutes by appealing to the goodness of creation.",
+      "relevance": "This passage directly addresses believers departing from the faith, and does so as the author's own argument, grounded in explicit prophetic disclosure. The verb aphistemi ('to stand away from') describes deliberate departure from a position previously occupied -- these are insiders who leave, not outsiders who never believed. The neutral reading traces the anatomy of apostasy with precision: conscience is first ignored (1:5), then actively rejected (1:19, aposamenoi), and finally cauterized beyond recovery (4:2, kekauteriasmenos). The passage is conventionally cited for conditionality (1 Timothy 4:1 is on the standard proof-text list). The neutral reading fully supports this conventional use: the Spirit warns that genuine departure from genuine faith will occur, through identifiable mechanisms, and the text treats this as a real loss of standing, not as proof that the departed never truly believed.",
+      "key_phrases": ["in later times some will depart from the faith", "devoting themselves to deceitful spirits and teachings of demons", "whose consciences are seared"],
+      "confidence": "high"
+    },
+    {
+      "reference": "4:6-10",
+      "section_title": "Timothy as a Good Servant -- Nourished by Sound Teaching, Trained for Godliness",
+      "category": "NOT_APPLICABLE",
+      "summary": "Timothy will be a good servant of Christ Jesus if he places the Spirit's warning before the community, being nourished on the words of the faith; he must reject irreverent myths, train himself for godliness (which holds promise for both the present and coming life), and set his hope on the living God who is the Savior of all people, especially of those who believe."
+    },
+    {
+      "reference": "4:11-16",
+      "section_title": "The Charge to Timothy -- Teach, Model, Persist",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Timothy must command and teach, set an example in speech, conduct, love, faith, and purity, devote himself to public reading, exhortation, and teaching, not neglect his gift, and persist in watching his life and doctrine -- because by doing so he will save both himself and his hearers.",
+      "relevance": "Verse 16 states: 'Persist in this, for by so doing you will save both yourself and your hearers.' The neutral reading identifies the conditional logic as 'unmistakable': the saving is contingent on the doing (touto poion is a participle of condition). The verb sozo carries its full soteriological weight in this letter (1:15, 2:4, 2:15). Timothy's salvation is connected to his perseverance in watching his life and teaching. The neutral reading concludes explicitly: 'The letter does not present salvation as a status that, once obtained, cannot be lost. It presents salvation as a reality that is experienced through ongoing faithfulness -- and that can be forfeited through departure, neglect, or the searing of conscience.' This is part of the author's direct argument, not an aside or illustration.",
+      "key_phrases": ["persist in this", "by so doing you will save both yourself and your hearers", "keep a close watch on yourself and on the teaching"],
+      "confidence": "high"
+    }
+  ]
+}

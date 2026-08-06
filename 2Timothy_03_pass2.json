@@ -1,0 +1,54 @@
+{
+  "book": "2 Timothy",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-5",
+      "section_title": "The Character of the 'Last Days' -- People Within the Community",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "In the 'last days' (understood by the early communities as the present age), people will be characterized by nineteen vices rooted in disordered love -- lovers of self, money, and pleasure rather than God -- culminating in the defining trait of having the outward form of godliness while denying its power; Timothy is commanded to avoid such people.",
+      "relevance": "The passage describes people within or adjacent to the believing community who possess the morphosis ('outward form, appearance') of eusebeia ('godliness') but have denied (ernemenoi, perfect middle participle of arneisthai) its power (dynamin). The neutral reading makes the connection to the faithful saying of 2:12 explicit: 'denying the power of godliness is a form of denying Christ himself, because the power of godliness is the dynamis that God gives (1:7).' The verb arneisthai is the same word used in 2:12 ('if we deny him, he also will deny us'), creating a structural echo. These are not outsiders who never believed but people who occupy a position within the community's religious life -- they look godly, participate in community activities, but have made a settled decision (perfect tense) to reject the transformative power that genuine godliness produces. Their presence within the community demonstrates that religious affiliation and outward form do not guarantee authentic standing before God.",
+      "key_phrases": ["having the appearance of godliness but denying its power", "lovers of pleasure rather than lovers of God", "avoid such people"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:6-9",
+      "section_title": "The Infiltrators and Their Precedent -- Jannes and Jambres",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Some among these false teachers creep into households, take captive vulnerable women burdened with sins and driven by passions who are always learning but never arriving at knowledge of the truth; they are compared to Jannes and Jambres who opposed Moses, being people corrupted in mind and disqualified regarding the faith, though their folly will eventually become plain to all.",
+      "relevance": "The passage bears on the question through two key terms. First, the adjective adokimoi ('disqualified, failing the test, counterfeit') is the exact opposite of dokimos ('approved, tested, proven genuine') from 2:15, where Timothy was to present himself as approved before God. The neutral reading emphasizes the antithesis: 'Timothy is to be dokimos; these people are adokimoi.' The word was used for metals that failed assay and coins proven counterfeit -- these opponents have been tested regarding the faith (peri ten pistin) and found wanting. Second, the description of their victims as 'always learning and never able to arrive at a knowledge of the truth' (3:7) describes a state where the capacity for spiritual attainment has been functionally disabled by unresolved guilt and disordered desires -- though the neutral reading notes the inability is conditional rather than constitutional, and could be reversed through cleansing (connecting to 2:20-21). The passage contributes to the letter's cumulative picture of faith as something that can be corrupted, counterfeited, and lost.",
+      "key_phrases": ["corrupted in mind and disqualified regarding the faith", "always learning and never able to arrive at a knowledge of the truth", "their folly will be plain to all"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:10-12",
+      "section_title": "The Contrast -- Timothy's Following of Paul",
+      "category": "NOT_APPLICABLE",
+      "summary": "Timothy has followed Paul's teaching, conduct, purpose, faith, patience, love, and steadfastness through persecutions at Antioch, Iconium, and Lystra -- from all of which the Lord rescued Paul; and all who desire to live a godly life in Christ Jesus will be persecuted."
+    },
+    {
+      "reference": "3:13",
+      "section_title": "The Trajectory of Deception",
+      "category": "NOT_APPLICABLE",
+      "summary": "Evil people and impostors will advance from bad to worse, deceiving others and being deceived themselves in a mutually reinforcing cycle of deception."
+    },
+    {
+      "reference": "3:14-15",
+      "section_title": "Timothy's Foundation -- What He Learned and From Whom",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Timothy is commanded to continue (menein) in what he learned and was firmly convinced of, knowing the reliable sources from whom he learned (Paul, Lois, Eunice), and that from childhood he has known the sacred writings which are able to make him wise for salvation through faith in Christ Jesus.",
+      "relevance": "The imperative mene ('continue, remain, abide') is the key word. The neutral reading identifies menein as 'one of the most important words in the New Testament for the concept of perseverance' and notes it 'describes remaining in a position already occupied, not arriving at a new position.' Timothy is not told to discover something new but to stay where he is -- which implies the genuine possibility of not staying. The command is set in direct contrast with the trajectory of the evil who 'advance from bad to worse' (3:13): while they progress in corruption, Timothy must remain in truth. The phrase that the sacred writings are 'able to make you wise for salvation through faith in Christ Jesus' frames salvation as the destination toward which scripture-formed wisdom leads, accessed through ongoing faith in Christ. The passage treats perseverance in learned truth as requiring deliberate choice and active effort, not as automatic or guaranteed.",
+      "key_phrases": ["continue in what you have learned and have firmly believed", "the sacred writings which are able to make you wise for salvation through faith in Christ Jesus"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:16-17",
+      "section_title": "The Nature and Purpose of Scripture",
+      "category": "NOT_APPLICABLE",
+      "summary": "All scripture is God-breathed and profitable for teaching, reproof, correction, and training in righteousness, so that the man of God may be complete, equipped for every good work."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "book": "Titus",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-4",
+      "section_title": "The Greeting -- Servanthood, Apostleship, and the Promise Before Time",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul's apostleship serves the faith of God's elect and the knowledge of truth that accords with godliness, grounded in the hope of eternal life promised by the God who cannot lie before time began and now manifested through preaching.",
+      "relevance": "The passage grounds the hope of eternal life in two anchors: God's constitutional inability to lie and the pre-temporal origin of the promise. The neutral reading explicitly states that 'no subsequent event can destabilize a promise that predates all events and is guaranteed by one who is constitutionally incapable of falsehood.' This emphasis on the unshakeable basis of the divine promise has implications favoring permanence. However, the passage is establishing the theological framework for the letter rather than directly addressing whether individual believers can forfeit their standing. The 'elect' language is corporate in its LXX background, describing a people chosen for God's purposes, not directly asserting that each individual member's standing is irrevocable.",
+      "key_phrases": ["hope of eternal life", "God, who never lies", "promised before the ages began", "faith of God's elect"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:5-9",
+      "section_title": "The Appointment of Elders -- Structure for the Communities",
+      "category": "NOT_APPLICABLE",
+      "summary": "Titus is instructed to appoint qualified elders in every town on Crete, with qualifications addressing character, temperament, habits, and the ability to teach sound doctrine and refute opponents."
+    },
+    {
+      "reference": "1:10-16",
+      "section_title": "The False Teachers -- Identification, Condemnation, and the Test of Works",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The false teachers, especially from the circumcision party, are identified as insubordinate empty talkers who upset whole households for shameful gain; they profess to know God but deny him by their works, rendering themselves detestable, disobedient, and unfit for any good work.",
+      "relevance": "The passage establishes that verbal profession of knowing God is rendered void when contradicted by works: 'They profess to know God, but they deny him by their works.' The diagnostic test for genuine versus counterfeit standing is not verbal claim but visible conduct. These are people within the broader community whose defiled minds and consciences produce behavior that contradicts their profession, resulting in their being judged 'detestable, disobedient, unfit for any good work.' The principle that works serve as the definitive test of one's actual relationship with God -- not mere profession -- carries conditional implications: standing before God is demonstrated and validated by ongoing conduct, not secured by verbal claim alone. Whether these people ever had genuine standing is not resolved by the neutral reading, introducing some ambiguity.",
+      "key_phrases": ["profess to know God, but they deny him by their works", "detestable, disobedient, unfit for any good work", "to the defiled and unbelieving, nothing is pure", "both their minds and their consciences are defiled"],
+      "confidence": "medium"
+    }
+  ]
+}

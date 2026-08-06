@@ -1,0 +1,54 @@
+{
+  "book": "Romans",
+  "chapter": 6,
+  "sections": [
+    {
+      "reference": "6:1-4",
+      "section_title": "The Question, the Answer, and the Baptismal Reality",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul answers the objection 'shall we continue in sin that grace may abound?' by appealing to the baptismal reality: those baptized into Christ were baptized into his death and buried with him, so that just as Christ was raised, they might walk in newness of life."
+    },
+    {
+      "reference": "6:5-7",
+      "section_title": "United in Death, United in Resurrection; the Crucified Old Humanity",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul argues that union with Christ in death means the old self was crucified so that the body of sin might be rendered powerless, and that the one who has died has been freed from sin's jurisdiction."
+    },
+    {
+      "reference": "6:8-11",
+      "section_title": "The Logic of Co-Death and Co-Life, and the Command to Reckon",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reasons that if believers died with Christ they will also live with him, since Christ's death to sin was once for all and his life is to God, and commands believers to reckon themselves dead to sin and alive to God in Christ Jesus."
+    },
+    {
+      "reference": "6:12-14",
+      "section_title": "The Command Not to Let Sin Reign, and the Promise",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul commands believers not to let sin reign in their mortal bodies, not to present their members as instruments of unrighteousness but as instruments of righteousness, and promises that sin shall not have dominion over them because they are under grace, not law.",
+      "relevance": "The imperatives ('do not let sin reign,' 'do not go on presenting your members to sin,' 'present yourselves to God') presuppose that the believer has genuine agency and that sin's renewed reign is a real possibility, not merely hypothetical. The neutral reading notes that the present imperative with negative me addresses a situation the believers can resist or prevent. At the same time, 6:14 promises that sin will not have dominion because they are under grace -- a declaration that leans toward assurance. The section holds both together: the promise of grace's sufficiency and the imperative to appropriate that grace through active obedience.",
+      "key_phrases": ["do not let sin reign in your mortal body", "present your members as instruments of righteousness", "sin shall not have dominion over you", "you are not under law but under grace"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:15-19",
+      "section_title": "The Second Question and the Slavery Metaphor",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul answers the second objection ('shall we sin because we are under grace?') by stating the principle that you are the slave of whomever you obey -- either of sin leading to death, or of obedience leading to righteousness -- and that the believers, once slaves of sin, have been freed and enslaved to righteousness.",
+      "relevance": "The principle in 6:16 ('you are the slave of whomever you obey, either of sin resulting in death, or of obedience resulting in righteousness') directly implies that conduct determines allegiance and outcome. Identity follows practice, not the reverse. There are only two options with no neutral ground, and the two outcomes are death or righteousness. Though framed as a general principle about slavery and obedience, the neutral reading notes the Exodus parallel: Israel was freed from Egypt but the wilderness generation turned back. The neutral reading further states that 'Paul does not treat the believer's transfer from sin's service to God's service as a transaction that cannot be reversed.' The implications for conditionality are strong.",
+      "key_phrases": ["you are the slave of whomever you obey", "either of sin resulting in death or of obedience resulting in righteousness", "you became obedient from the heart", "having been freed from sin you became slaves of righteousness"],
+      "confidence": "high"
+    },
+    {
+      "reference": "6:20-23",
+      "section_title": "The Two Outcomes -- Death and Eternal Life",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul contrasts the two slaveries and their outcomes: the fruit of slavery to sin was things that lead to death, while the fruit of slavery to God leads to sanctification and eternal life, summarized as 'the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.'",
+      "relevance": "The contrast between two outcomes (death as the wages of sin, eternal life as God's gift) is presented to believers as a reminder that two paths and two destinations remain real. The passage does not present eternal life as an irrevocable possession already secured but as the telos ('end, outcome, destination') of a path characterized by ongoing sanctification. The neutral reading notes that the fruit language (karpos) describes the product of a way of life, and the believers are reminded of what their former slavery produced (shame, death) versus what their current slavery produces (sanctification, eternal life).",
+      "key_phrases": ["the end of those things is death", "your fruit resulting in sanctification and the outcome eternal life", "the wages of sin is death", "the free gift of God is eternal life in Christ Jesus our Lord"],
+      "confidence": "medium"
+    }
+  ]
+}

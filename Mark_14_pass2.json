@@ -1,0 +1,92 @@
+{
+  "book": "Mark",
+  "chapter": 14,
+  "sections": [
+    {
+      "reference": "14:1-2",
+      "section_title": "The Plot",
+      "category": "NOT_APPLICABLE",
+      "summary": "The chief priests and scribes seek to arrest Jesus covertly and kill him, constrained only by fear of the crowd during the Passover festival."
+    },
+    {
+      "reference": "14:3-9",
+      "section_title": "The Anointing at Bethany",
+      "category": "NOT_APPLICABLE",
+      "summary": "An unnamed woman anoints Jesus's head with costly perfume, which Jesus interprets as burial preparation and declares will be remembered wherever the gospel is preached."
+    },
+    {
+      "reference": "14:10-11",
+      "section_title": "Judas's Betrayal",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Judas Iscariot, emphatically identified as 'one of the twelve,' goes to the chief priests to betray Jesus in exchange for money, providing the covert opportunity they sought.",
+      "relevance": "The passage bears on the permanence/conditionality question because Judas was a member of the most intimate circle of Jesus's followers. He was chosen by Jesus (3:14), given authority over unclean spirits (3:15, 6:7), and sent out on mission (6:7-13). His standing within the community of Jesus's followers was genuine and authorized. Yet he commits the ultimate act of unfaithfulness -- selling Jesus to those who will kill him. The contrast with the unnamed woman (who gave everything in devotion) sharpens the point: one of the twelve, who had every form of authorized standing, becomes the instrument of Jesus's death. This demonstrates that being chosen and authorized by Jesus does not create an irrevocable standing that prevents apostasy.",
+      "key_phrases": ["Judas Iscariot, who was one of the twelve", "went off to the chief priests in order to betray Him"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "14:12-16",
+      "section_title": "Preparing the Passover",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus sends two disciples with precise instructions to prepare the Passover meal, and everything occurs exactly as he predicted, demonstrating his orchestration of the events."
+    },
+    {
+      "reference": "14:17-21",
+      "section_title": "The Announcement of Betrayal",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "At the Passover meal, Jesus announces that one who is eating with him will betray him, evoking the covenant-violation language of Psalm 41:9; each disciple asks 'Surely not I?'; Jesus pronounces a woe on the betrayer, declaring it would have been better for that man never to have been born.",
+      "relevance": "The passage demonstrates that sharing the most intimate covenantal fellowship with Jesus (eating at his Passover table, dipping bread in the same bowl) does not prevent catastrophic betrayal. The 'woe' pronounced on the betrayer indicates the most severe eschatological consequences for a member of the inner community. The disciples' collective question -- 'Surely not I?' -- reveals that none of them is confident in his own fidelity, suggesting an awareness that any of them could be the one who falls. The passage holds together divine purpose ('the Son of Man is going away just as it is written about Him') and human culpability ('woe to that man'), refusing to let either cancel the other. The betrayer's responsibility is real despite the divine plan, meaning his standing was genuinely forfeitable.",
+      "key_phrases": ["one of you will betray Me -- one who is eating with Me", "woe to that man by whom the Son of Man is betrayed", "It would have been good for that man if he had not been born", "Surely not I?"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "14:22-25",
+      "section_title": "The Bread and Cup -- The New Covenant",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus identifies the bread as his body and the cup as his blood of the covenant poured out for many, echoing the Sinai covenant ratification of Exodus 24:8 and the suffering servant of Isaiah 53, and declares he will not drink again until the kingdom of God."
+    },
+    {
+      "reference": "14:26-31",
+      "section_title": "The Prediction of Scattering and Denial",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus quotes Zechariah 13:7 to predict that all the disciples will fall away, promises to go ahead of them to Galilee after being raised, and specifically predicts Peter's triple denial before the rooster crows twice, despite Peter's emphatic insistence that he will never deny Jesus.",
+      "relevance": "Jesus directly applies the verb skandalisthesesthe (you will be scandalized/caused to fall) to his own disciples -- the same word used in the sower parable (4:17) for those who fall away when persecution arises. The neutral reading observes that 'Jesus has now applied the sower parable's worst outcome to his own disciples. They are the rocky soil.' This directly addresses whether believers -- indeed the most intimate circle of believers -- can fall away. The answer is unequivocal: they will. However, the promise of restoration ('after I am raised, I will go ahead of you to Galilee') introduces an important counterpoint: the falling away is real but not necessarily final, because the shepherd himself takes the initiative to reconstitute the flock. This creates genuine tension between conditionality (the disciples truly fall away) and God's faithfulness (Jesus goes ahead to restore them), preventing a STRONG classification.",
+      "key_phrases": ["You will all fall away", "I will strike the shepherd, and the sheep will be scattered", "After I am raised, I will go ahead of you to Galilee", "before a rooster crows twice, you yourself will deny Me three times"],
+      "confidence": "high"
+    },
+    {
+      "reference": "14:32-42",
+      "section_title": "Gethsemane -- The Hour",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus prays in anguish for the cup to be removed, submits to the Father's will, and three times finds the disciples sleeping instead of watching, warning them to pray lest they enter temptation because 'the spirit is willing, but the flesh is weak.'",
+      "relevance": "The passage bears on the permanence/conditionality question through the warning about temptation and the demonstrated insufficiency of good intentions. Jesus commands the disciples to 'keep watching and praying, so that you will not come into temptation,' implying that without prayer, they will enter temptation and fall. The statement 'the spirit is willing, but the flesh is weak' acknowledges that genuine intention to be faithful is insufficient without the sustaining power of prayer. The disciples' three failures to watch directly fulfill the Olivet discourse warning (13:33-37) about being found asleep. The passage presents the believer's standing as requiring active, sustained spiritual practice (prayer and watchfulness), not merely a willing disposition. Good intentions without sustained dependence on God result in failure.",
+      "key_phrases": ["Keep watching and praying, so that you will not come into temptation", "the spirit is willing, but the flesh is weak", "Could you not keep watch for one hour?", "Are you still sleeping and resting?"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "14:43-52",
+      "section_title": "The Arrest and Flight",
+      "category": "NOT_APPLICABLE",
+      "summary": "Judas identifies Jesus with a kiss; Jesus is arrested by an armed crowd from the chief priests, scribes, and elders; all the disciples flee, fulfilling the Zechariah 13:7 prediction; and a last young man following Jesus escapes naked, leaving behind his linen cloth."
+    },
+    {
+      "reference": "14:53-65",
+      "section_title": "The Trial Before the Sanhedrin",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus is brought before the high priest and the Sanhedrin; false witnesses cannot agree; Jesus remains silent until directly asked if he is the Christ and Son of the Blessed One, then openly declares 'I am' and invokes Psalm 110:1 and Daniel 7:13-14, breaking the messianic secret at the moment it costs him everything; the council condemns him for blasphemy."
+    },
+    {
+      "reference": "14:66-72",
+      "section_title": "Peter's Denial",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Peter denies knowing Jesus three times -- first to a slave woman, then to bystanders, and finally with curses and oaths -- fulfilling Jesus's precise prediction; when the rooster crows a second time, Peter remembers Jesus's words and weeps.",
+      "relevance": "Peter's denial is the culmination of the chapter's demonstration that genuine, authorized standing in the community of Jesus does not guarantee faithfulness under pressure. Peter was the first called (1:16-17), was given a new name (3:16), was part of the innermost circle who witnessed the transfiguration (9:2) and Gethsemane (14:33), and made the most emphatic declaration of loyalty ('Even if I have to die with You, I will not deny You'). Yet he explicitly denies knowing Jesus, escalating from simple denial to cursing and swearing. The passage shows a believer's connection to Jesus being actively and repeatedly severed by the believer's own words. However, the weeping indicates that Peter's conscience is not dead, and the later inclusion of Peter in the resurrection message (16:7, 'tell his disciples and Peter') suggests that the denial, while real, is not presented as the final word. The conditionality is real -- Peter genuinely falls -- but the narrative leaves open the possibility of restoration.",
+      "key_phrases": ["I neither know nor understand what you are talking about", "I do not know this Man of whom you speak", "he began to curse himself and to swear", "Peter remembered", "he hurried on and began to weep"],
+      "confidence": "high"
+    }
+  ]
+}

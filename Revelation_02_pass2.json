@@ -1,0 +1,46 @@
+{
+  "book": "Revelation",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1-7",
+      "section_title": "The Message to the Assembly in Ephesus",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading found that the Ephesian assembly is commended for works, endurance, and doctrinal discernment but rebuked for abandoning its first love, with the threat that Christ will remove its lampstand from its place unless it repents -- making the assembly's continued existence as a light-bearing community contingent on repentance.",
+      "relevance": "The threat of lampstand removal directly addresses whether an assembly's standing before Christ is permanent or conditional. The neutral reading explicitly states: 'The community's existence as an assembly is not guaranteed. It is contingent on repentance.' The conditional structure (ean me, 'unless') with the subjunctive indicates a genuinely open outcome dependent on the assembly's response. The conquering promise -- eating from the tree of life -- is given only to 'the one who conquers' (ho nikon, present participle denoting ongoing action), not to all members of the assembly. The assembly's doctrinal correctness and moral vigilance do not by themselves secure its standing; the absence of first love is a sufficient deficiency to warrant removal.",
+      "key_phrases": ["you have abandoned the love you had at first", "I will come to you and remove your lampstand from its place, unless you repent", "To the one who conquers I will grant to eat of the tree of life"],
+      "confidence": "high"
+    },
+    {
+      "reference": "2:8-11",
+      "section_title": "The Message to the Assembly in Smyrna",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading found that the Smyrnan assembly receives no rebuke but is exhorted not to fear coming imprisonment and death, with the command to be faithful unto death and the promise that the one who conquers will not be hurt by the second death -- conditioning ultimate protection on faithfulness even to the point of martyrdom.",
+      "relevance": "The exhortation 'be faithful unto death, and I will give you the crown of life' directly ties the believer's ultimate reward to sustained faithfulness through the severest test. The neutral reading notes the calculus: 'faithfulness may cost you your physical life, but it secures you from ultimate destruction. Unfaithfulness may preserve your physical life, but it exposes you to ultimate destruction.' The promise of immunity from the second death uses the strongest Greek negation (ou me) but is given specifically to 'the one who conquers,' and conquering in Smyrna is defined by the context as enduring suffering and remaining faithful even to death. The conditional structure makes ultimate standing contingent on ongoing faithfulness under persecution.",
+      "key_phrases": ["Be faithful unto death, and I will give you the crown of life", "The one who conquers will not be hurt by the second death", "the devil is about to throw some of you into prison, that you may be tested"],
+      "confidence": "high"
+    },
+    {
+      "reference": "2:12-17",
+      "section_title": "The Message to the Assembly in Pergamum",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading found that the Pergamum assembly is commended for holding fast to Christ's name even through the martyrdom of Antipas, but rebuked for tolerating within its membership those who hold the teaching of Balaam and the Nicolaitans -- promoting idol-food and sexual immorality -- with the threat that Christ will come and wage war against the false teachers with the sword of his mouth unless the assembly repents.",
+      "relevance": "The threat of divine war against members within Christ's own assembly directly addresses whether believers' standing can be jeopardized by their conduct and teaching. The neutral reading identifies the verb polemeo ('to wage war') as a military term describing divine judgment against people inside the community, not outsiders. Repentance is commanded of the whole assembly for its corporate toleration, indicating that passive tolerance of compromise endangers the community's standing. The conquering promise (hidden manna, white stone, new name) is available only to those who overcome the specific challenge of refusing accommodation with pagan religious practice. The pronoun shift -- repentance commanded of 'you' (the assembly), war threatened against 'them' (the compromisers) -- demonstrates differentiated judgment within a single believing community.",
+      "key_phrases": ["Therefore repent. If not, I will come to you soon and will war against them with the sword of my mouth", "you have some there who hold the teaching of Balaam", "you hold fast my name, and you did not deny my faith", "To the one who conquers I will give some of the hidden manna"],
+      "confidence": "high"
+    },
+    {
+      "reference": "2:18-29",
+      "section_title": "The Message to the Assembly in Thyatira",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "The neutral reading found that the Thyatiran assembly is commended for love, faith, service, endurance, and growing works, but rebuked for tolerating the woman called Jezebel who teaches and seduces Christ's own servants into sexual immorality and eating idol-food; judgment is announced against her and her followers unless they repent, with the explicit principle 'I will give to each of you according to your works' applied to the believing community.",
+      "relevance": "This passage addresses believers' standing before God with particular directness and severity. Christ threatens to throw his own servants who follow Jezebel into 'great tribulation' and to 'strike her children dead' -- divine judgment against members of the believing community for their conduct. The neutral reading identifies the stated principle 'I will give to each of you according to your works' as the same judgment-by-works criterion found in Psalm 62:12, Jeremiah 17:10, and Romans 2:6, applied here by the risen Christ to believers within his own assembly. The conquering promise is explicitly conditioned on keeping Christ's works 'until the end' (achri telous), establishing that the reward requires sustained obedience through the entire course, not merely initial faith. The case of Jezebel demonstrates that God extends time for repentance, but when repentance is refused, judgment falls on believers.",
+      "key_phrases": ["I gave her time to repent, but she refuses to repent", "I will throw into great tribulation those who commit adultery with her, unless they repent of her works", "I will give to each of you according to your works", "the one who conquers and who keeps my works until the end", "hold fast what you have, until I come"],
+      "confidence": "high"
+    }
+  ]
+}

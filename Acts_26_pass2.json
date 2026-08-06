@@ -1,0 +1,76 @@
+{
+  "book": "Acts",
+  "chapter": 26,
+  "sections": [
+    {
+      "reference": "26:1-3",
+      "section_title": "Permission to Speak",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes Agrippa's invitation to Paul to speak in his own defense and Paul's expression of satisfaction at speaking before someone who knows Jewish customs and controversies."
+    },
+    {
+      "reference": "26:4-5",
+      "section_title": "Paul's Jewish Identity",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Paul's appeal to his well-known manner of life from youth in Jerusalem, his Pharisaic credentials representing the strictest party of the Jewish religion."
+    },
+    {
+      "reference": "26:6-8",
+      "section_title": "The Hope of Israel and the Resurrection Question",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes Paul's framing of the trial as being about the hope of the promise made by God to the fathers -- the resurrection of the dead -- the same hope toward which the twelve tribes earnestly worship, asking why it should be thought incredible that God raises the dead."
+    },
+    {
+      "reference": "26:9-11",
+      "section_title": "Paul the Former Persecutor",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Paul's confession of his former opposition to the name of Jesus of Nazareth, including imprisoning saints, casting his vote against them when they were put to death, punishing them in synagogues, and pursuing them to foreign cities."
+    },
+    {
+      "reference": "26:12-15",
+      "section_title": "The Damascus Road Encounter",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes Paul's third retelling of the Damascus road encounter: the light brighter than the sun, the voice speaking in Hebrew, and the self-identification as Jesus whom Paul is persecuting, including the proverb about kicking against the goads."
+    },
+    {
+      "reference": "26:16-18",
+      "section_title": "The Commission -- Content of Paul's Mission",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the content of Paul's commission: to be a servant and witness of what he has seen, appointed to open eyes so that people may turn from darkness to light and from the power of Satan to God, receiving forgiveness of sins and an inheritance among those sanctified by faith in Jesus."
+    },
+    {
+      "reference": "26:19-21",
+      "section_title": "Paul's Obedience to the Heavenly Vision",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading describes Paul's obedience to the heavenly vision, proclaiming to Jews and Gentiles that they should repent and turn to God, performing deeds consistent with repentance.",
+      "relevance": "The content of Paul's proclamation connects genuine repentance to corresponding conduct: those who repent must 'perform deeds consistent with repentance' (axia tes metanoias erga prassontas). The adjective axia ('worthy of, befitting, corresponding to') establishes that repentance is not a one-time interior act but must be validated by ongoing conduct that corresponds to it. This echoes John the Baptist's demand in Luke 3:8 and implies that a repentance not accompanied by corresponding deeds is not genuine, creating a conditionality framework in which standing before God is tied to ongoing faithfulness expressed in conduct.",
+      "key_phrases": ["repent and turn to God", "performing deeds consistent with repentance"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "26:22-23",
+      "section_title": "The Message as Fulfillment of Moses and the Prophets",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Paul's claim that his entire message says nothing beyond what Moses and the prophets said would happen: that the Christ must suffer, be the first to rise from the dead, and proclaim light to both the Jewish people and the Gentiles."
+    },
+    {
+      "reference": "26:24-26",
+      "section_title": "Festus's Interruption",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes Festus's loud interruption accusing Paul of madness from too much learning, and Paul's calm reply that he speaks sober truth that the king understands because these things were not done in a corner."
+    },
+    {
+      "reference": "26:27-29",
+      "section_title": "The Exchange with Agrippa",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes the exchange where Paul appeals to Agrippa's belief in the prophets, Agrippa's response about being persuaded to become a Christian, and Paul's expressed wish that all who hear him would become as he is, except for his chains."
+    },
+    {
+      "reference": "26:30-32",
+      "section_title": "The Verdict of Innocence",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading describes the private verdict of Agrippa, Bernice, and Festus that Paul has done nothing deserving death or imprisonment, and Agrippa's observation that Paul could have been set free if he had not appealed to Caesar."
+    }
+  ]
+}

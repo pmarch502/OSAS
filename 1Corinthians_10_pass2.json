@@ -1,0 +1,58 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 10,
+  "sections": [
+    {
+      "reference": "10:1-5",
+      "section_title": "The Privileges and the Overthrow",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Paul recounts how all of Israel's ancestors were under the cloud, passed through the sea, were baptized into Moses, ate the same spiritual food, and drank the same spiritual drink — yet with most of them God was not pleased, and they were overthrown in the wilderness.",
+      "relevance": "The five-fold repetition of pantes ('all') — all under the cloud, all through the sea, all baptized, all ate, all drank — establishes that the entire community received every divine provision, directly parallel to Christian baptism and the Lord's table. Yet 'with most of them God was not pleased, and they were overthrown in the wilderness.' The neutral reading states: 'Your baptism, your participation in the Lord's table, your possession of spiritual gifts — none of these make you immune to the same judgment that fell on Israel.' The passage directly addresses whether participation in covenant ceremonies and receipt of divine provision guarantees perseverance, and the answer is categorically no. This is part of Paul's sustained argument running from 9:24 through 10:13, functioning as the scriptural warrant for why the Corinthians cannot presume upon their sacramental status.",
+      "key_phrases": ["all were under the cloud", "all passed through the sea", "all were baptized into Moses", "all ate the same spiritual food", "all drank the same spiritual drink", "with most of them God was not pleased", "they were overthrown in the wilderness"],
+      "confidence": "high"
+    },
+    {
+      "reference": "10:6-10",
+      "section_title": "The Catalogue of Wilderness Sins",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Paul identifies four specific sins — desiring evil, idolatry, sexual immorality, and grumbling — that led to the destruction of covenant members in the wilderness, declaring that these things happened as types (typoi) for the community.",
+      "relevance": "Each sin in the catalogue was committed by people who had received every covenant provision described in vv. 1-5, and each resulted in their destruction — 'twenty-three thousand fell in a single day,' 'were destroyed by serpents,' 'were destroyed by the Destroyer.' Paul explicitly says these things happened 'as examples for us, that we might not desire evil as they did' (v. 6). The neutral reading notes the deliberate paralleling of wilderness sins with Corinthian behavior: idolatry mirrors the idol-food problem, sexual immorality mirrors their tolerance of the man in chapter 5, and grumbling mirrors their complaints about apostolic authority. The destruction of covenant members who had been 'baptized,' had 'eaten spiritual food,' and had 'drunk spiritual drink' directly establishes that established covenantal standing does not immunize against judgment for ongoing sin.",
+      "key_phrases": ["these things took place as examples for us", "Do not be idolaters as some of them were", "twenty-three thousand fell in a single day", "were destroyed by serpents", "were destroyed by the Destroyer"],
+      "confidence": "high"
+    },
+    {
+      "reference": "10:11-13",
+      "section_title": "The Warning Applied and the Faithfulness of God",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "cited_for_conditionality",
+      "summary": "Paul applies the Israel typology directly to the community with the warning 'let anyone who thinks he stands take heed lest he fall,' then offers the assurance that God will provide a way of escape from every temptation — but the escape must be taken.",
+      "relevance": "Verse 12 contains one of the most direct statements in Paul's letters about the conditionality of standing: 'let anyone who thinks he stands take heed lest he fall.' The neutral reading notes that this presupposes that 'standing' is genuine — 'one must be standing to fall' — meaning Paul is addressing people with real covenantal standing and warning them that it can be forfeited. Verse 13 is sometimes cited for permanence because it affirms God's faithfulness and his provision of a way of escape, but the neutral reading observes that the assurance is 'not a promise of unconditional preservation but a promise of adequate provision.' The way of escape must be taken; the community must 'endure' (hypenegkein). God provides the means, but the community's agency in accepting the provision is presupposed. The entire unit (10:1-13) functions as Paul's most sustained argument that covenant privilege does not guarantee perseverance.",
+      "key_phrases": ["written down for our instruction, on whom the end of the ages has come", "let anyone who thinks he stands take heed lest he fall", "God is faithful", "he will not let you be tempted beyond your ability", "with the temptation he will also provide the way of escape, that you may be able to endure it"],
+      "confidence": "high"
+    },
+    {
+      "reference": "10:14-22",
+      "section_title": "The Incompatibility of Two Tables",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul argues from the nature of koinonia (participation) that the cup and table of the Lord and the cup and table of demons are mutually exclusive, warning against provoking the Lord to jealousy.",
+      "relevance": "Paul establishes that participation at idol feasts constitutes koinonia with demons, which is incompatible with koinonia with the Lord's table: 'You cannot drink the cup of the Lord and the cup of demons. You cannot partake of the table of the Lord and the table of demons.' The mutual exclusivity implies that a believer who persists in idol worship effectively abandons koinonia with Christ. The closing rhetorical question — 'Shall we provoke the Lord to jealousy? Are we stronger than he?' — directly echoes the Israel typology of vv. 1-13, where provoking God led to destruction. The implication is that those who engage in incompatible worship practices risk the same divine response that destroyed Israel, but the passage primarily addresses the nature of participation rather than directly treating the permanence or conditionality of standing as its thesis.",
+      "key_phrases": ["The cup of blessing that we bless, is it not a participation in the blood of Christ?", "You cannot drink the cup of the Lord and the cup of demons", "Shall we provoke the Lord to jealousy? Are we stronger than he?"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "10:23-30",
+      "section_title": "Practical Guidelines for Daily Situations",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul provides practical guidance for marketplace purchases and dinner invitations, establishing that all things are lawful but the governing criteria are building up and the conscience of others, not personal freedom."
+    },
+    {
+      "reference": "10:31-11:1",
+      "section_title": "The Comprehensive Principle and the Call to Imitation",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul offers the comprehensive ethical principle that all conduct should aim at God's glory and the salvation of others, concluding the idol-food argument with the call to imitate him as he imitates Christ."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "book": "Luke",
+  "chapter": 13,
+  "sections": [
+    {
+      "reference": "13:1-5",
+      "section_title": "Two Catastrophes and the Demand for Repentance",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus rejects the logic that victims of political violence or accidental disaster were worse sinners and issues a double warning: unless you repent, you will all likewise perish.",
+      "relevance": "The demand for repentance is universal and present-tense -- addressed to the audience as a continuing necessity, not as a completed past event. The verb 'perish' (apollymi) encompasses both physical destruction and eschatological loss. The passage implies that the audience's current standing is not settled: they face the same destruction as the Galileans and the eighteen unless they repent. The repetition of 'unless you repent' frames repentance not as a one-time past act but as something the hearers still need to do, suggesting that standing before God requires ongoing responsiveness.",
+      "key_phrases": ["unless you repent, you will all likewise perish"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:6-9",
+      "section_title": "The Parable of the Barren Fig Tree",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "A fig tree planted in a vineyard has produced no fruit for three years; the owner orders it cut down, but the vineyard-keeper intercedes for one more year of intensive cultivation, after which it will be cut down if still fruitless.",
+      "relevance": "The fig tree is within the vineyard -- within God's cultivated space -- yet faces being cut down for fruitlessness. Being planted in the vineyard (having a place among God's people) does not guarantee continued standing; fruit is required. The limited extension of grace (one more year) implies that the window for producing fruit has a boundary. The tree is not merely unproductive but is described as actively wasting the ground it occupies. The parable directly implies that membership in God's people is conditional on producing the fruit that membership is supposed to yield, and that patience has a limit.",
+      "key_phrases": ["Cut it down! Why does it even use up the ground?", "if it bears fruit next year, fine; but if not, cut it down"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "13:10-17",
+      "section_title": "The Healing of a Bound Woman on the Sabbath",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus heals a woman bound by a spirit of infirmity for eighteen years, calling her a daughter of Abraham and arguing that the Sabbath, rooted in the exodus, is the fitting day for release from bondage, while the synagogue official's procedural objection reveals the very fruitlessness described in the preceding parable."
+    },
+    {
+      "reference": "13:18-21",
+      "section_title": "Two Parables about the Kingdom's Growth",
+      "category": "NOT_APPLICABLE",
+      "summary": "The kingdom of God is compared to a mustard seed that grows into a tree sheltering birds and to leaven hidden in a large quantity of flour until it is entirely transformed, redefining expectations about the kingdom's nature as small, hidden, and working from within."
+    },
+    {
+      "reference": "13:22-30",
+      "section_title": "The Narrow Door and the Reversal of Insiders and Outsiders",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus warns that the door to the kingdom is narrow and requires agonizing effort to enter, that many who claim proximity to Jesus will be excluded while people from every direction will take their places at the table with the patriarchs, and that the first will be last and the last first.",
+      "relevance": "Those excluded appeal to physical proximity -- they ate in Jesus's presence and heard him teach in their streets -- yet are told 'I do not know where you are from' and are called 'workers of unrighteousness.' Their assumed standing, based on association with Jesus, proves insufficient. While the passage may describe people who never truly established standing rather than believers who lost it, the principle is clear: proximity to Jesus, hearing his teaching, even sharing meals in his presence, does not secure inclusion in the kingdom. The ongoing response of actual obedience -- not mere association -- is what matters. The reversal of first and last implies that assumed status provides no guarantee.",
+      "key_phrases": ["Strive to enter through the narrow door", "many will seek to enter and will not be able", "We ate and drank in Your presence, and You taught in our streets", "I do not know where you are from; depart from Me, all you evildoers", "some are last who will be first and some are first who will be last"],
+      "confidence": "high"
+    },
+    {
+      "reference": "13:31-33",
+      "section_title": "The Warning about Herod and Jesus's Determination",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus dismisses Herod's death threat, calls him 'that fox,' declares that his work of healing and exorcism will continue on God's timetable, and states that he must journey to Jerusalem because a prophet cannot perish outside that city."
+    },
+    {
+      "reference": "13:34-35",
+      "section_title": "The Lament over Jerusalem",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus laments over Jerusalem as the city that kills prophets and stones those sent to her, expressing his repeated desire to gather her children under protective wings, declaring that her refusal results in her house being left desolate.",
+      "relevance": "The passage presents God's protective intention as genuinely offered and repeatedly extended ('how often I wanted to gather your children'), while Jerusalem's refusal ('you would not have it') results in the withdrawal of that protective presence ('your house is left to you desolate'). The contrast between divine willingness and human refusal implies that God's protective care, though persistently offered, is not irresistibly imposed -- it can be refused, and the consequence of sustained refusal is desolation. While the passage concerns corporate Israel rather than an individual believer, the principle bears on the question: God's desire to protect does not override human refusal, and refusal has consequences.",
+      "key_phrases": ["How often I wanted to gather your children together, just as a hen gathers her brood under her wings, and you would not have it", "your house is left to you desolate"],
+      "confidence": "low"
+    }
+  ]
+}

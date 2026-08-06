@@ -1,0 +1,82 @@
+{
+  "book": "John",
+  "chapter": 14,
+  "sections": [
+    {
+      "reference": "14:1-4",
+      "section_title": "Troubled Hearts and Dwelling Places",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's promise of prepared dwelling places (monai) in the Father's house as assurance that the relationship begun on earth has a permanent destination.",
+      "relevance": "The neutral reading identifies 'I go to prepare a place for you... I will come again and receive you to myself, that where I am you may be also' (vv.2-3) as a promise of ultimate reunion. The preparation implies certainty of the destination, and 'receive you to myself' treats the gathering as Jesus's initiative rather than the disciples' achievement. This language suggests permanence of the relationship from Jesus's side.",
+      "key_phrases": ["in my Father's house are many dwelling places", "I go to prepare a place for you", "I will come again and receive you to myself"],
+      "confidence": "low"
+    },
+    {
+      "reference": "14:5-7",
+      "section_title": "Thomas's Question and the Way, Truth, and Life",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus's 'I am the way, the truth, and the life' as a christological declaration about the exclusive access to the Father through the Son, not directly addressing the permanence or conditionality of that access once established."
+    },
+    {
+      "reference": "14:8-11",
+      "section_title": "Philip's Request and Mutual Indwelling of Father and Son",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents this section as addressing the Father-Son relationship and the evidential basis for believing (words and works), rather than the believer's standing."
+    },
+    {
+      "reference": "14:12-14",
+      "section_title": "Greater Works and Prayer in Jesus's Name",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the promise of greater works and answered prayer as consequences of Jesus's going to the Father, framing the post-departure community's empowered ministry."
+    },
+    {
+      "reference": "14:15-17",
+      "section_title": "First Promise of the Parakletos",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the first Paraclete promise as linking love and obedience as the precondition for receiving the Spirit, who will then be with the disciples 'forever.'",
+      "relevance": "The neutral reading identifies a conditional structure: 'If you love me, you will keep my commandments. And I will ask the Father, and he will give you another Helper, to be with you forever' (vv.15-17). The love-obedience link precedes the promise of the Spirit's permanent presence. The Spirit's being 'with you forever' (eis ton aiona) introduces permanence language, but it follows from the conditional of love expressed through obedience. The structure presents the Spirit's enduring presence as the consequence of a love-and-obedience relationship, not as unconditional.",
+      "key_phrases": ["if you love me, you will keep my commandments", "another Helper, to be with you forever", "the Spirit of truth, whom the world cannot receive"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "14:18-20",
+      "section_title": "Not Orphans and Mutual Indwelling Extended to Disciples",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's promise of return and the mutual indwelling ('I am in my Father, and you in me, and I in you') as extending the Father-Son relationship to encompass the disciples.",
+      "relevance": "The neutral reading identifies 'Because I live, you also will live' (v.19) as grounding the disciples' ongoing life in Jesus's own resurrection life. The triple indwelling formula of v.20 places the disciples within the same relational structure as the Father and Son. The disciples' life is presented as dependent on and derivative from Jesus's life, suggesting that the basis of their standing is Jesus's permanence, not their own.",
+      "key_phrases": ["I will not leave you as orphans", "because I live, you also will live", "you will know that I am in my Father, and you in me, and I in you"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "14:21-24",
+      "section_title": "Love, Obedience, and the Father's Dwelling",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the dwelling of the Father and Son with the believer as explicitly conditioned on loving obedience, with the negative case also stated: the one who does not love does not keep Jesus's words.",
+      "relevance": "The neutral reading identifies the conditional structure without ambiguity: 'If anyone loves me, he will keep my word, and my Father will love him, and we will come to him and make our home (monēn) with him' (v.23). The same word mone used for the heavenly dwelling places in v.2 is now used for the reciprocal dwelling of God with the obedient believer. The negative is equally explicit: 'Whoever does not love me does not keep my words' (v.24). The divine indwelling -- the basis of the believer's relationship with God -- is presented as conditioned on the love-obedience response.",
+      "key_phrases": ["if anyone loves me, he will keep my word", "we will come to him and make our home with him", "whoever does not love me does not keep my words"],
+      "confidence": "high"
+    },
+    {
+      "reference": "14:25-26",
+      "section_title": "The Spirit's Teaching Ministry",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the Spirit's role as teacher and reminder of Jesus's words, functioning as the continuation of Jesus's teaching presence after departure."
+    },
+    {
+      "reference": "14:27-29",
+      "section_title": "Peace and Going to the Father",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus's peace as qualitatively different from the world's, his departure as a cause for joy rather than fear, and the prediction as given so that when it happens, the disciples will believe."
+    },
+    {
+      "reference": "14:30-31",
+      "section_title": "The Ruler of This World and Departure",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading identifies the ruler of this world as having 'nothing in me' -- no claim, no foothold, no leverage -- and Jesus's coming death as an act of love and obedience to the Father."
+    }
+  ]
+}

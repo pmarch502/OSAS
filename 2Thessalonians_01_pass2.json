@@ -1,0 +1,50 @@
+{
+  "book": "2 Thessalonians",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "The greeting identifies the same three co-senders and the same community, with a slightly expanded source formula adding 'from God the Father and the Lord Jesus Christ' as the origin of grace and peace."
+    },
+    {
+      "reference": "1:3-4",
+      "section_title": "The Thanksgiving -- Obligation, Growth, and Boasting",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul expresses obligatory thanksgiving for the community's abundantly growing faith and individually increasing love, and reports that the apostles boast about them in other churches for their steadfastness and faith under ongoing persecutions and afflictions."
+    },
+    {
+      "reference": "1:5",
+      "section_title": "Suffering as Evidence of Righteous Judgment",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul declares that the Thessalonians' endurance under affliction is evidence of God's righteous judgment, the purpose being that they may be considered worthy of the kingdom of God for which they are suffering.",
+      "relevance": "The passive infinitive kataxiothenai ('to be counted worthy') describes a process of being assessed and declared fit for the kingdom. The neutral reading notes: 'The kingdom is not merely a reward given at the end but a reality for which they are being prepared, and the preparation includes the crucible of affliction.' The worthiness is not an established fact but something being produced through their faithful endurance. This implies that the believer's ultimate inclusion in the kingdom is connected to their ongoing response to affliction, not guaranteed independently of it.",
+      "key_phrases": ["evidence of the righteous judgment of God", "that you may be considered worthy of the kingdom of God", "for which you are also suffering"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:6-7a",
+      "section_title": "The Two Sides of God's Justice",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul states that it is just for God to repay affliction to those who afflict the community and to grant relief to the afflicted community along with the apostles."
+    },
+    {
+      "reference": "1:7b-10",
+      "section_title": "The Apocalypse of the Lord Jesus",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes the revelation of the Lord Jesus from heaven with mighty angels in flaming fire, inflicting vengeance on those who do not know God and do not obey the gospel, who will suffer eternal destruction away from the Lord's presence, while the Lord is glorified in his saints and marveled at among all who have believed."
+    },
+    {
+      "reference": "1:11-12",
+      "section_title": "The Prayer -- Worthiness, Calling, and Mutual Glorification",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul prays that God would make the community worthy of his calling, fulfill every resolve for good and every work of faith by his power, resulting in mutual glorification -- the Lord's name glorified in them and they in him -- according to grace.",
+      "relevance": "The prayer explicitly asks God to 'make you worthy of his calling,' which the neutral reading identifies as evidence that worthiness is not yet fully achieved: 'The prayer does not say the Thessalonians are already worthy; it asks God to make them so.' The reading further states: 'Worthiness is not a static possession but a dynamic reality that God is actively producing in them through their faithfulness under trial.' The chapter summary reinforces: 'The righteous judgment of God is certain; the Thessalonians' inclusion in its positive outcome depends on God's ongoing work in them and their continuing response of faith and endurance.' Both divine initiative and human faithfulness are required, and the process is not yet complete.",
+      "key_phrases": ["that our God may make you worthy of his calling", "may fulfill every resolve for good and every work of faith by his power", "that the name of our Lord Jesus may be glorified in you, and you in him", "according to the grace"],
+      "confidence": "medium"
+    }
+  ]
+}

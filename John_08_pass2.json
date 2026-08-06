@@ -1,0 +1,102 @@
+{
+  "book": "John",
+  "chapter": 8,
+  "sections": [
+    {
+      "reference": "7:53-8:11",
+      "section_title": "The Woman Brought Before Jesus",
+      "category": "NOT_APPLICABLE",
+      "summary": "This passage is absent from the earliest manuscripts and is treated by the neutral reading as an insertion not part of the author's original composition; it narrates the authorities bringing an adulterous woman to Jesus as a test, and Jesus's response combines mercy ('neither do I condemn you') with moral demand ('from now on sin no more')."
+    },
+    {
+      "reference": "8:12",
+      "section_title": "The Light of the World",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus declares 'I am the light of the world' in the context of the Tabernacles lampstand ceremony; the one who follows him will not walk in darkness but will have the light of life.",
+      "relevance": "The present participle ho akolouthon ('the one who follows') describes an ongoing activity — consistent with the present-tense grammar pattern that runs through the document for believing, coming, eating, and drinking. The promise of not walking in darkness and having the light of life belongs to the one who is currently following. The language is parallel to ho pisteuon ('the one who believes') and carries the same implication: the promises are for persons in the continuous state of following, not for persons who followed once and then ceased.",
+      "key_phrases": ["I am the light of the world", "the one who follows me", "ho akolouthon — present participle, ongoing following", "will not walk in the darkness", "will have the light of life"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "8:13-18",
+      "section_title": "The Validity of Jesus's Testimony",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Pharisees challenge Jesus's self-testimony; Jesus responds that his testimony is valid because he knows his origin and destination, judges not by the flesh, and has the Father as a second witness."
+    },
+    {
+      "reference": "8:19-20",
+      "section_title": "Where Is Your Father?",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Pharisees demand to see Jesus's Father; Jesus responds that they know neither him nor his Father, and the author notes the scene takes place in the treasury near the Tabernacles lampstands."
+    },
+    {
+      "reference": "8:21-24",
+      "section_title": "You Will Die in Your Sins",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus warns that he is going away and they will seek him and die in their sins; he contrasts their origin ('from below, of this world') with his own ('from above, not of this world') and states that unless they believe 'that I am' (ego eimi), they will die in their sins.",
+      "relevance": "The passage establishes believing as the condition that determines whether one dies in sin or receives life. 'Unless you believe that I am, you will die in your sins' frames believing as the ongoing condition that prevents death in sin. Though addressed to those who are currently unbelieving, the principle implies that the believer's standing depends on the presence of belief — without it, the consequence is death in sin. The present context of ongoing confrontation and the urgency of the demand suggest that belief is not a past event that automatically prevents future consequences but a present condition that must be maintained.",
+      "key_phrases": ["you will die in your sin", "unless you believe that I am", "you will die in your sins", "you are from below, I am from above"],
+      "confidence": "low"
+    },
+    {
+      "reference": "8:25-30",
+      "section_title": "When You Lift Up the Son of Man",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus says the lifting up of the Son of Man will reveal his identity; he always does what pleases the Father; the author notes that many came to believe in him at this point."
+    },
+    {
+      "reference": "8:31-36",
+      "section_title": "Continuing in the Word, Truth, and Freedom",
+      "category": "STRONG_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus tells those Jews who had believed him that if they continue in his word they are truly his disciples and will know the truth that sets free; he then distinguishes the slave (who does not remain in the house forever) from the son (who remains forever) and declares that if the Son sets them free they will be free indeed.",
+      "relevance": "This passage directly addresses whether a believer's standing is maintained through ongoing faithfulness, and it does so as part of the author's own sustained argument. Three features are critical. First, the conditional 'if you continue in my word' (ean meinete en to logo) uses meno ('remain, abide') and introduces a real condition that may or may not be fulfilled. Genuine discipleship is distinguished from apparent discipleship by continuing — initial belief is necessary but not sufficient. Second, the distinction between pisteuo + dative ('believed him,' v. 31 — gave credence) and pisteuo + eis ('believed in him,' v. 30 — committed to the person) may signal that these Jews gave intellectual assent without deeper personal commitment. The passage will demonstrate this by narrating their rapid collapse from belief to attempted murder within the same conversation. Third, the slave/son contrast establishes that the slave does not remain in the house forever — only the son remains. Freedom from sin-slavery is available through the Son, but the metaphor implies that those who remain enslaved (unfree) do not have a permanent place. The entire section presents discipleship as a condition maintained by ongoing relationship with Jesus's word, not as a status conferred by a moment of belief.",
+      "key_phrases": ["if you continue in my word", "you are truly my disciples", "ean meinete — if you remain/abide, a real condition", "alethos — truly, distinguishing genuine from apparent", "the slave does not remain in the house forever", "the son remains forever", "if the Son makes you free you will be free indeed"],
+      "confidence": "high"
+    },
+    {
+      "reference": "8:37-41a",
+      "section_title": "Abraham's Seed and Abraham's Works",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus acknowledges that the opponents are Abraham's biological seed but charges that they seek to kill him because his word has no place in them; he distinguishes Abraham's biological descendants (sperma) from Abraham's true children (tekna) by their conduct — Abraham received God's messengers, but they seek to murder the one who tells them truth from God.",
+      "relevance": "The distinction between biological descent and moral resemblance has implications for the believer's standing. If covenant identity is constituted by ongoing faith and obedience (doing Abraham's deeds) rather than by genealogical membership (being Abraham's seed), then one's standing before God depends on ongoing conduct, not on initial inclusion in the covenant line. The pattern maps onto the permanence/conditionality question: physical descent from Abraham (analogous to initial belief or election) does not guarantee covenant faithfulness. What matters is whether one is doing the deeds that reveal true parentage.",
+      "key_phrases": ["I know you are Abraham's descendants", "yet you seek to kill me", "my word has no place in you", "if you are Abraham's children do the deeds of Abraham", "this Abraham did not do"],
+      "confidence": "low"
+    },
+    {
+      "reference": "8:41b-47",
+      "section_title": "Your Father the Devil",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus identifies the opponents' true father as the devil — a murderer from the beginning who does not stand in the truth; their inability to hear God's words through Jesus proves they are not 'of God'; the neutral reading notes that being 'of God' or 'of the devil' is a matter of orientation and practiced behavior, not a fixed ontological status imposed apart from human choice.",
+      "relevance": "The neutral reading explicitly addresses how to understand the 'of God' / 'not of God' language: 'This verse does not describe a fixed, irreversible metaphysical status imposed on individuals apart from their choices. The context reveals that their not being of God is the result of their alignment with the devil — their choosing to do the devil's desires, their refusal to receive the truth, their unwillingness to do God's will. Being of God or of the devil is presented as a matter of orientation, allegiance, and practiced behavior, not as an ontological category determined independently of human response.' If being 'of God' is a matter of ongoing alignment rather than a permanent, unchangeable status, then the believer's standing is conditioned on maintained allegiance. The test is behavioral: 'what you do reveals whose child you are.'",
+      "key_phrases": ["you are of your father the devil", "you want to do the desires of your father", "he who is of God hears the words of God", "you do not hear them because you are not of God", "orientation, allegiance, and practiced behavior — not fixed ontological status"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "8:48-53",
+      "section_title": "Honor, Death, and Abraham",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The opponents accuse Jesus of being a Samaritan and having a demon; Jesus responds that he honors his Father, does not seek his own glory, and promises that anyone who keeps his word will never see death.",
+      "relevance": "The promise 'if anyone keeps my word, he will never see death' uses the present-tense verb terese ('keeps, guards, preserves') — describing ongoing obedience to Jesus's teaching, not a one-time act. The promise of never seeing death (the strongest negation, ou me) is conditional on the ongoing keeping. This is consistent with the document's pattern: strong promises attached to present-tense conditions. The verb tereo is the same word used in 14:15 ('if you love me, keep my commandments') and 15:10 ('if you keep my commandments you will abide in my love'). The keeping is ongoing; the promise is for the one who keeps.",
+      "key_phrases": ["if anyone keeps my word", "he will never see death", "terese — present tense, ongoing keeping/guarding", "ou me theorese — strongest negation, certainly will not see death"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "8:54-56",
+      "section_title": "The Father's Glory and Abraham's Joy",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus declares that the Father glorifies him, charges the opponents with not knowing the God they claim, and states that Abraham rejoiced to see his day."
+    },
+    {
+      "reference": "8:57-59",
+      "section_title": "Before Abraham Was, I Am",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus makes the climactic declaration 'before Abraham was born, I am' — the absolute ego eimi claiming the divine self-identification from Exodus 3:14 and Isaiah 43:10; the opponents recognize the claim and take up stones, but Jesus hides himself and leaves the temple."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-5",
+      "section_title": "The Earthly Tent and the Building from God",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "Paul declares certain knowledge that the mortal body (an earthly tent) will be replaced by an eternal building from God not made with hands, expressing longing to be further clothed so that mortality is swallowed up by life, with God having prepared believers for this transformation and given the Spirit as guarantee (arrabon).",
+      "relevance": "The Spirit as arrabon (down payment, first installment) in v. 5 presents God as having legally bound himself to complete the full transaction of eschatological salvation. The neutral reading describes this as God having 'prepared' (katergasamenos) believers for the transformation and deposited the Spirit as the beginning of the inheritance. This genuinely supports the permanence of God's commitment to the believing community. However, the neutral reading also observes that this guarantee 'does not render the judgment unnecessary' and that 'the believer's life between the arrabon and the completion is the life that will be evaluated,' placing the guarantee within an accountability framework rather than treating it as an unconditional bypass of future judgment.",
+      "key_phrases": ["we have a building from God, a house not made with hands, eternal in the heavens", "so that what is mortal may be swallowed up by life", "He who has prepared us for this very thing is God, who has given us the Spirit as a guarantee"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:6-10",
+      "section_title": "Confidence, Faith, and the Judgment Seat",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul expresses constant good courage grounded in the Spirit's guarantee, states that faith rather than sight governs the present walk, declares his aim to please the Lord whether alive or departed, and grounds this earnest striving in the certainty that all persons must appear before the judgment seat of Christ to receive recompense for deeds done in the body, whether good or worthless.",
+      "relevance": "The judgment seat of Christ (v. 10) evaluates every person -- including believers who have received the Spirit as guarantee -- according to deeds done in the body, 'whether good or evil.' The neutral reading emphasizes that Paul does not exempt himself or any category of believer from this evaluation: 'the arrabon of the Spirit, the sealing, and the anointing do not exempt anyone from accountability.' It states explicitly: 'The Spirit as guarantee does not mean the outcome is automatic regardless of conduct; it means that God has committed himself to completing the transaction, and the judgment seat is the point at which the transaction is reviewed.' And further: 'Confidence and accountability are not alternatives; they are companions.' This directly addresses the permanence/conditionality question by presenting the believer's future as genuinely dependent on conduct evaluated at the judgment seat, not as a foregone conclusion irrespective of how one has lived.",
+      "key_phrases": ["we walk by faith, not by sight", "we make it our aim to please him", "we must all appear before the judgment seat of Christ", "each one may receive what is due for what he has done in the body, whether good or evil"],
+      "confidence": "high"
+    },
+    {
+      "reference": "5:11-13",
+      "section_title": "The Fear of the Lord, Transparency, and the Apostle's Posture",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes the fear of the Lord as the motivation for his persuasive ministry, hopes the Corinthians' conscience recognizes his genuineness, denies that he is commending himself while providing grounds for them to defend him against those who boast in outward appearances rather than what is in the heart."
+    },
+    {
+      "reference": "5:14-15",
+      "section_title": "The Love of Christ and the Death That Reorients All Living",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul identifies the constraining force of his entire ministry as Christ's love demonstrated in his representative death for all, which means all have died, so that those who live might no longer live for themselves but for the one who for their sake died and was raised.",
+      "relevance": "The neutral reading identifies 'those who live' (hoi zontes) as a distinguishing marker within the universal 'all' for whom Christ died -- participation in the life Christ made possible is actualized only by those who respond by living for Christ rather than for self. The reading states explicitly: 'This is not automatic; it is described as the purpose for which Christ died, and its actualization depends on the living person's response.' The ongoing nature of the reorientation -- living for Christ rather than for self as a continuing posture, not merely a one-time decision -- implies that the benefit of Christ's death requires sustained response. Those who revert to living for themselves would step outside the purpose for which Christ died.",
+      "key_phrases": ["one has died for all, therefore all have died", "those who live might no longer live for themselves but for him who for their sake died and was raised"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:16-17",
+      "section_title": "Knowing According to the Flesh and the New Creation",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul declares that since Christ's death ended the old mode of evaluation, no one is regarded according to the flesh anymore, and anyone in Christ is a new creation -- the old has passed away and the new has come, fulfilling the prophetic vision of Isaiah 43:18-19 and 65:17."
+    },
+    {
+      "reference": "5:18-21",
+      "section_title": "The Ministry of Reconciliation",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul describes God's initiative in reconciling the world to himself through Christ without counting trespasses, entrusting the message and ministry of reconciliation to the apostolic team who function as God's ambassadors, appealing directly to the Corinthians to be reconciled to God, grounded in the great exchange: God made the sinless Christ to be sin/sin-offering so that those in him might become the righteousness of God.",
+      "relevance": "The imperative 'be reconciled to God' (v. 20) is addressed to the Corinthian church -- existing believers, not outsiders. The neutral reading observes: 'reconciliation with God is not a one-time event completed at conversion but an ongoing posture that can be disrupted and must be maintained.' The purpose clause in v. 21 ('so that in him we might become the righteousness of God') is described as stating 'a purpose, not a guaranteed outcome,' and the becoming is located 'in him' -- requiring continued location within the sphere of Christ. The exchange is described as 'real, accomplished, and available -- but it is activated by the turning to the Lord (3:16), by the faith by which one walks (5:7), and by living for him who died and was raised rather than for oneself (5:15).' The need for believers to be appealed to regarding reconciliation implies it can be disrupted.",
+      "key_phrases": ["we implore you on behalf of Christ, be reconciled to God", "so that in him we might become the righteousness of God", "in Christ God was reconciling the world to himself, not counting their trespasses against them"],
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "book": "John",
+  "chapter": 18,
+  "sections": [
+    {
+      "reference": "18:1-3",
+      "section_title": "Crossing the Kidron and the Arrival of the Arresting Party",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the crossing of the Kidron as a sovereign act echoing David's flight from Absalom, with Judas arriving with Roman soldiers and temple officers carrying artificial light into the domain of darkness."
+    },
+    {
+      "reference": "18:4-9",
+      "section_title": "I Am and the Protection of the Disciples",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "The neutral reading presents Jesus's sovereign control of the arrest, stepping forward with the absolute ego eimi, causing the arresting party to fall, and commanding the release of his disciples to fulfill his own earlier word.",
+      "relevance": "The neutral reading identifies 18:9 as the author's explicit connection between Jesus's action at the arrest and his prayer: 'to fulfill the word which he spoke, \"Of those whom you have given me I lost not one\"' -- a direct quotation of 17:12. The verb apolesa ('I lost,' from apollymi) is the same word used throughout the document for ultimate loss (3:16, 6:39, 10:28). The keeping of the disciples from perishing is enacted through Jesus's sovereign intervention. However, the neutral reading notes that this is a physical enactment of protection at a specific moment, not a theological declaration about the permanent standing of every future believer. The keeping is Jesus's active, sovereign work on behalf of those given to him.",
+      "key_phrases": ["of those whom you have given me I lost not one", "let these go their way", "ego eimi"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "18:10-11",
+      "section_title": "Peter's Sword and the Cup of the Father",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Peter's impulsive violence and Jesus's rebuke, with the 'cup' the Father has given reframing the arrest within the Father's sovereign plan."
+    },
+    {
+      "reference": "18:12-14",
+      "section_title": "Jesus Brought Before Annas",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the binding and transfer to Annas as the beginning of the judicial proceedings, noting the irony that Jesus is bound by those he just caused to fall."
+    },
+    {
+      "reference": "18:15-18",
+      "section_title": "Peter's First Denial",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Peter's first denial beside the charcoal fire as the beginning of the predicted failure, with his 'I am not' (ouk eimi) forming a deliberate contrast with Jesus's 'I am' (ego eimi) in the garden."
+    },
+    {
+      "reference": "18:19-24",
+      "section_title": "The Hearing Before Annas",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the hearing as Jesus directing Annas to the public testimony of those who heard him, maintaining control even under interrogation."
+    },
+    {
+      "reference": "18:25-27",
+      "section_title": "Peter's Second and Third Denials",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Peter's second and third denials as the exact fulfillment of Jesus's prediction in 13:38, with the rooster's crow marking the completion of the threefold failure."
+    },
+    {
+      "reference": "18:28-32",
+      "section_title": "Jesus Brought Before Pilate",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the transfer to Pilate's jurisdiction as the means by which the mode of death -- Roman crucifixion, the 'lifting up' predicted in 3:14, 8:28, and 12:32 -- is determined."
+    },
+    {
+      "reference": "18:33-38a",
+      "section_title": "Pilate's Interrogation -- Kingdom and Truth",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the exchange about kingship as Jesus redefining his kingdom as 'not of this world' and his mission as testifying to the truth, with Pilate's 'What is truth?' functioning as an ironic inability to recognize the truth standing before him."
+    },
+    {
+      "reference": "18:38b-40",
+      "section_title": "Pilate's Verdict and the Choice of Barabbas",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Pilate's triple declaration of innocence and the crowd's choice of Barabbas (lestes, 'robber' -- the same word used for the thieves who climb into the sheepfold in 10:1, 8) over the true shepherd."
+    }
+  ]
+}

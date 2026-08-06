@@ -1,0 +1,80 @@
+{
+  "book": "John",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-2",
+      "section_title": "Nicodemus Comes at Night",
+      "category": "NOT_APPLICABLE",
+      "summary": "A Pharisee named Nicodemus comes to Jesus at night and acknowledges that Jesus must be from God based on the signs he performs."
+    },
+    {
+      "reference": "3:3-8",
+      "section_title": "Born from Above",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus tells Nicodemus that unless one is born from above (or again) — born of water and the Spirit — one cannot see or enter the kingdom of God; what is born of the flesh is flesh and what is born of the Spirit is spirit.",
+      "relevance": "The birth-from-above metaphor carries inherent implications of irreversibility — birth is a one-directional event that cannot be undone. The Spirit's role as the agent of this birth places the origin of the believer's new status in divine action. However, the passage addresses the CONDITIONS FOR ENTRY into the kingdom rather than the DURABILITY of the status once entered. The metaphor of wind/Spirit blowing where it wills emphasizes divine sovereignty in the process, which could support permanence. But the passage does not explicitly address whether the one born from above can subsequently fall from that status.",
+      "key_phrases": ["unless one is born from above", "born of water and the Spirit", "cannot enter the kingdom of God", "that which is born of the Spirit is spirit"],
+      "confidence": "low"
+    },
+    {
+      "reference": "3:9-13",
+      "section_title": "Earthly and Heavenly Things",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus rebukes Nicodemus's inability to understand earthly illustrations and asserts that only the Son of Man who descended from heaven can reveal heavenly realities."
+    },
+    {
+      "reference": "3:14-15",
+      "section_title": "The Serpent Lifted Up",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus draws a typological parallel between Moses lifting up the bronze serpent in the wilderness and the coming lifting up of the Son of Man, so that whoever believes in him will have eternal life.",
+      "relevance": "The serpent analogy implies that the ongoing posture of looking/believing toward the lifted-up Son of Man is what produces life, just as the Israelites had to look at the serpent to be healed. The present-tense participle 'believing' (pisteuon) describes a continuous activity. The wilderness analogy is instructive: the serpent healed those who looked at it, but only while they looked. The promise of eternal life is attached to the one who IS believing — the present-tense condition is the basis of the promise.",
+      "key_phrases": ["as Moses lifted up the serpent", "so must the Son of Man be lifted up", "whoever believes in him will have eternal life"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:16-18",
+      "section_title": "The Purpose of the Son's Sending",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_permanence",
+      "summary": "God loved the world and sent the Son so that whoever believes in him will not perish but have eternal life; the Son was sent not to condemn but to save, yet the one not believing is already condemned because he has not believed in the name of the only-begotten Son of God.",
+      "relevance": "This is a major proof-text for permanence, with emphatic promise language: 'shall not perish' and 'has eternal life.' However, the neutral reading reveals a deliberate and consistent present-tense grammar pattern: 'the one believing' (ho pisteuon) is a present participle describing ongoing activity. The promises belong to the person in the state of currently believing. Verse 18 reinforces this: the one currently not believing is 'already condemned' — the present condition of belief or unbelief determines the present verdict. The author could have used aorist participles (the one who believed) but consistently chose present tense, and the neutral reading identifies this as a significant authorial pattern. The passage does not explicitly address what happens if a believer ceases to believe, but the grammar implies that the verdict tracks the ongoing state.",
+      "key_phrases": ["whoever believes in him shall not perish", "but have eternal life", "the one believing in him is not judged", "the one not believing has been judged already", "ho pisteuon — present tense participle"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:19-21",
+      "section_title": "Light, Darkness, and the Verdict",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The verdict (krisis) is that the light has come into the world and people loved the darkness rather than the light because their deeds were evil; the one doing evil avoids the light, while the one practicing truth comes to the light.",
+      "relevance": "The verdict is described as a present, ongoing reality determined by one's current relationship to the light. The language is present-tense: the one who 'does evil' (ho phaula prasson) hates the light; the one who 'practices truth' (ho poion ten aletheian) comes to the light. The sorting is continuous — it tracks behavior and orientation, not a past decision. This implies that the verdict could change if the orientation changes, suggesting conditionality rather than permanence.",
+      "key_phrases": ["this is the verdict", "the light has come into the world", "men loved the darkness rather than the light", "because their deeds were evil", "everyone who does evil hates the light", "he who practices the truth comes to the light"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:22-24",
+      "section_title": "Jesus and John Baptizing",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus and his disciples go to the Judean countryside where they baptize, while John continues baptizing at Aenon near Salim."
+    },
+    {
+      "reference": "3:25-30",
+      "section_title": "John's Final Testimony and the Bridegroom",
+      "category": "NOT_APPLICABLE",
+      "summary": "When a dispute about purification arises and John's disciples report that Jesus is baptizing and all are going to him, John identifies Jesus as the bridegroom and himself as the friend of the bridegroom who must decrease while Jesus increases."
+    },
+    {
+      "reference": "3:31-36",
+      "section_title": "The One from Above",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_for_permanence",
+      "summary": "The one from above is above all; the one from the earth speaks of the earth; the one from heaven testifies to what he has seen and heard; whoever receives his testimony certifies that God is true; the one who believes in the Son has eternal life, but the one who disobeys the Son will not see life, and the wrath of God remains on him.",
+      "relevance": "Verse 36 is conventionally cited for permanence ('has eternal life'), but the neutral reading reveals two critical findings. First, the Greek verb in the negative clause is apeithon ('disobeying'), not apiston ('disbelieving') — the author makes believing and obeying inseparable. The opposite of believing is not merely intellectual unbelief but active disobedience. Second, the wrath 'remains' (menei, from meno — the same verb used throughout the document for abiding) on the disobedient — it is an ongoing, present condition, not a one-time verdict. The present-tense participles throughout (ho pisteuon, ho apeithon) describe ongoing states. If believing = obeying and the opposite of believing = disobeying, then the believer's standing is connected to ongoing faithfulness, not merely to an initial moment of belief.",
+      "key_phrases": ["the one believing in the Son has eternal life", "the one disobeying the Son will not see life", "apeithon — disobeying, not disbelieving", "the wrath of God remains on him", "menei — remains, abides"],
+      "confidence": "medium"
+    }
+  ]
+}

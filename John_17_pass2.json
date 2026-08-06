@@ -1,0 +1,58 @@
+{
+  "book": "John",
+  "chapter": 17,
+  "sections": [
+    {
+      "reference": "17:1-5",
+      "section_title": "The Son's Request for Glorification",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the prayer's opening petition as the Son requesting the restoration of pre-creational glory through the cross, with eternal life defined as ongoing relational knowledge of the Father and the Son (present-tense ginoskosin in v.3)."
+    },
+    {
+      "reference": "17:6-8",
+      "section_title": "The Disciples as Those Given by the Father",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's testimony to the Father about the disciples: they were the Father's before they were given to the Son, they have kept the Father's word, and they have genuinely received, understood, and believed.",
+      "relevance": "The neutral reading identifies the Father's initiative as the foundation of the disciples' belonging: 'they were yours, and you gave them to me' (v.6). The chain of transmission -- the Father gave words to Jesus, Jesus gave them to the disciples, the disciples received and believed -- anchors the relationship in divine initiative. The perfect tense teterekasin ('they have kept and continue to keep') describes ongoing faithfulness. However, the reading also notes that the prayer 'does not describe this reception as passive or inevitable' and that the disciples are 'commended for having kept the word,' implying the keeping was a genuine, non-automatic response.",
+      "key_phrases": ["they were yours, and you gave them to me", "they have kept your word", "they received them and truly understood"],
+      "confidence": "low"
+    },
+    {
+      "reference": "17:9-13",
+      "section_title": "Intercession for the Disciples' Keeping",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "cited_for_permanence",
+      "summary": "The neutral reading presents Jesus's intercession as a request for the Father to take over the protective keeping that Jesus exercised during his earthly ministry, with the explicit result that not one perished except the son of perdition.",
+      "relevance": "The neutral reading identifies this as a pivotal section bearing on the permanence question. Several elements favor permanence: (a) Jesus's prayer 'keep them in your name' (v.11) entrusts the disciples to the Father's protective power; (b) Jesus's track record is stated: 'not one of them perished' (v.12); (c) the transfer of keeping responsibility from Son to Father implies divine, not merely human, protection. However, the reading also identifies complexities: (a) the keeping is requested (imperative tereson), implying the disciples are vulnerable without it; (b) 'the son of perdition' (ho huios tes apoleias) is an exception, and the reading carefully presents both grammatical readings of ei me -- true exception ('one from among them did perish') or adversative ('but the son of perdition, who was never truly of them'). The reading notes that 'the document's own language supports the second reading' via 6:70 ('one of you is a devil'), 13:10-11 ('not all of you' are clean), and 1 John 2:19 ('they went out from us, but they were not really of us'). The reading's summary states: 'The prayer for their protection implies that the keeping must continue and could fail (as it did with the son of perdition).'",
+      "key_phrases": ["Holy Father, keep them in your name", "not one of them perished but the son of perdition", "ei me ho huios tes apoleias", "hina he graphe plerothe"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "17:14-19",
+      "section_title": "The Disciples in the World but Not of It",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the petition for protection from the evil one and for sanctification in truth as vocational consecration for mission -- the disciples are set apart not for withdrawal but for being sent into the world, with Jesus's self-consecration as an offering enabling their own consecration."
+    },
+    {
+      "reference": "17:20-23",
+      "section_title": "The Prayer Extends to Future Believers",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents the prayer's expansion to include all future believers, asking for their unity modeled on the Father-Son relationship, with the glory given to produce oneness and the community's visible unity serving as missional testimony.",
+      "relevance": "The neutral reading identifies the mutual indwelling of believers in the Father and Son ('that they also may be in us,' v.21) and the Father's love for the community as equivalent to his love for the Son ('you loved them, even as you loved me,' v.23). The believers are drawn into the divine relational life. The implication for permanence is that the community's unity and standing are grounded in the same Father-Son relationship that defines the Godhead's own life. However, the unity described is the goal of the prayer, not a declaration of its guaranteed achievement.",
+      "key_phrases": ["that they may all be one, even as you, Father, are in me and I in you", "that they also may be in us", "you loved them, even as you loved me"],
+      "confidence": "low"
+    },
+    {
+      "reference": "17:24-26",
+      "section_title": "The Final Desire -- To Be Where Jesus Is",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents Jesus's settled desire (thelo) that the community given to him by the Father be with him in the Father's presence, seeing his pre-creational glory, with the prayer concluding in the declaration that the Father's love for the Son is to take up residence within the community.",
+      "relevance": "The neutral reading identifies the prayer's conclusion as expressing the ultimate horizon of the relationship: 'Father, I desire that they also, whom you have given me, be with me where I am' (v.24). The word thelo expresses the Son's will, not a tentative hope. The prayer ends with a double indwelling: 'the love with which you loved me may be in them, and I in them' (v.26). The final word of the farewell discourse is not departure but indwelling -- the crisis of absence resolved by the promise of interior presence. This language strongly favors permanence, as the Son's desire and the Father's love are presented as the ground of the community's ultimate destiny.",
+      "key_phrases": ["Father, I desire that they also, whom you have given me, be with me where I am", "the love with which you loved me may be in them, and I in them", "you loved me before the foundation of the world"],
+      "confidence": "medium"
+    }
+  ]
+}

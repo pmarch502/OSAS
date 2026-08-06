@@ -1,0 +1,94 @@
+{
+  "book": "Luke",
+  "chapter": 22,
+  "sections": [
+    {
+      "reference": "22:1-6",
+      "section_title": "The Conspiracy and the Return of Satan",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage to mark the return of Satan (absent since 4:13's 'opportune time') who enters Judas -- identified twice as 'one of the twelve' -- who then arranges to betray Jesus apart from the crowd, completing a structural bracket from the wilderness testing.",
+      "relevance": "Judas was chosen as one of the twelve (6:13-16), entrusted with a place in the inner circle, and yet fell through satanic influence combined with his own consent. The passage demonstrates that membership in the closest circle of Jesus's followers does not constitute automatic protection against apostasy. The language of Satan 'entering into' Judas (the same language used for demonic possession elsewhere in the Gospel) shows a member of the commissioned community being overtaken. While the text does not directly theologize about whether Judas was 'saved and lost,' the fact pattern -- an insider who falls away -- is relevant to the question of whether standing within the community of faith is conditional.",
+      "key_phrases": ["Satan entered into Judas", "belonging to the number of the twelve", "he consented, and began seeking a good opportunity to betray Him"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "22:7-13",
+      "section_title": "Preparation of the Passover",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to demonstrate Jesus's sovereign orchestration of the Passover preparation, paralleling the colt instructions of 19:29-34 and using dei (divine necessity) for the lamb's sacrifice to point beyond the ritual to what Jesus understands it to foreshadow."
+    },
+    {
+      "reference": "22:14-20",
+      "section_title": "The Passover Meal Reinterpreted",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be Jesus's radical reinterpretation of the Passover around his own body and blood, identifying the bread as his body 'given for you' and the cup as 'the new covenant in My blood' (echoing both Exodus 24:8 and Jeremiah 31:31-34), redirecting Israel's foundational act of remembrance from the Exodus to himself."
+    },
+    {
+      "reference": "22:21-23",
+      "section_title": "The Betrayer at the Table",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage to identify the betrayer as present at the very table where the new covenant is being enacted, with Jesus declaring that the Son of Man goes 'as it has been determined' while pronouncing woe on the betrayer -- holding divine necessity and human moral responsibility in unresolved tension.",
+      "relevance": "The betrayer shares the covenant meal while plotting to hand over the covenant-maker. This is the ultimate betrayal from within: the one who 'ate my bread has lifted up his heel against me' (Psalm 41:9). The passage is relevant because it shows that participation in the covenant community -- even at its most sacred moment (the new covenant meal itself) -- does not prevent betrayal and does not shield the betrayer from the woe pronounced upon him. Divine determination of the Son of Man's path does not exonerate the human agent; both coexist. This bears on conditionality because it demonstrates that covenant participation does not automatically secure standing.",
+      "key_phrases": ["the hand of the one betraying Me is with Mine on the table", "the Son of Man is going as it has been determined", "woe to that man by whom He is betrayed"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "22:24-30",
+      "section_title": "The Dispute about Greatness and the Covenant Grant of a Kingdom",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to redefine authority in Jesus's kingdom as service rather than domination, and to record Jesus's covenantal bestowal of kingdom authority upon the apostles who 'stood by Me in My trials,' granting them a share in his kingdom through the same covenant verb (diatithemai) used for the cup."
+    },
+    {
+      "reference": "22:31-34",
+      "section_title": "Satan's Demand and Peter's Coming Failure",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "cited_by_both",
+      "summary": "The neutral reading finds this passage to describe Satan's demand to sift all the apostles like wheat, Jesus's specific prayer for Peter that his faith would not utterly fail, and the prediction that Peter would deny Jesus three times before turning back and strengthening the others.",
+      "relevance": "This passage is central to the debate and has genuine implications for both sides. For conditionality: the language assumes faith CAN fail utterly (the verb ekleipō means 'to fail entirely, to be extinguished'), otherwise the prayer would be pointless. Peter's predicted three-fold denial shows a genuine fall from faithfulness by a core disciple. The command to 'turn back' (epistrephō -- the standard LXX word for repentance/return to God) implies that Peter will deviate from the path of faithfulness and must actively return. For permanence: Jesus's intercessory prayer is presented as effective -- Peter's faith will not be completely destroyed because Jesus prayed for it. However, the neutral reading's emphasis falls on the conditionality side: faith can be severely damaged, the fall is real (not hypothetical), recovery is not automatic but requires active turning back, and Jesus's intercession prevents total failure rather than preventing any failure at all. The passage treats the preservation of faith as the result of specific divine intercession, not as an inherent property of faith itself.",
+      "key_phrases": ["Satan has demanded permission to sift you like wheat", "I have prayed for you, that your faith may not fail", "when once you have turned again, strengthen your brothers", "before a rooster crows today, you will deny Me three times"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "22:35-38",
+      "section_title": "The Changed Era and the Fulfillment of Isaiah 53",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to mark a decisive shift ('but now') from the era of providential protection during the earlier missions to a new era in which Jesus will be 'numbered with transgressors' (Isaiah 53:12), with the sword instruction serving the prophetic fulfillment rather than calling for armed resistance."
+    },
+    {
+      "reference": "22:39-46",
+      "section_title": "Prayer on the Mount of Olives",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to depict Jesus's agony in prayer ('not My will, but Yours be done') as the climactic expression of the obedience tested since chapter 4, with the repeated instruction to the disciples to 'pray that you may not enter into temptation' -- an instruction they fail by sleeping, which the author connects to their subsequent failures."
+    },
+    {
+      "reference": "22:47-53",
+      "section_title": "The Arrest and the Hour of Darkness",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to describe the arrest, including the betrayal kiss, the unauthorized sword strike and Jesus's healing of the severed ear, and Jesus's identification of the moment as 'your hour and the power of darkness' -- the convergence of satanic agency and human responsibility anticipated since 4:13."
+    },
+    {
+      "reference": "22:54-62",
+      "section_title": "Peter's Denial",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds this passage to describe Peter following Jesus 'at a distance,' then denying knowledge of Jesus three times with escalating evasion, followed by the rooster's crow, Jesus's direct look, Peter's remembrance of the prediction, and his bitter weeping as the first movement of the 'turning back' Jesus had foretold.",
+      "relevance": "Peter's denial is the concrete enactment of what Jesus predicted in 22:31-34. A core disciple -- the one who declared readiness for prison and death -- three times denies knowing Jesus. Each denial moves further from the center: first denying personal knowledge, then denying group membership, then refusing even to engage with the claim. The neutral reading describes this as 'faith under extreme pressure: not yet abandoned, but no longer close.' Peter's bitter weeping demonstrates that the faith survived the sifting (as Jesus prayed it would), but the fall was real and the recovery required the active 'turning back' Jesus foretold. This bears on conditionality because it demonstrates that a believer's faithfulness can fail under pressure, that denial of Christ is a real possibility for a genuine follower, and that restoration requires a process of repentance.",
+      "key_phrases": ["Peter was following at a distance", "Woman, I do not know Him", "Man, I am not", "Man, I do not know what you are talking about", "The Lord turned and looked at Peter", "he went out and wept bitterly"],
+      "confidence": "high"
+    },
+    {
+      "reference": "22:63-65",
+      "section_title": "Mocking and Beating",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to describe the guards' mockery of Jesus as a failed prophet, with the dramatic irony that every prophecy Jesus made in this chapter -- Judas's betrayal, Peter's denial, the rooster's timing -- has been fulfilled with precise accuracy while the guards demand he 'prophesy.'"
+    },
+    {
+      "reference": "22:66-71",
+      "section_title": "Before the Council",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds this passage to be the council hearing at which Jesus declares the Son of Man's enthronement at God's right hand (combining Daniel 7:13-14 and Psalm 110:1), the council infers his claim to be the Son of God, and they treat his own confirmation as self-incriminating testimony -- fulfilling his prediction that they would not believe even if told."
+    }
+  ]
+}

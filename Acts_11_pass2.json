@@ -1,0 +1,32 @@
+{
+  "book": "Acts",
+  "chapter": 11,
+  "sections": [
+    {
+      "reference": "11:1-18",
+      "section_title": "Jerusalem's Acceptance of Gentile Inclusion",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Peter defends his table fellowship with Gentiles by retelling the Cornelius episode, concluding 'If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could stand in God's way?'; the Jerusalem community responds by acknowledging 'Then to the Gentiles also God has granted repentance that leads to life.'",
+      "relevance": "The phrase 'God has granted repentance that leads to life' (v. 18) uses gift language (edoken) for repentance and life -- both are presented as divine grants, not human achievements. Peter's argument rests on God's sovereign initiative: God gave the Spirit without human precondition, and Peter could not 'stand in God's way.' This framing of salvation as God's unilateral gift has implications for permanence, since what God grants by sovereign initiative may not be contingent on human performance. However, the neutral reading explicitly notes a tension with 11:23, and the passage is primarily about the fact of Gentile inclusion rather than about whether that inclusion is irrevocable.",
+      "key_phrases": ["God gave the same gift to them as he gave to us", "who was I that I could stand in God's way", "God has granted repentance that leads to life"],
+      "confidence": "low"
+    },
+    {
+      "reference": "11:19-26",
+      "section_title": "The Antioch Community -- Expansion and Exhortation",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The scattering after Stephen's death produces a mixed community at Antioch where Gentiles believe in large numbers; Barnabas is sent from Jerusalem and upon arrival 'exhorted them all to remain true to the Lord with resolute heart' (prosmenein te kardia te kyrio).",
+      "relevance": "The neutral reading identifies a deliberate tension between the gift language of v. 18 ('God has granted repentance that leads to life') and the exhortation language of v. 23 ('remain true to the Lord with resolute heart'). The verb prosmenein ('to remain in, to continue with, to stay faithful to') presupposes that remaining is not automatic -- if it were guaranteed, the exhortation would be pointless. The neutral reading connects this to Deuteronomy 30 and Ezekiel 18 covenant dynamics where life is contingent on ongoing faithfulness. The tension is significant: God grants repentance that leads to life, AND believers must be exhorted to remain in what God has granted.",
+      "key_phrases": ["exhorted them all to remain true to the Lord with resolute heart", "prosmenein", "the exhortation presupposes that remaining is not automatic"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "11:27-30",
+      "section_title": "The Famine Relief Collection",
+      "category": "NOT_APPLICABLE",
+      "summary": "Agabus prophesies a famine, and the Antioch disciples send relief to the brothers in Judea through Barnabas and Saul -- an act of inter-community solidarity that demonstrates the practical outworking of the Gentile believers' faith."
+    }
+  ]
+}

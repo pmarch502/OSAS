@@ -1,0 +1,54 @@
+{
+  "book": "Matthew",
+  "chapter": 21,
+  "sections": [
+    {
+      "reference": "21:1-11",
+      "section_title": "The Entry into Jerusalem: Zechariah's King Enacted",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus's entry into Jerusalem as a deliberate enactment of Zechariah 9:9, publicly claiming messianic kingship as a humble king on a donkey, accepted by the crowds with the Hosanna acclamation of Psalm 118:25-26."
+    },
+    {
+      "reference": "21:12-17",
+      "section_title": "The Temple Cleansed: Prophetic Judgment on Israel's Worship",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents Jesus's disruption of the temple commerce as prophetic judgment invoking Jeremiah 7 and Isaiah 56, followed by healing the blind and lame in the temple -- the very people traditionally excluded from its precincts."
+    },
+    {
+      "reference": "21:18-22",
+      "section_title": "The Fig Tree Cursed: Enacted Judgment on Fruitlessness",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading identifies the cursed fig tree as a prophetic sign-act representing the temple establishment that has all the external apparatus of worship (leaves) but produces no actual fruit, drawing on Israel's prophetic tradition where the fruitless fig tree represents Israel's failure.",
+      "relevance": "The principle that having the appearance of fruitfulness without actual fruit leads to irreversible judgment ('may no fruit ever come from you again') bears on the question of standing. The neutral reading connects the fig tree to the broader fruit-bearing criterion governing these chapters: the tree's withering is immediate and permanent, demonstrating that fruitlessness before God results in final removal. If standing requires ongoing fruit-bearing, it is by nature conditional.",
+      "key_phrases": ["nothing on it but only leaves", "may no fruit ever come from you again", "the fig tree withered at once"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "21:23-27",
+      "section_title": "The Question of Authority: John and Jesus",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading presents the chief priests and elders challenging Jesus's authority, and Jesus countering with a question about John's baptism that they refuse to answer because both possible responses carry political risk, revealing their evasion rather than honest engagement."
+    },
+    {
+      "reference": "21:28-32",
+      "section_title": "The Parable of the Two Sons: Doing versus Saying",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents a parable distinguishing between verbal profession and actual obedience, where the son who initially refused but then worked did the father's will, while the son who said 'I go, sir' but did not was rejected.",
+      "relevance": "The passage establishes that doing the Father's will, not merely professing obedience, determines standing. The neutral reading identifies the explicit parallel to 7:21 ('not everyone who says Lord, Lord'): verbal identification with God is insufficient without corresponding action. Tax collectors and prostitutes who actually responded enter the kingdom before religious leaders who professed but did not act. This implies standing is determined by ongoing faithful action rather than initial profession.",
+      "key_phrases": ["which of the two did the will of his father", "the tax collectors and the prostitutes go into the kingdom of God before you"],
+      "confidence": "high"
+    },
+    {
+      "reference": "21:33-46",
+      "section_title": "The Parable of the Tenants: The Vineyard Transferred",
+      "category": "LEANS_CONDITIONAL",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading presents a parable where tenants entrusted with God's vineyard killed the owner's servants and son, resulting in the kingdom being taken away and given to a people producing its fruits.",
+      "relevance": "The passage directly states that the kingdom can be 'taken away' from those who hold it and 'given' to others based on the criterion of fruit-bearing. The neutral reading notes that the vineyard itself is not destroyed -- what changes is the management. While the primary referent is corporate (Israel's leadership), the principle that stewardship of the kingdom is conditional on producing the fruit the owner requires, and that failure to produce fruit results in removal, has implications for whether standing before God is maintained regardless of conduct.",
+      "key_phrases": ["the kingdom of God will be taken away from you and given to a people producing its fruits", "the stone that the builders rejected has become the cornerstone"],
+      "confidence": "medium"
+    }
+  ]
+}
