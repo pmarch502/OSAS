@@ -1,0 +1,116 @@
+# Bible Study Project — Directory Structure
+
+## Overview
+
+This project builds a neutral first-century exegetical foundation for the entire Bible, then runs topic-specific assessments against that foundation to produce interactive public reports. The neutral readings are the shared investment; assessments and reports are per-topic and reusable.
+
+## Directory Layout
+
+```
+BibleStudy/
+├── prompts/
+│   ├── neutral_reading.md              Shared prompt for all exegesis
+│   ├── osas.md                         OSAS assessment prompt
+│   └── predestination.md              Predestination/free will assessment prompt
+│
+├── exegesis/                           SOURCE — neutral first-century readings (.md)
+│   ├── nt/
+│   │   ├── Matthew_01.md
+│   │   ├── Matthew_02.md
+│   │   └── ... (260 files)
+│   └── ot/
+│       ├── Genesis_01.md
+│       └── ... (929 files)
+│
+├── assessments/                        Per-topic structured JSON from assessment prompts
+│   ├── nt-osas/
+│   │   ├── Matthew_01.json
+│   │   └── ... (260 files)
+│   ├── nt-predestination/
+│   │   └── ...
+│   ├── ot-osas/
+│   │   └── ...
+│   └── ot-predestination/
+│       └── ...
+│
+├── site/                               PUBLISHED — GitHub Pages root
+│   ├── index.html                      Landing page linking to all reports
+│   ├── exegesis/                       Generated HTML versions of neutral readings
+│   │   ├── nt/
+│   │   │   ├── Matthew_01.html
+│   │   │   └── ... (260 files)
+│   │   └── ot/
+│   │       ├── Genesis_01.html
+│   │       └── ... (929 files)
+│   └── reports/                        Interactive reports, one folder per topic
+│       ├── osas/
+│       │   ├── index.html              Interactive report
+│       │   └── data.js                 Assessment data (JS variable)
+│       └── predestination/
+│           ├── index.html
+│           └── data.js
+│
+├── run_instructions.md                 Checklist and run procedures
+├── project_structure.md                This file
+└── .gitignore
+```
+
+## Key Principles
+
+1. **Neutral exegesis is the shared foundation.** The `exegesis/` folder contains first-century neutral readings with no theological framework applied. Every topic-specific assessment builds on these same readings. Never modify them for a specific topic.
+
+2. **Source vs. published.** The `exegesis/` folder holds source `.md` files. The `site/exegesis/` folder holds generated `.html` versions for public viewing. The `.md` files are the source of truth; `.html` files are regenerated from them.
+
+3. **Assessments are per-topic.** Each assessment folder (`nt-osas/`, `nt-predestination/`, etc.) contains JSON files produced by running a topic-specific assessment prompt against the neutral readings. The naming pattern is `{testament}-{topic}/`.
+
+4. **Reports are self-contained.** Each report folder under `site/reports/` contains an `index.html` and a `data.js`. The report loads its data via a relative `<script>` tag. Exegesis links point to `../../exegesis/nt/` or `../../exegesis/ot/` with fragment anchors to specific sections.
+
+5. **GitHub Pages serves `site/` only.** Configure Pages to use the `site/` folder as the publishing root. Source `.md` files, assessment `.json` files, and prompts are in the repo but not served to the web.
+
+## File Naming Conventions
+
+- **Book names:** No spaces. Number prefix attached. Examples: `Matthew`, `1Corinthians`, `2Timothy`, `Genesis`, `1Samuel`
+- **Chapter numbers:** Zero-padded to two digits. Examples: `_01`, `_08`, `_22`
+- **Full pattern:** `{Book}_{Chapter}.{ext}` — e.g., `Romans_08.md`, `Romans_08.html`, `Romans_08.json`
+
+## Pipeline
+
+```
+neutral_reading.md + "Analyze {Book} {Chapter}"
+        │
+        ▼
+  exegesis/{testament}/{Book}_{Ch}.md        ← Pass 1: neutral reading
+        │
+        ▼
+  {topic}_assessment.md + neutral reading
+        │
+        ▼
+  assessments/{testament}-{topic}/{Book}_{Ch}.json   ← Pass 2: structured assessment
+        │
+        ▼
+  Aggregate JSONs → site/reports/{topic}/data.js
+        │
+        ▼
+  site/reports/{topic}/index.html            ← Interactive report
+
+  exegesis/{testament}/{Book}_{Ch}.md
+        │
+        ▼
+  Convert markdown → HTML
+        │
+        ▼
+  site/exegesis/{testament}/{Book}_{Ch}.html ← Published exegesis pages
+```
+
+## Model
+
+All analysis is performed by **Claude Opus 4.6 (Anthropic)**. The model identifier and prompts used are documented in each report's Methodology section.
+
+## Adding a New Topic
+
+1. Write an assessment prompt in `prompts/{topic}.md`
+2. Run it against the neutral readings (2-3 agents at a time)
+3. Output goes to `assessments/{testament}-{topic}/`
+4. Aggregate JSONs into `site/reports/{topic}/data.js`
+5. Adapt the report template for the topic's categories and question
+6. Update `site/index.html` to link to the new report

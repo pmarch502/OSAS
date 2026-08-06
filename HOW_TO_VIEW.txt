@@ -1,0 +1,13 @@
+The OSAS report uses fetch() to load exegesis files on demand,
+so it must be served over HTTP rather than opened directly from
+the filesystem.
+
+1. Open a terminal in this directory (OSAS/)
+2. Run:   python -m http.server
+3. Open:  http://localhost:8000/osas_report.html
+
+To stop the server, press Ctrl+C in the terminal.
+
+If Python is not installed, any static file server works:
+  npx serve .              (Node.js)
+  php -S localhost:8000     (PHP)

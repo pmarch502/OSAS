@@ -131,7 +131,7 @@ summary:hover { color: var(--leans-perm); }
 <div id="tab-misapplied" class="tab-content"></div>
 <div id="tab-all" class="tab-content"></div>
 
-<script src="pass2_data.js"></script>
+<script src="data.js"></script>
 <script>
 var BOOK_ORDER = [
   'Matthew','Mark','Luke','John','Acts',
@@ -191,7 +191,7 @@ function exegesisHref(book, chapter, reference) {
     var colonIdx = reference.indexOf(':');
     if (colonIdx >= 0) frag = '#' + reference.substring(colonIdx + 1);
   }
-  return slug + '_' + ch + '.html' + frag;
+  return '../../exegesis/nt/' + slug + '_' + ch + '.html' + frag;
 }
 
 function exegesisLink(book, chapter, reference) {
