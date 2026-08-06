@@ -33,7 +33,7 @@ BibleStudy/
 │   └── ot-predestination/
 │       └── ...
 │
-├── site/                               PUBLISHED — GitHub Pages root
+├── docs/                               PUBLISHED — GitHub Pages root (/docs)
 │   ├── index.html                      Landing page linking to all reports
 │   ├── exegesis/                       Generated HTML versions of neutral readings
 │   │   ├── nt/
@@ -59,13 +59,13 @@ BibleStudy/
 
 1. **Neutral exegesis is the shared foundation.** The `exegesis/` folder contains first-century neutral readings with no theological framework applied. Every topic-specific assessment builds on these same readings. Never modify them for a specific topic.
 
-2. **Source vs. published.** The `exegesis/` folder holds source `.md` files. The `site/exegesis/` folder holds generated `.html` versions for public viewing. The `.md` files are the source of truth; `.html` files are regenerated from them.
+2. **Source vs. published.** The `exegesis/` folder holds source `.md` files. The `docs/exegesis/` folder holds generated `.html` versions for public viewing. The `.md` files are the source of truth; `.html` files are regenerated from them.
 
 3. **Assessments are per-topic.** Each assessment folder (`nt-osas/`, `nt-predestination/`, etc.) contains JSON files produced by running a topic-specific assessment prompt against the neutral readings. The naming pattern is `{testament}-{topic}/`.
 
-4. **Reports are self-contained.** Each report folder under `site/reports/` contains an `index.html` and a `data.js`. The report loads its data via a relative `<script>` tag. Exegesis links point to `../../exegesis/nt/` or `../../exegesis/ot/` with fragment anchors to specific sections.
+4. **Reports are self-contained.** Each report folder under `docs/reports/` contains an `index.html` and a `data.js`. The report loads its data via a relative `<script>` tag. Exegesis links point to `../../exegesis/nt/` or `../../exegesis/ot/` with fragment anchors to specific sections.
 
-5. **GitHub Pages serves `site/` only.** Configure Pages to use the `site/` folder as the publishing root. Source `.md` files, assessment `.json` files, and prompts are in the repo but not served to the web.
+5. **GitHub Pages serves `docs/` only.** Configure Pages to use the `/docs` folder as the publishing root. Source `.md` files, assessment `.json` files, and prompts are in the repo but not served to the web.
 
 ## File Naming Conventions
 
@@ -88,10 +88,10 @@ neutral_reading.md + "Analyze {Book} {Chapter}"
   assessments/{testament}-{topic}/{Book}_{Ch}.json   ← Pass 2: structured assessment
         │
         ▼
-  Aggregate JSONs → site/reports/{topic}/data.js
+  Aggregate JSONs → docs/reports/{topic}/data.js
         │
         ▼
-  site/reports/{topic}/index.html            ← Interactive report
+  docs/reports/{topic}/index.html            ← Interactive report
 
   exegesis/{testament}/{Book}_{Ch}.md
         │
@@ -99,7 +99,7 @@ neutral_reading.md + "Analyze {Book} {Chapter}"
   Convert markdown → HTML
         │
         ▼
-  site/exegesis/{testament}/{Book}_{Ch}.html ← Published exegesis pages
+  docs/exegesis/{testament}/{Book}_{Ch}.html ← Published exegesis pages
 ```
 
 ## Model
@@ -111,6 +111,6 @@ All analysis is performed by **Claude Opus 4.6 (Anthropic)**. The model identifi
 1. Write an assessment prompt in `prompts/{topic}.md`
 2. Run it against the neutral readings (2-3 agents at a time)
 3. Output goes to `assessments/{testament}-{topic}/`
-4. Aggregate JSONs into `site/reports/{topic}/data.js`
+4. Aggregate JSONs into `docs/reports/{topic}/data.js`
 5. Adapt the report template for the topic's categories and question
-6. Update `site/index.html` to link to the new report
+6. Update `docs/index.html` to link to the new report
