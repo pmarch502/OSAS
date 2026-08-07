@@ -1,0 +1,90 @@
+{
+    "book": "Matthew",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-2",
+            "section_title": "The Setting: Mountain, Posture, and Audience",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading establishes the scene of Jesus ascending a mountain, sitting in the posture of an authoritative teacher, and delivering instruction to his disciples within earshot of the crowds, with the mountain setting evoking Moses at Sinai but distinguishing Jesus as one who gives Torah on his own authority rather than mediating what God spoke."
+        },
+        {
+            "reference": "5:3-12",
+            "section_title": "The Declarations of Blessedness",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the beatitudes as declarations identifying who stands in divine favor as the kingdom arrives, describing human dispositions and conditions — dependence on God, mourning, meekness, longing for righteousness, showing mercy, purity of heart, peacemaking, enduring persecution — that correspond to kingdom belonging.",
+            "relevance": "The beatitudes present human dispositions and orientations as the markers of those who belong to the kingdom. The poor in spirit are those whose 'inner posture' is dependence on God; the merciful receive mercy; the pure in heart see God; peacemakers are called sons of God. Each declaration ties a human quality or action to a divine outcome. The neutral reading emphasizes that Jesus is 'identifying who, in the arriving kingdom, is actually in the position of divine favor,' and these identifications consistently involve human character rather than divine selection. However, the text does not directly address whether God determined these people to have these dispositions or whether they chose them — the beatitudes describe rather than prescribe — which prevents a STRONG classification.",
+            "key_phrases": ["Blessed are the poor in spirit, for theirs is the kingdom of heaven", "Blessed are the merciful, for they shall receive mercy", "Blessed are the pure in heart, for they shall see God", "Blessed are the peacemakers, for they shall be called sons of God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:13-16",
+            "section_title": "Salt and Light: The Function of the Disciples",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the salt and light metaphors as defining the disciples' function in the world, with a warning that salt can lose its distinctive character and be discarded, and light must be visibly active through good works that bring glory to the Father.",
+            "relevance": "The salt metaphor directly implies that kingdom identity can be forfeited through human failure. The neutral reading is explicit: 'the disciples' distinctive character can be lost, and if lost, it cannot be recovered. They are not automatically preserved in their role; their saltiness — their distinctive identity as kingdom people — must be maintained.' Salt that becomes moranthe is 'thrown out and trampled' — language of judgment and rejection. This presents the disciples' continuing status as contingent on their own maintenance of character, not guaranteed by divine determination. However, the passage is about the disciples' function rather than directly about salvation outcomes, which keeps it at LEANS rather than STRONG.",
+            "key_phrases": ["if salt has lost its taste, how shall its saltiness be restored?", "no longer good for anything except to be thrown out", "They are not automatically preserved in their role"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:17-20",
+            "section_title": "Jesus and the Torah: Fulfillment, Not Abolition",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus as bringing the Torah to its intended fullness rather than abolishing it, with verse 20 serving as the thesis statement for the entire discourse: entry into the kingdom of heaven is conditioned on a righteousness that exceeds that of the scribes and Pharisees.",
+            "relevance": "Verse 20 is a direct statement about what determines kingdom entry, delivered as part of Jesus's authoritative teaching: 'Unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.' This is a conditional with human conduct — righteousness (dikaiosyne) — as the determining factor for the salvation-relevant outcome of entering the kingdom. The neutral reading identifies this as 'the thesis statement for everything that follows,' making it a central plank of the author's argument, not an aside or illustration. The statement addresses the audience as agents who must produce a quality of righteousness that determines their entry or exclusion. The negative formulation ('you will never enter') makes the consequence absolute: failure of human righteousness results in exclusion from the kingdom.",
+            "key_phrases": ["unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven"],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:21-26",
+            "section_title": "First Contrast: Killing and Anger",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus as extending the prohibition against murder to the inner disposition of anger and contempt, with escalating consequences from judgment to the council to the gehenna of fire, followed by practical illustrations demanding urgency in reconciliation.",
+            "relevance": "The passage presents human dispositions (anger, contempt) and human actions (reconciliation, settling disputes) as directly bearing on one's liability to divine judgment, including gehenna — the 'place or state of final destruction.' Calling someone 'fool' makes one 'liable to the gehenna of fire,' while reconciliation is presented as a human action that takes priority even over worship. This framework treats human choices about internal dispositions and interpersonal conduct as determinative of judgment outcomes. However, the primary thrust is ethical instruction about what exceeding righteousness requires rather than a direct statement about who determines salvation, keeping it at LEANS.",
+            "key_phrases": ["everyone who is angry with his brother will be liable to judgment", "whoever says 'You fool!' will be liable to the gehenna of fire", "leave your gift there before the altar and go. First be reconciled to your brother"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:27-30",
+            "section_title": "Second Contrast: Adultery and Desire",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus as extending the prohibition against adultery to the internal disposition of lust, with hyperbolic language about radical self-discipline to avoid gehenna — the destruction of the whole self.",
+            "relevance": "The passage presents destruction (gehenna) as an outcome that human beings can and must act to avoid: 'It is better that you lose one of your members than that your whole body be thrown into gehenna.' The neutral reading emphasizes that this is about human agency in dealing with sin — 'whatever leads to sin must be dealt with radically' — and that 'no cost is too high to avoid the destruction of the whole self.' The imperative to take radical action against sin presupposes that the person has genuine power to affect their ultimate outcome. However, as with the first contrast, the primary thrust is ethical instruction rather than a direct soteriological statement.",
+            "key_phrases": ["it is better that you lose one of your members than that your whole body be thrown into gehenna", "everyone who looks at a woman with lustful intent has already committed adultery with her in his heart"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:31-32",
+            "section_title": "Third Contrast: Divorce",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus as driving past the Deuteronomic concession on divorce to the original divine intention for marriage, treating divorce as a violation of a bond that the legal certificate does not truly sever."
+        },
+        {
+            "reference": "5:33-37",
+            "section_title": "Fourth Contrast: Oaths",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus as prohibiting oaths entirely, demanding a radical truthfulness in ordinary speech that makes oath-taking unnecessary, on the grounds that all things invoked in oaths belong to God and cannot be leveraged by human assertion."
+        },
+        {
+            "reference": "5:38-42",
+            "section_title": "Fifth Contrast: Retaliation",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus as replacing proportional retaliation with four concrete scenarios of creative nonviolent resistance, each depicting a situation of structured inequality in which the person in the inferior position acts to strip the powerful party of the specific mechanism by which they exercise dominance."
+        },
+        {
+            "reference": "5:43-48",
+            "section_title": "Sixth Contrast: Love of Enemies",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus's command to love enemies as the climax of all six contrasts, grounded in the character of the Father who provides sun and rain indiscriminately to the evil and the good, with the concluding command to 'be perfect as your heavenly Father is perfect' meaning to be complete and undivided in love.",
+            "relevance": "The purpose clause 'so that you may be sons of your Father who is in heaven' directly connects human conduct (loving enemies) to identity as God's children. Being recognized as belonging to God's family is presented as something achieved through resembling the Father's character in action, not something passively received through divine selection. The concluding imperative 'be perfect as your heavenly Father is perfect' — which the neutral reading identifies as 'the capstone of the entire chapter' — sets human completeness in love as the standard, treating the audience as agents capable of and responsible for meeting it. However, the text's primary purpose is defining the character that God's children must display rather than directly addressing who determines salvation status, and a determinist could read the 'so that' clause as describing the purpose of conduct for those already chosen.",
+            "key_phrases": ["Love your enemies and pray for those who persecute you", "so that you may be sons of your Father who is in heaven", "He makes his sun rise on the evil and on the good", "You therefore must be perfect, as your heavenly Father is perfect"],
+            "confidence": "medium"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "book": "Matthew",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-6",
+            "section_title": "The Herald's Appearance and the Isaiah Quotation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents John as the Isaiah 40:3 herald and Elijah figure whose single proclamation is the imperative 'Repent, for the kingdom of heaven has drawn near,' and describes a sweeping voluntary response as people from Jerusalem, Judea, and the Jordan region go out to be baptized, confessing their sins.",
+            "relevance": "The imperative 'Repent' (metanoeite) presupposes that the hearers possess genuine capacity to turn. It is a command, not a description of something God does to them. The broad voluntary response -- people going out, being baptized, confessing -- presents human beings as agents who hear a summons and act on it. However, the section's primary concern is identifying John as the prophetic herald, not directly addressing who determines salvation outcomes, which keeps it from a stronger categorization.",
+            "key_phrases": ["Repent, for the kingdom of heaven has drawn near", "being baptized in the Jordan, confessing their sins"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:7-10",
+            "section_title": "John's Confrontation With the Pharisees and Sadducees",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents John as demanding visible evidence of genuine repentance ('fruit worthy of repentance'), rejecting Abrahamic descent as a guarantee of covenant standing, and announcing imminent binary judgment in which every tree not bearing good fruit is cut down and thrown into fire.",
+            "relevance": "This section directly addresses what determines whether a person faces or escapes the coming judgment, and the answer is unambiguously human response. The criterion is fruit -- 'the visible, tangible evidence of genuine response to God,' as the neutral reading puts it. John's declaration that Abrahamic descent does not secure standing dismantles any appeal to prior divine election-by-lineage as sufficient. The judgment is binary ('every tree not bearing good fruit is cut down') and the basis for the sorting is what people produce, not what God has predetermined about them. God's freedom to raise children from stones shows divine sovereignty over covenant membership, but this sovereignty is deployed to deny genealogical presumption, not to assert that God unilaterally determines individual outcomes. The demand is placed squarely on the hearers: bear fruit or face the axe. This is part of John's central argument as presented by the author, not an aside or illustration.",
+            "key_phrases": ["Bear fruit worthy of repentance", "Do not presume to say to yourselves, 'We have Abraham as our father'", "God is able from these stones to raise up children to Abraham", "Every tree not bearing good fruit is cut down and thrown into fire", "Already the axe is laid to the root of the trees"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:11-12",
+            "section_title": "The Coming One and the Two Baptisms",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents John as distinguishing his preparatory water baptism from the coming one's baptism with Holy Spirit and fire, interpreting the threshing floor image as a separation of wheat (gathered into the barn) from chaff (burned with unquenchable fire), and reading the two baptisms as two outcomes for two groups rather than one experience for one group.",
+            "relevance": "The threshing floor image is a sorting image, and the neutral reading notes that the author 'builds a consistent picture: the coming of the kingdom involves the sorting of people based on their response.' In context, the wheat-chaff distinction follows directly from John's demand for fruit-bearing repentance -- those who respond become wheat, those who do not become chaff. The sorting presupposes that human response has already occurred and now determines outcome. However, the imagery itself introduces some ambiguity: a threshing floor separates what is 'already wheat from what is already chaff,' and wheat does not choose to be wheat. Read in isolation, the image could support fixed categories determined apart from human agency. The contextual emphasis on response keeps this in the libertarian column, but the inherent ambiguity of the agricultural metaphor prevents a stronger categorization.",
+            "key_phrases": ["will baptize you with the Holy Spirit and fire", "gathering the wheat into the barn but burning the chaff with unquenchable fire", "he will clear his threshing floor"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:13-15",
+            "section_title": "Jesus Comes to John for Baptism",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus's submission to John's baptism as fulfilling 'all righteousness' -- completing the full scope of what God's purposes require -- with both Jesus and John playing their assigned roles in the divine plan."
+        },
+        {
+            "reference": "3:16-17",
+            "section_title": "The Heavens Open and the Divine Declaration",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the opening of the heavens, the Spirit's descent, and the divine voice declaring 'This is my beloved Son, in whom I am well pleased' as a public christological identification combining Davidic royal enthronement (Psalm 2:7) with the Isaianic Servant's mission (Isaiah 42:1)."
+        }
+    ]
+}

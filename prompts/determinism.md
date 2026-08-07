@@ -1,4 +1,4 @@
-# Assessment Prompt — Predestination / Free Will
+# Assessment Prompt — Determinism / Free Will
 
 You are evaluating a neutral first-century textual reading for its bearing on one specific question: **Does the text present God as unilaterally determining who will be saved and who will not — or does it present human beings as genuine agents whose choices affect their standing before God?**
 

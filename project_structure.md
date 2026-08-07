@@ -11,7 +11,7 @@ BibleStudy/
 ├── prompts/
 │   ├── neutral_reading.md              Shared prompt for all exegesis
 │   ├── osas.md                         OSAS assessment prompt
-│   └── predestination.md              Predestination/free will assessment prompt
+│   └── determinism.md                 Determinism/free will assessment prompt
 │
 ├── exegesis/                           SOURCE — neutral first-century readings (.md)
 │   ├── nt/
@@ -26,11 +26,11 @@ BibleStudy/
 │   ├── nt-osas/
 │   │   ├── Matthew_01.json
 │   │   └── ... (260 files)
-│   ├── nt-predestination/
+│   ├── nt-determinism/
 │   │   └── ...
 │   ├── ot-osas/
 │   │   └── ...
-│   └── ot-predestination/
+│   └── ot-determinism/
 │       └── ...
 │
 ├── docs/                               PUBLISHED — GitHub Pages root (/docs)
@@ -46,7 +46,7 @@ BibleStudy/
 │       ├── osas/
 │       │   ├── index.html              Interactive report
 │       │   └── data.js                 Assessment data (JS variable)
-│       └── predestination/
+│       └── determinism/
 │           ├── index.html
 │           └── data.js
 │
@@ -61,7 +61,7 @@ BibleStudy/
 
 2. **Source vs. published.** The `exegesis/` folder holds source `.md` files. The `docs/exegesis/` folder holds generated `.html` versions for public viewing. The `.md` files are the source of truth; `.html` files are regenerated from them.
 
-3. **Assessments are per-topic.** Each assessment folder (`nt-osas/`, `nt-predestination/`, etc.) contains JSON files produced by running a topic-specific assessment prompt against the neutral readings. The naming pattern is `{testament}-{topic}/`.
+3. **Assessments are per-topic.** Each assessment folder (`nt-osas/`, `nt-determinism/`, etc.) contains JSON files produced by running a topic-specific assessment prompt against the neutral readings. The naming pattern is `{testament}-{topic}/`.
 
 4. **Reports are self-contained.** Each report folder under `docs/reports/` contains an `index.html` and a `data.js`. The report loads its data via a relative `<script>` tag. Exegesis links point to `../../exegesis/nt/` or `../../exegesis/ot/` with fragment anchors to specific sections.
 

@@ -54,7 +54,7 @@ print(f'Wrote {len(sections)} sections')
 Notes:
 - Use `utf-8-sig` to handle BOM in some JSON files
 - Skip `combined.json` (legacy pre-flattened file)
-- Same pattern applies for future `nt-predestination` reports
+- Same pattern applies for future `nt-determinism` reports
 
 ## Correction workflow
 
@@ -79,7 +79,7 @@ When the project author identifies a factual error or overlooked evidence:
 
 ## Running Pass 2 (assessment)
 
-- Prompt: `prompts/osas.md` (or `prompts/predestination.md` for that topic)
+- Prompt: `prompts/osas.md` (or `prompts/determinism.md` for that topic)
 - Input: the complete Pass 1 neutral reading for a single chapter
 - Output: `assessments/nt-{topic}/{Book}_{Ch}.json`
 - Model: opus
