@@ -1,0 +1,96 @@
+{
+  "book": "John",
+  "chapter": 6,
+  "sections": [
+    {
+      "reference": "6:1-4",
+      "section_title": "Setting: The Sea, the Mountain, the Crowd, the Passover",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author establishes the scene: Jesus crosses the Sea of Galilee, ascends the mountain with his disciples, a crowd follows because of healing signs, and the Passover feast is near."
+    },
+    {
+      "reference": "6:5-13",
+      "section_title": "The Feeding of the Multitude",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus tests Philip about feeding the crowd, then multiplies five barley loaves and two fish to feed five thousand, with twelve baskets of fragments left over, recapitulating the manna provision of the exodus."
+    },
+    {
+      "reference": "6:14-15",
+      "section_title": "The Crowd's Response: The Prophet and the Attempt to Make Him King",
+      "category": "NOT_APPLICABLE",
+      "summary": "The crowd identifies Jesus as the prophet like Moses from Deuteronomy 18:15-18 and attempts to seize him to make him a political king, but Jesus withdraws to the mountain alone."
+    },
+    {
+      "reference": "6:16-21",
+      "section_title": "Jesus on the Sea",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus walks on the sea in darkness, speaks the divine self-identification 'I am; do not be afraid,' and the boat immediately arrives at land, completing the exodus sequence of bread and sea-crossing."
+    },
+    {
+      "reference": "6:22-27",
+      "section_title": "The Crowd Seeks Jesus: Perishable and Imperishable Food",
+      "category": "NOT_APPLICABLE",
+      "summary": "Jesus diagnoses the crowd as pursuing him for bread rather than for the sign's meaning and instructs them to seek the imperishable food that the Son of Man will give."
+    },
+    {
+      "reference": "6:28-34",
+      "section_title": "The Work of God, the Bread from Heaven",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus defines the 'work of God' as believing in the one God has sent, corrects the crowd's attribution of the manna to Moses, and identifies the true bread from heaven as that which comes down from God and gives life to the world.",
+      "relevance": "The 'work of God' is defined as ongoing believing (present-tense subjunctive), framed as the answer to the crowd's question 'what shall we do?' -- implying human agency in the response. The neutral reading notes the phrase is ambiguous between 'what God requires' and 'what God accomplishes,' but the dialogical framing presents believing as something the crowd is called to do. The universal scope of the bread's provision ('gives life to the world, not Israel alone, not the crowd alone') further implies broad availability rather than selective determination.",
+      "key_phrases": ["This is the work of God, that you believe in him whom he has sent", "the bread of God is that which comes down out of heaven, and gives life to the world"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:35-40",
+      "section_title": "I Am the Bread of Life: The First Declaration",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "cited_for_determinism",
+      "summary": "Jesus declares himself the bread of life, promises that all the Father gives him will come and none will be cast out, states the Father's will that he lose nothing of what was given, and promises eternal life and resurrection to everyone who beholds the Son and believes.",
+      "relevance": "Verses 37 and 39 (the Father 'gives' a collective to Jesus, neuter singular pan ho) are conventionally cited to prove God unilaterally determines who is saved. The neutral reading finds that verse 40 shifts to the individual level (masculine singular pas ho, 'everyone who beholds and believes') and that the two perspectives are complementary: the collective is constituted by individuals who behold and believe. The reading explicitly states that 'the all that the Father gives is not a fixed group determined apart from human response' but is the company of those drawn by the Father who respond by beholding and believing. Verse 36 ('you have seen me, and yet do not believe') diagnoses the crowd's failure as their own, implying the capacity to have believed. The Father's initiative and human response are both presented as real and necessary, but the reading rejects the interpretation that the Father's giving creates a predetermined group apart from human response.",
+      "key_phrases": ["All that the Father gives me will come to me", "the one who comes to me I will certainly not cast out", "everyone who beholds the Son and believes in him will have eternal life", "you have seen me, and yet do not believe"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:41-51",
+      "section_title": "The Grumbling, the Father's Drawing, and the Living Bread",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "cited_for_determinism",
+      "summary": "The crowd grumbles (echoing the wilderness generation), Jesus states that no one can come unless the Father draws him, defines the drawing mechanism as God's teaching from Isaiah 54:13, declares that those who ate the manna still died while those who eat the living bread will live forever, and identifies the bread as his flesh given for the life of the world.",
+      "relevance": "Verse 44 ('no one can come to me unless the Father draws him') is conventionally cited to prove irresistible selective grace. The neutral reading identifies three factors that challenge this conventional use. First, verse 45 defines the mechanism: 'They shall all be taught of God. Everyone who has heard and learned from the Father, comes to me' -- the Father draws by teaching, and those who genuinely hear and learn come. Second, the LXX background of the verb helkyo in Jeremiah 31:3 ('I have drawn you with lovingkindness') describes attractive covenant love, not mechanical compulsion. Third, the author's own usage in 12:32 ('I will draw all people to myself') confirms the scope of the drawing is universal, not selective. The neutral reading concludes: 'The drawing is real and necessary, but it operates through teaching, not through coercion,' and those who do not come fail because 'they resist, because they grumble, because they prefer their own understanding.' The conditional 'if anyone eats of this bread' (v. 51) opens the promise without restriction.",
+      "key_phrases": ["No one can come to me unless the Father who sent me draws him", "they shall all be taught of God", "Everyone who has heard and learned from the Father, comes to me", "if anyone eats of this bread, he will live forever", "I have drawn you with lovingkindness"],
+      "confidence": "high"
+    },
+    {
+      "reference": "6:52-59",
+      "section_title": "Eating Flesh and Drinking Blood",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "Jesus intensifies the flesh-and-blood language, declaring that those who eat his flesh and drink his blood have eternal life and abide in him, with his flesh identified as true food and his blood as true drink within the Passover framework of the lamb's sacrifice.",
+      "relevance": "The conditional 'unless you eat... you have no life' (v. 53) and the present-tense participles throughout (ho trogon, 'the one eating') present participation in Christ as an ongoing human activity, not a one-time determined event. The neutral reading explicitly notes that 'the abiding is the condition of the one who is currently eating and drinking -- the present-tense participles describe what is happening now, not a guaranteed future state,' and cross-references chapter 15 where branches that do not abide are removed. This implies genuine human agency in maintaining the salvific relationship through ongoing participation.",
+      "key_phrases": ["unless you eat the flesh of the Son of Man and drink his blood, you have no life in yourselves", "He who eats my flesh and drinks my blood abides in me, and I in him", "he who eats this bread will live forever"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "6:60-66",
+      "section_title": "Many Disciples Withdraw",
+      "category": "STRONG_LIBERTARIAN",
+      "conventional_use": "cited_for_determinism",
+      "summary": "Many disciples find the teaching intolerable and depart; Jesus explains that the Spirit gives life through his words, identifies some as unbelieving, restates that no one can come unless granted by the Father, and the author records that many disciples withdrew and no longer walked with him.",
+      "relevance": "Verse 65 ('no one can come to me unless it has been granted him from the Father') is conventionally cited for determinism, but the neutral reading interprets it consistently with vv. 44-45: the granting is the same as the drawing, operating through teaching, and those who refuse to learn are not granted the ability to come. The decisive element is the departure of genuine disciples in verse 66. The neutral reading states: 'This is the most direct demonstration in the document that following Jesus can be abandoned. These were mathetai -- disciples, learners, followers. They had heard his teaching, seen his signs, accompanied him. They chose to leave. The text does not describe them as having been false disciples all along, nor does it say they never truly followed.' The imperfect tense (periepatoun, 'were walking') implies they had been genuinely walking with Jesus and stopped. The author presents this departure as a direct narrative argument that believing is an ongoing choice subject to abandonment, and the present-tense participle structure throughout the discourse confirms that the promises apply to those currently believing, not to those who once believed and stopped.",
+      "key_phrases": ["many of his disciples withdrew and were not walking with him anymore", "no one can come to me unless it has been granted him from the Father", "there are some of you who do not believe", "the words that I have spoken to you are spirit and are life"],
+      "confidence": "high"
+    },
+    {
+      "reference": "6:67-71",
+      "section_title": "Peter's Confession and the Identification of Judas",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_determinism",
+      "summary": "Jesus asks the Twelve whether they also wish to leave; Peter confesses Jesus as the Holy One of God with the words of eternal life; Jesus responds that he chose the Twelve and yet one of them is a devil, identified by the author as Judas.",
+      "relevance": "The election language ('Did I myself not choose you, the twelve') uses the verb eklegomai, the same verb used for God's election of Israel (Deuteronomy 7:6, 14:2; Isaiah 44:1) and anticipating 15:16 ('you did not choose me, but I chose you'), conventionally cited to prove God's unilateral determination of who is saved. The neutral reading reveals this is vocational election -- Jesus choosing the Twelve for a specific role and mission -- not individual soteriological election guaranteeing salvation. The critical demonstration is that one of the chosen Twelve is 'a devil' who will betray Jesus, proving that election to the group does not override the agency of the individual within it. The neutral reading explicitly states: 'Election does not override the agency of the one elected. This mirrors the pattern of Israel's election throughout the Hebrew scriptures: God chose Israel; Israel repeatedly turned away.' The question 'You do not want to go away also, do you?' further underscores that the Twelve have genuine freedom to leave.",
+      "key_phrases": ["Did I myself not choose you, the twelve, and yet one of you is a devil?", "You do not want to go away also, do you?", "Lord, to whom shall we go? You have the words of eternal life"],
+      "confidence": "high"
+    }
+  ]
+}

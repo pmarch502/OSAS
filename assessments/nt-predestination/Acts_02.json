@@ -1,0 +1,72 @@
+{
+  "book": "Acts",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1-4",
+      "section_title": "The Arrival of the Holy Spirit",
+      "category": "NOT_APPLICABLE",
+      "summary": "The Holy Spirit arrives on Pentecost as promised, filling the entire gathered community and producing Spirit-directed speech in multiple languages as God's initiative, not something the community summoned."
+    },
+    {
+      "reference": "2:5-13",
+      "section_title": "The Multinational Audience and Their Response",
+      "category": "NOT_APPLICABLE",
+      "summary": "Diaspora Jews from across the known world hear the Spirit-filled community declaring God's mighty deeds in their native languages, producing bewilderment in most and mockery from others."
+    },
+    {
+      "reference": "2:14-21",
+      "section_title": "Peter Interprets the Event Through Joel",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "cited_for_agency",
+      "summary": "Peter identifies the Pentecost event as the fulfillment of Joel's prophecy about the Spirit being poured out on all flesh in the last days, culminating in the promise that everyone who calls on the name of the Lord will be saved.",
+      "relevance": "The Joel citation's climactic verse (2:21) establishes that salvation is available to 'everyone' (pas) through the singular condition of calling on the name of the Lord -- an active, deliberate human invocation (epikalesetai). The neutral reading identifies this verse as 'the destination of the Joel citation, the verse toward which Peter has been building,' making it the interpretive goal of the entire passage. However, the neutral reading also notes that the uncited portion of Joel 2:32b includes 'among the survivors whom the Lord calls,' and that Peter's speech holds together human calling on God's name and divine calling of those God summons without resolving which is primary. This dual framework prevents a STRONG classification despite the text's clear emphasis on universal human access to salvation through invocation.",
+      "key_phrases": ["everyone who calls on the name of the Lord will be saved", "I will pour out My Spirit on all mankind", "in the last days"],
+      "confidence": "high"
+    },
+    {
+      "reference": "2:22-24",
+      "section_title": "Jesus's Ministry, Death, and Resurrection",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter declares that Jesus was attested by God through signs, delivered over by God's predetermined plan and foreknowledge, crucified by the audience's hands through lawless men, and raised by God because it was impossible for death to hold him."
+    },
+    {
+      "reference": "2:25-28",
+      "section_title": "The Testimony of David -- Psalm 16",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter cites Psalm 16:8-11 in full as the scriptural basis for claiming that God's Holy One would not be abandoned to Hades or undergo bodily decay."
+    },
+    {
+      "reference": "2:29-31",
+      "section_title": "David Cannot Be the Subject -- Therefore It Is the Christ",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter argues that since David died, was buried, and his tomb remains visible, the psalm must be David's prophetic speech about the Christ's resurrection, which David foresaw as a prophet who knew God's oath to seat a descendant on his throne."
+    },
+    {
+      "reference": "2:32-36",
+      "section_title": "The Exaltation and the Declaration",
+      "category": "NOT_APPLICABLE",
+      "summary": "Peter declares that the apostles are witnesses to Jesus's resurrection, that the exalted Jesus has received and poured out the Spirit from the Father's right hand, and that God has made the crucified Jesus both Lord and Christ."
+    },
+    {
+      "reference": "2:37-40",
+      "section_title": "The Response of the Crowd and Peter's Instruction",
+      "category": "STRONG_LIBERTARIAN",
+      "conventional_use": "cited_for_agency",
+      "summary": "The convicted crowd asks what they must do, and Peter commands them to repent and be baptized in Jesus's name for the forgiveness of sins, promising the Holy Spirit and extending the promise to all whom the Lord will call, while urging them to be saved from their perverse generation.",
+      "relevance": "Peter directly addresses the audience as genuine agents whose response determines their salvation outcome. 'Repent' (metanoesate) and 'be baptized' (baptistheto) are imperatives commanding human action, with forgiveness of sins stated as the purpose or result. 'Be saved from this perverse generation' (sothete) likewise treats salvation as something the audience participates in through their own decision. The crowd's question 'What are we to do?' presupposes that there is something they can and must do -- and Peter answers with specific human actions. Verse 39's 'as many as the Lord our God will call to Himself' introduces divine initiative as the framework within which the offer operates, but the prompt's rule applies: God calling does not automatically imply God unilaterally determining, and the neutral reading states that 'the human response (repentance, baptism, calling on the Lord's name) is real and necessary.' The divine calling extends the promise's scope ('you, your children, all who are far away') rather than rendering human response irrelevant.",
+      "key_phrases": ["Repent, and each of you be baptized in the name of Jesus Christ for the forgiveness of your sins", "you will receive the gift of the Holy Spirit", "as many as the Lord our God will call to Himself", "Be saved from this perverse generation", "Brothers, what are we to do?"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:41-47",
+      "section_title": "The Formation of the Community",
+      "category": "LEANS_DETERMINISTIC",
+      "conventional_use": "not_in_debate",
+      "summary": "Three thousand who received Peter's word are baptized and added to the community, which devotes itself to apostolic teaching, fellowship, breaking of bread, and prayer, with the Lord adding daily those who are being saved.",
+      "relevance": "The closing statement (v.47b) explicitly names 'the Lord' (ho kyrios) as the active agent who 'was adding to their number day by day those who were being saved,' presenting God as the one who determines the composition of the saved community. The neutral reading emphasizes this: 'The community does not recruit or campaign; the Lord adds. Growth is God's work, not the community's achievement.' However, the deterministic lean is tempered by v.41, which notes that those added had first 'received his word' -- a human act of acceptance -- and were then baptized. The Lord's adding may describe God's sovereign orchestration of growth among those who respond, rather than unilateral determination apart from human response. The present passive participle 'those who were being saved' (tous sozomenous) describes an ongoing process connected back to the response pattern established in vv.37-41.",
+      "key_phrases": ["the Lord was adding to their number day by day those who were being saved", "those who had received his word were baptized"],
+      "confidence": "medium"
+    }
+  ]
+}

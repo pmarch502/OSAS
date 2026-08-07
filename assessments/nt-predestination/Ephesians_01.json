@@ -1,0 +1,54 @@
+{
+  "book": "Ephesians",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "The greeting identifies the sender as an apostle by God's will and addresses the recipients as 'saints' and 'faithful in Christ Jesus,' conveying grace and peace from God the Father and the Lord Jesus Christ."
+    },
+    {
+      "reference": "1:3-6",
+      "section_title": "The Berakah Opens -- Election and Adoption",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_determinism",
+      "summary": "The berakah praises God for choosing 'us' in Christ before the foundation of the world to be holy and blameless, predestining 'us' for adoption as sons through Jesus Christ, to the praise of the glory of his grace.",
+      "relevance": "This passage is conventionally cited by the Calvinist/predestinarian side to prove God's unconditional election of individuals to salvation. The neutral reading shows that the verb exelexato ('he chose') in LXX usage consistently describes God's corporate election of Israel for a purpose -- to be holy, to serve, to bear witness -- not the selection of isolated individuals to an abstract 'salvation.' The 'us' of verses 3-6 is identified by the chapter's own pronoun structure as Jewish believers who stand in continuity with Israel's election, distinguished from the 'you also' of verse 13. The predestination is to adoption -- a status that was always Israel's privilege (Romans 9:4) -- and to holiness and blamelessness, which the neutral reading calls 'election to character and vocation, not merely election to status.'",
+      "key_phrases": ["he chose us in him before the foundation of the world", "that we should be holy and blameless before him", "he predestined us for adoption as sons", "according to the purpose of his will", "in love"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:7-12",
+      "section_title": "Redemption, the Mystery, and the First to Hope",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_determinism",
+      "summary": "The section describes redemption through Christ's blood, the revelation of the mystery of God's will to unite all things under Christ's headship, and the corporate inheritance of those 'who were the first to hope in Christ,' all grounded in God's purposeful will.",
+      "relevance": "Verse 11 ('having been predestined according to the purpose of him who works all things according to the counsel of his will') is conventionally cited by the Calvinist side as proof that God unilaterally determines individual salvation outcomes. The neutral reading identifies the 'we' who were predestined as 'we who were the first to hope in Christ' (v. 12) -- Jewish believers whose prior hope in the Messiah preceded the Gentile recipients' faith. The predestination is corporate (a people, not isolated individuals) and purposive (to be 'to the praise of his glory'). The mystery revealed in verses 9-10 is defined by the letter itself (3:3-6) as the inclusion of Gentiles as co-heirs, co-members, and co-partakers in Christ -- not individual predestination to salvation. The neutral reading states that proorizo describes 'purposive planning -- God defined the destination in advance' rather than 'fatalistic determinism.'",
+      "key_phrases": ["we have obtained an inheritance", "having been predestined according to the purpose of him who works all things according to the counsel of his will", "we who were the first to hope in Christ", "to unite all things in him", "the mystery of his will", "making known to us the mystery"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:13-14",
+      "section_title": "The Gentile Inclusion and the Spirit's Seal",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "cited_for_determinism",
+      "summary": "The Gentile recipients are told that they were included in Christ when they heard the word of truth and believed, and were then sealed with the promised Holy Spirit as a guarantee of their inheritance.",
+      "relevance": "Though part of the Ephesians 1:3-14 block conventionally cited for determinism, these verses describe the mechanism of Gentile inclusion through two genuine human responses: hearing (akousantes) and believing (pisteusantes). The neutral reading notes the sequence -- 'the hearing came first; the believing followed' -- and connects it to Romans 10:14-17 where faith comes from hearing. The Gentiles are not described as predetermined to hear and believe; rather, their hearing and believing are presented as the means by which they enter the already-existing story. The emphatic 'you also' (kai hymeis) presupposes that their inclusion is an extension of a prior story, but human response is neither excluded nor rendered irrelevant -- it is the stated mechanism of incorporation.",
+      "key_phrases": ["in him you also", "when you heard the word of truth", "the gospel of your salvation", "and believed in him", "were sealed with the promised Holy Spirit", "the guarantee of our inheritance"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:15-19",
+      "section_title": "The Prayer for Understanding",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul prays that the recipients would receive a spirit of wisdom and revelation to understand the hope of God's calling, the riches of his glorious inheritance in the saints, and the surpassing greatness of his power toward those who believe."
+    },
+    {
+      "reference": "1:20-23",
+      "section_title": "Christ's Exaltation and the Assembly as His Body",
+      "category": "NOT_APPLICABLE",
+      "summary": "God demonstrated his power by raising Christ from the dead, seating him far above all rule and authority, putting all things under his feet, and giving him as head over all things to the church, which is his body and the fullness of him who fills all in all."
+    }
+  ]
+}

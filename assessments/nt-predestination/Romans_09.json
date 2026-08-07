@@ -1,0 +1,72 @@
+{
+  "book": "Romans",
+  "chapter": 9,
+  "sections": [
+    {
+      "reference": "9:1-5",
+      "section_title": "Paul's Grief and Israel's Privileges",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul expresses intense personal grief over Israel's rejection of the Messiah and enumerates Israel's covenant privileges (adoption, glory, covenants, law, worship, promises, patriarchs, and the Messiah himself), raising the implied question of whether God's promises have failed."
+    },
+    {
+      "reference": "9:6-9",
+      "section_title": "The Word Has Not Failed -- Children of Promise, Not Children of Flesh",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_determinism",
+      "summary": "The neutral reading finds that Paul's thesis -- 'not all who are descended from Israel belong to Israel' -- establishes that God's covenant promise has always operated through selection and calling rather than automatic physical inheritance, demonstrated by the Isaac-over-Ishmael precedent.",
+      "relevance": "This passage is conventionally cited as part of the Romans 9 argument for God's unconditional election of individuals to salvation. The neutral reading reveals it is about the basis of corporate covenant membership: 'children of the promise' versus 'children of the flesh' designates which lineage carries the covenant forward, not which individuals are predestined to eternal salvation. The distinction is between physical descent and divine promise as the criterion for belonging to the covenant people. Paul's point is that God's word has not failed because it never promised automatic inclusion of every physical descendant -- a corporate and covenantal argument, not a soteriological verdict on individuals.",
+      "key_phrases": ["not all who are descended from Israel belong to Israel", "Through Isaac shall your offspring be named", "it is not the children of the flesh who are the children of God, but the children of the promise are counted as offspring"],
+      "confidence": "high"
+    },
+    {
+      "reference": "9:10-13",
+      "section_title": "Jacob and Esau -- Election Before Birth, Before Works",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_determinism",
+      "summary": "The neutral reading finds that the Jacob-and-Esau example demonstrates God's sovereign right to determine which corporate line carries the covenant promise, with both the Genesis oracle ('two nations are in your womb') and the Malachi quotation ('Jacob I loved, Esau I hated') referring to nations and their historical fates rather than to the individual eternal destinies of two persons.",
+      "relevance": "This is one of the most frequently cited proof texts for unconditional individual election: God chose Jacob and rejected Esau before birth and before works, proving (it is argued) that God predestines individuals to salvation apart from anything they do. The neutral reading shows the passage is about something else entirely. The Genesis 25:23 oracle explicitly concerns 'two nations' and 'two peoples,' and its fulfillment was the historical subjugation of Edom by David. The Malachi 1:2-3 quotation is addressed to post-exilic Israel and demonstrated by national events -- Edom's territory devastated, its heritage given to jackals. The Semitic idiom 'loved/hated' means 'chose/did not choose' (as with Leah in Genesis 29:31). Paul's argument is about the principle by which God constitutes his covenant people (calling, not descent), not about the individual eternal fate of the person Esau.",
+      "key_phrases": ["though they were not yet born and had done nothing either good or bad", "in order that God's purpose of election might continue to stand, not because of works but because of him who calls", "The older will serve the younger", "Jacob I loved, but Esau I hated", "Two nations are in your womb"],
+      "confidence": "high"
+    },
+    {
+      "reference": "9:14-18",
+      "section_title": "Is God Unjust? The Freedom of Mercy",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_determinism",
+      "summary": "The neutral reading finds that Paul defends God's justice by citing two historical examples: God's sovereign mercy toward Israel after the golden calf (Exodus 33:19) and God's sovereign use of Pharaoh to display divine power (Exodus 9:16), establishing that mercy originates in God's initiative rather than human effort, while hardening confirms a trajectory the person has already chosen.",
+      "relevance": "This passage is conventionally cited to prove that God unilaterally determines who receives mercy and who is hardened, without reference to human response. The neutral reading reveals critical context the conventional use omits. The Exodus 33:19 quotation was spoken when God chose to show mercy to idolaters who deserved destruction after the golden calf -- God's freedom to be more merciful than justice demands, not a threat of arbitrary selection. The Pharaoh hardening, per the neutral reading, 'confirmed and employed the direction Pharaoh had already chosen,' with the Exodus narrative showing Pharaoh hardening his own heart first before God is said to harden it. The neutral reading states that 9:16 addresses the source of mercy ('Mercy is God's initiative, not the human being's achievement') but qualifies: 'This verse does not say that human willing and running are irrelevant to the life of faith.' The prompt rule 'Do not conflate God initiates with God unilaterally determines' applies directly: the passage shows God initiates mercy, but does not exclude human response.",
+      "key_phrases": ["I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion", "it depends not on human will or exertion, but on God, who has mercy", "For this very purpose I have raised you up, that I might show my power in you", "he has mercy on whomever he wills, and he hardens whomever he wills"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "9:19-23",
+      "section_title": "The Potter and the Clay",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_determinism",
+      "summary": "The neutral reading finds that the potter-and-clay metaphor, drawn from Isaiah 29, 45 and Jeremiah 18, asserts God's sovereign right over the clay -- a right that in its Jeremiah 18 source context includes the freedom to reshape the marred vessel and is explicitly conditional on the nation's response -- while the grammar of 'vessels of wrath' (passive, agent unspecified) and 'vessels of mercy' (active, God as agent) creates a deliberate asymmetry.",
+      "relevance": "This passage is conventionally cited to prove God arbitrarily fashions some individuals for salvation and others for damnation. The neutral reading reveals several features the conventional use ignores. First, Jeremiah 18:7-10 (which Paul's audience would know) explicitly states God's freedom to relent and reshape based on the nation's response -- the potter passage is about conditionality, not fixed fate. Second, the 'vessels of wrath' are described with a passive participle (katertismena, 'fitted for destruction') without naming the agent, while the 'vessels of mercy' are described with an active verb (proetoimasen, 'God prepared beforehand for glory') -- Paul's grammar avoids directly attributing preparation for destruction to God. Third, God's 'much patience' (makrothymia) toward vessels of wrath echoes 2:4, where God's patience explicitly aims at repentance. Fourth, 2 Timothy 2:20-21 uses the same vessel metaphor with the explicit possibility of change from dishonorable to honorable.",
+      "key_phrases": ["Has the potter no right over the clay", "to make out of the same lump one vessel for honorable use and another for dishonorable use", "endured with much patience vessels of wrath prepared for destruction", "vessels of mercy, which he has prepared beforehand for glory"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "9:24-29",
+      "section_title": "The Calling -- Jews and Gentiles, the Remnant",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_determinism",
+      "summary": "The neutral reading finds that Paul identifies the 'vessels of mercy' as those God has called from both Jews and Gentiles, supports Gentile inclusion through Hosea's prophecy of 'not my people' becoming 'my people,' and supports the preservation of only a remnant of Israel through Isaiah's remnant theology -- all demonstrating God's sovereign freedom to reconstitute his people across ethnic boundaries.",
+      "relevance": "The remnant concept and the language of divine calling are conventionally cited as evidence for individual predestination (cf. Romans 11:5-7 on the conventional proof text list). The neutral reading reveals that the calling here is corporate -- God calls a community from two sources (Jews and Gentiles), not individuals to predetermined slots. The Hosea quotation is about the corporate reconstitution of God's people: those who were 'not my people' (Gentiles as a group) are called 'my people.' The Isaiah remnant theology concerns the preservation of a national core of Israel, not the individual predestination of Israelites. The neutral reading frames both the Gentile inclusion and the remnant preservation as expressions of God's sovereign right to define his covenant people through calling rather than ethnic descent.",
+      "key_phrases": ["whom he has called, not from the Jews only but also from the Gentiles", "Those who were not my people I will call my people", "though the number of the sons of Israel be as the sand of the sea, only a remnant of them will be saved", "If the Lord of hosts had not left us offspring, we would have been like Sodom"],
+      "confidence": "high"
+    },
+    {
+      "reference": "9:30-33",
+      "section_title": "Israel's Stumbling and the Stone",
+      "category": "STRONG_LIBERTARIAN",
+      "conventional_use": "cited_by_both",
+      "summary": "The neutral reading finds that Paul identifies the reason for Israel's failure and the Gentiles' success: Gentiles attained righteousness by faith despite not pursuing it, while Israel failed because they pursued righteousness by works rather than by faith, stumbling over the stone (Christ) that is a sure foundation for those who believe and a cause of falling for those who do not.",
+      "relevance": "The neutral reading presents human response -- faith versus works-pursuit -- as the direct and explicit reason for the divergent outcomes between Gentiles and Israel. Paul diagnoses Israel's failure as a choice of method: 'not from faith but as though from works.' The neutral reading states: 'The argument of 9:6-29 was not about God arbitrarily selecting and rejecting individuals without reference to their response. It was about God's freedom to define the terms of covenant membership -- and those terms have always been faith, not ethnic descent or works-performance.' The stone laid in Zion functions differently based entirely on the person's response: 'to faith, the stone is a sure foundation; to unbelief, the stone is a cause of stumbling and falling.' The promise 'whoever believes in him will not be put to shame' is universal and conditioned on human response without ethnic qualification. The neutral reading concludes that 'the difference between the justified and the stumbling is not ethnicity, not descent, not works, but faith.'",
+      "key_phrases": ["Gentiles who did not pursue righteousness have attained it, that is, a righteousness that is by faith", "they did not pursue it by faith, but as if it were based on works", "They have stumbled over the stumbling stone", "whoever believes in him will not be put to shame"],
+      "confidence": "high"
+    }
+  ]
+}
