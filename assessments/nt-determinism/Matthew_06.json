@@ -1,0 +1,58 @@
+{
+    "book": "Matthew",
+    "chapter": 6,
+    "sections": [
+        {
+            "reference": "6:1",
+            "section_title": "The Thesis Statement on Practiced Righteousness",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus warns against practicing righteousness before people for the purpose of being seen, establishing that the orientation of religious acts — toward human approval or toward the Father — determines whether one receives reward from God."
+        },
+        {
+            "reference": "6:2-18",
+            "section_title": "Three Parallel Examples: The Hidden-Versus-Public Pattern",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author presents three religious practices — almsgiving, prayer, and fasting — in a parallel structure showing that acts performed for human recognition have already received their reward, while acts done in secret receive the Father's reward, with special emphasis on the forgiveness conditional in vv. 14-15.",
+            "relevance": "The forgiveness conditional in vv. 14-15 directly ties a human choice to a divine response regarding forgiveness: 'if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.' The neutral reading notes that this conditional is 'stark and binary' with 'no third option,' and that the author singles it out as the only petition from the model prayer requiring elaboration, signaling its centrality. This presents human agency (the choice to forgive or withhold forgiveness) as genuinely determining whether God forgives — a salvation-relevant outcome. The broader section also assumes human agency throughout: people choose how to give, pray, and fast, and these choices determine their standing before God.",
+            "key_phrases": [
+                "if you forgive others their trespasses, your heavenly Father will also forgive you",
+                "if you do not forgive others their trespasses, neither will your Father forgive your trespasses",
+                "they have received their reward",
+                "your Father who sees in secret will reward you"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "6:19-24",
+            "section_title": "Competing Treasuries and the Question of Orientation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author presents three interconnected sayings — two treasuries, the eye as the body's lamp, and two masters — establishing that life orientation is a forced binary choice between God and mammon, with no synthesis or compromise possible.",
+            "relevance": "The entire section assumes human beings are genuine agents who must choose their orientation. 'Lay up for yourselves treasures in heaven' is a command directed at people capable of choosing where to invest. 'No one can serve two masters' presents a structural impossibility that forces a choice — and the human is the one making it. The neutral reading notes the author 'does not allow a compromise position' and that this binary framing is 'consistent with the author's wider pattern of total sorting.' While the passage addresses life orientation rather than salvation outcomes directly, the choice between serving God and serving mammon frames the human as a genuine agent whose decision determines whether they walk in light or darkness, and whether their heart belongs to God or to a rival master.",
+            "key_phrases": [
+                "lay up for yourselves treasures in heaven",
+                "where your treasure is, there your heart will be also",
+                "if your eye is healthy, your whole body will be full of light",
+                "No one can serve two masters",
+                "You cannot serve God and mammon"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:25-34",
+            "section_title": "The Argument Against Anxiety",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author argues against anxiety about material provision on the grounds that the heavenly Father knows and provides, culminating in the command to 'seek first the kingdom of God and his righteousness' with the promise that material needs will be added.",
+            "relevance": "The climactic command 'seek first the kingdom of God and his righteousness, and all these things will be added to you' (v. 33) presents the human as a genuine agent who must actively orient toward God's kingdom. The imperative form assumes the capacity to seek or not seek, and the consequence (provision being added) is conditioned on the seeking. The term 'oligopistoi' (little-faiths) in v. 30 describes faith as a real but variable human response — the disciples are 'not unbelievers' but 'under-believers,' as the neutral reading puts it, implying faith is a genuine human capacity that can be greater or lesser. The passage presents a synergistic picture: humans are commanded to seek and trust; God responds by providing. While the primary subject is material anxiety rather than salvation outcomes, the framework assumes human agency in responding to God's reign.",
+            "key_phrases": [
+                "seek first the kingdom of God and his righteousness, and all these things will be added to you",
+                "O you of little faith",
+                "your heavenly Father knows that you need them all",
+                "Do not be anxious"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

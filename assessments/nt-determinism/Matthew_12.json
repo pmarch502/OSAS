@@ -1,0 +1,96 @@
+{
+    "book": "Matthew",
+    "chapter": 12,
+    "sections": [
+        {
+            "reference": "12:1-8",
+            "section_title": "Sabbath Controversy: Grain in the Fields",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this section concerns a legal dispute about whether plucking grain on the Sabbath constitutes forbidden labor, with Jesus arguing from Davidic precedent, the priestly exception, the presence of something greater than the Temple, and the Hosea 6:6 principle that God prioritizes mercy over sacrifice."
+        },
+        {
+            "reference": "12:9-14",
+            "section_title": "Sabbath Controversy: The Withered Hand",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this section concerns whether healing a non-life-threatening condition on the Sabbath is lawful, with Jesus arguing from lesser to greater (a sheep rescued from a pit to a man healed), culminating in the Pharisees' conspiracy to destroy him."
+        },
+        {
+            "reference": "12:15-21",
+            "section_title": "Withdrawal and the Servant of Isaiah",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this section explains Jesus's withdrawal from confrontation by identifying him as the Isaiah 42 Servant — God's chosen one who works quietly, does not break the bruised reed or quench the smoldering wick, and whose mission of justice extends to the Gentiles who will hope in his name."
+        },
+        {
+            "reference": "12:22-32",
+            "section_title": "The Beelzebul Accusation and Blasphemy Against the Spirit",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this section addresses the Pharisees' attribution of Jesus's exorcisms to Satan, Jesus's refutation of that charge, his declaration that the kingdom of God has arrived, and his warning that blasphemy against the Holy Spirit — the settled determination to call the Spirit's manifest work demonic — will not be forgiven.",
+            "relevance": "The passage directly presents human choices as determining salvation outcomes. 'Whoever is not with me is against me' (v. 30) demands a human decision with no neutrality possible. The blasphemy warning (vv. 31-32) identifies a specific human choice — willfully attributing the Spirit's manifest work to Satan — that produces an irrevocable salvation consequence (unforgiveness in this age and the age to come). The neutral reading explicitly states that the unforgiveness arises not from a limit on God's mercy but because 'forgiveness requires recognizing the source of mercy' and those who call the Spirit satanic 'have closed off the very faculty by which mercy is received.' The Pharisees are not presented as predetermined to reject; they are presented as responsible agents who have chosen to invert good and evil in the face of clear evidence, and who bear the consequences of that choice.",
+            "key_phrases": [
+                "Whoever is not with me is against me, and whoever does not gather with me scatters",
+                "the blasphemy against the Spirit will not be forgiven",
+                "whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come",
+                "the settled determination to call what is manifestly God's work the work of Satan",
+                "forgiveness requires recognizing the source of mercy",
+                "they have closed off the very faculty by which mercy is received"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "12:33-37",
+            "section_title": "The Tree and Its Fruit; Words and the Heart",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this section applies the tree-and-fruit principle to the Pharisees, arguing that their words expose their hearts, and declares that on the day of judgment people will be justified or condemned by their own words.",
+            "relevance": "The passage places justification and condemnation at the day of judgment squarely on human words and the hearts those words reveal. 'By your words you will be justified, and by your words you will be condemned' (v. 37) presents the salvation outcome as determined by what humans themselves produce. The framework assumes human responsibility — people are accountable for their speech because it reflects their fundamental orientation. However, the passage does not directly frame this as an answer to the determinism question; it is part of the argument against the Pharisees' attribution of God's work to Satan.",
+            "key_phrases": [
+                "by your words you will be justified, and by your words you will be condemned",
+                "out of the abundance of the heart the mouth speaks",
+                "on the day of judgment people will give account for every careless word they utter"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "12:38-42",
+            "section_title": "The Demand for a Sign and the Sign of Jonah",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this section presents Jesus's refusal to give a sign beyond the sign of Jonah (anticipating his death and resurrection), followed by comparisons in which Gentiles who had less evidence — the Ninevites who repented at Jonah's preaching and the Queen of the South who came to hear Solomon — will condemn this generation at the judgment.",
+            "relevance": "The passage presupposes genuine human agency in responding to God's initiative. The Ninevites repented at Jonah's preaching — a human response to a divine message — and this generation refuses to respond despite having something greater than Jonah before them. The condemnation at judgment rests on the contrast between those who chose to respond and those who chose not to. The argument is intelligible only if repentance is a genuine human possibility that this generation is culpably failing to exercise, not something withheld from them by divine decree.",
+            "key_phrases": [
+                "they repented at the preaching of Jonah, and behold, something greater than Jonah is here",
+                "she came from the ends of the earth to hear the wisdom of Solomon, and behold, something greater than Solomon is here",
+                "The men of Nineveh will rise up at the judgment with this generation and condemn it"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "12:43-45",
+            "section_title": "The Unclean Spirit's Return",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this parable warns that liberation from evil (the swept and ordered house) is incomplete and dangerous without positive filling, and applies the warning corporately to 'this evil generation' which has received the benefits of the kingdom's arrival but has not responded with repentance and faith.",
+            "relevance": "The parable assumes that human response to divine initiative is both necessary and possible. The generation has received exorcisms and healings (the house has been swept) but has failed to fill the emptied space with repentance and active allegiance to God. The catastrophic final state is presented as the consequence of this failure to respond, not as something God imposed. The warning is intelligible only if the generation could have responded but chose not to.",
+            "key_phrases": [
+                "it finds the house empty, swept, and put in order",
+                "the last state of that person becomes worse than the first",
+                "So also will it be with this evil generation"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "12:46-50",
+            "section_title": "The True Family of Jesus",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this section redefines Jesus's family: not biological kinship but doing the will of the Father in heaven determines who belongs to the innermost circle around Jesus.",
+            "relevance": "Belonging to Jesus's community — which carries salvation implications — is defined by a human action: doing the Father's will. The criterion is presented as universally accessible ('whoever does the will of my Father') and as a genuine human response, not as something determined in advance by God. The passage is inclusive (open to anyone who responds) and exclusive (excludes anyone who does not, regardless of credentials), placing the decisive factor on human obedience rather than divine pre-selection.",
+            "key_phrases": [
+                "whoever does the will of my Father in heaven is my brother and sister and mother",
+                "stretching out his hand toward his disciples"
+            ],
+            "confidence": "high"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "book": "Matthew",
+    "chapter": 9,
+    "sections": [
+        {
+            "reference": "9:1-8",
+            "section_title": "Authority Over Sin Demonstrated Through Healing",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage establishes that Jesus has authority on earth to forgive sins, demonstrated by healing a paralytic in response to the faith of those who brought him.",
+            "relevance": "Jesus forgives the paralytic's sins after seeing 'their faith' — the faith of the group who brought him. The passage presents human faith as the operative condition that precedes and occasions the divine act of forgiveness. The forgiveness is not presented as unilaterally determined by God apart from human response; it is enacted in direct response to observed trust.",
+            "key_phrases": ["when Jesus saw their faith", "your sins are forgiven", "the Son of Man has authority on earth to forgive sins"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "9:9-13",
+            "section_title": "The Calling of a Tax Collector and Table Fellowship with Sinners",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage defines Jesus's mission as directed toward sinners through the call of Matthew, table fellowship with tax collectors and sinners, and the physician metaphor.",
+            "relevance": "Three elements bear on the question. First, Jesus's call to Matthew ('Follow me') is presented as an invitation that Matthew responds to — 'he rose and followed him' — indicating genuine human agency in responding to a divine summons. Second, the physician metaphor categorizes sinners as 'sick,' implying a condition that can be addressed rather than a status permanently determined. Third, the mission statement 'I came not to call the righteous, but sinners' uses 'call' (kalesai) as invitation language, presupposing that the called can respond.",
+            "key_phrases": ["Follow me", "he rose and followed him", "those who are well have no need of a physician, but those who are sick", "I came not to call the righteous, but sinners", "I desire mercy and not sacrifice"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "9:14-17",
+            "section_title": "The Question About Fasting and Three Analogies",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage addresses why Jesus's community does not conform to existing patterns of piety, using the analogies of the bridegroom, unshrunk cloth, and new wine to argue that the present moment is qualitatively different from what came before."
+        },
+        {
+            "reference": "9:18-26",
+            "section_title": "Interwoven Healings: A Ruler's Daughter and a Woman with Chronic Bleeding",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage presents two interwoven healings in which faith expressed through physical action — kneeling and touching — is the operative condition for receiving restoration from Jesus.",
+            "relevance": "Jesus tells the hemorrhaging woman 'your faith has saved you' (he pistis sou sesoken se), attributing her restoration not to the physical contact with his garment but to her own faith. The verb sozo carries both 'save' and 'heal,' linking physical restoration to the broader concept of salvation. The woman's initiative — approaching, touching, trusting — is identified as the determining factor. The ruler likewise acts on faith that Jesus can reverse death. In both cases, human trust expressed in concrete action is what occasions the divine act.",
+            "key_phrases": ["your faith has saved you", "If I only touch his garment, I will be made well", "come and lay your hand on her, and she will live"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "9:27-31",
+            "section_title": "Two Blind Men: The Son of David and the Demand for Faith",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage shows Jesus requiring a verbal confession of faith from two blind men before healing them, with the outcome explicitly calibrated to the measure of their trust.",
+            "relevance": "Jesus asks the blind men directly, 'Do you believe that I am able to do this?' and heals them only after their affirmation: 'Yes, Lord.' He then declares 'According to your faith be it done to you,' making their faith the determining factor for receiving restoration. The neutral reading explicitly states that this phrase 'makes faith the determining factor' and that this is consistent with the pattern across chapters 8-9. The passage presents the outcome as contingent on genuine human response rather than unilaterally determined by God.",
+            "key_phrases": ["Do you believe that I am able to do this?", "Yes, Lord", "According to your faith be it done to you"],
+            "confidence": "high"
+        },
+        {
+            "reference": "9:32-34",
+            "section_title": "The Mute Demoniac and Two Competing Interpretations",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage presents the same evidence — an exorcism — producing two opposite interpretations: the crowds marvel that nothing like this has been seen in Israel, while the Pharisees attribute Jesus's power to the prince of demons."
+        },
+        {
+            "reference": "9:35-38",
+            "section_title": "Sheep Without a Shepherd and the Need for Laborers",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage presents Jesus's compassion for crowds who are harassed and helpless, compares them to sheep without a shepherd evoking Ezekiel 34, and transitions to the need for mission laborers who will be sent out by the Lord of the harvest."
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "book": "Matthew",
+    "chapter": 8,
+    "sections": [
+        {
+            "reference": "8:1-4",
+            "section_title": "Descent from the Mountain and the Man with a Skin Disease",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage demonstrates Jesus's authority over ritual impurity by healing a man with a skin disease and sending him to complete the Levitical purification process, establishing that Jesus enacts what the Torah could not."
+        },
+        {
+            "reference": "8:5-13",
+            "section_title": "The Centurion's Servant and the Question of Faith's Location",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage presents a Gentile centurion whose faith in Jesus's authority surpasses all of Israel, leading Jesus to declare that many will come from east and west to recline with the patriarchs while the sons of the kingdom are cast into outer darkness.",
+            "relevance": "The passage directly addresses who is included in and excluded from the kingdom, and it makes faith -- presented as a genuine human response arising from the centurion's own understanding of authority -- the determining factor. The neutral reading states explicitly that 'membership at the patriarchal table is determined not by ethnicity but by the kind of faith the centurion exhibits.' Jesus's declaration 'let it be done for you as you have believed' links the outcome directly to the centurion's belief. The sons of the kingdom who presumed inclusion by birth are excluded precisely because their response differs from the centurion's. Nothing in the neutral reading suggests the centurion's faith was unilaterally determined by God; it arose from his experience of how authority functions.",
+            "key_phrases": [
+                "with no one in Israel have I found such faith",
+                "many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven",
+                "the sons of the kingdom will be thrown into the outer darkness",
+                "let it be done for you as you have believed",
+                "the determining factor is not the label but the response"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "8:14-17",
+            "section_title": "Healing in Peter's House and the Fulfillment Citation",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage presents Jesus healing Peter's mother-in-law and many others, framed by a fulfillment citation from Isaiah 53:4 identifying Jesus as the Servant who takes up human infirmity and bears away disease."
+        },
+        {
+            "reference": "8:18-22",
+            "section_title": "The Cost of Following: Two Who Approach Jesus",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage presents two encounters -- a scribe who volunteers to follow and a disciple who asks to delay -- in which Jesus warns of the cost and demands immediate, unconditional commitment.",
+            "relevance": "The passage treats following Jesus as involving genuine human decision-making. The scribe 'must decide' whether his offer to follow includes homelessness and deprivation. The disciple must respond to Jesus's absolute command. The neutral reading notes that 'neither response -- eager volunteering or reasonable delay -- is simply accepted,' implying that the human agent's choice is real and consequential. However, the passage addresses discipleship costs rather than salvation outcomes directly, which limits its bearing on the narrow question.",
+            "key_phrases": [
+                "I will follow you wherever you go",
+                "Follow me, and leave the dead to bury their own dead",
+                "the scribe must decide whether his offer to follow wherever you go includes this"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:23-27",
+            "section_title": "Authority Over the Sea: The Storm on the Lake",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage demonstrates Jesus's divine authority over the natural world by calming a storm with a word, while diagnosing the disciples' fear as rooted in insufficient faith."
+        },
+        {
+            "reference": "8:28-34",
+            "section_title": "Authority Over the Demonic: The Two Demoniacs in the Country of the Gadarenes",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage presents Jesus casting demons out of two men in Gentile territory, after which the entire city asks Jesus to leave, preferring the familiar danger of the demoniacs to the unfamiliar power of this healer.",
+            "relevance": "The neutral reading explicitly contrasts the Gadarenes' rejection with the centurion's faith: both are Gentiles who witness Jesus's authority, yet they respond in opposite ways. The neutral reading states that 'proximity to the demonstration of authority does not automatically produce faith. It can produce the opposite: a desire for distance.' This undermines a deterministic reading by showing that the same encounter with divine power does not unilaterally determine human response. The city freely chooses to reject Jesus -- they 'prefer their pigs to his presence' -- demonstrating that human response is genuine and not predetermined by the encounter itself.",
+            "key_phrases": [
+                "they begged him to leave their region",
+                "they prefer their pigs to his presence",
+                "proximity to the demonstration of authority does not automatically produce faith",
+                "it can produce the opposite: a desire for distance"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

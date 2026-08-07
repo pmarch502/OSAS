@@ -1,0 +1,44 @@
+{
+    "book": "Matthew",
+    "chapter": 15,
+    "sections": [
+        {
+            "reference": "15:1-9",
+            "section_title": "Jerusalem's Challenge: Human Tradition Against Divine Commandment",
+            "category": "NOT_APPLICABLE",
+            "summary": "Pharisees from Jerusalem challenge Jesus about his disciples' failure to observe the tradition of the elders regarding hand-washing, and Jesus counterattacks by demonstrating that their traditions nullify God's actual commandments, citing the corban declaration and Isaiah 29:13."
+        },
+        {
+            "reference": "15:10-20",
+            "section_title": "What Defiles: External and Internal",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus teaches that defilement originates not from external contact but from the heart, listing evil thoughts, murder, adultery, theft, false witness, and slander as what truly defiles a person, and warns the disciples to disengage from the Pharisees as blind guides whose followers share their fate.",
+            "relevance": "The section bears on the determinism/agency question in two ways. First, the relocation of defilement to the heart — identified by the neutral reading as 'the seat of will, intention, and fundamental orientation' — implies that what defiles a person before God proceeds from the person's own interior deliberation. The list of sins from the heart (evil thoughts, murder, adultery, theft) tracks the Decalogue's moral commandments and treats these as genuine human choices for which the person bears responsibility. Second, the 'blind guides' saying (v. 14) implies that those who follow the Pharisees share their fate because they chose to follow them; Jesus tells the disciples to 'let them alone,' implying the disciples have genuine capacity to disengage. The saying about plants the Father 'has not planted' (v. 13) could carry deterministic overtones if read as God deciding in advance who belongs and who does not, but the neutral reading interprets this as a claim about the Pharisees' traditions and authority having no divine origin — their system, not individual people, is what God did not plant. The dominant thrust is that human hearts generate human actions, and those actions determine standing before God.",
+            "key_phrases": ["what comes out of the mouth proceeds from the heart, and this defiles a person", "out of the heart come evil thoughts, murder, adultery", "every plant which my heavenly Father has not planted will be rooted up", "if the blind lead the blind, both will fall into a pit", "let them alone"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "15:21-28",
+            "section_title": "The Canaanite Woman: Faith Beyond the Boundary",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "A Canaanite woman — the quintessential outsider in the Jewish purity system — persists in seeking Jesus despite silence, dismissal, and a harsh metaphor, and receives the highest commendation of faith in the document: 'Great is your faith.'",
+            "relevance": "The passage presents faith as a genuine human response that determines the outcome. The Canaanite woman's faith is entirely her own act — she chooses to approach, persists through silence and apparent rejection, accepts Jesus's framework rather than contesting it, and argues from the superabundance of his provision. Jesus's response 'be it done for you as you desire' (hos theleis) explicitly grants her own will as the measure of the gift. The neutral reading notes that 'the scope of the gift matches the scope of the faith,' establishing a principle in which human response is the operative variable. The structural contrast with the Pharisees is significant: the neutral reading states that the author's argument is 'enacted, not merely stated — the one whom the purity system excludes is the one who displays the faith that the purity system's guardians lack.' This pattern — in which a Gentile outsider exercises faith that Israel's leaders refuse to exercise — implies that both belief and unbelief are genuine human choices with real consequences, not predetermined outcomes. The passage addresses healing rather than eternal salvation directly, which prevents a STRONG categorization.",
+            "key_phrases": ["O woman, great is your faith", "be it done for you as you desire", "Yes, Lord, yet even the dogs eat the crumbs that fall from their masters' table", "he did not answer her a word", "I was not sent except to the lost sheep of the house of Israel"],
+            "confidence": "high"
+        },
+        {
+            "reference": "15:29-31",
+            "section_title": "Healings on the Mountain and the Glorification of Israel's God",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus heals crowds of lame, blind, mute, and crippled people on a mountain beside the Sea of Galilee, fulfilling Isaiah 35, and the crowd — likely including Gentiles — glorifies the God of Israel."
+        },
+        {
+            "reference": "15:32-39",
+            "section_title": "Feeding in the Wilderness: The Four Thousand",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus feeds four thousand men (plus women and children) with seven loaves and a few fish, producing seven baskets of leftovers, in a second wilderness feeding that parallels the five thousand but with symbolism suggesting provision extending beyond Israel to the nations."
+        }
+    ]
+}

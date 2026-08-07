@@ -1,0 +1,72 @@
+{
+    "book": "Matthew",
+    "chapter": 11,
+    "sections": [
+        {
+            "reference": "11:1",
+            "section_title": "Transitional Formula and the Question of Structure",
+            "category": "NOT_APPLICABLE",
+            "summary": "A formulaic transition noting Jesus continued teaching and preaching in the Galilean cities after completing his instructions to the twelve."
+        },
+        {
+            "reference": "11:2-6",
+            "section_title": "John's Question From Prison and Jesus's Answer",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "John asks from prison whether Jesus is the Coming One, and Jesus answers by pointing to the Isaianic signs his works fulfill, concluding with a beatitude for those not offended by him.",
+            "relevance": "The concluding beatitude — 'blessed is the one who is not offended by me' — frames the response to Jesus as a genuine human decision. The neutral reading notes that 'not being offended requires a willingness to let the evidence redefine one's expectations rather than insisting that reality conform to one's prior framework.' The scandal (skandalon) is presented as something people choose to stumble over or not; the beatitude implies that the audience has genuine capacity to accept or reject the evidence.",
+            "key_phrases": ["blessed is the one who is not offended by me", "Go and tell John what you hear and see"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "11:7-15",
+            "section_title": "Jesus's Testimony About John",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus identifies John as the greatest born of women and as the Elijah figure of Malachi's prophecy, marking the transition from the era of prophetic anticipation to the era of fulfillment.",
+            "relevance": "Two phrases imply genuine human agency in receiving truth. 'If you are willing to accept it' (ei thelete dexasthai) frames acceptance of John's identity as Elijah as a matter of human willingness — the conditional phrasing presupposes that the audience can choose to accept or refuse the identification and its implications. 'He who has ears to hear, let him hear' presents hearing as something that requires active reception and discernment, not something imposed. Both phrases treat human responsiveness as a real variable, not a predetermined outcome.",
+            "key_phrases": ["if you are willing to accept it", "He who has ears to hear, let him hear"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "11:16-19",
+            "section_title": "This Generation and the Children in the Marketplace",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus compares 'this generation' to children in the marketplace who refuse to respond to any approach — neither John's asceticism nor Jesus's table fellowship — and declares that wisdom is vindicated by her deeds.",
+            "relevance": "The parable diagnoses the problem as residing in those who refuse to respond, not in any deficiency of what is offered. The neutral reading states explicitly: 'The problem is not with what is being offered but with those who refuse to respond to anything offered.' This frames 'this generation's' unbelief as a chosen posture of refusal rather than a divinely imposed inability. The LXX background of 'this generation' (Deuteronomy 32, Psalm 95) places them in analogy with the wilderness generation who saw God's works and chose not to trust — a pattern of moral culpability, not predetermined unresponsiveness.",
+            "key_phrases": ["you did not dance", "you did not mourn", "wisdom is justified by her deeds"],
+            "confidence": "high"
+        },
+        {
+            "reference": "11:20-24",
+            "section_title": "Judgment on Unrepentant Cities",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus denounces Chorazin, Bethsaida, and Capernaum for failing to repent despite witnessing his mighty works, declaring that even Tyre, Sidon, and Sodom would have repented given the same evidence.",
+            "relevance": "This section directly addresses human response as the determining factor in judgment outcomes, and it does so as part of Jesus's own sustained argument. The cities are condemned 'because they did not repent' — repentance is presented as something they genuinely could have done and failed to do. The counterfactual comparisons with Tyre, Sidon, and Sodom are decisive: the neutral reading notes that 'the hypothetical presupposes that those cities could have and would have repented if given the same evidence — which means repentance is a genuine possibility that these Galilean cities failed to exercise.' The principle of proportional accountability — greater evidence creates greater responsibility — only makes sense if human response is genuine and not unilaterally determined. The neutral reading concludes: 'This is not a doctrine of arbitrary predestination but its opposite.'",
+            "key_phrases": ["because they did not repent", "if the mighty works done in you had been done in Tyre and Sidon, they would have repented long ago", "if the mighty works done in you had been done in Sodom, it would have remained until this day", "it will be more tolerable on the day of judgment"],
+            "confidence": "high"
+        },
+        {
+            "reference": "11:25-27",
+            "section_title": "The Father's Revelation to Infants",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jesus thanks the Father for hiding understanding from the wise and revealing it to infants, then declares that all things have been handed to him and that no one knows the Father except through the Son's deliberate choice to reveal him.",
+            "relevance": "The verbs 'hidden' (ekrypsas) and 'revealed' (apekalypsas) present God as the active agent in determining who understands and who does not. The Son's role as sole mediator of knowledge of the Father, with the verb boulomai ('to choose deliberately'), places the initiative for saving knowledge with the Son rather than with human seekers. This has genuine deterministic implications: access to the Father depends on the Son's purposeful decision to reveal, not on human effort or intelligence. However, the neutral reading significantly qualifies this by arguing that the hiding is 'not arbitrary but consequential' — the wise have already refused, and God's hiding confirms their settled condition rather than preventing them from seeing before they had opportunity. The deterministic language thus describes a pattern of divine response to prior human choices rather than unilateral predetermination, but the text's surface claims remain strongly weighted toward divine initiative.",
+            "key_phrases": ["you have hidden these things from the wise and understanding and revealed them to little children", "such was your gracious will", "no one knows the Father except the Son and anyone to whom the Son chooses to reveal him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "11:28-30",
+            "section_title": "The Invitation to the Burdened",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus issues an open invitation to all who are burdened to come to him, take his yoke, and find rest for their souls — echoing both the wisdom tradition's call and Jeremiah's invitation to walk the ancient path.",
+            "relevance": "This is a direct, universal invitation that presupposes genuine human capacity to respond. 'Come to me, all who labor and are heavy laden' addresses every burdened person without restriction or precondition, and the imperative 'come' (deute) treats the audience as genuine agents capable of responding. The Jeremiah 6:16 background is decisive: the neutral reading notes that in Jeremiah's original context, 'the choice to walk in it or refuse it is genuine,' and Jeremiah reports that the people refused — meaning the invitation was real and the refusal was a genuine human choice. That this open invitation immediately follows the deterministic-sounding language of vv. 25-27 is itself significant: the author moves from the Son's authority to reveal directly into an unrestricted summons, indicating that the Son's choice to reveal is exercised through open invitation rather than secret, selective predetermination. The passage is part of Jesus's own direct teaching and directly addresses the question of human response to God's offer.",
+            "key_phrases": ["Come to me, all who labor and are heavy laden", "I will give you rest", "Take my yoke upon you", "you will find rest for your souls", "my yoke is easy and my burden is light"],
+            "confidence": "high"
+        }
+    ]
+}

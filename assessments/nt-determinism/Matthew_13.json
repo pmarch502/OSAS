@@ -1,0 +1,96 @@
+{
+    "book": "Matthew",
+    "chapter": 13,
+    "sections": [
+        {
+            "reference": "13:1-3a",
+            "section_title": "The Setting: Teaching by the Sea",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading describes the physical setting of Jesus leaving the house and teaching from a boat by the sea, with the temporal marker linking the parables discourse directly to the rejection events of chapter 12."
+        },
+        {
+            "reference": "13:3b-9",
+            "section_title": "The Parable of the Sower",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents a parable in which the same seed falls on four types of ground with different outcomes, emphasizing that the soil's condition determines the result, followed by the call 'he who has ears, let him hear.'",
+            "relevance": "The parable's structure makes the soil (hearer) the sole variable while the seed (word) and sower remain constant, implying that the hearer's condition determines the outcome. The closing formula 'he who has ears, let him hear' presupposes active engagement from the hearer and divides the audience into those who will engage and those who will not, locating the decisive factor in the hearer rather than in an external determining agent.",
+            "key_phrases": ["He who has ears, let him hear", "other seeds fell on good soil and produced grain", "some seeds fell along the path"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:10-17",
+            "section_title": "Why Parables: The Isaiah Citation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "The neutral reading analyzes Jesus's explanation of why he speaks in parables, including the divine passive 'it has been given to you' and the extended citation of Isaiah 6:9-10, finding that the withholding of understanding is responsive to demonstrated receptivity rather than arbitrary divine selection.",
+            "relevance": "The 'it has been given to you... but to them it has not been given' language is conventionally cited for determinism, but the neutral reading finds the 'having' and 'not having' refer to responsiveness already demonstrated: the disciples followed and asked questions, while the Pharisees responded with rejection. The neutral reading states explicitly that 'it is not that God arbitrarily withholds from some and gives to others; it is that the capacity to receive determines what one receives.' The Isaiah citation uses an aorist active verb for 'closed' (ekammysan) -- the people themselves shut their own eyes. The neutral reading notes that healing is available ('God would heal them') but the people 'close their eyes precisely to avoid the seeing that would lead to turning that would lead to healing.' Jesus uses 'because' (hoti), not 'in order that' (hina), indicating the parables respond to an existing condition rather than creating one.",
+            "key_phrases": ["To you it has been given to know the secrets of the kingdom of heaven, but to them it has not been given", "seeing they do not see, and hearing they do not hear", "their eyes they have closed", "lest they should see... and turn, and I would heal them", "to the one who has, more will be given"],
+            "confidence": "high"
+        },
+        {
+            "reference": "13:18-23",
+            "section_title": "Explanation of the Sower",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus's decoding of the four soils as four types of human response to 'the word of the kingdom,' with the hearer's condition and response as the sole variable determining whether the word bears fruit.",
+            "relevance": "The explanation directly makes the hearer the determining factor in the outcome of the kingdom word. The path person fails at the level of understanding. The rocky ground person 'receives it with joy' but 'has no root in himself' and 'falls away' under persecution -- the problem is located within the person ('no root in himself'). The thorny ground person hears but is overwhelmed by 'the cares of the world' and 'the deceitfulness of riches' -- human priorities choke the word. The good soil person 'hears the word and understands it' and 'bears fruit.' The neutral reading concludes that 'the parable as a whole places the emphasis not on the sower or the seed (both are constants) but on the soil -- the condition of the hearer. The same word goes out to all four types. The variable is reception.' This is part of Jesus's direct teaching (and the author's core argument), not an aside or illustration, and it presents human reception as the factor that determines whether the kingdom word bears salvific fruit.",
+            "key_phrases": ["the one who hears the word and understands it", "has no root in himself", "immediately he falls away", "the cares of the world and the deceitfulness of riches choke the word", "bears fruit and yields"],
+            "confidence": "high"
+        },
+        {
+            "reference": "13:24-30",
+            "section_title": "The Parable of the Wheat and the Weeds",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents a parable about the coexistence of wheat and weeds (darnel) in a field, with the master forbidding premature separation and reserving the sorting for the harvest, addressing the question of why the kingdom's presence does not result in immediate purification."
+        },
+        {
+            "reference": "13:31-33",
+            "section_title": "The Mustard Seed and the Leaven",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents two parables describing the kingdom's mode of operation as beginning small, working invisibly, and producing results out of all proportion to its beginnings, countering the expectation that the kingdom would arrive with overwhelming visible force."
+        },
+        {
+            "reference": "13:34-35",
+            "section_title": "The Author's Comment: Fulfillment of Psalm 78",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the author's editorial note that Jesus spoke only in parables to the crowds, fulfilling Psalm 78:2 about uttering things hidden since the foundation of the world, placing Jesus's parabolic teaching within the prophetic tradition."
+        },
+        {
+            "reference": "13:36-43",
+            "section_title": "Explanation of the Wheat and the Weeds",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus's decoding of the wheat and weeds parable, identifying the Son of Man as the sower of good seed (sons of the kingdom), the devil as the sower of weeds (sons of the evil one), the field as the world, and the harvest as the end of the age when angels will remove 'all causes of sin and all law-breakers.'",
+            "relevance": "The eschatological judgment separates people based on behavioral categories -- 'causes of sin' (ta skandala) and 'law-breakers' (tous poiountas ten anomian) -- implying that what people do determines their fate. The neutral reading notes the connection to 7:23, where 'workers of lawlessness' includes people who used Jesus's name and performed impressive works, showing that even apparent insiders may prove to be weeds based on the genuineness of their response. The 'sons of' language is identified as a Semitic idiom for character and belonging rather than predetermined assignment. However, the sowing metaphor (the Son of Man sows good seed, the enemy sows weeds) introduces some ambiguity by attributing people's identity to their origin.",
+            "key_phrases": ["all causes of sin and all law-breakers", "the sons of the kingdom", "the sons of the evil one", "the righteous will shine like the sun in the kingdom of their Father"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:44-50",
+            "section_title": "Three Short Parables: Treasure, Pearl, Dragnet",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents three parables: the hidden treasure and the pearl of great price, which describe total-commitment responses to discovering the kingdom's supreme value, and the dragnet, which describes the comprehensive gathering and eschatological sorting of all who are caught.",
+            "relevance": "The treasure and pearl parables present human discovery and response as central to the kingdom experience. The man finds treasure and 'in his joy' sells everything; the merchant recognizes the pearl's value and sells everything. Both parables depict genuine human agency -- recognizing the kingdom's value, choosing to act, willingly surrendering all else. The neutral reading emphasizes that the response is 'total but willing,' driven by joy rather than compulsion. The dragnet parable warns against 'complacent inclusion (assuming that being in the net guarantees being kept),' implying that one's final standing is not secured merely by initial inclusion. Together, the parables present the kingdom as demanding a genuine human response of recognition and commitment.",
+            "key_phrases": ["in his joy he goes and sells all that he has", "on finding one pearl of great value, went and sold all that he has", "sorted the good into containers but threw away the bad"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:51-52",
+            "section_title": "The Scribe Trained for the Kingdom",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus's question about whether the disciples have understood the parables and his description of the scribe trained for the kingdom as one who brings out both new and old from his treasure, describing the hermeneutical task of integrating Israel's scriptures with the kingdom's new realities."
+        },
+        {
+            "reference": "13:53-58",
+            "section_title": "Rejection at Nazareth",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the Nazareth townspeople's rejection of Jesus despite their astonishment at his wisdom and mighty works, with their familiarity with his ordinary background becoming the obstacle to recognizing his significance, and Jesus's mighty works being limited 'because of their unbelief.'",
+            "relevance": "The text explicitly states that Jesus 'did not do many mighty works there, because of their unbelief (dia ten apistian auton),' presenting human unbelief as the factor that limits the kingdom's operation. The neutral reading finds that 'the mighty works are not magical performances that operate regardless of context; they are signs of the kingdom that require a minimal openness to be received.' The townspeople's offense (eskandalizonto) is their own choice -- they stumble over Jesus's ordinariness because they refuse to recategorize him beyond 'the carpenter's son.' The neutral reading explicitly connects this to the sower parable: 'The chapter that began with the parable of the sower -- some seed falls on the path and produces nothing -- ends with a real-life instance of that very dynamic.'",
+            "key_phrases": ["he did not do many mighty works there, because of their unbelief", "they took offense at him", "Where did this man get this wisdom and these mighty works"],
+            "confidence": "high"
+        }
+    ]
+}

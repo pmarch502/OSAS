@@ -1,0 +1,48 @@
+{
+    "book": "Matthew",
+    "chapter": 14,
+    "sections": [
+        {
+            "reference": "14:1-12",
+            "section_title": "Herod Hears About Jesus and Recalls John's Death",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Herod Antipas's guilty identification of Jesus as the resurrected John the Baptist, followed by a flashback to John's execution at the instigation of Herodias, portraying Herod as a morally paralyzed ruler who recognizes evil but lacks the will to resist social and political pressure."
+        },
+        {
+            "reference": "14:13-21",
+            "section_title": "The Feeding of the Five Thousand",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus's miraculous feeding of thousands in the wilderness as an act of compassion following John's death, establishing Jesus as greater than Moses and Elisha through the pattern of divine provision mediated through the disciples."
+        },
+        {
+            "reference": "14:22-33",
+            "section_title": "Walking on the Sea",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents a theophany on the sea in which Jesus walks on the water, identifies himself with divine language (ego eimi), and Peter attempts to walk on the water but sinks when his attention shifts from Jesus to the storm.",
+            "relevance": "The neutral reading explicitly describes Peter's walk on water as 'a compressed parable of discipleship' with the pattern 'faith, distraction, fear, failure, prayer, rescue, rebuke.' Peter's faith is treated as a genuine human response that sustains him on the water, and his doubt is treated as a genuine human shift that causes him to sink. Jesus's rebuke 'why did you doubt?' presupposes that Peter had the capacity not to doubt -- the question is meaningless if Peter's doubt was determined. The cry 'Lord, save me!' uses salvation language (soson me) and is presented as an effective human act that elicits divine rescue. The diagnosis 'little faith' (oligopistia) implies faith exists on a spectrum that humans navigate, not a binary state imposed from outside.",
+            "key_phrases": [
+                "when he saw the wind, he was afraid, and beginning to sink",
+                "Lord, save me!",
+                "O you of little faith, why did you doubt?",
+                "faith, distraction, fear, failure, prayer, rescue, rebuke",
+                "believers whose faith is repeatedly tested and found insufficient, yet who are repeatedly rescued"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "14:34-36",
+            "section_title": "Healings at Gennesaret",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the people of Gennesaret recognizing Jesus and bringing their sick to touch the fringe of his garment, with all who touched it being completely healed, in explicit contrast with Nazareth's rejection in the preceding chapter.",
+            "relevance": "The neutral reading draws a direct contrast between Nazareth and Gennesaret: 'Recognition produces opposite results depending on what follows it -- offense or faith.' The same Jesus is recognized in both places, but human response determines the outcome. The healing verb diasozo (to save thoroughly) intensifies the salvation language, and the neutral reading notes 'the thoroughness of what Jesus does when faith is present' -- implying that faith is a genuine human condition that affects whether divine saving power operates. This parallels the chapter 13 context note that 'unbelief constrains the operation of divine power,' treating human belief or unbelief as a real factor rather than a predetermined state.",
+            "key_phrases": [
+                "Recognition produces opposite results depending on what follows it -- offense or faith",
+                "as many as touched it were made well",
+                "the thoroughness of what Jesus does when faith is present"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

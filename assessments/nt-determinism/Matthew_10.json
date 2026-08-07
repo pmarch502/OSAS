@@ -1,0 +1,76 @@
+{
+    "book": "Matthew",
+    "chapter": 10,
+    "sections": [
+        {
+            "reference": "10:1-4",
+            "section_title": "The Delegation of Authority and the Naming of the Twelve",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus summons the twelve disciples, gives them authority over unclean spirits and disease, and the author lists their names, noting Judas proleptically as the betrayer and the symbolic reconstitution of Israel through the number twelve."
+        },
+        {
+            "reference": "10:5-8",
+            "section_title": "The Mission Defined: Scope, Message, and Authority",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus restricts the mission to the lost sheep of the house of Israel, instructs the twelve to proclaim the kingdom of heaven and perform the same restorative acts he performed, and tells them to give freely as they received freely."
+        },
+        {
+            "reference": "10:9-15",
+            "section_title": "Instructions for Travel and Reception",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus instructs the twelve to travel without material provision, to find worthy (receptive) hosts, to bestow or withdraw peace based on the house's reception, and warns that towns rejecting the messengers will face judgment worse than Sodom and Gomorrah.",
+            "relevance": "The passage presents the response to God's messengers as a genuine human choice with eschatological consequences. Towns that reject the kingdom's agents face harsher judgment precisely because they had the opportunity to receive and refused. The neutral reading notes that 'greater light brings greater accountability,' a logic that presupposes genuine agency in the act of reception or rejection. The judgment is consequent upon the town's own response, not upon a prior divine determination of that response.",
+            "key_phrases": ["if the house is worthy", "if it is not worthy, let your peace return to you", "if anyone will not receive you or listen to your words", "it will be more bearable on the day of judgment for the land of Sodom and Gomorrah than for that town"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "10:16-23",
+            "section_title": "Sheep Among Wolves: The Warning of Persecution",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus warns the twelve that they will face persecution from Jewish courts, Roman authorities, and even family members, promises that the Spirit will speak through them under interrogation, and declares that the one who endures to the end will be saved.",
+            "relevance": "Verse 22 directly states the condition for salvation: 'the one who endures to the end will be saved.' The neutral reading explicitly notes that this 'makes salvation conditional on endurance' and that 'it is not a one-time event that occurs at the beginning of discipleship but an outcome that depends on faithfulness maintained through persecution to the end.' This is part of Jesus's own discourse instruction, not an illustration or aside. While the Spirit's provision of speech (v. 20) shows divine enablement, it does not remove the human responsibility to endure; it equips the disciple for a task the disciple must still choose to carry out. The text directly presents human perseverance as determining the salvation outcome.",
+            "key_phrases": ["the one who endures to the end will be saved", "the Spirit of your Father speaking through you", "you will be hated by all for my name's sake"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:24-25",
+            "section_title": "The Disciple and the Teacher: Shared Fate",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus establishes the principle that the disciple should expect the same treatment as the teacher, and since the master of the house has been called Beelzebul, his household members will face even worse accusations."
+        },
+        {
+            "reference": "10:26-31",
+            "section_title": "Three Commands Against Fear",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus issues three commands against fear: truth will be revealed so proclaim boldly, fear God who can destroy both soul and body in Gehenna rather than human persecutors, and trust in the Father's exhaustive knowledge and care as demonstrated by his attention to sparrows and the numbering of every hair."
+        },
+        {
+            "reference": "10:32-33",
+            "section_title": "Acknowledging and Denying: The Stakes of Public Confession",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus declares that whoever acknowledges him before men will be acknowledged before the Father, and whoever denies him before men will be denied before the Father, establishing an exact reciprocity between the disciple's public stance and Jesus's advocacy or disowning before God.",
+            "relevance": "The passage directly makes the disciple's standing before God conditional on the disciple's own public choice. The neutral reading states plainly: 'The disciple's public stance toward Jesus determines Jesus's stance toward the disciple before the Father.' The reciprocal structure leaves no room for a predetermined outcome independent of the disciple's action. The consequence for denial is stated 'without qualification or exception.' The neutral reading further connects this to v. 22, noting that 'salvation is not secured by an initial act of allegiance but depends on sustained, public faithfulness maintained through persecution.' This is Jesus's own direct argument about what determines a person's final status before God.",
+            "key_phrases": ["everyone who acknowledges me before men, I also will acknowledge before my Father", "whoever denies me before men, I also will deny before my Father"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:34-39",
+            "section_title": "Not Peace but a Sword: Household Division and the Cost of Allegiance",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus declares he has come to bring not peace but a sword of family division, states that anyone who loves family more than him or refuses to take up the cross is not worthy of him, and presents the paradox that whoever clings to life will lose it while whoever loses life for his sake will find it.",
+            "relevance": "The passage presents three conditional statements that make the disciple's worthiness and ultimate fate depend on genuine human choices. 'Whoever loves father or mother more than me is not worthy of me' (v. 37) and 'whoever does not take his cross and follow me is not worthy of me' (v. 38) both frame belonging to Jesus as contingent on the disciple's ordering of loyalties. Verse 39's paradox directly ties the outcome of one's life to the direction of one's allegiance: clinging to life by denying Jesus leads to losing it; releasing life for Jesus's sake leads to finding it. The neutral reading notes that this is 'specifically tied to the persecution context' — the disciple who preserves physical life by denying Jesus will lose the life that matters ultimately. These are not illustrations; they are Jesus's central argument about the cost that determines whether one belongs to him.",
+            "key_phrases": ["whoever loves father or mother more than me is not worthy of me", "whoever does not take his cross and follow me is not worthy of me", "whoever finds his life will lose it, and whoever loses his life for my sake will find it"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:40-42",
+            "section_title": "The Chain of Representation and the Promise of Reward",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus establishes a chain of representation (receiving the disciples is receiving Jesus is receiving the Father), promises that receiving a prophet or righteous person as such brings a corresponding reward, and assures that even giving a cup of cold water to one of his 'little ones' because of their identity as a disciple will certainly not go unrewarded."
+        }
+    ]
+}
