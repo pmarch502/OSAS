@@ -20056,7 +20056,7 @@ const DATA = [
         "reference": "5:38-42",
         "section_title": "Fifth Contrast: Retaliation",
         "category": "NOT_APPLICABLE",
-        "summary": "The neutral reading finds this passage replaces the principle of proportional retaliation with a pattern of active generosity that exceeds what is demanded -- turning the other cheek, giving the cloak, going the extra mile -- demonstrating what exceeding righteousness looks like in the face of hostility.",
+        "summary": "The neutral reading finds this passage replaces the principle of proportional retaliation with four acts that strip the powerful party of the specific mechanism by which they exercise control -- turning the other cheek forces equal-status engagement, stripping naked in court shames the creditor, the voluntary second mile puts the soldier at risk of violating regulations, and lending without calculating return empties patronage of its binding power -- demonstrating what exceeding righteousness looks like in the face of real powerlessness.",
         "book": "Matthew",
         "chapter": 5,
         "conventional_use": "",
