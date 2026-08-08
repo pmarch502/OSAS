@@ -1,0 +1,42 @@
+{
+  "book": "Revelation",
+  "chapter": 20,
+  "sections": [
+    {
+      "reference": "20:1-3",
+      "section_title": "The Binding of the Dragon",
+      "category": "LEANS_DETERMINISTIC",
+      "conventional_use": "not_in_debate",
+      "summary": "An angel from heaven seizes the dragon -- identified by his fourfold name: dragon, serpent of old, devil, Satan -- binds him for a thousand years, throws him into the abyss, and seals it shut so that he would not deceive the nations any longer, with the stipulation that he must (dei) be released for a short time afterward.",
+      "relevance": "God unilaterally controls whether the nations are subject to Satanic deception. The binding's stated purpose -- 'so that he would not deceive the nations any longer' -- implies that the nations' prior spiritual condition was at least partly the result of deception they could not independently overcome, and that God's sovereign decision to bind or release the deceiver directly affects the conditions under which nations can respond to him. The dei ('it is necessary') language governing the dragon's eventual release shows God controlling the entire sequence: the timing, duration, and scope of deception are all under divine determination. The passage does not address individual salvation directly, but it presents God as the one who determines when and whether the nations are exposed to the deception that leads them astray -- a factor with genuine implications for salvific outcomes.",
+      "key_phrases": ["so that he would not deceive the nations any longer", "after these things he must be released for a short time", "shut it and sealed it over him"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "20:4-6",
+      "section_title": "The First Resurrection and the Reign of the Faithful",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "Thrones appear and judgment is given to those who sit on them; the souls of those beheaded for the testimony of Jesus and those who refused to worship the beast or receive his mark come to life and reign with Christ for a thousand years -- named 'the first resurrection' -- with the pronouncement that participants are blessed, holy, exempt from the second death, and serve as priests and kings.",
+      "relevance": "The criteria for participation in the first resurrection are presented entirely in terms of human choices and actions: being beheaded 'because of their testimony of Jesus and because of the word of God,' refusing to worship the beast or his image, and refusing the mark on forehead and hand. These are the same acts of costly faithfulness that the document has consistently presented as genuine human decisions (12:11: 'they did not love their life even when faced with death'; 14:12: 'the perseverance of the saints who keep the commandments of God and their faith in Jesus'). The neutral reading emphasizes the inversion: 'The ones who were killed are the ones who reign. The ones who were excluded from the beast's economic system are the ones who serve as priests before God.' The enthroning, priesthood, and immunity from the second death all follow from the faithful's prior choices. If these choices were predetermined and inevitable, the entire structure of vindication -- where the martyrs' costly decisions are rewarded with resurrection and kingship -- would lose its moral logic.",
+      "key_phrases": ["those who had been beheaded because of their testimony of Jesus and because of the word of God", "those who had not worshiped the beast or his image, and had not received the mark", "blessed and holy is the one who has a part in the first resurrection", "over these the second death has no power"],
+      "confidence": "high"
+    },
+    {
+      "reference": "20:7-10",
+      "section_title": "The Release of Satan and the Final Defeat",
+      "category": "NOT_APPLICABLE",
+      "summary": "After the thousand years, Satan is released from prison, immediately resumes his characteristic work of deception, gathers the nations from the four corners of the earth (called Gog and Magog) for a final assault on the camp of the saints and the beloved city; fire comes down from heaven and devours the attackers, and the devil is thrown into the lake of fire where the beast and false prophet already are, to be tormented forever."
+    },
+    {
+      "reference": "20:11-15",
+      "section_title": "The Great White Throne and the Final Judgment",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "cited_by_both",
+      "summary": "A great white throne appears, from whose presence earth and heaven flee; all the dead -- great and small -- stand before the throne; books of deeds are opened alongside the book of life; the dead are judged according to their deeds; the sea, Death, and Hades give up their dead; Death and Hades are thrown into the lake of fire (the second death); and anyone whose name is not found in the book of life is thrown into the lake of fire.",
+      "relevance": "The passage establishes a dual basis for judgment -- deeds and inscription in the book of life -- and the emphasis on judgment according to deeds is the more prominent element, stated three times (vv. 12 and 13, with the additional note 'every one of them according to their deeds'). The neutral reading observes that the judgment is individualized (hekastos, 'each one') rather than corporate, and draws on the deep prophetic tradition that God judges on the basis of what has been done (Jeremiah 17:10; Psalm 62:12; Ezekiel 18:30). This emphasis on deeds as the basis of judgment presupposes genuine human agency: people are held accountable for real choices they made. The book of life introduces tension, as it could be read as a pre-temporal divine register that determines outcomes independently of human action. However, within the broader context of this document, names in the book of life can be blotted out (3:5), which implies the register is responsive to human faithfulness rather than being a fixed, unalterable decree. The neutral reading presents the two assessments as 'complementary, not contradictory': deeds are the evidence of how a person lived, and the book of life determines whether they belong to God. The passage leans libertarian because the dominant and repeated emphasis is on judgment by deeds -- what each person actually did -- while the book of life functions within a document that treats it as a register of belonging that responds to faithfulness and can be forfeited through unfaithfulness.",
+      "key_phrases": ["the dead were judged from the things which were written in the books, according to their deeds", "they were judged, every one of them according to their deeds", "if anyone's name was not found written in the book of life, he was thrown into the lake of fire", "books were opened; and another book was opened, which is the book of life"],
+      "confidence": "medium"
+    }
+  ]
+}

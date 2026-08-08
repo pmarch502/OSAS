@@ -1,0 +1,50 @@
+{
+    "book": "3John",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-2",
+            "section_title": "The Greeting and Health-Wish",
+            "category": "NOT_APPLICABLE",
+            "summary": "The elder greets Gaius as beloved, expresses love grounded in shared truth, and offers a health-wish that measures desired physical prosperity against the standard of Gaius's already-flourishing inner life."
+        },
+        {
+            "reference": "1:3-4",
+            "section_title": "The Elder's Joy -- Children Walking in Truth",
+            "category": "NOT_APPLICABLE",
+            "summary": "The elder reports his great joy upon receiving testimony from traveling brothers that Gaius walks in truth, and declares that hearing his spiritual children walk in truth is his greatest joy."
+        },
+        {
+            "reference": "1:5-8",
+            "section_title": "Commendation and Exhortation -- Hospitality to the Missionaries",
+            "category": "NOT_APPLICABLE",
+            "summary": "The elder commends Gaius for faithfully receiving traveling missionaries who are strangers, urges him to send them on in a manner worthy of God, explains that the missionaries went out for the sake of the Name while accepting nothing from non-believers, and concludes that supporting such workers makes one a fellow worker with the truth."
+        },
+        {
+            "reference": "1:9-10",
+            "section_title": "The Problem of Diotrephes",
+            "category": "NOT_APPLICABLE",
+            "summary": "The elder reports that Diotrephes, who loves to be first, has rejected the elder's authority, slandered him with malicious words, refused to receive the traveling missionaries, prevented others from receiving them, and expelled from the community those who wished to do so."
+        },
+        {
+            "reference": "1:11-12",
+            "section_title": "The Moral Principle and the Commendation of Demetrius",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The elder exhorts Gaius not to imitate evil but to imitate good, states the diagnostic principle that the one who does good is 'of God' while the one who does evil 'has not seen God,' and commends Demetrius with a threefold testimony from everyone, from the truth itself, and from the elder's own circle.",
+            "relevance": "The imperative 'do not imitate what is evil, but what is good' (present imperative, mē mimou to kakon alla to agathon) presupposes that Gaius has genuine capacity to choose between imitating evil and imitating good. The diagnostic formula then connects that choice to one's relationship with God: doing good marks a person as 'of God' (ek tou theou), while doing evil reveals that one 'has not seen God' (ouch heōraken ton theon). The neutral reading emphasizes that the elder deploys these categories as practical working tools for real community decisions, not as abstract predestination claims. The ek tou theou formula could in principle be read deterministically (fixed origin producing fixed conduct), but the imperative form assumes the addressee's choice is genuine and consequential, and the letter's entire structure presents Diotrephes and Demetrius as models whose conduct Gaius can freely choose to reject or follow.",
+            "key_phrases": [
+                "do not imitate what is evil, but what is good",
+                "the one who does good is of God",
+                "the one who does evil has not seen God"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:13-15",
+            "section_title": "The Closing",
+            "category": "NOT_APPLICABLE",
+            "summary": "The elder indicates he has more to say than a letter can carry, expresses hope for an imminent face-to-face visit, pronounces peace, and exchanges greetings between the 'friends' in each community, instructing Gaius to greet each friend by name."
+        }
+    ]
+}

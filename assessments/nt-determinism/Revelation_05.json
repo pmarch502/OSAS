@@ -1,0 +1,38 @@
+{
+  "book": "Revelation",
+  "chapter": 5,
+  "sections": [
+    {
+      "reference": "5:1-4",
+      "section_title": "The Sealed Scroll and the Crisis of Worthiness",
+      "category": "LEANS_DETERMINISTIC",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds that a scroll sealed with seven seals rests in God's right hand, written on both sides with no blank space, containing God's comprehensive plan for the consummation of history -- 'the totality of what must take place' -- and no being in heaven, on earth, or under the earth is found worthy to open it, prompting John's sustained, anguished weeping.",
+      "relevance": "The scroll is described as God's fixed, exhaustive plan for history, echoing the 'ha dei genesthai' ('what must take place') language of 1:1 and 4:1. The neutral reading emphasizes that it is written on both sides, 'leaving no blank space for additions or amendments,' and that its 'contents are fixed.' The plan encompasses 'divine judgment on the earth, vindication of the saints, the overthrow of hostile powers, and the establishment of God's kingdom' -- all of which include salvation-adjacent outcomes. A comprehensive divine plan whose contents are complete and sealed before execution implies that the outcomes it contains, including who is vindicated and who is judged, are determined in advance. However, the passage focuses on the crisis of finding someone worthy to execute the plan, not on the mechanism by which individuals come to be among the vindicated or the judged.",
+      "key_phrases": ["what must take place", "written on the inside and on the back", "sealed with seven seals", "no one in heaven or on earth or under the earth was able to open the scroll", "no one was found worthy"],
+      "confidence": "low"
+    },
+    {
+      "reference": "5:5-7",
+      "section_title": "The Lion Who Is the Lamb",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds that the messianic figure announced as the conquering Lion of Judah and Root of David is visually revealed as a Lamb bearing the marks of slaughter yet standing alive, possessing complete power (seven horns) and complete divine knowledge (seven eyes identified as the seven spirits of God), who approaches the throne and takes the scroll from God's right hand, receiving the authority to execute God's purposes in history."
+    },
+    {
+      "reference": "5:8-10",
+      "section_title": "The New Song",
+      "category": "LEANS_DETERMINISTIC",
+      "conventional_use": "not_in_debate",
+      "summary": "The neutral reading finds that the living creatures and twenty-four elders worship the Lamb with a new song declaring his worthiness on the basis of his slaughter, by which he ransomed people for God from every tribe, language, people, and nation, constituting them as a kingdom and priests who will reign on the earth -- replicating the exodus-Sinai pattern at a cosmic scale.",
+      "relevance": "The new song attributes the entire saving action to the Lamb: 'you were slain, and by your blood you ransomed people for God.' The ransomed are presented exclusively as objects of the Lamb's initiative -- they are ransomed (egorasas), they are made (epoiesas) into a kingdom and priests. No human response, faith, decision, or agency is mentioned as contributing to the process by which people come to be among the ransomed. The preposition 'ek' ('from, out of') indicates extraction of some from each group; the neutral reading notes 'not every person within every group, necessarily, but representatives from every human category,' suggesting selectivity in who is ransomed. However, the text is a hymn addressed to the Lamb praising his accomplishment, and the neutral reading does not treat the absence of human response language as a theological statement about its irrelevance -- the doxological genre naturally foregrounds the one praised. The prayers of the saints, identified as the incense in golden bowls, do show the assemblies as active participants whose prayers 'are ingredient in the heavenly worship that authorizes the unfolding of God's purposes,' providing a counterpoint to pure passivity.",
+      "key_phrases": ["you were slain", "by your blood you ransomed people for God", "from every tribe and language and people and nation", "you have made them a kingdom and priests to our God", "they shall reign on the earth", "the prayers of the saints"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "5:11-14",
+      "section_title": "The Expanding Circles of Worship",
+      "category": "NOT_APPLICABLE",
+      "summary": "The neutral reading finds that worship of the Lamb expands in three concentric circles -- from the living creatures and elders, through myriads of angels ascribing sevenfold attributes, to every creature in heaven, on earth, under the earth, and in the sea -- culminating in joint worship directed to God and the Lamb together, affirmed by the living creatures' 'Amen' and the elders' prostration."
+    }
+  ]
+}

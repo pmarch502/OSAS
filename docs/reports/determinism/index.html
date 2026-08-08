@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>New Testament Determinism Assessment</title>
+<style>
+:root {
+  --bg: #ffffff; --fg: #1a1a1a; --card-bg: #f8f9fa; --border: #dee2e6;
+  --strong-lib: #c0392b; --leans-lib: #e67e22; --na: #95a5a6;
+  --leans-det: #2980b9; --strong-det: #1a5276; --misapplied: #8e44ad;
+  --high: #27ae60; --medium: #f39c12; --low: #e74c3c;
+  --hover-bg: #e9ecef; --expand-bg: #f1f3f5;
+  --link: #2471a3;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1a1a2e; --fg: #e0e0e0; --card-bg: #16213e; --border: #2a2a4a;
+    --hover-bg: #1f2b47; --expand-bg: #0f1a2e;
+    --link: #5dade2;
+  }
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg); color: var(--fg); line-height: 1.5; padding: 20px; max-width: 1400px; margin: 0 auto; }
+h1 { font-size: 1.8rem; margin-bottom: 4px; }
+h2 { font-size: 1.3rem; margin: 28px 0 12px; border-bottom: 2px solid var(--border); padding-bottom: 6px; }
+h3 { font-size: 1.1rem; margin: 20px 0 8px; }
+.subtitle { color: #666; font-size: 0.95rem; margin-bottom: 24px; }
+.dashboard { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin-bottom: 24px; }
+.tile { background: var(--card-bg); border: 1px solid var(--border); border-radius: 8px; padding: 16px; text-align: center; }
+.tile .num { font-size: 2rem; font-weight: 700; }
+.tile .label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; opacity: 0.7; }
+.tile.sl .num { color: var(--strong-lib); }
+.tile.ll .num { color: var(--leans-lib); }
+.tile.na .num { color: var(--na); }
+.tile.ld .num { color: var(--leans-det); }
+.tile.sd .num { color: var(--strong-det); }
+.tile.mi .num { color: var(--misapplied); }
+.ratio-bar-wrap { margin-bottom: 24px; }
+.ratio-bar-caption { font-size: 0.8rem; opacity: 0.6; margin-bottom: 4px; }
+.ratio-bar { display: flex; height: 32px; border-radius: 6px; overflow: hidden; }
+.ratio-bar div { display: flex; align-items: center; justify-content: center; font-size: 0.75rem; font-weight: 600; color: #fff; min-width: 30px; }
+.rb-sl { background: var(--strong-lib); }
+.rb-ll { background: var(--leans-lib); }
+.rb-ld { background: var(--leans-det); }
+.rb-sd { background: var(--strong-det); }
+.rb-mi { background: var(--misapplied); }
+.ratio-text { font-size: 0.85rem; margin-top: 6px; opacity: 0.7; }
+table { width: 100%; border-collapse: collapse; font-size: 0.88rem; margin-bottom: 24px; }
+th, td { padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--border); }
+th { background: var(--card-bg); position: sticky; top: 0; white-space: nowrap; }
+th[data-sort] { cursor: pointer; user-select: none; }
+th[data-sort]:hover { background: var(--hover-bg); }
+th .sort-arrow { font-size: 0.7rem; margin-left: 4px; }
+tr:hover { background: var(--hover-bg); }
+.cat-badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 600; color: #fff; white-space: nowrap; }
+.cat-STRONG_LIBERTARIAN { background: var(--strong-lib); }
+.cat-LEANS_LIBERTARIAN { background: var(--leans-lib); }
+.cat-NOT_APPLICABLE { background: var(--na); }
+.cat-LEANS_DETERMINISTIC { background: var(--leans-det); }
+.cat-STRONG_DETERMINISTIC { background: var(--strong-det); }
+.cat-MISAPPLIED { background: var(--misapplied); }
+.conf-high { color: var(--high); font-weight: 600; }
+.conf-medium { color: var(--medium); }
+.conf-low { color: var(--low); }
+.conv-badge { font-size: 0.75rem; padding: 1px 6px; border-radius: 3px; border: 1px solid var(--border); white-space: nowrap; }
+.exegesis-link { font-size: 0.78rem; color: var(--link); text-decoration: none; white-space: nowrap; }
+.exegesis-link:hover { text-decoration: underline; }
+.filters { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px; align-items: flex-end; }
+.filters select, .filters input { padding: 6px 10px; border: 1px solid var(--border); border-radius: 4px; background: var(--card-bg); color: var(--fg); font-size: 0.85rem; }
+.filters input { width: 220px; }
+.filters label { font-size: 0.8rem; font-weight: 600; }
+.filter-group { display: flex; flex-direction: column; gap: 2px; }
+.result-count { font-size: 0.85rem; opacity: 0.7; margin-left: auto; }
+.cat-toggles { display: flex; flex-wrap: wrap; gap: 4px; }
+.cat-toggle { padding: 3px 10px; border-radius: 4px; font-size: 0.78rem; font-weight: 600; color: #fff; border: 2px solid transparent; cursor: pointer; opacity: 1; transition: opacity 0.15s; }
+.cat-toggle.off { opacity: 0.25; }
+.cat-toggle.t-sl { background: var(--strong-lib); }
+.cat-toggle.t-ll { background: var(--leans-lib); }
+.cat-toggle.t-na { background: var(--na); }
+.cat-toggle.t-ld { background: var(--leans-det); }
+.cat-toggle.t-sd { background: var(--strong-det); }
+.cat-toggle.t-mi { background: var(--misapplied); }
+.expand-btn { cursor: pointer; background: none; border: none; color: var(--fg); font-size: 1rem; padding: 0 4px; }
+.detail-row td { background: var(--expand-bg); padding: 12px 16px; }
+.detail-row .detail-content { max-width: 900px; }
+.detail-row .detail-content p { margin: 6px 0; }
+.detail-row .detail-content .field-label { font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.3px; opacity: 0.6; margin-top: 10px; }
+.detail-row .key-phrases { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
+.detail-row .key-phrases span { background: var(--card-bg); border: 1px solid var(--border); padding: 2px 8px; border-radius: 3px; font-size: 0.82rem; font-style: italic; }
+.tabs { display: flex; gap: 0; margin-bottom: 0; border-bottom: 2px solid var(--border); }
+.tab { padding: 8px 18px; cursor: pointer; font-size: 0.9rem; border: 1px solid transparent; border-bottom: none; border-radius: 6px 6px 0 0; background: transparent; color: var(--fg); }
+.tab:hover { background: var(--hover-bg); }
+.tab.active { background: var(--card-bg); border-color: var(--border); font-weight: 600; margin-bottom: -2px; border-bottom: 2px solid var(--card-bg); }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+@media (max-width: 768px) {
+  .dashboard { grid-template-columns: repeat(3, 1fr); }
+  .filters { flex-direction: column; }
+  table { font-size: 0.8rem; }
+  th, td { padding: 6px; }
+}
+.overflow-x { overflow-x: auto; }
+details { margin: 10px 0; }
+summary { cursor: pointer; font-weight: 600; font-size: 0.95rem; padding: 6px 0; }
+summary:hover { color: var(--leans-det); }
+.prompt-text { background: var(--card-bg); border: 1px solid var(--border); border-radius: 6px; padding: 14px 18px; font-family: Georgia, 'Times New Roman', serif; font-size: 0.88rem; line-height: 1.7; white-space: pre-wrap; overflow-x: auto; margin-top: 6px; }
+</style>
+</head>
+<body>
+
+<h1>New Testament Determinism Assessment</h1>
+<p class="subtitle">Evaluating 260 chapters for bearing on whether God unilaterally determines salvation outcomes or humans exercise genuine agency</p>
+
+<div id="dashboard" class="dashboard"></div>
+<div id="ratio-bar-wrap" class="ratio-bar-wrap"></div>
+
+<div class="tabs" id="main-tabs">
+  <div class="tab active" data-tab="overview">Overview</div>
+  <div class="tab" data-tab="by-book">By Book</div>
+  <div class="tab" data-tab="by-author">By Author</div>
+  <div class="tab" data-tab="strongest">Strongest Passages</div>
+  <div class="tab" data-tab="misapplied">Misapplied</div>
+  <div class="tab" data-tab="all">All Sections</div>
+</div>
+
+<div id="tab-overview" class="tab-content active"></div>
+<div id="tab-by-book" class="tab-content"></div>
+<div id="tab-by-author" class="tab-content"></div>
+<div id="tab-strongest" class="tab-content"></div>
+<div id="tab-misapplied" class="tab-content"></div>
+<div id="tab-all" class="tab-content"></div>
+
+<script src="data.js"></script>
+<script>
+var BOOK_ORDER = [
+  'Matthew','Mark','Luke','John','Acts',
+  'Romans','1 Corinthians','2 Corinthians','Galatians','Ephesians',
+  'Philippians','Colossians','1 Thessalonians','2 Thessalonians',
+  '1 Timothy','2 Timothy','Titus','Philemon',
+  'Hebrews','James','1 Peter','2 Peter',
+  '1 John','2 John','3 John','Jude','Revelation'
+];
+
+var AUTHORS = {
+  'Matthew': 'Matthew', 'Mark': 'Mark', 'Luke': 'Luke', 'Acts': 'Luke',
+  'John': 'John', '1 John': 'John', '2 John': 'John', '3 John': 'John',
+  'Romans': 'Paul', '1 Corinthians': 'Paul', '2 Corinthians': 'Paul',
+  'Galatians': 'Paul', 'Ephesians': 'Paul', 'Philippians': 'Paul',
+  'Colossians': 'Paul', '1 Thessalonians': 'Paul', '2 Thessalonians': 'Paul',
+  '1 Timothy': 'Paul', '2 Timothy': 'Paul', 'Titus': 'Paul', 'Philemon': 'Paul',
+  'Hebrews': 'Hebrews', 'James': 'James', '1 Peter': 'Peter', '2 Peter': 'Peter',
+  'Jude': 'Jude', 'Revelation': 'John (Rev)'
+};
+
+var GENRES = {
+  'Matthew': 'Gospel', 'Mark': 'Gospel', 'Luke': 'Gospel', 'John': 'Gospel',
+  'Acts': 'History',
+  'Romans': 'Epistle', '1 Corinthians': 'Epistle', '2 Corinthians': 'Epistle',
+  'Galatians': 'Epistle', 'Ephesians': 'Epistle', 'Philippians': 'Epistle',
+  'Colossians': 'Epistle', '1 Thessalonians': 'Epistle', '2 Thessalonians': 'Epistle',
+  '1 Timothy': 'Epistle', '2 Timothy': 'Epistle', 'Titus': 'Epistle', 'Philemon': 'Epistle',
+  'Hebrews': 'Epistle', 'James': 'Epistle', '1 Peter': 'Epistle', '2 Peter': 'Epistle',
+  '1 John': 'Epistle', '2 John': 'Epistle', '3 John': 'Epistle', 'Jude': 'Epistle',
+  'Revelation': 'Apocalyptic'
+};
+
+var CAT_ORDER = ['STRONG_LIBERTARIAN','LEANS_LIBERTARIAN','NOT_APPLICABLE','LEANS_DETERMINISTIC','STRONG_DETERMINISTIC','MISAPPLIED'];
+var CAT_LABELS = {
+  'STRONG_LIBERTARIAN': 'Strong Libertarian', 'LEANS_LIBERTARIAN': 'Leans Libertarian',
+  'NOT_APPLICABLE': 'Not Applicable', 'LEANS_DETERMINISTIC': 'Leans Deterministic',
+  'STRONG_DETERMINISTIC': 'Strong Deterministic', 'MISAPPLIED': 'Misapplied'
+};
+var CAT_SHORT = { 'STRONG_LIBERTARIAN':'SL','LEANS_LIBERTARIAN':'LL','NOT_APPLICABLE':'N/A','LEANS_DETERMINISTIC':'LD','STRONG_DETERMINISTIC':'SD','MISAPPLIED':'MA' };
+var TILE_CLASS = { 'STRONG_LIBERTARIAN':'sl','LEANS_LIBERTARIAN':'ll','NOT_APPLICABLE':'na','LEANS_DETERMINISTIC':'ld','STRONG_DETERMINISTIC':'sd','MISAPPLIED':'mi' };
+var TOGGLE_CLASS = { 'STRONG_LIBERTARIAN':'t-sl','LEANS_LIBERTARIAN':'t-ll','NOT_APPLICABLE':'t-na','LEANS_DETERMINISTIC':'t-ld','STRONG_DETERMINISTIC':'t-sd','MISAPPLIED':'t-mi' };
+
+function countBy(arr, cat) { return arr.filter(function(s) { return s.category === cat; }).length; }
+function pct(n, total) { return total ? ((n/total)*100).toFixed(1) : '0'; }
+
+function normBook(b) {
+  if (!b) return b;
+  return b.replace(/^(\d)([A-Z])/, '$1 $2');
+}
+
+function exegesisHref(book, chapter, reference) {
+  var slug = (book || '').replace(/\s/g, '');
+  var ch = String(chapter || 1).padStart(2, '0');
+  var frag = '';
+  if (reference) {
+    var colonIdx = reference.indexOf(':');
+    if (colonIdx >= 0) frag = '#' + reference.substring(colonIdx + 1);
+  }
+  return '../../exegesis/nt/' + slug + '_' + ch + '.html' + frag;
+}
+
+function exegesisLink(book, chapter, reference) {
+  return '<a class="exegesis-link" href="' + exegesisHref(book, chapter, reference) + '" target="_blank" title="View neutral reading for ' + book + ' ' + chapter + '">Exegesis</a>';
+}
+
+DATA.forEach(function(d) { d.book = normBook(d.book); });
+
+var totals = {};
+CAT_ORDER.forEach(function(c) { totals[c] = countBy(DATA, c); });
+var libTotal = totals['STRONG_LIBERTARIAN'] + totals['LEANS_LIBERTARIAN'];
+var detTotal = totals['LEANS_DETERMINISTIC'] + (totals['STRONG_DETERMINISTIC'] || 0);
+var relevantTotal = DATA.length - totals['NOT_APPLICABLE'];
+
+// Dashboard
+var dash = document.getElementById('dashboard');
+dash.innerHTML = CAT_ORDER.map(function(c) {
+  return '<div class="tile ' + TILE_CLASS[c] + '"><div class="num">' + totals[c] + '</div><div class="label">' + CAT_LABELS[c] + '</div></div>';
+}).join('');
+
+// Ratio bar
+var barWrap = document.getElementById('ratio-bar-wrap');
+var barCats = ['STRONG_LIBERTARIAN','LEANS_LIBERTARIAN','LEANS_DETERMINISTIC','STRONG_DETERMINISTIC','MISAPPLIED'];
+var barClasses = {'STRONG_LIBERTARIAN':'rb-sl','LEANS_LIBERTARIAN':'rb-ll','LEANS_DETERMINISTIC':'rb-ld','STRONG_DETERMINISTIC':'rb-sd','MISAPPLIED':'rb-mi'};
+var barHtml = '<div class="ratio-bar-caption">Distribution of determinism-relevant sections (excluding Not Applicable)</div><div class="ratio-bar">';
+barHtml += barCats.filter(function(c) { return totals[c] > 0; }).map(function(c) {
+  var w = pct(totals[c], relevantTotal);
+  return '<div class="' + barClasses[c] + '" style="width:' + w + '%" title="' + CAT_LABELS[c] + ': ' + totals[c] + ' (' + w + '%)">' + (parseFloat(w) > 4 ? CAT_SHORT[c] + ' ' + totals[c] : '') + '</div>';
+}).join('');
+barHtml += '</div>';
+barHtml += '<div class="ratio-text">' + DATA.length + ' total sections &middot; ' + relevantTotal + ' determinism-relevant &middot; Libertarian : Deterministic = <strong>' + (detTotal > 0 ? (libTotal/detTotal).toFixed(1) : '---') + ':1</strong></div>';
+barWrap.innerHTML = barHtml;
+
+// Tabs
+document.querySelectorAll('.tab').forEach(function(tab) {
+  tab.addEventListener('click', function() {
+    document.querySelectorAll('.tab').forEach(function(t) { t.classList.remove('active'); });
+    document.querySelectorAll('.tab-content').forEach(function(t) { t.classList.remove('active'); });
+    tab.classList.add('active');
+    document.getElementById('tab-' + tab.dataset.tab).classList.add('active');
+  });
+});
+
+function makeSortable(table) {
+  var headers = table.querySelectorAll('th[data-sort]');
+  headers.forEach(function(th) {
+    th.addEventListener('click', function() {
+      var tbody = table.querySelector('tbody');
+      var rows = Array.from(tbody.querySelectorAll('tr:not(.detail-row)'));
+      var key = th.dataset.sort;
+      var colIdx = Array.from(th.parentNode.children).indexOf(th);
+      var curDir = th.dataset.dir || 'none';
+      var newDir;
+      if (curDir === 'none') newDir = 'asc';
+      else if (curDir === 'asc') newDir = 'desc';
+      else newDir = 'none';
+      headers.forEach(function(h) {
+        h.dataset.dir = 'none';
+        var arrow = h.querySelector('.sort-arrow');
+        if (arrow) arrow.textContent = '';
+      });
+      th.dataset.dir = newDir;
+      var arrow = th.querySelector('.sort-arrow');
+      if (arrow) arrow.textContent = newDir === 'asc' ? ' ▲' : newDir === 'desc' ? ' ▼' : '';
+      if (newDir === 'none') {
+        rows.sort(function(a, b) { return (parseInt(a.dataset.origIdx) || 0) - (parseInt(b.dataset.origIdx) || 0); });
+      } else {
+        var asc = newDir === 'asc';
+        rows.sort(function(a, b) {
+          var va = a.dataset[key] !== undefined ? a.dataset[key] : (a.cells[colIdx] ? a.cells[colIdx].textContent : '');
+          var vb = b.dataset[key] !== undefined ? b.dataset[key] : (b.cells[colIdx] ? b.cells[colIdx].textContent : '');
+          if (va !== '' && vb !== '' && !isNaN(va) && !isNaN(vb)) return asc ? va - vb : vb - va;
+          return asc ? String(va).localeCompare(String(vb)) : String(vb).localeCompare(String(va));
+        });
+      }
+      rows.forEach(function(r) { tbody.appendChild(r); });
+    });
+  });
+}
+
+function catBadge(cat) { return '<span class="cat-badge cat-' + cat + '">' + (CAT_LABELS[cat] || cat) + '</span>'; }
+function confSpan(c) { return c ? '<span class="conf-' + c + '">' + c + '</span>' : ''; }
+function convBadge(c) {
+  if (!c || c === 'not_in_debate') return '';
+  var labels = { 'cited_for_determinism': 'Determ.', 'cited_for_agency': 'Agency', 'cited_by_both': 'Both' };
+  return '<span class="conv-badge">' + (labels[c] || c) + '</span>';
+}
+function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') : ''; }
+
+// Overview tab
+(function() {
+  var el = document.getElementById('tab-overview');
+  el.innerHTML = '<h2>Summary</h2>' +
+    '<p>Across <strong>260 New Testament chapters</strong> (' + DATA.length + ' total sections), each section was classified for its bearing on whether God unilaterally determines salvation outcomes or humans exercise genuine agency.</p>' +
+    '<h3>Key Findings</h3>' +
+    '<ul style="margin:10px 0 10px 20px; line-height:1.8">' +
+    '<li><strong>' + libTotal + ' sections</strong> (' + pct(libTotal, DATA.length) + '%) lean or strongly favor human agency (libertarian)</li>' +
+    '<li><strong>' + detTotal + ' sections</strong> (' + pct(detTotal, DATA.length) + '%) lean or favor divine determinism</li>' +
+    '<li><strong>' + totals['MISAPPLIED'] + ' sections</strong> are conventionally cited in the debate but the neutral reading shows they address something else</li>' +
+    '<li><strong>' + totals['STRONG_DETERMINISTIC'] + ' sections</strong> across the entire NT received a STRONG_DETERMINISTIC classification</li>' +
+    '<li>The libertarian-to-deterministic ratio among relevant sections is <strong>' + (detTotal > 0 ? (libTotal/detTotal).toFixed(1) : '---') + ':1</strong></li>' +
+    '<li><strong>' + totals['NOT_APPLICABLE'] + ' sections</strong> (' + pct(totals['NOT_APPLICABLE'], DATA.length) + '%) do not touch the question</li>' +
+    '</ul>' +
+    '<h3>What the Data Shows</h3>' +
+    '<p style="margin:8px 0">The New Testament, read through a neutral first-century lens, overwhelmingly presents salvation as involving genuine human agency. The ' + detTotal + ' deterministic-leaning passages genuinely support God\'s initiative, sovereignty, and preserving power &mdash; but nearly all come with qualifications that prevent a STRONG classification. Many conventional proof-texts for determinism (e.g., Romans 9, Ephesians 1, John 6:37-44, John 15:16) are classified MISAPPLIED because the neutral reading reveals they address corporate election, vocational calling, or covenant purpose rather than individual predetermination of salvation. Meanwhile, ' + totals['STRONG_LIBERTARIAN'] + ' passages directly and unambiguously present human choices as determining salvation outcomes.</p>' +
+    '<h3>Methodology</h3>' +
+    '<p style="margin:8px 0"><strong>Model:</strong> Claude Opus 4.6 (Anthropic)</p>' +
+    '<p style="margin:8px 0">The analysis was conducted in two stages. In the first stage, all 260 New Testament chapters were run through a neutral reading prompt that constrains the model to first-century tools and perspectives only &mdash; no post-first-century theology allowed. In the second stage, each neutral reading was assessed against a single question: does the text present God as unilaterally determining who will be saved and who will not, or does it present human beings as genuine agents whose choices affect their standing before God? Each section was classified into one of six categories.</p>' +
+    '<p style="margin:8px 0"><strong>Review and correction:</strong> The project author reviews AI output for factual errors (e.g., misidentified objects or terms) and overlooked textual evidence (e.g., failing to follow a term through the author\'s own usage or missing an OT referent the text invokes). Where a problem is identified, the passage is returned to Claude with the specific textual question &mdash; the human identifies what to re-examine; the AI produces the revised reading. The <a href="https://github.com/pmarch502/OSAS/blob/main/prompts/correction.md" style="color:var(--link)">correction prompt</a> is published alongside the analysis prompts.</p>' +
+    '<details><summary>Neutral Reading Prompt (Stage 1)</summary>' +
+    '<div class="prompt-text">You are a scripture text analyst. Your job is to determine the meaning of text from the text itself (and surrounding context as appropriate). Your only available tools are those from the first century: LXX, Targums, other 1st century writings and commentary. You should never aim to fit within any theological or doctrinal frame - in fact, you shouldn\'t even be aware of any beyond the first century. You must endeavor to understand the text\'s genre, pay close attention to pronouns, pay close attention to old testament references, let the context help derive/define the meaning. Your only job is to discern the meaning the original writer was trying to get across and the meaning the first century hearer/reader would have had. You must not allow any modern (i.e. post first century) doctrine or theology into your analysis. This must be originalist and neutral.\n\nEvery passage must be interpreted as a continuation of the author\'s surrounding argument. If your interpretation requires the author to have changed subjects without transition, that is evidence your interpretation is wrong. Before interpreting any passage, state what the author was arguing immediately before and immediately after, and demonstrate how your reading connects the three.\n\nWhen the text describes God\'s actions, first determine whether these actions have precedent or fulfillment in Israel\'s recorded history before considering any abstract reading.\n\nWhen a word or phrase appears multiple times in the same document, the author\'s own usage elsewhere in that document is the primary guide to its meaning.\n\nDo not apply conventional names or titles to passages that do not come from the text itself. Describe what the text is doing in your own words.</div>' +
+    '</details>' +
+    '<details><summary>Assessment Prompt (Stage 2)</summary>' +
+    '<div class="prompt-text">You are evaluating a neutral first-century textual reading for its bearing on one specific question: Does the text present God as unilaterally determining who will be saved and who will not — or does it present human beings as genuine agents whose choices affect their standing before God?\n\nYou are NOT re-reading the biblical text. The neutral reading has already been done. Your job is to assess what that reading implies for this question.\n\nCategories:\n\n1. NOT_APPLICABLE — The text does not touch the question of divine determination versus human agency in any meaningful way.\n\n2. MISAPPLIED — The passage is conventionally cited in debates about predestination or free will, but the neutral reading reveals it is actually about something else (corporate election, vocational calling, Israel’s covenant role, historical events, etc.). You must state what it is conventionally cited to prove and what the neutral reading shows it actually addresses.\n\n3. LEANS_DETERMINISTIC — The text has implications favoring divine determination of salvation outcomes, but either (a) it is not directly addressing who determines salvation, or (b) it addresses it with some ambiguity.\n\n4. LEANS_LIBERTARIAN — The text has implications favoring genuine human agency in salvation outcomes, but either (a) it is not directly addressing who determines salvation, or (b) it addresses it with some ambiguity.\n\n5. STRONG_DETERMINISTIC — The text directly addresses God as the one who determines salvation outcomes, AND does so as part of the author’s own argument (not an illustration, aside, or assumption).\n\n6. STRONG_LIBERTARIAN — The text directly addresses human beings as genuine agents whose choices determine their salvation outcome, AND does so as part of the author’s own argument (not an illustration, aside, or assumption).\n\nRules:\n\n• Work ONLY from the neutral reading provided. Do not re-exegete the biblical text. Do not import any post-first-century theological framework.\n• For MISAPPLIED: state what the passage is conventionally cited to prove and what the neutral reading shows it actually addresses. Note which side conventionally cites it.\n• Do not conflate “election to purpose/service/covenant role” with “election to individual eternal salvation.” If the neutral reading distinguishes these, respect that distinction.\n• Do not conflate “God initiates” with “God unilaterally determines.” A text that says God calls, invites, or draws does not automatically imply determinism — it implies determinism only if human response is excluded or rendered irrelevant.\n• Do not conflate “human response” with “human merit.” A text that presents faith as a genuine human response does not automatically imply works-righteousness.\n• Be honest about ambiguity. If a passage genuinely supports both readings, say so, explain why, then make your best judgment call on category.\n• The question is narrow: who determines salvation outcomes — not general themes of God’s sovereignty, providence, ethics, eschatology, or church order unless they directly bear on whether God unilaterally determines who is saved or humans genuinely choose.</div>' +
+    '</details>';
+})();
+
+// By Book tab
+(function() {
+  var el = document.getElementById('tab-by-book');
+  var html = '<h2>Per-Book Breakdown</h2><div class="overflow-x"><table id="book-table"><thead><tr>' +
+    '<th data-sort="book">Book<span class="sort-arrow"></span></th>' +
+    '<th data-sort="total">Sections<span class="sort-arrow"></span></th>' +
+    '<th data-sort="sl">SL<span class="sort-arrow"></span></th>' +
+    '<th data-sort="ll">LL<span class="sort-arrow"></span></th>' +
+    '<th data-sort="ld">LD<span class="sort-arrow"></span></th>' +
+    '<th data-sort="sd">SD<span class="sort-arrow"></span></th>' +
+    '<th data-sort="mi">MA<span class="sort-arrow"></span></th>' +
+    '<th data-sort="na">N/A<span class="sort-arrow"></span></th>' +
+    '<th data-sort="ratio">L:D<span class="sort-arrow"></span></th>' +
+    '</tr></thead><tbody>';
+
+  var books = {};
+  DATA.forEach(function(s) {
+    if (!books[s.book]) books[s.book] = [];
+    books[s.book].push(s);
+  });
+
+  BOOK_ORDER.forEach(function(book, idx) {
+    var secs = books[book] || [];
+    if (!secs.length) return;
+    var sl = countBy(secs,'STRONG_LIBERTARIAN');
+    var ll = countBy(secs,'LEANS_LIBERTARIAN');
+    var ld = countBy(secs,'LEANS_DETERMINISTIC');
+    var sd = countBy(secs,'STRONG_DETERMINISTIC');
+    var mi = countBy(secs,'MISAPPLIED');
+    var na = countBy(secs,'NOT_APPLICABLE');
+    var lib = sl+ll, det = ld+sd;
+    var ratio = det > 0 ? (lib/det).toFixed(1) : (lib > 0 ? '∞' : '—');
+    var ratioVal = det > 0 ? (lib/det) : (lib > 0 ? 999 : -1);
+    html += '<tr data-orig-idx="' + idx + '" data-book="' + book + '" data-total="' + secs.length + '" data-sl="' + sl + '" data-ll="' + ll + '" data-ld="' + ld + '" data-sd="' + sd + '" data-mi="' + mi + '" data-na="' + na + '" data-ratio="' + ratioVal + '">';
+    html += '<td><strong>' + book + '</strong></td><td>' + secs.length + '</td>';
+    html += '<td>' + (sl||'') + '</td><td>' + (ll||'') + '</td><td>' + (ld||'') + '</td><td>' + (sd||'') + '</td><td>' + (mi||'') + '</td><td>' + na + '</td>';
+    html += '<td>' + ratio + '</td></tr>';
+  });
+
+  html += '</tbody></table></div>';
+  html += '<p style="font-size:0.8rem;opacity:0.6">SL = Strong Libertarian, LL = Leans Libertarian, LD = Leans Deterministic, SD = Strong Deterministic, MA = Misapplied, N/A = Not Applicable. Click column headers to sort.</p>';
+  el.innerHTML = html;
+  makeSortable(el.querySelector('table'));
+})();
+
+// By Author tab
+(function() {
+  var el = document.getElementById('tab-by-author');
+  var html = '<h2>Per-Author Breakdown</h2><div class="overflow-x"><table id="author-table"><thead><tr>' +
+    '<th data-sort="author">Author<span class="sort-arrow"></span></th>' +
+    '<th data-sort="bklist">Books<span class="sort-arrow"></span></th>' +
+    '<th data-sort="total">Sections<span class="sort-arrow"></span></th>' +
+    '<th data-sort="sl">SL<span class="sort-arrow"></span></th>' +
+    '<th data-sort="ll">LL<span class="sort-arrow"></span></th>' +
+    '<th data-sort="ld">LD<span class="sort-arrow"></span></th>' +
+    '<th data-sort="sd">SD<span class="sort-arrow"></span></th>' +
+    '<th data-sort="mi">MA<span class="sort-arrow"></span></th>' +
+    '<th data-sort="na">N/A<span class="sort-arrow"></span></th>' +
+    '<th data-sort="ratio">L:D<span class="sort-arrow"></span></th>' +
+    '</tr></thead><tbody>';
+
+  var authorData = {};
+  DATA.forEach(function(s) {
+    var author = AUTHORS[s.book] || 'Unknown';
+    if (!authorData[author]) authorData[author] = { sections: [], books: {} };
+    authorData[author].sections.push(s);
+    authorData[author].books[s.book] = true;
+  });
+
+  var authorOrder = ['Matthew','Mark','Luke','John','Paul','Hebrews','James','Peter','John (Rev)','Jude'];
+  authorOrder.forEach(function(author, idx) {
+    var d = authorData[author];
+    if (!d) return;
+    var secs = d.sections;
+    var sl = countBy(secs,'STRONG_LIBERTARIAN');
+    var ll = countBy(secs,'LEANS_LIBERTARIAN');
+    var ld = countBy(secs,'LEANS_DETERMINISTIC');
+    var sd = countBy(secs,'STRONG_DETERMINISTIC');
+    var mi = countBy(secs,'MISAPPLIED');
+    var na = countBy(secs,'NOT_APPLICABLE');
+    var lib = sl+ll, det = ld+sd;
+    var ratio = det > 0 ? (lib/det).toFixed(1) : (lib > 0 ? '∞' : '—');
+    var ratioVal = det > 0 ? (lib/det) : (lib > 0 ? 999 : -1);
+    var bkList = Object.keys(d.books).join(', ');
+    html += '<tr data-orig-idx="' + idx + '" data-author="' + author + '" data-bklist="' + bkList + '" data-total="' + secs.length + '" data-sl="' + sl + '" data-ll="' + ll + '" data-ld="' + ld + '" data-sd="' + sd + '" data-mi="' + mi + '" data-na="' + na + '" data-ratio="' + ratioVal + '">';
+    html += '<td><strong>' + author + '</strong></td><td>' + bkList + '</td><td>' + secs.length + '</td>';
+    html += '<td>' + (sl||'') + '</td><td>' + (ll||'') + '</td><td>' + (ld||'') + '</td><td>' + (sd||'') + '</td><td>' + (mi||'') + '</td><td>' + na + '</td>';
+    html += '<td>' + ratio + '</td></tr>';
+  });
+  html += '</tbody></table></div>';
+
+  html += '<h2>Per-Genre Breakdown</h2><div class="overflow-x"><table id="genre-table"><thead><tr>' +
+    '<th data-sort="genre">Genre<span class="sort-arrow"></span></th>' +
+    '<th data-sort="sl">SL<span class="sort-arrow"></span></th>' +
+    '<th data-sort="ll">LL<span class="sort-arrow"></span></th>' +
+    '<th data-sort="ld">LD<span class="sort-arrow"></span></th>' +
+    '<th data-sort="sd">SD<span class="sort-arrow"></span></th>' +
+    '<th data-sort="mi">MA<span class="sort-arrow"></span></th>' +
+    '<th data-sort="na">N/A<span class="sort-arrow"></span></th>' +
+    '<th data-sort="ratio">L:D<span class="sort-arrow"></span></th>' +
+    '</tr></thead><tbody>';
+  var genreData = {};
+  DATA.forEach(function(s) {
+    var genre = GENRES[s.book] || 'Other';
+    if (!genreData[genre]) genreData[genre] = [];
+    genreData[genre].push(s);
+  });
+  ['Gospel','History','Epistle','Apocalyptic'].forEach(function(genre, idx) {
+    var secs = genreData[genre] || [];
+    var sl = countBy(secs,'STRONG_LIBERTARIAN');
+    var ll = countBy(secs,'LEANS_LIBERTARIAN');
+    var ld = countBy(secs,'LEANS_DETERMINISTIC');
+    var sd = countBy(secs,'STRONG_DETERMINISTIC');
+    var mi = countBy(secs,'MISAPPLIED');
+    var na = countBy(secs,'NOT_APPLICABLE');
+    var lib = sl+ll, det = ld+sd;
+    var ratio = det > 0 ? (lib/det).toFixed(1) : (lib > 0 ? '∞' : '—');
+    var ratioVal = det > 0 ? (lib/det) : (lib > 0 ? 999 : -1);
+    html += '<tr data-orig-idx="' + idx + '" data-genre="' + genre + '" data-sl="' + sl + '" data-ll="' + ll + '" data-ld="' + ld + '" data-sd="' + sd + '" data-mi="' + mi + '" data-na="' + na + '" data-ratio="' + ratioVal + '">';
+    html += '<td><strong>' + genre + '</strong></td>';
+    html += '<td>' + (sl||'') + '</td><td>' + (ll||'') + '</td><td>' + (ld||'') + '</td><td>' + (sd||'') + '</td><td>' + (mi||'') + '</td><td>' + na + '</td>';
+    html += '<td>' + ratio + '</td></tr>';
+  });
+  html += '</tbody></table></div>';
+  el.innerHTML = html;
+  makeSortable(document.getElementById('author-table'));
+  makeSortable(document.getElementById('genre-table'));
+})();
+
+// Strongest Passages tab
+(function() {
+  var el = document.getElementById('tab-strongest');
+
+  var strongLib = DATA.filter(function(s) { return s.category === 'STRONG_LIBERTARIAN'; })
+    .sort(function(a,b) {
+      var confOrder = {high:0, medium:1, low:2};
+      var ca = confOrder[a.confidence] !== undefined ? confOrder[a.confidence] : 3;
+      var cb = confOrder[b.confidence] !== undefined ? confOrder[b.confidence] : 3;
+      if (ca !== cb) return ca - cb;
+      return BOOK_ORDER.indexOf(a.book) - BOOK_ORDER.indexOf(b.book);
+    });
+
+  var html = '<h2>Strong Libertarian Passages (' + strongLib.length + ')</h2>' +
+    '<p style="margin-bottom:12px">Sections where the text directly addresses human beings as genuine agents whose choices determine their salvation outcome, as part of the author\'s own argument.</p>';
+  html += '<div class="overflow-x"><table id="sl-table"><thead><tr>' +
+    '<th data-sort="ref">Reference<span class="sort-arrow"></span></th>' +
+    '<th data-sort="title">Section<span class="sort-arrow"></span></th>' +
+    '<th data-sort="conf">Conf.<span class="sort-arrow"></span></th>' +
+    '<th data-sort="conv">Conv.<span class="sort-arrow"></span></th>' +
+    '<th>Summary</th><th>Exegesis</th><th></th>' +
+    '</tr></thead><tbody>';
+  strongLib.forEach(function(s, idx) {
+    html += '<tr data-orig-idx="' + idx + '" data-ref="' + s.book + ' ' + s.reference + '" data-title="' + escHtml(s.section_title) + '" data-conf="' + ({high:0,medium:1,low:2}[s.confidence]||3) + '" data-conv="' + (s.conventional_use||'') + '">';
+    html += '<td><strong>' + s.book + ' ' + s.reference + '</strong></td><td>' + escHtml(s.section_title) + '</td>';
+    html += '<td>' + confSpan(s.confidence) + '</td><td>' + convBadge(s.conventional_use) + '</td>';
+    html += '<td style="max-width:400px">' + escHtml(s.summary) + '</td>';
+    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + '</td>';
+    html += '<td>' + (s.relevance ? '<button class="expand-btn" data-arr="sl" data-aidx="' + idx + '">&#9654;</button>' : '') + '</td>';
+    html += '</tr>';
+  });
+  html += '</tbody></table></div>';
+
+  var leansDet = DATA.filter(function(s) { return s.category === 'LEANS_DETERMINISTIC'; })
+    .sort(function(a,b) {
+      var confOrder = {high:0, medium:1, low:2};
+      var ca = confOrder[a.confidence] !== undefined ? confOrder[a.confidence] : 3;
+      var cb = confOrder[b.confidence] !== undefined ? confOrder[b.confidence] : 3;
+      if (ca !== cb) return ca - cb;
+      return BOOK_ORDER.indexOf(a.book) - BOOK_ORDER.indexOf(b.book);
+    });
+
+  html += '<h2>Leans Deterministic Passages (' + leansDet.length + ')</h2>' +
+    '<p style="margin-bottom:12px">Sections that lean toward divine determinism, sorted by confidence.</p>';
+  html += '<div class="overflow-x"><table id="ld-table"><thead><tr>' +
+    '<th data-sort="ref">Reference<span class="sort-arrow"></span></th>' +
+    '<th data-sort="title">Section<span class="sort-arrow"></span></th>' +
+    '<th data-sort="conf">Conf.<span class="sort-arrow"></span></th>' +
+    '<th data-sort="conv">Conv.<span class="sort-arrow"></span></th>' +
+    '<th>Summary</th><th>Exegesis</th><th></th>' +
+    '</tr></thead><tbody>';
+  leansDet.forEach(function(s, idx) {
+    html += '<tr data-orig-idx="' + idx + '" data-ref="' + s.book + ' ' + s.reference + '" data-title="' + escHtml(s.section_title) + '" data-conf="' + ({high:0,medium:1,low:2}[s.confidence]||3) + '" data-conv="' + (s.conventional_use||'') + '">';
+    html += '<td><strong>' + s.book + ' ' + s.reference + '</strong></td><td>' + escHtml(s.section_title) + '</td>';
+    html += '<td>' + confSpan(s.confidence) + '</td><td>' + convBadge(s.conventional_use) + '</td>';
+    html += '<td style="max-width:400px">' + escHtml(s.summary) + '</td>';
+    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + '</td>';
+    html += '<td>' + (s.relevance ? '<button class="expand-btn" data-arr="ld" data-aidx="' + idx + '">&#9654;</button>' : '') + '</td>';
+    html += '</tr>';
+  });
+  html += '</tbody></table></div>';
+
+  var strongDet = DATA.filter(function(s) { return s.category === 'STRONG_DETERMINISTIC'; });
+  if (strongDet.length > 0) {
+    strongDet.sort(function(a,b) {
+      var confOrder = {high:0, medium:1, low:2};
+      var ca = confOrder[a.confidence] !== undefined ? confOrder[a.confidence] : 3;
+      var cb = confOrder[b.confidence] !== undefined ? confOrder[b.confidence] : 3;
+      if (ca !== cb) return ca - cb;
+      return BOOK_ORDER.indexOf(a.book) - BOOK_ORDER.indexOf(b.book);
+    });
+    html += '<h2>Strong Deterministic Passages (' + strongDet.length + ')</h2>' +
+      '<p style="margin-bottom:12px">Sections where the text directly addresses God as the one who determines salvation outcomes, as part of the author\'s own argument.</p>';
+    html += '<div class="overflow-x"><table id="sd-table"><thead><tr>' +
+      '<th data-sort="ref">Reference<span class="sort-arrow"></span></th>' +
+      '<th data-sort="title">Section<span class="sort-arrow"></span></th>' +
+      '<th data-sort="conf">Conf.<span class="sort-arrow"></span></th>' +
+      '<th data-sort="conv">Conv.<span class="sort-arrow"></span></th>' +
+      '<th>Summary</th><th>Exegesis</th><th></th>' +
+      '</tr></thead><tbody>';
+    strongDet.forEach(function(s, idx) {
+      html += '<tr data-orig-idx="' + idx + '" data-ref="' + s.book + ' ' + s.reference + '" data-title="' + escHtml(s.section_title) + '" data-conf="' + ({high:0,medium:1,low:2}[s.confidence]||3) + '" data-conv="' + (s.conventional_use||'') + '">';
+      html += '<td><strong>' + s.book + ' ' + s.reference + '</strong></td><td>' + escHtml(s.section_title) + '</td>';
+      html += '<td>' + confSpan(s.confidence) + '</td><td>' + convBadge(s.conventional_use) + '</td>';
+      html += '<td style="max-width:400px">' + escHtml(s.summary) + '</td>';
+      html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + '</td>';
+      html += '<td>' + (s.relevance ? '<button class="expand-btn" data-arr="sd" data-aidx="' + idx + '">&#9654;</button>' : '') + '</td>';
+      html += '</tr>';
+    });
+    html += '</tbody></table></div>';
+  }
+
+  el.innerHTML = html;
+  makeSortable(document.getElementById('sl-table'));
+  makeSortable(document.getElementById('ld-table'));
+  if (document.getElementById('sd-table')) makeSortable(document.getElementById('sd-table'));
+
+  var expandArrays = { sl: strongLib, ld: leansDet, sd: strongDet };
+  el.querySelectorAll('.expand-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var existing = this.closest('tr').nextElementSibling;
+      if (existing && existing.classList.contains('detail-row')) {
+        existing.remove();
+        this.innerHTML = '&#9654;';
+        return;
+      }
+      var arr = expandArrays[this.dataset.arr];
+      var s = arr[parseInt(this.dataset.aidx)];
+      if (!s) return;
+      var detailTr = document.createElement('tr');
+      detailTr.className = 'detail-row';
+      var dh = '<td colspan="7"><div class="detail-content">';
+      if (s.relevance) dh += '<p class="field-label">Relevance</p><p>' + escHtml(s.relevance) + '</p>';
+      if (s.key_phrases && s.key_phrases.length) {
+        dh += '<p class="field-label">Key Phrases</p><div class="key-phrases">' + s.key_phrases.map(function(p) { return '<span>' + escHtml(p) + '</span>'; }).join('') + '</div>';
+      }
+      dh += '</div></td>';
+      detailTr.innerHTML = dh;
+      this.closest('tr').after(detailTr);
+      this.innerHTML = '&#9660;';
+    });
+  });
+})();
+
+// Misapplied tab
+(function() {
+  var el = document.getElementById('tab-misapplied');
+  var misapplied = DATA.filter(function(s) { return s.category === 'MISAPPLIED'; });
+  var html = '<h2>Misapplied Passages (' + misapplied.length + ')</h2>' +
+    '<p style="margin-bottom:12px">Passages conventionally cited in the predestination/free will debate where the neutral first-century reading reveals the text is actually about something else.</p>';
+
+  html += '<div class="overflow-x"><table id="mi-table"><thead><tr>' +
+    '<th data-sort="ref">Reference<span class="sort-arrow"></span></th>' +
+    '<th data-sort="title">Section<span class="sort-arrow"></span></th>' +
+    '<th data-sort="conv">Conv. Use<span class="sort-arrow"></span></th>' +
+    '<th data-sort="conf">Conf.<span class="sort-arrow"></span></th>' +
+    '<th>Summary</th><th>Exegesis</th><th></th>' +
+    '</tr></thead><tbody>';
+  misapplied.forEach(function(s, idx) {
+    html += '<tr data-orig-idx="' + idx + '" data-ref="' + s.book + ' ' + s.reference + '" data-title="' + escHtml(s.section_title) + '" data-conv="' + (s.conventional_use||'') + '" data-conf="' + ({high:0,medium:1,low:2}[s.confidence]||3) + '">';
+    html += '<td><strong>' + s.book + ' ' + s.reference + '</strong></td><td>' + escHtml(s.section_title) + '</td>';
+    html += '<td>' + convBadge(s.conventional_use) + '</td><td>' + confSpan(s.confidence) + '</td>';
+    html += '<td style="max-width:400px">' + escHtml(s.summary) + '</td>';
+    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + '</td>';
+    html += '<td>' + (s.relevance ? '<button class="expand-btn" data-aidx="' + idx + '">&#9654;</button>' : '') + '</td>';
+    html += '</tr>';
+  });
+  html += '</tbody></table></div>';
+  el.innerHTML = html;
+  makeSortable(document.getElementById('mi-table'));
+
+  el.querySelectorAll('.expand-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var existing = this.closest('tr').nextElementSibling;
+      if (existing && existing.classList.contains('detail-row')) {
+        existing.remove();
+        this.innerHTML = '&#9654;';
+        return;
+      }
+      var s = misapplied[parseInt(this.dataset.aidx)];
+      if (!s) return;
+      var detailTr = document.createElement('tr');
+      detailTr.className = 'detail-row';
+      var dh = '<td colspan="7"><div class="detail-content">';
+      dh += '<p class="field-label">What it\'s conventionally cited to prove vs. what it actually addresses</p><p>' + escHtml(s.relevance) + '</p>';
+      if (s.key_phrases && s.key_phrases.length) {
+        dh += '<p class="field-label">Key Phrases</p><div class="key-phrases">' + s.key_phrases.map(function(p) { return '<span>' + escHtml(p) + '</span>'; }).join('') + '</div>';
+      }
+      dh += '</div></td>';
+      detailTr.innerHTML = dh;
+      this.closest('tr').after(detailTr);
+      this.innerHTML = '&#9660;';
+    });
+  });
+})();
+
+// All Sections tab
+(function() {
+  var el = document.getElementById('tab-all');
+  var html = '<h2>All Sections</h2>';
+
+  html += '<div class="filters">' +
+    '<div class="filter-group"><label>Category</label>' +
+    '<div class="cat-toggles" id="cat-toggles">' +
+    CAT_ORDER.map(function(c) {
+      return '<button class="cat-toggle ' + TOGGLE_CLASS[c] + '" data-cat="' + c + '">' + CAT_SHORT[c] + ' (' + totals[c] + ')</button>';
+    }).join('') +
+    '</div></div>' +
+    '<div class="filter-group"><label>Book</label>' +
+    '<select id="filter-book"><option value="">All</option>' + BOOK_ORDER.map(function(b) { return '<option value="' + b + '">' + b + '</option>'; }).join('') + '</select></div>' +
+    '<div class="filter-group"><label>Confidence</label>' +
+    '<select id="filter-conf"><option value="">All</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select></div>' +
+    '<div class="filter-group"><label>Conv. Use</label>' +
+    '<select id="filter-conv"><option value="">All</option><option value="cited_for_determinism">Cited for Determinism</option><option value="cited_for_agency">Cited for Agency</option><option value="cited_by_both">Cited by Both</option><option value="not_in_debate">Not in Debate</option></select></div>' +
+    '<div class="filter-group"><label>Search</label>' +
+    '<input id="filter-search" type="text" placeholder="Search summaries..."></div>' +
+    '<span class="result-count" id="result-count"></span></div>';
+
+  html += '<div class="overflow-x"><table id="all-table"><thead><tr>' +
+    '<th data-sort="book">Book<span class="sort-arrow"></span></th>' +
+    '<th data-sort="ref">Ref<span class="sort-arrow"></span></th>' +
+    '<th data-sort="title">Section<span class="sort-arrow"></span></th>' +
+    '<th data-sort="cat">Category<span class="sort-arrow"></span></th>' +
+    '<th data-sort="conf">Conf.<span class="sort-arrow"></span></th>' +
+    '<th data-sort="conv">Conv.<span class="sort-arrow"></span></th>' +
+    '<th>Summary</th><th>Exegesis</th><th></th>' +
+    '</tr></thead><tbody id="all-tbody"></tbody></table></div>';
+  el.innerHTML = html;
+
+  var tbody = document.getElementById('all-tbody');
+  var activeCats = {};
+  CAT_ORDER.forEach(function(c) { activeCats[c] = true; });
+
+  document.querySelectorAll('#cat-toggles .cat-toggle').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var cat = this.dataset.cat;
+      activeCats[cat] = !activeCats[cat];
+      this.classList.toggle('off', !activeCats[cat]);
+      applyFilters();
+    });
+  });
+
+  function renderRows(sections) {
+    tbody.innerHTML = '';
+    sections.forEach(function(s, i) {
+      var tr = document.createElement('tr');
+      tr.dataset.origIdx = i;
+      tr.dataset.book = s.book;
+      tr.dataset.ref = s.reference || '';
+      tr.dataset.title = s.section_title || '';
+      tr.dataset.cat = CAT_ORDER.indexOf(s.category);
+      tr.dataset.conf = ({high:0,medium:1,low:2})[s.confidence] !== undefined ? ({high:0,medium:1,low:2})[s.confidence] : 3;
+      tr.dataset.conv = s.conventional_use || '';
+      tr.innerHTML =
+        '<td>' + s.book + ' ' + (s.chapter||'') + '</td>' +
+        '<td>' + (s.reference||'') + '</td>' +
+        '<td>' + escHtml(s.section_title) + '</td>' +
+        '<td>' + catBadge(s.category) + '</td>' +
+        '<td>' + confSpan(s.confidence) + '</td>' +
+        '<td>' + convBadge(s.conventional_use) + '</td>' +
+        '<td style="max-width:400px">' + escHtml(s.summary) + '</td>' +
+        '<td>' + exegesisLink(s.book, s.chapter, s.reference) + '</td>' +
+        '<td>' + (s.relevance ? '<button class="expand-btn" data-sect-idx="' + i + '">&#9654;</button>' : '') + '</td>';
+      tbody.appendChild(tr);
+    });
+    document.getElementById('result-count').textContent = sections.length + ' sections';
+
+    tbody.querySelectorAll('.expand-btn').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        var idx = parseInt(this.dataset.sectIdx);
+        var s = currentFiltered[idx];
+        var existing = this.closest('tr').nextElementSibling;
+        if (existing && existing.classList.contains('detail-row')) {
+          existing.remove();
+          this.innerHTML = '&#9654;';
+          return;
+        }
+        var detailTr = document.createElement('tr');
+        detailTr.className = 'detail-row';
+        var detailHtml = '<td colspan="9"><div class="detail-content">';
+        if (s.relevance) detailHtml += '<p class="field-label">Relevance</p><p>' + escHtml(s.relevance) + '</p>';
+        if (s.key_phrases && s.key_phrases.length) {
+          detailHtml += '<p class="field-label">Key Phrases</p><div class="key-phrases">' + s.key_phrases.map(function(p) { return '<span>' + escHtml(p) + '</span>'; }).join('') + '</div>';
+        }
+        detailHtml += '</div></td>';
+        detailTr.innerHTML = detailHtml;
+        this.closest('tr').after(detailTr);
+        this.innerHTML = '&#9660;';
+      });
+    });
+  }
+
+  var currentFiltered = DATA;
+
+  function applyFilters() {
+    var book = document.getElementById('filter-book').value;
+    var conf = document.getElementById('filter-conf').value;
+    var conv = document.getElementById('filter-conv').value;
+    var search = document.getElementById('filter-search').value.toLowerCase();
+    var filtered = DATA.filter(function(s) {
+      if (!activeCats[s.category]) return false;
+      if (book && s.book !== book) return false;
+      if (conf && s.confidence !== conf) return false;
+      if (conv && s.conventional_use !== conv) return false;
+      if (search) {
+        var haystack = ((s.summary||'') + ' ' + (s.relevance||'') + ' ' + (s.section_title||'')).toLowerCase();
+        if (haystack.indexOf(search) < 0) return false;
+      }
+      return true;
+    });
+    currentFiltered = filtered;
+    renderRows(filtered);
+  }
+
+  document.getElementById('filter-book').addEventListener('change', applyFilters);
+  document.getElementById('filter-conf').addEventListener('change', applyFilters);
+  document.getElementById('filter-conv').addEventListener('change', applyFilters);
+  document.getElementById('filter-search').addEventListener('input', applyFilters);
+
+  currentFiltered = DATA;
+  renderRows(DATA);
+  makeSortable(document.getElementById('all-table'));
+})();
+</script>
+</body>
+</html>

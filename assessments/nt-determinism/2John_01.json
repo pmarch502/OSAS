@@ -1,0 +1,69 @@
+{
+    "book": "2 John",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-3",
+            "section_title": "The Greeting -- Truth, Love, and the Indwelling Reality",
+            "category": "NOT_APPLICABLE",
+            "summary": "The elder addresses the recipient community as 'the elect lady and her children,' establishes truth and love as the twin foundations of the relationship, declares that grace, mercy, and peace will be with them from God the Father and Jesus Christ the Son of the Father, and identifies the truth as permanently abiding in the community."
+        },
+        {
+            "reference": "1:4",
+            "section_title": "The Elder's Joy -- Finding Children Walking in Truth",
+            "category": "NOT_APPLICABLE",
+            "summary": "The elder expresses great joy at having found some of the community's members walking in truth, in accordance with the commandment received from the Father."
+        },
+        {
+            "reference": "1:5-6",
+            "section_title": "The Commandment from the Beginning -- Love and Obedience as One",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The elder entreats the community to practice the original commandment from the beginning -- that they love one another -- and defines love as walking according to God's commandments, creating a circular unity between love and obedience.",
+            "relevance": "The entire passage is structured as exhortation: the elder asks (eroto) the community to love one another and to walk according to God's commandments. The imperative and entreaty structure presupposes that the community possesses genuine agency to obey or not obey. Love is defined as walking according to God's commandments -- a habitual, ongoing human action (present subjunctive peripatomen). The neutral reading notes that the elder 'does not issue orders; he makes a request,' treating the community as agents who must choose to continue in the path they have received. While the section does not directly address who determines salvation, its operative framework assumes human beings are genuine agents whose ongoing conduct -- walking in the commandment or not -- is their responsibility to maintain.",
+            "key_phrases": [
+                "I ask you, lady",
+                "that we love one another",
+                "this is love, that we walk according to his commandments",
+                "this is the commandment, just as you have heard from the beginning, that you walk in it"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:7-9",
+            "section_title": "The Deceivers, the Antichrist, and the Danger of Departing from the Teaching",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The elder warns that many deceivers who deny the incarnation have gone out into the world, commands the community to watch themselves so they do not lose what has been worked for, and establishes an absolute binary: the one who abides in the teaching of Christ has the Father and the Son, while the one who goes beyond it does not have God.",
+            "relevance": "This passage directly addresses human beings as genuine agents whose choices determine their standing before God, and does so as the core of the elder's own argument. Three elements converge. First, verse 8 commands the community to 'watch yourselves' (blepete heautous) -- a present imperative placing ongoing responsibility on the community for its own spiritual safety. The neutral reading states explicitly: 'The community's safety depends on its own active watchfulness, not merely on external protection.' Second, the warning 'so that you do not lose what we have worked for' (hina me apolesete) presupposes that what the community possesses -- its standing in truth and fellowship with God -- is not automatically permanent but can be destroyed by accepting false teaching. The neutral reading is unambiguous: 'The warning is meaningless if loss is impossible. The elder writes precisely because loss is possible and the community must act to prevent it.' Third, verse 9 establishes that the human choice to abide or not abide in the teaching of the Christ is the factor that determines whether one 'has God' or 'does not have God.' The one who 'goes ahead' (proagon) and does not 'abide' (menon) in the teaching loses God; the one who abides has both the Father and the Son. There is no third category and no external guarantee that overrides the human decision to remain or depart. The text presents the community's choices -- to watch, to abide, to refuse false teaching -- as the operative factors that determine their continued relationship with God.",
+            "key_phrases": [
+                "watch yourselves, so that you do not lose what we have worked for",
+                "but that you may receive a full reward",
+                "everyone who goes ahead and does not abide in the teaching of Christ does not have God",
+                "the one who abides in the teaching, this one has both the Father and the Son",
+                "no external guarantee removes the community's responsibility to watch itself"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:10-11",
+            "section_title": "The Prohibition of Hospitality -- Practical Response to the Deceivers",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The elder instructs the community not to receive into their house or greet any traveling teacher who does not bring the teaching of the Christ, because extending such hospitality creates participation (koinonia) in the teacher's evil works.",
+            "relevance": "The passage treats the community's choices about whom to welcome as having direct spiritual consequences: greeting a false teacher creates koinonia with his evil works, which the neutral reading identifies as belonging to the sphere of the evil one. The community must exercise discernment and make a deliberate decision that protects its fellowship with God. The neutral reading notes that 'the community's fellowship with God cannot coexist with fellowship extended to those who deny the Son,' making the community's own choice the operative factor in maintaining or compromising its relationship with God. While the immediate subject is hospitality practice rather than salvation directly, the logic assumes the community's agency is genuine and consequential -- their choices about fellowship affect their standing before God.",
+            "key_phrases": [
+                "if anyone comes to you and does not bring this teaching, do not receive him into your house",
+                "do not give him a greeting",
+                "the one who gives him a greeting participates in his evil works"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:12-13",
+            "section_title": "The Closing -- Anticipated Visit and Greetings",
+            "category": "NOT_APPLICABLE",
+            "summary": "The elder expresses his desire to visit the community and speak face to face so that their shared joy may be made complete, and relays greetings from the children of the elect sister community."
+        }
+    ]
+}

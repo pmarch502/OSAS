@@ -1,0 +1,72 @@
+{
+  "book": "1 Peter",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Greeting",
+      "category": "MISAPPLIED",
+      "conventional_use": "cited_for_determinism",
+      "summary": "The greeting identifies the audience as 'elect sojourners of the Dispersion,' applying Israel's corporate covenant identity to Gentile communities, with election grounded in the foreknowledge of God the Father, carried out through the Spirit's sanctification, and directed toward obedience and covenant blood-sprinkling.",
+      "relevance": "This passage is conventionally cited by the Calvinist/predestinarian side to prove that God unconditionally elects individuals to salvation based on his foreknowledge (prognosis). The neutral reading shows that eklektois ('elect, chosen') in LXX usage consistently denotes the corporate identity of Israel as God's chosen people -- not the selection of isolated individuals from a mass. Peter is applying Israel's covenant identity to Gentile communities: they are now the chosen people, the sojourners, the scattered. The 'foreknowledge' (prognosis) is identified as covenantal knowing in the relational sense of Amos 3:2 ('you only have I known') -- purposeful, relational selection of a people, not deterministic predetermination of individuals. The election is directed toward obedience and blood-sprinkling, recapitulating the Sinai covenant pattern where Israel first pledged obedience and then received the covenant blood. The passage addresses the corporate transfer of covenant identity to Gentile communities, not God's unilateral predetermination of which individuals will be saved.",
+      "key_phrases": ["elect sojourners of the Dispersion", "according to the foreknowledge of God the Father", "in the sanctification of the Spirit", "for obedience and sprinkling of the blood of Jesus Christ"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:3-5",
+      "section_title": "Blessing to God for New Birth, Inheritance, and Guarded Salvation",
+      "category": "LEANS_DETERMINISTIC",
+      "conventional_use": "not_in_debate",
+      "summary": "The berakah praises God for causing new birth into a living hope through Christ's resurrection, securing an imperishable inheritance reserved in heaven, and guarding the community by divine power through faith for a salvation ready to be revealed.",
+      "relevance": "Every verb in these verses has God as its subject: God caused the new birth (anagennesas), God reserved the inheritance, God guards the community. The new birth is attributed entirely to God's initiative and mercy, with no prior human action mentioned. However, the neutral reading explicitly notes that in verse 5, both divine power and human faith are operative in the guarding: 'Neither God's power without faith nor faith without God's power is sufficient; they work together.' The new birth itself is also described as corporate -- 'not an individual spiritual experience in isolation but God's act of creating a new people' -- analogous to God creating Israel through the exodus. The section leans deterministic because the emphasis falls heavily on God's unilateral creative act in causing new birth, but the explicit inclusion of faith as the necessary channel of divine protection introduces genuine human participation and prevents a fully deterministic reading.",
+      "key_phrases": ["who according to His great mercy has caused us to be born again", "reserved in heaven for you", "protected by the power of God through faith", "for a salvation ready to be revealed in the last time"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:6-9",
+      "section_title": "Joy in Suffering and the Testing of Faith",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The audience's present suffering is reframed as the testing and refining of their faith, which will be vindicated at Christ's revelation, and their unseen love for and belief in Christ is praised as producing inexpressible joy and yielding the salvation of their souls as faith's outcome.",
+      "relevance": "The metallurgical metaphor of faith tested by fire implies that faith can be found genuine or found wanting -- the fire removes impurities, and what does not survive is not real. This presupposes that faith is a genuine human response that must endure testing, not an irresistible divine gift that cannot fail. The phrase 'obtaining as the outcome of your faith the salvation of your souls' (v. 9) presents salvation as the telos (goal, outcome) of faith -- faith is the path that leads to salvation, and walking that path is the audience's responsibility. The audience is praised for loving and believing in Christ without having seen him (v. 8), treating these as their own genuine responses worthy of commendation, not as automatic products of divine determination.",
+      "key_phrases": ["the tested genuineness of your faith", "more precious than gold which is perishable, even though tested by fire", "you love Him", "believe in Him", "obtaining as the outcome of your faith the salvation of your souls"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:10-12",
+      "section_title": "The Prophets' Search and the Privilege of the Present Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "The prophets of Israel searched and inquired into the salvation now experienced by the audience, the Spirit of Christ within them testifying in advance to Christ's sufferings and subsequent glories, and their ministry is revealed to have served the present community rather than themselves."
+    },
+    {
+      "reference": "1:13-16",
+      "section_title": "The Call to Hope and Holiness",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The transition from indicative to imperative commands the audience to prepare their minds, be sober, fix their hope fully on the coming grace, refuse conformity to former desires, and be holy in all conduct as God is holy, applying the Leviticus holiness command to Gentile communities.",
+      "relevance": "The imperatives presuppose genuine human agency: 'prepare your minds,' 'be sober,' 'fix your hope completely,' 'do not be conformed,' 'be holy.' The prohibition 'do not be conformed to the former lusts which were yours in your ignorance' assumes the audience can choose to conform or not -- the warning is meaningless if conformity is impossible or holiness is automatically conferred. The Leviticus 19:2 quotation ('You shall be holy, for I am holy') was originally addressed to Israel with the expectation that obedience was a real choice with real consequences. Peter applies the same expectation to his audience: their holiness is commanded, not guaranteed by their election.",
+      "key_phrases": ["prepare your minds for action", "fix your hope completely", "do not be conformed to the former lusts", "be holy yourselves also in all your behavior", "You shall be holy, for I am holy"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:17-21",
+      "section_title": "Conduct in Reverent Fear, Ransomed by the Blood of the Lamb",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The audience is told to conduct themselves in reverent fear during their sojourn because the Father they invoke impartially judges each person's work, they were ransomed from futile inherited conduct by Christ's precious blood, and Christ was foreknown before the foundation of the world but manifested in these last times so that their faith and hope would be in God.",
+      "relevance": "The statement that God 'impartially judges according to each one's work' (v. 17) directly presents human conduct as consequential for divine judgment -- outcomes depend on what each person does, not on a predetermined decree. The imperative 'conduct yourselves in fear' presupposes that conduct is within the audience's control and that its quality matters before the impartial Judge. While God's initiative in redemption is affirmed (he ransomed them, Christ was foreknown before creation), the framework of judgment by works and the command for reverent conduct present human beings as genuine agents whose behavior affects their standing before God. The foreknowledge of Christ in verse 20 concerns God's redemptive plan, not the predetermination of individual believers.",
+      "key_phrases": ["the One who impartially judges according to each one's work", "conduct yourselves in fear during the time of your stay on earth", "you were not redeemed with perishable things", "foreknown before the foundation of the world", "your faith and hope are in God"],
+      "confidence": "high"
+    },
+    {
+      "reference": "1:22-25",
+      "section_title": "Purification, Love, and the Imperishable Word",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The audience, having purified their souls through obedience to the truth for genuine brotherly love, is commanded to love one another fervently from the heart, grounded in their new birth through God's imperishable, living, and enduring word -- the same word preached to them, which Isaiah declared outlasts all flesh.",
+      "relevance": "The statement 'you have in obedience to the truth purified your souls' (v. 22) attributes purification to the audience's own act of obedience -- they purified themselves by responding to the gospel, which is presented as a genuine human action. The imperative to 'fervently love one another from the heart' presupposes that love is a willed response, not an automatic product of new birth. While the new birth itself is attributed to God's imperishable word (v. 23), the obedience and purification that characterize the audience's life within the community are presented as their genuine acts of agency.",
+      "key_phrases": ["you have in obedience to the truth purified your souls", "fervently love one another from the heart", "born again not of perishable seed but of imperishable", "through the living and enduring word of God"],
+      "confidence": "high"
+    }
+  ]
+}

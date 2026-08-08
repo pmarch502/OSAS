@@ -1,0 +1,56 @@
+{
+    "book": "Revelation",
+    "chapter": 11,
+    "sections": [
+        {
+            "reference": "11:1-2",
+            "section_title": "The Measuring of the Temple",
+            "category": "NOT_APPLICABLE",
+            "summary": "John is commanded to measure the inner sanctuary, the altar, and the worshippers, while excluding the outer court which is given to the nations for forty-two months — a prophetic sign-act defining and protecting sacred space during a bounded period of trampling."
+        },
+        {
+            "reference": "11:3-6",
+            "section_title": "The Two Witnesses",
+            "category": "NOT_APPLICABLE",
+            "summary": "God commissions two witnesses who embody the full prophetic tradition of Moses and Elijah, granting them delegated authority to prophesy for 1,260 days in sackcloth, with power to shut the sky, turn water to blood, and strike the earth with plagues."
+        },
+        {
+            "reference": "11:7-10",
+            "section_title": "The Beast Kills the Witnesses",
+            "category": "NOT_APPLICABLE",
+            "summary": "After the witnesses complete their testimony, the beast from the abyss kills them; their bodies lie unburied in the great city while the earth-dwellers celebrate the silencing of prophetic testimony they experienced as torment."
+        },
+        {
+            "reference": "11:11-13",
+            "section_title": "Resurrection, Ascension, and Earthquake",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "God resurrects the witnesses by his breath, summons them to heaven while their enemies watch, and sends an earthquake that kills seven thousand; the rest respond by giving glory to God — in explicit contrast to the refusal to repent in 9:20-21.",
+            "relevance": "The neutral reading identifies the response of 'the rest' as the most theologically significant sentence in this part of the chapter, noting it stands in deliberate contrast to 9:20-21 where survivors of the trumpet judgments 'did not repent.' The contrast implies that human response is genuine and variable: the same category of people (earth-dwellers) who refused to respond under escalating judgment do respond to the combined witness of faithful testimony, martyrdom, divine vindication through resurrection, and earthquake. The pattern — that faithful witness-bearing accomplishes what raw judgment cannot — implies God works through testimony and persuasion rather than unilateral determination, and that human resistance, while real, can be broken through by the right mode of divine approach rather than by irresistible force.",
+            "key_phrases": ["the rest were terrified and gave glory to the God of heaven", "the breath of life from God came into them", "great fear fell on those who were watching them"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "11:14",
+            "section_title": "The Transition to the Third Woe",
+            "category": "NOT_APPLICABLE",
+            "summary": "A structural transition declaring the second woe past and the third woe imminent, connecting the witnesses' narrative to the seventh trumpet."
+        },
+        {
+            "reference": "11:15-18",
+            "section_title": "The Seventh Trumpet",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The seventh trumpet sounds and heavenly voices declare that the kingdom of the world has become God's kingdom; the twenty-four elders worship, declaring the time has come to judge the dead, reward God's servants, and destroy those who destroy the earth.",
+            "relevance": "The categories of reward and destruction are defined by human response and action rather than by divine election or predestination. The recipients of reward are identified as 'your bond-servants the prophets and the saints and those who fear your name, the small and the great' — described by their posture of service, holiness, and reverence toward God, not by divine decree selecting them. The condemned are identified as 'those who destroy the earth' — described by their destructive actions. The text could have framed these groups in terms of divine foreordination but instead frames them by what they did and how they oriented themselves toward God, implying that the categories are formed by human choices and responses.",
+            "key_phrases": ["to reward your bond-servants the prophets and the saints and those who fear your name, the small and the great", "to destroy those who destroy the earth"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "11:19",
+            "section_title": "The Opened Temple and the Ark of the Covenant",
+            "category": "NOT_APPLICABLE",
+            "summary": "The heavenly temple is opened to reveal the ark of the covenant, accompanied by an escalating theophany formula — a visual assurance that God's judgments and kingdom are grounded in covenant faithfulness established at Sinai."
+        }
+    ]
+}

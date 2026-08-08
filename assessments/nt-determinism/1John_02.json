@@ -1,0 +1,82 @@
+{
+  "book": "1John",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1-2",
+      "section_title": "The Remedy for Sin and the Scope of Atonement",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "cited_for_agency",
+      "summary": "The author addresses the tension between the goal of sinlessness and the reality of sin by identifying Jesus as the community's advocate before the Father and as the hilasmos (atoning sacrifice) for sins -- not for the community's sins only but for the whole world.",
+      "relevance": "The universal scope of the hilasmos ('not for ours only but also for the whole world') directly bears on the determinism question. If Jesus's atoning provision extends to the entire human order, the provision is not restricted to a predetermined group. The neutral reading explicitly distinguishes the sufficiency of the atonement from its application, noting that 'the benefits are experienced by those who walk in the light, confess their sins, keep the commandments, love the brothers, and confess that Jesus is the Christ.' This distinction implies that God provides universally but human response determines who benefits -- a framework that favors human agency over unilateral divine determination of who is saved.",
+      "key_phrases": ["not for ours only but also for the whole world", "if anyone does sin, we have an advocate with the Father"],
+      "confidence": "high"
+    },
+    {
+      "reference": "2:3-6",
+      "section_title": "The Test of Genuine Knowledge -- Obedience",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The author introduces the first test of genuineness: claimed knowledge of God is verified or falsified by whether a person keeps God's commandments and walks as Jesus walked.",
+      "relevance": "The passage presents human obedience as the determinative evidence of genuine relationship with God. 'The one who says I have come to know him and does not keep his commandments is a liar' treats human conduct as the criterion that establishes or negates standing before God. The neutral reading notes that 'position is verified by practice,' and the imperative framework ('the one who says he abides in him ought himself to walk in the same way that one walked') presupposes that human beings can and must choose to obey, and that this choice is consequential for their standing. The text does not present obedience as unilaterally caused by God but as an obligation the believer is expected to fulfill.",
+      "key_phrases": ["if we keep his commandments", "the one who says I have come to know him and does not keep his commandments is a liar", "the one who says he abides in him ought himself to walk in the same way that one walked"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:7-11",
+      "section_title": "The Commandment -- Old and New -- and the Love Test",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The author presents the love commandment as both old (received from the beginning) and new (being realized in the era of the true light), then tests profession against practice: hating a brother means being in darkness, while loving a brother means abiding in the light.",
+      "relevance": "The passage presents the human disposition of love or hate toward fellow believers as determinative of whether one is in the light or the darkness. The 'one who says' formula tests verbal claims against lived reality, presupposing that humans genuinely choose love or hate and that this choice determines their spiritual state. The phrase 'until now' (heos arti) applied to the one who hates indicates that person has never entered the light -- their own hatred, not God's predetermination, is the cause. The neutral reading notes that 'hatred has done this to them' regarding the blinding of their eyes, attributing their condition to their own disposition rather than to divine decree.",
+      "key_phrases": ["the one who says he is in the light and hates his brother is in the darkness until now", "the one who loves his brother abides in the light", "the darkness has blinded his eyes"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:12-14",
+      "section_title": "The Author's Reassurance of the Community",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author pauses the tests to reassure the community of their standing -- their sins are forgiven, they know the Father, they know the one who is from the beginning, they are strong, the word of God abides in them, and they have overcome the evil one."
+    },
+    {
+      "reference": "2:15-17",
+      "section_title": "The Warning Against Loving the World",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The author commands the community not to love the world or its desires (desire of the flesh, desire of the eyes, pride of life), declaring that the world is passing away but the one who does the will of God abides forever.",
+      "relevance": "The imperative 'do not love the world' presupposes genuine human agency -- the community can choose where to direct its love, and the choice has ultimate consequences. The conditional 'if anyone loves the world, the love of the Father is not in him' treats human love-direction as determinative of relationship with God, not as predetermined. The climactic contrast -- 'the world is passing away... but the one who does the will of God abides forever' -- directly connects a human action (doing God's will) with an eternal outcome (abiding forever), presenting human agency as consequential for ultimate destiny.",
+      "key_phrases": ["do not love the world", "if anyone loves the world, the love of the Father is not in him", "the one who does the will of God abides forever"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:18-23",
+      "section_title": "The Crisis of the Community -- False Teachers and the Denial of Christ",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "cited_for_determinism",
+      "summary": "The author declares it is the last hour, identifies the departed community members as antichrists who denied that Jesus is the Christ, explains that their departure revealed they were never genuinely part of the community, and states that confession or denial of the Son determines whether one has the Father.",
+      "relevance": "This section contains a tension. The statement 'they went out from us, but they were not of us; for if they had been of us, they would have remained' is conventionally cited for determinism, as it could imply that genuine belonging was predetermined and those who departed were never among the elect. However, the neutral reading interprets this as the author 'reading observable behavior as evidence' -- departure reveals what was hidden, not that it was predetermined. The hina clause ('so that it would be shown') describes a divinely permitted unveiling of what was already the case, not a divinely determined outcome. More significantly, the section's climax in verse 23 directly presents human confession or denial as determinative of relationship with God: 'Everyone who denies the Son does not have the Father; the one who confesses the Son has the Father also.' This frames human response -- confessing or denying Jesus as Christ -- as the act that determines access to God, favoring genuine human agency.",
+      "key_phrases": ["they went out from us, but they were not of us", "if they had been of us, they would have remained with us", "everyone who denies the Son does not have the Father; the one who confesses the Son has the Father also"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:24-27",
+      "section_title": "The Safeguard -- Let What You Heard from the Beginning Remain in You",
+      "category": "STRONG_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The author urges the community to let the original message abide in them, states that if it does they will abide in the Son and the Father, identifies the promise as eternal life, and assures them that the anointing (Spirit) they already possess teaches them and renders the departed teachers unnecessary.",
+      "relevance": "The conditional structure directly presents human faithfulness as determinative of salvation outcome: 'If what you heard from the beginning abides in you, you also will abide in the Son and in the Father. And this is the promise which he himself made to us: eternal life.' The imperative 'let that abide in you' frames the community's holding fast as a genuine choice, and the conditional 'if... then' makes the outcome (abiding in Father and Son, receiving the promise of eternal life) contingent on that choice. The contrast with the departed teachers reinforces the point: they chose to leave and deny the Son, thereby severing themselves from the Father and from the life that is in the Son. This is not an aside or illustration but the author's direct argument that human faithfulness to the original message determines ongoing relationship with God and access to eternal life.",
+      "key_phrases": ["let that abide in you which you heard from the beginning", "if what you heard from the beginning abides in you, you also will abide in the Son and in the Father", "this is the promise which he himself made to us: eternal life"],
+      "confidence": "high"
+    },
+    {
+      "reference": "2:28-29",
+      "section_title": "Abiding, Confidence, and the Test of Righteousness",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The author commands the community to abide in Christ so they may have confidence at his appearing rather than shrinking away in shame, and concludes that everyone who practices righteousness has been born of God.",
+      "relevance": "The imperative 'abide in him' presupposes genuine human agency -- the community can choose to abide or not, and the outcome (confidence vs. shame at Jesus's parousia) depends on that choice. The possibility of shrinking away in shame implies that not all outcomes are secured in advance. The concluding statement that 'everyone who practices righteousness has been born of him' could theoretically be read as deterministic (divine birth causes righteousness), but the neutral reading interprets it evidentially: 'Those who practice righteousness reveal their parentage; those who do not, regardless of their claims, reveal that they have not been born of God.' The verb poion (present participle) indicates habitual practice as the criterion, and the entire chapter's framework of testing profession against practice supports reading this as a test of genuineness rather than a statement of divine predetermination.",
+      "key_phrases": ["abide in him, so that when he appears we may have confidence and not shrink away from him in shame", "everyone who practices righteousness has been born of him"],
+      "confidence": "medium"
+    }
+  ]
+}

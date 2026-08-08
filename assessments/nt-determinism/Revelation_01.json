@@ -1,0 +1,64 @@
+{
+    "book": "Revelation",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-3",
+            "section_title": "The Chain of Revelation and the Prophetic Blessing",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author establishes the chain of revelation from God through Christ through an angel to John for the assemblies, identifies the document as prophecy communicated through signs, and pronounces a blessing on those who hear and keep its words.",
+            "relevance": "The prophetic blessing in verse 3 is conditional on human action: 'blessed are those who hear and keep what is written in it.' The neutral reading emphasizes that 'keep' (terountes) is covenant obligation language demanding obedience, not mere reception. The blessing is not pronounced on a predetermined group but on whoever hears and obeys. This structure presupposes that human response — keeping or failing to keep the prophetic instruction — is a genuine factor that determines whether the blessing applies. However, the passage addresses response to prophecy rather than salvation determination directly, so the bearing on the question is indirect.",
+            "key_phrases": ["blessed is the one who reads aloud the words of this prophecy", "blessed are those who hear and keep what is written in it"],
+            "confidence": "low"
+        },
+        {
+            "reference": "1:4-5a",
+            "section_title": "The Epistolary Greeting",
+            "category": "NOT_APPLICABLE",
+            "summary": "The epistolary greeting invokes the triune source of grace and peace — the eternal God, the sevenfold Spirit, and Jesus Christ — and applies three scriptural titles to Christ: faithful witness, firstborn of the dead, and ruler of the kings of the earth."
+        },
+        {
+            "reference": "1:5b-6",
+            "section_title": "The Doxology",
+            "category": "NOT_APPLICABLE",
+            "summary": "The doxology celebrates Christ's ongoing love for the community, his liberation of them from sins through his sacrificial blood, and his constitution of them as a kingdom of priests, structurally replicating the exodus pattern of God's formation of Israel at Sinai."
+        },
+        {
+            "reference": "1:7",
+            "section_title": "The Prophetic Declaration",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author declares that Christ is coming with the clouds, that every eye will see him including those who pierced him, and that all the tribes of the earth will mourn over him, merging Daniel 7:13 with Zechariah 12:10."
+        },
+        {
+            "reference": "1:8",
+            "section_title": "The Divine Self-Declaration",
+            "category": "NOT_APPLICABLE",
+            "summary": "God declares himself the Alpha and Omega, the one who is and was and is to come, the Almighty — establishing his absolute sovereignty over all reality and implicitly countering Roman imperial claims to ultimate authority."
+        },
+        {
+            "reference": "1:9-11",
+            "section_title": "John's Situation and the Commission to Write",
+            "category": "NOT_APPLICABLE",
+            "summary": "John identifies himself as a brother and partner in the shared experience of tribulation, kingdom, and patient endurance, describes his exile on Patmos for the word of God and the testimony of Jesus, and receives the commission to write what he sees and send it to seven named assemblies in Asia."
+        },
+        {
+            "reference": "1:12-16",
+            "section_title": "The Vision of One Like a Son of Man Among the Lampstands",
+            "category": "NOT_APPLICABLE",
+            "summary": "John sees seven golden lampstands and in their midst a figure combining the attributes of the Danielic son of man, the Ancient of Days, the high priest, and the returning glory of God — a composite portrait exceeding any single scriptural category, present among and scrutinizing the assemblies."
+        },
+        {
+            "reference": "1:17-18",
+            "section_title": "John's Response and the Figure's Self-Identification",
+            "category": "NOT_APPLICABLE",
+            "summary": "John collapses before the vision, is restored by the figure's touch, and hears the risen Christ identify himself as the first and the last, the living one who died and is alive forevermore, and the holder of the keys of death and Hades."
+        },
+        {
+            "reference": "1:19-20",
+            "section_title": "The Commission Explained and the Symbols Interpreted",
+            "category": "NOT_APPLICABLE",
+            "summary": "The risen Christ commissions John to write what he has seen, what currently is, and what is about to take place, and interprets the vision's symbols: the seven stars are the angels of the seven assemblies, and the seven lampstands are the seven assemblies themselves."
+        }
+    ]
+}

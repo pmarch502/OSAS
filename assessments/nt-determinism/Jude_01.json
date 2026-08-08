@@ -1,0 +1,82 @@
+{
+    "book": "Jude",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-2",
+            "section_title": "The Salutation: Who Is Writing, and to Whom",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Jude identifies himself as a servant of Jesus Christ and brother of James, addressing the recipients as those who are called, beloved in God the Father, and kept for Jesus Christ.",
+            "relevance": "The three participles describing the recipients -- called (kletois), beloved (egapemenois), and kept (teteremenois) for Jesus Christ -- all use divine passive constructions: God called them, God loves them, God keeps them. The neutral reading notes that 'called' describes 'an action God has taken toward a group,' 'beloved' is 'a settled state' with its source in God, and 'kept' means they 'are being kept -- preserved, guarded -- for Jesus Christ.' This language emphasizes God's initiative and preserving action. However, the neutral reading also signals that the verb tereo will develop a two-sided dynamic across the letter (God keeps in v. 1; humans must keep themselves in v. 21), so the divine preservation here is one side of a bilateral relationship, not a standalone guarantee.",
+            "key_phrases": ["called", "beloved in God the Father", "kept for Jesus Christ"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:3-4",
+            "section_title": "The Occasion: An Intended Letter Displaced by Urgency",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jude explains he changed his planned letter because infiltrators have entered the community who pervert grace into license and deny the Master, and states that these people were long ago designated for this condemnation.",
+            "relevance": "The phrase 'long ago designated for this condemnation' (palai progegrammenoi eis touto to krima) is conventionally cited as evidence that God predestines individuals to reprobation (double predestination). However, the neutral reading explains that progegrammenoi (from prographo, 'to write beforehand') most naturally refers to the scriptural and prophetic precedents Jude is about to deploy: 'the judgment about to be described was written about long ago in the examples Jude is about to cite -- the exodus generation (written about in Numbers), the angels (written about in traditions known to the audience), Sodom and Gomorrah (written about in Genesis), and the prophecy of Enoch.' The 'writing beforehand' refers to the recorded patterns of judgment, not an abstract divine decree selecting individuals for condemnation. Meanwhile, the infiltrators are presented as active agents who chose their path: they 'crept in' by stealth, they 'pervert the grace of our God into sensuality,' and they 'deny our only Master and Lord.' Grace was genuinely given to them and they are actively distorting it.",
+            "key_phrases": ["long ago designated for this condemnation", "pervert the grace of our God into sensuality", "deny our only Master and Lord, Jesus Christ", "crept in unnoticed"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:5-7",
+            "section_title": "Three Historical Precedents of Judgment",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jude cites three historical precedents -- the exodus generation destroyed for unbelief after being rescued, the angels imprisoned for abandoning their assigned station, and Sodom annihilated for crossing created boundaries -- to establish that no prior status protects against judgment when faithfulness is abandoned.",
+            "relevance": "This section is the foundation of Jude's entire argument, and it directly addresses whether salvation once received guarantees salvation completed. The neutral reading is explicit: 'being among the saved people does not immunize a person against destruction' and 'salvation received does not equal salvation completed, and those within the delivered community can be destroyed.' The exodus generation was God's chosen, delivered people who 'saw the plagues, crossed the sea, received manna, heard the voice at Sinai' -- yet those who 'did not believe' (tous me pisteusantas) were destroyed. The human variable is unbelief. The angels 'did not keep (tereo) their own position' -- the failure was their choice to abandon their station. Sodom 'indulged in sexual immorality and pursued unnatural desire' -- the destruction followed human choices. All three examples present the same pattern: God's prior favor is real, but human unfaithfulness determines the negative outcome.",
+            "key_phrases": ["saved a people out of the land of Egypt, afterward destroyed those who did not believe", "the angels who did not keep their own position of authority", "Sodom and Gomorrah ... which likewise indulged in sexual immorality"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:8-13",
+            "section_title": "Application to the Infiltrators: Their Character Exposed",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jude maps the infiltrators' conduct onto the three historical precedents and adds comparisons to Cain, Balaam, and Korah, then deploys a cascade of metaphors -- hidden reefs, waterless clouds, fruitless trees twice dead, wild waves, wandering stars -- to expose their true character.",
+            "relevance": "The section presents the infiltrators as moral agents whose choices place them in the same category as the judged precedents. They 'defile the flesh' (choice), 'reject authority' (choice), and 'blaspheme the glorious ones' (choice). They 'walked in the way of Cain' (Cain who heard God's warning and acted in defiance), 'abandoned themselves for the sake of gain to Balaam's error' (for-profit corruption of spiritual authority), and 'perished in Korah's rebellion' (deliberate rejection of divinely appointed leadership). The tereo wordplay is especially significant: 'being kept can go two ways: those who maintain their position are kept for Christ; those who abandon their position are kept for judgment.' The direction depends on whether one maintains or abandons one's assigned position -- a human choice. The 'twice dead, uprooted' language implies they were once living participants in the community who have died spiritually through their conduct.",
+            "key_phrases": ["defile the flesh, reject authority, and blaspheme the glorious ones", "walked in the way of Cain", "abandoned themselves for the sake of gain to Balaam's error", "perished in Korah's rebellion", "fruitless trees in late autumn, twice dead, uprooted"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:14-16",
+            "section_title": "The Prophecy of Enoch",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jude cites the prophecy of Enoch declaring that the Lord comes with his holy ones to execute judgment on all the ungodly for their deeds, their ungodly manner, and their harsh speech, then applies this directly to the infiltrators as grumblers, malcontents, and self-serving flatterers.",
+            "relevance": "The coming judgment is explicitly tied to human deeds and speech: 'to convict all the ungodly of all their deeds of ungodliness that they have committed in such an ungodly way, and of all the harsh things that ungodly sinners have spoken against him.' Judgment is for what people have done and said -- actions attributable to human agents. The infiltrators are described as 'following their own sinful desires' (kata tas epithymias heauton poreuomenoi), with the reflexive pronoun heauton emphasizing that these desires are their own. The word 'grumblers' (goggystai) explicitly identifies them with the exodus generation who were 'destroyed' for their murmuring -- further reinforcing that human choices led to their destruction.",
+            "key_phrases": ["to convict all the ungodly of all their deeds of ungodliness", "following their own sinful desires", "grumblers, malcontents"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:17-19",
+            "section_title": "The Apostolic Warning: This Was Predicted",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jude reminds the recipients that the apostles had predicted the appearance of scoffers following their own ungodly passions in the last time, and identifies the infiltrators as divisive, worldly people devoid of the Spirit."
+        },
+        {
+            "reference": "1:20-23",
+            "section_title": "Instructions to the Faithful: What the Recipients Must Do",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jude commands the recipients to build themselves up in the faith, pray in the Holy Spirit, keep themselves in God's love, and wait for Christ's mercy leading to eternal life, then instructs three differentiated responses toward those at varying levels of spiritual danger.",
+            "relevance": "This section directly addresses human agency in salvation outcomes through the imperative 'keep yourselves' (heautous teresate) -- the active counterpart to the passive 'kept for Jesus Christ' in verse 1. The neutral reading states explicitly: 'God keeps them (v. 1) and they must keep themselves (v. 21). Both are true simultaneously.' This two-sided tereo dynamic is the letter's structural thesis on how salvation works: divine preservation is real but requires human participation. Furthermore, eternal life is presented not as a present, irrevocable possession but as a future destination: 'the mercy they await leads to eternal life (eis zoen aionion). Eternal life here is not a present possession to be taken for granted but a destination toward which mercy carries them.' The three-tiered rescue instructions (mercy on doubters, snatching others from fire, cautious mercy on the deeply contaminated) assume that people who have begun drifting toward destruction can be recovered through human intervention -- a framework incompatible with unilateral divine determination of outcomes.",
+            "key_phrases": ["keep yourselves in the love of God", "waiting for the mercy of our Lord Jesus Christ that leads to eternal life", "have mercy on those who doubt", "save others by snatching them out of the fire"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:24-25",
+            "section_title": "The Doxology: God's Power to Keep",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jude closes with a doxology praising God as the one who is able to keep the recipients from stumbling and to present them blameless before his glory with great joy.",
+            "relevance": "The doxology affirms God's power to preserve: 'to him who is able to keep you from stumbling' (to dynamento phylaxai hymas aptaistous). This is conventionally cited to support the perseverance of the saints -- God's ability to ensure believers do not ultimately fall. The neutral reading notes the significance of this assurance 'after a letter filled with examples of catastrophic falling,' and the word aptaistous (without stumbling, sure-footed) appears only here in the entire NT. However, the key word is 'able' (dynamento): the text affirms God's capacity to preserve, not an unconditional guarantee that he will do so regardless of human response. In context, this assurance follows the imperative to 'keep yourselves' (v. 21), completing the two-sided framework: the recipients must actively keep themselves in God's love, and the God in whom they keep themselves is able to keep them from falling. The doxology is the divine side of a bilateral relationship, not a unilateral decree.",
+            "key_phrases": ["to him who is able to keep you from stumbling", "to present you blameless before the presence of his glory with great joy"],
+            "confidence": "medium"
+        }
+    ]
+}

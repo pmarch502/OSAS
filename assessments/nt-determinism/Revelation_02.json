@@ -1,0 +1,46 @@
+{
+    "book": "Revelation",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-7",
+            "section_title": "The Message to the Assembly in Ephesus",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The risen Christ commends the Ephesian assembly for its works, endurance, and doctrinal discernment but rebukes it for abandoning its first love, threatens to remove its lampstand unless it repents, and promises the tree of life to the one who conquers.",
+            "relevance": "The passage directly conditions both the assembly's corporate standing and the individual's access to the tree of life (eternal life in restored Eden) on human response. The neutral reading explicitly identifies the conditional structure as 'a genuinely open condition' and states: 'The outcome is not determined. Repentance is possible. Removal is also possible. The choice lies with the assembly.' Three imperatives -- remember, repent, do -- place the responsibility for the outcome squarely on the community. The promise to 'the one who conquers' uses the present active participle (ho nikon), denoting ongoing, sustained human action as the condition for receiving access to the tree of life. The text treats the assembly's continued existence as a light-bearing community and the individual's participation in renewed creation as genuinely contingent on human choices, not as predetermined outcomes.",
+            "key_phrases": ["remember therefore from where you have fallen; repent, and do the works you did at first", "if not, I will come to you and remove your lampstand from its place, unless you repent", "to the one who conquers I will grant to eat of the tree of life"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:8-11",
+            "section_title": "The Message to the Assembly in Smyrna",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The risen Christ acknowledges Smyrna's tribulation, poverty, and slander, exhorts the assembly not to fear coming suffering, commands faithfulness unto death with the promise of the crown of life, and promises the conqueror immunity from the second death.",
+            "relevance": "The passage directly ties two salvation outcomes -- the crown of life and immunity from the second death -- to human faithfulness and conquering. 'Be faithful unto death, and I will give you the crown of life' is a conditional promise: the crown is given in response to demonstrated faithfulness, not distributed by prior decree. The neutral reading makes the logic explicit: 'Faithfulness may cost you your physical life, but it secures you from ultimate destruction. Unfaithfulness may preserve your physical life, but it exposes you to ultimate destruction.' The double negative ou me ('will by no means be hurt') provides the strongest possible assurance to the conqueror -- but only to the conqueror. The promise is not universal; it is conditioned on the human choice to endure. The imperative ginou pistos ('become faithful, prove faithful') treats faithfulness as something the assembly can and must actively exercise, not as a state imposed upon them.",
+            "key_phrases": ["be faithful unto death, and I will give you the crown of life", "the one who conquers will not be hurt by the second death", "do not fear what you are about to suffer"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:12-17",
+            "section_title": "The Message to the Assembly in Pergamum",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The risen Christ commends the Pergamum assembly for holding fast his name even under martyrdom but rebukes it for tolerating the teaching of Balaam and the Nicolaitans, commands corporate repentance, threatens war with the sword of his mouth, and promises the conqueror hidden manna, a white stone, and a new name.",
+            "relevance": "The passage directly conditions judgment and reward on human choices. The assembly as a whole is commanded to repent of its toleration of false teaching; if it does not, Christ will come in war against the offenders. The conditional structure ('if not, I will come') treats the outcome as dependent on whether the assembly acts. The commendation for holding fast (krateis) Christ's name and not denying his faith 'even in the days of Antipas' treats faithfulness under lethal pressure as an active human accomplishment, not a predetermined response. The conquering promise -- hidden manna (divine sustenance replacing idol-food), a white stone (acquittal before the divine judge), and a new name (new identity from God) -- offers salvific rewards specifically and only to those who overcome. The white stone as an acquittal image directly ties the conqueror's standing before God to their response to the challenges described.",
+            "key_phrases": ["you hold fast my name, and you did not deny my faith", "therefore repent. If not, I will come to you soon and will war against them with the sword of my mouth", "to the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:18-29",
+            "section_title": "The Message to the Assembly in Thyatira",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The risen Christ commends Thyatira's growing love, faith, service, and endurance but rebukes it for tolerating a false prophetess who leads his servants into idolatry, announces graduated judgment on her and her followers unless they repent, and promises the conqueror authority over the nations and the morning star.",
+            "relevance": "This passage contains some of the most explicit statements of genuine human agency in the chapter. The neutral reading highlights that God gave the false prophetess 'time to repent, but she refuses to repent' (v. 21), and notes: 'The verb thelo (to will, to want, to desire) places the refusal squarely in her will. She is not unable to repent. She is unwilling.' God extended a genuine opportunity; the refusal was a genuine human choice. Even her followers are given a conditional reprieve: 'unless they repent of her works' (v. 22) -- at every stage, the door of repentance stands open. The judgment principle 'I will give to each of you according to your works' (v. 23) -- drawn from Jeremiah 17:10 and echoing Psalm 62:12 and Romans 2:6 -- makes the outcome a function of human conduct, not prior divine decree. The conquering promise is doubly conditioned: the conqueror must both overcome and keep Christ's works 'until the end' (achri telous). The sustained, active nature of the human requirement is unmistakable.",
+            "key_phrases": ["I gave her time to repent, but she refuses to repent of her sexual immorality", "unless they repent of her works", "I will give to each of you according to your works", "the one who conquers and who keeps my works until the end, to him I will give authority over the nations"],
+            "confidence": "high"
+        }
+    ]
+}

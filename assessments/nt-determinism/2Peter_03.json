@@ -1,0 +1,78 @@
+{
+  "book": "2 Peter",
+  "chapter": 3,
+  "sections": [
+    {
+      "reference": "3:1-2",
+      "section_title": "The Purpose Restated",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author restates the letter's purpose as stirring up the audience's sincere mind by way of reminder, directing them to remember the words of the holy prophets and the commandment of the Lord and Savior delivered by their apostles."
+    },
+    {
+      "reference": "3:3-4",
+      "section_title": "The Scoffers and Their Argument",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The author warns that scoffers will come in the last days, following their own lusts, dismissing the promise of Christ's return by arguing that nothing has changed since the beginning of creation.",
+      "relevance": "The neutral reading identifies the scoffers' denial as morally rather than intellectually driven: 'The scoffers' mockery is not intellectual but moral: they deny the coming judgment because the coming judgment would require them to stop indulging their desires.' Their conduct is described as walking 'according to their lusts as a person walks along a road, with the lusts setting the direction.' The text presents their rejection of God's promise as a choice rooted in their own desires (kata tas idias epithymias), not as a condition imposed on them. Their denial is self-directed and self-motivated, which implies that their eventual standing before God on the day of judgment flows from their own chosen posture toward divine truth.",
+      "key_phrases": ["following after their own lusts", "Where is the promise of His coming?", "all continues just as it was from the beginning of creation"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:5-7",
+      "section_title": "The Author's Rebuttal from Creation and the Flood",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The author rebuts the scoffers by demonstrating that God's word created the heavens and earth, that the same word destroyed the old world by flood, and that the present heavens and earth are being reserved by the same word for fire on the day of judgment and destruction of ungodly men.",
+      "relevance": "The neutral reading identifies the scoffers' ignorance as willful rather than imposed: 'The participle thelontas (willing, wishing, desiring) adds a critical nuance: their ignorance is willful... They choose not to know. Their ignorance is culpable because it is chosen.' The verb thelontas is explicitly contrasted with the prophets' submission in 1:21, where prophecy was not produced by human will -- the scoffers willfully deny what the prophets faithfully transmitted. The text presents their standing before God (destruction with the ungodly, v. 7) as connected to their chosen rejection of available truth, not as a condition God unilaterally imposed. The culpability of their ignorance presupposes that they could have known but chose otherwise.",
+      "key_phrases": ["it escapes their notice... willful", "they choose not to know", "the day of judgment and destruction of ungodly men"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:8-9",
+      "section_title": "The Lord's Patience Explained",
+      "category": "STRONG_LIBERTARIAN",
+      "conventional_use": "cited_for_agency",
+      "summary": "The author explains that God's apparent delay in fulfilling the promise of Christ's return reflects divine patience, not slowness, because God does not wish for any to perish but for all to come to repentance.",
+      "relevance": "This passage is conventionally cited as evidence that God desires universal salvation and that human agency determines the outcome. The neutral reading supports this conventional use. The verb boulomenos ('wishing, desiring, willing') describes God's deliberate intention regarding salvation outcomes, and the scope is explicitly universal within context: 'God does not wish for tinas (any) to perish. The word tinas is indefinite -- any without restriction. God's desire is that pantas (all) come to repentance.' The neutral reading notes the passage 'echoes Ezekiel 18:23, 32 and 33:11, where God declares his desire regarding all people: Do I have any pleasure in the death of the wicked... rather than that he should turn from his ways and live?' The critical implication is that God's universal desire for repentance is not automatically fulfilled -- the false teachers choose corruption despite God's patience. The neutral reading makes this tension explicit: 'God's desire is for repentance; the false teachers' choice is for corruption. The patience that gives time for repentance can be used for either purpose -- to turn back, or to sink deeper.' If God unilaterally determined who would repent, the delay would serve no purpose and God's stated desire that none perish would be automatically fulfilled. The passage presents the delay as God creating opportunity for a genuine human response, and the outcome as dependent on whether people use that opportunity for repentance or further corruption.",
+      "key_phrases": ["not wishing for any to perish but for all to come to repentance", "is patient toward you", "The Lord is not slow about His promise", "every day that judgment has not fallen is a day of opportunity for repentance"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:10",
+      "section_title": "The Day of the Lord",
+      "category": "NOT_APPLICABLE",
+      "summary": "The author describes the day of the Lord coming like a thief, with the heavens passing away with a roar, the elements destroyed with intense heat, and the earth and its works laid bare and exposed for judgment."
+    },
+    {
+      "reference": "3:11-13",
+      "section_title": "The Practical Inference -- What Sort of People",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "Since the present order will be dissolved, the author asks what sort of people the audience ought to be in holy conduct and godliness, exhorting them to look for and hasten the day of God, and to await the promised new heavens and new earth in which righteousness dwells.",
+      "relevance": "The passage presents holy conduct and godliness as necessary human obligations (dei, 'it is necessary, it is binding') in light of the eschatological horizon. The neutral reading notes that the provision of chapter 1 enables the demand of chapter 3: 'God has provided everything pertaining to life and godliness (1:3), and now the audience is asked what sort of people they ought to be in godliness -- the very thing God has equipped them for.' This framework of divine provision enabling human response presupposes genuine agency. The concept of 'hastening the coming of the day of God' through holy conduct implies that human behavior has genuine effect on divine timing, which the neutral reading connects to the idea that 'the day comes when both God's patience has accomplished its purpose and God's people have prepared themselves.' The audience is not passive recipients of a predetermined timetable but active participants whose conduct matters for the eschatological outcome.",
+      "key_phrases": ["what sort of people ought you to be in holy conduct and godliness", "looking for and hastening the coming of the day of God", "new heavens and a new earth, in which righteousness dwells"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "3:14-16",
+      "section_title": "Practical Exhortation and the Reference to Paul",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "The author commands the audience to be diligent to be found spotless and blameless, to regard the Lord's patience as salvation, and notes that Paul wrote to them about these same matters -- though Paul's difficult writings are distorted by the untaught and unstable to their own destruction.",
+      "relevance": "The section reinforces verse 9's framework by commanding the audience to 'regard the patience of our Lord as salvation' -- the delay is salvific because it provides time for repentance and growth. The command to 'be diligent to be found by Him in peace, spotless and blameless' uses the same root (spoudazo) that has characterized the letter's demand for active human effort since 1:5. The neutral reading notes the deliberate antithesis with the false teachers: 'The words aspiloi (spotless) and amometoi (blameless) are the exact opposites of the words used for the false teachers in 2:13: stains and blemishes (spiloi kai momoi).' The audience must be what the false teachers are not -- and the contrast implies genuine choice in both directions. The distortion of Scripture leading to 'their own destruction' (pros ten idian auton apoleian) uses the emphatic 'their own' (idian auton), attributing the destruction to the distorters themselves rather than to divine predetermination.",
+      "key_phrases": ["be diligent to be found by Him in peace, spotless and blameless", "regard the patience of our Lord as salvation", "the untaught and unstable distort", "to their own destruction"],
+      "confidence": "high"
+    },
+    {
+      "reference": "3:17-18",
+      "section_title": "The Final Warning and Doxology",
+      "category": "STRONG_LIBERTARIAN",
+      "conventional_use": "cited_for_agency",
+      "summary": "The author delivers his final warning: the audience must guard themselves against being carried away by the error of unprincipled men and falling from their own steadfastness, and must instead grow in the grace and knowledge of Christ, to whom the letter's closing doxology ascribes eternal glory.",
+      "relevance": "This section directly addresses the audience's salvation standing as dependent on their own vigilance and growth. The neutral reading identifies falling from steadfastness as a genuine possibility that the author's argument requires: 'The falling is presented as a genuine possibility -- not an inevitability, but not an impossibility either. The author considers it a real danger, or the warning would be pointless.' The verb ekpipto ('to fall from') describes departure from a position genuinely held, and the neutral reading connects it to Galatians 5:4: 'The same verb describes falling from grace and falling from steadfastness. In both cases, the fall is from a real, previously occupied position.' The word idiou ('your own') emphasizes that the steadfastness belongs to the audience -- it is genuinely theirs, not nominal. The alternative to falling is growing: 'The two are not simply options but the only alternatives: one either grows or falls. Static maintenance is not offered as a possibility.' The author, writing his final words before death (1:14), presents the audience as genuine agents who must guard themselves (phylassesthe) and grow (auxanete) -- with God's provision enabling but not replacing their response. The divine guarding of Noah (2:5, ephylaxen) and the human self-guarding of the audience (3:17, phylassesthe) are complementary: God guards, and the audience must also be on guard.",
+      "key_phrases": ["be on your guard so that you are not carried away", "fall from your own steadfastness", "grow in the grace and knowledge of our Lord and Savior Jesus Christ", "one either grows or falls"],
+      "confidence": "high"
+    }
+  ]
+}

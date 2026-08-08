@@ -1,0 +1,56 @@
+{
+  "book": "Revelation",
+  "chapter": 18,
+  "sections": [
+    {
+      "reference": "18:1-3",
+      "section_title": "The Angelic Announcement of Babylon's Fall",
+      "category": "NOT_APPLICABLE",
+      "summary": "An angel of overwhelming authority and theophanic radiance descends from heaven and announces Babylon's fall in the prophetic aorist, declaring that she has become a haunt of demons and unclean spirits, because all the nations drank of the wine of her immorality, the kings committed immorality with her, and the merchants grew rich from her wanton luxury."
+    },
+    {
+      "reference": "18:4-8",
+      "section_title": "The Voice from Heaven -- Come Out of Her, My People",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "A voice from heaven commands God's people to come out of Babylon so that they will not participate in her sins and receive her plagues, then decrees that Babylon receive double repayment for her deeds and that her boast of invulnerability be answered by sudden, total destruction.",
+      "relevance": "The call 'Come out of her, my people' (exelthate ex autes, ho laos mou) is an aorist imperative -- a command that presupposes the capacity to obey or disobey. The neutral reading notes that the call 'demands extraction from the system, not merely geographical relocation' and that it is 'a command, not an invitation.' The purpose clauses that follow are critical: 'so that you will not participate in her sins' (hina me synkoinonesete tais hamartiais autes) and 'so that you will not receive of her plagues' (ek ton plegon autes hina me labete). The text presents two outcomes -- sharing in Babylon's sins and plagues, or escaping them -- and ties the outcome directly to human response to the divine command. If participation in sin leads to reception of plague, and if the call to come out is a genuine command requiring obedience, then the text frames the outcome as contingent on human choice. The passage does not directly address the mechanism of salvation in the abstract, but it presents a scenario in which God's people must act -- must choose to disengage from a condemned system -- in order to avoid sharing in its judgment. The neutral reading's comparison to the Exodus reinforces this: each exodus (from Egypt, from historical Babylon, from eschatological Babylon) involves a call that requires response and a departure that requires action.",
+      "key_phrases": ["Come out of her, my people", "so that you will not participate in her sins and receive of her plagues", "a command, not an invitation", "demands extraction from the system"],
+      "confidence": "high"
+    },
+    {
+      "reference": "18:9-10",
+      "section_title": "The First Lament -- The Kings of the Earth",
+      "category": "NOT_APPLICABLE",
+      "summary": "The kings of the earth who partnered with Babylon in immorality and luxury stand at a distance, weeping and lamenting as they see the smoke of her burning, crying 'Woe, woe' over the strong city whose judgment came in a single hour."
+    },
+    {
+      "reference": "18:11-17a",
+      "section_title": "The Second Lament -- The Merchants of the Earth",
+      "category": "NOT_APPLICABLE",
+      "summary": "The merchants of the earth weep because no one buys their cargoes anymore, and the text catalogs twenty-eight items of luxury trade in a descending order from gold to human souls -- culminating in 'bodies and souls of men' (somaton kai psychas anthropon) -- exposing Babylon's economy as built on the commodification of human beings."
+    },
+    {
+      "reference": "18:17b-19",
+      "section_title": "The Third Lament -- The Seafarers",
+      "category": "NOT_APPLICABLE",
+      "summary": "Every shipmaster, sailor, and maritime worker stands at a distance, throws dust on their heads, and mourns the great city whose wealth enriched all who had ships at sea, repeating the refrain 'in one hour she has been laid waste.'"
+    },
+    {
+      "reference": "18:20",
+      "section_title": "The Call to Rejoice",
+      "category": "NOT_APPLICABLE",
+      "summary": "A voice calls heaven, the saints, apostles, and prophets to rejoice over Babylon because God has pronounced judgment on their behalf against her, answering the martyrs' cry from 6:10 and releasing the structural tension that has built through the document."
+    },
+    {
+      "reference": "18:21-24",
+      "section_title": "The Millstone and the Silence of Babylon",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "A strong angel hurls a great millstone into the sea as a sign of Babylon's irrecoverable destruction, then pronounces a sevenfold litany of 'no longer' over the silenced city; the reasons given are that her merchants were the earth's ruling elite, that all the nations were deceived by her sorcery, and that in her was found the blood of prophets, saints, and all who have been slain on the earth.",
+      "relevance": "The passage holds together two realities that bear on the agency question. First, 'all the nations were deceived by your sorcery' (en te pharmakeia sou eplanesthesan panta ta ethne) -- the verb is passive, indicating the nations were acted upon by Babylon's deceptive power. The neutral reading connects this deception to the dragon's program (12:9, 13:14, 19:20, 20:10), identifying Babylon as 'the commercial and cultural face of the deceiving power.' Second, the text nonetheless holds the participants morally accountable: the blood of 'all who have been slain on the earth' is found in Babylon, and God's judgment is pronounced as righteous vindication. The broader chapter context reinforces accountability -- the nations 'drank' willingly (18:3), the kings 'committed immorality' with her (18:3, 9), the merchants 'became rich' from her system (18:3, 15). The text does not present the nations' deception as eliminating their culpability; rather, Babylon bears guilt for the deception and the nations bear guilt for their participation. The framework of moral accountability despite powerful deception implies that the nations retained genuine agency even under the influence of Babylon's pharmakeia. This has indirect but real implications for the determinism question: if humans can be held accountable for choices made under deception, the text presupposes a meaningful degree of human agency in the face of powers that seek to determine their allegiance.",
+      "key_phrases": ["all the nations were deceived by your sorcery", "in her was found the blood of prophets and of saints and of all who have been slain on the earth", "the commercial and cultural face of the deceiving power"],
+      "confidence": "medium"
+    }
+  ]
+}

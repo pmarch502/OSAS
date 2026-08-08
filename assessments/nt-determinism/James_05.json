@@ -1,0 +1,70 @@
+{
+    "book": "James",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-3",
+            "section_title": "The Rich Addressed -- Rotting Wealth and Coming Misery",
+            "category": "NOT_APPLICABLE",
+            "summary": "James pronounces prophetic judgment on the rich, declaring that their hoarded wealth has rotted and will serve as forensic evidence against them at the eschatological reckoning, using the prophetic perfect tense to treat the coming judgment as already accomplished."
+        },
+        {
+            "reference": "5:4-6",
+            "section_title": "The Specific Charges -- Oppression, Luxury, and Murder",
+            "category": "NOT_APPLICABLE",
+            "summary": "James specifies the crimes of the rich -- withholding laborers' wages, living in luxury and self-indulgence, condemning and killing the righteous -- framing their oppression in the pattern of the Exodus narrative where the exploited cry reaches the ears of the Lord of Sabaoth."
+        },
+        {
+            "reference": "5:7-9",
+            "section_title": "Patience Until the Coming of the Lord",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James commands the community to be patient until the parousia, using the farmer awaiting rains as an illustration, and warns against grumbling against one another lest they themselves fall under judgment from the Judge who is already standing at the door.",
+            "relevance": "The passage presupposes that the community's conduct genuinely affects their eschatological standing. The warning 'so that you yourselves may not be judged' treats grumbling as a human choice that brings the grumbler under divine judgment -- the same judgment framework of 2:12-13 where mercy or mercilessness in conduct determines the character of the judgment received. The command to 'strengthen your hearts' presents inner resolve as something humans can and must actively cultivate, the opposite of the double-mindedness (dipsychos) that the letter diagnoses as a human failure, not a divinely imposed condition.",
+            "key_phrases": ["do not complain against one another so that you yourselves may not be judged", "the Judge is standing right at the door", "strengthen your hearts"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:10-11",
+            "section_title": "The Prophets and Job as Models of Endurance",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James offers the prophets and Job as models of suffering and patience, declaring that those who endured are counted blessed and that God brought Job's story to a compassionate and merciful outcome.",
+            "relevance": "The declaration 'we count those blessed who endured' echoes 1:12 where the crown of life is promised to the one who perseveres under trial -- blessedness is contingent on human endurance. At the same time, the 'outcome of the Lord's dealings' (telos kyriou) shows God as the one who completes the story. The framework is cooperative: humans must endure, and God brings the story to its good end. Neither element is collapsed into the other -- the endurance is genuinely the person's own, and the outcome is genuinely God's provision. This is a synergistic model, not a unilateral one.",
+            "key_phrases": ["we count those blessed who endured", "the endurance of Job", "the outcome of the Lord's dealings", "the Lord is full of compassion and is merciful"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:12",
+            "section_title": "The Integrity of Speech",
+            "category": "NOT_APPLICABLE",
+            "summary": "James prohibits oath-swearing and demands that the community's speech be so consistently truthful that external guarantees are unnecessary, warning that inconsistent speech brings the speaker under divine judgment."
+        },
+        {
+            "reference": "5:13-16a",
+            "section_title": "Prayer, Anointing, and Confession",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James prescribes communal practices for the full range of human experience -- prayer in suffering, praise in joy, calling the elders for anointing and prayer over the sick, and mutual confession of sins -- declaring that the prayer of faith will save the sick person and that the Lord will raise him up and forgive his sins.",
+            "relevance": "The passage uses sōzō ('will save') in its full range, connecting to the letter's salvation language (1:21, 2:14, 4:12). The prayer of faith 'will save the one who is sick' presents human faith-action as the means through which divine saving power operates. God is the agent who raises and forgives (divine passives), but this divine action is activated through human prayer, faith, and communal confession. The model is not unilateral divine determination but divine response to genuine human initiative -- the community's actions of praying, confessing, and anointing are presented as having real efficacy in securing divine outcomes. This directly answers 2:14 ('can that faith save him?'): faith expressed in prayer is the faith that saves.",
+            "key_phrases": ["the prayer offered in faith will restore the one who is sick", "the Lord will raise him up", "if he has committed sins they will be forgiven him", "confess your sins to one another and pray for one another so that you may be healed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:16b-18",
+            "section_title": "The Power of the Righteous Person's Prayer",
+            "category": "NOT_APPLICABLE",
+            "summary": "James declares that the effective prayer of a righteous person accomplishes much and illustrates this with Elijah, who was a person of the same nature as the community yet whose prayers stopped and started the rain, locating the community in the prophetic succession."
+        },
+        {
+            "reference": "5:19-20",
+            "section_title": "Turning Back the Wanderer",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James closes the letter by declaring that if anyone among the community strays from the truth and another turns him back, the one who turns a sinner from the error of his way will save his soul from death and cover a multitude of sins.",
+            "relevance": "This passage directly addresses salvation outcomes and presents them as determined by human agency at every point. First, a community member can 'stray from the truth' -- a person who was 'among you' (en hymin, within the community of faith) can wander away, which presupposes that belonging to the community does not guarantee perseverance. Second, another community member can 'turn him back' (epistrephō, the LXX word for repentance/return) -- human intervention can reverse the trajectory. Third, this turning 'will save his soul from death' -- the verb sōzō applied to psychē ek thanatou directly addresses the reversal of the desire-sin-death trajectory of 1:14-15 and presents it as accomplished through human action. The passage is the climax of the author's own argument, not an aside or illustration. The entire letter has been building toward this: humans whose choices led them toward death can be rescued by other humans whose choices lead them toward restoration. No element of the passage suggests that the wandering was predetermined or that the rescue was unilaterally determined by God.",
+            "key_phrases": ["if any among you strays from the truth", "one turns him back", "will save his soul from death", "will cover a multitude of sins"],
+            "confidence": "high"
+        }
+    ]
+}

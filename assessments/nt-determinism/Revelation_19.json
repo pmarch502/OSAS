@@ -1,0 +1,60 @@
+{
+  "book": "Revelation",
+  "chapter": 19,
+  "sections": [
+    {
+      "reference": "19:1-4",
+      "section_title": "The Hallelujah Chorus -- Heaven Celebrates Babylon's Fall",
+      "category": "NOT_APPLICABLE",
+      "summary": "A great multitude in heaven celebrates Babylon's fall with the first three of four Hallelujahs -- the only occurrences of this Hebrew liturgical word in the New Testament -- declaring that God's judgments are true and righteous, that he has judged the harlot who corrupted the earth, and that he has avenged the blood of his servants on her, definitively answering the martyrs' cry of 6:10."
+    },
+    {
+      "reference": "19:5-8",
+      "section_title": "The Voice from the Throne and the Marriage of the Lamb",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "A voice from the throne commands all God's servants to praise him; the great multitude responds with the fourth Hallelujah declaring that the Almighty reigns, announces that the marriage of the Lamb has come, and states that the bride has made herself ready by clothing herself in fine linen identified as the righteous acts of the saints -- a garment that is simultaneously given by God and constituted by the community's own obedience.",
+      "relevance": "The neutral reading identifies a tension between divine gift and human response that is held together rather than resolved into one pole: 'God gives the garment; the community fills it with their deeds.' The bride 'has made herself ready' (hētoimasen heautēn) -- an active verb indicating the preparation is not passive reception but active response. The fine linen is the dikaiōmata tōn hagiōn, the righteous acts of the saints, meaning the bridal garment's substance is the community's actual obedient conduct. The neutral reading states explicitly: 'The bride's readiness is not automatic or guaranteed; it depends on the dikaiōmata of the saints -- the actual righteous acts performed by the faithful.' This presents human conduct as genuinely affecting the community's eschatological standing. If the bride's readiness were unilaterally determined by God irrespective of the saints' behavior, the identification of the linen with their righteous acts would be decorative rather than constitutive. Instead, the text treats the saints' deeds as the very fabric of the garment without which the bride is not ready.",
+      "key_phrases": ["his bride has made herself ready", "it was given to her to clothe herself in fine linen, bright and clean", "the fine linen is the righteous acts of the saints"],
+      "confidence": "high"
+    },
+    {
+      "reference": "19:9",
+      "section_title": "The Beatitude -- The Marriage Supper of the Lamb",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "An angel commands John to write the fourth of the document's seven beatitudes -- 'Blessed are those who are invited to the marriage supper of the Lamb' -- and authenticates it as true words of God; the invitation originates from God (the divine passive keklēmenoi), but the parabolic tradition behind the image makes participation conditional on acceptance and readiness.",
+      "relevance": "The invitation to the marriage supper is divine in origin (keklēmenoi, perfect passive participle: 'those who have been invited'), affirming that God initiates the call. However, the neutral reading connects this to the parable tradition of Matthew 22:1-14 and 25:1-13, noting that 'in both parables, participation in the wedding feast is conditional: those who refuse the invitation or who are unprepared are excluded.' The juxtaposition of two suppers within the same chapter -- the marriage supper of the Lamb (19:9) and the great supper of God (19:17) -- presents the hearers with two destinies. The neutral reading describes these as 'two meals set before the hearers as two destinies,' treating the assemblies as agents who face a genuine choice. Divine initiative (the invitation) and human response (acceptance, readiness) are both present; the text does not present the invitation as irresistible or the attendance as automatic.",
+      "key_phrases": ["Blessed are those who are invited to the marriage supper of the Lamb", "these are true words of God"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "19:10",
+      "section_title": "The Rebuke -- Worship God",
+      "category": "NOT_APPLICABLE",
+      "summary": "John falls at the angel's feet to worship him but is rebuked: the angel identifies himself as a fellow servant (syndoulos) of John and his brethren who hold the testimony of Jesus, commands John to worship God alone, and declares that the testimony of Jesus is the spirit of prophecy -- reinforcing the document's central demand that worship belongs exclusively to God."
+    },
+    {
+      "reference": "19:11-16",
+      "section_title": "Heaven Opens -- The Rider on the White Horse",
+      "category": "NOT_APPLICABLE",
+      "summary": "Heaven opens and a rider appears on a white horse, identified by the titles Faithful and True, the Word of God, and King of Kings and Lord of Lords; he has eyes of flame, many diadems, a blood-dipped robe, and a sharp sword from his mouth; his heavenly armies follow him clothed in fine linen but carry no weapons, as the rider alone bears the sword of his word and treads the winepress of God's fierce wrath, fulfilling Isaiah 11 and Isaiah 63."
+    },
+    {
+      "reference": "19:17-18",
+      "section_title": "The Angel in the Sun -- The Great Supper of God",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "An angel standing in the sun summons all the birds of midheaven to assemble for the great supper of God -- a carrion feast on the flesh of kings, commanders, mighty men, horses, riders, and all people both free and slave, small and great -- drawing directly on Ezekiel 39:17-20 and forming a deliberate, devastating contrast with the marriage supper of the Lamb announced in 19:9.",
+      "relevance": "The neutral reading frames the two suppers as two destinies set before the hearers: 'Two banquets, two outcomes: those invited to the Lamb's supper are blessed (19:9); those who become the food at God's supper are the armies of the beast.' The catalog of victims -- covering every social stratum from kings to slaves -- mirrors the beast's universal coercion in 13:16 ('the small and the great, the rich and the poor, the free men and the slaves'), indicating that those who aligned with the beast across every rank now face the same fate. The language of alignment implies a prior choice of allegiance. The neutral reading describes the two suppers as 'an appeal to the listening assemblies: which supper will you attend?' -- treating the hearers as genuine agents whose present allegiance determines which destiny they face. The determining factor is identified as 'present faithfulness,' not a prior divine decree.",
+      "key_phrases": ["Come, assemble for the great supper of God", "the flesh of all men, both free men and slaves, and small and great"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "19:19-21",
+      "section_title": "The Defeat of the Beast and the False Prophet",
+      "category": "NOT_APPLICABLE",
+      "summary": "The beast, the kings of the earth, and their armies assemble for the anticipated war against the rider but no battle is described; the beast is simply seized along with the false prophet who deceived those who received the mark and worshiped the image, and the two are thrown alive into the lake of fire; the rest are killed by the sword from the rider's mouth, and all the birds are filled with their flesh -- completing the Ezekiel 39 template and the systematic dismantling of the dragon's adversarial system."
+    }
+  ]
+}

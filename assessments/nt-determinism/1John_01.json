@@ -1,0 +1,48 @@
+{
+    "book": "1John",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-2",
+            "section_title": "The Prologue — Eyewitness Testimony to the Word of Life",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author establishes his authority through a cascade of sensory verbs — heard, seen, gazed upon, touched — testifying to a firsthand physical encounter with 'the word of life,' the eternal life that was with the Father and was manifested to the eyewitness circle."
+        },
+        {
+            "reference": "1:3-4",
+            "section_title": "The Purpose — Fellowship and Complete Joy",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author states the letter's purpose: to bring the audience into the fellowship (koinonia) that the eyewitnesses share with the Father and with his Son Jesus the Messiah, so that the community's joy may be made complete.",
+            "relevance": "The purpose clause 'so that you too may have fellowship with us' (hina kai hymeis koinonian echete meth' hemon) presents fellowship with God as something the audience is invited into through proclamation and must enter by response. The subjunctive mood ('may have') implies possibility contingent on reception, not a guaranteed outcome determined in advance. The neutral reading notes that 'proclamation without reception leaves joy unfinished,' treating audience response as genuinely open. The relational chain (audience — eyewitnesses — Father and Son) structures salvation as mediated through testimony that can be received or refused, not as unilaterally assigned.",
+            "key_phrases": ["so that you too may have fellowship with us", "our fellowship is with the Father, and with His Son Jesus Christ", "so that our joy may be made complete"],
+            "confidence": "low"
+        },
+        {
+            "reference": "1:5",
+            "section_title": "The Message — God is Light",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author delivers the foundational message received from Jesus: God is light and in him there is no darkness at all — a categorical declaration about God's nature that serves as the governing principle for every ethical test in the letter."
+        },
+        {
+            "reference": "1:6-7",
+            "section_title": "The First Pair of Conditionals — Walking in Darkness and Walking in the Light",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author applies the light-darkness principle through two conditionals: claiming fellowship while walking in darkness is lying and not practicing the truth, while walking in the light produces fellowship with one another and ongoing cleansing from all sin through the blood of Jesus.",
+            "relevance": "The conditional structure directly ties salvific benefits — fellowship with God's community and ongoing cleansing from sin by the blood of Jesus — to human conduct. 'If we walk in the light' presents walking as a genuine human activity whose presence or absence determines whether cleansing occurs. The neutral reading emphasizes the present tense of 'cleanses' (katharizei) as indicating continuous action belonging to 'those who walk in the light,' making the salvific benefit an ongoing reality conditioned on ongoing human conduct rather than a settled status determined apart from human response. The negative conditional (v. 6) equally implies agency: the person who claims fellowship but walks in darkness is held accountable for a genuine choice, not described as acting out an assigned role.",
+            "key_phrases": ["if we say that we have fellowship with Him and yet walk in the darkness, we lie", "if we walk in the light as He Himself is in the light", "the blood of Jesus His Son cleanses us from all sin"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:8-10",
+            "section_title": "Three Statements About Sin — Self-Deception, Confession, and Making God a Liar",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author presents two more 'if we say' diagnostics — claiming present sinlessness is self-deception, claiming a sinless history makes God a liar — bracketing the positive prescription: if we confess our sins, God is faithful and righteous to forgive and cleanse from all unrighteousness.",
+            "relevance": "Verse 9 establishes a conditional dynamic in which a genuine human act (confession) activates a guaranteed divine response (forgiveness and cleansing). The neutral reading identifies confession (homologeo, 'to say the same thing as God') as ongoing habitual practice (present subjunctive homologomen), not a one-time event. God's response is grounded in his character ('faithful and righteous'), but it is explicitly conditional on the human act of confessing. The alternative outcomes — self-deception (v. 8) and making God a liar (v. 10) — likewise follow from genuine human choices to deny sin rather than confess it. The escalating severity (lying → self-deception → making God a liar) treats human moral choices as consequential and real, not as pre-scripted. The entire pattern — human confession as the condition for divine forgiveness — presupposes that humans are genuine agents whose response affects their standing before God.",
+            "key_phrases": ["if we confess our sins, He is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness", "if we say that we have no sin, we are deceiving ourselves", "if we say that we have not sinned, we make Him a liar"],
+            "confidence": "medium"
+        }
+    ]
+}

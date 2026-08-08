@@ -1,0 +1,58 @@
+{
+    "book": "James",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-3",
+            "section_title": "The Source of Quarrels -- Desires at War",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James traces community quarrels and conflicts to internal pleasures and desires that wage war within the members, producing a cycle of frustrated desire, envy, violence, and unanswered prayer corrupted by self-serving motives.",
+            "relevance": "The entire passage presupposes genuine human agency: the community members desire, covet, fight, fail to ask, and ask with wrong motives. Their choices produce the social destruction around them. The statement 'you do not have because you do not ask' (4:2) implies the capacity to choose differently -- they could ask God, who gives generously (1:5), but they pursue gratification through worldly competition instead. The corrupted prayers of 4:3 further demonstrate that the quality of human intention determines whether petitions are answered, reinforcing a framework in which human orientation and choices are genuinely consequential before God.",
+            "key_phrases": ["your pleasures that wage war in your members", "you do not have because you do not ask", "you ask with wrong motives, so that you may spend it on your pleasures"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:4-6",
+            "section_title": "Friendship with the World as Spiritual Adultery",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James declares that friendship with the world constitutes hostility toward God, invoking the prophetic tradition of spiritual adultery, affirming God's jealous demand for exclusive loyalty, and quoting Proverbs 3:34 to establish that God resists the proud but gives grace to the humble.",
+            "relevance": "This passage directly addresses how human choices determine one's standing before God, and it does so as the core of James's own argument. The verb boulomai ('to will, to choose') and the verb kathistēmi ('to constitute, to appoint') in 'whoever wishes to be a friend of the world makes himself an enemy of God' (4:4) present the person as the agent who actively constitutes their own status as God's enemy through a deliberate choice of allegiance. The opposition is framed as a genuine binary in which the human being decides which side they stand on. The Proverbs 3:34 quotation reinforces this: grace is available, but it flows to the humble, not the proud -- the human posture determines whether grace is received. The framework is not one of unilateral divine determination but of divine provision contingent on human orientation.",
+            "key_phrases": ["whoever wishes to be a friend of the world makes himself an enemy of God", "He jealously desires the Spirit which He has made to dwell in us", "God is opposed to the proud, but gives grace to the humble"],
+            "confidence": "high"
+        },
+        {
+            "reference": "4:7-10",
+            "section_title": "The Call to Repentance -- Ten Imperatives",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James issues ten imperatives constituting a concentrated call to repentance -- submit to God, resist the devil, draw near to God, cleanse hands, purify hearts, be miserable, mourn, weep, turn laughter to mourning, humble yourselves -- with promises of divine response attached to human action.",
+            "relevance": "This is James's direct argument about how the community's standing before God is restored, and human agency is the operative mechanism throughout. Every imperative presupposes the audience's capacity to obey: submit, resist, draw near, cleanse, purify, mourn, humble yourselves. The promises are explicitly conditional on human action: 'Resist the devil and he will flee from you' (4:7), 'Draw near to God and He will draw near to you' (4:8), 'Humble yourselves in the presence of the Lord, and He will exalt you' (4:10). The reciprocal pattern -- drawn from Zechariah 1:3 and Malachi 3:7 -- makes God's response contingent on human initiative. The command to the dipsychoi ('double-minded') to 'purify your hearts' (4:8) treats the condition diagnosed as disqualifying in 1:8 as curable through human action. The neutral reading explicitly notes that 'exaltation is not something the community achieves through self-promotion' but is 'what God does for those who humble themselves' -- divine action that follows and responds to human choice, not divine action that precedes and determines it.",
+            "key_phrases": ["submit therefore to God", "resist the devil and he will flee from you", "draw near to God and He will draw near to you", "purify your hearts, you double-minded", "humble yourselves in the presence of the Lord, and He will exalt you"],
+            "confidence": "high"
+        },
+        {
+            "reference": "4:11-12",
+            "section_title": "Speaking Against One Another and Judging the Law",
+            "category": "NOT_APPLICABLE",
+            "summary": "James prohibits speaking against fellow community members, arguing that slandering a brother amounts to judging the law itself, and declares that God alone is the Lawgiver and Judge who has the power to save and to destroy."
+        },
+        {
+            "reference": "4:13-16",
+            "section_title": "Presumptuous Planning and the Vapor of Life",
+            "category": "NOT_APPLICABLE",
+            "summary": "James rebukes traveling merchants who plan commercial ventures with absolute confidence and no reference to God, declaring human life to be a vapor that appears briefly and vanishes, and prescribing the formula 'if the Lord wills' as the proper frame for all human planning."
+        },
+        {
+            "reference": "4:17",
+            "section_title": "Knowing and Not Doing as Sin",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James states the general principle that knowing the right thing to do and failing to do it constitutes sin, restating the letter's thesis from 1:22 in its most absolute moral form.",
+            "relevance": "The principle presupposes genuine moral agency: the person knows the good (settled knowledge, eidoti as perfect participle), has the capacity to do it, and their choice not to do it is what constitutes sin. The framework is one in which human decisions -- not divine predetermination -- create the moral category of sin. This connects to the letter's broader argument that the gap between hearing/knowing and doing is the decisive factor in one's standing before God (1:22-25, 2:14-26), reinforcing a view in which human choices are genuinely consequential for salvation outcomes.",
+            "key_phrases": ["to one who knows the right thing to do and does not do it, to him it is sin"],
+            "confidence": "medium"
+        }
+    ]
+}

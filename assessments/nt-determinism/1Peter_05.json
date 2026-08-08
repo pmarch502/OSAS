@@ -1,0 +1,38 @@
+{
+    "book": "1Peter",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-4",
+            "section_title": "The Charge to Elders",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter appeals to the elders as a fellow elder, witness of Christ's sufferings, and partaker of the coming glory, charging them to shepherd God's flock willingly, eagerly, and by example rather than under compulsion, for greed, or by domineering, with the promise of an unfading crown of glory when the Chief Shepherd appears."
+        },
+        {
+            "reference": "5:5-7",
+            "section_title": "Humility Under the Mighty Hand of God",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter instructs the younger to submit to elders and all to clothe themselves with humility toward one another, grounding the instruction in the Proverbs 3:34 quotation that God opposes the proud but gives grace to the humble, and drawing out the practical conclusion: humble yourselves under God's mighty hand so that He may exalt you at the proper time, casting all anxiety on Him because He cares.",
+            "relevance": "The quotation of Proverbs 3:34 establishes a conditional dynamic in which God's response -- opposition or grace -- is determined by the human posture of pride or humility. The imperative 'humble yourselves' presupposes that the audience has genuine capacity to adopt or refuse this posture, and the purpose clause 'so that He may exalt you' presents divine exaltation as conditioned on human humbling. God is sovereign (His mighty hand, His timing), but the text does not present His exaltation as unilateral or irrespective of human response. The framework is: God initiates (calls, sustains, cares), humans respond (humble themselves, cast anxiety), and the outcome (exaltation, grace) flows from the interaction of both.",
+            "key_phrases": ["God is opposed to the proud, but He gives grace to the humble", "humble yourselves under the mighty hand of God, so that He may exalt you at the proper time", "casting all your anxiety on Him, because He cares about you"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:8-11",
+            "section_title": "The Adversary, Resistance, and the Promise of Restoration",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter warns the community to be sober and alert because the devil prowls like a roaring lion seeking to devour, commands them to resist him firm in faith, assures them that the same sufferings are being endured by believers worldwide, and declares the climactic promise that the God of all grace who called them to His eternal glory in Christ will Himself perfect, confirm, strengthen, and establish them after their brief suffering.",
+            "relevance": "The passage holds divine initiative and human agency in active tension. On one side, the imperatives 'be sober,' 'be alert,' and 'resist him' presuppose genuine human capacity to stand or fall, and the adversary 'seeking someone to devour' treats being devoured as a real possibility whose prevention depends on the community's active resistance. On the other side, the promise of 5:10 emphasizes God's sovereign action ('will Himself perfect, confirm, strengthen, and establish you') and God's prior calling ('who called you to His eternal glory in Christ'). However, the calling language here functions as assurance that God's purpose in calling was always glory, not as a claim that the outcome is unilateral regardless of response. The entire passage assumes the community must actively resist the adversary -- the promise of restoration presupposes endurance through suffering, not a bypass of it. The weight falls on human agency being genuinely necessary within the framework of God's sustaining power.",
+            "key_phrases": ["be of sober spirit, be on the alert", "your adversary, the devil, prowls around like a roaring lion, seeking someone to devour", "resist him, firm in your faith", "the God of all grace, who called you to His eternal glory in Christ, will Himself perfect, confirm, strengthen, and establish you"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:12-14",
+            "section_title": "Closing Greetings and the Letter's Purpose",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter identifies Silvanus as the letter's carrier, states the letter's purpose as exhorting and testifying that 'this is the true grace of God,' commands the audience to stand firm in it, conveys greetings from the co-elect community in Babylon and from Mark, and closes with a blessing of peace to all who are in Christ."
+        }
+    ]
+}

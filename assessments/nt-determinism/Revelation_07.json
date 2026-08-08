@@ -1,0 +1,42 @@
+{
+  "book": "Revelation",
+  "chapter": 7,
+  "sections": [
+    {
+      "reference": "7:1-3",
+      "section_title": "The Four Angels and the Sealing Angel",
+      "category": "LEANS_DETERMINISTIC",
+      "conventional_use": "not_in_debate",
+      "summary": "Four angels hold back the four winds of destruction while a fifth angel from the east, bearing the seal of the living God, commands them to delay judgment until God's bond-servants are sealed on their foreheads, replicating the protective-marking pattern of Ezekiel 9:3-6.",
+      "relevance": "The sealing is entirely God's initiative: the angel carries God's seal, the authority to harm comes from God (divine passive edothe), and the sequence of preservation-before-judgment follows the pattern of Noah, Passover, Rahab, and Ezekiel 9. God identifies who his servants are and acts to protect them before destruction falls. The bond-servants (doulous) are already God's own people before they are sealed — God knows them and marks them. This divine initiative in identifying and preserving his own leans toward deterministic emphasis, though the text does not address how these individuals came to be God's servants in the first place.",
+      "key_phrases": ["having the seal of the living God", "Do not harm the earth or the sea or the trees until we have sealed the bond-servants of our God on their foreheads", "to whom it was granted to harm the earth and the sea"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "7:4-8",
+      "section_title": "The 144,000 from the Twelve Tribes",
+      "category": "NOT_APPLICABLE",
+      "summary": "John hears the number of the sealed — 144,000 (twelve times twelve times one thousand) from the twelve tribes of Israel — a symbolic expression of the completeness and perfect organization of God's people, with the tribal list shaped by theological rather than genealogical criteria (Judah first, Dan absent, Levi included, Joseph replacing Ephraim)."
+    },
+    {
+      "reference": "7:9-12",
+      "section_title": "The Great Multitude Before the Throne",
+      "category": "LEANS_DETERMINISTIC",
+      "conventional_use": "not_in_debate",
+      "summary": "John sees an innumerable multitude from every nation standing before the throne in white robes with palm branches, crying 'Salvation belongs to our God who sits on the throne, and to the Lamb,' followed by the angels, elders, and living creatures responding with sevenfold worship.",
+      "relevance": "The great multitude's doxological cry attributes salvation (soteria) exclusively to God and the Lamb, with no mention of human agency or response. The neutral reading notes that the multitude 'does not claim credit for their own deliverance; they ascribe it entirely to God and to the Lamb.' The joint attribution to God and the Lamb as co-source of deliverance, with no human contribution acknowledged in the cry, leans toward emphasizing divine determination of salvation. However, this is worship language — doxological attribution naturally magnifies God's role — and the text does not address the mechanism by which individuals come to be part of this multitude. The next section (vv. 13-17) provides that mechanism, which includes human agency.",
+      "key_phrases": ["Salvation belongs to our God who sits on the throne, and to the Lamb", "a great multitude which no one could count, from every nation and all tribes and peoples and tongues", "standing before the throne and before the Lamb"],
+      "confidence": "low"
+    },
+    {
+      "reference": "7:13-17",
+      "section_title": "The Elder's Explanation",
+      "category": "STRONG_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "An elder identifies the white-robed multitude as those who come out of the great tribulation and have washed their robes and made them white in the blood of the Lamb, and explains that for this reason they stand before God's throne, serve in his temple, are sheltered by his tabernacle, and receive the Lamb's shepherding care and God's wiping away of tears.",
+      "relevance": "This section directly addresses who stands before the throne and why, through the elder who functions as the author's authoritative interpreter of the vision. Three features make human agency central to the argument. First, the verbs are aorist active: 'they washed' (eplynon) and 'they made white' (eleukanan) — the multitude themselves performed the purification. The neutral reading explicitly states: 'The multitude is not passive. The purification required their own act of washing — that is, their own appropriation of the Lamb's blood, their own participation in what the Lamb's death accomplished.' Second, the causal logic is explicit: 'For this reason (dia touto), they are before the throne' — their position before the throne is the consequence of their washing. The neutral reading states: 'Their position before the throne is not arbitrary and not automatic; it is the consequence of the washing. Those who stand before the throne are those who washed their robes.' Third, the present participle hoi erchomenoi ('the ones coming out') describes an ongoing process, not a fixed predetermined group that emerged at a single moment. The connection to the seven messages' demand for active human response — repentance, holding fast, buying white garments — reinforces that faithfulness is a genuine human act with salvific consequences. The Lamb's blood provides the means; human appropriation of that blood determines who stands before the throne.",
+      "key_phrases": ["they have washed their robes and made them white in the blood of the Lamb", "For this reason, they are before the throne of God", "These are the ones who come out of the great tribulation"],
+      "confidence": "high"
+    }
+  ]
+}
