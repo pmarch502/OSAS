@@ -1,0 +1,42 @@
+{
+    "book": "2Thessalonians",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-2",
+            "section_title": "The Greeting",
+            "category": "NOT_APPLICABLE",
+            "summary": "A standard epistolary greeting identifying the three co-senders and the Thessalonian assembly, with grace and peace sourced jointly from God the Father and the Lord Jesus Christ."
+        },
+        {
+            "reference": "1:3-4",
+            "section_title": "The Thanksgiving -- Obligation, Growth, and Boasting",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul declares that the Thessalonians' faith has grown beyond measure, that every individual's love for one another has increased, and that their steadfastness and faith under ongoing persecution have become the subject of apostolic boasting in other churches.",
+            "relevance": "The text treats the Thessalonians' faith, love, and endurance as genuine qualities actively maintained by real human agents. The emphasis on individual scope -- 'the love of each one of all of you' -- presents each community member as a person whose faithfulness under pressure is real and commendable, not as a passive recipient of an irresistible force. Their growth in faith and perseverance are praised as accomplishments that reflect their ongoing agency, though the passage is not directly arguing about who determines salvation outcomes.",
+            "key_phrases": ["your faith is growing abundantly", "the love of every one of you for one another is increasing", "your steadfastness and faith in all your persecutions and in the afflictions that you are enduring"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:5-10",
+            "section_title": "The Righteous Judgment of God",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul declares that the Thessalonians' endurance under persecution is evidence of God's righteous judgment, that God will repay their afflicters and grant them relief at the revelation of the Lord Jesus, who will inflict vengeance on those who do not know God and do not obey the gospel, while being glorified in his saints and marveled at among all who have believed.",
+            "relevance": "The passage describes the eschatological judgment and identifies those who face destruction by their own dispositions and responses: 'those who do not know God' and 'those who do not obey the gospel.' The verb 'obey' (hypakouein) frames the gospel as a summons requiring a genuine human response, and disobedience as a refusal rather than an inability. Correspondingly, the saved are identified as 'all who have believed' and 'his saints' -- categories defined by human response to the apostolic testimony. The Thessalonians themselves are included among the glorified company 'because our testimony to you was believed.' The neutral reading notes that the punishment of separation from God's presence is 'the final confirmation of the distance they have already chosen,' treating the condemned as agents who chose their distance from God. Throughout, the differentiating factor between those who receive destruction and those who receive glorification is human response -- believing, obeying, enduring -- rather than an unconditional divine decree. However, the passage is describing eschatological events, not directly arguing about the mechanism by which human response arises, so it leans libertarian rather than strongly asserting it.",
+            "key_phrases": ["that you may be considered worthy of the kingdom of God, for which you are also suffering", "those who do not know God", "those who do not obey the gospel of our Lord Jesus", "to be marveled at among all who have believed", "our testimony to you was believed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:11-12",
+            "section_title": "The Prayer -- Worthiness, Calling, and Mutual Glorification",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul prays that God would make the Thessalonians worthy of his calling, fulfill every good resolve and every work of faith by his power, so that mutual glorification between the Lord Jesus and the community may occur, all according to grace.",
+            "relevance": "The prayer presents a cooperative model of divine and human agency. God must 'make them worthy' and 'fulfill' their works 'by his power,' but the objects God is asked to fulfill are the community's own genuine 'resolve for good' and 'work of faith' -- their human intentions and faithful actions are treated as real and as the material God's power brings to completion. The neutral reading explicitly notes that 'human effort and divine power are not opposed' and that the community's 'inclusion in its positive outcome depends on God's ongoing work in them and their continuing response of faith and endurance.' God initiates (calling), God empowers (by his power), and God completes (fulfill), but human resolve and faithful work are presented as genuine contributions, not illusory byproducts of irresistible grace. The framework is synergistic: grace governs the process ('according to the grace of our God'), but grace does not eliminate the human agency it enables.",
+            "key_phrases": ["that our God may make you worthy of his calling", "may fulfill every resolve for good and every work of faith by his power", "according to the grace of our God and the Lord Jesus Christ"],
+            "confidence": "medium"
+        }
+    ]
+}

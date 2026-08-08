@@ -1,0 +1,47 @@
+{
+    "book": "Matthew",
+    "chapter": 22,
+    "sections": [
+        {
+            "reference": "22:1-14",
+            "section_title": "The Parable of the Wedding Feast: Invitation, Refusal, and Judgment",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Jesus tells a parable in which a king invites guests to his son's wedding feast; the original invitees refuse and are destroyed, guests are gathered indiscriminately from the roads, and one who enters without a wedding garment is expelled, concluding with 'many are called but few are chosen.'",
+            "relevance": "The neutral reading identifies the refusal of the original invitees as a deliberate act of will (ouk ethelon elthein — 'they did not will to come'), using the same verb (thelo) as the first son's refusal in 21:29. Worthiness (axios) is defined entirely by response — the original guests 'were not worthy' because they refused to come, not because of any prior divine decree excluding them. The concluding statement 'many are called but few are chosen' (polloi kletoi, oligoi eklektoi) is read by the neutral analysis not as defining a mechanism of predestination but as summarizing what the parable dramatized: the calling is broad and indiscriminate ('as many as you find'), but the eklektoi are 'those who both respond to the call and accept the terms of participation.' The man without the wedding garment — possibly provided by the host — was expelled not for lacking an invitation but for refusing the host's provision. The neutral reading explicitly states: 'The distinction is not between those whom God arbitrarily selects and those he arbitrarily passes over; it is between those who respond appropriately to the invitation and those who do not.' When cited for determinism, 'few are chosen' is read as unconditional divine selection; the neutral reading shows the choosing is conditioned on human response to a universally extended invitation.",
+            "key_phrases": [
+                "they would not come (ouk ethelon elthein)",
+                "those who were invited were not worthy (ouk esan axioi)",
+                "gathered all whom they found, both bad and good",
+                "how did you get in here without a wedding garment?",
+                "he was speechless (ephimosthe)",
+                "many are called (polloi kletoi), but few are chosen (oligoi eklektoi)"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "22:15-22",
+            "section_title": "The Question about Paying Taxes to Caesar",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Pharisees and Herodians attempt to trap Jesus with the question of whether it is lawful to pay the Roman poll tax; Jesus responds by distinguishing what bears Caesar's image (the coin) from what bears God's image (the human person), asserting that each should be rendered to its owner."
+        },
+        {
+            "reference": "22:23-33",
+            "section_title": "The Sadducees' Question about the Resurrection",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Sadducees pose a hypothetical about levirate marriage to discredit the resurrection; Jesus corrects their category error about the resurrected state and argues from Exodus 3:6 that God's present-tense covenant relationship with the patriarchs entails their continued life."
+        },
+        {
+            "reference": "22:34-40",
+            "section_title": "The Question about the Greatest Commandment",
+            "category": "NOT_APPLICABLE",
+            "summary": "A Pharisaic lawyer tests Jesus about which commandment is greatest; Jesus pairs Deuteronomy 6:5 (love God with all heart, soul, and mind) with Leviticus 19:18 (love neighbor as yourself), declaring them inseparable and the structural foundation on which all the Law and Prophets depend."
+        },
+        {
+            "reference": "22:41-46",
+            "section_title": "The Question about David's Son: Jesus's Counter-Question",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus poses a question to the Pharisees about how David in Psalm 110:1 calls the Messiah 'my Lord' if the Messiah is merely David's descendant, establishing that the Messiah's authority derives from divine appointment rather than human lineage, and silencing all further challenges."
+        }
+    ]
+}

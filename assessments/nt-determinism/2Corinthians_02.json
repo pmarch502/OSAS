@@ -1,0 +1,47 @@
+{
+    "book": "2Corinthians",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-4",
+            "section_title": "The Decision to Write Instead of Visit",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul explains his deliberate decision to write a severe letter rather than make another painful visit, revealing the mutual grief and overflowing love that motivated his choice."
+        },
+        {
+            "reference": "2:5-8",
+            "section_title": "The Case of the Offender -- From Punishment to Forgiveness",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul addresses the community's discipline of an offender, declares the punishment sufficient, and urges forgiveness, comfort, and formal reaffirmation of love to prevent the repentant person from being overwhelmed by excessive sorrow."
+        },
+        {
+            "reference": "2:9-11",
+            "section_title": "The Test, the Forgiveness, and Satan's Designs",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul reveals the severe letter was a test of the Corinthians' obedience, aligns his forgiveness with theirs as enacted in the presence of Christ, and warns that unforgiveness serves Satan's exploitative designs against the community."
+        },
+        {
+            "reference": "2:12-13",
+            "section_title": "The Interrupted Journey -- Troas and the Search for Titus",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul recounts arriving at Troas where a gospel opportunity stood open but leaving for Macedonia because his anxiety over Titus and the Corinthians' response left his spirit without rest."
+        },
+        {
+            "reference": "2:14-17",
+            "section_title": "The Triumphal Procession and the Fragrance of Christ",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes God leading him in triumphal procession, spreading the fragrance of Christ that functions as a scent of life for those being saved and a scent of death for those perishing, and distinguishes his sincere, God-commissioned ministry from those who peddle God's word.",
+            "relevance": "The neutral reading identifies the present-tense participles 'those who are being saved' and 'those who are perishing' as descriptions of ongoing processes and current trajectories, explicitly stating these 'are not fixed categories assigned in advance' and that 'the language does not treat them as irrevocable states fixed from eternity.' The reading further specifies that the same aroma produces opposite effects 'determined by the receiver's response' and that the outcome 'depends on the posture of the one who encounters it.' This framing places the differentiating factor in how people receive the gospel, not in a prior divine assignment to one group or the other.",
+            "key_phrases": [
+                "among those who are being saved and among those who are perishing",
+                "to one a fragrance from death to death, to the other a fragrance from life to life",
+                "determined by the receiver's response",
+                "depends on the posture of the one who encounters it",
+                "not fixed categories assigned in advance",
+                "processes underway, not verdicts already sealed"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

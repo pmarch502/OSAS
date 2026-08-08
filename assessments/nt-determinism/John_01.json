@@ -1,0 +1,104 @@
+{
+    "book": "John",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-2",
+            "section_title": "The Word Before Creation",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author declares the Word's eternal pre-existence, personal distinction from God, and shared divine nature, establishing the theological lens for the entire document."
+        },
+        {
+            "reference": "1:3-5",
+            "section_title": "The Word's Role in Creation, Life, and Light",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Word is identified as the agent through whom all things were created, the source of life and light, and the light that shines in darkness without being overcome."
+        },
+        {
+            "reference": "1:6-8",
+            "section_title": "John's Testimony Introduced",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "John is introduced as a man sent from God whose sole purpose is to testify about the light so that all might believe through him.",
+            "relevance": "The purpose clause 'so that all might believe through him' presents belief as a response to testimony directed at a universal audience ('all,' pantes). The mechanism of testimony-producing-belief implies that belief arises through hearing and responding, not through unilateral divine determination. If who believes were already fixed, the universal scope of testimony aimed at producing belief would be functionally meaningless.",
+            "key_phrases": ["so that all might believe through him", "he came as a witness, to testify about the light"],
+            "confidence": "low"
+        },
+        {
+            "reference": "1:9-13",
+            "section_title": "The True Light Enters the World",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "The true light enters the world it created, is not recognized by the world or received by his own people, but grants the right to become children of God to as many as receive him and believe, redefining covenant membership as born of God rather than of ethnic descent.",
+            "relevance": "This section is a key battleground in the determinism debate. Verse 12 is cited for human agency ('to all who did receive him, who believed in his name'), and verse 13 is cited for determinism ('born not of the will of the flesh nor of the will of a man, but of God'). The neutral reading resolves the tension: v. 12 presents receiving and believing as genuine human actions that define an open, non-predetermined category ('as many as,' hosoi — 'not a predetermined group, but whoever receives and believes'). Verse 13 then redefines the BASIS of covenant identity — the three excluded sources (blood/lineage, will of the flesh/biological capacity, will of a man/patriarchal authority) are 'the three mechanisms by which covenant membership had been transmitted through Abraham's line.' The passage challenges the assumption that Abrahamic descent guarantees relationship with God. 'Born of God' defines the source of the new identity (divine rather than ethnic), not a mechanism by which God unilaterally determines who will receive or believe. The human response (receiving/believing) is stated first and conditions the outcome; the divine birth redefines the nature of the resulting identity.",
+            "key_phrases": ["as many as received him", "to those who believe in his name", "he gave the right to become children of God", "born, not of blood, nor of the will of the flesh, nor of the will of a man, but of God", "the true light, which gives light to every person"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:14",
+            "section_title": "The Word Becomes Flesh",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Word enters full human existence as flesh and tabernacles among his people, displaying glory characterized by the covenant attributes of grace and truth (chesed ve'emet) revealed to Moses at Sinai."
+        },
+        {
+            "reference": "1:15",
+            "section_title": "John's Testimony Restated",
+            "category": "NOT_APPLICABLE",
+            "summary": "John testifies that the one who comes after him chronologically existed before him ontologically, linking the historical Jesus to the pre-existent Word."
+        },
+        {
+            "reference": "1:16-18",
+            "section_title": "What the Community Has Received",
+            "category": "NOT_APPLICABLE",
+            "summary": "The community has received from the Word's fullness grace upon grace; the law came through Moses while grace and truth came through Jesus Christ, who as the unique one in the Father's bosom has performed the definitive exegesis of the unseen God."
+        },
+        {
+            "reference": "1:19-23",
+            "section_title": "John's Testimony to the Jerusalem Delegation",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Jerusalem authorities send priests and Levites to interrogate John, who denies being the Christ, Elijah, or the Prophet, identifying himself solely as the voice of Isaiah 40:3 preparing the way of the Lord."
+        },
+        {
+            "reference": "1:24-28",
+            "section_title": "The Question About Baptism",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Pharisees question John's authority to baptize since he claims no eschatological role; John redirects attention to the unrecognized one already standing among them, whose sandal strap John is unworthy to untie."
+        },
+        {
+            "reference": "1:29-31",
+            "section_title": "The Lamb of God",
+            "category": "NOT_APPLICABLE",
+            "summary": "John identifies Jesus as the Lamb of God who takes away the sin of the world, drawing on Passover, Isaiah 53, the daily tamid sacrifice, and the Aqedah, and states that his own baptizing ministry exists solely to reveal Jesus to Israel."
+        },
+        {
+            "reference": "1:32-34",
+            "section_title": "The Spirit's Descent and the Son of God",
+            "category": "NOT_APPLICABLE",
+            "summary": "John reports seeing the Spirit descend and permanently remain on Jesus — confirming a sign God gave him in advance — and declares Jesus to be the one who baptizes in the Holy Spirit and the Son of God."
+        },
+        {
+            "reference": "1:35-39",
+            "section_title": "The First Disciples Follow Jesus",
+            "category": "NOT_APPLICABLE",
+            "summary": "Two of John's disciples hear his testimony about the Lamb of God and follow Jesus, who responds to their seeking with the invitation 'Come, and you will see,' after which they stay with him that day."
+        },
+        {
+            "reference": "1:40-42",
+            "section_title": "Andrew Brings Simon",
+            "category": "NOT_APPLICABLE",
+            "summary": "Andrew, one of the two who followed, finds his brother Simon and declares 'We have found the Messiah,' bringing him to Jesus, who demonstrates supernatural knowledge of Simon's identity and renames him Cephas (Peter)."
+        },
+        {
+            "reference": "1:43-46",
+            "section_title": "Philip and Nathanael",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus finds Philip and calls him to follow; Philip finds Nathanael and identifies Jesus as the one Moses and the prophets wrote about; Nathanael's skepticism about Nazareth is met with Philip's invitation to 'Come and see.'"
+        },
+        {
+            "reference": "1:47-51",
+            "section_title": "Nathanael's Confession and the Son of Man",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus's supernatural knowledge of Nathanael prompts a confession ('Son of God, King of Israel'), which Jesus frames as preliminary faith that will deepen, and closes with the promise that Nathanael will see heaven opened and angels ascending and descending on the Son of Man — identifying Jesus as the new meeting point of heaven and earth."
+        }
+    ]
+}

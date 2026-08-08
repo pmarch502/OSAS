@@ -1,0 +1,62 @@
+{
+    "book": "John",
+    "chapter": 17,
+    "sections": [
+        {
+            "reference": "17:1-5",
+            "section_title": "The Son's Request for Glorification",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jesus prays for the Father to glorify him so he can give eternal life to all whom the Father has given him, and defines eternal life as ongoing relational knowledge of the Father and the Son.",
+            "relevance": "The passage presents the Father as the one who gives people to the Son, and the Son as the one who gives them eternal life -- a chain of divine initiative that implies God determines who receives salvation. The 'giving' language connects to the broader Johannine theme (6:37, 44, 65) in which the Father's act of giving precedes and enables human coming to Jesus. However, the definition of eternal life as ongoing knowing (present tense ginoskosin, v. 3) introduces a relational and participatory dimension: eternal life is not a static possession conferred on passive recipients but a continuous activity of knowing, which tempers a purely deterministic reading.",
+            "key_phrases": ["to all whom you have given him, he may give eternal life", "even as you gave him authority over all flesh", "that they may know you, the only true God, and Jesus Christ whom you have sent"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "17:6-8",
+            "section_title": "The Disciples as Those Given by the Father",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jesus reports to the Father that he has revealed the Father's name to the disciples whom the Father gave him out of the world, and testifies that they have kept the word, received the teachings, and believed.",
+            "relevance": "The passage emphasizes the Father's priority in the disciples' relationship with Jesus: they belonged to the Father before they were given to the Son ('They were yours, and you gave them to me'), and the neutral reading states their coming 'was not random self-selection but the Father's act of drawing those who belonged to him.' The prior belonging determines how they came to Jesus. Yet the section also commends the disciples' responsive actions -- keeping the word, receiving the sayings, genuinely understanding, and believing -- presenting human response as real and praiseworthy within the framework of divine initiative. The interplay leaves the relationship between divine giving and human receiving ambiguous: the giving is prior, but the receiving is genuine.",
+            "key_phrases": ["the men whom you gave me out of the world", "They were yours, and you gave them to me", "they have kept your word", "they received them and truly understood", "they believed that you sent me"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "17:9-13",
+            "section_title": "Intercession for the Disciples' Keeping",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jesus intercedes specifically for those the Father has given him, asks the Father to keep them in his name and in unity, reports that he kept all of them except the son of perdition whose perishing fulfilled Scripture, and prays that they may have his joy made full.",
+            "relevance": "The prayer restricts its intercession to those the Father has given, implying a defined group whose membership originates in the Father's act of giving rather than human self-selection. Jesus's claim that he lost none except the son of perdition, whose perishing fulfilled Scripture, suggests a divinely ordered outcome. The neutral reading explores whether Judas was ever truly part of the kept group, concluding he was 'never truly of them' -- implying a fixed status independent of observable behavior. However, the very need to petition the Father for keeping implies this protection is not automatic or irresistible; the transfer of protective responsibility from the departing Son to the Father presupposes that the keeping requires ongoing divine action, which in turn implies the possibility that it could fail if not granted.",
+            "key_phrases": ["I do not ask on behalf of the world, but of those whom you have given me", "keep them in your name", "not one of them perished but the son of perdition", "so that the Scripture would be fulfilled"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "17:14-19",
+            "section_title": "The Disciples in the World but Not of It",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus prays for the disciples' protection from the evil one and their sanctification in truth for the purpose of being sent into the world on mission, paralleling the Father's sending of the Son and grounding their consecration in Jesus's self-offering."
+        },
+        {
+            "reference": "17:20-23",
+            "section_title": "The Prayer Extends to Future Believers",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Jesus extends his prayer to all who will believe in him through the disciples' word, praying for their unity modeled on the Father-Son relationship so that the world may believe and know that the Father sent Jesus and loved them.",
+            "relevance": "The passage describes future believers as 'those who believe in me through their word,' presenting faith as a human response to apostolic testimony -- the disciples' word (logos) is the instrumental cause (dia) of believing. The missional purpose of the community's unity -- 'that the world may believe' and 'that the world may know' -- presupposes the world's capacity to respond to the evidence of the community's visible oneness. Both formulations treat believing and knowing as genuine human responses to presented evidence rather than as predetermined outcomes. The giving of glory from the Father through the Son to the community maintains the framework of divine initiative, but the emphasis in this section falls on the responsive side: people believe through testimony, and the world can believe through observation.",
+            "key_phrases": ["those also who believe in me through their word", "that the world may believe that you sent me", "that the world may know that you sent me", "loved them, even as you loved me"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "17:24-26",
+            "section_title": "The Final Desire -- To Be Where Jesus Is",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jesus expresses his desire that those the Father has given him be with him to see his pre-creational glory, distinguishes between the world's ignorance of the Father and the disciples' knowledge of Jesus's sending, and prays that the Father's love may be in them and he himself in them.",
+            "relevance": "The 'giving' language reaches its culmination as the community's identity is anchored entirely in the Father's initiative: they belong because the Father gave them. The Father's pre-creational love ('you loved me before the foundation of the world') grounds the entire chain of giving, glory, and belonging in a divine purpose that precedes all human action. The contrast between the world that 'has not known you' and the disciples who 'have known that you sent me' implies a divinely established distinction rather than one produced by human choice alone. However, the promise of ongoing revelation ('I have made your name known to them, and will make it known') assumes responsive recipients who continue to receive disclosure, and the final goal -- the Father's love indwelling the community -- describes a relational reality rather than a mechanical determination.",
+            "key_phrases": ["whom you have given me, be with me where I am", "you loved me before the foundation of the world", "the world has not known you, yet I have known you; and these have known that you sent me", "I have made your name known to them, and will make it known", "the love with which you loved me may be in them, and I in them"],
+            "confidence": "medium"
+        }
+    ]
+}

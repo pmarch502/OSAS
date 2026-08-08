@@ -1,0 +1,80 @@
+{
+    "book": "Mark",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-2",
+            "section_title": "The Setting by the Sea",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading describes the physical setting of Jesus teaching from a boat on the sea while the crowd stands on the shore, introducing the method of parabolic teaching and noting the spatial separation between Jesus and the audience as a visual image of the insider/outsider distinction the chapter will develop."
+        },
+        {
+            "reference": "4:3-9",
+            "section_title": "The Parable of the Sower, the Seed, and the Soils",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents a parable in which a single sower performs a single uniform action — sowing seed — with four different outcomes determined entirely by the condition of the soil where the seed lands, framed by the opening command 'Listen!' and the closing formula 'He who has ears to hear, let him hear.'",
+            "relevance": "The parable's structure makes the soil (hearer) the sole variable: the sower's action is uniform, the seed is the same, and the outcome depends entirely on reception. The neutral reading states explicitly that 'the variable is the soil' and that the parable presents 'three failures and one success' — all from the same word. The framing commands ('Listen!' and 'He who has ears to hear, let him hear') present hearing as an active responsibility rather than a passive state, and the closing formula implies that not everyone who physically hears will truly hear, placing the decisive factor in the hearer's engagement. However, the passage is a parable about kingdom proclamation rather than a direct theological argument about who determines salvation, keeping the classification at LEANS rather than STRONG.",
+            "key_phrases": ["Listen!", "the sower went out to sow", "He who has ears to hear, let him hear"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:10-12",
+            "section_title": "The Purpose of Parabolic Teaching",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "The neutral reading analyzes Jesus's explanation that the mystery of the kingdom has been given to those around him while outsiders receive everything in parables, citing Isaiah 6:9-10, and finds that the insider/outsider division is based on prior human positioning relative to Jesus rather than arbitrary divine selection, with the Isaianic hardening functioning as confirmation of prior rejection rather than its cause.",
+            "relevance": "This passage is conventionally cited for determinism based on the divine passive 'has been given' (dedotai) and the purpose clause 'so that' (hina) followed by the Isaiah quotation about seeing but not perceiving. Mark's use of hina (purpose) rather than Matthew's hoti (because) gives the Markan version stronger deterministic surface language. However, the neutral reading identifies several factors that weigh against an unconditional deterministic reading. First, the 'outsiders' (hoi exo) are the same people identified in 3:22-35 — scribes who attributed the Spirit's work to Satan and family who thought Jesus deranged — whose outsider status follows from their prior choices, not from an inscrutable decree. Second, the neutral reading traces the Isaiah 6 context and finds that 'the people have already hardened themselves — through the injustice, idolatry, and covenant violation described in Isaiah 1-5 — and Isaiah's preaching will confirm rather than reverse that hardening.' Third, the neutral reading notes that even the insiders who have been 'given' the mystery repeatedly fail to understand (4:13, 4:40, 6:52, 8:17-21), 'suggesting that the line between hearing and not hearing is not fixed but fluid.' The fluidity of the boundary undermines a reading in which God unilaterally and permanently assigns people to the hearing or non-hearing category. The overall interpretation is that divine concealment is responsive to demonstrated human positioning, not its cause. Confidence is medium because the hina clause and divine passive genuinely carry deterministic weight that the neutral reading qualifies but does not entirely dissolve.",
+            "key_phrases": ["To you has been given the mystery of the kingdom of God", "to those who are outside, everything comes in parables", "so that while seeing, they may see and not perceive", "otherwise they might return and be forgiven"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:13-20",
+            "section_title": "The Explanation of the Seed and the Soils",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus's explanation of the four soils as four types of human response to 'the word,' with the sower and seed held constant and the hearer's condition identified as the sole variable determining whether the word bears fruit.",
+            "relevance": "The passage directly and explicitly makes human reception the determining factor in the outcome of the kingdom word, and does so as part of the author's foundational teaching — the neutral reading notes that Jesus presents this parable as the key to all parables ('How will you understand all the parables?'). The road hearer loses the word through Satan's removal before any reception. The rocky-ground hearer's initial reception is presented as genuine ('they hear the word, immediately receive it with joy') but fails because 'they have no firm root in themselves' — the problem is located within the person. The neutral reading is explicit: 'The initial reception is genuine... Their problem is not the quality of their initial response but the absence of depth and root.' When affliction or persecution comes 'because of the word,' they fall away — real reception that does not endure because of a human deficiency. The thorny-ground hearer is choked by 'the worries of the world, the deceitfulness of wealth, and the desires for other things' — human priorities that gradually suffocate the word without any formal rejection. The good-soil hearer 'hears the word and accepts it' — the verb paradechomai implies 'active, willing reception' — and bears fruit in varying degrees. The neutral reading concludes: 'in each of the four soils, the word is sown — the same word, from the same sower. The variable is entirely in the reception.' This is part of Jesus's direct teaching that the author presents as foundational to his entire parabolic discourse, and it directly addresses whether human response determines the outcome of the kingdom word.",
+            "key_phrases": ["The sower sows the word", "immediately receive it with joy", "have no firm root in themselves, but are only temporary", "immediately fall away", "the worries of the world, and the deceitfulness of wealth, and the desires for other things enter in and choke the word", "hear the word and accept it and bear fruit"],
+            "confidence": "high"
+        },
+        {
+            "reference": "4:21-25",
+            "section_title": "The Lamp and the Measure",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents two sets of sayings: the lamp saying establishes that the kingdom's current concealment is temporary and purposeful ('nothing is hidden except to be revealed'), and the measure saying establishes that the hearer's degree of attention and receptivity determines the degree of understanding received in return.",
+            "relevance": "The imperative 'Take care what you listen to' places direct responsibility on the hearer for how they engage with the word. The measure principle — 'By your standard of measure it will be measured to you' — uses commercial language to present a reciprocal dynamic in which the hearer's investment of attention determines the return. The neutral reading states: 'The measure of attention and receptivity you bring to the word determines the measure of understanding you receive back.' The accumulation/loss principle ('whoever has, to him more shall be given; whoever does not have, even what he has shall be taken away') describes hearing as a 'dynamic process' and a 'trajectory' that 'moves in one direction or the other, toward abundance or toward emptiness.' The neutral reading connects this directly to the four soils, identifying the good-soil hearer as one to whom 'more is given' and the road-soil hearer as one from whom 'even what he has is taken away.' The passage presents reception of the word as driven by human engagement, not by external determination, but its primary subject is the dynamics of hearing rather than a direct argument about who determines salvation outcomes.",
+            "key_phrases": ["Take care what you listen to", "By your standard of measure it will be measured to you", "whoever has, to him more shall be given", "whoever does not have, even what he has shall be taken away from him"],
+            "confidence": "high"
+        },
+        {
+            "reference": "4:26-29",
+            "section_title": "The Seed That Grows by Itself",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents a parable unique to Mark in which a man sows seed and then sleeps and rises while the seed grows 'by itself' (automate) through an internal process the farmer does not understand, culminating in a harvest that echoes Joel's judgment imagery — teaching that the kingdom grows by its own divinely embedded power on its own timetable, without human engineering."
+        },
+        {
+            "reference": "4:30-32",
+            "section_title": "The Mustard Seed",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the mustard seed parable as a subversive contrast with Ezekiel's majestic cedar, arguing that the kingdom arrives not in immediately recognizable grandeur but as the smallest, most easily overlooked beginning that grows into something providing universal shelter — with the birds nesting in its branches echoing prophetic imagery of a kingdom that shelters the nations."
+        },
+        {
+            "reference": "4:33-34",
+            "section_title": "The Author's Summary of Jesus's Parabolic Teaching",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the author's editorial summary noting that Jesus spoke the word to the crowds in parables 'so far as they were able to hear it' and explained everything privately to his own disciples, framing the public/private distinction as pedagogical accommodation calibrated to the audience's capacity."
+        },
+        {
+            "reference": "4:35-41",
+            "section_title": "The Crossing and the Storm",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the storm at sea as an enacted parable in which Jesus calms the wind and waves with a spoken command — an act Israel's scriptures reserve for YHWH — and then rebukes the disciples for their fear and lack of faith, leaving them with the unanswered question 'Who then is this?'",
+            "relevance": "Jesus's double question — 'Why are you afraid? Do you still have no faith?' — presents faith as a human responsibility that should have developed from the evidence the disciples have already witnessed. The word 'still' (oupo) implies they have had sufficient basis for faith and should possess it by now; their failure is a deficiency for which they are accountable. The neutral reading states: 'The author presents faith not as a feeling but as a settled trust in Jesus's identity and authority that should have been produced by everything they have witnessed.' This frames faith as a genuine human response to evidence, one the disciples are rebuked for lacking — implying they had the capacity and responsibility to develop it. However, the passage's primary concern is Christological — establishing Jesus's identity through the scriptural pattern of YHWH's authority over the sea — rather than directly addressing who determines salvation outcomes.",
+            "key_phrases": ["Why are you afraid? Do you still have no faith?", "Who then is this, that even the wind and the sea obey Him?"],
+            "confidence": "medium"
+        }
+    ]
+}

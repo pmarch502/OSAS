@@ -1,0 +1,90 @@
+{
+    "book": "John",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-5",
+            "section_title": "The Setting at the Pool",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading describes the scene at the pool of Bethesda, where a multitude of sick people wait for healing and one man has been ill for thirty-eight years, setting up the contrast between the inadequate existing system and the life-giving power Jesus will demonstrate."
+        },
+        {
+            "reference": "5:6-9a",
+            "section_title": "The Healing",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus initiates contact with the man, asks whether he wishes to be well, and heals him by spoken command, bypassing the pool system entirely and demonstrating the creative power of his word."
+        },
+        {
+            "reference": "5:9b-16",
+            "section_title": "The Sabbath Confrontation",
+            "category": "NOT_APPLICABLE",
+            "summary": "The authorities challenge the healed man for carrying his pallet on the Sabbath, and the man -- who does not recognize Jesus -- later identifies him to them, escalating the confrontation and leading to persecution."
+        },
+        {
+            "reference": "5:17-18",
+            "section_title": "The Father's Work and the Son's Work",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus defends his Sabbath healing by claiming that his work is the same as the Father's continuous work, prompting the authorities to seek his death for claiming equality with God."
+        },
+        {
+            "reference": "5:19-23",
+            "section_title": "The Son Does What the Father Does",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The neutral reading finds that Jesus claims the two divine prerogatives of giving life and executing judgment, asserting that the Son gives life to whom he wishes and that the Father has given all judgment to the Son.",
+            "relevance": "The phrase 'the Son also gives life to whom He wishes' (hous thelei zoopoiei) ascribes sovereign choice to the Son in determining who receives life. The neutral reading notes that unlike the prophets who petitioned God, Jesus exercises the life-giving power 'according to his own will,' placing the determination of who receives life in the Son's volition rather than in any human response. However, the passage's primary concern is establishing the Son's divine authority and prerogatives, not explaining the mechanism by which recipients are selected -- and the immediately following section (vv. 24-25) introduces hearing and believing as conditions.",
+            "key_phrases": ["the Son also gives life to whom He wishes", "He has given all judgment to the Son", "so that all will honor the Son even as they honor the Father"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:24-30",
+            "section_title": "Life, Judgment, and Resurrection",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading finds that Jesus presents hearing his word and believing the Father as the conditions for possessing eternal life, describes a present spiritual resurrection for those who hear the Son's voice, and announces a future bodily resurrection in which the criterion is what people have done -- good deeds leading to life, evil deeds to judgment.",
+            "relevance": "This section directly addresses human response as the determining factor in salvation outcomes, and does so as the core of Jesus's discourse. Verse 24 presents hearing and believing as ongoing human activities (present tense) that result in present possession of eternal life and a completed crossing from death to life. Verse 25 states that 'those who hear will live,' with the neutral reading noting that 'the hearing is the condition; the living is the result.' Verses 28-29 present deeds as the criterion for the future resurrection -- 'those who did the good deeds' and 'those who committed the evil deeds' determine their own outcome. The neutral reading explicitly connects believing and doing as inseparable, noting that the two criteria address the same people from different angles: interior disposition and exterior expression.",
+            "key_phrases": ["he who hears My word, and believes Him who sent Me, has eternal life", "has passed out of death into life", "those who hear will live", "those who did the good deeds to a resurrection of life, those who committed the evil deeds to a resurrection of judgment"],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:31-35",
+            "section_title": "The Testimony of John",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that Jesus acknowledges John's testimony as valid but subordinate, noting that he mentions John's witness for the purpose of enabling his hearers' salvation, and that the authorities temporarily enjoyed John's light without following it to its destination.",
+            "relevance": "The purpose clause 'I say these things so that you may be saved' implies that salvation is genuinely available to the hearers contingent on their response to testimony. The observation that the authorities 'were willing to rejoice for a while in his light' presents their engagement as a volitional choice that they did not carry through, attributing the failure to follow John's testimony to their own decisions rather than to divine determination.",
+            "key_phrases": ["I say these things so that you may be saved", "you were willing to rejoice for a while in his light"],
+            "confidence": "low"
+        },
+        {
+            "reference": "5:36-40",
+            "section_title": "The Testimony of the Works, the Father, and the Scriptures",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading finds that Jesus presents three witnesses greater than John -- his works, the Father's direct testimony, and the Scriptures -- and diagnoses the authorities' failure as unwillingness to come to him for life despite having access to all the evidence.",
+            "relevance": "Verse 40 -- 'you are unwilling to come to Me so that you may have life' -- directly places the obstacle to salvation in human volition. The neutral reading emphasizes that thelete ('you are willing') situates the refusal 'squarely in the realm of volition,' stating explicitly: 'The problem is not ignorance -- they know the scriptures. It is not inability -- the invitation is open. It is unwillingness.' The neutral reading further draws a precise contrast with the man at the pool: 'the man had the will but not the way; the authorities have the way but not the will.' This is a direct statement by the author that the authorities' exclusion from life is caused by their own refusal, not by divine withholding.",
+            "key_phrases": ["you are unwilling to come to Me so that you may have life", "You do not have His word abiding in you, for you do not believe Him whom He sent", "you search the Scriptures because you think that in them you have eternal life; it is these that testify about Me"],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:41-44",
+            "section_title": "Glory from Men versus Glory from God",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "The neutral reading finds that Jesus diagnoses the mechanism by which belief becomes impossible for the authorities: they operate within a closed system of mutual human honor that excludes the need for God's approval, making it structurally impossible to receive the one who comes with the Father's authorization.",
+            "relevance": "The question 'How can you believe, when you receive glory from one another and you do not seek the glory that is from the only God?' identifies a human-created obstacle to belief. The neutral reading presents this as a self-imposed structural impossibility: the authorities 'have chosen their master, and it is not God.' The inability to believe is real, but it results from their own choices about whose approval to seek, not from divine predetermination. The passage attributes the cause of unbelief to human social behavior (receiving glory from one another) rather than to God's sovereign selection. However, the language of inability ('how can you believe') introduces some ambiguity, which is why Calvinists cite this passage as evidence for total depravity while Arminians cite it as evidence for self-caused unbelief.",
+            "key_phrases": ["How can you believe, when you receive glory from one another and you do not seek the glory that is from the only God", "you do not have the love of God in yourselves"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:45-47",
+            "section_title": "Moses the Accuser",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that Jesus identifies Moses as the accuser of the authorities, arguing that their failure to truly believe Moses's writings -- which testify about Jesus -- explains and condemns their rejection of Jesus's words.",
+            "relevance": "The logic 'if you believed Moses, you would believe Me' and 'if you do not believe his writings, how will you believe My words' presents unbelief as a human failing with cumulative consequences. The authorities' rejection of Jesus is traced to their prior failure to genuinely engage with Moses's testimony -- a failure attributed to them, not to divine withholding. The neutral reading notes that 'their unbelief toward Jesus is not a new problem; it is the exposed surface of an older, deeper problem: they do not truly believe the scriptures they claim to champion.' The accusing role of Moses implies moral accountability for their unbelief.",
+            "key_phrases": ["the one who accuses you is Moses, in whom you have set your hope", "if you believed Moses, you would believe Me, for he wrote about Me", "if you do not believe his writings, how will you believe My words"],
+            "confidence": "medium"
+        }
+    ]
+}

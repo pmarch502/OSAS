@@ -1,0 +1,90 @@
+{
+    "book": "Mark",
+    "chapter": 15,
+    "sections": [
+        {
+            "reference": "15:1-5",
+            "section_title": "Jesus Before Pilate",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading traces the 'handing over' (paradidomi) chain from the council to Pilate, notes the political reframing of the charge from 'Christ, Son of the Blessed One' to 'King of the Jews,' and presents Jesus's silence before his accusers as fulfilling the Suffering Servant pattern of Isaiah 53:7."
+        },
+        {
+            "reference": "15:6-15",
+            "section_title": "Barabbas and the Crowd's Choice",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the crowd as given a genuine choice between two figures — Barabbas the violent revolutionary and Jesus who gives his life as 'a ransom for many' — with the chief priests actively manipulating the crowd and Pilate making a political calculation to satisfy them.",
+            "relevance": "Every agent in the passage — the chief priests, the crowd, Pilate — is presented as making genuine choices driven by comprehensible human motivations (jealousy, mob pressure, political calculation). No divine determination of these choices is mentioned. The reading frames the Barabbas episode as 'a choice between two models of kingship,' and the crowd's rejection of the one who gives his life as ransom in favor of a violent revolutionary is presented as a real human decision with consequences, not a divinely predetermined outcome.",
+            "key_phrases": [
+                "the chief priests stirred up the crowd",
+                "wishing to satisfy the crowd",
+                "he realized that it was out of jealousy that the chief priests had handed him over",
+                "a choice between two models of kingship"
+            ],
+            "confidence": "low"
+        },
+        {
+            "reference": "15:16-20",
+            "section_title": "The Soldiers' Mockery — An Ironic Enthronement",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the soldiers' mock coronation — purple cloak, thorn crown, mock salute — as an ironic enthronement in which every gesture of ridicule inadvertently proclaims the truth about Jesus's kingship, fulfilling the passion prediction of 10:33-34 with exact precision."
+        },
+        {
+            "reference": "15:21",
+            "section_title": "Simon of Cyrene",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading identifies Simon as a bystander compelled by Roman authority to carry Jesus's crossbeam, noting that he does literally what the disciples were called to do figuratively (8:34) while the disciples themselves are absent."
+        },
+        {
+            "reference": "15:22-26",
+            "section_title": "The Crucifixion",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading narrates the crucifixion through Psalm 22 allusions (dividing garments, casting lots), notes Jesus's refusal of the analgesic wine in connection with his vow at the Last Supper, and identifies the titulus 'The King of the Jews' as functioning simultaneously as a criminal charge and a christological proclamation."
+        },
+        {
+            "reference": "15:27-32",
+            "section_title": "The Mockery at the Cross",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading analyzes the mockery from passersby, chief priests, and crucified criminals, finding that the chief priests' taunt 'He saved others; he cannot save himself' unwittingly states the ransom logic of 10:45, and that their demand to 'see and believe' inverts the order faith requires throughout Mark's narrative.",
+            "relevance": "The reading identifies two elements bearing on human agency in salvation. First, the sozo (save) language operates on both physical and eschatological levels, and the reading connects the mockery to the principle that 'saving one's life is losing it, and losing one's life for the sake of the gospel is saving it' (8:35) — presenting salvation as involving a genuine human choice to follow Jesus at personal cost. Second, the chief priests' demand to 'see and believe' is explicitly rejected by the author's narrative framework: throughout Mark, faith precedes sight (the hemorrhaging woman believed before healing, Bartimaeus believed before receiving sight, prayer requires believing 'that you have received it'). The reading concludes that 'the author has structured his entire narrative to argue that faith does not work that way' — presenting faith as a genuine human act of trust that precedes evidence, not a response to overwhelming proof or a divinely imposed state.",
+            "key_phrases": [
+                "He saved others; he cannot save himself",
+                "save yourself",
+                "Let the Messiah, the King of Israel, come down from the cross now, so that we may see and believe",
+                "faith precedes sight",
+                "the author has structured his entire narrative to argue that faith does not work that way"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "15:33-39",
+            "section_title": "Darkness, Death, the Veil, and the Centurion",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading interprets the three hours of darkness as divine judgment evoking Amos 8:9-10, the cry of Psalm 22:1 as invoking a psalm that moves from abandonment through deliverance to universal worship, the tearing of the temple veil from top to bottom as God removing the barrier between his presence and humanity, and the centurion's confession as a Gentile fulfilling the temple's intended purpose of being 'a house of prayer for all nations.'",
+            "relevance": "The reading presents divine initiative and genuine human response working together without the initiative overriding the response. God acts from above — tearing the veil 'from top to bottom,' an action originating from God's side that removes the barrier between God and humanity. But the human response is presented as genuine and uncompelled: the centurion sees how Jesus dies and responds with the confession 'Truly this man was God's Son.' No divine compulsion or predetermination of the centurion's faith is mentioned; he responds to what he witnesses. The universal scope reinforces this pattern: Psalm 22's trajectory points toward 'all the ends of the earth' remembering and turning to the Lord, and the reading identifies the centurion's confession as 'already the beginning of Psalm 22's conclusion.' God initiates access (tears the veil), offers salvation universally (all nations), and a human being responds genuinely — a model of divine initiative that enables rather than determines human response.",
+            "key_phrases": [
+                "the barrier that the temple system maintained is abolished from God's side",
+                "from top to bottom",
+                "Truly this man was God's Son",
+                "a house of prayer for all nations",
+                "all the ends of the earth shall remember and turn to the Lord",
+                "a Gentile enters the presence of God through the death of the Son"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "15:40-41",
+            "section_title": "The Women Who Watched",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading identifies the women as those who 'followed' and 'ministered' — using the discipleship and service verbs — and contrasts their faithful presence at the cross with the male disciples' flight, establishing them as the continuous witnesses across death, burial, and empty tomb."
+        },
+        {
+            "reference": "15:42-47",
+            "section_title": "The Burial",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Joseph of Arimathea as a council member who boldly requested Jesus's body, notes the centurion's confirmation of death to Pilate, describes the burial in a rock-hewn tomb fulfilling Isaiah 53:9, and identifies the women as witnesses who establish the unbroken chain of testimony from crucifixion through burial to the empty tomb."
+        }
+    ]
+}

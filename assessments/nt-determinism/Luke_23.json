@@ -1,0 +1,66 @@
+{
+    "book": "Luke",
+    "chapter": 23,
+    "sections": [
+        {
+            "reference": "23:1-5",
+            "section_title": "The Charges Before Pilate",
+            "category": "NOT_APPLICABLE",
+            "summary": "The council brings Jesus before Pilate on three fabricated political charges — misleading the nation, forbidding taxes to Caesar, and claiming kingship — and Pilate renders his first declaration of innocence."
+        },
+        {
+            "reference": "23:6-12",
+            "section_title": "Jesus Before Herod Antipas",
+            "category": "NOT_APPLICABLE",
+            "summary": "Pilate sends Jesus to Herod Antipas, who seeks a spectacle, receives silence, mocks Jesus with a royal robe, and sends him back; the two rulers become friends over the trial of the innocent, enacting the Psalm 2 pattern of rulers conspiring against the LORD's Anointed."
+        },
+        {
+            "reference": "23:13-25",
+            "section_title": "Pilate's Attempt to Release Jesus and the Crowd's Demand",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Pilate declares Jesus innocent a second and third time, proposes a compromise flogging, but the crowd unanimously demands Barabbas's release and Jesus's crucifixion until their voices prevail, and Pilate delivers Jesus to their will.",
+            "relevance": "The passage emphatically presents the crowd as genuine agents whose choices determine the outcome. Their voices 'prevail' (katischyon), and Pilate delivers Jesus 'to their will' (to thelemati auton) — the same word thelema that contrasts with Jesus's submission to the Father's will in 22:42. The crowd freely chooses Barabbas the actual insurrectionist and rejects the innocent Jesus, and their choice is presented as the operative cause of the crucifixion. The rejection of the Messiah by these agents is framed as a genuine human choice with real consequences — consequences the author will trace to the destruction of Jerusalem.",
+            "key_phrases": ["their voices began to prevail", "he delivered Jesus to their will", "wanting to release Jesus", "they kept on calling out, 'Crucify, crucify Him!'"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "23:26-31",
+            "section_title": "Simon of Cyrene and the Warning to the Daughters of Jerusalem",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Simon of Cyrene is compelled to carry the cross behind Jesus, and Jesus warns the mourning women of Jerusalem that coming judgment will make childlessness a blessing, quoting Hosea's language of catastrophic divine response.",
+            "relevance": "Jesus's warning to the daughters of Jerusalem — 'weep for yourselves and for your children' — presupposes that the audience's choices and responses genuinely matter. The warning structure implies agency: a genuine warning is pointless if the outcome is unilaterally predetermined. The green tree/dry tree proverb connects the treatment of the innocent Jesus to the coming treatment of the city, presenting judgment as the consequence of choices made (rejecting the Messiah), not arbitrary divine decree. However, the judgment described is national and temporal rather than individual and eternal, making the connection to salvation outcomes indirect.",
+            "key_phrases": ["stop weeping for Me, but weep for yourselves and for your children", "if they do these things when the tree is green, what will happen when it is dry?", "Blessed are the barren"],
+            "confidence": "low"
+        },
+        {
+            "reference": "23:32-38",
+            "section_title": "The Crucifixion",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus is crucified between two criminals, fulfilling Isaiah 53:12; he prays for the forgiveness of his executors, his garments are divided by lot echoing Psalm 22:18, and rulers, soldiers, and the titulus all identify him with titles (Christ, Chosen One, King of the Jews) that are truer than the mockers intend."
+        },
+        {
+            "reference": "23:39-43",
+            "section_title": "The Two Criminals",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "One criminal joins the mockery demanding self-rescue, while the other rebukes him, confesses his own guilt, declares Jesus's innocence, and asks to be remembered in Jesus's kingdom — receiving the promise of paradise 'today.'",
+            "relevance": "This passage directly presents two human beings in identical circumstances — both guilty, both crucified, both dying alongside Jesus — who make opposite choices with opposite salvation outcomes. The first criminal demands a sign (self-rescue), mirroring the sign-seeking pattern Jesus has rejected throughout the Gospel. The second criminal exercises genuine faith: he recognizes his own guilt, declares Jesus's innocence, and addresses Jesus as a king despite all visible evidence to the contrary. Jesus's response — 'today you shall be with Me in Paradise' — grants a salvation outcome (paradise, divine presence) in direct response to the criminal's freely exercised faith. The author explicitly connects the second criminal to the justified tax collector of 18:13-14, who also exercised genuine human response (humility, confession) and received justification. No suggestion is made that God predetermined which criminal would believe; the contrast functions precisely because both had the same opportunity and made genuinely different choices.",
+            "key_phrases": ["Do you not even fear God", "we indeed are suffering justly", "this man has done nothing wrong", "Jesus, remember me when You come in Your kingdom", "today you shall be with Me in Paradise"],
+            "confidence": "high"
+        },
+        {
+            "reference": "23:44-49",
+            "section_title": "The Death of Jesus",
+            "category": "NOT_APPLICABLE",
+            "summary": "Darkness covers the land for three hours, the temple curtain tears in two, Jesus commits his spirit to the Father quoting Psalm 31:5, the centurion glorifies God and declares Jesus righteous, and the crowd returns home beating their breasts."
+        },
+        {
+            "reference": "23:50-56",
+            "section_title": "The Burial",
+            "category": "NOT_APPLICABLE",
+            "summary": "Joseph of Arimathea, a righteous council member who did not consent to the verdict, requests Jesus's body from Pilate, buries it in a new rock-cut tomb, while the Galilean women observe the burial site and prepare spices before resting for the Sabbath."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "book": "Acts",
+    "chapter": 17,
+    "sections": [
+        {
+            "reference": "17:1-4",
+            "section_title": "Thessalonica -- Reasoning from the Scriptures in the Synagogue",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul reasons from the scriptures in the Thessalonian synagogue, explaining that the Christ must suffer and rise, and some Jews, many God-fearing Greeks, and leading women are persuaded and join Paul and Silas.",
+            "relevance": "The verb 'were persuaded' (epeisthesan) presents belief as the result of reasoned argument -- people were convinced by evidence set before them for examination. Paul's method of 'explaining' (dianoigon, opening up) and 'proving' (paratithemenos, setting evidence alongside the claim for the audience's judgment) frames conversion as a human cognitive response to persuasive scriptural reasoning, implying genuine agency in accepting or rejecting the message.",
+            "key_phrases": ["some of them were persuaded", "reasoned with them from the Scriptures", "explaining and proving", "joined Paul and Silas"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "17:5-9",
+            "section_title": "Jewish Opposition and the Charge of 'Another King'",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jealous Jews recruit a mob to attack Jason's house and bring charges before the politarchs that Paul proclaims 'another king, Jesus,' translating the messianic proclamation into a political accusation of treason against Caesar."
+        },
+        {
+            "reference": "17:10-15",
+            "section_title": "Berea -- The Nobility of Examining the Scriptures",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The Berean Jews are praised as 'more noble' because they receive the word eagerly and examine the scriptures daily to verify Paul's claims, with the result that many believe.",
+            "relevance": "The author's editorial praise establishes that the 'noble' response combines eager reception with rigorous investigation, and the causal 'therefore' (oun) makes belief the explicit result of their own examination. The optative mood ('whether these things held thus') indicates genuine, unprejudiced inquiry rather than a predetermined outcome. Faith is presented as the companion of investigation, not its opposite -- the Bereans took responsibility for their own examination, studied daily on their own initiative, and believed because the evidence warranted it. The entire model implies that human examination and cognitive engagement are genuine factors in whether belief occurs.",
+            "key_phrases": ["more noble", "received the word with all eagerness", "examining the Scriptures daily to see if these things were so", "many of them therefore believed"],
+            "confidence": "high"
+        },
+        {
+            "reference": "17:16-21",
+            "section_title": "Athens -- Provoked by Idols, Reasoning in Every Setting",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul, provoked by Athens's pervasive idolatry, reasons in both the synagogue and the marketplace, where Epicurean and Stoic philosophers engage him and bring him to the Areopagus to explain his 'new teaching.'"
+        },
+        {
+            "reference": "17:22-31",
+            "section_title": "The Areopagus Speech -- From the Unknown God to the Risen Judge",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul argues before the Areopagus that the Creator God who made all nations from one and is near to all has ended the era of overlooked ignorance and now commands all people everywhere to repent because he has fixed a day of judgment through a man whose appointment is certified by his resurrection.",
+            "relevance": "The speech's climax in verse 30 -- God 'commands all people everywhere to repent' -- is a universal imperative that presupposes the capacity to respond. The double universal (pasin pantachou, 'all people, everywhere') excludes no one from the command, and a command implies the addressee's ability to comply. The purpose clause in verse 27 ('that they should seek God, and perhaps feel their way toward him and find him') presents the divine arrangement of history as enabling genuine human seeking, with the 'perhaps' (ei ara ge) introducing real uncertainty about whether the seeking succeeds. God arranges circumstances to provoke seeking but does not determine the outcome of the search. The entire speech treats human response -- repentance, seeking, turning from idols -- as a genuine activity humans are expected and commanded to perform, and this command is part of Paul's own direct theological argument, not an illustration or aside.",
+            "key_phrases": ["commands all people everywhere to repent", "that they should seek God, and perhaps feel their way toward him and find him", "he is actually not far from each one of us", "the times of ignorance God overlooked, but now"],
+            "confidence": "high"
+        },
+        {
+            "reference": "17:32-34",
+            "section_title": "The Divided Response",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The Areopagus audience divides into three groups in response to Paul's message: some mock, some defer judgment, and some -- including Dionysius the Areopagite and a woman named Damaris -- believe.",
+            "relevance": "The three-way division of response to the same message (mockery, deferral, belief) presupposes genuine human agency: different individuals in the same audience, hearing the same argument from the same speaker, make different choices. The text offers no explanation for the division other than the varied human responses themselves -- no divine selection of the believers or hardening of the mockers is mentioned. The verb 'believed' (episteusan) is the same used for saving faith throughout Acts, and it is presented as the unmediated human response to Paul's proclamation.",
+            "key_phrases": ["some mocked", "we will hear you again about this", "some men joined him and believed"],
+            "confidence": "medium"
+        }
+    ]
+}

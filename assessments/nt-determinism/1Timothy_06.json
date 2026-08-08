@@ -1,0 +1,74 @@
+{
+    "book": "1Timothy",
+    "chapter": 6,
+    "sections": [
+        {
+            "reference": "6:1-2a",
+            "section_title": "Slaves and Masters -- Honor and the Name of God",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs slaves to honor their masters so that God's name and the teaching are not reviled, and tells slaves with believing masters to serve even better since the beneficiaries are beloved brothers."
+        },
+        {
+            "reference": "6:2b-5",
+            "section_title": "The Return to False Teaching -- Different Doctrine and Its Fruits",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul returns to the false teaching crisis, diagnosing the false teacher as puffed up, understanding nothing, sick with controversy, producing envy, strife, slander, evil suspicions, and constant friction, and treating godliness as a means of financial gain."
+        },
+        {
+            "reference": "6:6-8",
+            "section_title": "Godliness with Contentment -- The True Gain",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul redefines gain as godliness combined with contentment, grounded in the fact that humans bring nothing into the world and take nothing out, so food and covering are sufficient."
+        },
+        {
+            "reference": "6:9-10",
+            "section_title": "The Love of Money -- The Mechanism of Departure",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul identifies the desire for wealth as a mechanism by which people fall into temptation, ruin, and destruction, and states that through the love of money some have wandered away from the faith and pierced themselves with many pangs.",
+            "relevance": "The passage directly presents departure from the faith as the result of human desire and choice. The mechanism is entirely human: deliberate aspiration to be rich (boulomenoi ploutein) leads to temptation, snare, harmful desires, and ultimately ruin. The reflexive 'pierced themselves' (heautous periepeiran) emphasizes that the damage is self-inflicted. The past tense 'have wandered away from the faith' (apeplanthēsan apo tēs pisteōs) reports actual departures by real people whose craving for wealth caused them to leave. No divine determination of their departure is mentioned or implied; the entire causal chain runs from human desire to human ruin.",
+            "key_phrases": ["those who desire to be rich fall into temptation", "plunge people into ruin and destruction", "some have wandered away from the faith", "pierced themselves with many pangs"],
+            "confidence": "high"
+        },
+        {
+            "reference": "6:11-12",
+            "section_title": "The Final Charge to Timothy -- Flee, Pursue, Fight, Take Hold",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul charges Timothy as 'man of God' to flee the love of money, pursue six virtues, fight the good fight of the faith, and take hold of the eternal life to which he was called and about which he made the good confession.",
+            "relevance": "The passage combines divine initiative ('to which you were called,' eis hēn eklēthēs) with four imperatives requiring genuine human agency: flee, pursue, fight, take hold. Eternal life is presented as something that must be actively seized (epilabou, 'take hold of') -- not passively received or automatically guaranteed. The calling is divine, but the response -- fleeing vice, pursuing virtue, fighting the fight, grasping eternal life -- is Timothy's own responsibility. The structure presupposes that a called and confessing believer can succeed or fail in maintaining his standing, which implies genuine human agency in salvation outcomes. The passage is primarily exhortation rather than a direct theological statement about who determines salvation, hence the 'leans' rather than 'strong' classification.",
+            "key_phrases": ["flee these things", "pursue righteousness, godliness, faith, love, steadfastness, gentleness", "fight the good fight of the faith", "take hold of the eternal life to which you were called"],
+            "confidence": "high"
+        },
+        {
+            "reference": "6:13-16",
+            "section_title": "The Solemn Charge Before God -- Keep the Commandment Until the Appearing",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul delivers the letter's most solemn charge before God and Christ Jesus, commanding Timothy to keep the commandment unstained and free from reproach until the appearing of Christ, followed by a doxology ascribing to God sole sovereignty, immortality, and unapproachable light.",
+            "relevance": "The charge to 'keep the commandment unstained and free from reproach until the appearing' presupposes that Timothy's faithfulness is not guaranteed but depends on his sustained effort over time. The temporal horizon ('until the appearing') defines an obligation that extends to the end with no point of automatic security. The doxology affirms God's absolute sovereignty and exclusive possession of immortality -- the neutral reading notes that immortality 'belongs to God alone and is given by God to those he chooses to give it to' -- but this describes God's transcendent nature rather than a deterministic selection process. The charge structure assumes that a divinely called believer who has made the good confession still must actively keep the commandment or risk failure.",
+            "key_phrases": ["keep the commandment unstained and free from reproach until the appearing", "the blessed and only Sovereign", "who alone has immortality"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:17-19",
+            "section_title": "Instructions to the Rich -- Right Use of Wealth",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul instructs Timothy to charge the rich not to be haughty or hope in uncertain wealth but in God, to do good and be generous, thereby storing up a good foundation for the future so that they may take hold of that which is truly life.",
+            "relevance": "The passage presents human actions -- generosity, good works, readiness to share -- as the means by which the rich 'take hold of that which is truly life' (epilabōntai tēs ontōs zōēs). The verb epilambanesthai is the same one used in v. 12 for Timothy's seizing of eternal life, applied now to the rich. The structure is purposive: do these things 'so that' (hina) you may grasp genuine life. Human choices about how to use wealth are presented as directly affecting whether one obtains 'that which is truly life.' The passage does not address the question as its primary topic but carries clear implications that human agency determines salvation outcomes.",
+            "key_phrases": ["set their hopes not on the uncertainty of riches but on God", "storing up treasure for themselves as a good foundation for the future", "so that they may take hold of that which is truly life"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:20-21",
+            "section_title": "The Final Exhortation -- Guard the Deposit",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul commands Timothy to guard the entrusted deposit, avoid profane babble and the contradictions of falsely named 'knowledge,' and warns that by professing this false knowledge some have swerved from the faith.",
+            "relevance": "The passage directly states that human choices -- professing false knowledge (epangellomenoi) -- caused some to swerve from the faith (peri tēn pistin ēstochēsan). This is the letter's fifth and final report of departure, using the same verb (astochein) from 1:6, creating an inclusio that frames the entire letter with the reality of human-caused apostasy. The neutral reading catalogs all five departures and concludes: 'The letter does not treat faith as an irrevocable possession. It treats faith as a deposit to be guarded, a fight to be fought, a life to be seized and held, and a path from which one can deviate.' The command to 'guard the deposit' presupposes that the deposit can be lost through failure to guard it. No divine predetermination of these departures is mentioned; the causal agent in every case is human choice.",
+            "key_phrases": ["guard the deposit entrusted to you", "by professing it some have swerved from the faith", "avoid the irreverent babble and contradictions of what is falsely called knowledge"],
+            "confidence": "high"
+        }
+    ]
+}

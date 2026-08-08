@@ -1,0 +1,88 @@
+{
+    "book": "John",
+    "chapter": 19,
+    "sections": [
+        {
+            "reference": "19:1-3",
+            "section_title": "The Scourging and the Mock Enthronement",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the scourging and mock coronation of Jesus as ironic investiture: the soldiers intend ridicule but the author presents genuine kingship, with the crown, purple robe, and imperial acclamation all affirming what the mockers do not recognize."
+        },
+        {
+            "reference": "19:4-7",
+            "section_title": "Pilate's Presentation and the Charge",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Pilate's triple declaration of Jesus's innocence, the chief priests' demand for crucifixion, and the emergence of the underlying theological charge that Jesus 'made himself out to be the Son of God,' a claim the accusers correctly identify but reject as false."
+        },
+        {
+            "reference": "19:8-11",
+            "section_title": "Pilate's Fear and Jesus's Authority",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus telling Pilate that his authority is derivative ('given from above') and that the one who delivered Jesus to Pilate bears 'the greater sin' because the degree of sin corresponds to the degree of knowledge rejected.",
+            "relevance": "The passage contains two elements bearing on the question. The 'authority from above' language presents God as sovereign over the crucifixion events, with Pilate as an instrument in a design he does not comprehend. However, the graduated sin concept ('he who delivered me to you has the greater sin') directly implies genuine human agency: accountability is proportional to knowledge rejected, consistent with the document's teaching that 'since you say, We see, your sin remains' (9:41). If God unilaterally determined who would reject Jesus, grading moral culpability by the degree of knowledge would be incoherent. The graduated sin framework treats the choices of the chief priests and Pilate as genuine and consequential for their standing before God.",
+            "key_phrases": ["You would have no authority over Me, unless it had been given you from above", "he who delivered Me to you has the greater sin"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "19:12-16a",
+            "section_title": "The Final Exchange and the Handover",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the chief priests shifting from religious to political leverage to secure Jesus's execution, culminating in their declaration 'We have no king but Caesar,' which the author treats as the formal repudiation of God's kingship over Israel and the fulfillment of 'He came to his own, and his own did not receive him' (1:11).",
+            "relevance": "The chief priests' declaration is presented as a genuine and devastating choice with consequences for their standing before God. The neutral reading calls it 'the most devastating self-condemnation' and 'the ultimate apostasy' -- the replacement of God with Caesar as king. Pilate likewise makes a genuine choice: he 'chooses his own survival' over justice. The chain of handover (Judas, priests, Pilate) presents each actor as making a real choice with a claimed justification, while each bears genuine moral responsibility. The text treats these rejections as consequential human choices, not as predetermined outcomes.",
+            "key_phrases": ["We have no king but Caesar", "If you release this Man, you are no friend of Caesar", "he then handed Him over to them to be crucified"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "19:16b-18",
+            "section_title": "The Crucifixion",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus carrying his own cross to Golgotha and being crucified between two others, emphasizing the voluntary nature of his death and the fulfillment of Isaiah 53:12, with the crucifixion itself stated in extraordinary brevity because the author's focus is on the meaning of the event rather than its mechanics."
+        },
+        {
+            "reference": "19:19-22",
+            "section_title": "The Inscription",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the trilingual inscription declaring Jesus's kingship as Pilate's unwitting proclamation of truth, with Pilate's refusal to alter the wording continuing the pattern of ironic testimony in which those who do not believe nevertheless declare what is true."
+        },
+        {
+            "reference": "19:23-24",
+            "section_title": "The Division of Garments",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the division of Jesus's garments and the casting of lots for the seamless tunic as fulfilling Psalm 22:18, with the seamless garment evoking the high priestly vestment and the preservation of its wholeness echoing Jesus's prayer for the unity of his community."
+        },
+        {
+            "reference": "19:25-27",
+            "section_title": "The Mother and the Beloved Disciple",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus constituting a new family at the cross by assigning his mother and the beloved disciple to each other, enacting the document's theme that the new community is defined not by biological kinship but by relationship to Jesus, connecting back to the new birth of 1:12-13 and the 'Woman' address at Cana (2:4)."
+        },
+        {
+            "reference": "19:28-30",
+            "section_title": "The Completion and the Death",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus's death as sovereign, voluntary, and complete: he knows all things are accomplished, fulfills the Scripture by declaring his thirst, receives sour wine on hyssop echoing the Passover ritual, declares 'It is finished' (tetelestai) as an announcement of completed work, and voluntarily releases his spirit."
+        },
+        {
+            "reference": "19:31-37",
+            "section_title": "The Unbroken Bones and the Pierced Side",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the unbroken bones and pierced side as fulfilling Exodus 12:46 (Passover lamb) and Zechariah 12:10 (the pierced one), with the flow of blood and water enacting the promises of living water and Spirit-giving, all anchored by solemn eyewitness testimony given 'so that you also may believe.'",
+            "relevance": "The emphatic purpose clause 'so that you also may believe' (hina kai hymeis pisteusete) presents belief as a genuine human response that eyewitness testimony is designed to elicit. The entire structure of the testimony -- the eyewitness saw, he testifies, his testimony is true -- is oriented toward enabling an audience response. This framing matches the document's closing purpose statement (20:31) and treats belief as something the audience genuinely exercises in response to evidence, not as something unilaterally imposed regardless of testimony.",
+            "key_phrases": ["he who has seen has testified, and his testimony is true", "so that you also may believe"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "19:38-42",
+            "section_title": "The Burial",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Joseph of Arimathea (a secret disciple 'for fear of the Jews') and Nicodemus (who first came 'by night') emerging publicly to bury Jesus with royal spices, demonstrating that the cross transforms hidden faith into public confession.",
+            "relevance": "The section presents Joseph and Nicodemus as genuine agents whose choices -- to believe, to conceal their faith out of fear, and finally to come forward publicly -- are their own. The neutral reading explicitly connects Joseph to 12:42-43, where rulers believed but did not confess because 'they loved the approval of men rather than the approval of God,' treating this as a genuine human failure of priorities rather than a divinely determined outcome. Nicodemus's three-stage progression from secret inquiry to cautious defense to public devotion presents discipleship as shaped by genuine human development and choice over time, with the cross as the catalyst that produces courage faith alone could not.",
+            "key_phrases": ["a secret one for fear of the Jews", "who had first come to Him by night", "they loved the approval of men rather than the approval of God"],
+            "confidence": "medium"
+        }
+    ]
+}

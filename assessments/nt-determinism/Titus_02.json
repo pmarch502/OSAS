@@ -1,0 +1,58 @@
+{
+    "book": "Titus",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1",
+            "section_title": "The Pivot from False Teaching to Sound Doctrine",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul pivots from the false teachers' failures (1:10-16) to charge Titus to teach what accords with sound doctrine, establishing that doctrine produces fitting behavior."
+        },
+        {
+            "reference": "2:2",
+            "section_title": "Older Men",
+            "category": "NOT_APPLICABLE",
+            "summary": "Older men in the community are instructed to be sober-minded, dignified, self-controlled, and sound in faith, love, and steadfastness."
+        },
+        {
+            "reference": "2:3-5",
+            "section_title": "Older Women and Their Ministry to Younger Women",
+            "category": "NOT_APPLICABLE",
+            "summary": "Older women are instructed to be reverent and to train younger women in domestic and relational virtues so that the word of God may not be reviled by outsiders."
+        },
+        {
+            "reference": "2:6-8",
+            "section_title": "Younger Men and Titus as Model",
+            "category": "NOT_APPLICABLE",
+            "summary": "Younger men are urged toward self-control, and Titus is charged to model good works with integrity in his teaching so that opponents have nothing evil to say."
+        },
+        {
+            "reference": "2:9-10",
+            "section_title": "Slaves -- Conduct That Adorns the Doctrine",
+            "category": "NOT_APPLICABLE",
+            "summary": "Slaves are instructed to be submissive, faithful, and honest so that their conduct adorns the doctrine of God our Savior before watching outsiders."
+        },
+        {
+            "reference": "2:11-14",
+            "section_title": "The Theological Ground -- The Grace of God Has Appeared",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The grace of God has appeared bringing salvation for all people, actively training believers to renounce ungodliness and live godly lives while awaiting Christ's return, who gave himself to redeem from lawlessness and purify a people zealous for good works.",
+            "relevance": "Three features of the neutral reading bear on the determinism/agency question. First, grace appears 'for all people' (pasin anthropois), specifying universal scope rather than a limited elect -- the neutral reading ties this to the same universality as 1 Timothy 2:4 and 4:10. Second, grace functions as a 'trainer' (paideuousa), a metaphor that implies the trainee's active participation: grace educates and forms, but the believers are the ones who 'renounce ungodliness' (arnesamenoi, a decisive act attributed to the human agents) and 'live' self-controlled, upright, and godly lives. Training enables agency rather than bypassing it. Third, the laos periousios designation (v. 14) draws on corporate covenant identity from Exodus 19:5 and Deuteronomy 7:6 -- it describes the communal identity of those Christ has redeemed, not individual predetermination of who would be included. The overall picture is divine initiative (grace appears, Christ gives himself) working through human response (renouncing, living, being zealous), with the scope explicitly universal.",
+            "key_phrases": [
+                "the grace of God has appeared, bringing salvation for all people",
+                "training us to renounce ungodliness and worldly passions",
+                "to live self-controlled, upright, and godly lives in the present age",
+                "to redeem us from all lawlessness",
+                "to purify for himself a people for his own possession who are zealous for good works"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:15",
+            "section_title": "The Charge to Titus",
+            "category": "NOT_APPLICABLE",
+            "summary": "Titus is charged to declare, exhort, and rebuke with full apostolic authority, and to let no one disregard him."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "book": "Titus",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-2",
+            "section_title": "Civic Conduct -- The Community's Posture Toward the Outside World",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs Titus to remind the community to submit to civic authorities, obey, be ready for good works, avoid slander and quarreling, and show gentleness and courtesy toward all people."
+        },
+        {
+            "reference": "3:3",
+            "section_title": "The Reminder -- What We Once Were",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes the community's former condition as foolish, disobedient, led astray, enslaved to passions and pleasures, living in malice and envy, hated and hating one another.",
+            "relevance": "The catalog of the former condition emphasizes human bondage and inability: five of seven terms describe enslavement, deception, or dysfunction (led astray as a passive participle, slaves to passions, foolish as a disabled nous), establishing that humans could not extricate themselves from this condition. This sets up the divine rescue of 3:4-7 as necessary precisely because the human situation was one of comprehensive inability. The term 'disobedient' preserves moral culpability, but the dominant weight falls on the enslaved, deceived condition that required external intervention.",
+            "key_phrases": ["led astray", "slaves to various passions and pleasures", "foolish", "disobedient"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:4-7",
+            "section_title": "Salvation by Mercy Through the Washing of Regeneration",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul presents salvation as entirely God's initiative: God's goodness and loving kindness appeared, and he saved us not by our works in righteousness but according to his own mercy, through the washing of regeneration and renewal of the Holy Spirit poured out richly through Jesus Christ, so that justified by his grace we might become heirs of eternal life.",
+            "relevance": "Every element of the statement attributes the saving action to God and excludes human contribution as a basis: God appeared, God saved, not by our works, according to his own mercy, through regeneration and Spirit renewal that God poured out. The neutral reading emphasizes that 'the initiative belongs entirely to God; the community contributes nothing to the saving act.' The reflexive possessive 'his own mercy' locates the operative principle entirely within God's character. However, the passage addresses the basis and means of salvation (mercy vs. works, regeneration by the Spirit) rather than directly arguing about the mechanism of selection -- who God chooses to save. The 'us' describes the experience of the already-saved community, not the process by which individuals were selected. The passage thus has strong implications favoring divine determination but does not directly address whether human response plays any role in who receives this salvation.",
+            "key_phrases": ["he saved us", "not because of works done by us in righteousness", "but according to his own mercy", "by the washing of regeneration and renewal of the Holy Spirit", "whom he poured out on us richly", "justified by his grace"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:8",
+            "section_title": "The Faithful Saying -- Believers Must Devote Themselves to Good Works",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul declares the preceding teaching trustworthy and instructs Titus to insist on it so that those who have believed in God may devote themselves to good works, which are excellent and profitable for people.",
+            "relevance": "Immediately following the passage that attributes salvation entirely to divine initiative (3:4-7), the author identifies the saved community as 'those who have believed in God' (hoi pepisteukotes theo) -- using an active participle that attributes the act of believing to the human subjects. The neutral reading notes the perfect tense describes 'persons who have come to faith and remain in that state of faith.' The author does not say 'those whom God chose' or 'those whom God regenerated' but 'those who have believed,' introducing human agency as a descriptor of the saved alongside the divine initiative that saved them. The juxtaposition with 3:4-7 creates a both/and picture: God saves by his mercy, and the saved are characterized by their believing.",
+            "key_phrases": ["those who have believed in God"],
+            "confidence": "low"
+        },
+        {
+            "reference": "3:9",
+            "section_title": "The Warning Against Foolish Controversies",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs Titus to avoid foolish controversies, genealogies, dissensions, and quarrels about the law, declaring them unprofitable and worthless in contrast to the excellent and profitable good works."
+        },
+        {
+            "reference": "3:10-11",
+            "section_title": "The Divisive Person -- Warning and Rejection",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul instructs that a person who promotes division should be warned once and then twice, after which the community should have nothing more to do with him, knowing that such a person is warped, sinful, and self-condemned.",
+            "relevance": "The concept of the divisive person being 'self-condemned' (autokatakridos) places the determination of the person's standing in the person's own hands. The neutral reading emphasizes: 'By refusing the correction offered in the first and second warnings, the divisive person has demonstrated his own commitment to division. He has been given the opportunity to repent, and his refusal of that opportunity constitutes his own verdict against himself. The community does not condemn him; he condemns himself by his persistent refusal of correction.' This framework treats human choices -- accepting or refusing correction -- as genuinely determinative of one's standing. The person is given real opportunities to change course, and the condemnation follows from the person's own refusal, not from a prior divine decree.",
+            "key_phrases": ["he is self-condemned", "after warning him once and then twice"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:12-14",
+            "section_title": "Personal Instructions and the Final Charge About Good Works",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul gives travel instructions regarding Artemas, Tychicus, and Nicopolis, charges Titus to provision Zenas and Apollos, and delivers a final exhortation that the community must learn to devote themselves to good works for pressing needs so as not to be unfruitful."
+        },
+        {
+            "reference": "3:15",
+            "section_title": "The Final Greeting",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul extends greetings from all who are with him, instructs Titus to greet those who love them in the faith, and closes with a benediction of grace for the whole community."
+        }
+    ]
+}

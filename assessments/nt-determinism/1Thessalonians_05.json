@@ -1,0 +1,84 @@
+{
+    "book": "1Thessalonians",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-3",
+            "section_title": "The Day of the Lord and Its Sudden Arrival",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul addresses the timing of the day of the Lord, declaring it will come suddenly like a thief in the night, bringing inescapable destruction upon those who proclaim false peace and safety."
+        },
+        {
+            "reference": "5:4-5",
+            "section_title": "Children of Light, Not of Darkness",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul declares the community's identity as children of light and children of day, contrasting them with the outsiders of verse 3 who belong to night and darkness."
+        },
+        {
+            "reference": "5:6-8",
+            "section_title": "The Ethical Consequence -- Alertness, Sobriety, and Armor",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul draws the ethical consequence of the community's identity as children of light: they must be alert and sober, armed with the breastplate of faith and love and the helmet of the hope of salvation.",
+            "relevance": "The exhortations to alertness, sobriety, and arming presuppose genuine human agency in maintaining readiness for the day of the Lord. The logic is explicitly not 'do this to become children of light' but 'because you are children of light, live accordingly' -- yet the commands are real commands, not formalities. The contrast with 'the others' who sleep implies that failing to maintain alertness has consequences, and the community's conduct is presented as genuinely mattering for their standing when the day arrives.",
+            "key_phrases": ["let us not sleep as others do", "let us be alert and sober", "having put on the breastplate of faith and love", "the hope of salvation"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:9-10",
+            "section_title": "God's Appointment -- Not Wrath but Salvation",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul declares that God has appointed the community not for wrath but for obtaining salvation through the Lord Jesus Christ, who died so that whether alive or dead at his coming, they will live together with him.",
+            "relevance": "The verb etheto ('appointed, destined') describes a deliberate divine decision placing the community toward salvation rather than wrath, which has clear deterministic implications. However, the neutral reading identifies three critical qualifications: (1) this declaration follows the exhortations of vv. 6-8, and the reading explicitly states 'God's appointment and the community's corresponding conduct are held together, not separated'; (2) Paul does not say God has destined the outsiders for wrath -- the positive appointment is for the community, with no corresponding symmetric statement about outsiders being appointed to destruction; (3) the appointment is linked to calling language throughout the letter (2:12; 4:7; 5:24), describing divine initiative without excluding human response. The passage grounds the community's hope in God's purpose, but that purpose is presented in a context where human alertness and conduct also matter.",
+            "key_phrases": ["God has not destined us for wrath", "but for obtaining salvation through our Lord Jesus Christ", "who died for us", "whether we are awake or asleep, we will live together with Him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:11",
+            "section_title": "The Repeated Pastoral Instruction",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul repeats the pastoral instruction from 4:18 -- encourage one another and build one another up -- drawing the practical conclusion from the entire eschatological section."
+        },
+        {
+            "reference": "5:12-13",
+            "section_title": "Respect for Those Who Labor Among Them",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs the community to recognize and highly esteem those who labor, lead, and instruct among them, and to live at peace with one another."
+        },
+        {
+            "reference": "5:14-15",
+            "section_title": "Care for the Vulnerable and Ethics toward All",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul provides differentiated pastoral instructions -- admonish the disorderly, encourage the fainthearted, support the weak, be patient with all -- and commands the community to break the cycle of retaliation by pursuing good for one another and for all people."
+        },
+        {
+            "reference": "5:16-18",
+            "section_title": "The Triad of Continuous Practice",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul commands three continuous spiritual practices -- rejoicing always, praying without ceasing, and giving thanks in everything -- identifying them as God's will for the community in Christ Jesus."
+        },
+        {
+            "reference": "5:19-22",
+            "section_title": "The Spirit, Prophecy, and Discernment",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs the community not to quench the Spirit or despise prophetic utterances, but to test everything, hold fast to the good, and abstain from every form of evil."
+        },
+        {
+            "reference": "5:23-24",
+            "section_title": "The Closing Prayer -- God's Sanctifying Work and Faithfulness",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul prays that the God of peace himself would sanctify the community entirely and preserve them complete and blameless at the parousia, then assures them that the faithful God who calls them will bring it to pass.",
+            "relevance": "The prayer places the completion of sanctification and preservation squarely in God's hands. The emphatic 'himself' (autos) identifies God -- not human effort -- as the agent of sanctification. The assurance 'faithful is he who calls you, and he also will bring it to pass' grounds the community's perseverance in God's faithfulness rather than their own ability. The neutral reading states explicitly: 'The community's perseverance is ultimately a function of God's faithfulness, not merely of their own effort.' The present-tense 'who calls' describes God's calling as ongoing, not a one-time past event. However, the neutral reading also notes that this 'does not negate the imperatives of chapters 4-5' and that 'both are necessary' -- the commands describe what the community must do, the prayer describes what God will do. The passage leans deterministic because God's agency is primary and God's faithfulness is the ultimate guarantee, but human responsibility through the imperatives is explicitly maintained alongside it.",
+            "key_phrases": ["may the God of peace himself sanctify you entirely", "may your spirit and soul and body be preserved complete, without blame at the coming of our Lord Jesus Christ", "Faithful is He who calls you", "He also will bring it to pass"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:25-28",
+            "section_title": "Final Requests and Benediction",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul requests the community's prayers, commands the holy kiss greeting for all, places the community under solemn oath to have the letter read to every member, and closes with a benediction of grace."
+        }
+    ]
+}

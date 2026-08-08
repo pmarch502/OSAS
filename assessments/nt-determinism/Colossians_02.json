@@ -1,0 +1,62 @@
+{
+    "book": "Colossians",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-5",
+            "section_title": "Paul's Struggle for Communities He Has Not Met",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul expresses his intense personal concern for the Colossians and other communities he has not visited, desiring their encouragement, unity in love, and full knowledge of the mystery of God which is Christ, in whom all treasures of wisdom and knowledge reside."
+        },
+        {
+            "reference": "2:6-7",
+            "section_title": "The Foundational Command -- Continue as You Began",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul commands the Colossians to continue walking in Christ as they received him, using imagery of being rooted, built up, and established in the faith they were originally taught.",
+            "relevance": "The imperative 'walk in him' assigns ongoing responsibility to the believers to maintain their position in Christ. The command structure presupposes genuine human agency: the Colossians must choose to continue as they began. This connects to the conditional of 1:23, where their presentation as holy depends on their continuing in the faith. The exhortation to remain 'established in the faith, just as you were taught' implies they could deviate from it.",
+            "key_phrases": ["as you received Christ Jesus the Lord, so walk in him", "rooted and built up in him and established in the faith, just as you were taught"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:8-10",
+            "section_title": "Warning Against Philosophy and the Fullness in Christ",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul warns the Colossians against being taken captive by a specific philosophy operating according to human tradition and the elemental spirits of the world rather than according to Christ, then grounds the warning in the fact that the fullness of deity dwells bodily in Christ and the Colossians have been filled in him.",
+            "relevance": "The imperative 'see to it that no one takes you captive' assigns vigilance as the believers' own responsibility. The verb sylagogeo ('to carry off as spoil') presents a real threat of being plundered from their position in Christ, which only makes sense if such displacement is genuinely possible. The declaration that they are 'filled in him' (v. 10) establishes divine provision as complete, yet the warning that they must guard against captivity implies that divine provision does not unilaterally guarantee their continued standing -- human vigilance is required.",
+            "key_phrases": ["see to it that no one takes you captive", "you have been filled in him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:11-15",
+            "section_title": "What God Accomplished in Christ -- Circumcision, Death, Resurrection, Triumph",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul declares that in Christ the Colossians received a spiritual circumcision, were buried and raised with Christ through faith, were made alive from their dead state with all trespasses forgiven, and that God cancelled the record of debt and publicly triumphed over the rulers and authorities through the cross.",
+            "relevance": "The section heavily emphasizes divine action: God circumcised, made alive, forgave, cancelled the debt, and triumphed over the powers. The language of being 'dead in trespasses' (v. 13) parallels Ephesians 2:1-5, which is conventionally cited for determinism. However, the neutral reading identifies a critical qualifier in v. 12: the co-resurrection with Christ occurs 'through faith in the powerful working of God who raised him from the dead.' Faith is explicitly named as the instrument by which humans participate in Christ's death and resurrection. The neutral reading notes: 'The Colossians' participation in Christ's resurrection is mediated through their trust in the God who accomplished that resurrection.' This presents faith as a genuine human response that mediates access to divine power, not as a unilateral divine determination. God provides the power; humans respond with trust.",
+            "key_phrases": ["raised with him through faith in the powerful working of God", "you, being dead in your trespasses and the uncircumcision of your flesh, God made alive together with him", "having forgiven us all our trespasses", "nailing it to the cross"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:16-19",
+            "section_title": "Therefore Do Not Submit to External Regulations",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul draws the practical consequence of the Colossians' completeness in Christ: no one should judge them regarding food, drink, or calendar observances (which are shadows of the substance that is Christ), and no one should disqualify them through asceticism, angel-worship, or visionary claims -- practices that reflect a failure to hold fast to Christ the Head.",
+            "relevance": "The warnings 'let no one judge you' and 'let no one disqualify you' are imperatives directed at the Colossians, assigning them responsibility to resist external pressure. The description of the false teacher as 'not holding fast to the Head' (v. 19) implies that someone who was connected to Christ can release their grip and become disconnected from the source of divine growth. The verb krateo ('to hold fast') presupposes genuine agency: maintaining connection to Christ is something the believer does or fails to do. The consequence of releasing the Head is disconnection from 'a growth that is from God' -- God provides the growth, but the human must maintain the connection through which it flows.",
+            "key_phrases": ["let no one pass judgment on you", "let no one disqualify you", "not holding fast to the Head", "grows with a growth that is from God"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:20-23",
+            "section_title": "Dying with Christ Means Freedom from Regulations",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul argues that since the Colossians died with Christ to the elemental spirits, they should not submit to ascetic regulations that deal with perishable things, come from human teaching, and despite their appearance of wisdom are powerless to restrain the flesh.",
+            "relevance": "The rhetorical question 'why do you submit to regulations?' presupposes that the Colossians have genuine choice about whether to submit to the old regulatory system or to remain in the freedom of their death with Christ. The conditional 'if you died with Christ to the elemental spirits of the world' assumes a real death-event, yet the question that follows implies they could act as though that death never happened by choosing to re-submit to the stoicheia. Their identity as those who died with Christ does not automatically prevent them from returning to the old order -- they must choose not to.",
+            "key_phrases": ["if with Christ you died to the elemental spirits of the world, why, as if living in the world, do you submit to regulations", "do not handle, do not taste, do not touch", "according to human precepts and teachings"],
+            "confidence": "high"
+        }
+    ]
+}

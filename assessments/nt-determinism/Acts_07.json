@@ -1,0 +1,94 @@
+{
+    "book": "Acts",
+    "chapter": 7,
+    "sections": [
+        {
+            "reference": "7:1",
+            "section_title": "The High Priest's Question",
+            "category": "NOT_APPLICABLE",
+            "summary": "The high priest's brief procedural question inviting Stephen to respond to the charges of speaking against the temple and the Law."
+        },
+        {
+            "reference": "7:2-8",
+            "section_title": "Abraham -- God's Call Outside the Land",
+            "category": "NOT_APPLICABLE",
+            "summary": "Stephen recounts God's call to Abraham in Mesopotamia, his obedience without possessing the land, and the covenant of circumcision, establishing that God's presence and promises precede and are not tied to any holy place."
+        },
+        {
+            "reference": "7:9-16",
+            "section_title": "Joseph -- The Rejected Deliverer in Egypt",
+            "category": "NOT_APPLICABLE",
+            "summary": "Stephen recounts the patriarchs' jealous rejection of Joseph, God's accompanying presence with Joseph in Egypt, and the rejected brother's elevation to become the deliverer of those who rejected him."
+        },
+        {
+            "reference": "7:17-29",
+            "section_title": "Moses -- First Rejection",
+            "category": "NOT_APPLICABLE",
+            "summary": "Stephen recounts Moses's birth, education, first attempt to deliver Israel, Israel's failure to understand God's purpose through him, and his subsequent exile to Midian after being pushed away by his own people."
+        },
+        {
+            "reference": "7:30-34",
+            "section_title": "Moses at the Burning Bush -- God Outside the Land",
+            "category": "NOT_APPLICABLE",
+            "summary": "Stephen recounts God's appearance to Moses in the wilderness at the burning bush, where desert ground becomes holy by God's presence alone, and God commissions Moses to deliver Israel from Egypt."
+        },
+        {
+            "reference": "7:35-38",
+            "section_title": "Moses -- The Rejected One Whom God Sent",
+            "category": "NOT_APPLICABLE",
+            "summary": "Stephen identifies the thesis of his speech: the Moses whom Israel disowned is the very one God sent as ruler and deliverer, who performed signs, prophesied a future prophet like himself, and received living oracles to pass on."
+        },
+        {
+            "reference": "7:39-43",
+            "section_title": "Israel's Rejection of Moses and Turn to Idolatry",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Stephen recounts Israel's willful refusal to obey Moses, their turning back to Egypt in their hearts, the making of the golden calf, and God's response of delivering them over to serve the host of heaven.",
+            "relevance": "The passage presents a clear sequence in which human agency precedes the divine response: Israel was 'unwilling to be obedient,' 'repudiated' Moses, and 'in their hearts turned back to Egypt' before God acted. God then 'delivered them over' to idolatry not as an arbitrary decree but, as the reading states, because 'he released them to its consequences.' The pattern is human rejection first, divine response second -- God does not force the outcome but permits the consequences of genuine human choices.",
+            "key_phrases": ["unwilling to be obedient to him", "repudiated him", "in their hearts turned back to Egypt", "God turned away and delivered them over to serve the host of heaven"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:44-50",
+            "section_title": "The Tabernacle, the Temple, and God's Dwelling",
+            "category": "NOT_APPLICABLE",
+            "summary": "Stephen traces the progression from the divinely designed portable tabernacle to Solomon's temple, citing Isaiah 66 to argue that the Most High does not dwell in houses made by human hands, since heaven is his throne and earth his footstool."
+        },
+        {
+            "reference": "7:51-53",
+            "section_title": "The Accusation",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Stephen directly accuses the Sanhedrin of being stiff-necked and uncircumcised in heart and ears, of always resisting the Holy Spirit as their fathers did, of betraying and murdering the Righteous One, and of receiving the Law yet failing to keep it.",
+            "relevance": "This passage directly presents human beings as agents who actively and persistently resist the Holy Spirit. The verb antipipto ('to fall against, to resist') combined with the adverb aei ('always') describes a chronic, chosen opposition to God's active work. The Holy Spirit is presented as genuinely at work -- these are not people from whom God withheld his Spirit, but people upon whom the Spirit acted and who successfully opposed it. This directly challenges the concept of irresistible grace: if God's Spirit can be resisted by human choice, then human agency plays a genuine role in determining one's standing before God. Stephen makes this charge as the climactic application of his entire speech, not as an aside or illustration, and it is delivered while Stephen himself is 'full of the Holy Spirit.'",
+            "key_phrases": ["stiff-necked and uncircumcised in heart and ears", "you are always resisting the Holy Spirit", "you are doing just as your fathers did", "whose betrayers and murderers you have now become", "received the law as ordained by angels, and yet did not keep it"],
+            "confidence": "high"
+        },
+        {
+            "reference": "7:54-56",
+            "section_title": "The Vision",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The Sanhedrin responds to Stephen's Spirit-filled speech with fury and gnashing of teeth, while Stephen sees the heavens opened and Jesus standing at God's right hand.",
+            "relevance": "The neutral reading explicitly contrasts this audience's response with the Pentecost crowd's response to apostolic preaching: 'The same type of conviction produces opposite responses: repentance in the Pentecost crowd, fury in the Sanhedrin. The difference is in the hearers, not in the message.' This observation attributes divergent outcomes to the hearers' own disposition rather than to divine selection -- the same Spirit-empowered message reaches both groups, and the human response determines the result.",
+            "key_phrases": ["they were cut to the quick", "they began gnashing their teeth at him", "being full of the Holy Spirit"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:57-58",
+            "section_title": "The Mob Violence",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The Sanhedrin cries out, physically covers their ears, and rushes at Stephen with one impulse, driving him out of the city to stone him while a young man named Saul watches over the witnesses' garments.",
+            "relevance": "The deliberate covering of ears is identified in the reading as 'the physical enactment of what Stephen charged: they are uncircumcised in ears.' The Sanhedrin chooses to shut out Spirit-filled testimony, demonstrating that their rejection is a willful human act -- they actively refuse to hear rather than being prevented from hearing by any divine decree.",
+            "key_phrases": ["covered their ears", "rushed at him with one impulse"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:59-60",
+            "section_title": "Stephen's Death",
+            "category": "NOT_APPLICABLE",
+            "summary": "Stephen prays for Jesus to receive his spirit and asks the Lord not to hold his killers' sin against them, paralleling Jesus's own dying prayers, before falling asleep."
+        }
+    ]
+}

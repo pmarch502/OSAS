@@ -1,0 +1,50 @@
+{
+    "book": "Hebrews",
+    "chapter": 8,
+    "sections": [
+        {
+            "reference": "8:1-2",
+            "section_title": "The Summary Claim -- We Have Such a High Priest",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author summarizes the argument of chapters 5-7 by declaring that the community has a high priest who is seated at God's right hand and ministers in the true heavenly tabernacle that God erected."
+        },
+        {
+            "reference": "8:3-5",
+            "section_title": "The Earthly Priesthood as Copy and Shadow",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author argues that the earthly Levitical priests serve a copy and shadow of the heavenly reality, grounding this in the Exodus 25:40 command that Moses build the tabernacle according to the pattern shown on the mountain."
+        },
+        {
+            "reference": "8:6",
+            "section_title": "Better Ministry, Better Covenant, Better Promises",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author establishes that Jesus has obtained a more excellent ministry as mediator of a better covenant enacted on better promises, with the superiority of the ministry tied directly to the superiority of the covenant."
+        },
+        {
+            "reference": "8:7-8a",
+            "section_title": "The Inadequacy of the First Covenant",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author argues that the need for a second covenant proves the first was not faultless, and that God found fault specifically with the people for their failure to keep it.",
+            "relevance": "The text attributes the covenant's failure to the people -- God 'found fault with them' -- treating their choices as genuine and consequential. The people's persistent disobedience, not divine withholding or predetermination, caused the covenant breakdown. The neutral reading notes that if the fault were entirely structural rather than human, the solution would have been to fix the covenant, not the people; God's response of finding fault with them implies their agency was real and their failure was their own.",
+            "key_phrases": ["if that first covenant had been free of fault", "finding fault with them"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:8b-12",
+            "section_title": "The Jeremiah Quotation -- God's Own Words About a Coming Covenant",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_by_both",
+            "summary": "The author quotes Jeremiah 31:31-34 in full, presenting God's announcement of a new covenant whose terms include internalized law, restored covenant relationship, universal direct knowledge of God, and definitive forgiveness of sins.",
+            "relevance": "The new covenant's four features are stated entirely as divine initiative: 'I will put My laws into their minds,' 'I will write them on their hearts,' 'I will be merciful,' 'their sins I will no longer remember.' God is the sole actor who transforms the people's interior orientation, provides unmediated knowledge, and definitively forgives. Human response is not mentioned in the covenant's mechanism. However, the neutral reading notes this transformation produces willing obedience 'from within rather than being imposed from without,' and the covenant parties are identified nationally ('house of Israel and house of Judah') rather than individually selected, so the passage addresses covenant mechanism rather than individual salvation determination.",
+            "key_phrases": ["they did not continue in My covenant", "I will put My laws into their minds", "write them on their hearts", "I will be their God, and they shall be My people", "they will all know Me, from the least to the greatest of them", "I will be merciful toward their wrongdoings", "their sins I will no longer remember"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:13",
+            "section_title": "The Author's Conclusion -- Obsolescence",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author draws the inference that God's use of the word 'new' for the coming covenant renders the first covenant obsolete, and observes that the old covenant system is presently becoming obsolete and is about to disappear."
+        }
+    ]
+}

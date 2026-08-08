@@ -1,0 +1,64 @@
+{
+    "book": "Matthew",
+    "chapter": 19,
+    "sections": [
+        {
+            "reference": "19:1-2",
+            "section_title": "Transition: Departure from Galilee",
+            "category": "NOT_APPLICABLE",
+            "summary": "The passage records Jesus's geographic move from Galilee to Judea beyond the Jordan and notes that large crowds followed and he healed them there."
+        },
+        {
+            "reference": "19:3-9",
+            "section_title": "The Pharisees' Question About Divorce",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus responds to a test question about divorce by bypassing the Shammai-Hillel debate and appealing to the creation design of permanent one-flesh union, classifying the Mosaic divorce provision as a concession to hardness of heart rather than an expression of God's will."
+        },
+        {
+            "reference": "19:10-12",
+            "section_title": "The Disciples' Response and the Teaching on Celibacy",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus responds to the disciples' conclusion that it is better not to marry by teaching that celibacy is a gift given by God to some but not all, identifying three categories of eunuchs including those who forgo marriage voluntarily for the sake of the kingdom."
+        },
+        {
+            "reference": "19:13-15",
+            "section_title": "Children Brought to Jesus",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus rebukes the disciples for preventing children from coming to him and declares that the kingdom of heaven belongs to those who share the qualities children exemplify: dependence, lowliness, and lack of self-assertion.",
+            "relevance": "The declaration that the kingdom belongs to 'such as these' implicitly requires a human posture for kingdom entry -- becoming like a child in dependence and humility. This aligns with the teaching at 18:3-4 that unless one 'turns and becomes like children' one will not enter the kingdom. The turning and becoming are human responses, and the text treats them as genuine conditions for entry rather than outcomes unilaterally produced by God.",
+            "key_phrases": ["Let the little children come to me and do not hinder them", "for to such belongs the kingdom of heaven"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "19:16-22",
+            "section_title": "The Young Man's Question About Eternal Life",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "A young man asks what good deed he must do to have eternal life; Jesus tells him to keep the commandments and then to sell everything, give to the poor, and follow him; the man departs sorrowfully because he has great possessions.",
+            "relevance": "The passage directly presents eternal life as contingent on the man's own willing choice. The conditional constructions 'if you would enter life' (ei theleis eis ten zoen eiselthein) and 'if you would be perfect' (ei theleis teleios einai) explicitly condition the outcome on the man's will. Jesus issues the call to follow; the man exercises genuine agency in refusing. The neutral reading identifies this as the only instance in the document where someone is called by Jesus to follow and refuses -- his refusal is treated as a real choice that determines his standing, not as an outcome predetermined by God. The text offers no suggestion that God prevented him from following or that his refusal was divinely ordained.",
+            "key_phrases": ["If you would enter life, keep the commandments", "If you would be perfect, go, sell what you possess and give to the poor", "come, follow me", "he went away sorrowful, for he had great possessions"],
+            "confidence": "high"
+        },
+        {
+            "reference": "19:23-26",
+            "section_title": "The Difficulty of Wealth and the Kingdom",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus declares that it is extremely difficult for the rich to enter the kingdom, escalating from 'with difficulty' to the impossible image of a camel through a needle's eye, and resolves the disciples' dismay by saying that with man salvation is impossible but with God all things are possible.",
+            "relevance": "The passage locates the possibility of salvation entirely in God's power rather than in human effort. The progression from difficulty to impossibility dismantles any framework in which human achievement secures kingdom entry: the commandments can be kept and still leave one lacking, possessions can be identified as the obstacle and still prove immovable. The neutral reading states that 'the actual letting go requires something that human will alone cannot produce.' However, the text does not directly say God unilaterally selects who receives this enabling power, and the allusion to Genesis 18:14 (God making possible what is humanly impossible for Abraham and Sarah) frames divine power as accomplishing what humans cannot rather than as overriding human response. The passage affirms the necessity of divine action without specifying whether that action is irresistible or merely enabling.",
+            "key_phrases": ["only with difficulty will a rich person enter the kingdom of heaven", "it is easier for a camel to go through the eye of a needle", "Who then can be saved?", "With man this is impossible, but with God all things are possible"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "19:27-30",
+            "section_title": "Peter's Question About Reward and the First-Last Reversal",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter asks what the disciples will receive for having left everything to follow Jesus; Jesus promises eschatological thrones and declares that everyone who has left family or possessions for his name's sake will receive a hundredfold and inherit eternal life, closing with the warning that many who are first will be last and the last first.",
+            "relevance": "The conditional promise structure 'everyone who has left houses or brothers or sisters or father or mother or children or lands, for my name's sake, will receive a hundredfold and will inherit eternal life' treats eternal life as an inheritance conditioned on human decisions -- specifically, the decision to sacrifice for Jesus. The universal address 'everyone who' (pas hostis) opens the promise to any person who makes this choice, implying that the choice is genuinely available and genuinely determinative. The first-last reversal warning further reinforces human agency by cautioning that those who assume their position is secure may discover it is not, implying that standing before God is not fixed by prior divine decree but remains responsive to human posture.",
+            "key_phrases": ["we have left everything and followed you", "everyone who has left houses or brothers or sisters...for my name's sake, will receive a hundredfold and will inherit eternal life", "many who are first will be last, and the last first"],
+            "confidence": "medium"
+        }
+    ]
+}

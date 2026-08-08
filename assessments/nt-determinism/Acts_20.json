@@ -1,0 +1,72 @@
+{
+    "book": "Acts",
+    "chapter": 20,
+    "sections": [
+        {
+            "reference": "20:1-6",
+            "section_title": "Paul's Journey Through Macedonia, Greece, and Back to Troas",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents a travel itinerary tracing Paul's route from Ephesus through Macedonia and Greece back to Troas, including a Jewish plot that forces a change of route, the list of traveling companions representing the collection churches, and the resumption of the 'we' narrative."
+        },
+        {
+            "reference": "20:7-12",
+            "section_title": "The Gathering at Troas, Eutychus",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading describes the community assembling on the first day of the week to break bread, Paul's extended discourse, the fall and death of Eutychus from a third-story window, Paul's prophetic restoration of his life echoing Elijah and Elisha, and the continuation of the communal meal until dawn."
+        },
+        {
+            "reference": "20:13-16",
+            "section_title": "The Coastal Voyage from Troas to Miletus",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading records Paul's solitary overland walk to Assos and the subsequent coastal voyage to Miletus, bypassing Ephesus because Paul is hastening to reach Jerusalem by Pentecost."
+        },
+        {
+            "reference": "20:17-21",
+            "section_title": "Paul's Address to the Ephesian Elders -- Review of His Ministry",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Paul's retrospective summary of his Ephesian ministry, culminating in his declaration that he testified to both Jews and Greeks of 'repentance toward God and faith in our Lord Jesus Christ.'",
+            "relevance": "Paul's message content presupposes genuine human agency: repentance (metanoia, a turning of the whole person) and faith (pistis, trust and commitment) are presented as human responses that both Jews and Greeks are called to make. The universal scope of the call -- 'both Jews and Greeks' receive the same message requiring the same response -- implies that all hearers possess the capacity to repent and believe. The message does not distinguish between those predetermined to respond and those not; it addresses all equally.",
+            "key_phrases": ["repentance toward God and of faith in our Lord Jesus Christ", "both to Jews and to Greeks", "I did not shrink from declaring to you anything that was profitable"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "20:22-24",
+            "section_title": "Paul's Resolve to Go to Jerusalem",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Paul as 'bound by the Spirit' toward Jerusalem despite warnings of imprisonment and affliction, declaring that he does not value his own life above completing his course and the ministry he received from the Lord Jesus -- to testify to the gospel of the grace of God."
+        },
+        {
+            "reference": "20:25-27",
+            "section_title": "Paul's Declaration That They Will See His Face No More",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Paul declaring himself innocent of the blood of all because he did not shrink from declaring the whole counsel of God, invoking the watchman framework from Ezekiel 33.",
+            "relevance": "The Ezekiel watchman metaphor, which the neutral reading identifies as the background for Paul's blood-innocence declaration, presupposes that hearers bear genuine moral responsibility for their response to the warning. The watchman who faithfully delivers the message is cleared of blood-guilt precisely because the hearers had real capacity to heed the warning. If salvation outcomes were unilaterally determined by God, the watchman framework would be incoherent -- there would be no blood-guilt to incur, because those who perish could not have responded differently. Paul's claim of innocence only makes sense if the hearers' rejection was their own culpable choice.",
+            "key_phrases": ["I am innocent of the blood of all", "I did not shrink from declaring to you the whole counsel of God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "20:28-31",
+            "section_title": "The Warning About Wolves and False Teachers",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Paul charging the elders to shepherd the church of God (obtained with his own blood), warning that fierce wolves will come from outside and false teachers will arise from within the elder body itself to draw away the disciples after them, and commanding vigilance.",
+            "relevance": "The urgent warning that false teachers will 'draw away the disciples after them' presupposes that believers face genuine danger and that their continued standing is not unilaterally secured. If God had determined in advance which individuals would remain faithful, the warning to 'be alert' and the prophetic anxiety about disciples being pulled away would be pointless. The entire structure of the passage -- charge to shepherd, prophecy of threat, command to vigilance -- assumes that human watchfulness and human vulnerability are real factors in whether disciples remain in the community of the saved. The exegesis notes that Paul's warning about wolves 'not sparing the flock' uses the most vivid destructive imagery available, treating the danger as genuine, not merely apparent.",
+            "key_phrases": ["fierce wolves will come in among you, not sparing the flock", "from among your own selves will arise men speaking twisted things, to draw away the disciples after them", "Therefore be alert"],
+            "confidence": "high"
+        },
+        {
+            "reference": "20:32-35",
+            "section_title": "Commendation to God and the Word of His Grace",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Paul commending the community to God and to the word of his grace, which is able to build them up and give them the inheritance among the sanctified, followed by Paul's defense of his economic integrity and his appeal to a saying of Jesus about the blessedness of giving."
+        },
+        {
+            "reference": "20:36-38",
+            "section_title": "The Farewell",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading records the grief-filled farewell as Paul kneels in prayer with the elders, who weep, embrace him, and escort him to the ship, sorrowful above all because of his declaration that they would not see his face again."
+        }
+    ]
+}

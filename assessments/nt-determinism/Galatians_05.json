@@ -1,0 +1,86 @@
+{
+    "book": "Galatians",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1",
+            "section_title": "The Thesis of the Letter's Second Movement",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul declares that Christ has accomplished liberation and commands the Galatians to stand firm in that freedom and refuse reimposition of slavery.",
+            "relevance": "The imperative 'stand firm' and the prohibition 'do not submit again to a yoke of slavery' presuppose genuine human agency: the Galatians can choose to hold their ground or surrender it. Christ accomplished the liberation (divine act), but maintaining that position is presented as a human responsibility that can be failed.",
+            "key_phrases": ["stand firm therefore", "do not submit again to a yoke of slavery", "for freedom Christ has set us free"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:2-6",
+            "section_title": "The Consequences of Circumcision — Severance and Obligation",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul warns that accepting circumcision as a condition of justification severs one from Christ and constitutes a fall from grace, and contrasts this with the path of faith working through love.",
+            "relevance": "This section directly addresses whether salvation standing is unilaterally determined by God or contingent on human choices. The neutral reading finds that Paul treats the Galatians' standing in Christ as something that can be lost through a volitional reorientation from grace toward law. The conditional 'if you accept circumcision' treats the choice as genuinely open; the aorist verbs 'you have been severed' and 'you have fallen' treat the consequence as accomplished for anyone who takes this step. The two systems (grace and law-based justification) are mutually exclusive, and the human being determines which system they stand in. This is part of Paul's central argument, not an aside.",
+            "key_phrases": ["if you accept circumcision, Christ will be of no advantage to you", "you are severed from Christ", "you have fallen away from grace", "faith working through love"],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:7-12",
+            "section_title": "The Source of the Disruption",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul identifies the rival teachers as the source of the Galatians' diversion from the truth and expresses confidence that the Galatians will reject the false teaching.",
+            "relevance": "The framework assumes the Galatians are genuine agents who can be persuaded in either direction: they were 'running well' but someone 'hindered' them. God is identified as the one who calls them (divine initiative), but the Galatians can be diverted from obeying the truth by human persuasion that does not originate from God. Paul's confidence in them is grounded 'in the Lord,' not in any guarantee of irresistible preservation.",
+            "key_phrases": ["you were running well", "who hindered you from obeying the truth", "this persuasion is not from him who calls you", "I have confidence in the Lord that you will take no other view"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:13-15",
+            "section_title": "Freedom Redefined — Not License but Love",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul warns against using freedom as a base of operations for the flesh and instead calls for mutual service through love, which fulfills the whole law.",
+            "relevance": "The section presupposes genuine human agency in how believers respond to God's calling. They were 'called to freedom' (divine initiative), but the imperative 'do not use your freedom as an opportunity for the flesh' and the command 'through love serve one another' treat the Galatians as capable of choosing either path. The warning against mutual destruction (v. 15) implies the real possibility of communal failure that is not overridden by divine determination.",
+            "key_phrases": ["you were called to freedom", "do not use your freedom as an opportunity for the flesh", "through love serve one another", "if you bite and devour one another, watch out that you are not consumed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:16-18",
+            "section_title": "The Spirit-Flesh Opposition",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul presents the Spirit and the flesh as opposing powers and commands believers to walk by the Spirit as the means of overcoming the flesh's desires.",
+            "relevance": "The imperative 'walk by the Spirit' presupposes genuine human agency: the Galatians are commanded to orient their conduct toward the Spirit, which implies they can also fail to do so. The Spirit enables victory over the flesh (divine empowerment), but the conditional 'if you are led by the Spirit' treats Spirit-leading as something that characterizes those who cooperate with it, not as an irresistible force imposed on all. The framework is synergistic: the Spirit provides the power, the believer must walk in it.",
+            "key_phrases": ["walk by the Spirit, and you will not gratify the desires of the flesh", "the desires of the flesh are against the Spirit", "if you are led by the Spirit, you are not under the law"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:19-21",
+            "section_title": "The Works of the Flesh",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul catalogs the works of the flesh and warns that those who practice them will not inherit the kingdom of God.",
+            "relevance": "The warning 'those who do such things will not inherit the kingdom of God' directly addresses salvation outcomes and conditions them on human conduct. The neutral reading notes that this warning is addressed to the Galatian believers themselves, not only to outsiders, and that the inheritance 'can be forfeited by those who turn their freedom into a base of operations for the flesh.' The present participle 'those who practice' describes characteristic, habitual conduct — a pattern of life chosen by the individual. This is part of Paul's direct argument, complementing the warning of 5:4: both legalism and license are paths the believer can choose that lead away from the kingdom.",
+            "key_phrases": ["those who do such things will not inherit the kingdom of God", "I warn you, as I warned you before"],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:22-23",
+            "section_title": "The Fruit of the Spirit",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes the unified fruit the Spirit produces in believers — love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control — and notes that no law opposes such qualities.",
+            "relevance": "The Spirit is presented as the agent producing ethical character ('fruit' grows organically, not manufactured by human effort), which reflects divine enablement. However, the broader argument establishes that this fruit grows only in those who choose to walk by the Spirit (v. 16) and keep in step with the Spirit (v. 25). The Spirit produces what the law could not, but the framework is cooperative rather than unilateral: divine power working through willing human participation.",
+            "key_phrases": ["the fruit of the Spirit is love, joy, peace", "against such things there is no law"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:24-26",
+            "section_title": "Those Who Belong to Christ",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul states that those who belong to Christ have crucified the flesh and urges believers to keep in step with the Spirit rather than becoming conceited and divisive.",
+            "relevance": "The neutral reading notes a shift from passive identification with Christ's death (2:20, 'I have been crucified with Christ') to active volitional action (5:24, believers 'have crucified the flesh'). This active verb treats the rejection of the flesh's regime as a genuine human decision. The hortatory 'let us keep in step with the Spirit' (v. 25) presupposes that believers can choose to align or not align with the Spirit's direction. The indicative-to-imperative logic ('since we live by the Spirit, let us walk by the Spirit') presents the divine reality as the ground for a human response that is genuinely required, not automatically guaranteed.",
+            "key_phrases": ["those who belong to Christ Jesus have crucified the flesh", "if we live by the Spirit, let us also keep in step with the Spirit", "let us not become conceited, provoking one another, envying one another"],
+            "confidence": "medium"
+        }
+    ]
+}

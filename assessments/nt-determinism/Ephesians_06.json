@@ -1,0 +1,60 @@
+{
+    "book": "Ephesians",
+    "chapter": 6,
+    "sections": [
+        {
+            "reference": "6:1-4",
+            "section_title": "Instructions to Children and Fathers",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the household code's instructions to children (obey and honor parents in the Lord) and fathers (do not provoke but raise children in the Lord's discipline and instruction), continuing the pattern of relativizing all household authority under Christ's lordship."
+        },
+        {
+            "reference": "6:5-9",
+            "section_title": "Instructions to Slaves and Masters",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents instructions to slaves and masters within the household code, culminating in the declaration that the Lord evaluates each person's conduct impartially regardless of social status.",
+            "relevance": "Two elements bear on the question. First, verse 8 states that 'whatever good anyone does, this he will receive back from the Lord, whether he is a slave or free,' presenting human conduct as genuinely mattering before God's evaluation. The neutral reading connects this to 2 Corinthians 5:10, where each person receives 'the things done through the body, according to what he has done, whether good or bad.' This is a framework in which human actions produce real consequences before God. Second, verse 9 declares that with the heavenly Master 'there is no partiality' (prosopolempsia), rooted in Deuteronomy 10:17 and consistent with Romans 2:11. God does not arbitrarily favor some over others based on status or identity; he evaluates conduct. This impartiality framework is in tension with a model in which God unilaterally determines outcomes irrespective of human action. However, the passage addresses conduct within the household rather than salvation directly, which keeps it at LEANS.",
+            "key_phrases": ["whatever good anyone does, this he will receive back from the Lord, whether he is a slave or free", "there is no partiality with him", "doing the will of God from the heart"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:10-13",
+            "section_title": "The Strength and the Struggle",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the author commanding the community to be empowered in the Lord, to put on the whole armor of God, and to stand firm against cosmic spiritual powers, with the controlling verb 'stand' appearing repeatedly as the community's objective.",
+            "relevance": "The passage presents human agency as genuinely operative in the spiritual battle that determines whether the community holds its ground or falls. The imperative structure is urgent and assumes real capacity to comply or fail: 'put on the whole armor' (6:11), 'take up the whole armor' (6:13), 'stand firm' (6:13). The neutral reading explicitly states the community's 'objective is not spectacular conquest but steadfast endurance. Stand. Do not fall. Do not yield ground.' The real possibility of failing to stand is what makes the imperatives meaningful. At the same time, the power for standing is divine — 'be strong in the Lord and in the strength of his might' (6:10), and the armor is 'of God' — provided by God, not self-generated. The passage presents a synergy: God provides the resources, but humans must actively appropriate them. This is not 'God unilaterally determines the outcome' (the imperatives would be pointless), nor is it 'humans stand in their own strength' (the armor is God's). The interplay implies genuine human agency within divine provision.",
+            "key_phrases": ["be strong in the Lord and in the strength of his might", "put on the whole armor of God, so that you may be able to stand", "having done all, to stand firm", "take up the whole armor of God, that you may be able to withstand in the evil day"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:14-17",
+            "section_title": "The Components of God's Armor",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading details the six components of God's armor — belt of truth, breastplate of righteousness, shoes of the gospel of peace, shield of faith, helmet of salvation, and sword of the Spirit — each drawn from LXX Isaiah where God himself or the messianic king wears this equipment.",
+            "relevance": "The passage sustains the imperative pattern of 6:10-13: the community is commanded to fasten, put on, take up, and receive each piece. The armor is God's own equipment — Isaiah 59:17 describes God putting on the breastplate and helmet, Isaiah 11:5 describes the messianic king wearing the belt — but it must be actively appropriated by the community. The neutral reading notes the community 'does not fashion its own weapons; it wears God's equipment,' yet each imperative assumes the community can obey or fail to obey. The shield of faith in particular implies human agency: pistis as the community's active trust in God is what extinguishes 'all the flaming darts of the evil one.' Faith here is a genuine human response — the community's reliance on God — functioning as the primary defense. The passage reinforces the pattern of divine provision requiring human appropriation rather than divine determination rendering human response irrelevant.",
+            "key_phrases": ["Stand therefore, having fastened on the belt of truth", "having put on the breastplate of righteousness", "take up the shield of faith, with which you can extinguish all the flaming darts of the evil one", "take the helmet of salvation, and the sword of the Spirit"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:18-20",
+            "section_title": "Prayer as Combat",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents prayer as integral to the spiritual combat, with the community instructed to pray at all times in the Spirit with perseverance for all the saints, and the author requesting prayer for boldness to proclaim the mystery of the gospel from prison."
+        },
+        {
+            "reference": "6:21-22",
+            "section_title": "The Commendation of Tychicus",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the personal commendation of Tychicus as a beloved brother and faithful minister sent to inform the recipients of the author's circumstances and encourage their hearts."
+        },
+        {
+            "reference": "6:23-24",
+            "section_title": "The Benediction",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the closing benediction invoking peace, love, faith, and grace from God the Father and the Lord Jesus Christ, with the final phrase extending grace to 'all who love our Lord Jesus Christ with love incorruptible.'"
+        }
+    ]
+}

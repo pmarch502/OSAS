@@ -1,0 +1,44 @@
+{
+    "book": "2Corinthians",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-3",
+            "section_title": "The Corinthians as Paul's Letter",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul bypasses the credential system of letters of recommendation by declaring the Corinthian community itself to be his letter, authored by Christ, delivered by Paul, written by the Spirit of the living God on hearts of flesh rather than on tablets of stone."
+        },
+        {
+            "reference": "3:4-6",
+            "section_title": "Sufficiency from God and the Ministry of the New Covenant",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul answers the sufficiency question from 2:16 by declaring that his competence comes from God, who has qualified him as a minister of a new covenant characterized not by the written code that kills but by the Spirit who gives life."
+        },
+        {
+            "reference": "3:7-11",
+            "section_title": "The Greater Glory -- Two Ministries Compared",
+            "category": "NOT_APPLICABLE",
+            "summary": "Through three qal wahomer (lesser-to-greater) arguments, Paul demonstrates that the new covenant ministry of the Spirit, righteousness, and permanence possesses incomparably greater glory than the Sinai covenant ministry of death, condemnation, and transient glory."
+        },
+        {
+            "reference": "3:12-16",
+            "section_title": "Boldness, the Veil, and Hardened Minds",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul contrasts his unveiled boldness with Moses' veiling, diagnoses Israel's hardened minds and the veil that remains when the old covenant is read, and declares that the veil is removed in Christ whenever one turns to the Lord.",
+            "relevance": "The passage presents a tension between the passive hardening of Israel's minds (3:14, agent unspecified) and the human act of turning to the Lord as the remedy (3:16). The verb epistrephō is the standard LXX rendering of shuv, the prophetic call to repentance, consistently presented as something humans are called upon to do. The structure of the passage positions human turning as the decisive act that removes the veil: 'whenever one turns to the Lord, the veil is removed.' The neutral reading explicitly notes that Paul does not identify who hardened Israel's minds, leaving the agent ambiguous, while the remedy -- turning -- is presented as a genuine human action that produces a real result.",
+            "key_phrases": ["their minds were hardened", "when one turns to the Lord, the veil is removed", "to this day whenever Moses is read, a veil lies over their hearts", "only in Christ is it brought to an end"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:17-18",
+            "section_title": "The Lord, the Spirit, Freedom, and Transformation",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul identifies the Lord of the Exodus narrative with the Spirit in new covenant experience, declares that the Spirit's presence brings freedom, and describes the entire community as being progressively transformed into the Lord's image from glory to glory by the Spirit.",
+            "relevance": "The transformation described in 3:18 is entirely Spirit-driven: 'are being transformed' (metamorphoumetha, present passive) with the agent identified as 'the Lord who is the Spirit.' The passage presents no human contribution to the transformative process -- it is not accomplished by moral striving but by the Spirit's agency. However, this transformation presupposes the community has already 'turned to the Lord' (3:16), so the passage addresses God's agency in the ongoing salvation process rather than the initial determination of who enters the community. The divine agency in transformation is clear, but the scope is post-turning sanctification rather than the question of who gets saved.",
+            "key_phrases": ["where the Spirit of the Lord is, there is freedom", "are being transformed into the same image from glory to glory", "as from the Lord who is the Spirit"],
+            "confidence": "medium"
+        }
+    ]
+}

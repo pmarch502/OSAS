@@ -1,0 +1,72 @@
+{
+    "book": "Hebrews",
+    "chapter": 6,
+    "sections": [
+        {
+            "reference": "6:1-3",
+            "section_title": "The Call to Advance",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author calls the audience to leave elementary teaching and press on to maturity, listing the six foundational doctrines that should not need re-laying, and adding the qualifier 'if God permits' before the severe warning that follows.",
+            "relevance": "The hortatory subjunctive 'let us press on to maturity' presupposes genuine human agency in spiritual progress, which the author directly connects to avoiding the catastrophe of falling away described in the next section. The 'if God permits' introduces divine permission as a factor, but the primary rhetorical force is a call to human action that the audience can either heed or ignore.",
+            "key_phrases": ["let us press on to maturity", "if God permits"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:4-6",
+            "section_title": "The Impossible Restoration",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The author declares it impossible to restore to repentance those who have had full, genuine experience of new covenant realities — enlightenment, the heavenly gift, participation in the Holy Spirit, the good word of God, and the powers of the age to come — and then have decisively fallen away, since they re-crucify the Son of God and put him to open shame.",
+            "relevance": "The passage directly presents human beings as genuine agents whose choices determine their salvation outcome. The five participial descriptions, which the neutral reading demonstrates use the author's own vocabulary for genuine spiritual experience elsewhere in the letter, establish that these are real participants in salvation — not superficial observers. Their falling away is a decisive human act (aorist participle parapesontas), not a predetermined outcome. The impossibility of restoration follows from the finality of God's provision (there is no word beyond the Son, no gift beyond the Spirit), not from divine unwillingness to forgive. The logic presupposes that grace is resistible and that perseverance is not guaranteed — people who genuinely participated in salvation can choose to abandon it, and that choice has irreversible consequences.",
+            "key_phrases": ["it is impossible", "those who have once been enlightened", "have tasted of the heavenly gift", "have been made partakers of the Holy Spirit", "have tasted the good word of God and the powers of the age to come", "and then have fallen away", "to restore them again to repentance", "since they again crucify to themselves the Son of God"],
+            "confidence": "high"
+        },
+        {
+            "reference": "6:7-8",
+            "section_title": "The Parable of the Ground",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author illustrates the warning with an agricultural parable: ground that drinks rain and produces useful vegetation receives blessing, but ground that drinks the same rain and produces thorns and thistles is worthless, close to being cursed, and ends up being burned.",
+            "relevance": "The neutral reading identifies the critical point: the two types of ground receive the same rain, so the difference between blessing and burning lies not in what God provides but in what the ground produces. The divine provision (the spiritual realities of 6:4-5) is identical; the outcome depends on the response. This eliminates the possibility that the fallen received something inferior and places the determining factor in the recipient's response. Classified as LEANS rather than STRONG because the passage functions as an illustration within the argument rather than as a direct propositional statement about human agency.",
+            "key_phrases": ["ground that drinks the rain which often falls on it", "produces vegetation useful", "receives a blessing from God", "if it yields thorns and thistles", "it is worthless and close to being cursed", "it ends up being burned"],
+            "confidence": "high"
+        },
+        {
+            "reference": "6:9-12",
+            "section_title": "Encouragement and the Call to Diligence",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author assures the audience that he believes better things of them based on the evidence of their ongoing service, and calls each of them to demonstrate diligence in maintaining the full assurance of hope until the end, imitating those who through faith and endurance inherit the promises.",
+            "relevance": "The author directly addresses human agency as determinative of salvation outcomes. The call to 'demonstrate the same diligence so as to realize the full assurance of hope until the end' treats human effort as genuinely necessary for reaching the goal. The phrase 'until the end' is the same temporal condition used throughout the letter (3:6, 3:14) for final participation in salvation. The model of those who 'through faith and endurance inherit the promises' presents two human responses — faith and endurance — as the means by which the promises are obtained. The warning against being 'sluggish' presupposes that the audience can choose diligence or sluggishness, and that the choice affects whether they inherit or not.",
+            "key_phrases": ["we are convinced of better things regarding you, and things that accompany salvation", "demonstrate the same diligence so as to realize the full assurance of hope until the end", "so that you will not be sluggish", "imitators of those who through faith and endurance inherit the promises"],
+            "confidence": "high"
+        },
+        {
+            "reference": "6:13-15",
+            "section_title": "Abraham as the Model",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author presents Abraham as the concrete example of the principle stated in 6:12: Abraham received God's oath-confirmed promise, patiently waited with sustained trust, and obtained what was promised.",
+            "relevance": "Abraham models the pattern of faith and endurance leading to inheriting the promise, implying that human response is genuinely necessary. The neutral reading notes that 'Abraham's faith and patience brought him to the promise' and that 'the danger the author warns against is: receive the promise and then give up before arrival.' The implication is that arrival at the promise is not automatic but requires sustained human trust. Classified as LEANS rather than STRONG because the section functions as an illustrative model rather than a direct propositional argument about who determines salvation outcomes.",
+            "key_phrases": ["having patiently waited, he obtained the promise"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:16-18",
+            "section_title": "The Logic of the Oath",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author explains that God confirmed His promise with an oath — two unchangeable things in which it is impossible for God to lie — so that those who have taken refuge would have strong encouragement to hold firmly to the hope set before them.",
+            "relevance": "While the section emphasizes God's absolute faithfulness and the unbreakable security of His oath, the purpose of that security is stated in human-agency terms: 'we who have taken refuge would have strong encouragement to hold firmly to the hope set before us.' The verb 'taken refuge' (kataphygontes) describes an active human choice — fleeing to God for asylum. The verb 'hold firmly' (kratesai) describes ongoing human effort. God's unbreakable oath provides the basis for hope, but the human act of holding firmly to that hope is presupposed as genuine and necessary. The two sides are held together: God's provision is certain, and human response to it is real.",
+            "key_phrases": ["two unchangeable things in which it is impossible for God to lie", "we who have taken refuge", "strong encouragement to hold firmly to the hope set before us"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:19-20",
+            "section_title": "The Anchor and the Forerunner",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author describes the believer's hope as an anchor cast into the heavenly sanctuary behind the veil, where Jesus has entered as a forerunner and eternal high priest according to the order of Melchizedek, reconnecting the argument to the Christological exposition interrupted at 5:10."
+        }
+    ]
+}

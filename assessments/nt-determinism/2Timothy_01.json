@@ -1,0 +1,54 @@
+{
+    "book": "2Timothy",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-2",
+            "section_title": "The Greeting — Apostleship and the Promise of Life",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies himself as an apostle by God's will, oriented toward the promise of life in Christ Jesus, and greets Timothy with grace, mercy, and peace."
+        },
+        {
+            "reference": "1:3-5",
+            "section_title": "Thanksgiving — Ancestral Faith and Spiritual Heritage",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul expresses gratitude for Timothy's sincere faith, tracing its transmission through three generations — grandmother Lois, mother Eunice, and now Timothy — while noting that such transmission is familial but not automatic."
+        },
+        {
+            "reference": "1:6-7",
+            "section_title": "The Gift Rekindled — Power Instead of Cowardice",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul commands Timothy to fan into flame the gift of God received through the laying on of hands, because God gave a spirit not of cowardice but of power, love, and self-discipline.",
+            "relevance": "The neutral reading establishes that God has given Timothy a genuine gift (the spirit of power, love, and self-discipline), but Timothy must actively tend it — the metaphor of fanning embers into flame implies the gift can go dormant if neglected. The neutral reading notes the problem is 'not ignorance but dormancy' and compares Timothy's duty to the priestly obligation in Leviticus 6:12-13 where 'letting it die was a failure of stewardship.' This assumes Timothy has genuine agency over his spiritual condition: God provides the gift, but the human recipient determines whether it burns brightly or fades.",
+            "key_phrases": ["fan into flame the gift of God", "God gave us a spirit not of cowardice but of power and love and self-discipline"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:8-12",
+            "section_title": "The Call to Suffer Without Shame — Grounded in God's Saving Purpose",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul commands Timothy not to be ashamed of the gospel or of Paul's imprisonment, grounding the exhortation in a compressed theological statement that God saved and called his people not because of their works but because of his own purpose and grace, given in Christ before time began and now revealed through Christ's appearing, which abolished death and brought life to light.",
+            "relevance": "This section contains the major proof-text at verse 9: God 'saved us and called us to a holy calling, not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began.' The neutral reading confirms that prothesis ('purpose') in Paul's usage consistently describes God's sovereign, premeditated plan originating entirely within God, connecting it to Romans 8:28 and 9:11. The grace was given before the ages began — prior to any human existence or action. The reading emphasizes that the plan 'did not originate in human achievement, in cosmic necessity, or in the movement of history. It originated in God.' However, the passage addresses the basis of salvation (grace and purpose, not works) rather than directly addressing whether God unilaterally determines who receives this salvation. And the immediate context features Paul's personal faith ('I know whom I have believed') as the ground of his confidence, treating his trust as a genuine personal commitment rather than a determined outcome.",
+            "key_phrases": ["saved us and called us to a holy calling", "not because of our works but because of his own purpose and grace", "which he gave us in Christ Jesus before the ages began", "I know whom I have believed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:13-14",
+            "section_title": "The Pattern and the Deposit — What Timothy Must Guard",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul charges Timothy to follow the pattern of sound words received from Paul and to guard the good deposit of apostolic teaching through the Holy Spirit who dwells within the community of believers."
+        },
+        {
+            "reference": "1:15-18",
+            "section_title": "Two Responses to Suffering — Desertion and Faithfulness",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul contrasts the mass desertion of Asian believers (including named individuals Phygelus and Hermogenes) with the faithful example of Onesiphorus, who was not ashamed of Paul's chain, traveled to Rome to find him, and served him repeatedly — and for whom Paul prays for mercy on the eschatological day.",
+            "relevance": "The neutral reading presents desertion and faithfulness as genuine human choices with eschatological consequences. The Asian believers 'made a specific choice' to turn away; Onesiphorus chose to seek Paul at personal cost. Paul's prayer that Onesiphorus 'find mercy from the Lord on that day' echoes Jesus' teaching that 'the merciful shall receive mercy,' linking human action (showing mercy, remaining faithful) to eschatological outcome. The neutral reading's summary states the chapter presents Timothy with 'a binary choice: he can join the many who turned away, or he can follow the pattern of Paul and Onesiphorus. There is no middle ground.' This framing treats the choice as genuinely open — determined by Timothy's own decision, not predetermined by God.",
+            "key_phrases": ["all who are in Asia turned away from me", "was not ashamed of my chain", "he searched for me earnestly and found me", "may the Lord grant him to find mercy from the Lord on that day"],
+            "confidence": "high"
+        }
+    ]
+}

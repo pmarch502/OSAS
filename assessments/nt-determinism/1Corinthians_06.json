@@ -1,0 +1,58 @@
+{
+    "book": "1Corinthians",
+    "chapter": 6,
+    "sections": [
+        {
+            "reference": "6:1-6",
+            "section_title": "Internal Disputes Before External Courts",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul rebukes the community for taking internal disputes to pagan courts instead of adjudicating them among themselves, arguing from their eschatological destiny to judge the world and angels that they are competent to handle trivial matters."
+        },
+        {
+            "reference": "6:7-8",
+            "section_title": "The More Fundamental Failure",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul deepens the argument beyond venue to assert that lawsuits among believers are a defeat in themselves, that the community should absorb wrong rather than litigate, and that in fact the Corinthians are the ones perpetrating injustice against their own brothers."
+        },
+        {
+            "reference": "6:9-11",
+            "section_title": "Those Who Will Not Inherit the Kingdom, and What the Community Was",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul warns that those characterized by a catalogue of vices will not inherit the kingdom of God, reminds the Corinthians that some of them formerly belonged to those categories, and declares that they have been washed, sanctified, and justified.",
+            "relevance": "The passage directly addresses human behavior as the criterion that determines exclusion from the kingdom. The neutral reading states explicitly that 'present behavior determines future inheritance' and that 'the kingdom is not inherited regardless of conduct.' The warning 'do not be deceived' presupposes that the Corinthians could wrongly believe their behavioral choices have no bearing on their eschatological standing. The logic of the passage is that those who have been transformed by God's action (washed, sanctified, justified) can nevertheless revert to the behaviors that exclude from the kingdom -- 'to return to those behaviors is to un-become what they have become.' While verse 11 affirms divine initiative in the transformation (the passive voice for sanctification and justification), the neutral reading notes that the middle voice for 'washed' may indicate voluntary participation. The entire argument treats the Corinthians as genuine agents whose ongoing behavioral choices determine whether they remain among those who will inherit the kingdom or rejoin those who will not.",
+            "key_phrases": ["the unrighteous will not inherit the kingdom of God", "do not be deceived", "and such were some of you", "you were washed", "you were sanctified", "you were justified"],
+            "confidence": "high"
+        },
+        {
+            "reference": "6:12-14",
+            "section_title": "The 'All Things Are Lawful' Slogan and the Body's Purpose",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul qualifies the Corinthian freedom slogan by arguing that not all things are beneficial, that unrestrained license produces slavery rather than freedom, and that the body is destined not for disposal but for resurrection.",
+            "relevance": "The passage presupposes genuine human agency in choosing how to exercise freedom. Paul's correction of the slogan assumes the Corinthians can and must make real choices about their conduct -- choices that have consequences for their relationship with the Lord. The argument that the body is 'for the Lord' and that God will raise it implies that what humans choose to do with their bodies has lasting significance, not just temporal but eschatological. However, the passage addresses the body's purpose and ethics rather than directly stating who determines salvation outcomes.",
+            "key_phrases": ["all things are lawful for me, but not all things are beneficial", "I will not be dominated by anything", "the body is not meant for sexual immorality, but for the Lord"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:15-17",
+            "section_title": "Members of Christ and Union with a Prostitute",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul argues that believers' bodies are members of Christ and that sexual union with a prostitute creates an incompatible one-flesh bond, since union with the Lord is a one-spirit reality that cannot coexist with such a union.",
+            "relevance": "The passage implies that a person who is a member of Christ can choose to create a union incompatible with that membership. The argument assumes genuine human agency: the believer can 'take the members of Christ and make them members of a prostitute.' The two unions -- one spirit with the Lord, one body with a prostitute -- cannot coexist, meaning the human choice to create the incompatible union has direct consequences for one's spiritual status. However, the direct topic is the theology of sexual union rather than a statement about who determines salvation.",
+            "key_phrases": ["your bodies are members of Christ", "shall I then take the members of Christ and make them members of a prostitute", "he who is joined to the Lord becomes one spirit with him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:18-20",
+            "section_title": "Flight from Porneia and the Body as Temple",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul commands the community to flee sexual immorality, identifies the individual believer's body as a temple of the Holy Spirit, declares that they are not their own because they were bought with a price, and commands them to glorify God in their bodies.",
+            "relevance": "The imperative 'flee from sexual immorality' and 'glorify God in your body' presuppose genuine human agency -- the capacity to obey or disobey. The identification of the body as the Spirit's temple extends the logic of 3:16-17, where destroying God's temple invites divine destruction, implying that human choices about the body carry eschatological consequences. While 'you were bought with a price' affirms divine initiative and ownership, the commands that follow treat the believer as a genuine agent who must choose to honor that ownership. The passage does not present divine ownership as rendering human choice irrelevant; rather, divine ownership grounds the obligation to make right choices.",
+            "key_phrases": ["flee from sexual immorality", "the sexually immoral person sins against his own body", "your body is a temple of the Holy Spirit", "you are not your own", "you were bought with a price", "glorify God in your body"],
+            "confidence": "medium"
+        }
+    ]
+}

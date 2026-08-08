@@ -1,0 +1,62 @@
+{
+    "book": "Luke",
+    "chapter": 18,
+    "sections": [
+        {
+            "reference": "18:1-8",
+            "section_title": "Persistent Prayer and the Vindication of God's Chosen",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus tells a parable about a widow who persists in demanding justice from a corrupt judge until he relents, then applies it through a lesser-to-greater argument: God will certainly vindicate his elect who cry out day and night, but the open question is whether the Son of Man will find 'the faith' on earth when he comes.",
+            "relevance": "The passage presents the outcome of faith as genuinely uncertain and dependent on human perseverance. The question in verse 8 — 'when the Son of Man comes, will He find the faith on the earth?' — uses the particle ara, which the neutral reading identifies as communicating that 'the outcome depends on whether the hearers will persevere.' The faith the Son of Man seeks is described as 'an ongoing posture of dependent, persistent trust' that humans must sustain through the interval of waiting; the danger is that they will 'stop praying' and 'lose heart.' The term 'His elect' (tōn eklektōn autou) is identified by the neutral reading as corporate and covenantal — 'the community of those who belong to God and who are suffering injustice' — not individual selection for eternal destiny. The passage thus frames the eschatological outcome as contingent on whether God's people continue in faithful prayer, not on a prior divine determination of who will persevere.",
+            "key_phrases": ["at all times they ought to pray and not lose heart", "will not God bring about justice for His elect who cry to Him day and night", "when the Son of Man comes, will He find the faith on the earth"],
+            "confidence": "high"
+        },
+        {
+            "reference": "18:9-14",
+            "section_title": "Two Men in the Temple -- Self-Justification and Mercy",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus contrasts a Pharisee who recites his religious accomplishments before God with a tax collector who beats his breast and cries for mercy, then declares that the tax collector went home justified rather than the Pharisee, concluding with the universal principle that the self-exalting will be humbled and the self-humbling will be exalted.",
+            "relevance": "The passage directly addresses who is justified before God and identifies human posture as the distinguishing factor. Two men go to the temple; their divergent outcomes are determined by their respective choices — one trusts in himself and his merits, the other throws himself on God's mercy. Jesus's verdict ('this man went to his house justified rather than the other') makes justification the explicit subject and presents human humility versus self-exaltation as the operative variable. The perfect passive participle dedikaiōmenos ('having been justified') confirms that God does the justifying, but the universalized concluding principle — 'everyone who exalts himself will be humbled, but he who humbles himself will be exalted' — establishes that God's justifying act responds to the human disposition. The passage presents this not as an aside but as the author's direct theological argument through Jesus's authoritative verdict, universalized to 'everyone.' The neutral reading identifies this as answering the chapter's opening question about what kind of faith the Son of Man is looking for: 'desperate, self-emptying dependence on God's mercy with no claim of merit.'",
+            "key_phrases": ["trusted in themselves that they were righteous, and viewed others with contempt", "God, be merciful to me, the sinner", "this man went to his house justified rather than the other", "everyone who exalts himself will be humbled, but he who humbles himself will be exalted"],
+            "confidence": "high"
+        },
+        {
+            "reference": "18:15-17",
+            "section_title": "Receiving the Kingdom as Infants Receive",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "When disciples rebuke those bringing infants to Jesus, he declares that the kingdom of God belongs to 'such as these' and that whoever does not receive the kingdom like a child will absolutely not enter it.",
+            "relevance": "The passage presents entry into the kingdom as contingent on a human mode of reception. The verb dechomai ('to receive, to welcome, to accept') frames the kingdom as a gift that must be accepted, and the double negative ou mē with the subjunctive ('will absolutely not enter') establishes that failure to receive in this manner genuinely excludes. The neutral reading identifies the child's qualifying characteristic as 'complete inability to earn, achieve, claim, or demand' — the kingdom is 'possessed by those who have nothing to bring.' The implication is that human posture determines kingdom entry: those who come as recipients enter; those who come with claims do not. The passage stops short of STRONG_LIBERTARIAN because it is framed as a condition of reception rather than a direct argument about human agency, and the emphasis falls more on the quality of openness than on active choice.",
+            "key_phrases": ["the kingdom of God belongs to such as these", "whoever does not receive the kingdom of God like a child will not enter it at all"],
+            "confidence": "high"
+        },
+        {
+            "reference": "18:18-30",
+            "section_title": "The Ruler Who Could Not Let Go",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "A wealthy ruler asks what he must do to inherit eternal life; Jesus tells him to sell everything, give to the poor, and follow him; the ruler departs in grief because he is extremely rich; Jesus declares that it is humanly impossible for the rich to enter the kingdom but that what is impossible with people is possible with God; Peter notes that the disciples have left everything, and Jesus promises eternal life to all who have done so.",
+            "relevance": "The passage presents the ruler's failure to enter the kingdom as the direct consequence of his own choice — he cannot surrender his wealth and follow. The neutral reading states that 'his wealth holds him more tightly than the call of Jesus' and that 'his wealth functions as his god.' The contrast with the disciples is explicitly one of divergent human responses to the same call: 'the ruler is being invited to join the community of followers,' but he refuses, while Peter and the disciples 'have done what the ruler could not.' Jesus's promise of eternal life to those who have left everything 'for the sake of the kingdom of God' presents the eternal outcome as contingent on human willingness to surrender and follow. However, the passage also contains the statement 'the things that are impossible with people are possible with God,' which the neutral reading interprets as affirming that 'the entry of anyone into the kingdom — rich or poor — is ultimately God's doing, not a human achievement.' This introduces genuine tension: human choice is the distinguishing factor, but divine enabling is what makes entry possible. The interplay of both elements prevents a STRONG categorization in either direction.",
+            "key_phrases": ["sell all that you possess and distribute the proceeds to the poor, and you shall have treasure in heaven; and come, follow Me", "he became very sad, for he was extremely rich", "the things that are impossible with people are possible with God", "there is no one who has left house or wife or brothers or parents or children, for the sake of the kingdom of God, who will not receive many times as much at this time and in the age to come, eternal life"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "18:31-34",
+            "section_title": "The Son of Man's Path Through Suffering",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus privately tells the Twelve that all the prophetic writings about the Son of Man will be fulfilled in Jerusalem — he will be handed over to the Gentiles, mocked, shamed, scourged, killed, and raised on the third day — but the disciples understand none of it, the meaning being hidden from them."
+        },
+        {
+            "reference": "18:35-43",
+            "section_title": "The Blind Man Who Cried Out for Mercy",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "A blind beggar near Jericho persistently cries out to Jesus as 'Son of David' for mercy despite the crowd's attempts to silence him; Jesus heals him and declares 'your faith has saved you'; the man immediately follows Jesus, glorifying God.",
+            "relevance": "The declaration 'your faith has saved you' (hē pistis sou sesōken se) directly connects a human disposition — persistent, mercy-seeking trust — to a salvation outcome, with sōzō carrying its 'full weight of deliverance, healing, and restoration' as the neutral reading notes. The blind man's faith is identified as 'the faith' the Son of Man is looking for in verse 8: it combines the widow's persistence, the tax collector's humility, and the infant's helplessness. His choice to cry out despite rebuke, to persist rather than be silenced, is presented as the decisive factor in his healing and restoration. The passage does not frame the blind man's faith as divinely implanted but as his own response — he recognizes Jesus as Son of David, he cries for mercy, he refuses to be silenced. The passage stops short of STRONG_LIBERTARIAN because 'your faith has saved you' functions as a recurring Lukan formula within healing narratives rather than as a direct theological argument about how salvation outcomes are determined.",
+            "key_phrases": ["Jesus, Son of David, have mercy on me", "he kept crying out all the more", "your faith has saved you", "immediately he regained his sight and began following Him, glorifying God"],
+            "confidence": "high"
+        }
+    ]
+}

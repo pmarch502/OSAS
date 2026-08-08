@@ -1,0 +1,85 @@
+{
+    "book": "Matthew",
+    "chapter": 23,
+    "sections": [
+        {
+            "reference": "23:1-4",
+            "section_title": "The Scribes and Pharisees on Moses's Seat",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus addresses the crowds and disciples, acknowledging the scribes' and Pharisees' institutional authority as Torah interpreters ('Moses's seat') while exposing the gap between their teaching and their practice: they impose heavy burdens on others but refuse to help bear them."
+        },
+        {
+            "reference": "23:5-12",
+            "section_title": "Public Piety as Performance and the Community of Equals",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus diagnoses the scribes' love of display (broad phylacteries, long fringes, best seats, titles) and instructs his community to adopt a radically flat structure: one teacher (Christ), one Father (God), all members siblings, with greatness defined by service rather than rank."
+        },
+        {
+            "reference": "23:13",
+            "section_title": "First Woe: Shutting the Kingdom of Heaven",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus pronounces woe on the scribes and Pharisees for shutting the kingdom of heaven in people's faces: they neither enter themselves nor allow those who are entering to go in.",
+            "relevance": "The present participle 'those who are entering' (tous eiserchomenous) presupposes that people are genuinely in the process of moving toward the kingdom through their own agency. The fact that human intermediaries (the scribes) can obstruct this entry implies the process involves real human participation, not unilateral divine decree. If God alone determined who enters the kingdom, human gatekeepers could not block the outcome. The passage assumes an open door that people can walk through and that other people can slam shut.",
+            "key_phrases": [
+                "you shut the kingdom of heaven in people's faces (kleiete ten basileian ton ouranon emprosthen ton anthropon)",
+                "you neither enter yourselves nor allow those who would enter to go in"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "23:15",
+            "section_title": "Second Woe: Making Converts Worse",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus condemns the Pharisees' missionary zeal that produces proselytes who become 'twice a child of Gehenna' as the Pharisees themselves, indicting the corrupting influence of distorted religious teaching on converts."
+        },
+        {
+            "reference": "23:16-22",
+            "section_title": "Third Woe: Oath Casuistry",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus dismantles the scribes' elaborate distinctions between binding and non-binding oaths (swearing by the temple versus its gold, by the altar versus the gift on it), showing that every oath ultimately invokes God because all sacred objects derive their sanctity from his dwelling."
+        },
+        {
+            "reference": "23:23-24",
+            "section_title": "Fourth Woe: Tithing Minutiae While Neglecting Justice",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus condemns the scribes for tithing garden herbs with meticulous care while neglecting 'the weightier matters of the law' — justice, mercy, and faithfulness — illustrated by the absurd image of straining out a gnat while swallowing a camel."
+        },
+        {
+            "reference": "23:25-28",
+            "section_title": "Fifth and Sixth Woes: Clean Outside, Foul Inside",
+            "category": "NOT_APPLICABLE",
+            "summary": "Through the images of a cup clean on the outside but full of greed within, and whitewashed tombs that appear beautiful but contain dead bones, Jesus exposes the fundamental disconnect between the scribes' outward righteousness and their internal reality of hypocrisy and lawlessness."
+        },
+        {
+            "reference": "23:29-36",
+            "section_title": "Seventh Woe: Building the Prophets' Tombs and Filling the Measure",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus indicts the scribes for honoring dead prophets while perpetuating the pattern of their ancestors who killed those prophets, declares they will kill the messengers he sends, and pronounces that the accumulated guilt of all righteous blood from Abel to Zechariah will fall upon 'this generation.'",
+            "relevance": "The question 'how are you to escape being sentenced to Gehenna?' (v. 33) implies that their destiny is determined by their own actions — the deliberate, cumulative pattern of killing prophets and rejecting God's messengers. The judgment is presented as earned through human choices, not predetermined by divine decree. The concept of 'filling the measure' (v. 32) describes accumulated corporate guilt built up through repeated human decisions across generations, reaching its consummation in this generation's choice to reject and kill the final messenger. The leaders' fate follows from what they do, not from what God unilaterally decided about them.",
+            "key_phrases": [
+                "fill up, then, the measure of your fathers (plerosate to metron ton pateron hymon)",
+                "how are you to escape being sentenced to Gehenna (pos phygete apo tes kriseos tes geennes)",
+                "some of whom you will kill and crucify",
+                "all these things will come upon this generation"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "23:37-39",
+            "section_title": "The Lament over Jerusalem",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus laments over Jerusalem as the city that kills prophets and stones God's messengers, declaring that he desired to gather her children as a hen gathers her brood, but they refused; consequently their house is left desolate until they recognize him as the one who comes in the Lord's name.",
+            "relevance": "This is one of the clearest statements in the Gospels that human will can resist God's salvific desire. Jesus expresses his own repeated desire to gather Jerusalem's children protectively ('how often would I have gathered'), and the outcome is determined not by divine inability but by human refusal: 'and you were not willing' (kai ouk ethelesate). The verb thelo marks a deliberate act of will. The neutral reading explicitly states: 'The failure is not divine inability but human unwillingness.' Jesus claims the role scripture assigns to God (sheltering under wings — Psalm 17:8, 36:7, 57:1, 91:4), making the dynamic one of divine desire to save met by human refusal. The desolation that follows ('your house is left to you desolate') is presented as the direct consequence of this refusal, not as the outworking of a decree made before the foundation of the world. The passage directly addresses whether humans can resist God's gathering will — and answers affirmatively. This is part of the author's own climactic argument: it is Jesus's final public statement in the document, and it frames the entire subsequent passion and temple-destruction narrative as consequent upon Jerusalem's choice.",
+            "key_phrases": [
+                "how often would I have gathered your children together (hon tropon ornis episynagei ta nossia autes hypo tas pterygas)",
+                "and you were not willing (kai ouk ethelesate)",
+                "your house is left to you desolate (aphietai hymin ho oikos hymon eremos)",
+                "you will not see me again, until you say, 'Blessed is he who comes in the name of the Lord'"
+            ],
+            "confidence": "high"
+        }
+    ]
+}

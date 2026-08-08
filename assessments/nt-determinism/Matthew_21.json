@@ -1,0 +1,58 @@
+{
+    "book": "Matthew",
+    "chapter": 21,
+    "sections": [
+        {
+            "reference": "21:1-11",
+            "section_title": "The Entry into Jerusalem: Zechariah's King Enacted",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus enters Jerusalem deliberately enacting Zechariah 9:9, presenting himself publicly as Israel's humble king riding on a donkey rather than a warhorse, while the crowds acclaim him as Son of David with Hosanna and Psalm 118 language."
+        },
+        {
+            "reference": "21:12-17",
+            "section_title": "The Temple Cleansed: Prophetic Judgment on Israel's Worship",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus drives out the merchants from the Court of the Gentiles, invoking Isaiah 56:7 and Jeremiah 7:11 to indict the temple establishment, then heals the blind and lame in the temple while children continue the Hosanna acclamation and the chief priests respond with indignation."
+        },
+        {
+            "reference": "21:18-22",
+            "section_title": "The Fig Tree Cursed: Enacted Judgment on Fruitlessness",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus curses a fig tree that has leaves but no fruit as a prophetic sign-act representing Israel's leadership, which has the external apparatus of worship but produces no genuine fruit, and then teaches the disciples that faith without internal division gives access to the same divine power.",
+            "relevance": "The expectation that the fig tree should bear fruit presupposes genuine capacity and responsibility to produce it. The neutral reading ties this to the consistent Matthean principle that God requires fruit (3:8, 7:19, 13:23) and judges its absence -- framing fruitlessness as a failure of response rather than a predetermined condition. The judgment falls because the tree could and should have borne fruit but did not, implying genuine agency in producing or failing to produce what God requires.",
+            "key_phrases": ["nothing on it but only leaves", "May no fruit ever come from you again", "the fig tree withered at once", "if you have faith and do not doubt"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "21:23-27",
+            "section_title": "The Question of Authority: John and Jesus",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The chief priests and elders challenge Jesus's authority; Jesus poses a counter-question about John's baptism that exposes their refusal to engage honestly with the evidence, and their deliberation reveals political calculation rather than sincere inquiry.",
+            "relevance": "The neutral reading presents the leaders' failure to believe John as willful evasion rather than predetermined inability. They know the implications of both answers and refuse to accept either. The reading explicitly states their question was 'not sincere inquiry but political calculation' and that they are 'managing risk' rather than 'seeking truth.' The principle that understanding is given to those who respond and withheld from those who refuse presupposes genuine capacity to respond -- their disqualification from receiving further revelation is a consequence of their own chosen refusal, not a prior divine determination.",
+            "key_phrases": ["their question was not sincere inquiry but political calculation", "they are not seeking truth; they are managing risk", "willful evasion", "understanding is given to those who respond to what they have already received"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "21:28-32",
+            "section_title": "The Parable of the Two Sons: Doing versus Saying",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus tells a parable in which one son initially refuses the father's command but changes his mind and obeys, while another son verbally agrees but does not act, then applies it directly: tax collectors and prostitutes who believed John enter the kingdom before the religious leaders who did not respond.",
+            "relevance": "The passage directly addresses human response as the criterion determining kingdom participation. The first son's change of mind (metameletheis) and subsequent action constitute genuine human agency reversing an initial refusal. Jesus's application in vv. 31-32 is an explicit theological statement: tax collectors and prostitutes 'go into the kingdom of God before you' because they believed John and changed course, while the leaders 'did not believe him' and 'did not afterward change your minds.' The indictment deepens with 'even when you saw it' -- seeing transformed lives and still not responding increases culpability, which presupposes that the leaders genuinely could have responded. The criterion throughout is human response: believing or refusing, acting or not acting.",
+            "key_phrases": ["afterward he changed his mind and went", "the tax collectors and the prostitutes go into the kingdom of God before you", "you did not believe him", "even when you saw it, you did not afterward change your minds and believe him", "Which of the two did the will of his father?"],
+            "confidence": "high"
+        },
+        {
+            "reference": "21:33-46",
+            "section_title": "The Parable of the Tenants: The Vineyard Transferred",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus tells a parable drawn from Isaiah 5 in which tenants entrusted with a vineyard repeatedly reject and kill the owner's servants and finally his son, leading to the vineyard's transfer to new tenants who will produce fruit, and then declares that the kingdom of God will be taken from the current leadership and given to a people producing its fruits.",
+            "relevance": "The passage presents fruit-bearing as the criterion for kingdom participation: the kingdom is transferred not by arbitrary decree but in response to the tenants' repeated, deliberate choices to reject the owner's messengers. The owner sends servants multiple times, showing patience and repeated opportunity for response, not unilateral predetermination. The new recipients are defined as 'a people producing its fruits' (ethnei poiounti tous karpous) -- human performance is the qualifying criterion. However, the passage primarily addresses the corporate transfer of kingdom stewardship from Israel's leadership to a new community, and the Psalm 118 citation ('this was the Lord's doing') affirms God's sovereign action in vindicating the rejected stone, introducing a sovereignty dimension alongside the human agency emphasis.",
+            "key_phrases": ["the kingdom of God will be taken away from you and given to a people producing its fruits", "They will respect my son", "This is the heir. Come, let us kill him", "this was the Lord's doing", "they perceived that he was speaking about them", "they were seeking to arrest him"],
+            "confidence": "medium"
+        }
+    ]
+}

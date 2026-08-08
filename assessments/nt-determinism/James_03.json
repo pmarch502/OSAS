@@ -1,0 +1,56 @@
+{
+    "book": "James",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-2",
+            "section_title": "The Warning to Teachers and the Test of Completeness",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James warns against many seeking the teaching role, since teachers will incur stricter eschatological judgment, and identifies mastery of speech as the definitive marker of the teleios (complete, mature) person.",
+            "relevance": "The concept of 'stricter judgment' (meizon krima) for teachers presupposes that human conduct in a chosen role genuinely determines eschatological outcomes. The judgment is future and certain (lēmpsometha, future indicative), and its severity is calibrated to the person's actions and their effects -- a framework in which human choices are consequential for divine evaluation, not predetermined.",
+            "key_phrases": ["we will incur a stricter judgment", "if anyone does not stumble in what he says, he is a perfect man", "able to bridle the whole body"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:3-6",
+            "section_title": "Three Metaphors for the Tongue's Disproportionate Power",
+            "category": "NOT_APPLICABLE",
+            "summary": "James uses three metaphors -- the bit in a horse's mouth, the rudder of a ship, and a spark that ignites a forest -- to illustrate the tongue's disproportionate power to direct the whole body and to destroy, culminating in the declaration that the tongue is set on fire by Gehenna."
+        },
+        {
+            "reference": "3:7-8",
+            "section_title": "The Untamable Tongue",
+            "category": "NOT_APPLICABLE",
+            "summary": "James declares that humanity can tame every species of creature (echoing the Genesis 1:26-28 dominion mandate) but no human being can tame the tongue, which is a restless evil full of deadly poison."
+        },
+        {
+            "reference": "3:9-12",
+            "section_title": "The Contradiction of Blessing and Cursing",
+            "category": "NOT_APPLICABLE",
+            "summary": "James exposes the contradiction of using the same tongue to bless God and curse people made in God's image, then uses three natural illustrations (spring, trees, salt water) to argue that a single source should produce a single kind of output, diagnosing the community's double-mindedness."
+        },
+        {
+            "reference": "3:13-14",
+            "section_title": "Two Kinds of Wisdom -- The Challenge and the Warning",
+            "category": "NOT_APPLICABLE",
+            "summary": "James challenges anyone who claims wisdom to demonstrate it through good conduct and deeds performed in gentleness, and warns those who harbor bitter jealousy and selfish ambition not to boast as if they possess wisdom, since that would be a lie against the truth."
+        },
+        {
+            "reference": "3:15-16",
+            "section_title": "The Character and Fruit of Earthly Wisdom",
+            "category": "NOT_APPLICABLE",
+            "summary": "James identifies the wisdom that produces jealousy and selfish ambition as earthly, natural, and demonic in a descending sequence, and declares that where jealousy and selfish ambition exist, disorder and every evil thing follow."
+        },
+        {
+            "reference": "3:17-18",
+            "section_title": "The Character and Fruit of Heavenly Wisdom",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James describes the wisdom from above as pure, peaceable, gentle, reasonable, full of mercy and good fruits, unwavering, and without hypocrisy, and concludes that the fruit of righteousness is sown in peace by those who make peace.",
+            "relevance": "The framework combines divine initiative with genuine human participation. Wisdom from above is a gift from God (connecting to 1:5 and 1:17), yet humans are the agents who must ask for it (1:5), demonstrate it through conduct (3:13), and actively sow righteousness through peacemaking (3:18). The model is not unilateral divine determination but divine provision that humans receive and enact. The peacemakers who sow the fruit of righteousness are presented as genuine agents whose activity produces the harvest -- not as instruments whose actions were predetermined.",
+            "key_phrases": ["the wisdom from above", "the seed whose fruit is righteousness is sown in peace by those who make peace"],
+            "confidence": "low"
+        }
+    ]
+}

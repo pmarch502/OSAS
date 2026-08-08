@@ -1,0 +1,62 @@
+{
+    "book": "1Corinthians",
+    "chapter": 9,
+    "sections": [
+        {
+            "reference": "9:1-2",
+            "section_title": "Paul's Assertion of Freedom and Apostolic Status",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul establishes his freedom, apostolic authority, and credentials through four rhetorical questions, presenting the Corinthians themselves as the authenticating seal of his apostleship."
+        },
+        {
+            "reference": "9:3-6",
+            "section_title": "The Catalogue of Rights",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul catalogues three specific apostolic rights — food and drink at community expense, a believing wife on mission, and freedom from manual labor — establishing them as the standard entitlements exercised by the other apostles, the brothers of the Lord, and Cephas."
+        },
+        {
+            "reference": "9:7-14",
+            "section_title": "Four Arguments for the Legitimacy of Apostolic Support",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul assembles four independent proofs that apostolic support is legitimate — common-sense analogies, the Torah command about the threshing ox, the principle of reciprocity and temple service, and the Lord's own command — deliberately overbuilding the case before revealing his refusal to exercise these rights."
+        },
+        {
+            "reference": "9:15-18",
+            "section_title": "The Voluntary Renunciation and Its Motive",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul declares he has used none of his apostolic rights, identifying his reward as presenting the gospel free of charge, while distinguishing between the compulsion to preach (which is divinely imposed) and the choice to preach without payment (which is his own voluntary act)."
+        },
+        {
+            "reference": "9:19-23",
+            "section_title": "Voluntary Self-Adaptation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes his voluntary self-enslavement and cultural adaptation — becoming Jew to Jews, lawless to lawless, weak to weak — all for the purpose of winning people to the gospel and saving some.",
+            "relevance": "Paul's entire strategy of removing barriers presupposes that human response to the gospel is genuine and consequential. His adaptations only make sense if people can actually respond once obstacles are removed. The phrasing 'that by all means I might save some' treats the outcome as contingent on both Paul's effort and the recipients' capacity to respond, not as predetermined regardless of human action.",
+            "key_phrases": [
+                "I have made myself a servant to all, that I might win more of them",
+                "that I might win those under the law",
+                "that I might win the weak",
+                "that by all means I might save some",
+                "that I may share with them in its blessings"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "9:24-27",
+            "section_title": "The Athletic Metaphor — Discipline and the Possibility of Disqualification",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul uses the Isthmian Games athletic metaphor to argue that self-discipline is essential to finishing the race, warning that he himself — despite his apostolic credentials and having seen the risen Lord — could be disqualified if he fails to exercise the required discipline.",
+            "relevance": "Paul directly addresses his own standing before God as contingent on his choices. The word adokimos (disqualified, tested and found wanting) is applied by Paul to himself as a genuine possibility, not a rhetorical hypothetical. The neutral reading explicitly states that 'the word does not describe a theoretical impossibility that Paul raises merely for rhetorical effect.' Paul's argument is that participation in divine provision — apostolic commission, encounter with the risen Lord, successful preaching — does not guarantee final approval. The outcome depends on whether the individual exercises the discipline required. This is Paul's own climactic argument, not an aside or illustration, and it directly connects to the Israel warning in chapter 10 where an entire generation was destroyed despite participating in all of God's saving acts.",
+            "key_phrases": [
+                "Run in such a way that you may win it",
+                "Every athlete exercises self-control in all things",
+                "I discipline my body and keep it under control",
+                "lest after preaching to others I myself should be disqualified",
+                "the herald who announces the race can fail to finish it"
+            ],
+            "confidence": "high"
+        }
+    ]
+}

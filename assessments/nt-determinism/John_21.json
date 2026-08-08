@@ -1,0 +1,67 @@
+{
+    "book": "John",
+    "chapter": 21,
+    "sections": [
+        {
+            "reference": "21:1-3",
+            "section_title": "The Return to the Sea",
+            "category": "NOT_APPLICABLE",
+            "summary": "Seven disciples gather at the Sea of Tiberias, Peter announces he is going fishing, and the others join him, but they catch nothing all night — a scene the neutral reading connects to the geographic and thematic arc of the document, returning the narrative to Galilee where the first disciples were called."
+        },
+        {
+            "reference": "21:4-8",
+            "section_title": "The Morning Manifestation and the Catch",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus stands on the shore at dawn unrecognized, commands the disciples to cast on the right side, produces an overwhelming catch, and is recognized by the beloved disciple — a sequence the neutral reading interprets as enacting the principle of 15:5 ('apart from me you can do nothing') and notes verbal echoes of helkyo (draw) connecting to 6:44 and 12:32."
+        },
+        {
+            "reference": "21:9-14",
+            "section_title": "The Charcoal Fire and the Meal",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus has prepared a charcoal fire with bread and fish, asks the disciples to bring from their catch, Peter hauls the unbroken net of 153 large fish to shore, and Jesus hosts the meal — the third post-resurrection manifestation, with the charcoal fire deliberately linking to the scene of Peter's denial (18:18)."
+        },
+        {
+            "reference": "21:15-17",
+            "section_title": "The Threefold Question and the Shepherd's Commission",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus asks Peter three times whether Peter loves him, Peter affirms his love each time with increasing emotional intensity, and each affirmation is answered by a commission to feed or shepherd Jesus's flock — a structured reversal of Peter's threefold denial that restores his status as a disciple and transforms him into a commissioned under-shepherd.",
+            "relevance": "The restoration pattern treats Peter's genuine human response as essential to the outcome. Jesus does not unilaterally declare Peter restored; he asks Peter to affirm his love, and the commission follows from Peter's response. The threefold structure — question, affirmation, commission — shows that Peter's standing before Jesus depends on Peter's genuine relational posture, not on a decree issued apart from Peter's participation. Peter's shift from self-confident boasting ('I will lay down my life for you,' 13:37) to humble appeal ('Lord, you know all things; you know that I love you') models a human agent whose response to Jesus is real and consequential. The fact that Jesus asks at all implies that Peter's answer matters — if the outcome were predetermined, the threefold probing of Peter's heart would be purposeless theater. The possessive 'my lambs,' 'my sheep' maintains Jesus's ownership of the flock, but the commission itself is mediated through genuine relational exchange.",
+            "key_phrases": [
+                "Simon, son of John, do you love me",
+                "Yes, Lord; you know that I love you",
+                "Feed my lambs",
+                "Shepherd my sheep",
+                "Lord, you know all things; you know that I love you"
+            ],
+            "confidence": "low"
+        },
+        {
+            "reference": "21:18-19",
+            "section_title": "The Prediction of Peter's Death",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus predicts that Peter, who once directed his own path, will in old age stretch out his hands and be led where he does not wish to go — a prophecy the author identifies as signifying Peter's death by crucifixion, through which he will glorify God — followed by the command 'Follow me.'",
+            "relevance": "The imperative 'Follow me' (akolouthei moi) treats discipleship as a genuine human act that Peter must perform. The command echoes the original call to follow (1:42-43) and fulfills the promise of 13:36 ('you will follow later'), framing Peter's entire trajectory as a path he walks by responsive choice. The neutral reading notes that 'following' in this document 'has always been a response to the shepherd's voice (10:27), a walking in the light (8:12), an abiding in the vine (15:4-10)' — consistently presented as genuine human response to divine initiative, not as the mechanical execution of a predetermined script. The prediction of Peter's death does demonstrate Jesus's sovereign foreknowledge, but foreknowledge of how Peter will die does not negate the imperative form: Jesus still commands Peter to follow, treating the following as something Peter does, not something done to him. The boast that failed (13:37) will be fulfilled not through Peter's own strength but through a path he chooses to walk under the shepherd's call.",
+            "key_phrases": [
+                "when you grow old, you will stretch out your hands",
+                "someone else will gird you, and bring you where you do not wish to go",
+                "signifying by what kind of death he would glorify God",
+                "Follow me"
+            ],
+            "confidence": "low"
+        },
+        {
+            "reference": "21:20-23",
+            "section_title": "The Beloved Disciple and the Rumor",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter asks about the beloved disciple's fate, Jesus responds with a conditional ('If I want him to remain until I come, what is that to you?') and the emphatic redirect 'You follow me,' and the author corrects the community's misunderstanding that Jesus promised the beloved disciple would not die."
+        },
+        {
+            "reference": "21:24-25",
+            "section_title": "The Witness and the Close",
+            "category": "NOT_APPLICABLE",
+            "summary": "The beloved disciple is identified as the source of the document's testimony, the community vouches for the truthfulness of his witness, and the closing verse uses deliberate hyperbole to assert both the selectivity of the written record and the inexhaustibility of what Jesus did."
+        }
+    ]
+}

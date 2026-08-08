@@ -1,0 +1,67 @@
+{
+    "book": "1Thessalonians",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-2",
+            "section_title": "The Quality of the Apostolic Entrance",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul appeals to the Thessalonians' firsthand knowledge that the missionaries arrived from suffering in Philippi and spoke the gospel with God-given boldness amid intense opposition, establishing the visit's authenticity."
+        },
+        {
+            "reference": "2:3-6",
+            "section_title": "What the Appeal Was Not",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul systematically denies that the missionaries' exhortation arose from error, impurity, deceit, flattery, greed, or glory-seeking, asserting instead that God tested and approved them to be entrusted with the gospel as stewards who answer to the divine examiner rather than human audiences."
+        },
+        {
+            "reference": "2:7-9",
+            "section_title": "The Positive Description -- Mother and Laborer",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul describes the missionaries' conduct through the image of a nursing mother who shares not only the gospel but her own life, and through the concrete reality of manual labor undertaken night and day to avoid burdening the community."
+        },
+        {
+            "reference": "2:10-12",
+            "section_title": "The Father Image and the Witness Appeal",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes the missionaries' individual pastoral care through the image of a father exhorting, encouraging, and imploring each person to walk worthily of the God who is calling them into his kingdom and glory.",
+            "relevance": "The passage pairs God's ongoing calling with intensive human exhortation to respond. God is identified as the one who calls (present tense, ongoing summons), but the missionaries exhort, encourage, and implore each individual to walk in a manner worthy of that call. The very act of imploring presupposes that the hearers can either walk worthily or fail to do so -- the exhortation is pointless if the outcome is already determined. The combination of divine initiative (God calls) with genuine human responsibility (walk worthily) presents human agency as a real factor in the outcome.",
+            "key_phrases": [
+                "exhorting and encouraging and imploring each one of you",
+                "walk in a manner worthy of the God who calls you into His own kingdom and glory",
+                "the God who calls you"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:13-16",
+            "section_title": "The Word at Work and the Pattern of Persecution",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul gives thanks that the Thessalonians received the missionaries' message as what it truly is -- God's word, which actively works in those who believe -- and then identifies their persecution by their own countrymen as following the same pattern as the Judean communities' suffering, culminating in the charge that those who hinder the Gentile mission fill up the measure of their sins.",
+            "relevance": "Three elements bear on the question. First, the Thessalonians' reception of the word is presented as a genuine human act of recognition: they could have received it as a merely human word but instead accepted it as God's word. The two distinct verbs (paralambano for formal reception, dechomai for inner embrace) treat their acceptance as a real decision. Second, the word's active working is conditioned on belief -- it 'performs its work in you who believe,' with the present participle marking ongoing believing as the operative condition, not a state imposed from without. Third, those who hinder the missionaries from speaking to the Gentiles 'so that they may be saved' presuppose that hearing the gospel creates the genuine possibility of salvation through response -- if salvation were unilaterally predetermined, blocking the mission could not prevent it.",
+            "key_phrases": [
+                "you accepted it not as the word of men, but for what it really is, the word of God",
+                "which also performs its work in you who believe",
+                "hindering us from speaking to the Gentiles so that they may be saved",
+                "they always fill up the measure of their sins"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:17-20",
+            "section_title": "Separation, Longing, and the Parousia",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes the forced separation as orphaning, recounts his repeated failed attempts to return (hindered by Satan), and declares that the Thessalonians are the missionaries' hope, joy, and crown of exultation at the parousia of the Lord Jesus.",
+            "relevance": "The passage treats the community's standing at the parousia as contingent on their continued faithfulness rather than as a settled, predetermined outcome. Paul's crown of exultation exists only if the community endures -- the neutral reading explicitly notes that 'if the community fails, Paul's crown is lost.' This conditional framing implies that the Thessalonians' perseverance is a genuine variable, not a foregone conclusion. The missionaries' own eschatological standing is bound to the community's ongoing fidelity, which only makes sense if that fidelity is a real human responsibility rather than a divinely guaranteed outcome.",
+            "key_phrases": [
+                "who is our hope or joy or crown of exultation",
+                "Is it not even you, in the presence of our Lord Jesus at His coming",
+                "you are our glory and joy"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

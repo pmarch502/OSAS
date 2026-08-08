@@ -1,0 +1,62 @@
+{
+    "book": "Acts",
+    "chapter": 16,
+    "sections": [
+        {
+            "reference": "16:1-5",
+            "section_title": "Timothy Joins the Mission and the Decrees Are Delivered",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul circumcises Timothy for practical mission reasons (not soteriological ones) and delivers the Jerusalem Council's decrees to the churches, which are strengthened and grow in number."
+        },
+        {
+            "reference": "16:6-10",
+            "section_title": "The Spirit Redirects the Mission to Macedonia",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Holy Spirit forbids Paul from preaching in Asia and Bithynia, and a vision of a Macedonian man directs the missionaries westward, which they interpret as God's call to preach the gospel in Macedonia."
+        },
+        {
+            "reference": "16:11-15",
+            "section_title": "Philippi and the Conversion of Lydia",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Lydia, a God-fearing businesswoman from Thyatira, hears Paul at a riverside prayer gathering, and the author states that the Lord opened her heart to pay attention to what Paul said, after which she and her household are baptized.",
+            "relevance": "The phrase 'the Lord opened her heart to pay attention to what was said by Paul' attributes the enabling of Lydia's reception of the gospel to divine initiative. The neutral reading notes that throughout Luke-Acts the verb dianoigo describes God's action in removing barriers to understanding, and that Lydia's hearing 'is made possible by the Lord's prior action of opening her heart.' However, the reading also explicitly distinguishes between enabling and replacing: 'The divine action enables human response; it does not replace it.' The result of the Lord's action is attentiveness — a genuine human cognitive act — not involuntary belief. The passage presents divine initiative as the necessary precondition for saving faith, which leans deterministic, but the preservation of genuine human response as the outcome of that initiative prevents a strong deterministic reading.",
+            "key_phrases": ["the Lord opened her heart to pay attention to what was said by Paul", "a worshiper of God", "she was baptized, and her household"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "16:16-18",
+            "section_title": "The Slave Girl with the Spirit of Python",
+            "category": "NOT_APPLICABLE",
+            "summary": "A slave girl with a spirit of divination follows the missionaries proclaiming accurate but compromising testimony, and Paul, greatly annoyed, commands the spirit to leave her in the name of Jesus Christ."
+        },
+        {
+            "reference": "16:19-24",
+            "section_title": "Economic Loss, False Charges, and Imprisonment",
+            "category": "NOT_APPLICABLE",
+            "summary": "The slave girl's owners, having lost their income, drag Paul and Silas before the magistrates on fabricated charges of promoting unlawful customs, resulting in a public beating and imprisonment without trial."
+        },
+        {
+            "reference": "16:25-28",
+            "section_title": "Prayer, Earthquake, and the Opened Prison",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul and Silas pray and sing hymns at midnight; an earthquake opens all doors and loosens all chains, yet no prisoners escape, and Paul prevents the jailer from killing himself."
+        },
+        {
+            "reference": "16:29-34",
+            "section_title": "The Jailer's Question and Household Conversion",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The jailer asks 'What must I do to be saved?' and receives the answer 'Believe in the Lord Jesus, and you will be saved, you and your household,' after which the word is proclaimed to his household, all are baptized, and the household rejoices.",
+            "relevance": "This is identified by the neutral reading as 'the most direct soteriological question in Acts' and 'the most compressed soteriological statement in Acts.' The question 'What must I do to be saved?' presupposes that the human agent has something to do — it frames salvation as requiring human action. The answer 'Believe in the Lord Jesus and you will be saved' uses the aorist imperative pisteuson, which the neutral reading calls 'a call for a decisive act of trust,' placing the determining condition squarely on the human agent's response. The extension to the household does not override individual agency; the neutral reading states the promise 'does not guarantee automatic salvation for every individual regardless of their own response' but rather 'declares that the offer of salvation extends to the whole household.' The word is then 'spoken to all who were in his house' — the household must hear the proclamation, not merely be covered by the head's decision. This passage directly addresses human beings as genuine agents whose belief determines their salvation outcome, and it does so as the climactic soteriological moment of the chapter.",
+            "key_phrases": ["What must I do to be saved?", "Believe in the Lord Jesus, and you will be saved, you and your household", "they spoke the word of the Lord to him and to all who were in his house", "he rejoiced along with his entire household that he had believed in God"],
+            "confidence": "high"
+        },
+        {
+            "reference": "16:35-40",
+            "section_title": "Roman Citizenship and the Magistrates' Fear",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul reveals his Roman citizenship, demands a public acknowledgment of wrongdoing from the magistrates, receives their personal apology, and departs after encouraging the believers gathered at Lydia's house."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "book": "2Corinthians",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-5",
+            "section_title": "The Earthly Tent and the Building from God",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul argues that the mortal body is a temporary tent to be replaced by an eternal building from God, with the Spirit given as a guarantee (arrabon) that God will complete the transformation from mortality to life.",
+            "relevance": "God is identified as the one who 'prepared us for this very thing' (5:5) and who gave the Spirit as a binding down payment guaranteeing the eschatological transformation. The language of divine preparation and guarantee attributes the determination of the believer's final outcome to God's initiative and commitment. However, the passage addresses what God has prepared for those already in the community, not who determines entry into it, and the broader context (5:10) places this guarantee alongside genuine accountability at the judgment seat.",
+            "key_phrases": ["He who has prepared us for this very thing is God", "who has given us the Spirit as a guarantee"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:6-10",
+            "section_title": "Confidence, Faith, and the Judgment Seat",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes the apostle's settled confidence despite being away from the Lord's full presence, the life of faith that governs present conduct, and the universal accountability before the judgment seat of Christ where each person receives recompense for deeds done in the body.",
+            "relevance": "The judgment seat passage (5:10) states that 'we must all appear' and that 'each one may receive what is due for what he has done in the body, whether good or evil.' This implies that human conduct genuinely affects eschatological outcomes. The neutral reading emphasizes that Paul includes himself in this evaluation and that the Spirit as guarantee 'does not mean the outcome is automatic regardless of conduct.' The combination of guarantee (5:5) and genuine accountability (5:10) indicates that human agency in how one lives is a real factor in the outcome, not a formality overridden by divine predetermination.",
+            "key_phrases": ["we must all appear before the judgment seat of Christ", "each one may receive what is due for what he has done in the body, whether good or evil", "we make it our aim to please him", "we walk by faith, not by sight"],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:11-13",
+            "section_title": "The Fear of the Lord, Transparency, and the Apostle's Posture",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul explains that awareness of the coming judgment drives his persuasive ministry, defends his transparency before God and the Corinthians' conscience, and addresses the charge that he is out of his mind by redirecting both his ecstasy and his sobriety toward God and the community."
+        },
+        {
+            "reference": "5:14-15",
+            "section_title": "The Love of Christ and the Death That Reorients All Living",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Paul argues that Christ's love constrains him because Christ died for all (universal scope), and therefore all died, so that 'those who live' might no longer live for themselves but for the One who died and was raised.",
+            "relevance": "The universal scope of Christ's death ('one has died for all') works against a limited-atonement framework in which God predetermines a restricted group for salvation. More significantly, the neutral reading identifies a distinction within the universal 'all': Christ died for all, but the purpose of that death is actualized only by 'those who live' -- those who respond by living for Christ rather than for themselves. The neutral reading states explicitly that this actualization 'is not automatic; it is described as the purpose for which Christ died, and its actualization depends on the living person's response.' This presents human response as the distinguishing factor between those who benefit from Christ's death and those who do not.",
+            "key_phrases": ["one has died for all, therefore all have died", "that those who live might no longer live for themselves but for him who for their sake died and was raised", "those who live"],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:16-17",
+            "section_title": "Knowing According to the Flesh and the New Creation",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul declares that the death and resurrection of Christ has produced a new mode of perception that no longer evaluates anyone according to fleshly standards, and that anyone in Christ is a new creation in whom the eschatological promises of Isaiah have begun to be realized."
+        },
+        {
+            "reference": "5:18-21",
+            "section_title": "The Ministry of Reconciliation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Paul identifies God as the source of reconciliation accomplished through Christ, describes the apostolic role as God's ambassadors entrusted with the message of reconciliation, appeals to the Corinthians to be reconciled to God, and grounds the entire exchange in God making the sinless Christ to be sin/sin-offering so that those in him might become the righteousness of God.",
+            "relevance": "The passage presents powerful divine initiative ('all this is from God,' God reconciled, God made Christ to be sin, God does not count trespasses) with universal scope ('God was reconciling the world to himself'). However, three features resist a deterministic reading. First, the scope is the world, not a predetermined subset. Second, the imperative 'be reconciled to God' (5:20) is directed at the Corinthians, presupposing that human response is both possible and necessary -- the neutral reading notes that reconciliation 'is not a one-time event completed at conversion but an ongoing posture that can be disrupted and must be maintained.' Third, the purpose clause in 5:21 ('so that in him we might become the righteousness of God') is stated as purpose, not as guaranteed outcome, and the neutral reading notes it 'is activated by the turning to the Lord (3:16), by the faith by which one walks (5:7), and by living for him who died and was raised rather than for oneself (5:15).' God initiates and accomplishes reconciliation, but human response is required to receive it.",
+            "key_phrases": ["All this is from God, who through Christ reconciled us to himself", "God was reconciling the world to himself", "not counting their trespasses against them", "be reconciled to God", "so that in him we might become the righteousness of God"],
+            "confidence": "medium"
+        }
+    ]
+}

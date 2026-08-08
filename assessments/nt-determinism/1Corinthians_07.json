@@ -1,0 +1,82 @@
+{
+    "book": "1Corinthians",
+    "chapter": 7,
+    "sections": [
+        {
+            "reference": "7:1",
+            "section_title": "The Corinthian Slogan and Paul's Response",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul introduces and begins to qualify a Corinthian ascetic slogan ('it is good for a man not to touch a woman'), signaling a shift to responding to the community's written questions about marriage and celibacy."
+        },
+        {
+            "reference": "7:2-5",
+            "section_title": "Marriage, Mutual Obligation, and the Body",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul establishes that marriage guards against sexual immorality, that conjugal obligations are mutual and reciprocal, and that neither spouse has unilateral authority over their own body, with temporary abstinence permitted only by mutual consent for prayer."
+        },
+        {
+            "reference": "7:6-7",
+            "section_title": "Concession and Gift",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies both celibacy and marriage as charismata (grace-gifts) from God, flattening the hierarchy the Corinthian slogan assumed and framing the question as which gift each person has received rather than which state is morally superior."
+        },
+        {
+            "reference": "7:8-9",
+            "section_title": "To the Unmarried and Widows",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul counsels the unmarried and widows that remaining single is good for those who can sustain it, but those who lack the capacity for self-control should marry, since marriage is better than burning with unfulfilled desire."
+        },
+        {
+            "reference": "7:10-11",
+            "section_title": "The Lord's Command on Divorce",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul cites a direct command from Jesus prohibiting divorce between believers, while acknowledging that if separation occurs, the options are to remain unmarried or be reconciled to the spouse."
+        },
+        {
+            "reference": "7:12-16",
+            "section_title": "Mixed Marriages -- Believers Married to Unbelievers",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul addresses marriages between believers and unbelievers, arguing that the believing spouse's holiness sanctifies the unbelieving partner and the children, that the believer should not initiate divorce if the unbeliever consents to stay, but that if the unbeliever departs, the believer is not enslaved.",
+            "relevance": "Verse 16 asks 'how do you know, wife, whether you will save your husband?' treating the salvation of the unbelieving spouse as a genuinely uncertain outcome that may or may not result from the believer's continued presence. This implies that salvation outcomes are not predetermined but remain genuinely open, and that human circumstances and choices (remaining in the marriage or not) can potentially affect whether another person comes to salvation. If the outcome were unilaterally determined by God, the uncertainty Paul describes would be irrelevant to the believer's decision about whether to stay.",
+            "key_phrases": ["how do you know, wife, whether you will save your husband", "how do you know, husband, whether you will save your wife", "God has called you to peace", "the unbelieving husband is made holy because of his wife", "the brother or sister is not enslaved"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:17-24",
+            "section_title": "The Principle of Remaining -- Called, Circumcised, Enslaved",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul establishes the chapter's governing principle -- each person should remain in the social condition (married/single, circumcised/uncircumcised, slave/free) in which God's call reached them -- arguing that the call transforms the person's relationship to their circumstances without necessarily changing those circumstances."
+        },
+        {
+            "reference": "7:25-28",
+            "section_title": "Concerning the Unmarried and the Present Distress",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul counsels that in light of the 'present distress,' it is good for the unmarried to remain as they are, while explicitly affirming that marriage is not sin and that his preference for celibacy is pragmatic rather than moral."
+        },
+        {
+            "reference": "7:29-31",
+            "section_title": "The Shortened Time and the Passing Form of the World",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul declares that the appointed time has been shortened and the present form of the world is passing away, grounding his practical counsel in eschatological urgency and calling believers to hold all earthly arrangements with a posture of engaged detachment."
+        },
+        {
+            "reference": "7:32-35",
+            "section_title": "Undivided Devotion",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul explains that unmarried persons can direct their full attention toward pleasing the Lord, while married persons necessarily divide their attention between the Lord and their spouse, and that his counsel aims at undistracted devotion rather than imposing restraints."
+        },
+        {
+            "reference": "7:36-38",
+            "section_title": "The Case of the Betrothed",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul addresses betrothed couples, affirming that marrying is not sin and that both marrying and refraining are good, with refraining comparatively better given the present circumstances, while the decision rests on the man's capacity and the situation's demands."
+        },
+        {
+            "reference": "7:39-40",
+            "section_title": "Widows",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul states that a wife is bound to her husband as long as he lives but is free to remarry after his death (only within the believing community), while expressing his own judgment that remaining unmarried is the more blessed condition."
+        }
+    ]
+}

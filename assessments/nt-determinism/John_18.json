@@ -1,0 +1,94 @@
+{
+    "book": "John",
+    "chapter": 18,
+    "sections": [
+        {
+            "reference": "18:1-3",
+            "section_title": "Crossing the Kidron and the Arrival of the Arresting Party",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading found this passage is about Jesus crossing the Kidron valley into a garden where Judas leads a combined Roman and Jewish arresting force equipped with lanterns, torches, and weapons, with the author drawing scriptural parallels to David's flight from Absalom and the garden of Genesis."
+        },
+        {
+            "reference": "18:4-9",
+            "section_title": "\"I Am\" and the Protection of the Disciples",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading found this passage is about Jesus's sovereign self-identification with the divine ego eimi, which causes the armed cohort to collapse, followed by his command that the arresting party release his disciples, fulfilling his own words that 'of those whom you have given me I lost not one.'",
+            "relevance": "The phrase 'Of those whom you have given me I lost not one' enacts the Father's sovereign giving of people to Jesus and Jesus's absolute keeping of them. The neutral reading explicitly connects the verb apolesa ('I lost') to the salvation vocabulary of 3:16 ('should not perish'), 6:39 ('that I lose nothing'), and 10:28 ('they will never perish'), framing the Father's giving and Jesus's keeping as the mechanism by which believers are preserved from perishing. The keeping is presented as Jesus's sovereign act -- he commands the arresting party and ensures no disciple is taken -- rather than as something contingent on the disciples' own choices or faithfulness. The disciples' preservation flows from the Father's prior giving and Jesus's authoritative keeping, not from the disciples' agency.",
+            "key_phrases": [
+                "Of those whom you have given me I lost not one",
+                "knowing all the things that were coming upon him, went forth",
+                "I am he",
+                "they drew back and fell to the ground",
+                "if you seek me, let these go their way"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "18:10-11",
+            "section_title": "Peter's Sword and the Cup of the Father",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading found this passage is about Peter's misguided attempt to defend Jesus with a sword and Jesus's rebuke, declaring that the cup of suffering is the Father's assignment that must be received, not resisted."
+        },
+        {
+            "reference": "18:12-14",
+            "section_title": "Jesus Brought Before Annas",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading found this passage is about Jesus's arrest, binding, and transfer to Annas, with the author inserting a reminder that Caiaphas had unknowingly prophesied that one man should die for the people, framing the proceedings as the execution of a verdict already rendered rather than a genuine search for truth."
+        },
+        {
+            "reference": "18:15-18",
+            "section_title": "Peter's First Denial",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading found this passage is about Peter gaining access to the high priest's courtyard through another disciple's social connection, where a slave-girl's question prompts Peter's first denial ('I am not'), which the author structures as a devastating contrast to Jesus's 'I am' in the garden."
+        },
+        {
+            "reference": "18:19-24",
+            "section_title": "The Hearing Before Annas",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading found this passage is about Jesus's hearing before Annas, where Jesus appeals to proper legal procedure by demanding that witnesses testify rather than incriminating himself, is struck by an officer for his response, and is then transferred bound to Caiaphas."
+        },
+        {
+            "reference": "18:25-27",
+            "section_title": "Peter's Second and Third Denials",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading found this passage is about Peter's second and third denials under escalating pressure -- from a group's suspicion to an eyewitness identification by a relative of Malchus -- culminating in the rooster's crow that exactly fulfills Jesus's prediction from 13:38, with the author structuring Peter's triple 'I am not' as a mirror inversion of Jesus's triple 'I am.'"
+        },
+        {
+            "reference": "18:28-32",
+            "section_title": "Jesus Brought Before Pilate",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading found this passage is about the transfer of Jesus from Caiaphas to Pilate's jurisdiction, the irony of the authorities maintaining ritual purity while delivering an innocent man to death, and the political necessity of Roman jurisdiction fulfilling Jesus's prediction that he would be 'lifted up' (crucified) rather than stoned."
+        },
+        {
+            "reference": "18:33-38a",
+            "section_title": "Pilate's Interrogation -- Kingdom and Truth",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading found this passage is about Jesus redefining kingship before Pilate as testimony to truth rather than political power, declaring that his kingdom is not of this world and that 'everyone who is of the truth hears my voice,' while Pilate's question 'What is truth?' demonstrates his inability to hear the voice of the truth standing before him.",
+            "relevance": "The declaration 'Everyone who is of the truth hears my voice' implies a prior ontological category -- being 'of the truth' -- that determines one's capacity to hear and respond to Jesus. The neutral reading explicitly parallels this construction with 'of God' in 8:47 ('He who is of God hears the words of God') and 'of my sheep' in 10:26 ('you do not believe because you are not of my sheep'), both of which present a prior state as the ground of response rather than a chosen orientation. The neutral reading concludes that Pilate's failure to hear is explained by his not being 'of the truth': 'He is not of the truth, and so the voice does not register.' This framing suggests that the ability to respond to Jesus is determined by a prior condition rather than by an open exercise of will, though the passage does not specify whether that prior condition is divinely imposed or reflects the person's own moral orientation.",
+            "key_phrases": [
+                "Everyone who is of the truth hears my voice",
+                "My kingdom is not of this world",
+                "What is truth?",
+                "You say correctly that I am a king",
+                "for this I have been born, and for this I have come into the world, to testify to the truth"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "18:38b-40",
+            "section_title": "Pilate's Verdict and the Choice of Barabbas",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading found this passage is about Pilate's threefold declaration of Jesus's innocence, his offer to release Jesus under the Passover custom, and the crowd's choice of Barabbas -- a lestes (robber/bandit), the very word Jesus used in the shepherd discourse for illegitimate intruders who steal, kill, and destroy.",
+            "relevance": "The crowd is given a genuine choice between the shepherd and the robber, and they choose the robber. The neutral reading frames this choice as enacting the shepherd discourse's categorical prediction: 'The shepherd discourse predicted that the world would not recognize the shepherd's voice (10:5-6, 8, 26); the Barabbas choice demonstrates this prediction fulfilled.' The world's preference for the lestes over the shepherd is presented not as an unpredictable exercise of free will but as the expected behavior of those who are not 'of the truth' and therefore cannot hear the shepherd's voice. However, the passage does present a genuine choice being offered, and the deterministic reading depends on the shepherd discourse framework rather than on explicit claims within the passage itself.",
+            "key_phrases": [
+                "Not this man, but Barabbas",
+                "Now Barabbas was a robber",
+                "I find no guilt in him"
+            ],
+            "confidence": "low"
+        }
+    ]
+}

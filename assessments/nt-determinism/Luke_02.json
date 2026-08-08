@@ -1,0 +1,80 @@
+{
+    "book": "Luke",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-5",
+            "section_title": "The Census and the Journey to Bethlehem",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author places Jesus's birth within the political machinery of the Roman Empire, using Caesar Augustus's census as the mechanism by which the Davidic heir is born in David's city, creating an implicit contrast between the titles Rome gave Augustus and the titles the narrative gives the child."
+        },
+        {
+            "reference": "2:6-7",
+            "section_title": "The Birth",
+            "category": "NOT_APPLICABLE",
+            "summary": "The birth is described with economy, focusing on three details — firstborn status, swaddling cloths, and the manger — that together express the reversal theme from Mary's song: the king is born in the most marginal of circumstances."
+        },
+        {
+            "reference": "2:8-14",
+            "section_title": "The Announcement to the Shepherds",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "An angel announces to shepherds that a Savior, Christ the Lord has been born in David's city, and a heavenly host declares glory to God in the highest and peace on earth among people of God's good pleasure.",
+            "relevance": "The angelic doxology identifies the recipients of God's peace as 'people with whom He is pleased' (anthropois eudokias). The neutral reading notes that eudokia in the LXX denotes God's sovereign, gracious will, and that the peace announced 'is not a universal warm sentiment but the concrete result of God's saving action directed toward those He favors.' This framing identifies God's sovereign pleasure as the basis for who receives the peace associated with the Messiah's arrival. However, this is a brief doxological statement, not a direct argument about salvation mechanics, and the broader Lukan context (the Magnificat's 'His mercy is to those who fear Him') has already conditioned God's favor on human posture, leaving genuine ambiguity about whether eudokia here means unilateral selection or responsive approval.",
+            "key_phrases": ["on earth peace among people with whom He is pleased", "the concrete result of God's saving action directed toward those He favors", "good news of great joy which will be for all the people"],
+            "confidence": "low"
+        },
+        {
+            "reference": "2:15-20",
+            "section_title": "The Shepherds' Response",
+            "category": "NOT_APPLICABLE",
+            "summary": "The shepherds respond immediately to the angelic message, confirm it by finding the child in the manger, make the news known to others, and return glorifying God, while Mary treasures and ponders all these things in her heart."
+        },
+        {
+            "reference": "2:21",
+            "section_title": "Circumcision and Naming",
+            "category": "NOT_APPLICABLE",
+            "summary": "On the eighth day, the child is circumcised and given the name Jesus as commanded by the angel before conception, placing him within the Abrahamic covenant community in obedience to Torah."
+        },
+        {
+            "reference": "2:22-24",
+            "section_title": "The Presentation at the Temple",
+            "category": "NOT_APPLICABLE",
+            "summary": "Joseph and Mary fulfill two Torah requirements — the purification of the mother and the consecration of the firstborn — offering the poor person's sacrifice of two turtledoves, continuing the reversal theme while emphasizing complete Torah obedience."
+        },
+        {
+            "reference": "2:25-35",
+            "section_title": "Simeon's Recognition and Declaration",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Simeon, a righteous and devout man guided by the Holy Spirit, recognizes the child as God's salvation prepared for all peoples — a light for revelation to the Gentiles and the glory of Israel — then prophesies that the child is appointed for the fall and rise of many in Israel and as a sign to be opposed, so that the thoughts of many hearts may be revealed.",
+            "relevance": "Simeon's prophecy that the child is 'appointed for the fall and rise of many in Israel' uses the language of divine purpose (keitai), but the neutral reading interprets the resulting division as depending on human responses: 'The child will divide Israel — not by intention but by the responses he provokes.' The Isaiah 8:14 background reinforces this: 'The same God who is a sanctuary for those who trust becomes a stumbling stone for those who do not' — trust and its absence are the differentiating factors. The purpose clause 'to the end that thoughts from many hearts may be revealed' presents the child as exposing pre-existing inner dispositions, not imposing predetermined outcomes. The neutral reading assigns this revelatory function to God himself (1 Samuel 16:7, Jeremiah 17:10), but what is revealed is human content — thoughts, reasonings, deliberations — that people genuinely hold. God appoints the test; human hearts determine the response.",
+            "key_phrases": ["this Child is appointed for the fall and rise of many in Israel", "a sign to be opposed", "thoughts from many hearts may be revealed", "the responses he provokes", "a sanctuary for those who trust becomes a stumbling stone for those who do not"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:36-38",
+            "section_title": "Anna's Recognition",
+            "category": "NOT_APPLICABLE",
+            "summary": "The prophetess Anna, from the tribe of Asher, recognizes the child and speaks about him to all those who were looking for the redemption of Jerusalem, functioning as a second witness alongside Simeon and representing the faithful remnant within Israel who are actively waiting for God to act."
+        },
+        {
+            "reference": "2:39-40",
+            "section_title": "Return to Nazareth and Growth",
+            "category": "NOT_APPLICABLE",
+            "summary": "After completing everything required by the Torah, the family returns to Nazareth, and the child grows and becomes strong, increasing in wisdom, with the grace of God upon him."
+        },
+        {
+            "reference": "2:41-50",
+            "section_title": "The Twelve-Year-Old in the Temple",
+            "category": "NOT_APPLICABLE",
+            "summary": "At age twelve, Jesus stays behind in the Jerusalem temple during Passover, is found among the teachers displaying extraordinary understanding, and speaks his first recorded words in Luke — asserting divine necessity (dei) and identifying God as 'my Father,' establishing his self-understanding as the Son who belongs in his Father's house."
+        },
+        {
+            "reference": "2:51-52",
+            "section_title": "Obedience and Growth",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus returns to Nazareth and continues in voluntary submission to his parents, while Mary again treasures these things in her heart, and the author summarizes Jesus's ongoing growth in wisdom, stature, and favor with God and people, paralleling the growth of the child Samuel."
+        }
+    ]
+}

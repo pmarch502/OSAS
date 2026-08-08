@@ -1,0 +1,100 @@
+{
+    "book": "Acts",
+    "chapter": 13,
+    "sections": [
+        {
+            "reference": "13:1-3",
+            "section_title": "The Spirit Commissions the First Deliberate Mission",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Holy Spirit initiates the commissioning of Barnabas and Saul for missionary work from the diverse leadership of the Antioch church, and the community ratifies the calling through prayer and the laying on of hands."
+        },
+        {
+            "reference": "13:4-5",
+            "section_title": "The Mission Begins in the Synagogues",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul and Barnabas, sent by the Spirit, travel to Cyprus and begin proclaiming the word of God in Jewish synagogues, establishing the pattern of going to Jews first."
+        },
+        {
+            "reference": "13:6-12",
+            "section_title": "A Jewish False Prophet, a Gentile Proconsul, and the Name 'Paul'",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Jewish false prophet Bar-Jesus actively opposes the word of God while the Gentile proconsul Sergius Paulus actively seeks it, resulting in the blinding of the opponent and the belief of the proconsul."
+        },
+        {
+            "reference": "13:13-15",
+            "section_title": "Pisidian Antioch -- An Invitation to Speak",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul and his companions travel to Pisidian Antioch, where synagogue rulers invite them to offer a word of exhortation after the Sabbath scripture readings."
+        },
+        {
+            "reference": "13:16-22",
+            "section_title": "Israel's History as God's Initiative",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul recounts Israel's history with God as the subject of every verb -- choosing the fathers, delivering from Egypt, enduring the wilderness, giving the land, providing judges and kings, and raising David -- establishing God's consistent initiative in Israel's corporate story."
+        },
+        {
+            "reference": "13:23-25",
+            "section_title": "From David's Offspring to Jesus",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul declares that God brought a Savior from David's line as promised, and positions John the Baptist as the publicly recognized forerunner who deferred to the one coming after him."
+        },
+        {
+            "reference": "13:26-29",
+            "section_title": "Jerusalem's Rejection as Prophetic Fulfillment",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul addresses both Jews and God-fearers as recipients of the salvation message, then narrates how Jerusalem's leaders failed to recognize Jesus and fulfilled the prophetic scriptures by condemning him despite finding no guilt worthy of death."
+        },
+        {
+            "reference": "13:30-37",
+            "section_title": "The Resurrection Proven from Scripture",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul argues that God raised Jesus from the dead, proving it from Psalm 2, Isaiah 55, and Psalm 16, demonstrating that David's body decayed but the one God raised did not see corruption."
+        },
+        {
+            "reference": "13:38-41",
+            "section_title": "Forgiveness Beyond the Law, and a Warning",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul declares that through Jesus, forgiveness of sins is proclaimed and everyone who believes is justified from everything the Law of Moses could not resolve, then warns from Habakkuk against being among those who refuse to believe.",
+            "relevance": "The formulation 'everyone who believes is freed' presents faith as a genuine human response that determines whether one receives justification. The universality of the offer ('everyone') combined with the conditionality ('who believes') frames salvation as accessible to all but contingent on human response. The Habakkuk warning ('you will not believe, even if one tells it to you') implies the audience has genuine capacity to believe or to refuse, and that refusal carries consequences they could have avoided.",
+            "key_phrases": ["everyone who believes is freed", "from which you could not be freed by the law of Moses", "you will not believe, even if one tells it to you"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:42-43",
+            "section_title": "The Initial Response",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The audience begs to hear the message again the next Sabbath, and many Jews and proselytes follow Paul and Barnabas, who urge them to continue in the grace of God.",
+            "relevance": "The exhortation to 'continue in the grace of God' implies that those who have entered the sphere of grace bear genuine responsibility to remain in it, and that not continuing is a real possibility. If salvation outcomes were unilaterally determined, the exhortation to persist would be empty. The verb prosmenein ('to remain in, to continue in') frames the ongoing human posture as necessary, not merely decorative.",
+            "key_phrases": ["urged them to continue in the grace of God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:44-47",
+            "section_title": "Jewish Jealousy and the Turn to the Gentiles",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "When Jewish leaders react with jealousy to the Gentile crowds, Paul declares that the word had to go to Jews first, but since they have thrust it aside and judged themselves unworthy of eternal life, the missionaries are turning to the Gentiles in fulfillment of Isaiah 49:6.",
+            "relevance": "Paul's declaration directly addresses human agency as determinative of salvation outcome. The statement 'you judge yourselves unworthy of eternal life' uses active, reflexive verbs to place the responsibility for exclusion from salvation squarely on the human agents. The neutral reading emphasizes that 'no one has judged them unworthy. God has not excluded them. They have excluded themselves. The judgment is self-imposed.' The verbs 'you thrust it aside' and 'you judge yourselves' are Paul's own argument, not an aside or illustration, and they directly state that human choices -- not divine decree -- determined these people's standing before God regarding eternal life.",
+            "key_phrases": ["you thrust it aside", "judge yourselves unworthy of eternal life", "we are turning to the Gentiles"],
+            "confidence": "high"
+        },
+        {
+            "reference": "13:48",
+            "section_title": "The Response of the Gentiles",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The Gentiles rejoice and glorify the word of the Lord, and the author states that as many as were appointed to eternal life believed.",
+            "relevance": "The phrase 'as many as were appointed to eternal life believed' uses the perfect passive participle tetagmenoi (from tasso, 'to arrange, assign, enroll'), indicating that the Gentiles were placed in an appointed state by another agent prior to their believing. The passive voice excludes self-appointment; the perfect tense indicates the state preceded the hearing of the message. This creates a deliberate asymmetry with verse 46: the Jews' rejection is described with active, reflexive verbs (they judge themselves), while the Gentiles' reception is described with a passive verb (they were appointed). The neutral reading finds genuine deterministic implications but also notes significant limits: the author does not specify the mechanism or timing of the appointment, does not say 'from before the foundation of the world' or 'by an eternal decree,' and the author's interest is in narrating what happened rather than constructing a theory about the relationship between divine appointment and human response.",
+            "key_phrases": ["as many as were appointed to eternal life believed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:49-52",
+            "section_title": "The Word Spreads, Persecution Comes, Joy Remains",
+            "category": "NOT_APPLICABLE",
+            "summary": "The word of the Lord spreads throughout the region, Jewish opponents use social and political connections to drive Paul and Barnabas out of the district, and the new community of disciples remains filled with joy and the Holy Spirit."
+        }
+    ]
+}

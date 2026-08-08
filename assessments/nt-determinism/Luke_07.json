@@ -1,0 +1,108 @@
+{
+    "book": "Luke",
+    "chapter": 7,
+    "sections": [
+        {
+            "reference": "7:1-5",
+            "section_title": "Setting Up the Centurion's Request",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jewish elders intercede with Jesus on behalf of a Gentile centurion whose valued slave is dying, arguing the centurion is worthy because of his love for Israel and his synagogue-building."
+        },
+        {
+            "reference": "7:6-10",
+            "section_title": "The Centurion's Faith",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The centurion denies his own worthiness and expresses trust in Jesus's authoritative word alone, prompting Jesus to marvel and declare he has not found such great faith even in Israel.",
+            "relevance": "The centurion exercises faith as a genuine human response — he perceives Jesus's authority and trusts it, despite being a Gentile outsider with no covenant claim. Jesus commends this faith over anything found in Israel, indicating that faith (a human posture of trust) rather than ethnic identity or predetermined status is what matters. The neutral reading emphasizes that 'faith, not ethnic identity or meritorious works, is what Jesus commends,' presenting faith as the centurion's own act of recognition.",
+            "key_phrases": ["I am not worthy for You to come under my roof", "just say the word, and my servant will be healed", "not even in Israel have I found such great faith"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:11-12",
+            "section_title": "The Widow at Nain",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus encounters a funeral procession at the gate of Nain where a widow's only son is being carried out for burial, a scene of maximum social vulnerability and pathos."
+        },
+        {
+            "reference": "7:13-17",
+            "section_title": "Raising the Dead and the People's Response",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus, moved by unsolicited compassion, raises the widow's son from the dead in a deliberate reenactment of Elijah's raising of the widow of Zarephath's son, prompting the crowd to declare that a great prophet has arisen and that God has visited His people."
+        },
+        {
+            "reference": "7:18-20",
+            "section_title": "John's Question from Prison",
+            "category": "NOT_APPLICABLE",
+            "summary": "John the Baptist, imprisoned and hearing reports of Jesus's ministry of mercy rather than the expected ministry of judgment, sends disciples to ask whether Jesus is truly the Coming One or whether they should expect someone else."
+        },
+        {
+            "reference": "7:21-23",
+            "section_title": "Jesus's Answer",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus answers John's question not with a direct yes or no but by pointing to his fulfillment of Isaiah's restoration prophecies, then pronounces a blessing on anyone who does not take offense at him.",
+            "relevance": "The concluding beatitude — 'Blessed is the one who does not take offense at Me' — presupposes that taking offense or not is a genuine human response. The blessing would be meaningless if the response were predetermined; it implies that people face a real choice between accepting a messiah who heals rather than judges, or stumbling over the gap between expectation and reality. The neutral reading notes this applies to 'anyone whose expectations about how God should act are being confounded by what God is actually doing,' treating the response as a genuine human decision.",
+            "key_phrases": ["Blessed is the one who does not take offense at Me"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:24-28",
+            "section_title": "Jesus's Testimony about John",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus testifies that John is more than a prophet — he is the messenger of Malachi 3:1 who prepares the way — and declares that while no one born of women is greater than John, even the least in the kingdom of God is greater than he."
+        },
+        {
+            "reference": "7:29-30",
+            "section_title": "Two Responses to God's Purpose",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "In an editorial comment, the author states that the common people and tax collectors acknowledged God's justice by accepting John's baptism, while the Pharisees and lawyers rejected God's purpose for themselves by refusing it.",
+            "relevance": "This is among the most direct statements in Luke bearing on the determinism question. The author explicitly states that God had a purpose (boulē) directed toward the Pharisees — it was 'for themselves' — and they rejected it. The verb atheteō ('to set aside, to nullify') indicates a deliberate human act of refusal. The neutral reading emphasizes: 'God's purpose was directed toward them, available to them, and they set it aside. Their rejection did not thwart God's overall plan, but it excluded them from participating in it.' This presents God's saving purpose as genuinely available but resistible — humans can exclude themselves from what God intends for them. This is the author's own editorial comment, not a parable or illustration, making it a direct statement of the author's theology.",
+            "key_phrases": ["acknowledged God's justice, having been baptized with the baptism of John", "rejected God's purpose for themselves, not having been baptized by John"],
+            "confidence": "high"
+        },
+        {
+            "reference": "7:31-35",
+            "section_title": "The Parable of Children in the Marketplace",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus compares his generation to children who refuse to play along regardless of the music — rejecting both John's asceticism and Jesus's sociability — and declares that wisdom is vindicated by all her children.",
+            "relevance": "The parable presents human rejection as culpable choice rather than predetermined outcome. 'This generation' is held responsible for rejecting both forms of God's approach — the ascetic prophet and the compassionate healer. The neutral reading notes that 'whatever God does, they find reason to reject it,' implying that the rejection is a genuine human decision, not a divinely determined response. The 'children of wisdom' who responded rightly are those who chose to accept rather than reject, and their lives vindicate God's strategy.",
+            "key_phrases": ["We played the flute for you, and you did not dance; we sang a song of mourning, and you did not weep", "wisdom is vindicated by all her children"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:36-39",
+            "section_title": "The Setting at the Pharisee's House",
+            "category": "NOT_APPLICABLE",
+            "summary": "A sinful woman enters the Pharisee Simon's house where Jesus is dining, performs extravagant acts of devotion at Jesus's feet, and the Pharisee internally concludes that a true prophet would know her sinful identity and refuse her touch."
+        },
+        {
+            "reference": "7:40-43",
+            "section_title": "The Parable of Two Debtors",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus tells a parable about a creditor who graciously forgives two debtors — one owing ten times more than the other — and asks Simon which debtor will love the creditor more, with Simon correctly answering that the one forgiven more will love more."
+        },
+        {
+            "reference": "7:44-47",
+            "section_title": "Application to the Woman and Simon",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus contrasts the woman's extravagant acts of love with Simon's failure to provide even basic hospitality, explaining that the woman's great love is evidence that her many sins have already been forgiven, while Simon's minimal response reflects his perception of having been forgiven little.",
+            "relevance": "While the passage establishes that forgiveness is divine initiative (grace precedes love), the human response to that forgiveness is presented as genuine agency. The woman came to Jesus 'despite every social reason to stay away' — her choice to respond is treated as real. Simon's failure is attributed to his own perception of his debt as small, not to divine withholding. The neutral reading explicitly states that 'whether his actual sin-debt is truly smaller than the woman's is not the point. The point is his perception of it.' The passage implies that human awareness, recognition, and response are genuine rather than predetermined.",
+            "key_phrases": ["she loved much", "the one who is forgiven little, loves little"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:48-50",
+            "section_title": "Forgiveness Declared and the Question of Authority",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus declares the woman's sins forgiven, provoking the other guests to question his authority to forgive sins, and then tells the woman that her faith has saved her and sends her away in peace.",
+            "relevance": "Jesus's declaration 'Your faith has saved you' directly identifies human faith as the operative mechanism connecting a person to salvation. The neutral reading is explicit: 'Faith is what connects a person to forgiveness. Love is the fruit of forgiveness, but faith is the means by which forgiveness is received.' The woman's faith is presented as her own genuine trust — 'she came to Jesus believing that he could and would receive her despite her known sinfulness. Her faith was the trust that brought her into the room despite every social reason to stay away.' This is Jesus's authoritative pronouncement, part of the author's own argument, and it directly identifies a human act (faith) as the determining factor in salvation. The text does not present her faith as divinely implanted but as her own posture of trust.",
+            "key_phrases": ["Your sins have been forgiven", "Your faith has saved you; go in peace"],
+            "confidence": "high"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "book": "Acts",
+    "chapter": 23,
+    "sections": [
+        {
+            "reference": "23:1-2",
+            "section_title": "Paul's Opening Claim and the High Priest's Response",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul claims a clear conscience before God in all his public conduct, and the high priest Ananias orders him struck on the mouth before any charges are heard."
+        },
+        {
+            "reference": "23:3",
+            "section_title": "Paul's Rebuke",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul denounces the high priest as a 'whitewashed wall' who violates the law he claims to administer, drawing on the prophetic tradition of Ezekiel 13 to expose the contradiction between the office and the officeholder's conduct."
+        },
+        {
+            "reference": "23:4-5",
+            "section_title": "Paul and the Office of High Priest",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul acknowledges that Torah protects the office of high priest from verbal abuse (Exodus 22:28), navigating the tension between prophetic denunciation of corrupt leaders and respect for divinely established authority."
+        },
+        {
+            "reference": "23:6-9",
+            "section_title": "Paul and the Resurrection Divide",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies himself as a Pharisee on trial for the hope of the resurrection, exploiting the theological division between Pharisees (who affirm resurrection, angels, and spirits) and Sadducees (who deny all three), splitting the council and prompting some Pharisaic scribes to defend him."
+        },
+        {
+            "reference": "23:10",
+            "section_title": "The Tribune Intervenes Again",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Sanhedrin hearing degenerates into such violence that the Roman tribune must extract Paul by military force for the second time, demonstrating the Jewish judicial system's inability to produce a coherent verdict."
+        },
+        {
+            "reference": "23:11",
+            "section_title": "The Lord's Appearance",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The Lord appears to Paul in the barracks at night and declares that as Paul has testified in Jerusalem, he must (dei) testify in Rome also.",
+            "relevance": "The neutral reading identifies dei ('it is necessary') as expressing divine necessity -- God's declared purpose that cannot be thwarted by human action. However, the reading explicitly notes that this divine necessity 'operates not by overriding human agency but by working through it, channeling even hostile intentions toward the goal God has declared.' The Lukan model of dei preserves genuine human participation: conspirators freely choose to plot, the nephew freely reports, the tribune freely acts, and God's purpose is accomplished through all of these uncoerced human decisions. This presents a framework in which divine sovereignty and human agency coexist without the former eliminating the latter -- a model that, applied to salvation, would support genuine human response rather than unilateral divine determination.",
+            "key_phrases": ["you must testify in Rome also", "dei", "divine necessity", "not by overriding human agency but by working through it"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "23:12-15",
+            "section_title": "The Conspiracy",
+            "category": "NOT_APPLICABLE",
+            "summary": "More than forty men bind themselves with a solemn oath (anathema/herem) to kill Paul and enlist the chief priests and elders to create a judicial pretext for an ambush during a prisoner transfer."
+        },
+        {
+            "reference": "23:16-22",
+            "section_title": "The Nephew's Discovery and Report",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul's nephew discovers the conspiracy, reports it to Paul, who sends him through the military chain of command to the tribune, who acts on the intelligence to protect Paul.",
+            "relevance": "The neutral reading explicitly states: 'Divine necessity and human agency are not opposed; the Lord's declaration does not make Paul passive. It makes him purposeful.' After the Lord declares Paul must reach Rome (v. 11), Paul does not wait passively for miraculous rescue but works through available institutional means -- centurion, chain of command, tribune's authority. God accomplishes His declared purpose through a chain of ordinary human decisions: the nephew hears and reports, the centurion transmits, the tribune investigates and acts. No one's agency is overridden or rendered irrelevant. This demonstrates that in the Lukan framework, divine purpose empowers rather than replaces human agency.",
+            "key_phrases": ["Divine necessity and human agency are not opposed", "the Lord's declaration does not make Paul passive", "God works through ordinary human intelligence and family loyalty"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "23:23-24",
+            "section_title": "The Military Escort",
+            "category": "NOT_APPLICABLE",
+            "summary": "The tribune orders a massive military escort of 470 soldiers to transfer Paul from Jerusalem to the governor Felix in Caesarea under cover of darkness, neutralizing the assassination conspiracy through institutional competence."
+        },
+        {
+            "reference": "23:25-30",
+            "section_title": "The Tribune's Letter",
+            "category": "NOT_APPLICABLE",
+            "summary": "The tribune Claudius Lysias writes to Governor Felix summarizing the case, categorizing the accusations as 'questions in their Law' with nothing deserving death or imprisonment, while rearranging the sequence of events to present his own conduct more favorably."
+        },
+        {
+            "reference": "23:31-35",
+            "section_title": "The Transfer and Arrival in Caesarea",
+            "category": "NOT_APPLICABLE",
+            "summary": "The soldiers escort Paul through the night to Antipatris and then by cavalry to Caesarea, where Felix confirms jurisdiction, commits to a full hearing once the accusers arrive, and orders Paul held in Herod's Praetorium under conditions appropriate to his Roman citizenship."
+        }
+    ]
+}

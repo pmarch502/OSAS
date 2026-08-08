@@ -1,0 +1,76 @@
+{
+  "book": "2Thessalonians",
+  "chapter": 2,
+  "sections": [
+    {
+      "reference": "2:1-2",
+      "section_title": "The Occasion — A Community Shaken",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul addresses the Thessalonians' alarm at a false report that the day of the Lord has already arrived, asking them not to be easily shaken by any purported spirit-utterance, spoken word, or letter."
+    },
+    {
+      "reference": "2:3-4",
+      "section_title": "The Necessary Precursors — Apostasy and the Man of Lawlessness",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul identifies two events that must precede the day of the Lord: a definitive apostasy (mass religious defection from faithfulness to God) and the revelation of the man of lawlessness, who exalts himself above every god and enthrones himself in God's temple claiming divine status.",
+      "relevance": "The concept of apostasia (standing away from faith, religious defection) presupposes that people who are in the faith have genuine capacity to abandon it. Paul treats this mass defection as a real future event within the eschatological sequence, drawing on precedents like the Maccabean crisis where Jews were pressured to abandon covenant faithfulness. If salvation outcomes were unilaterally determined by God, a definitive mass defection from faithfulness would carry different theological weight. The passage treats apostasy as a genuine possibility for those who were previously faithful.",
+      "key_phrases": ["unless the apostasy comes first", "the man of lawlessness is revealed, the son of destruction"],
+      "confidence": "low"
+    },
+    {
+      "reference": "2:5",
+      "section_title": "The Appeal to Prior Teaching",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reminds the Thessalonians that he taught them the eschatological sequence during his founding visit, implying they already possessed the information needed to evaluate the false report."
+    },
+    {
+      "reference": "2:6-7",
+      "section_title": "The Restrainer",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes a restraining force known to the Thessalonians from prior oral teaching that holds back the lawless one until his appointed time, while the mystery of lawlessness is already secretly at work."
+    },
+    {
+      "reference": "2:8",
+      "section_title": "The Lawless One Revealed and Destroyed",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul describes the Lord Jesus destroying the lawless one effortlessly with the breath of his mouth and the mere appearance of his coming, drawing on Isaiah 11:4 to identify Jesus with the messianic king who destroys wickedness with a word."
+    },
+    {
+      "reference": "2:9-12",
+      "section_title": "The Operation of Deception and Those Who Perish",
+      "category": "STRONG_LIBERTARIAN",
+      "conventional_use": "cited_by_both",
+      "summary": "Paul describes the lawless one's Satanic-powered deception targeting those who are perishing, explains that they perish because they refused to love the truth and so be saved, and describes God sending them a strong delusion as a judicial consequence of that refusal, so that all may be condemned who chose unrighteousness over truth.",
+      "relevance": "The text directly addresses why people face condemnation and attributes it to their own choices as part of Paul's sustained theological argument. The causal chain is explicit: they 'refused to love the truth and so be saved' (human agency as the determining factor), and 'therefore God sends them a strong delusion' (divine action as judicial consequence, not initial cause). The neutral reading identifies this as following the well-established pattern from 1 Kings 22, Ezekiel 14, Isaiah 6, and Romans 1 where 'human beings first reject truth, and then God confirms them in their rejection. The divine delusion is not the initial cause of unbelief but the judicial consequence of it.' The condemned are defined entirely by their choices: 'who did not believe the truth but had pleasure in unrighteousness.' The verb eudokeo ('to take pleasure in, to approve of') indicates active preference, not passive victimhood.",
+      "key_phrases": ["because they refused to love the truth and so be saved", "Therefore God sends them a strong delusion", "so that they may believe what is false", "all may be condemned who did not believe the truth but had pleasure in unrighteousness"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:13-14",
+      "section_title": "The Thessalonians' Contrasting Position",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "cited_for_determinism",
+      "summary": "Paul contrasts the Thessalonians with those who perish, giving thanks that God chose them for salvation through the Spirit's sanctifying work and their belief in the truth, called through the apostolic gospel to obtain the glory of the Lord Jesus Christ.",
+      "relevance": "2 Thessalonians 2:13 is conventionally cited as proof of unconditional divine election ('God chose you to be saved'). However, the neutral reading shows that God's choosing operates through two complementary means: sanctification by the Spirit (divine action) and belief in the truth (human response). The neutral reading explicitly states these are 'complementary, not competitive' and that 'Paul does not say they were saved by Spirit alone (without their participation) or by faith alone (without God's initiative). The two work together.' Crucially, the contrast with those who perish (vv. 9-12) is drawn in terms of response: 'The two groups are distinguished not by their inherent quality but by their response to the truth when it was presented.' Where the perishing 'refused to love the truth,' the Thessalonians 'believed the truth.' Human faith functions as a genuine component of how election operates, not as a mere product of unilateral divine determination.",
+      "key_phrases": ["God chose you as the firstfruits to be saved", "through sanctification of the Spirit and belief in the truth", "To this he called you through our gospel", "so that you may obtain the glory of our Lord Jesus Christ"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "2:15",
+      "section_title": "The Exhortation to Stand Firm",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul draws the practical conclusion from the preceding theological argument, exhorting the Thessalonians to stand firm and hold to the apostolic traditions received through both oral and written teaching.",
+      "relevance": "Immediately following the assurance that God chose them for salvation (vv. 13-14), the imperative 'stand firm' implies that their position is genuinely contingent on their continued adherence. The neutral reading notes that the remedy for being 'quickly shaken' (v. 2) is active human effort: 'a firmer grip on what they already have.' The juxtaposition of divine election language with an urgent exhortation to hold fast suggests that election does not eliminate human responsibility to maintain their position in the truth.",
+      "key_phrases": ["stand firm and hold to the traditions that you were taught by us"],
+      "confidence": "low"
+    },
+    {
+      "reference": "2:16-17",
+      "section_title": "The Closing Prayer",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul prays that the Lord Jesus Christ and God the Father would comfort the community's hearts and establish them in every good work and word, uniting divine empowerment with the human responsibility expressed in the preceding exhortation."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+    "book": "1Corinthians",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-3",
+            "section_title": "The Opening -- Sender, Recipients, and Greeting",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies himself as called by God's will, addresses the Corinthians as God's assembly, sanctified and called saints, united with all who call on Jesus's name."
+        },
+        {
+            "reference": "1:4-9",
+            "section_title": "Thanksgiving -- God's Gifts and God's Faithfulness",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul thanks God for the grace given to the Corinthians, their enrichment in speech and knowledge, and affirms that God will sustain them guiltless to the end because God is faithful.",
+            "relevance": "The text attributes every element of the Corinthians' spiritual standing to God's action: God gave grace, God enriched them, God confirmed the testimony, God will sustain them to the end guiltless, and God called them into fellowship with his Son. The initiative and sustaining power are entirely on God's side. However, the neutral reading explicitly notes that this divine faithfulness operates within a covenant framework where human responsibility persists -- citing Deuteronomy 7:9-12 and Paul's own later warnings about falling (10:12, 9:27) -- so the sustaining is relational rather than unilateral.",
+            "key_phrases": ["the grace of God that was given you", "you were enriched in him", "who will also sustain you to the end, guiltless", "God is faithful, by whom you were called"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:10-17",
+            "section_title": "The Exposure of the Community's Division",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul addresses reports of factional quarreling organized around human leaders (Paul, Apollos, Cephas, Christ), appeals for unity grounded in the indivisibility of Christ, and identifies rhetorical wisdom as a threat to the cross's power."
+        },
+        {
+            "reference": "1:18-25",
+            "section_title": "The Word of the Cross -- God's Power Through Apparent Foolishness",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul argues that the message of the cross appears foolish to the perishing but is God's power to those being saved, and that God chose to save through the foolishness of the proclamation rather than through human wisdom.",
+            "relevance": "The text distinguishes two groups -- 'those who are perishing' and 'those who are being saved' -- using present participles that the neutral reading identifies as describing ongoing trajectories, not fixed past-tense assignments. Verse 21 specifies that God saves 'those who believe' (present participle), identifying ongoing trust as the characteristic that marks the saved. Verse 24 describes Christ as power and wisdom 'to those who are called,' which the neutral reading interprets as those who have responded to God's summons. God designs the method of salvation (the cross, the foolish proclamation), but human response -- believing or rejecting -- determines which trajectory a person is on. The text does not present God as selecting which individuals will believe; it presents God as designing a surprising method and humans as responding to it.",
+            "key_phrases": ["to those who are perishing", "to us who are being saved", "to save those who believe", "to those who are called, both Jews and Greeks"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:26-31",
+            "section_title": "The Evidence in the Community Itself -- God Chooses What the World Discards",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul points to the community's demographic composition as evidence of God's method: God chose the foolish, weak, and lowborn to shame the wise and powerful, so that no one might boast before God, and Christ became for them wisdom, righteousness, sanctification, and redemption.",
+            "relevance": "1 Corinthians 1:27-28 is conventionally cited as evidence that God sovereignly elects specific individuals for salvation. However, the neutral reading reveals the election language here operates at a different level. The verb exelexato ('chose') is connected to Deuteronomy 7:6-7, where God chose Israel as a people not because of their greatness but because of their smallness -- corporate election based on God's purposes, not individual predetermination. Paul's argument is sociological: God's pattern of working through the socially marginal to confound the powerful is visible in who actually composes the Corinthian assembly ('not many wise, not many powerful, not many of noble birth'). The objects of election are social categories (the foolish, the weak, the lowborn, the things that are not), not named individuals chosen for salvation. The purpose clause in verse 29 confirms the point: 'so that no human being might boast in the presence of God.' The argument is about why God works through the lowly (to eliminate boasting and display grace), not about God predetermining which specific persons will be saved. Verse 30 ('because of him you are in Christ Jesus') grounds their standing in God's initiative, but this is divine initiative within the framework of response, not unilateral assignment.",
+            "key_phrases": ["God chose what is foolish in the world", "God chose what is weak", "God chose what is low and despised", "so that no human being might boast in the presence of God", "because of him you are in Christ Jesus"],
+            "confidence": "high"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "book": "2Timothy",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-5",
+            "section_title": "The Character of the 'Last Days' -- People Within the Community",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes people in the 'last days' who possess the outward form of godliness but have denied its power, having chosen disordered loves -- self, money, and pleasure rather than God -- and Timothy is commanded to avoid them.",
+            "relevance": "The reading emphasizes that these people 'have chosen the wrong love' and that their denial of godliness's power is a settled, completed human act (perfect tense of arneomai). They are people within or adjacent to the community for whom love of God would be expected, meaning they had genuine access to godliness but chose to reject its transformative reality. The text presents their moral corruption as the result of disordered human choices, not divine decree.",
+            "key_phrases": ["lovers of pleasure rather than lovers of God", "having the appearance of godliness but denying its power", "avoid such people"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:6-9",
+            "section_title": "The Infiltrators and Their Precedent -- Jannes and Jambres",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes false teachers who infiltrate households and capture vulnerable people who are always learning but never able to arrive at knowledge of the truth, comparing them to the Egyptian magicians who opposed Moses.",
+            "relevance": "The neutral reading explicitly states that the inability of the captive women to arrive at truth 'is not constitutional -- it is not that God made them incapable -- but conditional: their current state of being burdened with sins and led by desires renders them unable to reach the truth.' The reading further notes that 'the possibility of change is implicit: if the burden were lifted and the desires reoriented, the capacity to arrive might be restored,' connecting this to the vessel metaphor of 2:20-21 where cleansing changes status. The false teachers are 'disqualified regarding the faith' -- they failed a test, implying they were genuinely tested and found wanting, not predetermined to fail.",
+            "key_phrases": ["always learning and never able to arrive at a knowledge of the truth", "burdened with sins and led astray by various passions", "people corrupted in mind and disqualified regarding the faith", "their folly will be plain to all"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:10-12",
+            "section_title": "The Contrast -- Timothy's Following of Paul",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul contrasts Timothy's faithful following of his teaching, conduct, and sufferings with the false teachers, and states the universal principle that all who desire to live a godly life in Christ Jesus will be persecuted.",
+            "relevance": "The statement 'all who desire to live a godly life in Christ Jesus will be persecuted' uses thelein ('to will, to desire, to purpose'), which the reading identifies as 'not a passing inclination but a settled intention.' The text assumes that humans genuinely will or desire to live godly -- this is presented as a real human choice, not a divinely imposed condition. The reading also notes that false teachers' avoidance of persecution is 'itself evidence of their inauthenticity,' implying their choice not to pursue genuine godliness is a real human decision with consequences.",
+            "key_phrases": ["all who desire to live a godly life in Christ Jesus will be persecuted", "You, however, have followed my teaching"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:13",
+            "section_title": "The Trajectory of Deception",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul states that evil people and impostors will advance from bad to worse, both deceiving others and being deceived themselves, in a self-reinforcing cycle of mutual deception."
+        },
+        {
+            "reference": "3:14-15",
+            "section_title": "Timothy's Foundation -- What He Learned and From Whom",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul urges Timothy to continue in what he learned from reliable sources and in the sacred writings known since childhood, which are able to make him wise for salvation through faith in Christ Jesus.",
+            "relevance": "The imperative 'continue' (mene) calls for genuine human action -- Timothy must choose to remain in what he has learned. The reading notes that the scriptures 'do not save automatically; they save by producing wisdom that leads to a faith that is in Christ.' Salvation is accessed 'through faith in Christ Jesus,' and this faith is presented as something Timothy actively holds and must actively maintain, not as an irresistible imposition. The structure -- scriptures produce wisdom, wisdom leads to salvation, salvation comes through faith -- presents a chain in which human engagement (continuing, learning, believing) is integral at every step.",
+            "key_phrases": ["continue in what you have learned and have firmly believed", "able to make you wise for salvation through faith in Christ Jesus"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:16-17",
+            "section_title": "The Nature and Purpose of Scripture",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul declares that all scripture is God-breathed and profitable for teaching, reproof, correction, and training in righteousness, so that the man of God may be complete and equipped for every good work."
+        }
+    ]
+}

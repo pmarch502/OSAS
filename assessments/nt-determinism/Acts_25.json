@@ -1,0 +1,36 @@
+{
+    "book": "Acts",
+    "chapter": 25,
+    "sections": [
+        {
+            "reference": "25:1-5",
+            "section_title": "The New Governor and the Renewed Conspiracy",
+            "category": "NOT_APPLICABLE",
+            "summary": "The new governor Festus visits Jerusalem where the Jewish leadership renews charges against Paul and secretly plans an ambush to kill him during a proposed transfer, but Festus procedurally refuses the transfer and invites them to bring charges in Caesarea."
+        },
+        {
+            "reference": "25:6-8",
+            "section_title": "The Trial Before Festus",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul stands trial before Festus on the bema in Caesarea, where the Jewish accusers bring many serious charges they cannot prove, and Paul delivers a triple denial covering the Law, the temple, and Caesar."
+        },
+        {
+            "reference": "25:9-12",
+            "section_title": "The Favor, the Refusal, and the Appeal to Caesar",
+            "category": "NOT_APPLICABLE",
+            "summary": "Festus, wanting to do the Jews a political favor, proposes moving the trial to Jerusalem; Paul refuses and exercises his right as a Roman citizen to appeal to Caesar, an irrevocable legal act that sets him on the path to Rome in fulfillment of the Lord's declaration in 23:11."
+        },
+        {
+            "reference": "25:13-22",
+            "section_title": "Festus Presents the Case to King Agrippa",
+            "category": "NOT_APPLICABLE",
+            "summary": "Festus presents Paul's case to the visiting King Agrippa, summarizing the dispute as an internal Jewish religious disagreement about a dead man named Jesus whom Paul claims is alive, and Agrippa expresses interest in hearing Paul himself."
+        },
+        {
+            "reference": "25:23-27",
+            "section_title": "The Formal Hearing and Festus's Dilemma",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul is brought before an assembly of royal, military, and civic dignitaries as Festus explains his practical dilemma: he must send Paul to the Emperor but has no coherent charges to write, since the dispute reduces to a theological question about resurrection that has no category in Roman criminal law."
+        }
+    ]
+}

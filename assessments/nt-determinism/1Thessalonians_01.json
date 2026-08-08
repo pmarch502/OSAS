@@ -1,0 +1,52 @@
+{
+    "book": "1Thessalonians",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1",
+            "section_title": "The Greeting",
+            "category": "NOT_APPLICABLE",
+            "summary": "The greeting identifies Paul, Silvanus, and Timothy as co-senders and locates the Thessalonian assembly 'in God the Father and the Lord Jesus Christ,' using ekklesia language that claims both civic and covenantal identity for the community."
+        },
+        {
+            "reference": "1:2-3",
+            "section_title": "The Thanksgiving — Faith, Love, and Hope as Active Realities",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The co-senders give thanks for the community's 'work of faith, labor of love, and steadfastness of hope,' a triad describing the community's active life under pressure.",
+            "relevance": "The neutral reading emphasizes that each member of the triad pairs an active noun with a qualifying genitive: faith produces visible work, love drives costly labor, and hope sustains active endurance. The reading states explicitly that 'faith here is not passive assent to propositions but a reality that produces visible work' and that endurance (hypomone) is 'not passive waiting but active standing-firm.' This presents the community's ongoing faithfulness as genuine human activity — work they are doing, costs they are bearing, endurance they are sustaining — implying that their continued standing before God involves real human agency.",
+            "key_phrases": ["work of faith", "labor of love", "steadfastness of hope", "not passive assent to propositions but a reality that produces visible work", "not passive waiting but active standing-firm"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:4-5",
+            "section_title": "The Evidence of Divine Choice",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul tells the Thessalonians he knows God's 'choice' (ekloge) of them because the gospel arrived not in word only but with power, the Holy Spirit, and full conviction, and because the messengers demonstrated a particular character among them.",
+            "relevance": "The word ekloge ('election, choice') is conventionally cited as evidence that God unilaterally determines who will be saved — that the Thessalonians believed because God had individually pre-selected them for salvation. However, the neutral reading identifies the election language here as following the Deuteronomic/LXX pattern of corporate covenant election: 'Election in this tradition is not primarily about the eternal destiny of individuals; it is about God's selection of a people for a purpose — to be his own, to bear his name, to serve as his instrument in the world.' The reading draws the direct parallel to Deuteronomy 7:6-8, where God's choice of Israel is corporate and vocational. Furthermore, the reading notes that Paul does not present election as 'a hidden decree to be accepted on faith' but as something known by observable evidence — the manner of the gospel's arrival. The election described here is God's formation of a covenant community, not the predetermination of individual eternal destinies.",
+            "key_phrases": ["His choice of you", "brothers beloved by God", "Election in this tradition is not primarily about the eternal destiny of individuals", "not an inscrutable divine decision that must be accepted on bare authority"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:6-7",
+            "section_title": "The Chain of Imitation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The Thessalonians became imitators of the apostles and the Lord by receiving the word in tribulation with Spirit-given joy, and thereby became the pattern (typos) for all believers in Macedonia and Achaia.",
+            "relevance": "The chain of imitation presents a sequence of genuine human responses to God's action. The Thessalonians 'received the word' (dexamenoi ton logon) — an active participle describing their acceptance of the gospel as a real human act. They endured tribulation. They became imitators by entering into the same pattern of faithful suffering. The neutral reading describes this as 'living transmission' — the life they live becomes the template for others. While the joy is attributed to the Holy Spirit (divine enablement), the receiving, enduring, and imitating are genuine human activities. The passage presents God and humans cooperating: the Spirit supplies joy; the community supplies perseverance. Human response is not excluded or rendered irrelevant but is essential to the pattern.",
+            "key_phrases": ["you became imitators of us and of the Lord", "having received the word in much tribulation with the joy of the Holy Spirit", "you became an example to all the believers"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:8-10",
+            "section_title": "The Sounding Forth and the Content of Conversion",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The Thessalonians' faith has spread throughout the region; others report how they turned from idols to serve the living God and to wait for Jesus, who rescues from the coming wrath.",
+            "relevance": "The neutral reading identifies the conversion described in 1:9b-10 as the most compressed summary of Gentile conversion in the Pauline letters, structured in three active movements: 'you turned' (epistrepho — active voice, the Thessalonians as agents of their own turning), 'to serve' (ongoing obedience), and 'to wait' (active expectation). The reading emphasizes that epistrepho is the Greek equivalent of the Hebrew prophetic call to 'return' (shuv) — language that inherently assumes human capacity to respond to the call. The turning is described as 'a decisive break with the old allegiance,' presenting conversion as a genuine human act of reorientation. Simultaneously, Jesus 'rescues us from the wrath to come' — divine deliverance. The passage presents a picture where humans genuinely turn and God genuinely rescues, without either action negating the other. The neutral reading concludes that all three movements (turning, serving, waiting) are necessary and 'none is sufficient alone,' implying ongoing human agency is required.",
+            "key_phrases": ["you turned to God from idols", "to serve a living and true God", "to wait for His Son from heaven", "who rescues us from the wrath to come", "a decisive break with the old allegiance"],
+            "confidence": "high"
+        }
+    ]
+}

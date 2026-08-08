@@ -1,0 +1,34 @@
+{
+    "book": "Ephesians",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-6",
+            "section_title": "The Prisoner and the Mystery",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies himself as prisoner on behalf of the gentiles and explains the content of the mystery revealed by the Spirit to the apostles and prophets: that the gentiles are co-heirs, co-members of the body, and co-sharers of the promise in Christ Jesus through the gospel."
+        },
+        {
+            "reference": "3:7-13",
+            "section_title": "Paul's Commission and Its Cosmic Scope",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes his commission as servant of the gospel, the cosmic scope of the church as the display of God's manifold wisdom to heavenly powers, and the eternal purpose God carried out in Christ through which believers have bold access through faith.",
+            "relevance": "Two elements bear on the question. First, the 'eternal purpose' (prothesis ton aionon, v.11) uses vocabulary that connects to Romans 8:28 and 9:11, but the neutral reading identifies its content in Ephesians as specifically the plan for corporate Jew-gentile unity (1:10), not individual predetermination of who will be saved. The purpose spans all ages but its object is the reconciliation of peoples, not the selection of individuals. Second, v.12 states that 'we have boldness and access with confidence through faith in him' -- the phrase 'through faith' (dia tes pisteos) presents faith as the genuine means by which access to God is realized, implying that human response is the operative channel rather than something bypassed or rendered irrelevant by the divine purpose. The juxtaposition of God's eternal purpose with access through faith implies a framework in which divine sovereignty operates through, not around, human response.",
+            "key_phrases": ["according to the eternal purpose which he carried out in Christ Jesus our Lord", "in whom we have boldness and access with confidence through faith in him"],
+            "confidence": "low"
+        },
+        {
+            "reference": "3:14-19",
+            "section_title": "The Prayer for Inner Strengthening and Comprehension",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul resumes his prayer, asking the Father to strengthen the audience through the Spirit in the inner person, that Christ may dwell in their hearts through faith, that they may comprehend with all the saints the immeasurable dimensions of Christ's love, and that they may be filled to all the fullness of God."
+        },
+        {
+            "reference": "3:20-21",
+            "section_title": "The Doxology",
+            "category": "NOT_APPLICABLE",
+            "summary": "The chapter concludes with a doxology declaring that God is able to do far more abundantly than all that is asked or imagined, according to the power at work within the community, and ascribing glory to God in the church and in Christ Jesus forever."
+        }
+    ]
+}

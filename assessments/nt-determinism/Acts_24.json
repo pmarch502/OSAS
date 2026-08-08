@@ -1,0 +1,68 @@
+{
+    "book": "Acts",
+    "chapter": 24,
+    "sections": [
+        {
+            "reference": "24:1-4",
+            "section_title": "The Prosecution Arrives and Tertullus Opens",
+            "category": "NOT_APPLICABLE",
+            "summary": "The high priest Ananias brings a professional advocate Tertullus to present a formal prosecution against Paul before Governor Felix, opening with a conventional captatio benevolentiae that flatters the governor."
+        },
+        {
+            "reference": "24:5-6",
+            "section_title": "The Charges Against Paul",
+            "category": "NOT_APPLICABLE",
+            "summary": "Tertullus frames three charges against Paul — that he is a seditious plague, a ringleader of the Nazarene sect, and attempted to profane the temple — each crafted to translate a religious dispute into a Roman criminal matter."
+        },
+        {
+            "reference": "24:8-9",
+            "section_title": "The Prosecution Rests",
+            "category": "NOT_APPLICABLE",
+            "summary": "Tertullus invites Felix to examine Paul directly, and the Jewish delegation corporately affirms the charges."
+        },
+        {
+            "reference": "24:10-13",
+            "section_title": "Paul's Defense — The Facts of the Case",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul opens his defense by establishing the brief timeline of his visit, denying that anyone found him disputing or stirring up crowds, and challenging the prosecution to produce evidence for their charges."
+        },
+        {
+            "reference": "24:14-16",
+            "section_title": "Paul's Confession — The Way, the Law, and the Resurrection",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul confesses that he worships the God of his fathers according to the Way, believes everything in the Law and the Prophets, holds the hope of a resurrection of both the just and the unjust, and therefore disciplines himself to maintain a clear conscience toward God and man.",
+            "relevance": "The resurrection of 'both the just and the unjust' presupposes that human beings fall into these categories based on how they have lived, not based on a prior divine decree assigning them to one group or the other. Paul's statement that he 'always takes pains' (asko) to maintain a clear conscience connects resurrection accountability to deliberate human effort — because judgment is coming for all, Paul trains himself to live rightly. The causal logic ('so I always take pains') treats human moral agency as both genuine and consequential for one's standing before God at the final assessment.",
+            "key_phrases": ["a resurrection of both the just and the unjust", "so I always take pains to have a clear conscience toward both God and man"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "24:17-21",
+            "section_title": "Paul's Account of What Actually Happened",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul narrates his actual purpose in Jerusalem — bringing alms and offerings — and demonstrates that he was found purified in the temple without any crowd or disturbance, that the real instigators are absent, and that the only reportable event from the Sanhedrin hearing was his declaration about the resurrection of the dead."
+        },
+        {
+            "reference": "24:22-23",
+            "section_title": "Felix's Adjournment",
+            "category": "NOT_APPLICABLE",
+            "summary": "Felix, who has rather accurate knowledge of the Way, adjourns the case indefinitely under the pretext of waiting for the tribune Lysias, and orders Paul held in relaxed custody with access to his friends."
+        },
+        {
+            "reference": "24:24-26",
+            "section_title": "Felix, Drusilla, and Private Conversations",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Felix and his Jewish wife Drusilla hear Paul speak about faith in Christ Jesus, and as Paul reasons about righteousness, self-control, and the coming judgment, Felix becomes alarmed but dismisses Paul, repeatedly summoning him over two years while hoping for a bribe.",
+            "relevance": "The passage portrays Felix as a man who genuinely encounters the gospel message, is viscerally affected by it ('Felix was alarmed'), and yet refuses to respond. The neutral reading explicitly frames Felix as 'a man perpetually on the verge of decision who never decides' — someone who 'understands enough to be afraid but not enough to change.' This narrative assumes that Felix's failure to respond is his own choice, not a divine decree excluding him. The repeated summons ('he sent for him often') show that opportunity for response is ongoing and genuine, and Felix's refusal is attributed to his own competing desire for a bribe and his unwillingness to act on what he knows. The coming judgment Paul announces treats Felix as a moral agent who will be assessed for his own choices.",
+            "key_phrases": ["Felix was alarmed", "Go away for the present. When I get an opportunity I will summon you", "he hoped that money would be given him by Paul", "he sent for him often and conversed with him"],
+            "confidence": "high"
+        },
+        {
+            "reference": "24:27",
+            "section_title": "The Two-Year Imprisonment and Felix's Departure",
+            "category": "NOT_APPLICABLE",
+            "summary": "After two years Felix is succeeded by Porcius Festus, and desiring to do the Jews a favor, Felix leaves Paul in prison — a decision driven by political calculation rather than justice."
+        }
+    ]
+}

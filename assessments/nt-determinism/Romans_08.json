@@ -1,0 +1,68 @@
+{
+    "book": "Romans",
+    "chapter": 8,
+    "sections": [
+        {
+            "reference": "8:1-4",
+            "section_title": "No Condemnation, and What God Did Through His Son",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that God accomplished what the law, weakened by the flesh, could not do: by sending his Son as the sin offering, he condemned sin in the flesh so that the law's righteous requirement might be fulfilled in those who walk by the Spirit.",
+            "relevance": "The text emphasizes God's unilateral initiative in providing what was impossible for the law and the flesh to produce. The walking by the Spirit is described as the characteristic and evidence of those in Christ, not as its cause -- the liberation produces the walking, not the other way around. This implies that the decisive act in salvation was God's, not the believer's.",
+            "key_phrases": ["what the law, weakened by the flesh, could not do", "God has done", "sending his own Son", "he condemned sin in the flesh", "the righteous requirement of the law might be fulfilled in us"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:5-11",
+            "section_title": "The Two Modes of Existence -- Flesh and Spirit",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The neutral reading finds that Paul presents two mutually exclusive modes of existence -- flesh and Spirit -- with the flesh-mindset constitutionally unable to submit to God's law or please God, and the Spirit's indwelling as the defining criterion for belonging to Christ.",
+            "relevance": "The constitutional inability of the flesh to submit or please God (ou dynatai, ou dynantai) implies that no human effort within the sphere of the flesh can achieve what God requires. Transition from flesh to Spirit requires something beyond human capacity. However, the text describes the two states and their characteristics without directly addressing how or by whose determination a person moves from one to the other.",
+            "key_phrases": ["the mind set on the flesh is hostile to God", "it does not submit to God's law -- indeed, it cannot", "those who are in the flesh cannot please God", "anyone who does not have the Spirit of Christ does not belong to him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:12-17",
+            "section_title": "Obligation, Sonship, and Inheritance",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading finds that Paul draws a practical conclusion from the preceding theology: believers are not debtors to the flesh, and their choice between living by the flesh (resulting in death) or putting to death the deeds of the body by the Spirit (resulting in life) has genuine and final consequences.",
+            "relevance": "Verse 13 directly addresses believers as genuine agents whose choices determine their salvation outcome: living according to the flesh leads to death; putting to death the deeds of the body by the Spirit leads to life. The neutral reading emphasizes that Paul is warning believers themselves, not outsiders, and that the warning only functions if the outcome is genuinely contingent on the believer's response. The cooperation between believer and Spirit is described as real -- the believer acts, but acts by the Spirit's enabling power. The imperatives of chapter 6 (do not let sin reign, present your members as instruments of righteousness) are extended here with the same logic: the indicative of liberation does not eliminate the imperative of responsive obedience, and failure to respond has real consequences.",
+            "key_phrases": ["if you live according to the flesh you will die", "if by the Spirit you put to death the deeds of the body, you will live", "we are debtors, not to the flesh", "provided we suffer with him in order that we may also be glorified with him"],
+            "confidence": "high"
+        },
+        {
+            "reference": "8:18-25",
+            "section_title": "Present Suffering and Future Glory -- Creation's Groaning",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that Paul expands the scope from the individual community to the cosmos, describing creation's subjection to futility in hope of liberation, the believers' groaning while awaiting bodily redemption, and the nature of salvation as salvation-in-hope requiring patient endurance."
+        },
+        {
+            "reference": "8:26-27",
+            "section_title": "The Spirit's Intercession",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that the Spirit helps believers in their weakness by interceding with inarticulate groanings when they do not know what to pray for, and that this intercession is perfectly aligned with God's will."
+        },
+        {
+            "reference": "8:28-30",
+            "section_title": "God's Purpose and the Chain of Divine Acts",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The neutral reading finds that the chain of divine acts -- foreknew, predestined, called, justified, glorified -- recites what God has demonstrably done with his covenant people throughout Israel's recorded history, from Abraham through the tabernacle, providing assurance to suffering believers that God's purpose has been carried through at every stage.",
+            "relevance": "This passage is conventionally cited to prove that God individually predetermined from eternity who would be saved, creating an unbreakable 'golden chain' of individual election in which each link guarantees the next. The neutral reading reveals something fundamentally different. Each verb in the chain has concrete referents in Israel's corporate history: God foreknew Israel (relational covenant engagement, per Amos 3:2 and Paul's own usage in 11:2 where the foreknown people is Israel corporately); God predestined Israel (determined their shape and purpose at Sinai, Exodus 19:5-6, Deuteronomy 32:8-9); God called Israel (summoned Abraham from Ur, called Israel from Egypt, Isaiah 51:2, Hosea 11:1); God justified Israel (reckoned Abraham's faith as righteousness, constituted Israel as righteous through Torah, provided atonement, Isaiah 45:25); God glorified Israel (filled the tabernacle and temple with his kavod, listed in 9:4 as Israel's existing possession). The chain is a recitation of corporate covenant faithfulness, not a description of individual predetermination. The neutral reading further notes that verse 28 describes the same people from two angles -- 'those who love God' (human orientation) and 'called according to his purpose' (divine initiative) -- holding both without tension, and that the corporate chain operates at a different level from the individual imperatives of chapters 6-8.",
+            "key_phrases": ["those who love God", "called according to his purpose", "those whom he foreknew he also predestined", "predestined to be conformed to the image of his Son", "called, justified, glorified", "the firstborn among many brothers"],
+            "confidence": "high"
+        },
+        {
+            "reference": "8:31-39",
+            "section_title": "The Rhetorical Climax -- What Shall We Say to These Things?",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The neutral reading finds that Paul's rhetorical climax declares that no external force in all creation can separate believers from God's love in Christ, drawing on Isaiah 50:8-9 (the Servant's confidence in God as vindicator) and Psalm 44:22 (Israel's suffering for God's sake), while deliberately confining the 'cannot separate' list to forces external to the believer.",
+            "relevance": "This passage is conventionally cited to prove unconditional security -- that those God has chosen can never be lost under any circumstances, because nothing can separate them from God's love. The neutral reading reveals a critical distinction the conventional use overlooks. The list of things that cannot separate consists entirely of external forces, circumstances, and cosmic powers: death, life, angels, rulers, things present, things to come, powers, height, depth, any other created thing. The neutral reading explicitly observes that Paul does not include the believer's own choices, apostasy, or decision to abandon the faith. The passage answers the question 'Can the hostile universe overcome God's love for his people?' -- not the question 'Can the believer's own unfaithfulness dissolve the relationship?' This is consistent with Paul's warnings elsewhere in the same letter: 'if you live according to the flesh you will die' (8:13), 'do not let sin reign in your mortal body' (6:12). The assurance addresses external threats to the covenant relationship, not the believer's own agency within it.",
+            "key_phrases": ["if God is for us, who can be against us", "who shall bring any charge against God's elect", "who shall separate us from the love of Christ", "neither death nor life, nor angels nor rulers", "nor anything else in all creation"],
+            "confidence": "high"
+        }
+    ]
+}

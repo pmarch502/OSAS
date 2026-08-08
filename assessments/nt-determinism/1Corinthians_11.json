@@ -1,0 +1,100 @@
+{
+    "book": "1Corinthians",
+    "chapter": 11,
+    "sections": [
+        {
+            "reference": "11:1",
+            "section_title": "The Capstone of the Idol-Food Argument",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul concludes the idol-food argument of chapters 8-10 by commanding the Corinthians to imitate his pattern of voluntary self-limitation, which itself imitates Christ's self-giving."
+        },
+        {
+            "reference": "11:2",
+            "section_title": "Commendation and the Handing Down of Traditions",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul commends the Corinthians for remembering him and maintaining the traditions he delivered, using the technical vocabulary of authoritative transmission."
+        },
+        {
+            "reference": "11:3",
+            "section_title": "The Chain of kephale",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul establishes a relational structure in which Christ is the kephale of every man, the man is the kephale of the woman, and God is the kephale of Christ, as the theological foundation for the head-covering instruction."
+        },
+        {
+            "reference": "11:4-6",
+            "section_title": "Practical Instructions on Covering and Uncovering",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs that men who pray or prophesy with covered heads dishonor their kephale, while women who pray or prophesy uncovered dishonor theirs, with the shame of uncovering equated to the shame of a shaved head."
+        },
+        {
+            "reference": "11:7-9",
+            "section_title": "The Creation Argument",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul grounds the covering instruction in Genesis 2, arguing that man is the image and glory of God while woman is the glory of man, based on the directional derivation and purpose established at creation."
+        },
+        {
+            "reference": "11:10",
+            "section_title": "The Woman's Authority and the Angels",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul states that the woman ought to have authority (exousia) on her head because of the angels, with the covering representing her authorization to pray and prophesy in the assembly while honoring the creation order."
+        },
+        {
+            "reference": "11:11-12",
+            "section_title": "Mutual Dependence in the Lord",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul qualifies the creation-order argument by affirming that in the Lord, woman is not independent of man nor man of woman, since every man since Adam has come through a woman, and all things are ultimately from God."
+        },
+        {
+            "reference": "11:13-16",
+            "section_title": "The Appeal to Nature and Universal Practice",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul appeals to the Corinthians' own sense of propriety, to nature's teaching about hair length, and to the universal practice of the churches to close the head-covering argument."
+        },
+        {
+            "reference": "11:17-22",
+            "section_title": "Divisions at the Communal Meal",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul rebukes the Corinthians for divisions at the communal meal where the wealthy eat and drink to excess while the poor go hungry, declaring that their assemblies are for the worse rather than the better.",
+            "relevance": "Verse 19 states that factions must occur so that those who are dokimoi (genuine, tested, approved) may be recognized. The neutral reading interprets this as a revelatory process: trials expose character by how people behave when the community divides, with those who act with love and integrity shown to be genuine and those who indulge at others' expense shown to be otherwise. This framework treats human behavioral responses under testing as the factor that distinguishes the genuine from the not-genuine, implying that human choices in the face of community stress determine one's standing.",
+            "key_phrases": ["there must be factions among you", "those who are genuine among you may be recognized", "do you despise the church of God and humiliate those who have nothing"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "11:23-26",
+            "section_title": "The Tradition of the Lord's Supper",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul recites the tradition of the Lord's supper, identifying the bread as Christ's body given for the community, the cup as the new covenant in his blood, and the meal as a proclamation of the Lord's death until he comes."
+        },
+        {
+            "reference": "11:27-29",
+            "section_title": "Unworthy Eating and the Failure to Discern the Body",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul warns that eating the bread or drinking the cup in an unworthy manner makes one guilty concerning the body and blood of the Lord, and that eating without discerning the body brings judgment on oneself.",
+            "relevance": "The passage presents the manner of human behavior as the factor that determines whether the meal becomes a means of covenant participation or a means of judgment. The adverb anaxios ('unworthily') modifies the human action, and the neutral reading emphasizes that the question is not whether the eater is a worthy person but whether the eating is done in a manner worthy of the meal's meaning. Paul commands self-examination (dokimazeto, v. 28) as the human act that must precede eating, placing responsibility for the outcome squarely on the human participant. The person who eats without discerning the body 'eats and drinks judgment on himself' -- the human failure to discern produces the judgment.",
+            "key_phrases": ["eats the bread or drinks the cup of the Lord in an unworthy manner", "let a person examine himself", "anyone who eats and drinks without discerning the body eats and drinks judgment on himself"],
+            "confidence": "high"
+        },
+        {
+            "reference": "11:30-32",
+            "section_title": "Present Judgment, Discipline, and the Risk of Condemnation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul attributes physical weakness, illness, and death in the community to their abuse of the Lord's supper, distinguishes self-judgment from divine discipline from final condemnation, and states that the Lord's discipline aims to prevent the community from being condemned along with the world.",
+            "relevance": "This section presents a three-tiered structure in which human agency determines outcomes at each level. First, self-judgment (human self-examination) prevents divine judgment entirely (v. 31). Second, divine discipline (weakness, illness, death) falls when self-judgment is absent, but its purpose is corrective, not annihilatory. Third, condemnation with the world is the trajectory that discipline is designed to prevent (v. 32). The neutral reading explicitly states that the community 'is not automatically exempt from the world's fate' and that 'insiders can be condemned with outsiders if their behavior contradicts their identity.' The hina me ('so that not') clause presupposes that condemnation is the trajectory without the discipline. Human response to discipline -- whether the community corrects its behavior or persists in division -- determines whether it moves toward or away from condemnation. The passage does not directly frame the question as 'who determines salvation,' but the implications for human agency in avoiding condemnation are strong and integrated into Paul's own argument.",
+            "key_phrases": ["if we judged ourselves truly, we would not be judged", "when we are judged by the Lord, we are disciplined", "so that we may not be condemned along with the world"],
+            "confidence": "high"
+        },
+        {
+            "reference": "11:33-34",
+            "section_title": "The Practical Solution",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul instructs the Corinthians to wait for one another when they come together to eat and to satisfy private hunger at home, so that their coming together will not be for judgment.",
+            "relevance": "The practical instruction assumes that human behavioral change can avert the judgment described in the preceding verses. The purpose clause 'so that when you come together it will not be for judgment' (hina me eis krima synerchesthe) directly connects the community's choice to modify its behavior with the outcome of whether judgment falls. The simple act of waiting for one another is presented as the concrete means by which the community avoids the trajectory toward condemnation.",
+            "key_phrases": ["wait for one another", "so that when you come together it will not be for judgment"],
+            "confidence": "medium"
+        }
+    ]
+}

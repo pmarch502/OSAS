@@ -1,0 +1,32 @@
+{
+    "book": "Titus",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-4",
+            "section_title": "The Greeting -- Servanthood, Apostleship, and the Promise Before Time",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The greeting compresses Paul's theological framework: his apostleship serves the faith of God's elect and their knowledge of truth that produces godliness, grounded in the hope of eternal life promised by the truthful God before time and now manifested through preaching.",
+            "relevance": "The phrase 'God's elect' (eklektoi theou) is conventionally read as evidence of individual predestination, but the neutral reading traces the term to its LXX roots where it designates Israel corporately as God's chosen people (Isaiah 45:4; 65:9, 15, 22), chosen 'not because of their merit but because of God's purpose' (Deuteronomy 7:7-8). The neutral reading then describes Paul's usage as extending this corporate identity to 'all who have responded to the gospel call' -- language that frames election as a corporate category entered through human response rather than as individual predetermination. The pre-temporal promise (1:2) concerns God's intention to offer eternal life, not the predetermination of which individuals would receive it. God's initiative (promising, manifesting, commissioning) is presented alongside human response (faith, knowledge) without either being excluded.",
+            "key_phrases": ["faith of God's elect", "knowledge of the truth that accords with godliness", "promised before the ages began", "at the proper time manifested"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:5-9",
+            "section_title": "The Appointment of Elders -- Structure for the Communities",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs Titus to appoint qualified elders in every Cretan town, listing character qualifications (blameless, faithful in marriage, temperate, just, holy, disciplined) and the essential requirement that elders hold firm to sound teaching so they can instruct believers and refute opponents."
+        },
+        {
+            "reference": "1:10-16",
+            "section_title": "The False Teachers -- Identification, Condemnation, and the Test of Works",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul identifies numerous insubordinate false teachers on Crete, especially from the circumcision party, who upset whole households by teaching Jewish myths and human commands for profit, and whose profession of knowing God is contradicted by their works, rendering them detestable, disobedient, and unfit for any good work.",
+            "relevance": "The passage presents human choices as determinative of standing before God in several ways. The false teachers' own turning away from the truth (apostrephomonon, v. 14) has produced their defiled minds and consciences (v. 15), and their own works deny the God they verbally profess (v. 16). Their status as 'detestable, disobedient, unfit for any good work' results from their behavioral choices, not from divine predetermination. The sharp rebuke is given with the restorative purpose 'that they may be sound in the faith' (v. 13), which presupposes genuine human capacity to respond and change. The principle 'to the pure all things are pure, but to the defiled and unbelieving nothing is pure' (v. 15) locates the decisive factor in the person's internal moral state -- a state shaped by their own belief or unbelief -- rather than in external divine assignment.",
+            "key_phrases": ["they profess to know God, but they deny him by their works", "that they may be sound in the faith", "to the pure all things are pure, but to the defiled and unbelieving, nothing is pure", "commands of people who turn away from the truth", "detestable, disobedient, unfit for any good work"],
+            "confidence": "high"
+        }
+    ]
+}

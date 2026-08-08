@@ -1,0 +1,52 @@
+{
+    "book": "Mark",
+    "chapter": 11,
+    "sections": [
+        {
+            "reference": "11:1-6",
+            "section_title": "The Colt and the Approach to Jerusalem",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus sending two disciples with precise instructions to retrieve an unridden colt from a nearby village, with everything unfolding exactly as he predicted, demonstrating that the entry into Jerusalem is a deliberately staged prophetic action under Jesus's complete control, not a spontaneous event."
+        },
+        {
+            "reference": "11:7-10",
+            "section_title": "The Royal Entry into David's City",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus riding into Jerusalem on the colt in deliberate fulfillment of Zechariah 9:9 (the humble king who rides a donkey, not a war horse), while the crowd performs coronation gestures drawn from 2 Kings 9:13 and shouts Psalm 118:25-26, adding their own interpretation that the 'coming kingdom of our ancestor David' is arriving — an expectation the author has already shown to be fundamentally at odds with the suffering servanthood Jesus has been teaching since chapter 8."
+        },
+        {
+            "reference": "11:11",
+            "section_title": "The Temple Inspection",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus entering the temple after the dramatic processional entry, looking around at everything with the deliberate observational gaze Mark characteristically attributes to him (periblepsamenos), and then departing to Bethany because it was late — establishing that the temple disruption the following day is a calculated response to what he observed, not an impulsive outburst."
+        },
+        {
+            "reference": "11:12-14",
+            "section_title": "The Fig Tree Cursed — A Prophetic Sign-Act",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus approaching a fig tree in leaf, finding no fruit ('for it was not the season for figs' — a detail the author provides to signal this is not about hunger), and pronouncing judgment on it, interpreting the action as a deliberate prophetic sign-act in the tradition of Isaiah, Jeremiah, and Ezekiel, with the fig tree symbolizing Israel's temple establishment — impressive in appearance but bearing no fruit — drawing on Hosea 9:10-16, Jeremiah 8:13, and Micah 7:1-2, and functioning as the first half of Mark's intercalation that frames and interprets the temple action."
+        },
+        {
+            "reference": "11:15-19",
+            "section_title": "The Temple Action — House of Prayer and Den of Robbers",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus disrupting the temple's commercial operations in the Court of the Gentiles, combining Isaiah 56:7 ('My house shall be called a house of prayer for all the nations' — with Mark uniquely preserving 'for all the nations') and Jeremiah 7:11 ('a den of robbers') to argue that the temple has failed its purpose of providing the nations access to God, and that by invoking Jeremiah's Temple Sermon — where God destroyed his own dwelling at Shiloh — Jesus is pronouncing not a cleansing but a judgment that carries within it the threat of the temple's end."
+        },
+        {
+            "reference": "11:20-25",
+            "section_title": "The Withered Fig Tree — Faith, Prayer, and Forgiveness",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the discovery of the fig tree withered to its roots, completing the prophetic sign-act, followed by Jesus's teaching that faith in God, prayer, and mutual forgiveness now replace the temple system as the means of access to God — with divine forgiveness explicitly conditioned on the disciple's willingness to forgive others.",
+            "relevance": "The passage bears on the determinism question through the conditional structure of its teaching on forgiveness and the volitional framing of faith. The imperative 'Have faith in God' presupposes the capacity and responsibility to do so. The conditional 'if you do not doubt in your heart but believe that what you say will come to pass' presents belief as a genuine human posture that the person adopts or fails to adopt. Most directly relevant is the forgiveness instruction: 'forgive, if you have anything against anyone, so that your Father in heaven may also forgive you your trespasses.' The neutral reading explicitly states that 'the one who refuses to forgive is not in the posture to receive forgiveness' and that 'you cannot be right with God while harboring unforgiveness toward another person.' God's forgiveness of the disciple is conditioned on the disciple's choice to forgive others — a structure in which human agency is the operative factor in one's standing before God. The passage also relocates forgiveness from the temple's sacrificial system (institutionally mediated) to direct relational practice (humanly enacted), further emphasizing the role of the individual's choices. However, the author's primary argument is about what replaces the temple system, not about who determines salvation outcomes; the libertarian implications are embedded in the logic of that argument rather than constituting its central thesis.",
+            "key_phrases": ["Have faith in God", "if you do not doubt in your heart but believe that what you say will come to pass, it will be done for you", "whatever you ask for in prayer, believe that you have received it", "forgive, if you have anything against anyone, so that your Father in heaven may also forgive you your trespasses"],
+            "confidence": "high"
+        },
+        {
+            "reference": "11:27-33",
+            "section_title": "The Question of Authority",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the Sanhedrin (chief priests, scribes, and elders) challenging Jesus's authority for his temple actions, and Jesus responding with a counter-question about whether John's baptism was from heaven or of human origin — a question the author shows them calculating politically rather than answering honestly, with their refusal to affirm John's divine authority exposing their unwillingness to accept its consequences rather than genuine ignorance, and revealing the contrast between institutionally conferred authority and divinely given prophetic authority."
+        }
+    ]
+}

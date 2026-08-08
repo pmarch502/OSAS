@@ -1,0 +1,112 @@
+{
+    "book": "Luke",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-4",
+            "section_title": "The Author's Prologue",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author addresses Theophilus with a formal literary prologue, explaining his method (careful investigation of eyewitness testimony) and purpose (to provide certainty about what Theophilus has already been taught), without touching on the question of divine determination versus human agency in salvation."
+        },
+        {
+            "reference": "1:5-7",
+            "section_title": "Zechariah and Elizabeth",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author introduces a priestly couple who are 'righteous in the sight of God, walking blamelessly in all the commandments and requirements of the Lord,' yet barren and advanced in years, setting up the scriptural pattern of divine intervention through humanly impossible conception."
+        },
+        {
+            "reference": "1:8-12",
+            "section_title": "The Announcement to Zechariah",
+            "category": "NOT_APPLICABLE",
+            "summary": "While performing the incense offering in the temple, Zechariah encounters an angel of the Lord who appears at the right side of the altar of incense, establishing the liturgical and prophetic setting for the divine message that follows."
+        },
+        {
+            "reference": "1:13-17",
+            "section_title": "The Angel's Message",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Gabriel announces that John will be born to Zechariah and Elizabeth, filled with the Holy Spirit from the womb, and will go before the Lord in the spirit and power of Elijah to turn many of the sons of Israel back to the Lord their God and to make ready a people prepared for the Lord.",
+            "relevance": "John's mission is defined as turning people back and preparing them for what God is about to do. The language of 'turning back' (epistrepho, the Greek equivalent of the Hebrew shuv) is the fundamental vocabulary of repentance, which presupposes human capacity to turn. The qualifier 'many' rather than 'all' implies variation in response. The neutral reading notes that John's task is to 'produce a people who are ready' and that 'the people as they currently stand are not ready -- they need turning, preparation, a return to the Lord their God.' The concept of preparation assumes human agents who can be made ready -- you do not prepare those whose outcome is already determined.",
+            "key_phrases": ["he will turn many of the sons of Israel back to the Lord their God", "to make ready a people prepared for the Lord", "the disobedient to the attitude of the righteous"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:18-20",
+            "section_title": "Zechariah's Doubt and Its Consequence",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Zechariah asks for proof of the angel's message, and Gabriel responds by identifying himself and imposing silence on Zechariah 'because you did not believe my words.'",
+            "relevance": "Zechariah's unbelief is presented as a genuine human act that carries real consequences. The neutral reading contrasts Zechariah's response with Abraham's similar question and later with Mary's different response, making clear that different humans respond differently to the same kind of divine communication. Gabriel does not attribute Zechariah's doubt to divine decree or predetermination; he treats it as Zechariah's own failure ('you did not believe'). The disciplinary silence is a consequence of a human choice, not a divinely scripted outcome.",
+            "key_phrases": ["How will I know this for certain?", "you did not believe my words", "you will be silent and unable to speak until the day when these things take place"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:21-25",
+            "section_title": "The People's Reaction and Elizabeth's Conception",
+            "category": "NOT_APPLICABLE",
+            "summary": "The people waiting outside realize Zechariah has seen a vision, Elizabeth conceives and interprets her conception as the Lord's favor removing her disgrace, and the normal liturgical order of the temple is disrupted by God's new act."
+        },
+        {
+            "reference": "1:26-33",
+            "section_title": "The Announcement to Mary",
+            "category": "NOT_APPLICABLE",
+            "summary": "Gabriel announces to Mary in Nazareth that she will conceive and bear a son named Jesus, who will be called the Son of the Most High, will receive the throne of David, and will reign over the house of Jacob forever -- identifying the child as the fulfillment of the Davidic covenant promises from 2 Samuel 7, Isaiah 9, and Daniel 7."
+        },
+        {
+            "reference": "1:34-38",
+            "section_title": "Mary's Question and the Angel's Answer",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Mary asks how the conception will occur, Gabriel explains the Holy Spirit's role and points to Elizabeth's pregnancy as confirmation, and Mary responds with willing submission: 'Behold, the Lord's bond-servant; may it be done to me according to your word.'",
+            "relevance": "Mary's response is presented as a genuine human act of faith and consent, contrasted implicitly with Zechariah's doubt. The neutral reading observes that 'where he asked for certainty, she offers availability.' Mary's acceptance is not depicted as compelled or predetermined; Gabriel does not rebuke her question (as he did Zechariah's), and her response -- 'may it be done to me according to your word' -- is the language of voluntary submission. The narrative treats her belief as praiseworthy precisely because it was a real choice, as Elizabeth will make explicit in verse 45.",
+            "key_phrases": ["Behold, the Lord's bond-servant; may it be done to me according to your word", "Mary accepts the announcement without reservation"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:39-45",
+            "section_title": "Mary Visits Elizabeth",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Mary visits Elizabeth, whose unborn child leaps at Mary's greeting; Elizabeth, filled with the Holy Spirit, pronounces Mary blessed among women and blessed for having believed that the Lord's word would be fulfilled.",
+            "relevance": "Elizabeth's Spirit-filled declaration 'blessed is she who believed that there would be a fulfillment of what had been spoken to her by the Lord' treats Mary's faith as a genuine human act that merits commendation. The neutral reading makes explicit that this is 'an implicit contrast with Zechariah, Elizabeth's own husband, who did not believe and was struck silent.' The contrast establishes that belief and unbelief are real human responses to the same kind of divine communication -- Mary believed, Zechariah did not, and the narrative treats both responses as genuinely theirs. Faith is presented as something humans do, not something imposed on them.",
+            "key_phrases": ["blessed is she who believed that there would be a fulfillment of what had been spoken to her by the Lord", "Mary believed", "an implicit contrast with Zechariah"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:46-55",
+            "section_title": "Mary's Song (The Magnificat)",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Mary's song declares God's greatness, praises Him for regarding her humble state, and describes God's characteristic pattern of action: showing mercy to those who fear Him, scattering the proud, bringing down rulers, exalting the humble, filling the hungry, sending the rich away empty, and helping Israel in remembrance of His covenant with Abraham.",
+            "relevance": "The Magnificat describes God's mercy as directed toward a category defined by human disposition: 'His mercy is to generation after generation toward those who fear Him.' The reversals that follow -- scattering the proud, exalting the humble, filling the hungry, emptying the rich -- are all conditioned on human postures. The neutral reading notes that the rich are 'not condemned for possessing wealth but for their self-sufficiency -- the posture opposite to the fear of the Lord and the humility that characterize those whom God favors.' God's action is responsive to human disposition: He lifts those who are humble and scatters those who are proud. This is the opposite of unilateral determination; it presents God as acting in relation to how humans position themselves before Him.",
+            "key_phrases": ["His mercy is to generation after generation toward those who fear Him", "He has scattered those who were proud in the thoughts of their hearts", "He has exalted those who were humble", "sent away the rich empty-handed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:56-66",
+            "section_title": "The Birth and Naming of John",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "John is born, circumcised on the eighth day, and named John at both Elizabeth's insistence and Zechariah's written confirmation; at the moment of obedience to the angelic command, Zechariah's mouth is opened and he praises God, causing fear and wonder throughout the hill country of Judea.",
+            "relevance": "The narrative presents a direct cause-and-effect relationship between human response and divine consequence. The neutral reading states: 'The silence that began with disbelief ends with obedience. This is not coincidence in the narrative; it is cause and effect. The sign that was given as a consequence of unbelief is removed when belief is enacted through obedience.' Human belief and obedience are treated as genuine acts that affect outcomes. Zechariah's unbelief brought silence; his obedient act of naming the child John restored his speech. The text operates on the assumption that human responses are real and consequential.",
+            "key_phrases": ["His name is John", "at once his mouth was opened and his tongue freed", "the silence that began with disbelief ends with obedience"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:67-79",
+            "section_title": "Zechariah's Prophecy (The Benedictus)",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Zechariah, filled with the Holy Spirit, prophesies that God has visited and accomplished redemption, raised up a horn of salvation in David's house, remembered His covenant with Abraham, and that John will go before the Lord to give His people the knowledge of salvation by the forgiveness of their sins, as the Sunrise from on high visits to shine on those in darkness and guide their feet into the way of peace.",
+            "relevance": "While the prophecy emphasizes divine initiative throughout -- God visits, redeems, raises salvation, remembers His covenant, sends the Sunrise -- the salvation it describes is mediated through knowledge and forgiveness that humans receive. John's role is 'to give His people the knowledge of salvation by the forgiveness of their sins,' which presupposes human reception of knowledge and human need for forgiveness (implying sins that were genuinely chosen). The purpose of deliverance is 'that we would serve Him without fear, in holiness and righteousness before Him all our days' -- service, holiness, and righteousness are human activities requiring genuine agency. The closing image of guiding 'our feet into the way of peace' assumes feet that can be guided, not compelled. The text presents God's initiative as creating the conditions for human response, not as bypassing it.",
+            "key_phrases": ["to give His people the knowledge of salvation by the forgiveness of their sins", "we being rescued from the hand of our enemies would serve Him without fear in holiness and righteousness", "to guide our feet into the way of peace"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:80",
+            "section_title": "Summary of John's Growth",
+            "category": "NOT_APPLICABLE",
+            "summary": "John grows and becomes strong in spirit, living in the wilderness until the day of his public appearance to Israel, paralleling what will be said of Jesus and locating the forerunner's formation outside the institutional centers."
+        }
+    ]
+}

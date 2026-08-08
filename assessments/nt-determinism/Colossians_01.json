@@ -1,0 +1,50 @@
+{
+    "book": "Colossians",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-2",
+            "section_title": "The Greeting",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies himself as an apostle by the will of God and greets the Colossian community as saints and faithful brethren in Christ."
+        },
+        {
+            "reference": "1:3-8",
+            "section_title": "Thanksgiving -- The Report of Their Faith",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul gives thanks for the Colossians' faith, love, and hope, validates Epaphras as the faithful minister who brought them the gospel, and affirms that the gospel is bearing fruit and growing worldwide."
+        },
+        {
+            "reference": "1:9-14",
+            "section_title": "Prayer for the Community and the Father's Rescue",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul prays for the community to be filled with knowledge and to walk worthily, then describes the Father's saving actions: qualifying them for an inheritance, rescuing them from the domain of darkness, and transferring them into the kingdom of His beloved Son.",
+            "relevance": "The passage presents salvation as a series of unilateral divine actions: the Father 'qualified' the community for an inheritance they could not claim on their own, 'rescued' them from the domain of darkness, and 'transferred' them into the Son's kingdom. All three verbs have God as subject and the community as passive object, with no mention of human response as a contributing factor. However, the prayer portion (vv. 9-12a) assumes the community has real responsibilities -- walking worthily, bearing fruit, growing in knowledge -- which implies genuine human agency in the ongoing life of faith. The Exodus pattern the reading identifies (promised inheritance, rescue from oppression, transfer to a new realm) frames salvation in covenant categories where both God and the people have roles, tempering a purely deterministic reading.",
+            "key_phrases": ["who has qualified us to share in the inheritance of the saints in Light", "He rescued us from the domain of darkness", "transferred us to the kingdom of His beloved Son", "in whom we have redemption, the forgiveness of sins"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:15-20",
+            "section_title": "The Messiah's Relationship to Creation and Reconciliation",
+            "category": "NOT_APPLICABLE",
+            "summary": "The passage establishes the Messiah's supremacy in creation (all things made in, through, and for him; all things held together in him) and in reconciliation (all the fullness of God dwells in him; through him all things are reconciled by the blood of his cross)."
+        },
+        {
+            "reference": "1:21-23",
+            "section_title": "Application to the Colossians -- Reconciliation and Its Condition",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul applies the cosmic reconciliation to the Colossians' specific situation: though formerly alienated and hostile, they have been reconciled through the Messiah's physical death, with the purpose of being presented holy and blameless before God -- conditioned on their continuing in the faith and not being moved from the hope of the gospel.",
+            "relevance": "This passage directly and explicitly makes the final outcome of reconciliation contingent on genuine human continuation. The reconciliation itself is God's completed act (vv. 21-22), but the stated purpose -- presentation before God as holy, blameless, and beyond reproach -- is governed by a genuine conditional: 'if indeed you continue in the faith, firmly established and steadfast, and not moved away from the hope of the gospel' (v. 23). The neutral reading identifies eige as introducing a 'genuine condition' and a 'genuine contingency,' not a rhetorical formality. The author does not treat the community's continuation as automatic or guaranteed; he treats it as 'a real responsibility that corresponds to a real danger.' The reading explicitly notes that the conditional 'refuses to collapse' the indicative (what God has done) into the imperative (what the community must do). This is part of the author's central argument to the Colossians, not an aside or illustration.",
+            "key_phrases": ["if indeed you continue in the faith firmly established and steadfast", "not moved away from the hope of the gospel", "in order to present you before Him holy and blameless and beyond reproach"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:24-29",
+            "section_title": "Paul's Ministry -- Suffering, Mystery, and Maturity",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul describes his own suffering on behalf of the community, his stewardship of the mystery now revealed -- Christ among the Gentiles, the hope of glory -- and his labor to present every person complete in Christ through admonishing and teaching."
+        }
+    ]
+}

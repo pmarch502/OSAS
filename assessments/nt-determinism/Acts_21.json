@@ -1,0 +1,66 @@
+{
+    "book": "Acts",
+    "chapter": 21,
+    "sections": [
+        {
+            "reference": "21:1-6",
+            "section_title": "The Voyage to Tyre and the First Warning",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The travelers sail to Tyre, where local disciples, receiving Spirit-given knowledge of Paul's coming suffering, urge him not to go to Jerusalem, but Paul proceeds anyway because the Spirit reveals the cost without prohibiting the journey.",
+            "relevance": "The neutral reading carefully distinguishes the Spirit's role (revealing what will happen) from the disciples' human interpretation (concluding Paul should avoid Jerusalem). Paul receives the same Spirit-given knowledge and draws the opposite conclusion — he will go. This presents a model where divine revelation coexists with genuine human agency: the Spirit informs but does not determine Paul's response, and two groups receiving the same prophetic insight arrive at different decisions through genuine choice.",
+            "key_phrases": [
+                "through the Spirit they were telling Paul not to go on to Jerusalem",
+                "The Spirit reveals the danger; the disciples interpret the danger as a reason to stay away",
+                "Paul, who has received the same Spirit-given knowledge, draws the opposite conclusion",
+                "The Spirit never commands Paul not to go. The Spirit reveals what going will cost"
+            ],
+            "confidence": "low"
+        },
+        {
+            "reference": "21:7-14",
+            "section_title": "Caesarea, Philip, Agabus, and the Intensifying Warning",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "At Caesarea, the prophet Agabus performs a sign-act foretelling Paul's binding and delivery to the Gentiles; Paul's companions and the local community plead with him not to go, but Paul declares himself ready to die for the name of Jesus, and the community yields with the words 'Let the will of the Lord be done.'",
+            "relevance": "Paul's response to the intensified prophetic warning presents human agency as genuine and consequential. He declares 'I am ready not only to be imprisoned but even to die' — readiness framed as a personal choice, not a compelled outcome. The community's 'Let the will of the Lord be done,' which the neutral reading identifies as a deliberate echo of Jesus's Gethsemane prayer ('not my will but yours be done'), frames divine will and human submission as interactive: just as Jesus chose to submit, Paul chooses to accept the cost, and the community chooses to yield. The pattern throughout is divine foreknowledge coexisting with genuine human decision-making, not divine foreknowledge eliminating it.",
+            "key_phrases": [
+                "I am ready not only to be imprisoned but even to die in Jerusalem for the name of the Lord Jesus",
+                "Let the will of the Lord be done",
+                "since he would not be persuaded, we ceased",
+                "just as Jesus set his face toward Jerusalem knowing what awaited him, so Paul goes up to Jerusalem knowing what awaits"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "21:15-16",
+            "section_title": "The Journey Up to Jerusalem",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul and his companions travel from Caesarea to Jerusalem, escorted by Caesarean disciples who arrange lodging with Mnason, an early disciple from Cyprus."
+        },
+        {
+            "reference": "21:17-26",
+            "section_title": "The Meeting with James and the Elders — Torah, Reputation, and the Vow",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul reports to the Jerusalem elders what God has done among the Gentiles; the elders propose that Paul sponsor four men completing a Nazirite vow to demonstrate publicly that he remains Torah-observant, and Paul complies immediately."
+        },
+        {
+            "reference": "21:27-30",
+            "section_title": "The Temple Riot — False Accusation and Mob Violence",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jews from Asia see Paul in the temple, falsely assume he brought a Gentile past the Soreg, raise a fourfold accusation echoing the charges against Stephen, and a mob seizes Paul, drags him from the temple, and attempts to kill him."
+        },
+        {
+            "reference": "21:31-36",
+            "section_title": "Roman Intervention — The Tribune and the Barracks",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Roman tribune descends from the Antonia Fortress with soldiers, arrests Paul, binds him with two chains, and removes him to the barracks as the crowd cries 'Away with him!' — fulfilling Agabus's prophecy in substance though differing in procedural detail."
+        },
+        {
+            "reference": "21:37-40",
+            "section_title": "Paul Identifies Himself — Language, Citizenship, and the Right to Speak",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul corrects the tribune's misidentification of him as the Egyptian revolutionary, identifies himself as a Jew from Tarsus, and receives permission to address the crowd in Aramaic from the steps of the fortress."
+        }
+    ]
+}

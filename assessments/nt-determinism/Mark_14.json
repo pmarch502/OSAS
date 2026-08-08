@@ -1,0 +1,92 @@
+{
+    "book": "Mark",
+    "chapter": 14,
+    "sections": [
+        {
+            "reference": "14:1-2",
+            "section_title": "The Plot",
+            "category": "NOT_APPLICABLE",
+            "summary": "The chief priests and scribes plot to arrest and kill Jesus covertly before the festival, constrained by fear of the crowd."
+        },
+        {
+            "reference": "14:3-9",
+            "section_title": "The Anointing at Bethany",
+            "category": "NOT_APPLICABLE",
+            "summary": "An unnamed woman anoints Jesus with costly nard, and Jesus interprets the act as preparation for his burial, declaring it will be remembered wherever the gospel is preached."
+        },
+        {
+            "reference": "14:10-11",
+            "section_title": "Judas's Betrayal",
+            "category": "NOT_APPLICABLE",
+            "summary": "Judas Iscariot, one of the twelve, goes on his own initiative to the chief priests to arrange Jesus's betrayal for money."
+        },
+        {
+            "reference": "14:12-16",
+            "section_title": "Preparing the Passover",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus sends two disciples with precise instructions to prepare the Passover meal, and they find everything exactly as he described."
+        },
+        {
+            "reference": "14:17-21",
+            "section_title": "The Announcement of Betrayal",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus announces that one of the twelve eating with him will betray him, then declares that the Son of Man goes 'just as it is written' while pronouncing a woe on the betrayer.",
+            "relevance": "The neutral reading identifies the central tension: 'The divine purpose and human culpability are not set in opposition; both are stated as true.' The Son of Man's death follows the divine script ('just as it is written'), yet the betrayer bears full moral responsibility ('woe to that man'). The pronouncement 'it would have been good for that man if he had not been born' directly addresses the betrayer's standing before God as a consequence of his choice. This presupposes genuine moral agency -- the woe is incoherent if Judas's action was unilaterally determined by God.",
+            "key_phrases": ["the Son of Man is going away just as it is written about Him", "woe to that man by whom the Son of Man is betrayed", "it would have been good for that man if he had not been born"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "14:22-25",
+            "section_title": "The Bread and Cup",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus identifies the Passover bread as his body and the cup as his blood of the covenant poured out for many, establishing a new covenant meal and declaring he will not drink again until the kingdom of God."
+        },
+        {
+            "reference": "14:26-31",
+            "section_title": "The Prediction of Scattering and Denial",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus quotes Zechariah 13:7 to predict that all the disciples will fall away when the shepherd is struck, promises to go ahead of them to Galilee after his resurrection, and predicts Peter's specific threefold denial before the rooster crows twice.",
+            "relevance": "The Zechariah quotation presents God as initiating the striking of the shepherd, and the disciples' scattering follows as consequence. However, the text treats the scattering as genuine moral failure -- the verb 'skandalisthesesthe' (fall away, stumble) is the same word applied to the rocky soil in the sower parable (4:17), designating a failure of faithfulness, not a divinely programmed response. Jesus's expectation that they should resist (reinforced by the command to watch and pray in v. 38) implies real agency. The promise 'after I am raised, I will go ahead of you to Galilee' means the disciples' failure does not seal their final standing -- restoration remains available, which presupposes that outcomes are not unilaterally fixed.",
+            "key_phrases": ["You will all fall away", "I will strike the shepherd, and the sheep will be scattered", "after I am raised, I will go ahead of you to Galilee", "Even if I have to die with You, I will not deny You"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "14:32-42",
+            "section_title": "Gethsemane -- The Hour",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus prays in anguish for the cup to pass, submits to the Father's will, and three times finds the disciples sleeping instead of watching and praying as he commanded.",
+            "relevance": "This section presents the clearest model of the relationship between divine will and human agency in the chapter. Jesus's prayer 'not what I will, but what You will' shows genuine human will freely submitting to divine will -- the Father's purpose prevails through the Son's voluntary submission, not through the override of a puppet. The instruction 'keep watching and praying, so that you will not come into temptation' presents prayer as a genuine means by which the disciples could have avoided failure. The neutral reading notes: 'Willingness alone will not sustain them. They need prayer. They do not pray.' Their failure is attributed to their neglect of available spiritual means, not to divine determination of their outcome. The statement 'the spirit is willing, but the flesh is weak' affirms the reality of human intention while acknowledging its insufficiency without divine aid accessed through prayer.",
+            "key_phrases": ["not what I will, but what You will", "Keep watching and praying, so that you will not come into temptation", "the spirit is willing, but the flesh is weak", "Could you not keep watch for one hour?"],
+            "confidence": "high"
+        },
+        {
+            "reference": "14:43-52",
+            "section_title": "The Arrest",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Judas arrives with an armed crowd and betrays Jesus with a kiss; Jesus notes the absurdity of their armed approach and states that the Scriptures are being fulfilled; the disciples all flee, and a young man escapes naked.",
+            "relevance": "Jesus declares 'this has taken place so that the Scriptures will be fulfilled,' framing the arrest within divine purpose. The neutral reading interprets this carefully: 'The human actors -- Judas, the chief priests, the armed crowd -- are carrying out their own choices, but those choices are caught up in a larger script that the prophets had already written.' The text presents scriptural fulfillment and human agency as coexisting rather than the former eliminating the latter. The disciples' flight fulfills Zechariah 13:7 but is simultaneously treated as genuine moral failure -- they break their pledges (v. 31) and abandon Jesus. The young man's desperate flight, stripping off even his clothing to escape, underscores the totality of human failure by choice, not by divine coercion.",
+            "key_phrases": ["this has taken place so that the Scriptures will be fulfilled", "His disciples all left Him and fled", "he pulled free of the linen sheet and escaped naked"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "14:53-65",
+            "section_title": "The Trial Before the Sanhedrin",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus is tried before the high priest and the full council; false witnesses fail to produce consistent testimony; Jesus breaks his silence to confess his identity as the Christ, the Son of the Blessed One, and the Son of Man who will sit at God's right hand, and is condemned for blasphemy."
+        },
+        {
+            "reference": "14:66-72",
+            "section_title": "Peter's Denial",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter denies Jesus three times -- to a slave woman, to bystanders, and with oaths and curses -- before the rooster crows a second time, fulfilling Jesus's prediction exactly, and Peter breaks down weeping.",
+            "relevance": "Peter's denial is presented as genuine moral failure despite being predicted with exact specificity. The intercalation structure -- Jesus confessing inside while Peter denies outside -- implies that confession was a real option available to Peter; Jesus demonstrates it at the cost of his life. The neutral reading notes the escalation from evasion to oaths and curses, treating each denial as a fresh choice by Peter. That the denial was foretold does not remove its character as free human action; the text attributes it to Peter's character weakness and failure to pray (v. 38), not to divine determination. Peter's weeping signals genuine remorse, and the earlier promise of Galilee (v. 28) implies his failure does not permanently seal his standing before God.",
+            "key_phrases": ["I neither know nor understand what you are talking about", "I do not know this Man of whom you speak", "he began to curse himself and to swear", "And he hurried on and began to weep"],
+            "confidence": "medium"
+        }
+    ]
+}

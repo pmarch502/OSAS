@@ -1,0 +1,66 @@
+{
+    "book": "Hebrews",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-4",
+            "section_title": "The Greater Obligation Arising from the Greater Revelation",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The author argues from lesser to greater (qal wahomer) that if Torah violations carried just penalties, neglecting the salvation spoken through the Son — who is greater than the angels who mediated Torah — will carry even graver consequences.",
+            "relevance": "The passage directly addresses human agency in salvation outcomes as the core of the author's own argument. The rhetorical question 'how shall we escape if we neglect so great a salvation?' presupposes that the audience's response — attention or neglect — determines their outcome. The verbs chosen ('drift away,' 'neglect') describe human inattention as the cause of spiritual failure, not divine withdrawal or predetermination. The entire warning framework is incoherent unless the audience has genuine capacity to either heed or neglect the message.",
+            "key_phrases": ["lest we drift away", "how shall we escape if we neglect so great a salvation", "every transgression and disobedience received a just reward", "we must give the more earnest heed"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:5-8a",
+            "section_title": "Humanity's Unfulfilled Vocation from Psalm 8",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author quotes Psalm 8 to establish that God intended humanity — not angels — to exercise dominion over the world to come, describing a cosmic vocation of glory, honor, and authority over all things."
+        },
+        {
+            "reference": "2:8b",
+            "section_title": "The Observation That Breaks Open the Psalm",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author observes that Psalm 8's promise of total human dominion remains empirically unfulfilled — 'we do not yet see all things put under him' — establishing a gap between divine promise and present reality that requires resolution."
+        },
+        {
+            "reference": "2:9",
+            "section_title": "The Pivot — But We See Jesus",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The author identifies Jesus as the one human in whom Psalm 8's promise is fulfilled: made lower than angels through incarnation, he suffered death and was crowned with glory and honor, having tasted death 'for everyone' by the grace of God.",
+            "relevance": "The phrase 'taste death for everyone' (hyper pantos) is universalistic in scope — Jesus's death was on behalf of all, not a predetermined subset. This universal scope is conventionally cited against limited atonement. When read alongside the warning of 2:1-4, the implication is that Christ's death benefits everyone potentially, with the actual benefit contingent on human response rather than divine preselection. However, the passage's primary concern is christological rather than directly addressing the selection mechanism.",
+            "key_phrases": ["by the grace of God might taste death for everyone", "crowned with glory and honor"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:10",
+            "section_title": "The Pioneer Made Complete Through Suffering",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author declares it was fitting for God — the source and goal of all things — to make the pioneer of salvation perfect through sufferings in order to bring many sons to glory, establishing suffering as the pathway of experiential qualification for Jesus's salvific role."
+        },
+        {
+            "reference": "2:11-13",
+            "section_title": "Shared Origin, Shared Identity — Three Scriptural Proofs",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author argues that Jesus and believers share a common origin ('all of one'), citing Psalm 22:22 and Isaiah 8:17-18 to show Jesus identifying believers as his 'brethren' and 'children,' establishing the incarnational solidarity that qualifies his priesthood."
+        },
+        {
+            "reference": "2:14-16",
+            "section_title": "The Incarnation, Death, and the Defeat of the Devil",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author explains that Jesus shared in flesh and blood to destroy the devil's power over death through his own death, to release those enslaved by lifelong fear of death, and to take hold of Abraham's seed rather than angels."
+        },
+        {
+            "reference": "2:17-18",
+            "section_title": "A Merciful and Faithful High Priest",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author concludes that Jesus had to be made like his brethren in all things to become a merciful and faithful High Priest who makes propitiation for sins and is able to aid those who are tempted, grounding his priesthood in shared human experience.",
+            "relevance": "The language of 'aiding those who are tempted' presupposes that believers face genuine temptation with real stakes — they can fail or endure. Jesus provides help, not unilateral determination of outcome. The framework is collaborative: the tempted struggle, and the High Priest assists. This closes the chapter by reinforcing the same assumption of human agency that opened it in 2:1-4 — the audience can drift or hold fast, and Jesus helps those who are in the struggle.",
+            "key_phrases": ["He is able to aid those who are tempted", "He Himself has suffered, being tempted", "He had to be made like His brethren in all things"],
+            "confidence": "medium"
+        }
+    ]
+}

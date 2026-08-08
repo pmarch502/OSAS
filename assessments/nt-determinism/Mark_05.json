@@ -1,0 +1,56 @@
+{
+    "book": "Mark",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-20",
+            "section_title": "Authority Over a Legion of Unclean Spirits in Gentile Territory",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus crosses into Gentile territory, liberates a man possessed by a legion of unclean spirits, restores him to sanity and community, and commissions him to proclaim what the Lord has done, while the Gerasene townspeople witness the same evidence and beg Jesus to leave.",
+            "relevance": "The passage presents a spectrum of genuine human responses to the same demonstration of divine power: the Gerasenes see the restored man and respond with fear that leads to rejection, while the healed man responds with a desire to follow Jesus and is commissioned to proclaim. The varied responses to identical evidence imply that human agency, not divine determination, accounts for whether individuals receive or reject Jesus's power.",
+            "key_phrases": [
+                "they began to beg Him to leave their region",
+                "the man who had been demon-possessed was begging Him that he might accompany Him",
+                "Go home to your people and report to them what great things the Lord has done for you"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:21-24a",
+            "section_title": "Jairus and the Urgency of Faith",
+            "category": "NOT_APPLICABLE",
+            "summary": "A synagogue official named Jairus falls at Jesus's feet and pleads for him to come heal his dying daughter, and Jesus goes with him while a large crowd presses in."
+        },
+        {
+            "reference": "5:25-34",
+            "section_title": "The Woman with the Flow of Blood",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "A woman who has hemorrhaged for twelve years, exhausted every human resource, and been rendered ritually and socially excluded reaches out to touch Jesus's garment in faith, is healed instantly, and is told by Jesus that her faith has made her well.",
+            "relevance": "Jesus explicitly attributes the healing to the woman's faith rather than to an automatic or impersonal transfer of power. The neutral reading stresses the distinction between the general crowd pressing against Jesus and the specific touch of faith: many are in physical contact with Jesus, but only the woman who reaches out in trust receives healing. The operative factor is her genuine human response. The author uses sozo (to heal/save) with deliberate ambiguity, connecting physical restoration to the broader vocabulary of salvation throughout the document, which strengthens the implication that human faith functions as a genuine and necessary factor in receiving what Jesus offers.",
+            "key_phrases": [
+                "your faith has made you well",
+                "If I just touch His garments, I will get well",
+                "the woman's trust in Jesus's power that activated the healing",
+                "Daughter"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:35-43",
+            "section_title": "Authority Over Death Itself",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "After messengers report that Jairus's daughter has died, Jesus commands Jairus to keep believing, expels the mocking mourners, enters the room with a small group of witnesses, takes the dead girl by the hand, and raises her with a spoken command.",
+            "relevance": "Jesus's command to Jairus — 'Do not be afraid, only believe' — presents continued faith as a genuine human choice that Jairus can either exercise or refuse. The present imperative ('keep on believing') and the word 'only' strip the requirement to its bare essence: nothing is demanded except ongoing trust. The mourners, who respond to Jesus's word with ridicule rather than faith, are expelled from the room, and the author uses the same verb (ekballon) used for casting out demons. The contrast between faith and unbelief as the factor that determines who remains in Jesus's presence and witnesses his power directly implies that human response, not divine predetermination, governs who receives what Jesus offers.",
+            "key_phrases": [
+                "Do not be afraid, only believe",
+                "they began laughing at Him",
+                "putting them all outside",
+                "nothing is required of Jairus except continued trust"
+            ],
+            "confidence": "high"
+        }
+    ]
+}

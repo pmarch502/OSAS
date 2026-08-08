@@ -1,0 +1,64 @@
+{
+    "book": "Luke",
+    "chapter": 13,
+    "sections": [
+        {
+            "reference": "13:1-5",
+            "section_title": "Two Catastrophes and the Demand for Repentance",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus responds to reports of Galileans killed by Pilate and eighteen killed by a collapsing tower in Siloam by rejecting the assumption that extraordinary suffering implies extraordinary sin, then issuing a universal demand: 'unless you repent, you will all likewise perish.'",
+            "relevance": "The twice-repeated conditional 'unless you repent, you will all likewise perish' directly addresses human beings as agents whose choice determines whether they face destruction. The imperative is addressed to the audience as those who must act. The neutral reading notes that the question is redirected from the victims to the audience: the issue is not why they died but 'why do you think you are safe?' The verb metanoeo is presented as something the audience can and must do, and their perishing is the direct consequence of failing to do so. The text does not attribute repentance to divine determination or suggest that God selects who repents; it treats repentance as a genuine human responsibility whose absence brings destruction.",
+            "key_phrases": ["unless you repent, you will all likewise perish", "Do you suppose that these Galileans were greater sinners", "why do you think you are safe?"],
+            "confidence": "high"
+        },
+        {
+            "reference": "13:6-9",
+            "section_title": "The Parable of the Barren Fig Tree",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "A vineyard owner has waited three years for a barren fig tree to bear fruit and orders it cut down, but the vineyard-keeper intercedes for one more year of intensive cultivation, after which it will be cut down if it still bears no fruit.",
+            "relevance": "The parable dramatizes the limited window for repentance established in verses 1-5. The fig tree's fate depends on whether it produces fruit — it is not predetermined to be barren or fruitful. The vineyard-keeper's intercession (extra cultivation) implies that additional divine effort is being invested precisely because fruit-bearing is genuinely possible. The neutral reading notes that 'the tree that bears no fruit after the extension will be cut down,' treating the outcome as contingent on the tree's response to the cultivation provided. However, this is parabolic and indirect rather than a direct statement about human agency in salvation, and the corporate dimension (the fig tree representing Israel/Jerusalem) means the passage addresses collective rather than individual response.",
+            "key_phrases": ["if it bears fruit next year, fine; but if not, cut it down", "Why does it even use up the ground?", "Let it alone, sir, for this year too"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:10-17",
+            "section_title": "The Healing of a Bound Woman on the Sabbath",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus heals a woman bent double for eighteen years by a spirit of infirmity, declaring her freed on the Sabbath, then silences the synagogue official's objection with a qal wa-homer argument that the Sabbath — the day commemorating liberation from bondage — is the most fitting day to release a daughter of Abraham from Satan's binding."
+        },
+        {
+            "reference": "13:18-21",
+            "section_title": "Two Parables about the Kingdom's Growth",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus compares the kingdom of God to a mustard seed that grows from a tiny beginning into a tree where birds nest, and to leaven hidden in a large quantity of flour that transforms the whole mass, asserting that the kingdom is already at work in what appears small and hidden."
+        },
+        {
+            "reference": "13:22-30",
+            "section_title": "The Narrow Door and the Reversal of Insiders and Outsiders",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "In response to the question 'are there just a few who are being saved?' Jesus commands his audience to strive to enter through the narrow door, warns that many who seek entry will be unable, and describes a reversal in which those who claim proximity to Jesus are shut out while people from all directions recline at the kingdom table with Abraham, Isaac, Jacob, and the prophets.",
+            "relevance": "This passage directly addresses the question of who will be saved — the question is asked explicitly. Jesus's response consistently presents salvation as requiring genuine human effort and response. The command 'strive to enter' (agonizomai — to agonize, to struggle) places the responsibility squarely on human agents. The neutral reading highlights the distinction between 'seeking' (casual desire) and 'striving' (full engagement): 'seeking is desire without the exertion that the narrow door demands; striving is the full engagement required.' Those excluded are excluded not because God predetermined their exclusion but because they relied on proximity rather than response — 'they were present but unchanged. They heard but did not repent.' The reversal of insiders and outsiders is based on response to Jesus's message, not on divine selection. The 'many who will not be able' could suggest inability, but the neutral reading interprets this as the consequence of seeking without striving — insufficient engagement rather than divinely imposed incapacity.",
+            "key_phrases": ["Strive to enter through the narrow door", "many will seek to enter and will not be able", "We ate and drank in Your presence, and You taught in our streets", "I do not know where you are from; depart from Me", "they will come from east and west and from north and south"],
+            "confidence": "high"
+        },
+        {
+            "reference": "13:31-33",
+            "section_title": "The Warning about Herod and Jesus's Determination",
+            "category": "NOT_APPLICABLE",
+            "summary": "Pharisees warn Jesus that Herod wants to kill him; Jesus dismisses the threat, declares he will continue casting out demons and performing cures on a divinely appointed timetable, and states that he must journey to Jerusalem because it is unthinkable for a prophet to perish outside the city that kills prophets."
+        },
+        {
+            "reference": "13:34-35",
+            "section_title": "The Lament over Jerusalem",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus laments over Jerusalem as the city that kills prophets and stones God's messengers, expressing his repeated desire to gather her children as a hen gathers her brood under her wings, but declaring that Jerusalem refused, and that consequently her house is left desolate.",
+            "relevance": "This is one of the most direct texts bearing on the determinism/agency question. The neutral reading identifies the critical contrast: Jesus's repeated willing ('how often I wanted,' ethelesa) versus Jerusalem's refusal ('you would not have it,' ouk ethelesate). The same verb thelo appears on both sides — divine desire and human refusal — and the neutral reading states explicitly: 'The same capacity of will that could have accepted protection chose to reject it.' The destruction that follows 'is not God's first choice but the consequence of a refusal that has been sustained against repeated offers of protection.' If God unilaterally determines salvation outcomes, then Jesus's expressed desire to gather Jerusalem's children would be either insincere or ineffectual by design — neither of which the text supports. The passage presents God as genuinely desiring to protect, and human beings as genuinely capable of refusing that protection, with the consequence (desolation) falling on those who refused. The parallel in Matthew 23:37 is a standard proof-text for human agency in the debate.",
+            "key_phrases": ["How often I wanted to gather your children together", "and you would not have it", "your house is left to you desolate", "just as a hen gathers her brood under her wings"],
+            "confidence": "high"
+        }
+    ]
+}

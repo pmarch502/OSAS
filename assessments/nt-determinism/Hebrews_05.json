@@ -1,0 +1,53 @@
+{
+    "book": "Hebrews",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-4",
+            "section_title": "The Template -- What a High Priest Is and How One Is Made",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author establishes the defining qualifications of the high priestly office using the Aaronic model: shared humanity, representative service on behalf of the people, Godward orientation, offering sacrifices for sins, and divine calling rather than self-appointment."
+        },
+        {
+            "reference": "5:5-6",
+            "section_title": "The Divine Appointment -- Two Declarations from God",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author applies the divine appointment principle to Christ by citing Psalm 2:7 and Psalm 110:4, establishing that God -- not Christ himself -- initiated his high priesthood, which belongs to the order of Melchizedek rather than Aaron."
+        },
+        {
+            "reference": "5:7-8",
+            "section_title": "The Testing of the Son -- Suffering, Prayer, and Learned Obedience",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author describes Jesus's anguished prayers during his earthly life, his being heard because of his devout submission, and his experiential learning of obedience through suffering, grounding his priestly qualification in concrete historical experience rather than abstract attributes."
+        },
+        {
+            "reference": "5:9-10",
+            "section_title": "The Result -- Perfected, Saving, and Designated",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The author declares that Jesus, having been perfected through suffering, became the source of eternal salvation for all those who obey him, and was formally designated by God as high priest according to the order of Melchizedek.",
+            "relevance": "The neutral reading identifies verse 9 as structurally central to the entire letter's argument. Salvation is eternal and originates in Christ's completed priestly work, but its recipients are defined by an ongoing human response: 'all those who obey Him' (pasin tois hupakouousin auto). The present participle marks obedience as a continuing posture, not a one-time event. The author deliberately connects Christ's own learned obedience (hupakoē, v. 8) with the obedience required of recipients (hupakouō, v. 9) -- the same root on both sides. The neutral reading traces this conditional structure across the letter: the wilderness generation was excluded from rest through disobedience (3:18-19, 4:6), the audience is warned not to follow that example (4:11), and later warnings address those who shrink back (10:36-39). The author's own statement is: 'The salvation is eternal; the question is whether the individual remains among those who obey.' This directly addresses human beings as genuine agents whose sustained obedience determines whether they receive salvation, and it functions as part of the author's own central theological argument, not an illustration or aside.",
+            "key_phrases": [
+                "He became the source of eternal salvation for all those who obey Him",
+                "He learned obedience from the things which He suffered",
+                "having been perfected"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:11-14",
+            "section_title": "The Interruption -- Spiritual Regression and the Danger of Dull Hearing",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author interrupts his Melchizedek exposition to rebuke the audience for spiritual regression -- they have become dull listeners who need milk instead of solid food, having retreated from maturity to infancy despite sufficient time to have become teachers.",
+            "relevance": "The neutral reading emphasizes that the audience's regression is described as a change of state they underwent ('have become,' gegonate, perfect tense), not their original or predetermined condition. Maturity is presented as the product of human effort: 'because of practice they have their senses trained to distinguish between good and evil' (5:14). The word hexin (habit, practice) and gegymnasmena (trained through exercise) locate spiritual development squarely in the domain of human agency and sustained effort. The audience 'has abandoned this effort,' implying it was theirs to sustain or forsake. The neutral reading connects this regression to the falling away warning of 6:4-8, making the audience's voluntary disengagement the pathway toward a catastrophe that endangers their salvation. The text does not directly address who determines salvation outcomes, but it presents the trajectory toward or away from salvation as dependent on the audience's own choices about spiritual engagement.",
+            "key_phrases": [
+                "you have become poor listeners",
+                "by this time you ought to be teachers",
+                "you have come to need milk and not solid food",
+                "because of practice have their senses trained to distinguish between good and evil"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

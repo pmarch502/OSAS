@@ -1,0 +1,58 @@
+{
+    "book": "Hebrews",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-2a",
+            "section_title": "God's Speech Then and Now",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author establishes that God, who spoke in fragments through the prophets, has now spoken his final and unified word in a Son, marking the present as the eschatological era."
+        },
+        {
+            "reference": "1:2b-3",
+            "section_title": "Seven Descriptions of the Son",
+            "category": "NOT_APPLICABLE",
+            "summary": "Seven characterizations of the Son — heir, creator, radiance of God's glory, exact impress of God's nature, sustainer of all things, purifier of sins, and enthroned king — establish his identity as one who belongs on the side of God rather than among created beings."
+        },
+        {
+            "reference": "1:4",
+            "section_title": "The Thesis: Son Superior to Angels",
+            "category": "NOT_APPLICABLE",
+            "summary": "The transitional verse states the chapter's thesis — that the Son has become superior to the angels and has inherited a more excellent name — setting up the scriptural proof that follows."
+        },
+        {
+            "reference": "1:5",
+            "section_title": "The Name No Angel Bears",
+            "category": "NOT_APPLICABLE",
+            "summary": "Two scriptural citations (Psalm 2:7 and 2 Samuel 7:14) demonstrate that God has addressed the messianic king as 'My Son' — a singular, direct address never given to any angel."
+        },
+        {
+            "reference": "1:6",
+            "section_title": "The Angels Commanded to Worship",
+            "category": "NOT_APPLICABLE",
+            "summary": "A citation from Deuteronomy 32:43 or Psalm 97:7 establishes that God commands the angels to worship the Son, placing the Son categorically above them as the recipient of worship rather than a fellow worshiper."
+        },
+        {
+            "reference": "1:7-9",
+            "section_title": "What Angels Are and What the Son Is",
+            "category": "NOT_APPLICABLE",
+            "summary": "Two contrasting citations show that angels are created servants likened to changeable wind and fire (Psalm 104:4), while the Son is addressed as God, possessing an eternal throne and anointed above all companions (Psalm 45:6-7)."
+        },
+        {
+            "reference": "1:10-12",
+            "section_title": "The Son as Creator, Creation as Perishable",
+            "category": "NOT_APPLICABLE",
+            "summary": "A citation of Psalm 102:25-27, originally addressed to YHWH, is applied to the Son, crediting him with laying the earth's foundation and possessing an unchanging nature while creation itself wears out and perishes."
+        },
+        {
+            "reference": "1:13-14",
+            "section_title": "The Final Contrast: Enthronement and Angelic Service",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The catena concludes with Psalm 110:1 — God inviting the Son to sit at his right hand — and a final definition of angels as ministering spirits sent to serve those who will inherit salvation.",
+            "relevance": "The neutral reading identifies the audience as 'those who will inherit salvation' and simultaneously as the community in danger of drifting away from their confession. The same people designated as future heirs are the ones the author fears may abandon what they have. This pairing implies that inheriting salvation is not an irrevocable predetermined outcome but remains contingent on the audience's continued faithfulness to the Son — an implication the author will make explicit in 2:1-3. The passage itself does not directly address who determines salvation, but the identification of heirs who might drift creates tension with any reading that treats their salvation as unilaterally secured.",
+            "key_phrases": ["those who will inherit salvation", "sent out to render service for the sake of"],
+            "confidence": "low"
+        }
+    ]
+}

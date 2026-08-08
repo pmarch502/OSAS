@@ -1,0 +1,82 @@
+{
+    "book": "Acts",
+    "chapter": 9,
+    "sections": [
+        {
+            "reference": "9:1-2",
+            "section_title": "Saul's Mission of Persecution",
+            "category": "NOT_APPLICABLE",
+            "summary": "Saul seeks letters from the high priest to arrest followers of the Way in Damascus, continuing the persecution begun at Stephen's death."
+        },
+        {
+            "reference": "9:3-9",
+            "section_title": "The Encounter on the Road",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The risen Jesus confronts Saul on the Damascus road with an overwhelming theophany — light from heaven, a voice calling his name, prostration, and subsequent blindness — completely overriding Saul's plans and redirecting his life.",
+            "relevance": "The divine initiative is total and unsought: Saul was actively opposing the movement when God intervened without any prior openness on Saul's part. The encounter follows the pattern of prophetic theophanies (Abraham, Moses, Samuel, Ezekiel, Daniel) where God overwhelms the human frame and redirects the person's life. Calvinists cite this as a paradigmatic case of irresistible grace. However, the text also shows Saul responding — asking 'Who are You, Lord?', obeying the command to enter the city, and subsequently praying and fasting — so human response is not excluded, even though the initiative is entirely divine. The passage narrates a specific historical event rather than establishing a universal principle about how God saves.",
+            "key_phrases": ["suddenly a light from heaven flashed around him", "he fell to the ground", "Why are you persecuting Me?", "I am Jesus whom you are persecuting", "it will be told to you what you must do", "though his eyes were open, he could see nothing"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "9:10-16",
+            "section_title": "The Vision to Ananias and Saul's Commission",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The Lord directs Ananias to Saul through coordinated visions and identifies Saul as 'a chosen instrument of Mine' commissioned to carry Jesus's name before Gentiles, kings, and the sons of Israel, with suffering as an integral part of the mission.",
+            "relevance": "The phrase 'chosen instrument' (skeuos ekloges, literally 'vessel of election') is cited by Calvinists as evidence that God sovereignly elects individuals for salvation. However, the neutral reading shows that the election here is vocational, not soteriological: Saul is chosen for a specific mission — 'to bear My name before the Gentiles and kings and the sons of Israel.' The neutral reading explicitly notes: 'the election is of an individual for a specific mission, not of a nation for a general identity. Saul is chosen not for privilege but for purpose.' The three audiences (Gentiles, kings, sons of Israel) define the scope of a task assignment, not the terms of personal salvation. The accompanying promise of suffering ('I will show him how much he must suffer') further identifies this as a commission to service, not a decree of individual election to salvation.",
+            "key_phrases": ["he is a chosen instrument of Mine", "to bear My name before the Gentiles and kings and the sons of Israel", "I will show him how much he must suffer in behalf of My name"],
+            "confidence": "high"
+        },
+        {
+            "reference": "9:17-19a",
+            "section_title": "Ananias's Obedience and Saul's Healing",
+            "category": "NOT_APPLICABLE",
+            "summary": "Ananias obeys the Lord's directive, lays hands on Saul, addresses him as 'Brother,' and Saul receives his sight, is filled with the Holy Spirit, is baptized, and takes food."
+        },
+        {
+            "reference": "9:19b-22",
+            "section_title": "Saul Preaching in Damascus",
+            "category": "NOT_APPLICABLE",
+            "summary": "Saul immediately begins proclaiming Jesus as the Son of God in Damascus synagogues, astonishing those who knew him as the persecutor, and grows in strength while proving that Jesus is the Christ."
+        },
+        {
+            "reference": "9:23-25",
+            "section_title": "The Plot Against Saul and His Escape",
+            "category": "NOT_APPLICABLE",
+            "summary": "After many days, the Jews in Damascus plot to kill Saul, but his disciples lower him through the city wall in a basket at night."
+        },
+        {
+            "reference": "9:26-30",
+            "section_title": "Saul in Jerusalem",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Jerusalem disciples fear Saul and do not believe he is a genuine disciple until Barnabas vouches for him; Saul debates Hellenistic Jews who attempt to kill him, and the brothers send him to Tarsus."
+        },
+        {
+            "reference": "9:31",
+            "section_title": "The Peace Summary",
+            "category": "NOT_APPLICABLE",
+            "summary": "The church throughout Judea, Galilee, and Samaria enjoys peace, is built up, walks in the fear of the Lord and the comfort of the Holy Spirit, and keeps increasing."
+        },
+        {
+            "reference": "9:32-35",
+            "section_title": "Peter Heals Aeneas at Lydda",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter heals a paralytic named Aeneas who has been bedridden for eight years, attributing the healing to Jesus Christ, and all who lived at Lydda and Sharon turn to the Lord.",
+            "relevance": "The verb epistrepho ('turned') presents conversion as an active human response — the people of Lydda and Sharon turned toward the Lord after witnessing the healing. The language treats their turning as something they did, not something done to them. The text does not say God turned them or that they were appointed to turn; it says they turned. This presents human agency as operative in the response to God's sign, though the sign itself was an act of divine power through Peter.",
+            "key_phrases": ["they turned to the Lord"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "9:36-43",
+            "section_title": "Peter Raises Tabitha at Joppa",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter raises the disciple Tabitha from death in Joppa, the news spreads, many believe in the Lord, and Peter stays with Simon the tanner — positioning him for the Cornelius episode.",
+            "relevance": "The phrase 'many believed in the Lord' presents faith as a human act of response to the sign of Tabitha's raising. The word 'many' (polloi) rather than 'all' implies that some who heard did not believe, suggesting that belief was a genuine choice — not all responded the same way to the same evidence. The text presents believing as something people do, not as something imposed on them, and the variation in response implies genuine human agency in the outcome.",
+            "key_phrases": ["many believed in the Lord"],
+            "confidence": "medium"
+        }
+    ]
+}

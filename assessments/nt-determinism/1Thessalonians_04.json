@@ -1,0 +1,41 @@
+{
+    "book": "1Thessalonians",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-2",
+            "section_title": "The Transition to Instruction",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul transitions from thanksgiving to exhortation, urging the Thessalonians to continue walking as they were instructed and to increase in their faithfulness."
+        },
+        {
+            "reference": "4:3-8",
+            "section_title": "God's Will Defined -- Sanctification and the Body",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul identifies God's will as the community's sanctification, specifying sexual holiness as its concrete expression, grounded in God's calling and ongoing gift of the Holy Spirit.",
+            "relevance": "The section presents God as initiator (calling into holiness, continually giving the Spirit) but structures the entire passage as exhortation requiring genuine human response: believers must abstain, control their bodies, and not transgress. The verb athetein ('to reject, set aside, nullify') explicitly envisions the real possibility of human rejection of God's instruction. Since the neutral reading ties sanctification directly to eschatological standing before God at the parousia (3:13), human agency in sanctification has implications for salvation outcomes. God enables through Spirit-giving but does not override human responsibility.",
+            "key_phrases": [
+                "this is the will of God, your sanctification",
+                "that you abstain from sexual immorality",
+                "that each one of you know how to control his own body",
+                "God has not called us for impurity, but in holiness",
+                "whoever disregards this, disregards not man but God",
+                "who gives his Holy Spirit to you"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:9-12",
+            "section_title": "Love Taught by God and the Shape of Daily Life",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul affirms that the Thessalonians have been taught by God to love one another and urges them toward quiet, industrious, self-supporting community life that commends the gospel to outsiders."
+        },
+        {
+            "reference": "4:13-18",
+            "section_title": "The Fate of Those Who Have Died and the Lord's Descent",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul addresses the community's grief over members who died before the parousia, assuring them that the dead in Christ will rise first and all believers will be permanently united with the Lord."
+        }
+    ]
+}

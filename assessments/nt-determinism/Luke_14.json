@@ -1,0 +1,68 @@
+{
+    "book": "Luke",
+    "chapter": 14,
+    "sections": [
+        {
+            "reference": "14:1-6",
+            "section_title": "Healing a Man with Dropsy on the Sabbath",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus heals a man with dropsy at the home of a Pharisaic leader on the Sabbath, silencing the lawyers and Pharisees with a qal wa-homer argument they cannot refute."
+        },
+        {
+            "reference": "14:7-11",
+            "section_title": "Teaching about Humility at the Table",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus observes the guests scrambling for places of honor and teaches a principle of divine reversal: God will humble the self-exalting and exalt the self-humbling.",
+            "relevance": "The concluding principle — 'everyone who exalts himself will be humbled, and he who humbles himself will be exalted' — uses the divine passive to indicate that God's action (humbling or exalting) is responsive to human posture and choice. The text presents two possible orientations (self-exaltation and self-humbling) as genuine human decisions that determine God's corresponding response, implying that human agency affects one's standing before God rather than God unilaterally assigning positions.",
+            "key_phrases": ["everyone who exalts himself will be humbled", "he who humbles himself will be exalted"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "14:12-14",
+            "section_title": "Teaching to the Host about Whom to Invite",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus instructs the host to invite the poor, crippled, lame, and blind rather than those who can reciprocate, promising repayment at the resurrection of the righteous."
+        },
+        {
+            "reference": "14:15-24",
+            "section_title": "The Parable of the Great Dinner",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "In response to a guest's pious exclamation about eating bread in the kingdom of God, Jesus tells a parable in which originally invited guests refuse a great dinner because of competing priorities and are permanently excluded, while the poor, crippled, blind, lame, and those from the highways and hedgerows are brought in to fill their places.",
+            "relevance": "The parable directly addresses who participates in the kingdom feast and who is excluded, with human response to the invitation as the determining mechanism. The originally invited guests are excluded not by divine decree but because they chose land, oxen, and marriage over the host's summons. Their refusal is treated as a genuine human decision with final consequences: 'none of those men who were invited shall taste of my dinner.' The master's anger is a response to their choice, not a predetermined outcome. The 'compel them to come in' directed at the highway and hedgerow people is explained by the neutral reading as urgency in persuading those who would not believe the invitation was genuine — overcoming disbelief, not overriding will. The parable functions as Jesus's direct argument about the kingdom of God, correcting the assumption that the religiously established will naturally be included.",
+            "key_phrases": ["they all alike began to make excuses", "none of those men who were invited shall taste of my dinner", "compel them to come in, so that my house may be filled", "Come; for everything is ready now"],
+            "confidence": "high"
+        },
+        {
+            "reference": "14:25-27",
+            "section_title": "The Cost of Following — Hating One's Own",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus turns to the large crowds following him and states two conditions for discipleship — prioritizing him above all family ties and one's own life, and carrying one's cross — each concluded with 'cannot be My disciple.'",
+            "relevance": "The threefold 'cannot be My disciple' formula (vv. 26, 27, 33) presupposes that hearers face a genuine choice about whether to meet these conditions. Discipleship is contingent on human decision and action — hating family and life, carrying the cross — not on divine selection. The neutral reading notes that these demands mirror the parable's excuses: the dinner guests refused because of family and possessions, and now would-be disciples are told these must be subordinated. The implication is that the same human agency that can refuse the invitation must actively choose its demands.",
+            "key_phrases": ["If anyone comes to Me, and does not hate his own father and mother", "cannot be My disciple", "Whoever does not carry his own cross and come after Me cannot be My disciple"],
+            "confidence": "high"
+        },
+        {
+            "reference": "14:28-33",
+            "section_title": "Two Parables about Counting the Cost",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Two parables — a builder calculating costs and a king assessing military strength — illustrate the necessity of deliberate reckoning before committing to discipleship, concluding with the demand to renounce all possessions.",
+            "relevance": "Both parables depict human deliberation as genuine and consequential. The builder 'sits down and calculates'; the king 'sits down and considers.' These verbs of rational assessment presuppose that the outcome depends on the person's own evaluation and decision. The conclusion — 'none of you can be My disciple who does not give up all his own possessions' — presents renunciation as a human act that determines discipleship status. The text assumes real human agency: the capacity to count, decide, and commit or refuse.",
+            "key_phrases": ["does not first sit down and calculate the cost", "will not first sit down and consider", "none of you can be My disciple who does not give up all his own possessions"],
+            "confidence": "high"
+        },
+        {
+            "reference": "14:34-35",
+            "section_title": "Salt That Has Lost Its Taste",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus warns that salt which has lost its saltiness is useless and thrown out, and calls on those with ears to hear.",
+            "relevance": "The salt metaphor warns that a disciple who begins but does not follow through becomes useless and is 'thrown out' — the same verb (ekballo) used in 13:28 for insiders cast out of the kingdom. The warning presupposes that maintaining commitment is the disciple's responsibility and that failure to do so results in exclusion. The call 'He who has ears to hear, let him hear' implies that the hearer has genuine capacity to respond or ignore, placing the outcome on human agency rather than divine predetermination.",
+            "key_phrases": ["if even salt has become tasteless", "it is thrown out", "He who has ears to hear, let him hear"],
+            "confidence": "medium"
+        }
+    ]
+}

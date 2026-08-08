@@ -1,0 +1,39 @@
+{
+    "book": "Matthew",
+    "chapter": 28,
+    "sections": [
+        {
+            "reference": "28:1-8",
+            "section_title": "The Women at the Tomb and the Angel's Announcement",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the discovery of the empty tomb as a theophanic event in which the angel announces the resurrection, the guards are overcome, and the women are commissioned to carry the message to the disciples."
+        },
+        {
+            "reference": "28:9-10",
+            "section_title": "Jesus Meets the Women",
+            "category": "NOT_APPLICABLE",
+            "summary": "The risen Jesus appears bodily to the women, receives their worship, and calls the failed disciples 'my brothers,' restoring the relationship fractured by their desertion during the passion."
+        },
+        {
+            "reference": "28:11-15",
+            "section_title": "The Guards' Report and the Bribery",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the chief priests bribing the Roman guards to spread a fabricated counter-narrative about the disciples stealing the body, addressing an alternative explanation for the empty tomb that was circulating at the time of writing."
+        },
+        {
+            "reference": "28:16-20",
+            "section_title": "The Risen Jesus on the Mountain in Galilee",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the Great Commission in which the risen Jesus declares universal authority, commissions the eleven to make disciples of all nations through baptism and teaching, and promises his continuing presence until the end of the age.",
+            "relevance": "The commission to 'make disciples of all nations' presupposes a universal invitation requiring human response — becoming a disciple involves learning, following, and obeying. The instruction to teach people 'to observe all that I have commanded' explicitly frames discipleship in terms of human obedience, which the neutral reading connects to 7:24-27 where the decisive factor is whether a person 'hears these words of mine and does them.' The varied response in v. 17 — worship alongside doubt — demonstrates that even among those directly encountering the risen Jesus, human response is genuinely varied and not predetermined. The universal scope of 'all nations' cuts against any reading of limited deterministic election.",
+            "key_phrases": [
+                "make disciples of all nations",
+                "teaching them to observe all that I have commanded you",
+                "but some doubted",
+                "all authority in heaven and on earth has been given to me"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

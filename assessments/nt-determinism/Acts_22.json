@@ -1,0 +1,62 @@
+{
+    "book": "Acts",
+    "chapter": 22,
+    "sections": [
+        {
+            "reference": "22:1-2",
+            "section_title": "The Address in Hebrew",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul addresses the Jerusalem crowd from the fortress steps in the Hebrew language, establishing rapport with his hostile audience through shared language and the rhetorical form of a legal defense."
+        },
+        {
+            "reference": "22:3-5",
+            "section_title": "Jewish Credentials and the Former Persecution",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul establishes his Jewish credentials — Jerusalem upbringing, training under Gamaliel, zeal for God, violent persecution of the Way — to build common ground with the crowd before narrating his conversion."
+        },
+        {
+            "reference": "22:6-11",
+            "section_title": "The Damascus Road — Paul's Account",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul narrates his encounter with the risen Jesus on the Damascus road, including the heavenly light at midday, the voice identifying Jesus of Nazareth, and the command to go to Damascus where he would be told all that was appointed for him to do."
+        },
+        {
+            "reference": "22:12-16",
+            "section_title": "Ananias and the Commission",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Ananias, described as a Torah-observant Jew respected by the Jewish community, restores Paul's sight, declares that the God of their fathers appointed Paul to be a witness, and commands Paul to rise, be baptized, wash away his sins, and call on the name of Jesus.",
+            "relevance": "The verb proecherisato ('appointed beforehand') in verse 14 refers to vocational appointment — to know God's will, see the Righteous One, hear his voice, and serve as a witness to all people — not to election to individual salvation. The imperative commands of verse 16 ('rise and be baptized and wash away your sins, calling on his name') present human action as operative in receiving forgiveness of sins. The participial phrase 'calling on his name' echoes Acts 2:21 and Joel 2:32 ('everyone who calls on the name of the Lord shall be saved'), framing the cleansing of sins as connected to a human act of invocation rather than to a unilateral divine decree.",
+            "key_phrases": ["Rise and be baptized and wash away your sins, calling on his name", "The God of our fathers appointed you to know his will, to see the Righteous One", "you will be a witness for him to everyone"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "22:17-21",
+            "section_title": "The Temple Vision and the Commission to the Gentiles",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul recounts a vision received while praying in the temple in which the Lord warned that Jerusalem would not accept his testimony and commanded him to go far away to the Gentiles.",
+            "relevance": "The Lord's prediction that Jerusalem 'will not accept your testimony about me' (verse 18) frames their rejection as their own action — the verb paradechomai presents acceptance or rejection as something the audience does, not as something God decrees upon them. God's response to their anticipated refusal is to redirect Paul's mission to the Gentiles rather than to override their will. The text treats human refusal as genuine and God as working around it rather than predetermining it.",
+            "key_phrases": ["they will not accept your testimony about me", "Go, for I will send you far away to the Gentiles"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "22:22-23",
+            "section_title": "The Eruption",
+            "category": "NOT_APPLICABLE",
+            "summary": "The crowd erupts in fury at the word 'Gentiles,' demanding Paul's death and expressing through physical gestures of outrage that the claim of a divine commission to the nations is intolerable."
+        },
+        {
+            "reference": "22:24-29",
+            "section_title": "Roman Citizenship",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul invokes his Roman citizenship to prevent judicial flogging, causing the tribune and soldiers to withdraw immediately and shifting his legal treatment from that of a provincial subject to a protected citizen."
+        },
+        {
+            "reference": "22:30",
+            "section_title": "The Tribune's Next Step",
+            "category": "NOT_APPLICABLE",
+            "summary": "The tribune, unable to determine the cause of the disturbance, convenes the Sanhedrin to examine Paul under Roman oversight, transitioning the case from mob violence to institutional judicial proceedings."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "book": "Hebrews",
+    "chapter": 9,
+    "sections": [
+        {
+            "reference": "9:1-5",
+            "section_title": "The Earthly Sanctuary and Its Furnishings",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author catalogues the physical layout and furnishings of the tabernacle's two rooms -- the Holy Place and the Holy of Holies -- to establish the setting in which Levitical worship operated."
+        },
+        {
+            "reference": "9:6-10",
+            "section_title": "The Levitical Ritual and Its Built-In Limitation",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author contrasts the priests' unrestricted access to the outer room with the high priest's severely restricted annual entry into the inner room, arguing that the tabernacle's own structure signified that the way into God's full presence had not yet been disclosed and that the old sacrifices could not perfect the worshiper's conscience."
+        },
+        {
+            "reference": "9:11-12",
+            "section_title": "Christ's Entry into the Heavenly Sanctuary",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author declares that Christ entered the heavenly sanctuary -- not made with hands and not of this creation -- through his own blood rather than animal blood, obtaining eternal redemption in a single, unrepeatable act."
+        },
+        {
+            "reference": "9:13-14",
+            "section_title": "The 'How Much More' Argument",
+            "category": "NOT_APPLICABLE",
+            "summary": "Using a lesser-to-greater argument, the author reasons that if animal blood and heifer ashes could cleanse the body, how much more will the blood of Christ -- who offered himself voluntarily, without blemish, through the eternal Spirit -- cleanse the conscience from dead works to serve the living God."
+        },
+        {
+            "reference": "9:15-17",
+            "section_title": "Mediator of a New Covenant Through Death",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The author explains that Christ is the mediator of a new covenant inaugurated through his death, which retroactively redeems violations committed under the first covenant, so that those who have been called may receive the promise of the eternal inheritance.",
+            "relevance": "The beneficiaries of Christ's covenant-inaugurating death are identified as 'those who have been called' (hoi keklemenoi), using a perfect passive participle that denotes divine initiative -- God does the calling. The language frames the reception of the eternal inheritance as flowing from a prior divine act of calling rather than from independent human decision. However, the phrase functions as an assumed identifier of the covenant community rather than an argued claim about the mechanism of selection, and the author does not develop whether this calling is irresistible or can be refused.",
+            "key_phrases": ["those who have been called", "may receive the promise of the eternal inheritance"],
+            "confidence": "low"
+        },
+        {
+            "reference": "9:18-22",
+            "section_title": "The Blood Requirement and the First Covenant's Inauguration",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author demonstrates from the Sinai inauguration narrative that the first covenant required blood for its ratification and establishes the principle that without the shedding of blood there is no forgiveness."
+        },
+        {
+            "reference": "9:23-24",
+            "section_title": "Heavenly Things Require Better Sacrifices",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author argues that if earthly copies required animal blood for purification, the heavenly originals required better sacrifices, and that Christ entered heaven itself -- not a handmade copy -- to appear in the presence of God on our behalf."
+        },
+        {
+            "reference": "9:25-26",
+            "section_title": "The Unrepeatable Character of the Offering",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author denies that Christ offers himself repeatedly like the annual Levitical entry, arguing instead that he was manifested once at the consummation of the ages to put away sin by the sacrifice of himself."
+        },
+        {
+            "reference": "9:27-28",
+            "section_title": "Death, Judgment, and the Second Appearing",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author parallels the universal human appointment of death-then-judgment with Christ's sequence of offering-then-appearing, declaring that Christ was offered once to bear the sins of many and will appear a second time -- apart from sin -- for salvation, to those who eagerly await him.",
+            "relevance": "The recipients of salvation at Christ's second appearing are identified not by a prior divine decree or a past moment of belief but by their present ongoing posture: 'those who eagerly await Him' (tois auton apekdechomenois). The present participle describes a continuous human disposition -- active, sustained expectation. The neutral reading connects this to the author's sustained pattern throughout the letter, where salvation's beneficiaries are consistently identified by present participles describing ongoing faithfulness (7:25, 'those who come to God through Him'; 3:6, 'if we hold fast'; 3:14, 'if we hold the beginning of our assurance firm until the end'; 10:39, 'those who have faith to the preserving of the soul'). The author could have identified the recipients as 'the called' or 'those who once believed,' but instead chose language that makes their ongoing human response the identifying marker of who receives final salvation.",
+            "key_phrases": ["to those who eagerly await Him", "will appear a second time for salvation without reference to sin"],
+            "confidence": "high"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "book": "2Timothy",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-2",
+            "section_title": "The Solemn Charge -- Preach the Word",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul issues his most solemn charge to Timothy, before God and Christ Jesus who will judge the living and the dead, commanding him to preach the word and to reprove, rebuke, and exhort with complete patience and teaching.",
+            "relevance": "The entire charge presupposes that preaching, reproving, rebuking, and exhorting can genuinely affect people's standing before God -- activities that would be pointless if salvation outcomes were unilaterally determined. The framework of Christ as judge of the living and the dead implies accountability, which in turn implies genuine human capacity to respond to the proclaimed word.",
+            "key_phrases": ["preach the word", "reprove, rebuke, and exhort", "who is to judge the living and the dead", "with complete patience and teaching"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:3-4",
+            "section_title": "The Coming Rejection of Sound Teaching",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul warns that a time is coming when people will not endure sound teaching but will accumulate teachers to suit their own passions, turn away from truth, and wander into myths.",
+            "relevance": "The four-step deterioration is driven entirely by human choice: people will not endure sound teaching, they will select teachers according to their own desires, they will actively divert their hearing from the truth, and they will drift into myths. The neutral reading emphasizes that the hearers -- not God -- are the agents of this trajectory. The phrase 'according to their own desires' explicitly locates the governing criterion in human will, not divine decree.",
+            "key_phrases": ["will not endure sound teaching", "according to their own desires", "accumulate for themselves teachers to suit their own passions", "turn away from listening to the truth", "wander off into myths"],
+            "confidence": "high"
+        },
+        {
+            "reference": "4:5",
+            "section_title": "The Counter-Command to Timothy",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul commands Timothy to be sober-minded, endure suffering, do the work of an evangelist, and fulfill his ministry -- four vocational directives that counter the four stages of deterioration in verses 3-4."
+        },
+        {
+            "reference": "4:6-8",
+            "section_title": "Paul's Final Testimony -- The Fight Finished, the Crown Awaiting",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes his approaching death as a sacrificial offering, summarizes his completed ministry with three perfect-tense verbs (fought the fight, finished the race, kept the faith), and declares that the crown of righteousness awaits not only him but all who have loved Christ's appearing.",
+            "relevance": "The crown of righteousness is conditioned on a human posture: 'all who have loved his appearing.' The perfect participle indicates a settled, enduring orientation -- a sustained human choice. The neutral reading emphasizes the deliberate contrast with Demas in verse 10 (same verb 'love,' different objects), framing the two orientations as genuinely chosen. The eschatological reward corresponds to human faithfulness (fighting, finishing, keeping the faith), not to unilateral divine assignment. The righteous judge awards the crown 'according to' reality -- the system is presented as fair and responsive to human conduct.",
+            "key_phrases": ["I have fought the good fight", "I have finished the race", "I have kept the faith", "the crown of righteousness", "the righteous judge will award", "all who have loved his appearing"],
+            "confidence": "high"
+        },
+        {
+            "reference": "4:9-13",
+            "section_title": "Personal Requests -- Desertion, Companionship, and Practical Needs",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul asks Timothy to come quickly because Demas has deserted him, having loved this present world, while others have departed on various missions; Paul requests his cloak, books, and parchments.",
+            "relevance": "Demas's desertion is presented as a genuine human choice: he 'loved this present world' and therefore deserted Paul. The neutral reading identifies this as a deliberate verbal contrast with verse 8 -- those who love Christ's appearing receive the crown, while Demas loved the present age instead. The two loves are presented as mutually exclusive orientations that the person adopts, not as divinely assigned dispositions. Demas was a trusted co-worker (Colossians 4:14; Philemon 24) whose defection represents a real choice, not an inevitable outcome.",
+            "key_phrases": ["Demas, in love with this present world, has deserted me", "having loved this present age"],
+            "confidence": "high"
+        },
+        {
+            "reference": "4:14-15",
+            "section_title": "Alexander the Coppersmith -- Harm and Warning",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul warns Timothy about Alexander the coppersmith, who did Paul great harm and strongly opposed the apostolic message, and declares that the Lord will repay him according to his deeds.",
+            "relevance": "The principle 'the Lord will repay him according to his deeds' presupposes that Alexander's harmful actions were genuinely his own and that divine judgment responds to human conduct. The same verb (apodidonai) used in verse 8 for the Lord's awarding of the crown is used here for repayment -- the righteous judge renders what is deserved in both directions. The framework assumes human accountability for choices made, not predetermined outcomes.",
+            "key_phrases": ["the Lord will repay him according to his deeds", "he strongly opposed our message"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:16-18",
+            "section_title": "The First Defense -- Desertion by All, Rescue by the Lord",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul recounts how all deserted him at his first legal defense but the Lord stood by him and strengthened him for gospel proclamation; he expresses confidence that the Lord will rescue him from every evil deed and bring him into the heavenly kingdom, and prays that the deserters not be charged.",
+            "relevance": "The passage operates within a framework of human accountability and divine responsiveness. The desertion by all at the trial is presented as a genuine human failure -- serious enough to potentially be 'charged against them,' yet forgivable (Paul prays it will not be). The Lord's rescue and bringing Paul into the heavenly kingdom come in the context of Paul's faithfulness (the completed fight, race, and faith of verses 6-8), not as an arbitrary divine determination. Paul's prayer for the deserters echoes Jesus' and Stephen's prayers, treating the failure as a real human choice that requires grace rather than an outcome predetermined by God.",
+            "key_phrases": ["all deserted me", "may it not be charged against them", "the Lord stood by me and strengthened me", "the Lord will rescue me from every evil deed and bring me safely into his heavenly kingdom"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:19-22",
+            "section_title": "Final Greetings, Last Instructions, and Closing",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul sends greetings to Prisca, Aquila, and the household of Onesiphorus, provides final travel notes, relays greetings from believers in Rome, and closes with the benediction 'The Lord be with your spirit; grace be with you.'"
+        }
+    ]
+}

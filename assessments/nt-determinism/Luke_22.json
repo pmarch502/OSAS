@@ -1,0 +1,90 @@
+{
+    "book": "Luke",
+    "chapter": 22,
+    "sections": [
+        {
+            "reference": "22:1-6",
+            "section_title": "The Conspiracy and the Return of Satan",
+            "category": "NOT_APPLICABLE",
+            "summary": "The chief priests and scribes seek a way to kill Jesus, and Satan enters Judas, who consents to betray Jesus apart from the crowd."
+        },
+        {
+            "reference": "22:7-13",
+            "section_title": "Preparation of the Passover",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus sends Peter and John to prepare the Passover meal, giving precise instructions that are fulfilled exactly as he said, demonstrating his sovereign foreknowledge and orchestration of events."
+        },
+        {
+            "reference": "22:14-20",
+            "section_title": "The Passover Meal Reinterpreted",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus reinterprets the Passover around his own body and blood, identifying the cup as the new covenant promised in Jeremiah 31, ratified by his blood poured out for the apostles."
+        },
+        {
+            "reference": "22:21-23",
+            "section_title": "The Betrayer at the Table",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jesus identifies the betrayer as present at the table and declares that the Son of Man goes as it has been determined, while pronouncing woe on the one who betrays him.",
+            "relevance": "The verb horizo ('to fix, appoint, determine') is applied to the Son of Man's path to death -- the central salvation-history event. The neutral reading notes that 'divine necessity and human moral responsibility coexist without the author attempting to resolve the tension.' The determination language (kata to horismenon) is strong and echoes Acts 2:23 ('the predetermined plan and foreknowledge of God'), but the simultaneous pronouncement of woe on the betrayer maintains genuine human accountability within the determined plan. The passage does not present divine determination as eliminating human agency; rather, both operate simultaneously on the same event.",
+            "key_phrases": ["the Son of Man is going as it has been determined", "woe to that man by whom He is betrayed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "22:24-30",
+            "section_title": "The Dispute about Greatness and the Covenant Grant of a Kingdom",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "After the apostles dispute about rank, Jesus redefines greatness as service, acknowledges that the apostles have stood by him in his trials, and covenantally grants them a share in his kingdom including thrones over the twelve tribes of Israel.",
+            "relevance": "The covenant grant of kingdom participation is explicitly connected to the apostles' faithful endurance: 'You are those who have stood by Me in My trials.' The verb diatithemai ('I grant, I covenant') is used for both the Father's grant to Jesus and Jesus's grant to the apostles, making the chain covenantal rather than arbitrary. The apostles' standing by Jesus through his trials is presented as a genuine condition of the grant -- their faithfulness matters for receiving the kingdom. This implies human agency as a real factor in receiving what God covenantally bestows.",
+            "key_phrases": ["You are those who have stood by Me in My trials", "just as My Father has granted Me a kingdom, I grant you"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "22:31-34",
+            "section_title": "Satan's Demand and Peter's Coming Failure",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus reveals that Satan has demanded permission to sift all the apostles like wheat, but that he has prayed specifically for Peter that his faith would not fail, and predicts Peter's triple denial and subsequent restoration.",
+            "relevance": "The passage presents the survival of faith as dependent on Jesus's intercessory prayer rather than on Peter's own strength. Satan must request permission to test (echoing the Job framework, implying divine sovereignty over spiritual testing). Jesus prays not that Peter would avoid falling but that his faith would not be 'utterly extinguished' (ekleipo) -- the fall is certain, but the preservation of faith through the fall is attributed to divine initiative. The neutral reading concludes that 'the community does not survive by its own strength but by Jesus's intercession.' At the same time, Peter's turning back (epistrepsas) is presented as a genuine act of repentance using the standard LXX word for returning to God, and the bitter weeping is the first movement of that return. Faith survives by Jesus's prayer; restoration requires Peter's genuine response.",
+            "key_phrases": ["Satan has demanded permission to sift you like wheat", "I have prayed for you, that your faith may not fail", "when once you have turned again, strengthen your brothers"],
+            "confidence": "high"
+        },
+        {
+            "reference": "22:35-38",
+            "section_title": "The Changed Era and the Fulfillment of Isaiah 53",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus contrasts the earlier mission period of providential protection with the changed circumstances now arriving, and identifies himself as the subject of Isaiah 53:12 who must be numbered with transgressors."
+        },
+        {
+            "reference": "22:39-46",
+            "section_title": "Prayer on the Mount of Olives",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus prays on the Mount of Olives, asking that the cup be removed but submitting to the Father's will, while the disciples fail to pray against temptation and fall asleep from sorrow."
+        },
+        {
+            "reference": "22:47-53",
+            "section_title": "The Arrest and the Hour of Darkness",
+            "category": "NOT_APPLICABLE",
+            "summary": "Judas betrays Jesus with a kiss, a disciple strikes with a sword but Jesus stops the violence and heals the wound, and Jesus identifies the arrest as the exercise of the power of darkness at the determined hour."
+        },
+        {
+            "reference": "22:54-62",
+            "section_title": "Peter's Denial",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter follows at a distance, denies Jesus three times exactly as predicted, and after the rooster crows and Jesus looks at him, Peter remembers the Lord's word and weeps bitterly, beginning the process of turning back that Jesus foretold."
+        },
+        {
+            "reference": "22:63-65",
+            "section_title": "Mocking and Beating",
+            "category": "NOT_APPLICABLE",
+            "summary": "The guards mock Jesus by blindfolding him and demanding he prophesy who struck him, ironically unaware that every prophecy Jesus made in this chapter has been fulfilled with precise accuracy."
+        },
+        {
+            "reference": "22:66-71",
+            "section_title": "Before the Council",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Sanhedrin asks whether Jesus is the Christ; he responds that telling them would be futile since they will not believe, then declares that from now on the Son of Man will be seated at God's right hand, which the council correctly infers as a claim to be the Son of God and treats as self-incriminating testimony."
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "book": "Mark",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1",
+            "section_title": "The Opening Declaration",
+            "category": "NOT_APPLICABLE",
+            "summary": "The superscription identifies Jesus as Christ and Son of God, establishing his identity and role within Israel's scriptural expectations without addressing the question of how individuals come to participate in the salvation he brings."
+        },
+        {
+            "reference": "1:2-3",
+            "section_title": "The Scriptural Foundation",
+            "category": "NOT_APPLICABLE",
+            "summary": "The composite citation from Malachi and Isaiah frames the narrative as the fulfillment of God's promise to return to his people and end exile, establishing the theological setting for the story without addressing the mechanism by which individuals respond to or are included in that restoration."
+        },
+        {
+            "reference": "1:4-8",
+            "section_title": "John in the Wilderness",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "John appears proclaiming a baptism of repentance for the forgiveness of sins, and the people of Judea and Jerusalem come out to him, are baptized in the Jordan, and confess their sins.",
+            "relevance": "The entire structure of John's activity presupposes genuine human agency. The call to repentance (metanoia, the prophetic call to 'turn back') assumes the capacity to turn. The crowds come voluntarily, confess their own sins, and submit to baptism — all presented as genuine human acts in response to a prophetic summons. The neutral reading identifies repentance as 'a prophetic call to turn back from the direction that led to exile,' treating it as a real human action, not a divinely imposed change of state.",
+            "key_phrases": ["baptism of repentance for the forgiveness of sins", "confessing their sins", "all the country of Judea and all the people of Jerusalem were going out to him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:9-11",
+            "section_title": "Jesus' Immersion and the Heavenly Declaration",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus is baptized by John, the heavens are torn open, the Spirit descends on him, and the heavenly voice identifies him as the beloved Son by fusing Psalm 2 (Davidic king) with Isaiah 42 (Suffering Servant), establishing his identity and anointing for mission."
+        },
+        {
+            "reference": "1:12-13",
+            "section_title": "The Spirit Drives Jesus Into the Wilderness",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Spirit forcibly propels Jesus into the wilderness for forty days of testing by Satan, where he is with wild animals and served by angels, recapitulating Israel's wilderness experience and demonstrating that the anointed one does not set his own agenda but is directed by the Spirit."
+        },
+        {
+            "reference": "1:14-15",
+            "section_title": "Jesus Begins Proclaiming in Galilee",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "After John's arrest, Jesus proclaims in Galilee that the time is fulfilled, the kingdom of God has come near, and people must repent and believe in the good news.",
+            "relevance": "Jesus' proclamation contains two imperatives directed at human beings: 'repent' and 'believe in the good news.' The neutral reading explicitly identifies these as 'the human response demanded by God's approaching reign.' The structure is that God acts (the kingdom arrives) and humans must respond (repent and trust). The passage presents divine initiative and human response as complementary, not competitive — God's kingdom coming near does not render human repentance and faith unnecessary but rather demands them. The command form presupposes genuine capacity to obey.",
+            "key_phrases": ["repent and believe in the good news", "the human response demanded by God's approaching reign", "the good news — that God's kingdom is arriving — demands a response of trust"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:16-20",
+            "section_title": "Calling the First Followers",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus calls Simon, Andrew, James, and John from their fishing work; in each case the pattern is identical — Jesus sees, Jesus calls, they immediately abandon nets, livelihood, and family to follow.",
+            "relevance": "The neutral reading describes the call as producing instantaneous, total response with 'no indication of prior acquaintance, prior teaching, or gradual persuasion,' and characterizes the narrative effect as demonstrating 'the irresistible authority of Jesus' word.' The pattern — Jesus initiates, the response is automatic and absolute — presents Jesus' call as effectively determining the outcome without visible deliberation or choice on the part of those called. However, this is vocational calling to discipleship and mission ('fishers of men'), not directly a statement about who determines salvation outcomes, which reduces its bearing on the narrow question.",
+            "key_phrases": ["immediately left their nets and followed him", "the call is sudden, the authority behind it is total, and the response is instantaneous and absolute", "irresistible authority of Jesus' word"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:21-28",
+            "section_title": "Teaching and Authority in Capernaum",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus teaches with intrinsic authority in the Capernaum synagogue, exorcises an unclean spirit that recognizes him as 'the Holy One of God,' and commands it to silence, demonstrating authority over both the realm of teaching and the spiritual realm."
+        },
+        {
+            "reference": "1:29-31",
+            "section_title": "Healing in Simon's House",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus heals Simon's mother-in-law of a fever by taking her hand and raising her up, and she responds by serving — an act described with the same vocabulary used for the angels' ministry to Jesus in the wilderness."
+        },
+        {
+            "reference": "1:32-34",
+            "section_title": "Evening Healings at the Door",
+            "category": "NOT_APPLICABLE",
+            "summary": "After sundown ends the Sabbath, the whole city brings the sick and demon-possessed to Jesus; he heals many and silences the demons because they know his identity, continuing the pattern of Jesus controlling the revelation of who he is."
+        },
+        {
+            "reference": "1:35-39",
+            "section_title": "Withdrawal, Prayer, and Expansion",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus withdraws to pray before dawn, refuses to stay in Capernaum despite popular demand, and defines his mission as proclamation rather than healing, then travels throughout Galilee preaching and casting out demons."
+        },
+        {
+            "reference": "1:40-45",
+            "section_title": "Cleansing a Leper",
+            "category": "NOT_APPLICABLE",
+            "summary": "A leper appeals to Jesus' willingness and power, Jesus touches him and cleanses him, directs him to follow the Levitical procedure for readmission to the community, but the man disobeys and spreads the news, resulting in Jesus being pushed to desolate places while people stream out to find him."
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "book": "John",
+    "chapter": 14,
+    "sections": [
+        {
+            "reference": "14:1-4",
+            "section_title": "The Troubled Heart and the Dwelling Places",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus reassures troubled disciples by promising dwelling places in the Father's house and his return to take them to himself, addressing the crisis of his imminent departure."
+        },
+        {
+            "reference": "14:5-7",
+            "section_title": "Thomas's Question and the Declaration of the Way",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus identifies himself as the way, truth, and life in response to Thomas's question, declaring that access to the Father comes exclusively through him."
+        },
+        {
+            "reference": "14:8-11",
+            "section_title": "Philip's Request and the Mutual Indwelling of Father and Son",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus responds to Philip's request for a theophany by declaring that seeing Jesus is seeing the Father, grounding this in the mutual indwelling of Father and Son."
+        },
+        {
+            "reference": "14:12-14",
+            "section_title": "Greater Works and Prayer in Jesus's Name",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus promises that believers will do works greater in scope than his own because he goes to the Father, and that prayer offered in his name will be answered."
+        },
+        {
+            "reference": "14:15-17",
+            "section_title": "The First Promise of the Parakletos",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus links love for him with commandment-keeping as a genuine contingency, promises another Helper (the Spirit of truth), and contrasts the disciples who can receive the Spirit with the world that cannot.",
+            "relevance": "The conditional 'if you love me' (ean agapate me) is identified by the neutral reading as a third-class condition indicating genuine contingency, presenting the disciples' love and obedience as a real human choice rather than a determined outcome. The world's inability to receive the Spirit is explained not as arbitrary divine exclusion but as the consequence of the world's own character: 'a world that has chosen darkness cannot perceive a Spirit whose nature is truth.' The inability is self-caused, arising from the world's rejection of light (cf. 3:19), not from a unilateral divine decree withholding the Spirit.",
+            "key_phrases": [
+                "If you love me, you will keep my commandments",
+                "whom the world cannot receive, because it neither sees him nor knows him",
+                "a world that has chosen darkness cannot perceive a Spirit whose nature is truth"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "14:18-20",
+            "section_title": "Not Orphans -- The Promise of Jesus's Return and Mutual Indwelling",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus promises not to leave the disciples as orphans, assuring them of his continued life and the extension of the Father-Son mutual indwelling to include them."
+        },
+        {
+            "reference": "14:21-24",
+            "section_title": "Love, Obedience, and the Dwelling of Father and Son with the Believer",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus defines the condition for divine self-manifestation and indwelling: whoever loves him and keeps his commandments receives the Father's love, Jesus's self-disclosure, and the joint indwelling of Father and Son, while whoever does not love him does not keep his words.",
+            "relevance": "The conditional 'if anyone loves me' (ean tis agapa me) uses the indefinite pronoun tis, presenting the condition as genuinely open to anyone who meets it. The neutral reading emphasizes that the self-manifestation is 'conditioned on love-as-obedience' and that 'love and obedience are inseparable in both directions.' When Judas asks why Jesus manifests to the disciples and not the world, Jesus does not answer with a decree-based explanation (God chose you, not them) but with a condition-based one: the manifestation comes to whoever loves and obeys. The distinction between the community and the world is drawn on the basis of human response, not divine selection. The negative counterpart -- 'whoever does not love me does not keep my words' -- frames the failure as a human failure rather than a result of divine withholding.",
+            "key_phrases": [
+                "Whoever has my commandments and keeps them, he it is who loves me",
+                "If anyone loves me, he will keep my word, and my Father will love him, and we will come to him and make our home with him",
+                "Whoever does not love me does not keep my words"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "14:25-26",
+            "section_title": "The Spirit's Teaching Ministry",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus promises that the Holy Spirit, sent by the Father in Jesus's name, will teach the disciples all things and bring to their remembrance what Jesus has said."
+        },
+        {
+            "reference": "14:27-29",
+            "section_title": "The Gift of Peace and the Going to the Father",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus bequeaths his peace to the disciples, repeats the command not to be troubled, explains that his going to the Father should occasion rejoicing, and notes that prior announcement transforms crisis into faith-confirmation."
+        },
+        {
+            "reference": "14:30-31",
+            "section_title": "The Ruler of This World and the Command to Depart",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus declares that the ruler of this world has no claim on him and that his submission to the coming death is obedience to the Father's command, then issues the command to rise and depart toward the cross."
+        }
+    ]
+}

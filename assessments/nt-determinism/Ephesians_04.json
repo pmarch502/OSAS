@@ -1,0 +1,68 @@
+{
+    "book": "Ephesians",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-3",
+            "section_title": "The Exhortation to Walk Worthily",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author urges the community to walk worthy of the calling with which they were called, specifying the relational virtues required (humility, gentleness, patience, bearing with one another in love) and the active effort needed to maintain the Spirit's unity.",
+            "relevance": "The calling is God's initiative (passive: 'you were called'), but the entire exhortation presupposes genuine human agency in responding: the recipients must walk worthily, cultivate specific virtues, and be 'eager to maintain' the unity. The text presents a model in which God initiates the calling but the community's conduct in response is a genuine, non-predetermined human responsibility that affects their standing before God.",
+            "key_phrases": ["walk worthy of the calling with which you were called", "with all humility and gentleness, with patience, bearing with one another in love", "eager to maintain the unity of the Spirit in the bond of peace"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:4-6",
+            "section_title": "The Seven Unities",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author enumerates seven expressions of the community's oneness -- one body, one Spirit, one hope, one Lord, one faith, one baptism, one God and Father of all -- as the theological ground for the exhortation to unity."
+        },
+        {
+            "reference": "4:7-11",
+            "section_title": "Grace Given and Gifts Distributed",
+            "category": "NOT_APPLICABLE",
+            "summary": "Christ distributes ministry gifts to each member according to his own measure, and the author cites Psalm 68:18 to ground Christ's gift-giving in his triumphal ascension, specifying the gifted persons (apostles, prophets, evangelists, shepherd-teachers) given to the community."
+        },
+        {
+            "reference": "4:12-16",
+            "section_title": "The Purpose of the Gifts -- Building Up the Body",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The gifted persons exist to equip the saints for ministry and build up the body toward corporate maturity, so that the community is no longer tossed about by deceptive teaching but grows in truth and love toward Christ the head.",
+            "relevance": "The passage presupposes that believers' spiritual trajectories are not predetermined: they face genuine danger of being 'tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes.' The community must actively grow, speak truth in love, and contribute to the body's edification. The vulnerability to deception and the necessity of active participation in growth imply that the community's spiritual outcome depends on genuine human response, not on a fixed divine determination.",
+            "key_phrases": ["so that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine", "by human cunning, by craftiness in deceitful schemes", "speaking the truth in love, we are to grow up in every way into him who is the head"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:17-19",
+            "section_title": "The Gentile Way of Life to Be Abandoned",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author solemnly commands the gentile recipients to abandon the pagan way of life, diagnosing the unconverted gentile condition as a causal chain from hardness of heart through ignorance to alienation from God's life and moral degradation, culminating in their self-surrender to sensuality.",
+            "relevance": "The neutral reading identifies a critical distinction: in Romans 1:24, 26, 28, God is the subject who 'gave them over,' but here in 4:19 the gentiles themselves are the subject -- 'they gave themselves over to sensuality.' The gentile condition is presented as self-inflicted rather than divinely imposed. The causal chain (hardness of heart produces ignorance, which produces alienation, which produces darkened understanding, which produces futile living) traces the origin of the condition to human hardness of heart, not to a divine decree. This bears on the question because it attributes estrangement from God to human agency rather than to divine determination.",
+            "key_phrases": ["they have become callous and have given themselves up to sensuality", "due to their hardness of heart", "alienated from the life of God because of the ignorance that is in them"],
+            "confidence": "high"
+        },
+        {
+            "reference": "4:20-24",
+            "section_title": "The Contrast -- What the Recipients Learned",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author contrasts the gentile condition with what the recipients learned in Christ: to put off the old humanity corrupted by deceitful desires, to be renewed in the spirit of their minds, and to put on the new humanity created after God's likeness in true righteousness and holiness.",
+            "relevance": "The passage presents both divine action and genuine human responsibility operating together. God creates the new humanity (4:24, 'created after the likeness of God'), and the renewal of the mind is in the passive voice ('to be renewed,' implying divine agency). But the recipients are commanded to actively 'put off' the old self and 'put on' the new -- these are genuine human actions, not automatic divine operations. The text presupposes that the recipients can and must choose to adopt what God has made available. The transformation is neither purely divine imposition nor purely human effort, but the emphasis on commanded human action implies that the recipients' standing depends on their genuine response.",
+            "key_phrases": ["that is not the way you learned Christ", "to put off your old self", "to be renewed in the spirit of your minds", "to put on the new self, created after the likeness of God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:25-32",
+            "section_title": "The Specific Behaviors of the New Humanity",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author specifies behaviors that illustrate the new humanity: truth-telling, prompt resolution of anger, honest labor aimed at generosity, edifying speech, not grieving the Holy Spirit, removal of destructive vices, and mutual forgiveness patterned on God's forgiveness in Christ.",
+            "relevance": "The sustained series of ethical commands presupposes genuine human agency throughout: the recipients can choose truth or falsehood, can resolve or harbor anger, can steal or give, can speak corruptly or edifyingly, can grieve or honor the Spirit. Most significantly, 4:30 warns 'do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption' -- the possibility of grieving the very Spirit who sealed them implies that their conduct is not predetermined by the Spirit. The neutral reading notes the logic is 'consequential, not transactional,' but the command itself presupposes that the sealed community has genuine capacity to act contrary to the Spirit's purposes, which is inconsistent with strict determinism of the community's behavior.",
+            "key_phrases": ["do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption", "let all bitterness and wrath and anger and clamor and slander be put away from you", "be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you"],
+            "confidence": "medium"
+        }
+    ]
+}

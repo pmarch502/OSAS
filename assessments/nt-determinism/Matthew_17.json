@@ -1,0 +1,40 @@
+{
+    "book": "Matthew",
+    "chapter": 17,
+    "sections": [
+        {
+            "reference": "17:1-8",
+            "section_title": "The Transfiguration: Glory on the Mountain",
+            "category": "NOT_APPLICABLE",
+            "summary": "Three disciples witness Jesus transfigured in divine glory on a mountain, with Moses and Elijah appearing alongside him, and the Father's voice declares Jesus the beloved Son whom the disciples must hear, correcting Peter's attempt to place Jesus as one among three equals."
+        },
+        {
+            "reference": "17:9-13",
+            "section_title": "The Question About Elijah",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus identifies John the Baptist as the fulfillment of the Elijah expectation, establishes a pattern in which God's messengers are not recognized and are killed by those who 'did to him whatever they pleased,' and links the forerunner's fate to the Son of Man's coming suffering."
+        },
+        {
+            "reference": "17:14-21",
+            "section_title": "The Disciples' Failure and the Healing of the Boy",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The disciples fail to heal a demon-possessed boy despite having been given authority over unclean spirits, and Jesus diagnoses the failure as 'little faith' (oligopistia), teaching that even mustard-seed-sized genuine faith would make nothing impossible.",
+            "relevance": "The passage presents faith as a genuine human responsibility whose quality determines outcomes. The disciples had been given divine authority at 10:1, so their failure cannot be attributed to God withholding power; the neutral reading locates the problem entirely in the disciples' insufficient trust. Jesus's term 'little faith' (oligopistia) — not 'no faith' (apistia) — implies a spectrum of human response for which the disciples are held accountable. The mustard seed saying reinforces this: even a tiny amount of authentic, undivided trust is sufficient, while a large amount of 'divided, anxious, doubting pseudo-faith accomplishes nothing.' The neutral reading frames the principle explicitly: 'The impossible becomes possible not because of human capacity but because faith connects the person to the God for whom nothing is impossible.' Faith is the human act that engages divine power, and its quality is the operative variable. The broader indictment — 'O faithless and twisted generation,' drawn from Deuteronomy 32 — places faithlessness as a culpable human failure within Israel's pattern of covenant unfaithfulness, not as a divinely imposed condition. The passage addresses healing rather than eternal salvation directly, preventing a STRONG categorization.",
+            "key_phrases": ["because of your little faith", "O faithless and twisted generation", "if you have faith like a grain of mustard seed", "nothing will be impossible for you", "they could not heal him", "I brought him to your disciples, and they could not heal him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "17:22-23",
+            "section_title": "The Second Passion Prediction",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus predicts for the second time that the Son of Man will be delivered into human hands, killed, and raised on the third day, with the disciples responding in great distress but no longer rebuking him as Peter did after the first prediction."
+        },
+        {
+            "reference": "17:24-27",
+            "section_title": "The Temple Tax: Sons and Strangers",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus teaches that as sons of the king he and the disciples are free from the Temple tax but voluntarily pays it to avoid causing offense, providing for both himself and Peter through a coin found in a fish's mouth in an act of self-limitation that enacts the principle of losing one's life for the sake of others."
+        }
+    ]
+}

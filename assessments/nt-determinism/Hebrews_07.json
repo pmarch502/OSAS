@@ -1,0 +1,62 @@
+{
+    "book": "Hebrews",
+    "chapter": 7,
+    "sections": [
+        {
+            "reference": "7:1-3",
+            "section_title": "The Scriptural Portrait of Melchizedek",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author draws from Genesis 14 to present Melchizedek as a priest-king whose scriptural portrayal -- without genealogy, beginning, or end -- makes him a type of the Son of God and establishes the basis for a perpetual priesthood."
+        },
+        {
+            "reference": "7:4-10",
+            "section_title": "The Greatness of Melchizedek Demonstrated Through Abraham",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author demonstrates Melchizedek's superiority over Abraham and, by corporate representation, over the entire Levitical priesthood through the facts that Abraham paid tithes to Melchizedek and received his blessing."
+        },
+        {
+            "reference": "7:11-14",
+            "section_title": "The Insufficiency of the Levitical Priesthood and the Need for a New Order",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author argues that the Levitical priesthood failed to achieve perfection (full access to God), that God's announcement of a Melchizedekian priest in Psalm 110:4 proves this insufficiency, and that a change of priesthood necessitates a change of law -- with Jesus's Judahite ancestry confirming his priesthood operates outside the Mosaic system entirely."
+        },
+        {
+            "reference": "7:15-17",
+            "section_title": "The Basis of the New Priesthood -- Indestructible Life",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author contrasts the basis of the two priesthoods: the Levitical rested on physical and genealogical requirements, while Jesus's rests on the power of an indestructible life that cannot be dissolved by death."
+        },
+        {
+            "reference": "7:18-19",
+            "section_title": "The Nullification of the Old and the Introduction of the Better",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author declares the former commandment annulled because of its weakness and uselessness, and states that a better hope has been introduced through which 'we come near to God.'",
+            "relevance": "The phrase 'through which we come near to God' uses the present tense verb engizomen, describing an ongoing human action of approaching God. The neutral reading identifies this drawing near as the author's definition of what perfection means -- the completed purpose of the priestly system. The implication is that the better hope provides the means, but the approach to God is something the worshippers themselves do as active participants.",
+            "key_phrases": ["through which we come near to God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:20-22",
+            "section_title": "The Oath and the Guarantee of a Better Covenant",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author argues that Jesus's priesthood, unlike the Levitical priesthood, was established by God's irrevocable oath, making Jesus the personal guarantor of a better covenant."
+        },
+        {
+            "reference": "7:23-25",
+            "section_title": "The Permanence of Jesus's Priesthood",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author contrasts the mortality-limited Levitical priests with Jesus who holds his priesthood permanently, concluding that he is able to save completely those who come to God through him since he always lives to intercede for them.",
+            "relevance": "The phrase 'those who come to God through Him' uses the present participle proserchomenous, describing an ongoing posture of approaching God rather than a single past decision. The neutral reading explicitly notes that the author 'does not present salvation as a static possession that, once obtained, cannot be lost regardless of subsequent conduct' but rather as 'the ongoing benefit of an ongoing priestly relationship that the worshipper must continue to participate in.' Jesus's permanent priesthood provides permanent saving power, but that power is directed toward those who continue in the active posture of approach. This presents human beings as genuine agents whose continued engagement with their high priest is integral to the salvation relationship.",
+            "key_phrases": ["those who come to God through Him", "since He always lives to make intercession for them", "save forever"],
+            "confidence": "high"
+        },
+        {
+            "reference": "7:26-28",
+            "section_title": "The Character and Finality of This High Priest",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author describes Jesus as the fitting high priest -- holy, innocent, undefiled, separated from sinners, and exalted above the heavens -- who offered himself once for all time, contrasting the law's appointment of weak men with the oath's appointment of a Son made perfect forever."
+        }
+    ]
+}

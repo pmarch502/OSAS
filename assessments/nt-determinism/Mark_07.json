@@ -1,0 +1,44 @@
+{
+    "book": "Mark",
+    "chapter": 7,
+    "sections": [
+        {
+            "reference": "7:1-5",
+            "section_title": "The Challenge from Jerusalem",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents a second Jerusalem delegation of Pharisees and scribes challenging Jesus about his disciples eating with ritually unwashed hands, with the author providing an extended parenthetical explanation of Jewish purity customs for an audience unfamiliar with them, framing the dispute as a question of compliance with 'the tradition of the elders' rather than Torah itself."
+        },
+        {
+            "reference": "7:6-13",
+            "section_title": "Tradition Against Commandment",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus responding with Isaiah 29:13 to charge the Pharisees with honoring God with their lips while their hearts are far from him, then stating the principle that they neglect God's commandment to establish human tradition, illustrated by the Corban practice that nullifies the fifth commandment through a mechanism of religious dedication."
+        },
+        {
+            "reference": "7:14-23",
+            "section_title": "What Defiles a Person",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus declaring publicly that nothing entering a person from outside can defile, only what comes out from within, then explaining privately to the disciples that defilement originates from the human heart and cataloguing twelve forms of evil — from evil thoughts to foolishness — that proceed from within and defile a person.",
+            "relevance": "The passage locates the source of all defilement squarely within the human person: 'from within, out of the hearts of people, come the evil thoughts, acts of sexual immorality, thefts, murders...' The neutral reading emphasizes that the heart (kardia) is 'the center of thought, will, and moral direction' in Hebrew anthropology, and that Jesus has 'shifted the entire axis of the purity discussion' from external contact to internal moral agency. The twelve-item vice catalogue consists entirely of actions and dispositions that originate from within — things human beings generate from their own hearts — implying that humans are genuine moral agents responsible for what they produce. The concluding statement, 'All these evil things come from within and defile a person,' makes the human heart the sole cause of defilement before God, with no appeal to external determination or divine assignment of moral status. This bears on the determinism question because it presents the human condition before God as shaped by what the person's own heart generates, not by an external decree. However, the passage is primarily about the nature of defilement rather than a direct argument about who determines salvation outcomes, keeping it at LEANS rather than STRONG.",
+            "key_phrases": ["from within, out of the hearts of people, come the evil thoughts", "All these evil things come from within and defile a person", "it does not go into his heart, but into his stomach"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:24-30",
+            "section_title": "The Syrophoenician Woman",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents a Gentile woman of Syrophoenician descent who seeks Jesus in the region of Tyre for her demon-possessed daughter, engages him in a dialogue about the priority of Israel ('the children') over the Gentiles ('the dogs'), argues from within his own metaphor that even the dogs under the table eat the children's crumbs, and receives healing for her daughter at a distance on the basis of her answer.",
+            "relevance": "The passage presents human response — specifically the woman's faith, initiative, and argument — as the factor that determines the outcome. The neutral reading emphasizes that the healing occurs 'because of this answer' (dia touton ton logon), meaning her word, her logos, is what elicits Jesus's action. The woman hears about Jesus, comes to him on her own initiative, falls at his feet, and when given what amounts to a refusal framed within Israel's priority, she does not withdraw but presses her case from within the constraints of the metaphor. The neutral reading states: 'She does not demand equality; she asks for adequacy. Even the crumbs of this provision would be sufficient for her daughter's need.' This is the only exorcism in Mark performed at a distance, without physical contact, and without a command to the demon — it occurs 'through the exchange of words alone,' with the woman's word as the decisive element. Additionally, the word 'first' (proton) in Jesus's statement 'let the children be satisfied first' implies a sequence rather than exclusion, presenting God's provision as extending beyond a predetermined group. The passage demonstrates that genuine human agency — hearing, approaching, arguing, persisting in faith — affects divine action. However, it concerns healing rather than salvation directly, and operates as narrative demonstration rather than theological argument, keeping it at LEANS.",
+            "key_phrases": ["Let the children be satisfied first", "even the dogs under the table feed on the children's crumbs", "Because of this answer, go; the demon has gone out of your daughter"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:31-37",
+            "section_title": "The Deaf Man in the Decapolis",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus healing a deaf man with a speech impediment in the Gentile Decapolis through intimate physical gestures and the Aramaic command 'Ephphatha' ('Be opened'), with the Gentile crowd's response — 'He has done all things well; He makes even the deaf to hear and the mute to speak' — identified as echoing Genesis 1:31 and fulfilling Isaiah 35:5-6, positioning Jesus's healing as an act of re-creation and the arrival of the age of restoration promised by the prophets."
+        }
+    ]
+}

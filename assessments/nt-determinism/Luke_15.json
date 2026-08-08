@@ -1,0 +1,42 @@
+{
+    "book": "Luke",
+    "chapter": 15,
+    "sections": [
+        {
+            "reference": "15:1-3",
+            "section_title": "The Narrative Frame",
+            "category": "NOT_APPLICABLE",
+            "summary": "Tax collectors and sinners draw near to hear Jesus while the Pharisees and scribes murmur that he receives sinners and eats with them, setting the scene for three parables that form a single composite argument defending Jesus' table fellowship."
+        },
+        {
+            "reference": "15:4-7",
+            "section_title": "The Lost Sheep",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "A shepherd leaves ninety-nine sheep to seek one lost sheep until he finds it, carries it home on his shoulders, celebrates with friends and neighbors, and Jesus applies this to the joy in heaven over one sinner who repents.",
+            "relevance": "The neutral reading explicitly states that 'the sheep does nothing in this parable' and that 'the initiative belongs entirely to the one who searches.' The shepherd does all the work — seeking, finding, carrying, celebrating — while the sheep is entirely passive. The Ezekiel 34 background reinforces this: God himself must come to seek the lost because the appointed shepherds failed. The application to 'one sinner who repents' introduces a human element, but the neutral reading interprets repentance here as 'the human experience of being found by God, not a precondition that triggers God's willingness to seek,' subordinating the human response to divine initiative. However, the passage is defending table fellowship rather than directly arguing that God unilaterally determines who will be saved, and the sheep metaphor has inherent limitations as a vehicle for theological claims about human agency.",
+            "key_phrases": ["leave the ninety-nine in the wilderness and go after that which is lost, until he find it", "Rejoice with me, for I have found my sheep which was lost", "joy shall be in heaven over one sinner that repenteth"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "15:8-10",
+            "section_title": "The Lost Coin",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "A woman lights a lamp, sweeps the house, and searches diligently for one lost coin from ten until she finds it, celebrates with friends and neighbors, and Jesus applies this to the joy before the angels of God over one sinner who repents.",
+            "relevance": "The neutral reading states that 'a coin cannot repent' and 'a coin cannot seek its owner,' making the passivity of the lost even more absolute than in the sheep parable. The entire initiative belongs to the woman who searches. The structure precisely mirrors the first parable but with a lost object that has literally zero capacity for response. Yet Jesus again applies it to 'one sinner who repents,' which the neutral reading interprets as repentance being 'the end result of being found by the one who was searching' rather than a self-generated act — the repentance is real but follows the seeking. This strengthens the implication that divine initiative precedes and produces what is experienced as human repentance, though the passage's primary purpose remains defending table fellowship rather than making a direct claim about divine determination of salvation.",
+            "key_phrases": ["seeks diligently until she find it", "Rejoice with me, for I have found the piece which I had lost", "joy in the presence of the angels of God over one sinner that repenteth"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "15:11-32",
+            "section_title": "The Two Sons and Their Father",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "A younger son demands his inheritance, squanders it in a far country, comes to himself and returns to a father who was already watching and runs to meet him with lavish restoration; an older son refuses to join the celebration, and the parable ends without resolution, leaving the choice before the hearers.",
+            "relevance": "Unlike the sheep and coin, the son is a human agent who exercises genuine choice at every stage: he 'came to himself,' decided 'I will arise and go to my father,' rehearsed a penitential speech, and physically walked back. The father's initiative is strongly emphasized — he was watching, he ran, he restored the son before the speech was finished — but this initiative enables rather than replaces the son's agency. Most significantly, the older son's choice to refuse the feast is presented as genuinely his own, and the parable's deliberately open ending places the decision squarely on the Pharisees as hearers: 'The decision is left to them.' This rhetorical strategy assumes the hearers have real capacity to respond or refuse. The escalation from sheep (no agency) to coin (no agency) to son (full agency) is itself part of the argument — the climactic parable, which carries the chapter's indictment, is the one that foregrounds human choice as meaningful and consequential.",
+            "key_phrases": ["when he came to himself", "I will arise and go to my father", "he arose, and came to his father", "when he was yet a great way off, his father saw him", "he was angry, and would not go in", "this your brother was dead, and is alive again; and was lost, and is found"],
+            "confidence": "medium"
+        }
+    ]
+}

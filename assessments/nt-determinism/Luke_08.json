@@ -1,0 +1,106 @@
+{
+    "book": "Luke",
+    "chapter": 8,
+    "sections": [
+        {
+            "reference": "8:1-3",
+            "section_title": "The Ministry Entourage",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading describes Jesus's itinerant proclamation of the kingdom and the women who, having been healed, actively supported the ministry from their own resources."
+        },
+        {
+            "reference": "8:4-8",
+            "section_title": "The Parable of the Sower and the Soils",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading finds that the parable describes a single sower sowing identical seed with four different outcomes determined entirely by the condition of the soil on which the seed falls.",
+            "relevance": "The sower and the seed are constant; only the ground varies. The decisive factor in outcome is the condition of the hearer, not the quality or selective distribution of the word. Jesus's concluding call — 'He who has ears to hear, let him hear' — places responsibility on the listener, implying that reception is something the hearer can exercise or fail to exercise. However, the parable does not explicitly address salvation determination; it uses agricultural metaphor to describe response patterns.",
+            "key_phrases": ["the sower went out to sow his seed", "other seed fell into the good soil, and grew up, and produced a crop a hundred times as great", "He who has ears to hear, let him hear"],
+            "confidence": "high"
+        },
+        {
+            "reference": "8:9-10",
+            "section_title": "The Purpose of Parables",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_by_both",
+            "summary": "The neutral reading finds that Jesus distinguishes between the disciples, to whom understanding of the kingdom mysteries has been 'granted,' and 'the rest,' who receive parables that reveal rather than create their existing blindness.",
+            "relevance": "The divine passive 'it has been granted' (dedotai) indicates that the knowledge of the kingdom's mysteries comes from God, not from human achievement. The Isaiah 6:9 purpose clause — 'so that seeing they may not see' — has deterministic surface language suggesting God withholds understanding from some. However, the neutral reading interprets the mechanism as a filter that reveals pre-existing conditions rather than creating blindness: 'Those who are genuinely seeking will press further — as the disciples do by asking for explanation. Those who are indifferent or hostile will hear a story about farming and walk away.' The disciples demonstrate agency by pressing further. The tension between the deterministic language and the libertarian mechanism makes this passage genuinely ambiguous.",
+            "key_phrases": ["To you it has been granted to know the mysteries of the kingdom of God", "but to the rest it is in parables", "so that seeing they may not see, and hearing they may not understand"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:11-15",
+            "section_title": "The Interpretation of the Parable",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading finds that Jesus identifies the seed as the word of God and the four soils as four types of human response, with the road-soil hearer prevented from believing and being saved, the rocky-soil hearer believing genuinely but temporarily before falling away under testing, the thorny-soil hearer choked by competing loyalties, and the good-soil hearer holding fast in an honest heart and bearing fruit with perseverance.",
+            "relevance": "This passage directly addresses who determines salvation outcomes by making the human hearer the decisive variable. The word of God is constant; the outcomes differ based on the condition and perseverance of the hearer. Verse 12 explicitly connects believing (pisteusantes) with being saved (sōthōsin), making faith the means of salvation. The good soil is characterized by three human actions: hearing in an honest and good heart, holding fast (katechousin — a deliberate, ongoing grip), and bearing fruit with perseverance (hypomonē). The rocky soil establishes that genuine but temporary faith does not guarantee a final outcome — perseverance is required. The entire framework places the weight of salvation outcome on human response rather than divine unilateral determination. This is not an aside or illustration but the author's central explanatory argument for the chapter.",
+            "key_phrases": ["so that they will not believe and be saved", "they believe for a while, and in time of temptation fall away", "the seed in the good soil, these are the ones who have heard the word in an honest and good heart, and hold it fast, and bear fruit with perseverance"],
+            "confidence": "high"
+        },
+        {
+            "reference": "8:16-18",
+            "section_title": "The Lamp and the Warning about Hearing",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that these sayings extend the soils teaching by warning that what is hidden will be revealed and that the manner of hearing determines whether one receives more or loses what one has.",
+            "relevance": "The imperative 'take care how you listen' (blepete oun pōs akouete) places responsibility directly on the hearer — the manner of hearing is within the hearer's control. The accumulation-and-loss principle ('whoever has, to him more shall be given; whoever does not have, even what he thinks he has shall be taken away') presents outcomes as consequences of how one hears, not as divine assignments. The passage does not directly address salvation determination but extends the soils framework in which human response is the decisive variable.",
+            "key_phrases": ["take care how you listen", "whoever has, to him more shall be given", "whoever does not have, even what he thinks he has shall be taken away from him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:19-21",
+            "section_title": "Jesus's True Family",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that Jesus redefines membership in the family of God based on hearing the word of God and doing it, rather than on biological or ethnic identity.",
+            "relevance": "The passage defines belonging to God's people through two human actions: hearing (akouontes) and doing (poiountes). This redefines the people of God around human response to the word rather than predetermined identity categories such as bloodline or ethnicity. The 'good soil' hearers of verse 15 are here identified as Jesus's true kin, reinforcing that belonging is determined by the quality of one's response. The passage does not directly address salvation outcomes but bears on the related question of who constitutes the people of God.",
+            "key_phrases": ["My mother and My brothers are these who hear the word of God and do it"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:22-25",
+            "section_title": "Authority over Nature — Stilling the Storm",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that Jesus stills a storm on the Sea of Galilee, demonstrating authority that the Psalms assign exclusively to God, and rebukes the disciples for their lack of faith."
+        },
+        {
+            "reference": "8:26-33",
+            "section_title": "Authority over the Demonic — The Gerasene Demoniac",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that Jesus crosses into Gentile territory and delivers a man possessed by a legion of demons, demonstrating comprehensive authority over the demonic realm as the demons themselves recognize his identity and power."
+        },
+        {
+            "reference": "8:34-39",
+            "section_title": "The Response of the Gerasenes",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that the local population responds with fear and asks Jesus to leave, while the healed man begs to accompany Jesus and is instead commissioned to proclaim what God has done for him in his own city."
+        },
+        {
+            "reference": "8:40-42a",
+            "section_title": "Two Urgent Needs Intertwined",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading introduces Jairus, a synagogue official who falls at Jesus's feet to beg healing for his only daughter, who is twelve years old and dying."
+        },
+        {
+            "reference": "8:42b-48",
+            "section_title": "The Woman with a Flow of Blood",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading finds that a woman with a twelve-year hemorrhage exercises faith by approaching Jesus and touching his garment, is immediately healed, and is told by Jesus that her faith has saved her.",
+            "relevance": "Jesus's declaration 'Your faith has saved you' (hē pistis sou sesōken se) directly credits a human response — faith — with salvation. The word sōzō encompasses both physical healing and the fuller sense of rescue and restoration, as the neutral reading notes. The woman exercised genuine agency: she approached despite the social risk of her ritual impurity, she deliberately touched Jesus's garment, and she publicly testified when called forward. Jesus identifies her faith, not divine predetermination, as what connected her to saving power. The neutral reading links this to 7:50 as a deliberate Lukan pattern: in both cases, someone excluded by prevailing religious categories approaches Jesus, and faith is identified as the operative reality — not ritual status, moral reputation, or social standing.",
+            "key_phrases": ["Your faith has saved you; go in peace", "came up behind Him and touched the fringe of His cloak", "faith — not ritual status, not moral reputation, not social standing — is what connected them to saving power"],
+            "confidence": "high"
+        },
+        {
+            "reference": "8:49-56",
+            "section_title": "Authority over Death — Raising Jairus's Daughter",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that when Jairus's daughter dies, Jesus commands Jairus to believe and promises that she will be saved, then raises the girl from the dead.",
+            "relevance": "Jesus's command 'Do not be afraid any longer; only believe, and she will be saved' (monon pisteuson, kai sōthēsetai) presents faith as a human response that conditions the outcome. The aorist imperative pisteuson is a decisive command implying Jairus has the capacity to obey. The neutral reading frames this as the crisis of faith described in the soils parable: will Jairus hold fast to the word under extreme testing or fall away? The passage presents faith as a genuine human act that Jairus is responsible to exercise, even when circumstances make belief appear futile. The primary context is physical rescue rather than eternal salvation, but the author uses sōzō and connects the scene to the soils framework where believing leads to being saved.",
+            "key_phrases": ["Do not be afraid any longer; only believe, and she will be saved"],
+            "confidence": "medium"
+        }
+    ]
+}

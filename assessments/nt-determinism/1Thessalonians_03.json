@@ -1,0 +1,83 @@
+{
+    "book": "1Thessalonians",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-2",
+            "section_title": "The Decision to Send Timothy",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul and his companions, unable to bear the separation any longer, sent Timothy to Thessalonica to establish and encourage the community concerning their faith under persecution."
+        },
+        {
+            "reference": "3:3-4",
+            "section_title": "Affliction as the Appointed Reality",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul reminds the Thessalonians that affliction is the appointed lot of those who follow the crucified Messiah, foretold by the apostles during their founding visit and confirmed by subsequent events."
+        },
+        {
+            "reference": "3:5",
+            "section_title": "Paul's Own Anxiety",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul reveals his personal fear that the tempter had broken the community's faith through affliction and that the apostolic labor would have been rendered empty.",
+            "relevance": "The neutral reading draws out the operative assumption behind Paul's anxiety: the community's perseverance is not guaranteed by the fact that God chose them (1:4) or that the gospel arrived with power (1:5). Divine election created a real beginning, but the continuation depends on the community's ongoing faithfulness. Paul's fear that the labor could be 'in vain' treats the salvation outcome as genuinely contingent on human response, not unilaterally secured by divine determination.",
+            "key_phrases": [
+                "for fear that somehow the tempter had tempted you",
+                "and our labor would be in vain",
+                "I sent to learn about your faith"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:6",
+            "section_title": "Timothy's Return -- The Good News",
+            "category": "NOT_APPLICABLE",
+            "summary": "Timothy returns with the good news that the Thessalonians' faith and love are intact and that the mutual longing between the community and its founders is undiminished."
+        },
+        {
+            "reference": "3:7",
+            "section_title": "The Consolation",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Thessalonians' persevering faith has reversed the expected direction of consolation, comforting the apostles in their own affliction rather than the apostles comforting the community."
+        },
+        {
+            "reference": "3:8",
+            "section_title": "Life Contingent on Faithfulness",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul declares that the apostles truly live only on the condition that the Thessalonians continue to stand firm in the Lord.",
+            "relevance": "The conditional particle ean with the present subjunctive ('if you stand firm') treats the Thessalonians' perseverance as an ongoing requirement that could, in principle, go unmet. Paul does not use a causal construction ('because you stand firm') but a conditional one, presenting their standing firm as a genuine human action whose continuation is not guaranteed. This is consistent with verse 5's fear that the labor might be in vain and treats the community's faithfulness as a real variable in the outcome, not a predetermined certainty.",
+            "key_phrases": [
+                "if you stand firm in the Lord",
+                "now we really live"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:9-10",
+            "section_title": "Joy and Ongoing Prayer",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul expresses overwhelming gratitude and describes relentless prayer for reunion and for the completion of what is still lacking in the Thessalonians' faith."
+        },
+        {
+            "reference": "3:11",
+            "section_title": "Prayer-Wish for the Way to Be Opened",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul asks God the Father and the Lord Jesus to direct the apostles' way back to Thessalonica, since their own repeated efforts to return have been thwarted."
+        },
+        {
+            "reference": "3:12-13",
+            "section_title": "Prayer-Wish for the Thessalonians' Growth and Establishment",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul prays that the Lord would cause the Thessalonians to overflow in love and establish their hearts blameless in holiness before God at the parousia.",
+            "relevance": "The prayer invokes divine action in securing the eschatological outcome: God is asked to establish their hearts blameless at the coming of the Lord Jesus. However, the very act of praying for this implies the outcome is not automatically secured. The chapter's controlling argument is that the community's faithfulness is contingent (v. 5, v. 8), and the prayer for divine establishing work sits within that framework as a request for enabling help, not as a declaration of unilateral divine determination. The instructions that immediately follow (4:1-5:22) will address the human side of the same goal with imperatives, confirming that divine establishment and human responsibility work together rather than divine action replacing human agency.",
+            "key_phrases": [
+                "may the Lord cause you to increase and abound in love",
+                "so that he may establish your hearts without blame in holiness",
+                "before our God and Father at the coming of our Lord Jesus"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

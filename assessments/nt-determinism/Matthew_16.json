@@ -1,0 +1,58 @@
+{
+    "book": "Matthew",
+    "chapter": 16,
+    "sections": [
+        {
+            "reference": "16:1-4",
+            "section_title": "The Pharisees and Sadducees Demand a Sign",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The Pharisees and Sadducees unite to demand a celestial sign from Jesus despite standing in the aftermath of two wilderness feedings and mass healings; Jesus refuses, calls them a wicked and adulterous generation, invokes the sign of Jonah, and departs.",
+            "relevance": "The neutral reading characterizes the leaders' inability to interpret the signs of the times as willful rather than divinely imposed: 'they have decided in advance what kind of evidence they will accept, and the evidence God is actually providing does not match their specifications.' Their failure is diagnosed as a moral condition ('wicked and adulterous') rooted in their own choices, not as the result of God withholding perception from them. The contrast with the Canaanite woman (15:28), who displayed great faith without any celestial sign, reinforces that recognition of Jesus is available to those willing to receive it.",
+            "key_phrases": ["you cannot interpret the signs of the times", "a wicked and adulterous generation seeks for a sign", "he left them and departed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "16:5-12",
+            "section_title": "The Leaven of the Pharisees and Sadducees",
+            "category": "NOT_APPLICABLE",
+            "summary": "The disciples misunderstand Jesus's warning about the leaven of the Pharisees and Sadducees as a literal reference to bread; Jesus rebukes their little faith, forces them to recall the two feedings, and they eventually understand that the leaven is the leaders' teaching."
+        },
+        {
+            "reference": "16:13-16",
+            "section_title": "The Question at Caesarea Philippi",
+            "category": "NOT_APPLICABLE",
+            "summary": "At Caesarea Philippi, Jesus asks who people say the Son of Man is; the popular answers place him among the prophets (John the Baptist, Elijah, Jeremiah); Peter confesses him as the Christ, the Son of the living God, breaking the prophetic category entirely."
+        },
+        {
+            "reference": "16:17-20",
+            "section_title": "Jesus's Response to Peter's Confession",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jesus pronounces Peter blessed and attributes his confession not to human capacity ('flesh and blood') but to divine revelation from the Father; he then names Peter the rock on which he will build his ekklesia, grants him the keys of the kingdom and authority to bind and loose, and commands silence about his messianic identity.",
+            "relevance": "The text directly states that Peter's recognition of Jesus as the Christ came from divine revelation, not from human reasoning or evidence-gathering: 'flesh and blood has not revealed this to you, but my Father who is in heaven.' The neutral reading connects this to 11:25-27, where God hides truth from the wise and reveals it to the childlike. The mechanism of recognition is identified as 'divine disclosure,' not the accumulation of evidence. This emphasizes God's initiative in granting salvifically relevant knowledge. However, the neutral reading qualifies this by describing the disclosure as coming 'to those who are in a position to receive it,' and the Pharisees' parallel failure to perceive is characterized as willful (vv. 1-4), not as God withholding revelation. The passage addresses how saving knowledge is obtained rather than who is ultimately saved.",
+            "key_phrases": ["flesh and blood has not revealed this to you", "but my Father who is in heaven", "divine disclosure to those who are in a position to receive it"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "16:21-23",
+            "section_title": "The First Passion Prediction and Peter's Rebuke",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus reveals that he must go to Jerusalem, suffer, be killed, and be raised on the third day; Peter rebukes him, and Jesus calls Peter 'Satan' and a stumbling block for setting his mind on human things rather than God's.",
+            "relevance": "Peter, the same person who just received divine revelation about Jesus's identity (v. 17), immediately reverts to human thinking and opposes God's stated plan (v. 23). The neutral reading explicitly observes that 'divine revelation does not immunize the recipient against catastrophic error, and that correct theology does not guarantee correct understanding of its implications.' This directly bears on the determinism question: if divine revelation does not irresistibly determine the recipient's subsequent thinking and choices, then human agency remains operative even after God's direct intervention. Peter is simultaneously the recipient of the Father's revelation and the mouthpiece of Satan, demonstrating that divine action and human resistance coexist in the same person.",
+            "key_phrases": ["you are not setting your mind on the things of God but on the things of men", "divine revelation does not immunize the recipient against catastrophic error", "Get behind me, Satan"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "16:24-28",
+            "section_title": "The Cost of Following: Cross, Life, and the Coming of the Son of Man",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus teaches that anyone who would follow him must deny himself, take up his cross, and follow; whoever saves his life will lose it and whoever loses it for Jesus's sake will find it; the Son of Man will come in glory and repay each person according to what he has done.",
+            "relevance": "The text directly addresses human beings as genuine agents whose choices determine their salvation outcome, and does so as part of the author's own sustained argument. The conditional 'if anyone wishes to come after me' (ei tis thelei) presents discipleship as a genuine volitional act. The save/lose life paradox makes the eschatological outcome depend on the person's choice: clinging to self-preservation results in loss, while surrendering life for Jesus's sake results in finding it. The neutral reading notes that the verb zemioo 'treats the psyche as something that can be damaged or destroyed by wrong choices,' placing agency with the individual. The culminating statement that the Son of Man 'will repay each person according to what he has done' (kata ten praxin autou) explicitly ties final judgment to human conduct. The neutral reading connects this to Deuteronomy 30:19 ('choose life') and Psalm 62:12 ('You will render to each one according to his work'), maintaining the framework of genuine human choice within the salvation question.",
+            "key_phrases": ["if anyone would come after me", "let him deny himself and take up his cross", "whoever would save his life will lose it", "whoever loses his life for my sake will find it", "he will repay each person according to what he has done"],
+            "confidence": "high"
+        }
+    ]
+}

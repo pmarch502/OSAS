@@ -1,0 +1,56 @@
+{
+    "book": "Matthew",
+    "chapter": 18,
+    "sections": [
+        {
+            "reference": "18:1-5",
+            "section_title": "The Question About Greatness and the Child as Standard",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus responding to the disciples' question about who is greatest in the kingdom by placing a child in their midst and declaring that unless they turn and become like children, they will never enter the kingdom of heaven, with greatness defined as voluntary self-humbling.",
+            "relevance": "The conditional statement 'unless you turn and become like children, you will never enter the kingdom of heaven' presupposes genuine human agency in determining one's standing before God. The verb strepho (to turn, to change direction) denotes a decisive act the disciples themselves must perform — a reversal of orientation. The reflexive construction 'whoever humbles himself' (tapeinosei heauton) locates the action in the human agent. Entry into the kingdom is presented as contingent on a human choice to reorient, not on a prior divine determination of who will enter.",
+            "key_phrases": ["unless you turn and become like children, you will never enter the kingdom of heaven", "whoever humbles himself like this child, he is the greatest in the kingdom of heaven"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "18:6-9",
+            "section_title": "Warning Against Causing the Vulnerable to Stumble",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus warning that causing a believing 'little one' to stumble merits judgment worse than drowning with a millstone, declaring stumbling blocks cosmologically inevitable yet individually culpable, and calling for radical self-discipline to avoid entering Gehenna.",
+            "relevance": "The passage holds individual humans responsible for both causing others to stumble and for their own entry into life or Gehenna. The statement 'it is necessary that causes of stumbling come, but woe to the one by whom the cause of stumbling comes' maintains cosmological inevitability alongside individual culpability — the present age is structured so that skandala occur, but this does not excuse the individual agent. The choice between entering life (maimed) and being thrown into Gehenna is presented as determined by human action (radical self-discipline), not by prior divine decree. The neutral reading explicitly states: 'inevitability does not excuse the individual agent. The person through whom the stumbling block comes bears personal responsibility.'",
+            "key_phrases": ["woe to the one by whom the cause of stumbling comes", "it is necessary that causes of stumbling come", "it is better for you to enter life crippled or lame than with two hands or two feet to be thrown into the eternal fire"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "18:10-14",
+            "section_title": "The Father's Concern for the Little Ones: The Lost Sheep",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading presents Jesus forbidding contempt for the little ones, whose angels have permanent access to the Father's face, then telling the parable of the shepherd who leaves ninety-nine to search for one straying sheep, concluding that the Father's will is that none of these little ones should perish.",
+            "relevance": "The theological anchor 'it is not the will of your Father who is in heaven that one of these little ones should perish' presents the Father's will as desiring the preservation of every little one, yet the parable envisions a sheep that has in fact gone astray — the verb planao describes the sheep's own movement, not something done to it. The neutral reading explicitly notes: 'This does not describe a situation in which loss is impossible — the parable itself envisions a sheep that has gone astray, and the entire discourse addresses what to do when community members sin — but it describes what the Father desires.' If the Father wills that none perish yet straying and loss remain real possibilities requiring active pursuit, the text implies God's salvific will can be resisted by human wandering — the outcome is not unilaterally determined.",
+            "key_phrases": ["it is not the will of your Father who is in heaven that one of these little ones should perish", "if one of them has gone astray", "does he not leave the ninety-nine on the mountains and go in search of the one that went astray"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "18:15-20",
+            "section_title": "Confronting Sin Within the Community",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents a three-step discipline process for addressing sin within the community — private confrontation, witnesses, then the full assembly — with the goal of gaining the brother, and extends the binding-and-loosing authority from Peter to the community, grounded in Jesus's presence among two or three gathered in his name.",
+            "relevance": "The discipline process presupposes genuine human agency at every stage: the offending brother can choose to listen or refuse to listen, and the outcome — restoration ('you have gained your brother') or exclusion ('let him be to you as a Gentile and a tax collector') — depends entirely on the brother's response. The neutral reading notes that the goal is 'recovery of the person' and that 'the community's posture toward a sinning member is restorative, not punitive, at every stage where restoration remains possible.' The three-step process exhausting every avenue before exclusion only makes sense if the brother's response is genuinely undetermined — if the outcome were predetermined, the restorative process would be a formality rather than a genuine effort.",
+            "key_phrases": ["if he listens to you, you have gained your brother", "if he refuses to listen even to the assembly, let him be to you as a Gentile and a tax collector"],
+            "confidence": "low"
+        },
+        {
+            "reference": "18:21-35",
+            "section_title": "Peter's Question and the Parable of the Unforgiving Servant",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading presents Jesus telling Peter that forgiveness must be limitless (seventy-seven times), then illustrating with a parable in which a king forgives an unpayable debt, the forgiven servant refuses to forgive a trivial debt, and the king revokes the original forgiveness, concluding with the direct application: 'So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart.'",
+            "relevance": "This passage directly addresses whether human choices affect salvation outcomes, and it does so as the climactic argument of the entire discourse. The parable presents divine forgiveness as genuinely given (the king canceled the debt), yet subsequently revoked because of the servant's refusal to extend mercy. The neutral reading states explicitly: 'Forgiveness, in the economy of the kingdom as the author presents it, is not a one-time transaction that cannot be undone. It is conditioned on the recipient's response.' The application in verse 35 — 'So also my heavenly Father will do to every one of you' — is direct, universal ('every one of you'), and makes the Father's final disposition toward each person contingent on that person's choice to forgive or refuse to forgive 'from your heart.' The servant's refusal is marked as a deliberate choice (ouk ethelen — 'he was not willing'). The reinstated debt (10,000 talents, functionally unpayable) represents permanent judgment. The human choice to withhold mercy from others directly determines whether one retains or forfeits the mercy one has received from God.",
+            "key_phrases": ["So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart", "I forgave you all that debt because you pleaded with me. And should you not have had mercy on your fellow servant, as I had mercy on you?", "he was not willing", "delivered him to the jailers, until he should pay all his debt"],
+            "confidence": "high"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "book": "Galatians",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-5",
+            "section_title": "The Greeting as Argument",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul defends his apostolic authority as divinely sourced and defines Christ's work as completed deliverance from the present evil age, accomplished according to God's will."
+        },
+        {
+            "reference": "1:6-10",
+            "section_title": "The Rebuke and the Anathema",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul rebukes the Galatians for deserting the God who called them in grace and turning to a qualitatively different gospel, and pronounces an anathema on anyone who preaches a contrary message.",
+            "relevance": "The verb metatithesthe (middle voice: 'you are transferring yourselves') presents the Galatians as genuine agents actively choosing to abandon God's call. Paul's rebuke presupposes that their response to God's calling is real and consequential -- they can desert it. If God's call unilaterally determined salvation outcomes, desertion would be incoherent as a category and senseless as a rebuke. The text presents divine calling and human departure as both operative realities.",
+            "key_phrases": ["you are so quickly deserting him who called you in the grace of Christ", "turning to a different gospel", "some who trouble you and want to distort the gospel of Christ"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:11-12",
+            "section_title": "The Gospel's Divine Origin",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul asserts that his gospel was not received from any human source nor taught by any human teacher but came through a direct revelation of Jesus Christ."
+        },
+        {
+            "reference": "1:13-14",
+            "section_title": "Paul's Former Life in Judaism",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul cites his former life of violent persecution of the church and extreme zeal for ancestral traditions as evidence that his gospel could not have developed from his prior commitments."
+        },
+        {
+            "reference": "1:15-17",
+            "section_title": "The Call -- Prophetic Language and Independent Action",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul describes his commission using language drawn from the prophetic call narratives of Jeremiah 1:5 and Isaiah 49:1-6, identifying himself as set apart before birth and called by grace for a specific mission to the Gentiles.",
+            "relevance": "Galatians 1:15 ('set me apart before I was born') is conventionally cited as evidence that God predetermines individuals' salvation before birth. The neutral reading shows the passage is about vocational calling to prophetic mission, not about individual election to salvation. The verbal parallels to Jeremiah 1:5 ('I appointed you a prophet to the nations') and Isaiah 49:1, 6 ('the LORD called me from the womb... a light for the nations') are precise and deliberate. The purpose clause makes the referent explicit: 'in order that I might preach him among the Gentiles.' God set Paul apart for a specific task -- proclamation among the nations -- following the established scriptural pattern of prenatal prophetic commissioning. The 'grace' by which Paul was called (1:15b) identifies the calling as unmerited, but unmerited vocational appointment is not the same as unilateral determination of salvation.",
+            "key_phrases": ["he who had set me apart before I was born", "called me by his grace", "was pleased to reveal his Son in me", "in order that I might preach him among the Gentiles"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:18-20",
+            "section_title": "The Brief Visit to Jerusalem",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul testifies under oath that his first visit to Jerusalem occurred three years after his call, lasted only fifteen days, and involved meeting only Cephas and James."
+        },
+        {
+            "reference": "1:21-24",
+            "section_title": "The Judean Churches -- Unknown in Person, Known by Reputation",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Judean churches, who had never met Paul, heard reports of his transformation from persecutor to proclaimer and glorified God because of him, confirming his transformation as divine action."
+        }
+    ]
+}

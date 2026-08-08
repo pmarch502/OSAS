@@ -1,0 +1,46 @@
+{
+    "book": "Colossians",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-4",
+            "section_title": "The Foundation -- Raised with Christ, Therefore Seek What Is Above",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that the author takes the accomplished fact of co-death and co-resurrection with Christ (indicative) and derives from it a series of imperatives: seek the things above, set your minds on things above, because your life is hidden with Christ in God and will be revealed with him in glory.",
+            "relevance": "The indicative-imperative structure presupposes genuine human agency: God has acted decisively (raised them with Christ), but the believers must actively respond by seeking and orienting their minds toward the things above. The commands are continuous present imperatives (keep seeking, keep setting your minds), implying ongoing human effort is genuinely required. The neutral reading connects this section to the conditional of 1:23 ('if indeed you continue in the faith'), indicating that the future revelation in glory is not presented as automatic but as contingent on continued faithfulness.",
+            "key_phrases": ["seek the things that are above", "set your minds on things that are above", "you died", "your life has been hidden with Christ in God", "you also will be revealed with him in glory"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:5-11",
+            "section_title": "Putting to Death What Is Earthly and Putting Off the Old Self",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that the author commands believers to put to death earthly vices, warns that the wrath of God is coming on account of such things, describes their former walk in these vices, commands them to put away relational sins, and presents the stripping off of the old self and putting on of the new self being renewed in knowledge according to the image of its creator, culminating in the dissolution of all identity distinctions in favor of Christ who is all and in all.",
+            "relevance": "The section's structure directly bears on the agency question. The paradox of 'you died' (indicative, v. 3) followed by 'put to death' (imperative, v. 5) establishes that God's act creates the possibility and obligation, but human response is genuinely required to actualize it. The neutral reading explicitly states that the imperatives are 'commands, and commands can be obeyed or disobeyed.' The warning that divine wrath is coming on account of the listed vices (v. 6) implies that continuing in them has eschatological consequences -- the Colossians' choices matter for their standing before God. The passive voice of the new self 'being renewed' (v. 10, God as agent) shows divine initiative in transformation, but this is embedded within imperatives that require human cooperation.",
+            "key_phrases": ["put to death therefore what is earthly in you", "on account of these the wrath of God is coming", "put them all aside", "do not lie to one another", "having stripped off the old self with its practices", "the new self which is being renewed in knowledge"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:12-17",
+            "section_title": "The Garments of the New Community",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The neutral reading finds that the author addresses the Colossians as 'God's chosen ones, holy and beloved' and commands them to put on specific virtues (compassion, kindness, humility, gentleness, patience), to forgive as the Lord forgave them, to let the peace of Christ rule and the word of Christ dwell richly among them, and to do everything in the name of the Lord Jesus with thanksgiving.",
+            "relevance": "The term 'eklektoi tou theou' (God's chosen ones) is sometimes cited as evidence for individual divine election to salvation. However, the neutral reading identifies this as a corporate covenantal designation from the LXX, applied to Israel as a people chosen for God's purposes (Isaiah 43:20, 45:4, 65:9), now extended to the Gentile community in Colossae. The identity language (chosen, holy, beloved) grounds the imperatives but does not replace them: the entire section is built on commands (put on, forgive, let peace rule, let the word dwell, do everything in the Lord's name) that presuppose genuine human agency in living out the identity God has granted. The forgiveness command (v. 13) models human action on divine action ('as the Lord forgave you, so you also must forgive'), presenting the Lord's act as the standard and motivation for a required human response, not as a unilateral determination of behavior.",
+            "key_phrases": ["God's chosen ones, holy and beloved", "put on then", "as the Lord forgave you, so you also must forgive", "above all these put on love", "let the peace of Christ rule in your hearts", "let the word of Christ dwell in you richly", "do everything in the name of the Lord Jesus"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:18-25",
+            "section_title": "The Household -- Relationships Reordered by Christ",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that the author provides a household code addressing wives and husbands, children and fathers, slaves and masters, with each instruction grounded in the community's relationship to the Lord, including the promise that slaves will receive the inheritance as reward for faithful service and the warning that the wrongdoer will be paid back with no partiality.",
+            "relevance": "The reward-and-judgment framework in vv. 24-25 implies that human conduct determines outcomes before God. The slave who serves faithfully 'from the Lord will receive the inheritance as your reward' (v. 24), while 'the wrongdoer will be paid back for the wrong he has done' (v. 25). The declaration that 'there is no partiality' (v. 25) means God judges impartially based on what people do, not on predetermined status or social position. The entire household code is constructed of imperatives requiring genuine human response, and the eschatological consequences (inheritance or repayment) are tied to whether those imperatives are obeyed.",
+            "key_phrases": ["from the Lord you will receive the inheritance as your reward", "the wrongdoer will be paid back for the wrong he has done", "there is no partiality", "work heartily, as for the Lord and not for men", "you are serving the Lord Christ"],
+            "confidence": "medium"
+        }
+    ]
+}

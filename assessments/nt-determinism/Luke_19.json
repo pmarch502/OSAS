@@ -1,0 +1,48 @@
+{
+    "book": "Luke",
+    "chapter": 19,
+    "sections": [
+        {
+            "reference": "19:1-10",
+            "section_title": "Salvation Comes to a Tax Collector's House",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus enters Jericho, calls the rich chief tax collector Zacchaeus down from a sycamore tree with divine necessity (dei), stays at his house despite public grumbling, and declares that salvation has come to this house today after Zacchaeus voluntarily pledges half his possessions to the poor and fourfold restitution for any fraud.",
+            "relevance": "The passage presents both divine initiative and genuine human response as integral to the arrival of salvation. Jesus initiates — he calls Zacchaeus by name and uses dei (divine necessity) for the visit — and the neutral reading states that 'salvation comes to his house not through his initiative in climbing a tree but through Jesus's initiative in calling him down.' This divine initiative is further grounded in the mission statement of verse 10, which places Jesus in the role of YHWH-as-shepherd from Ezekiel 34 who seeks and saves the lost. However, the passage simultaneously foregrounds Zacchaeus's genuine agency at every stage: he was 'trying to see who Jesus was,' he ran ahead and climbed a tree despite its indignity, he 'received Him gladly,' and he voluntarily declared his restitution — a commitment the neutral reading explicitly contrasts with the rich ruler of chapter 18 who refused the same kind of radical generosity. The contrast between the two rich men is the pivot: God makes possible what is impossible with people (18:27), but the rich ruler chose to refuse while Zacchaeus chose to respond. The text presents divine initiative as enabling and seeking, not as unilaterally determining the outcome — Zacchaeus's joy and voluntary action are presented as his own genuine response, not a forced result.",
+            "key_phrases": ["he was trying to see who Jesus was", "today I must stay at your house", "he hurried and came down and received Him gladly", "half of my possessions I will give to the poor", "Today salvation has come to this house", "the Son of Man has come to seek and to save that which was lost"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "19:11-27",
+            "section_title": "The Parable of the Minas",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus tells a parable about a nobleman who gives ten servants equal resources (one mina each), departs to receive a kingdom, and returns to a reckoning where servants are rewarded or punished based on what they did with what they were given, while citizens who rejected his reign entirely are destroyed.",
+            "relevance": "The parable presents three categories of people whose outcomes at the reckoning are determined by their own choices during the interim. The faithful servants chose to trade actively and are rewarded proportionally; the unfaithful servant chose to bury his mina in fear and loses even what he had; the citizens chose to reject the king's authority outright and face destruction. Each category exercises genuine agency. The master gives equal resources and equal instructions — the differing outcomes flow entirely from what each person chose to do with what was entrusted. The condemnation of the fearful servant is particularly significant: the master judges him 'by your own words,' and the neutral reading notes that 'fear that paralyzes rather than motivates is condemned.' The servant had the same opportunity as the others and is held accountable for his choice not to act. The principle articulated in verse 26 — that those who use what they have receive more, while those who fail to use it lose even what was entrusted — assumes that human action or inaction is the determining variable. However, this is a parable (illustration) rather than a direct theological argument about who determines salvation, which prevents a STRONG categorization.",
+            "key_phrases": ["Do business with this until I come back", "you have been faithful in a very little thing", "which I kept put away in a handkerchief", "By your own words I will judge you", "to everyone who has, more shall be given", "these enemies of mine, who did not want me to reign over them"],
+            "confidence": "high"
+        },
+        {
+            "reference": "19:28-40",
+            "section_title": "The Entry into Jerusalem",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus orchestrates his entry into Jerusalem riding a colt in fulfillment of Zechariah 9:9, is acclaimed as king by the crowd of disciples using Psalm 118 language, and responds to Pharisees' objections by declaring that the stones would cry out if the disciples were silenced."
+        },
+        {
+            "reference": "19:41-44",
+            "section_title": "Weeping Over Jerusalem",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus weeps audibly over Jerusalem, lamenting that the city did not know the things that make for peace, predicting its destruction in concrete siege language, and attributing the coming devastation to Jerusalem's failure to recognize the time of its visitation.",
+            "relevance": "This passage bears directly on the determinism question through several converging elements. First, Jesus's audible weeping (eklausen) over Jerusalem's fate implies genuine grief over an outcome he did not desire — a reaction difficult to reconcile with a theology in which God unilaterally determined Jerusalem's rejection. Second, the conditional 'if you had known in this day' presents the knowledge as something Jerusalem could have had but missed, implying a real possibility that was forfeited. Third, the causal statement 'because you did not recognize the time of your visitation' places the responsibility for the failure squarely on Jerusalem — it is their failure to recognize, not God's decree of blindness, that causes judgment. The one complicating phrase is 'they have been hidden from your eyes,' which uses a passive voice that could be read as divine passive (God hid them) or as a consequence of their own prior refusal to see. In context, the neutral reading treats this as the culmination of a failure of recognition rather than an arbitrary divine concealment: the 'hiding' follows from Jerusalem's own rejection pattern. This passage parallels Matthew 23:37 (which is on the conventional proof-text list for human agency), with the same logic: God desired to gather/save, the people refused, judgment follows from the refusal.",
+            "key_phrases": ["He saw the city and wept over it", "If you had known in this day, even you, the things which make for peace", "they have been hidden from your eyes", "because you did not recognize the time of your visitation"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "19:45-48",
+            "section_title": "The Temple Action and Daily Teaching",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus drives out the sellers from the temple, combining Isaiah 56:7 (the temple as a house of prayer for all) with Jeremiah 7:11 (a den of robbers), and begins teaching daily in the temple while the chief priests and scribes seek to destroy him but are constrained by the people's attachment to his words."
+        }
+    ]
+}

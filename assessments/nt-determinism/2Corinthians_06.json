@@ -1,0 +1,92 @@
+{
+    "book": "2Corinthians",
+    "chapter": 6,
+    "sections": [
+        {
+            "reference": "6:1",
+            "section_title": "The Appeal Not to Receive Grace in Vain",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul urges the Corinthians not to receive the grace of God in vain, warning that grace once received can be rendered empty and come to nothing.",
+            "relevance": "The neutral reading identifies this as a genuine warning that grace can be received ineffectively. The exhortation assumes it is really possible for reconciliation to remain merely formal, for grace to enter and produce nothing. Paul's appeal would be meaningless if the outcome were predetermined. The passage directly presents human response as the factor that determines whether God's grace achieves its saving purpose or comes to nothing.",
+            "key_phrases": ["not to receive the grace of God in vain", "grace is not forced; it is offered and must be received", "it can be received eis kenon", "the exhortation would be meaningless if this were impossible", "the reconciliation described in 5:18-21 is real but requires ongoing response"],
+            "confidence": "high"
+        },
+        {
+            "reference": "6:2",
+            "section_title": "Isaiah 49:8 and the Prophetic Now",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul quotes Isaiah 49:8 to identify the present moment as the prophetically announced day of salvation, grounding the urgency of his appeal in 6:1.",
+            "relevance": "The emphatic declaration that 'now is the favorable time; now is the day of salvation' functions as the basis for the appeal not to receive grace in vain. The urgency assumes that the Corinthians' response in the present moment matters -- that the day of salvation requires human engagement, not merely divine decree. The verbal link between kenos in 6:1 and kenon in Isaiah 49:4 reinforces the implication that squandering the present opportunity is a genuine human possibility.",
+            "key_phrases": ["now is the favorable time; now is the day of salvation", "receiving that grace emptily is a squandering of the very moment the prophet announced"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:3-4a",
+            "section_title": "Blameless Ministry and Its Commendation",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul describes his deliberate effort to place no obstacle in anyone's way and to commend his ministry through character and conduct rather than through letters of recommendation."
+        },
+        {
+            "reference": "6:4b-5",
+            "section_title": "The Catalogue of Sufferings",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul lists three triads of sufferings he has endured -- general afflictions, specific forms of violence, and voluntary hardships -- as evidence of his apostolic authenticity."
+        },
+        {
+            "reference": "6:6-7a",
+            "section_title": "The Catalogue of Virtues and Powers",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul lists the virtues and powers that characterize his ministry, including purity, knowledge, patience, kindness, the Holy Spirit, genuine love, truthful speech, and the power of God."
+        },
+        {
+            "reference": "6:7b",
+            "section_title": "Weapons of Righteousness",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul uses military imagery to describe his full spiritual armament as weapons of righteousness for both offense and defense."
+        },
+        {
+            "reference": "6:8-10",
+            "section_title": "The Catalogue of Paradoxes",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul presents seven paradoxes of apostolic existence -- dying yet living, poor yet enriching, having nothing yet possessing everything -- enacting the cross-pattern of power through weakness described in chapters 4-5."
+        },
+        {
+            "reference": "6:11-13",
+            "section_title": "The Direct Emotional Appeal",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul makes an emotional appeal for relational reciprocity, declaring that his heart is wide open to the Corinthians and asking them to widen their hearts in return."
+        },
+        {
+            "reference": "6:14-16a",
+            "section_title": "The Warning Against Incompatible Yoking",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul prohibits being unequally yoked with unbelievers and supports the prohibition with five rhetorical questions establishing the absolute incompatibility between righteousness and lawlessness, light and darkness, Christ and Belial, believer and unbeliever, temple of God and idols.",
+            "relevance": "The imperative 'do not be unequally yoked' presupposes that the Corinthians are genuine agents who can choose their allegiances. The five antithetical pairs present belonging to Christ's realm versus Belial's realm as a matter of human decision -- the Corinthians must choose which side of each incompatible pair they will align with. The passage treats covenant loyalty as something humans can direct, not as something unilaterally predetermined.",
+            "key_phrases": ["do not be unequally yoked with unbelievers", "what accord has Christ with Belial?", "what portion does a believer share with an unbeliever?"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:16b-18",
+            "section_title": "The Catena of Covenant Promises and Commands",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul weaves together Leviticus 26:11-12, Ezekiel 37:27, Isaiah 52:11, and 2 Samuel 7:14 into a composite quotation establishing that the believing community is God's temple, commanding separation from uncleanness, and promising divine welcome and sonship/daughtership conditional on that separation.",
+            "relevance": "The conditional structure of the catena is significant for the determinism question. The neutral reading notes that the Leviticus 26 source is explicitly conditional ('if you walk in my statutes'), and that the catena's own logic is sequential: 'go out... be separate... touch no unclean thing; THEN I will welcome you.' God's welcome and the covenant relationship of sons and daughters are presented as promises that accompany commands requiring human compliance. The divine promises are real but inseparable from demands for holiness that assume genuine human capacity to obey or disobey.",
+            "key_phrases": ["go out from their midst, and be separate from them", "touch no unclean thing; then I will welcome you", "I will be a father to you, and you shall be sons and daughters to me", "the promise of divine presence is real, but it is accompanied by the demand for holiness"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:1",
+            "section_title": "Conclusion: Cleansing and Completing Holiness",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul concludes the argument begun in 6:14 by calling the community to cleanse themselves from every defilement of body and spirit and to bring holiness to completion in the fear of God.",
+            "relevance": "The exhortation 'let us cleanse ourselves' presents sanctification as an active human responsibility, and the phrase 'bringing holiness to completion' treats holiness as a process that must be carried through by human effort, not as a state automatically conferred. The connection to 'the fear of God' and the judgment seat of Christ (5:10) ties this ongoing human responsibility to accountability before God, implying that the outcome is not predetermined but depends on whether believers actively pursue holiness.",
+            "key_phrases": ["let us cleanse ourselves from every defilement of body and spirit", "bringing holiness to completion in the fear of God", "holiness is a process that must be brought to its full completion", "it is not finished at the moment of conversion"],
+            "confidence": "medium"
+        }
+    ]
+}

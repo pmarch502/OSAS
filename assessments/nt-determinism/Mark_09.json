@@ -1,0 +1,88 @@
+{
+    "book": "Mark",
+    "chapter": 9,
+    "sections": [
+        {
+            "reference": "9:1",
+            "section_title": "The Promise of the Kingdom Seen Before Death",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus promises that some standing with him will see the kingdom of God come with power before they die, which the author connects to the transfiguration that follows six days later."
+        },
+        {
+            "reference": "9:2-8",
+            "section_title": "The Unveiling on the Mountain",
+            "category": "NOT_APPLICABLE",
+            "summary": "Three disciples witness Jesus transfigured in glory alongside Moses and Elijah, and a divine voice identifies Jesus as God's beloved Son and commands the disciples to hear him, endorsing Jesus's teaching about the necessity of suffering."
+        },
+        {
+            "reference": "9:9-13",
+            "section_title": "The Descent and the Question About Elijah",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus commands silence about the transfiguration until after his resurrection, then identifies John the Baptist as the returned Elijah whose suffering at human hands prefigures the Son of Man's own fate."
+        },
+        {
+            "reference": "9:14-29",
+            "section_title": "The Failure at the Foot of the Mountain and the Father's Cry",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The disciples fail to cast out an unclean spirit from a boy; Jesus identifies the crisis as one of faith, and the father confesses 'I believe; help my unbelief,' after which Jesus heals the boy and attributes the disciples' failure to lack of prayer.",
+            "relevance": "The passage presents faith as a genuine human response that determines outcomes. Jesus redirects the question from 'if you can do anything' to 'if you can believe,' making human receptivity the variable while God's power and willingness are assumed. The neutral reading explicitly states that 'believing is the human side of the equation' and that faith 'is the posture that receives what God is already willing and able to do.' The father exercises genuine agency throughout — bringing his son, crying out, confessing his limitation, asking for help. However, the father's acknowledgment that faith itself 'requires divine assistance' and is 'not something he can produce on his own' introduces a cooperative dimension that prevents a STRONG categorization. The passage does not directly address eternal salvation, but the neutral reading frames it as a central theological statement about the nature of faith.",
+            "key_phrases": [
+                "If thou canst believe, all things are possible to him that believeth",
+                "Lord, I believe; help thou mine unbelief",
+                "O faithless generation",
+                "This kind can come forth by nothing, but by prayer",
+                "faith is the posture that receives what God is already willing and able to do",
+                "believing is the human side of the equation"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "9:30-32",
+            "section_title": "The Second Passion Prediction and the Disciples' Silence",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus delivers the second passion prediction — the Son of Man will be delivered into human hands, killed, and rise after three days — while the disciples fail to understand and are afraid to ask."
+        },
+        {
+            "reference": "9:33-37",
+            "section_title": "The Dispute About Status and the Child in the Arms",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus discovers the disciples arguing about who is greatest, teaches that the first must be last and servant of all, and places a child in their midst to demonstrate that receiving the least significant person in Jesus's name is equivalent to receiving God."
+        },
+        {
+            "reference": "9:38-41",
+            "section_title": "The Outside Exorcist and the Boundaries of the Community",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus corrects the disciples for forbidding an outsider who casts out demons in Jesus's name, teaching that anyone not actively opposing them is an ally, and that even a cup of water given in connection with Jesus's name carries eschatological reward."
+        },
+        {
+            "reference": "9:42-48",
+            "section_title": "Warnings About Causing the Vulnerable to Fall",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus warns that causing a 'little one who believes in me' to stumble warrants a fate worse than drowning, then issues a threefold command to cut off the hand, foot, or eye that causes stumbling, because entering life maimed is preferable to being cast whole into Gehenna.",
+            "relevance": "The passage directly addresses human agency as the factor determining salvation outcomes. The neutral reading states explicitly that 'the thing that determines the destination is not external circumstances but the internal willingness to cut away whatever causes stumbling.' The two destinations — entering life/the kingdom of God versus being cast into Gehenna — are presented as determined by the individual's own choices. The imperatives ('cut it off,' 'pluck it out') presuppose genuine human agency: the person can and must act to secure their outcome. There is no mention of divine election, predetermination, or God selecting who enters life and who is cast into Gehenna. Additionally, the warning about 'little ones who believe in me' being caused to stumble implies that believers are genuinely vulnerable to spiritual ruin through the actions of others, which is incompatible with the view that God unilaterally secures individual salvation.",
+            "key_phrases": [
+                "whosoever shall offend one of these little ones that believe in me",
+                "it is better for thee to enter into life maimed, than having two hands to go into hell",
+                "it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire",
+                "the thing that determines the destination is not external circumstances but the internal willingness to cut away whatever causes stumbling"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "9:49-50",
+            "section_title": "Salt, Fire, and Peace",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus teaches that every disciple will be 'salted with fire' (purified through trial), warns that salt which loses its saltness cannot be restored, and commands the disciples to have salt in themselves and peace with one another.",
+            "relevance": "The imperative 'Have salt in yourselves' places the responsibility for maintaining spiritual integrity squarely on the individual disciple. The warning that salt which has lost its distinctive quality cannot be re-salted implies a genuine and irreversible possibility of loss — the disciple's essential quality can be forfeited, and the text offers no mechanism for divine restoration of what the individual has let go. In context, following the Gehenna warnings of verses 42-48, the salt metaphor extends the same logic of human responsibility: the disciple must actively maintain what preserves them. However, because the passage uses metaphorical language about discipleship qualities rather than directly addressing salvation determination, and because the fire imagery may include a dimension of divine purification, the categorization is LEANS rather than STRONG.",
+            "key_phrases": [
+                "if the salt have lost his saltness, wherewith will ye season it",
+                "Have salt in yourselves",
+                "every one shall be salted with fire"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

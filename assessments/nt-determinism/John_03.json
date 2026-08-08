@@ -1,0 +1,80 @@
+{
+    "book": "John",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-2",
+            "section_title": "Nicodemus Comes at Night",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Nicodemus as a Pharisee and Sanhedrin member who comes to Jesus at night, having drawn correct but insufficient conclusions from observing signs, serving as the concrete example of 2:23-25's category of sign-based belief that Jesus does not trust."
+        },
+        {
+            "reference": "3:3-8",
+            "section_title": "Born from Above",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The neutral reading finds that Jesus declares birth from above by water and Spirit (fulfilling Ezekiel 36:25-27) to be universally necessary for seeing or entering the kingdom of God, with the Spirit operating as a sovereign agent beyond human control or comprehension.",
+            "relevance": "The passage establishes that the new birth cannot be produced by human effort -- 'that which is born of the flesh is flesh' -- and that the Spirit 'blows where it wishes,' operating beyond human control. This echoes the prologue's declaration that God's children are born 'not of blood, nor of the will of the flesh, nor of the will of a man, but of God' (1:13). The emphasis on divine initiative and the Spirit's sovereignty leans deterministic. However, the passage does not explicitly state that the Spirit withholds birth from those who seek it or that God unilaterally selects who receives it; it establishes the necessity and divine source of the new birth without directly addressing the mechanism of recipient selection.",
+            "key_phrases": ["unless one is born from above, he cannot see the kingdom of God", "born of water and the Spirit", "that which is born of the flesh is flesh, and that which is born of the Spirit is spirit", "the wind blows where it wishes", "you must be born from above"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:9-13",
+            "section_title": "Earthly and Heavenly Things",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus rebuking Nicodemus for failing to understand the prophetic promises he should recognize as Israel's teacher, then establishing the Son of Man's unique authority to speak of heavenly things because he alone has descended from heaven."
+        },
+        {
+            "reference": "3:14-15",
+            "section_title": "The Serpent Lifted Up",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading finds that Jesus draws a typological parallel between the bronze serpent in Numbers 21 and the Son of Man's lifting up, presenting believing in the lifted-up Son as the condition for receiving eternal life, with the scope 'whoever believes' open to every person who responds.",
+            "relevance": "The serpent typology directly presents human response as the condition that determines the outcome. The neutral reading emphasizes that in Numbers 21, 'survival was not automatic,' that 'those who refused to look, or who did not look, died,' and that 'the condition was real: looking was necessary.' The Wisdom of Solomon interpretation confirms: the bronze serpent itself did not save, but the one who turned toward it was saved. The parallel is precise: as looking was a genuine human act required for physical survival, so believing is a genuine human response required for eternal life. The scope 'whoever believes' (pas ho pisteuon) is universal in availability, and the present-tense participle denotes continuous, ongoing trust. This is part of the author's core argument, not an aside.",
+            "key_phrases": ["as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up", "whoever believes in him will have eternal life", "the condition was looking", "everyone who looked, lived"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:16-18",
+            "section_title": "The Purpose of the Son's Sending",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading finds that God's love for the entire world motivated the giving of his only-begotten Son, with the purpose that whoever believes will not perish but have eternal life, and that refusal to believe constitutes self-imposed judgment that is already operative.",
+            "relevance": "The text directly addresses who determines salvation outcomes. God's love is directed toward 'the world' -- which the neutral reading identifies as 'the entire created human order, not a select portion of it.' The purpose of the Son's sending was salvation, not condemnation (v.17). The dividing line is human response: 'whoever believes' (pas ho pisteuon) is not judged; 'he who does not believe has been judged already.' The judgment consists of the refusal itself -- the perfect tense 'has been judged already' indicates that non-belief is a self-actualizing verdict, not a decree imposed from outside. The scope (the world), the condition (believing), and the mechanism of judgment (self-imposed through refusal) all present human beings as genuine agents whose response determines their standing.",
+            "key_phrases": ["God so loved the world", "whoever believes in him shall not perish, but have eternal life", "God did not send the Son into the world to judge the world, but that the world might be saved", "he who does not believe has been judged already, because he has not believed"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:19-21",
+            "section_title": "Light, Darkness, and the Verdict",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading presents judgment as the human preference for darkness over light, with those who do evil avoiding the light to escape exposure and those who practice truth coming to the light so that their deeds may be shown as wrought in God.",
+            "relevance": "The passage defines judgment (krisis) as a present reality constituted by human choice: 'men loved the darkness rather than the light.' The neutral reading states that 'the light does not need to condemn; the preference for darkness is self-condemning.' Coming to the light or remaining in darkness is presented as a human moral decision driven by one's relationship to truth. However, the phrase 'wrought in God' (en theo eirgasmena) in v.21 introduces ambiguity: the deeds of those who come to the light are described as having been done 'in communion with God, in dependence on God.' This acknowledges divine involvement in the good response without negating human agency, but it prevents a fully unambiguous libertarian reading.",
+            "key_phrases": ["men loved the darkness rather than the light, for their deeds were evil", "everyone who does evil hates the light and does not come to the light", "he who practices the truth comes to the light", "his deeds may be manifested as having been wrought in God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:22-24",
+            "section_title": "Jesus and John Baptizing",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents a narrative transition in which Jesus and his disciples baptize in the Judean countryside while John continues baptizing at Aenon near Salim, setting the stage for the comparison between the two ministries."
+        },
+        {
+            "reference": "3:25-30",
+            "section_title": "John's Final Testimony and the Bridegroom",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents John the Baptist affirming his subordinate role as the bridegroom's friend, declaring that his joy is fulfilled by the bridegroom's arrival and that Jesus must increase while he must decrease, with all roles assigned by divine necessity."
+        },
+        {
+            "reference": "3:31-36",
+            "section_title": "The One from Above",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading finds that the chapter's argument culminates in a stark binary: believing in and obeying the Son yields present possession of eternal life, while disobeying the Son means the wrath of God remains as an ongoing condition from which the Son offers rescue.",
+            "relevance": "The text directly addresses human response as the determinant of salvation outcome. The neutral reading highlights the critical word choice in v.36: the opposite of 'believing' is not apisteo ('to disbelieve') but apeitheo ('to disobey, to refuse compliance') -- active rebellion, not passive ignorance. The neutral reading states that 'believing, in this author's framework, is not merely cognitive assent but is inseparable from obedience. Unbelief manifests as disobedience; disobedience reveals unbelief.' The wrath 'remains' (menei, present tense) on the disobedient, indicating a default condition from which the Son's coming offers escape. The mechanism is human response: believing/obeying → eternal life; disobeying → wrath remains. This is the author's summation of the chapter's entire argument.",
+            "key_phrases": ["he who believes in the Son has eternal life", "he who does not obey the Son will not see life", "the wrath of God abides on him", "no one receives his testimony", "he who has received his testimony has set his seal to this, that God is true"],
+            "confidence": "high"
+        }
+    ]
+}

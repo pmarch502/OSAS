@@ -1,0 +1,52 @@
+{
+    "book": "Acts",
+    "chapter": 12,
+    "sections": [
+        {
+            "reference": "12:1-2",
+            "section_title": "The King's Hand Against the Church",
+            "category": "NOT_APPLICABLE",
+            "summary": "Herod Agrippa I attacks the church for political advantage, executing James the brother of John with a sword in a single terse sentence, while the narrative withholds any explanation for why James was not delivered as Peter will be."
+        },
+        {
+            "reference": "12:3-5",
+            "section_title": "Arrest During Passover -- The Exodus Pattern Begins",
+            "category": "NOT_APPLICABLE",
+            "summary": "Herod arrests Peter during the feast of Unleavened Bread for political gain, imprisons him under extraordinary guard, and the church responds with intense, agonized prayer to God."
+        },
+        {
+            "reference": "12:6-11",
+            "section_title": "The Angel's Deliverance -- A New Exodus",
+            "category": "NOT_APPLICABLE",
+            "summary": "An angel of the Lord enters the prison on the night before Peter's expected execution, gives him departure instructions echoing Exodus 12:11, and leads him out past every layer of security, which collapses without resistance."
+        },
+        {
+            "reference": "12:12-17",
+            "section_title": "Peter at the Prayer House -- The Community's Astonishment",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter arrives at the house of Mary where the community is praying, but they cannot believe their own prayer has been answered; Peter instructs them to report to James the brother of Jesus and departs, marking a leadership transition in the Jerusalem church."
+        },
+        {
+            "reference": "12:18-19",
+            "section_title": "The Aftermath -- Herod's Futile Power",
+            "category": "NOT_APPLICABLE",
+            "summary": "Herod's response to Peter's escape follows the logic of human power -- he executes the guards who failed him -- then relocates to Caesarea, the stage for his final scene."
+        },
+        {
+            "reference": "12:20-23",
+            "section_title": "The Death of Herod -- The Oppressor's End",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Herod accepts the crowd's acclamation of his voice as divine, and an angel of the Lord strikes him dead because he did not give God the glory.",
+            "relevance": "The text explicitly assigns the cause of Herod's destruction to his own moral failure: 'because he did not give God the glory.' The neutral reading draws a direct contrast with Peter, who in Acts 10:26 refused worship and said 'I too am a man.' Two men face the same situation -- being offered divine honor -- and their opposite responses produce opposite divine outcomes: Peter is used by God, Herod is destroyed by God. This pattern presents divine judgment as responsive to human choice rather than as a predetermined verdict, implying that a person's standing before God is genuinely affected by their own agency.",
+            "key_phrases": ["because he did not give God the glory", "The voice of a god and not of a man", "Stand up; I too am a man", "Peter refused divine honor and was used by God. Herod accepted divine honor and was destroyed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "12:24-25",
+            "section_title": "The Word Grows -- The Bridge to Mission",
+            "category": "NOT_APPLICABLE",
+            "summary": "The summary refrain declares that the word of the Lord continued to grow and multiply despite all opposition, and Barnabas and Saul return to Antioch with John Mark, bridging the Jerusalem phase of Acts to the Gentile mission."
+        }
+    ]
+}

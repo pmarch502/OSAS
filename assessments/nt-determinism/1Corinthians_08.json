@@ -1,0 +1,46 @@
+{
+    "book": "1Corinthians",
+    "chapter": 8,
+    "sections": [
+        {
+            "reference": "8:1",
+            "section_title": "The Corinthian Slogan and Paul's Correction",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul engages the Corinthians' claim that 'all of us possess knowledge' about idol-food and corrects it with the principle that knowledge puffs up while love builds up."
+        },
+        {
+            "reference": "8:2-3",
+            "section_title": "The Insufficiency of Knowledge and the Priority of Being Known",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul argues that the person who thinks they have arrived at knowledge has not yet reached true knowing, and that the person who loves God is known by God in covenantal relationship."
+        },
+        {
+            "reference": "8:4-6",
+            "section_title": "The Content of the Knowledge -- Monotheistic Confession",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul affirms the Corinthians' monotheistic theology -- idols are nothing, God is one -- and reformulates the Shema christologically: one God the Father as source and goal, one Lord Jesus Christ as agent of creation and redemption."
+        },
+        {
+            "reference": "8:7-8",
+            "section_title": "The Weak Conscience and the Limits of Knowledge",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul qualifies the universal knowledge claim by noting that some believers, shaped by lifelong idol worship, still perceive idol-food as genuinely offered to real deities, and their weak conscience is defiled when they eat."
+        },
+        {
+            "reference": "8:9-12",
+            "section_title": "The Stumbling Block, the Destruction of the Brother, and Sin Against Christ",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul warns that a knowledgeable believer's exercise of freedom in eating at an idol's temple can lead a weak brother to eat against conscience, destroying the brother for whom Christ died, which constitutes sin against Christ.",
+            "relevance": "Paul states that a brother 'for whom Christ died' is being destroyed (apollytai) by another believer's exercise of freedom. The verb apollymi is the same word used in 1:18 for 'those who are perishing' -- placing the stakes at the level of eschatological ruin. This assumes that human actions can undo what Christ's death accomplished for a specific person: Christ died to save this brother, yet the knowledgeable person's careless behavior is destroying him. The passage presupposes that salvation outcomes are not unilaterally fixed by divine decree but can be affected by human conduct -- both the knowledgeable person's choice to eat and the weak person's resulting violation of conscience. The passage functions as an ethical argument (limit your freedom for love), but its force depends on the premise that genuine salvific destruction of a brother is a real possibility, not a hypothetical one.",
+            "key_phrases": ["by your knowledge this weak person is destroyed", "the brother for whom Christ died", "you sin against Christ", "this right of yours does not somehow become a stumbling block to the weak"],
+            "confidence": "high"
+        },
+        {
+            "reference": "8:13",
+            "section_title": "Paul's Own Resolution -- Total Self-Limitation",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul declares he would permanently give up all meat rather than cause a brother to stumble, modeling the principle of self-limited freedom for the sake of the vulnerable."
+        }
+    ]
+}

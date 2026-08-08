@@ -1,0 +1,66 @@
+{
+    "book": "Romans",
+    "chapter": 6,
+    "sections": [
+        {
+            "reference": "6:1-4",
+            "section_title": "The Question, the Answer, and the Baptismal Reality",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul answers the objection that grace licenses sin by arguing that believers died to sin through baptism into Christ's death and were buried with him so that they might walk in newness of life.",
+            "relevance": "The baptismal co-death is described with passive verbs (God's act), but the resulting new life is cast in the subjunctive mood (peripatesomen, 'might walk'), which the neutral reading identifies as a purpose to be enacted rather than an automatic result. The reading notes the asymmetry: Christ's resurrection is indicative (accomplished fact), while the believer's corresponding new walk is subjunctive (intended outcome that must be lived out). This framing presents the new life as requiring active human participation, not as a unilaterally determined outcome.",
+            "key_phrases": ["How can we who died to sin still live in it?", "so we too might walk in newness of life", "the subjunctive also leaves the walking as something to be enacted, not merely experienced passively"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:5-7",
+            "section_title": "United in Death, United in Resurrection; the Crucified Old Humanity",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul explains that the old Adamic humanity was crucified with Christ so that the body of sin might be rendered powerless and believers would no longer be enslaved to sin, drawing on Exodus liberation imagery.",
+            "relevance": "The crucifixion of the old self is God's act (passive verbs throughout), but the stated purpose is liberation, not determination: 'in order that the body of sin might be rendered powerless, so that we would no longer be enslaved to sin.' The Exodus parallel the reading identifies is significant -- God freed Israel from Pharaoh's bondage not into passive existence but into active covenant service. The liberation language implies capacity for genuine agency: being freed from sin's mastery so one can serve righteousness, not being programmed to do so irresistibly.",
+            "key_phrases": ["our old self was crucified with him", "so that we would no longer be enslaved to sin", "the one who has died has been freed from sin", "liberation from bondage"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:8-11",
+            "section_title": "The Logic of Co-Death and Co-Life, and the Command to Reckon",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul draws the conclusion that if believers died with Christ they will also live with him, noting Christ's permanent victory over death, and then commands believers to consider themselves dead to sin and alive to God.",
+            "relevance": "The shift from indicative to imperative at verse 11 is the key moment: Paul moves from describing what God accomplished (first person plural indicative, vv. 8-10) to commanding what believers must do about it (second person imperative, v. 11: 'consider yourselves dead to sin but alive to God'). The reading explicitly notes this transition from description to command, from shared identity to direct exhortation. The imperative logizesthe requires active human reckoning -- the reality of co-death must be appropriated through genuine human agency, not passively received as an irresistible divine determination.",
+            "key_phrases": ["consider yourselves dead to sin but alive to God in Christ Jesus", "the indicative gives way to the imperative", "Paul has established what is true; now he tells them how to live in light of what is true"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:12-14",
+            "section_title": "The Command Not to Let Sin Reign, and the Promise",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul commands believers not to let sin reign in their mortal bodies, not to present their members as instruments of unrighteousness but to present themselves to God as those alive from the dead, and declares that sin shall not have dominion over them because they are under grace.",
+            "relevance": "The imperatives directly presuppose genuine human agency over salvation-relevant outcomes. The reading states explicitly: 'the command presupposes that the believers have agency in the matter: sin's reign is something they can resist, prevent, or terminate.' The chapter's structural analysis reinforces this: 'If the believer's death to sin were automatic and irresistible in its effects, there would be no need for commands. Paul would not need to say do not let sin reign if sin could not possibly reign.' These commands are part of Paul's own argument, not asides. The choice between presenting one's members as 'weapons of unrighteousness' or 'weapons of righteousness' is framed as a genuine decision with real consequences for the believer's standing.",
+            "key_phrases": ["do not let sin reign in your mortal body", "do not go on presenting your members to sin as instruments of unrighteousness", "present yourselves to God as those alive from the dead", "the command presupposes that the believers have agency in the matter"],
+            "confidence": "high"
+        },
+        {
+            "reference": "6:15-19",
+            "section_title": "The Second Question and the Slavery Metaphor",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul answers the second objection (does grace permit sin?) by arguing that every person serves a master -- either sin leading to death or obedience leading to righteousness -- and that the believers were formerly slaves of sin but obeyed from the heart and were transferred to the service of righteousness.",
+            "relevance": "Verse 16 is a direct, unambiguous statement that human obedience determines salvation-relevant outcomes: 'you are slaves of the one you obey, either of sin resulting in death, or of obedience resulting in righteousness.' This is Paul's own argument, central to the chapter, not an illustration or aside. The reading notes that the two options are exclusive -- 'there is no third category, no neutral ground, no state of freedom from all masters' -- and that identity follows practice. The reading's structural analysis makes the implication explicit: 'Paul does not treat the believer's transfer from sin's service to God's service as a transaction that cannot be reversed. He treats it as a reality that must be maintained through ongoing obedience.' While the passive verbs in vv. 17-18 describe God's initiative in the transfer, verse 17's 'obedient from the heart' presents the human response as genuine, and verse 16's principle makes ongoing status contingent on ongoing choice.",
+            "key_phrases": ["you are slaves of the one you obey, either of sin resulting in death, or of obedience resulting in righteousness", "you became obedient from the heart", "having been freed from sin, you became slaves of righteousness", "Paul does not treat the believer's transfer as a transaction that cannot be reversed"],
+            "confidence": "high"
+        },
+        {
+            "reference": "6:20-23",
+            "section_title": "The Two Outcomes -- Death and Eternal Life",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul contrasts the fruit of former slavery to sin (shame and death) with the fruit of current slavery to God (sanctification and eternal life), summarizing that sin pays wages of death while God gives the free gift of eternal life in Christ Jesus.",
+            "relevance": "The passage presents two possible outcomes -- death or eternal life -- tied to which master one serves, which the chapter has established as a matter of genuine human choice (v. 16). However, verse 23's contrast between 'wages' (opsonia, earned compensation) and 'free gift' (charisma, grace-gift) introduces nuance: death is earned by serving sin, but eternal life is a gift from God, not a wage earned by serving righteousness. This gift language could be read as supporting divine initiative, but per the chapter's own framework, receiving and remaining in the gift requires ongoing obedience (v. 16) and active presentation of oneself to God (vv. 13, 19). The reading notes: 'a charisma cannot be a wage because it comes from charis, and charis is unmerited' -- the point is about grace versus merit, not about determinism versus agency.",
+            "key_phrases": ["the end of those things is death", "the outcome, eternal life", "the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord"],
+            "confidence": "medium"
+        }
+    ]
+}

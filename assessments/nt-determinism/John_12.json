@@ -1,0 +1,84 @@
+{
+    "book": "John",
+    "chapter": 12,
+    "sections": [
+        {
+            "reference": "12:1-8",
+            "section_title": "The Anointing at Bethany",
+            "category": "NOT_APPLICABLE",
+            "summary": "Mary anoints Jesus's feet with costly nard, which Jesus interprets as preparation for his burial, while Judas objects under the guise of concern for the poor but is identified by the author as a thief."
+        },
+        {
+            "reference": "12:9-11",
+            "section_title": "The Response of the Crowd and the Plot Against Lazarus",
+            "category": "NOT_APPLICABLE",
+            "summary": "The chief priests extend their murderous plot to include Lazarus because the sign of his raising keeps producing belief in Jesus among the Jews, threatening the authorities' institutional control."
+        },
+        {
+            "reference": "12:12-19",
+            "section_title": "The Entry into Jerusalem",
+            "category": "NOT_APPLICABLE",
+            "summary": "The crowd hails Jesus with palm branches and Psalm 118 acclamations as a national liberator, but Jesus reframes the kingship by riding a donkey in fulfillment of Zechariah 9:9, presenting a peaceable rather than military kingship."
+        },
+        {
+            "reference": "12:20-26",
+            "section_title": "Greeks Seek Jesus — The Grain of Wheat and the Hour of Glorification",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The arrival of Greek God-fearers triggers Jesus's declaration that the hour has come, followed by the grain-of-wheat teaching on the necessity of his death and its extension to the pattern of discipleship.",
+            "relevance": "The dying-to-live pattern is extended from Jesus to his followers with explicit conditional language bearing on eternal life outcomes: 'he who hates his life in this world will keep it to life eternal' and 'if anyone serves me, he must follow me.' These statements present human choices — loving or hating one's life, serving, following — as the conditions that determine whether one keeps life to eternity. The 'if anyone' construction presupposes genuine human agency in the response.",
+            "key_phrases": [
+                "he who loves his life loses it, and he who hates his life in this world will keep it to life eternal",
+                "If anyone serves me, he must follow me",
+                "if anyone serves me, the Father will honor him"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "12:27-36a",
+            "section_title": "The Troubled Soul, the Voice from Heaven, and the Lifting Up",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus's soul is troubled but he rejects the prayer for rescue, receives the Father's voice from heaven, declares judgment on the world and the casting out of its ruler, and announces that being lifted up will draw all people to himself, then urges the crowd to believe in the Light while it is present.",
+            "relevance": "John 12:32 ('I, if I am lifted up from the earth, will draw all men to myself') is a conventional proof-text for human agency. The neutral reading highlights that the scope is universal — pantas, all people without ethnic or national limitation — which creates a tension with any reading that treats drawing as irresistible (since not all are ultimately saved). The drawing parallels 6:44 (the Father draws), but the neutral reading notes unity of action between Father and Son rather than a change in mechanism. Crucially, the section combines divine drawing with imperatives directed at the crowd: 'Walk while you have the Light,' 'believe in the Light, so that you may become sons of Light.' These imperatives presuppose that human response to the drawing is genuine and necessary, not predetermined.",
+            "key_phrases": [
+                "I, if I am lifted up from the earth, will draw all men to myself",
+                "Walk while you have the Light, so that darkness will not overtake you",
+                "believe in the Light, so that you may become sons of Light"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "12:36b-43",
+            "section_title": "The Author's Commentary on Israel's Unbelief",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "The author steps back from narration to explain Israel's widespread unbelief by citing Isaiah 53:1 and Isaiah 6:10, identifying Isaiah's vision of the LORD's glory as a vision of Jesus's glory, then qualifying the scope of the hardening by noting that many rulers believed but did not confess because they loved human approval more than God's.",
+            "relevance": "This section contains the strongest deterministic-sounding language in the chapter: 'they could not believe' and 'He has blinded their eyes and he hardened their heart.' However, the neutral reading interprets the hardening as judicial — a divine confirmation of a condition the people had already chosen through sustained refusal — not an arbitrary prevention of belief in willing hearts. The reading supports this by tracing the pattern across the document: the Pharisees refused to accept the healed man's testimony (ch. 9), Jesus declared their blindness culpable ('since you say, We see, your sin remains,' 9:41), and 3:19 identifies 'men loved the darkness rather than the light' as the human act preceding judgment. The hardening is also shown to be non-absolute: 'Nevertheless many even of the rulers believed in him.' The rulers' failure to confess is attributed entirely to a human moral choice: 'they loved the approval of men rather than the approval of God.' The overall sequence in the neutral reading is: human refusal precedes divine hardening, and even the hardening does not prevent all belief.",
+            "key_phrases": [
+                "though he had performed so many signs before them, yet they were not believing in him",
+                "they could not believe",
+                "He has blinded their eyes and he hardened their heart",
+                "Nevertheless many even of the rulers believed in him",
+                "they loved the approval of men rather than the approval of God"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "12:44-50",
+            "section_title": "Jesus's Final Public Declaration",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus's final public utterance recapitulates the central themes of the public ministry: believing in Jesus is believing in the Father, Jesus came as light so that believers will not remain in darkness, the word he spoke will judge those who reject it on the last day, and his commandment is eternal life.",
+            "relevance": "The entire passage is structured around conditional statements in which human response determines the salvation outcome. 'Everyone who believes in me will not remain in darkness' makes believing the condition for leaving darkness. 'If anyone hears my sayings and does not keep them' presents hearing-and-keeping as a genuine human choice. 'He who rejects me and does not receive my sayings, has one who judges him' makes rejection a human act that triggers judgment. 'I did not come to judge the world, but to save the world' establishes universal salvific intent, with judgment as the secondary consequence of human refusal rather than divine selection. The neutral reading emphasizes that 'everyone who believes' uses the present participle, describing 'an ongoing condition, not a past-tense achievement,' and that 'the active participation of believing is the condition under which the darkness is dispelled.' This is Jesus's climactic public argument — not an illustration or aside — and it directly presents human beings as genuine agents whose response to the word determines whether they are saved or judged.",
+            "key_phrases": [
+                "everyone who believes in me will not remain in darkness",
+                "If anyone hears my sayings and does not keep them, I do not judge him",
+                "I did not come to judge the world, but to save the world",
+                "He who rejects me and does not receive my sayings, has one who judges him; the word I spoke is what will judge him at the last day",
+                "his commandment is eternal life"
+            ],
+            "confidence": "high"
+        }
+    ]
+}

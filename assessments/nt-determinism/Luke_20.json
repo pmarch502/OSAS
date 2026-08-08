@@ -1,0 +1,54 @@
+{
+    "book": "Luke",
+    "chapter": 20,
+    "sections": [
+        {
+            "reference": "20:1-8",
+            "section_title": "The Question About Authority",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Sanhedrin coalition formally challenges Jesus's authority in the temple, and Jesus's counter-question about John's baptism exposes their inability to assess prophetic authority, as their deliberation is entirely political rather than theological and their evasive answer disqualifies them from evaluating his credentials."
+        },
+        {
+            "reference": "20:9-19",
+            "section_title": "The Parable of the Vineyard Tenants",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus tells the people a parable in which a vineyard owner sends three servants and then his beloved son to collect produce from tenants, each of whom the tenants abuse or kill, resulting in the owner's destruction of the tenants and transfer of the vineyard to others, with Jesus then citing Psalm 118:22 about the rejected cornerstone.",
+            "relevance": "The parable bears on the determinism question through its portrayal of divine disposition toward the tenants and the causal role of their choices. Most striking is the owner's reasoning in verse 13: 'What shall I do? I will send my beloved son; perhaps they will respect him.' The neutral reading explicitly notes that 'perhaps' (isos) 'expresses hope, not certainty — the owner does not know in advance what the tenants will do, but he risks his most precious asset on the possibility that they will respond differently to the son than they did to the servants.' Within the parable's logic, where the owner represents God, this attributes to God genuine hope for a different response rather than foreordained certainty of rejection. The tenants then make a free deliberative choice — 'they reasoned with one another' — to kill the heir, and the destruction that follows is presented as a consequence of their decision, not as a decree that preceded it. The transfer of the vineyard to 'others' who will produce fruit implies that fruitfulness is a genuine possibility contingent on the stewards' choices. However, this is a parable rather than a direct theological argument about who determines salvation, and its primary subject is the transfer of covenantal stewardship from unfaithful leaders to a new community, not individual salvation outcomes. These factors prevent a STRONG categorization.",
+            "key_phrases": ["What shall I do? I will send my beloved son; perhaps they will respect him", "they reasoned with one another, saying, This is the heir; let us kill him", "He will come and destroy these vine-growers and will give the vineyard to others"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "20:20-26",
+            "section_title": "The Question About Tribute to Caesar",
+            "category": "NOT_APPLICABLE",
+            "summary": "Spies sent by the scribes and chief priests attempt to trap Jesus with a question about the lawfulness of paying Roman tribute, and Jesus's response — render to Caesar what is Caesar's and to God what is God's — transcends their binary trap by placing God's total claim on those who bear his image above any civic obligation."
+        },
+        {
+            "reference": "20:27-40",
+            "section_title": "The Sadducees and the Resurrection",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Sadducees pose a reductio ad absurdum about levirate marriage and resurrection, and Jesus dismantles their argument by distinguishing between the present age and the age to come, declaring that those considered worthy to attain resurrection neither marry nor die, and arguing from Exodus 3 that God's self-identification as the God of Abraham, Isaac, and Jacob entails their continued life.",
+            "relevance": "The phrase 'those who are considered worthy to attain to that age and the resurrection from the dead' (hoi de kataxiothentes) introduces evaluative language relevant to the determinism question. The neutral reading notes that kataxioō means 'to consider worthy, to deem deserving,' that the passive voice indicates 'worthiness is assessed by God, not self-declared,' and that 'not everyone attains to that age — the language implies a judgment that determines who does.' The word 'worthy' is significant: it implies evaluative criteria rather than unconditional selection. God assesses worthiness, which presupposes something about the person that is being evaluated — their faithfulness, their response, their conduct. This is more naturally compatible with genuine human agency (people live in ways that God then evaluates) than with unilateral determination (where worthiness would be irrelevant because God simply selects). However, the passage does not develop what constitutes this worthiness, and the primary argument is about the reality of resurrection itself, not about the mechanism by which people attain it. The bearing on the determinism question is real but secondary to the passage's main concern.",
+            "key_phrases": ["those who are considered worthy to attain to that age and the resurrection from the dead", "they cannot even die anymore, because they are like angels, and are sons of God, being sons of the resurrection", "He is not the God of the dead but of the living; for all live to Him"],
+            "confidence": "low"
+        },
+        {
+            "reference": "20:41-44",
+            "section_title": "David's Son and David's Lord",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus poses a question about how the Messiah can be both David's descendant and David's Lord, citing Psalm 110:1 to demonstrate that the Messiah's identity transcends and exceeds mere Davidic lineage, exposing the inadequacy of the authorities' messianic categories."
+        },
+        {
+            "reference": "20:45-47",
+            "section_title": "Warning Against the Scribes",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus publicly warns his disciples to beware of the scribes, cataloguing their love of status markers and public honor, their predatory exploitation of widows, and their use of long prayers as a religious facade, concluding that they will receive greater condemnation.",
+            "relevance": "The concept of 'greater condemnation' (perissoteron krima) presupposes genuine moral agency and graduated accountability. The neutral reading notes that 'those who know the Torah most thoroughly and who exploit it most deliberately bear greater responsibility. Their knowledge does not protect them from judgment; it intensifies it.' Graduated judgment based on knowledge and conduct is coherent only if the scribes had genuine capacity to act differently — to use their Torah knowledge for protection of widows rather than exploitation, to practice genuine prayer rather than performative piety. The assumption underlying the warning is that their choices (vanity, predation, religious pretense) are genuinely their own and that these choices determine their judgment outcome. If their behavior were unilaterally determined, holding them to a higher standard because of their knowledge would be incoherent. However, this is a moral warning rather than a direct theological argument about who determines salvation, which prevents a STRONG categorization.",
+            "key_phrases": ["who devour widows' houses", "for appearance's sake offer long prayers", "These will receive greater condemnation"],
+            "confidence": "medium"
+        }
+    ]
+}

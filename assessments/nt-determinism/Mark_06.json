@@ -1,0 +1,58 @@
+{
+    "book": "Mark",
+    "chapter": 6,
+    "sections": [
+        {
+            "reference": "6:1-6a",
+            "section_title": "Rejection by Those Who Know Him",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that the people of Nazareth recognize the reality of Jesus's power but cannot reconcile it with his ordinary origins, and their unbelief renders Jesus's power inoperative among them.",
+            "relevance": "The neutral reading's central claim is stark: 'faith is not incidental to Jesus's power but is the condition under which that power operates among human beings. Unbelief does not merely miss the benefits of Jesus's authority; it blocks them.' The author constructs an argument across chapters 5-6 in which human response -- faith or unbelief -- determines whether divine power operates. The people are not denied access by divine decree; they stumble (eskandalizonto) on what they think they already know, and their refusal produces the limitation. Jesus is genuinely amazed at their unbelief, which the reading notes is itself a reversal -- normally humans are astonished at Jesus. This implies Jesus did not foresee or ordain their refusal.",
+            "key_phrases": ["He could not do any miracle there", "He was amazed at their unbelief", "they took offense at Him", "faith has made you well", "only believe"],
+            "confidence": "high"
+        },
+        {
+            "reference": "6:6b-13",
+            "section_title": "The Extension of Jesus's Authority Through the Twelve",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that Jesus responds to Nazareth's rejection by multiplying his mission through the Twelve, who preach repentance, cast out demons, and heal the sick, with instructions anticipating that some towns will receive them and some will refuse.",
+            "relevance": "The mission's core message is repentance -- the same call Jesus issued in 1:15 -- which presupposes that hearers can and should respond. The instructions for towns that refuse (shake dust off as testimony against them) assign moral responsibility for the refusal, treating rejection as a culpable human choice rather than a divinely determined outcome. The dust-shaking gesture treats the refusing town as if it were pagan territory, implying the refusal has placed them outside the covenant community by their own action.",
+            "key_phrases": ["preached that people should repent", "any place that does not receive you or listen to you", "shake the dust off the soles of your feet as a testimony against them"],
+            "confidence": "low"
+        },
+        {
+            "reference": "6:14-29",
+            "section_title": "The Execution of John -- An Intercalation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that Herod recognized John as righteous and holy, enjoyed listening to him, and was perplexed by his demands, but capitulated to social pressure and had John executed rather than act on what he knew to be true.",
+            "relevance": "The neutral reading explicitly identifies Herod as 'the anti-type of the hemorrhaging woman: she had nothing left but faith and reached out; Herod has everything -- power, position, knowledge of the truth -- and cannot let go of the arrangement that contradicts it.' Herod's failure is not attributed to divine determination but to identifiable human causes: social obligation, oaths made in front of the elite, and fear of appearing weak. The author presents a figure who has accurate knowledge of truth and moral authority yet whose own entanglements prevent right action. The forces that overpower Herod's better knowledge are 'not ignorance but social obligation and the fear of appearing weak before the powerful' -- entirely human factors.",
+            "key_phrases": ["knowing that he was a righteous and holy man", "he used to enjoy listening to him", "because of his oaths and his dinner guests he was unwilling to refuse her", "although the king was very sorry"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:30-44",
+            "section_title": "Feeding in the Wilderness",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that Jesus, seeing the crowd as sheep without a shepherd, feeds five thousand in the wilderness in a sequence that recapitulates the Exodus narrative and enacts Ezekiel 34's promise of God's shepherd feeding the neglected flock of Israel."
+        },
+        {
+            "reference": "6:45-52",
+            "section_title": "Walking on the Sea",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that Jesus walks on the sea in a theophanic act modeled on Job 9:8 and Exodus 33, identifies himself with the divine ego eimi, and calms the wind, but the disciples fail to understand because their hearts are hardened.",
+            "relevance": "The neutral reading's assessment of the disciples' failure uses language with deterministic resonance: 'their heart was hardened' (peporomene) is a divine passive that the reading connects to the hardening of Pharaoh's heart in Exodus and Isaiah 6:10's commission to speak to a people whose hearts would be closed. The reading notes this is 'the same word (poroo) that the author used in 3:5' for the Pharisees. The passive construction does not specify who hardened their hearts, but the biblical parallels the reading identifies -- Pharaoh's hardening and Isaiah's commission -- are cases where God is the agent of hardening. The reading describes the failure as 'not intellectual but cardiac,' suggesting a condition beyond the disciples' control. However, the passage is primarily about Christological identity rather than salvation outcomes, and the agent of hardening remains genuinely ambiguous.",
+            "key_phrases": ["their heart was hardened", "they had not gained any insight from the incident of the loaves", "the hardening of Pharaoh's heart", "Isaiah's commission to speak to a people whose hearts would be fattened"],
+            "confidence": "low"
+        },
+        {
+            "reference": "6:53-56",
+            "section_title": "Healings at Gennesaret",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that crowds throughout the region bring their sick to Jesus in the marketplaces, seeking to touch the fringe of his cloak as the hemorrhaging woman did, and as many as touch it are healed."
+        }
+    ]
+}

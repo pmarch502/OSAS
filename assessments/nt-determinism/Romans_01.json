@@ -1,0 +1,88 @@
+{
+    "book": "Romans",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-4",
+            "section_title": "The Sender, the Gospel, and the Son",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies himself as a called apostle set apart for the gospel concerning God's Son, Jesus the Messiah, who is David's descendant according to the flesh and designated Son of God in power through the resurrection."
+        },
+        {
+            "reference": "1:5-7",
+            "section_title": "The Apostolic Commission and the Recipients",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes his commission to bring about 'the obedience of faith' among the Gentiles and addresses the Roman believers as 'called of Jesus Christ' and 'called as saints.'",
+            "relevance": "The passage pairs divine initiative ('called of Jesus Christ,' 'called as saints') with the expected human response ('the obedience of faith'). The programmatic phrase 'obedience of faith' fuses trusting and obeying as a genuine human activity that God's calling aims to produce, suggesting that calling presupposes and requires human response rather than rendering it irrelevant.",
+            "key_phrases": ["the obedience of faith among all the Gentiles", "called of Jesus Christ", "called as saints", "beloved of God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:8-15",
+            "section_title": "Paul's Relationship to the Roman Community",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul expresses thanksgiving for the Romans' faith, describes his longing to visit them for mutual encouragement, and states his obligation to preach the gospel to all peoples."
+        },
+        {
+            "reference": "1:16-17",
+            "section_title": "The Thesis of the Letter",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul declares the gospel to be God's power for salvation 'to everyone who believes, to the Jew first and also to the Greek,' because in it God's righteousness is revealed 'from faith to faith,' grounded in Habakkuk 2:4.",
+            "relevance": "This is the thesis statement of the entire letter, directly addressing who receives salvation as part of the author's central argument. The universal scope ('everyone') combined with the human condition ('who believes') presents faith as the operative factor determining who receives God's saving power. The present participle (pisteuonti) describes believing as an ongoing human stance, not a one-time event. The phrase 'from faith to faith' establishes that the entire salvific process operates in the domain of faith and faithfulness. No limitation on who may believe is stated; the condition is placed entirely on the human response of trust.",
+            "key_phrases": ["the power of God for salvation to everyone who believes", "to the Jew first and also to the Greek", "the righteousness of God is revealed from faith to faith", "the righteous man shall live by faith"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:18-23",
+            "section_title": "The Revelation of Wrath and the Human Exchange",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "God's wrath is revealed against those who suppress the truth, because they knew God through creation but chose not to honor Him, becoming futile in their thinking and exchanging His glory for images.",
+            "relevance": "The passage consistently presents the descent into idolatry as the result of human choices, not divine predetermination. The neutral reading identifies the failure as 'not ignorance but refusal' -- they had genuine knowledge of God (vv.19-20) and chose to suppress it (v.18), refused to honor or thank Him (v.21), and actively exchanged His glory for images (v.23). The phrase 'without excuse' (v.20) implies they bore genuine responsibility and could have responded otherwise to the knowledge available to them.",
+            "key_phrases": ["who suppress the truth in unrighteousness", "that which is known about God is evident within them", "so that they are without excuse", "even though they knew God they did not honor Him", "they exchanged the glory of the incorruptible God"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:24-25",
+            "section_title": "The First Giving Over",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "In response to humanity's idolatry, God 'gave them over' to the lusts already in their hearts, resulting in the dishonoring of their bodies, as they exchanged the truth of God for the lie and worshiped the creature rather than the Creator.",
+            "relevance": "The 'giving over' (paradidomi) is God's wrath in action, but the neutral reading identifies it as withdrawal rather than unilateral determination: 'God did not create the lusts; God released the restraint that kept the lusts from bearing full fruit.' The sequence is consistently human choice first (they exchanged), divine response second (God gave them over). God's action is responsive to human agency, not prior to it. The LXX parallels (Judges 2:14, Psalm 81:12) confirm this pattern -- God gives people over to the consequences of their own choices.",
+            "key_phrases": ["God gave them over in the lusts of their hearts", "they exchanged the truth of God for a lie", "worshiped and served the creature rather than the Creator"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:26-27",
+            "section_title": "The Second Giving Over",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "God gave them over to degrading passions as women and men exchanged natural sexual function for what is against nature, receiving in themselves the due penalty of their error.",
+            "relevance": "The pattern of human exchange driving divine response continues. The third 'exchange' verb (metellaxan, v.26) presents the sexual reversal as a human action mirroring the theological exchange of idolatry. The men 'abandoned' (aphentes) natural function -- an active departure described as a choice. The consequence is 'the due penalty of their error,' with 'error' (plane) denoting a going astray that implies the possibility of having stayed on course.",
+            "key_phrases": ["God gave them over to degrading passions", "their women exchanged the natural function", "the men abandoned the natural function", "receiving in their own persons the due penalty of their error"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:28-31",
+            "section_title": "The Third Giving Over",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Because they did not see fit to acknowledge God, God gave them over to a depraved mind, resulting in a comprehensive catalogue of social and moral vices.",
+            "relevance": "The third giving over makes the causal sequence most explicit: 'they did not see fit (ouk edokimasan) to acknowledge God' -- a deliberate human evaluation -- and therefore 'God gave them over to an unfit (adokimon) mind.' The wordplay mirrors the punishment to the crime: a mind that rejects knowledge of God becomes a mind incapable of right function. The neutral reading summarizes the entire pattern: 'God's wrath operates through the withdrawal of his protective presence, allowing the natural consequences of rebellion to unfold.' Human refusal is the initiating cause; divine withdrawal is the response.",
+            "key_phrases": ["they did not see fit to acknowledge God any longer", "God gave them over to a depraved mind"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:32",
+            "section_title": "The Culminating Indictment",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Despite knowing God's ordinance that such practices are worthy of death, they not only practice them but give hearty approval to those who do the same.",
+            "relevance": "The verse presupposes genuine moral knowledge ('they know the ordinance of God') combined with genuine choice (they practice what they know to be wrong and endorse others who do the same). The deepest corruption is not inability but willful endorsement of what is known to be wrong. This framework of moral knowledge plus deliberate violation plus communal approval assumes that human beings are genuine agents capable of knowing and choosing, not predetermined automatons.",
+            "key_phrases": ["although they know the ordinance of God", "those who practice such things are worthy of death", "they not only do the same but also give hearty approval"],
+            "confidence": "medium"
+        }
+    ]
+}

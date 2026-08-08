@@ -1,0 +1,66 @@
+{
+    "book": "2Corinthians",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-2",
+            "section_title": "The Ministry Received and the Conduct It Demands",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul declares that he received the new covenant ministry by God's mercy and exercises it with complete transparency, renouncing cunning and tampering with God's word in favor of open proclamation of truth."
+        },
+        {
+            "reference": "4:3-4",
+            "section_title": "The Veiled Gospel and the God of This Age",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul explains that where the gospel remains veiled, the cause is not a defective message but the blinding work of 'the god of this age' (Satan) upon unbelievers who are on a trajectory of perishing.",
+            "relevance": "This passage is sometimes cited to support deterministic spiritual inability: unbelievers are blinded and cannot see the gospel. However, the neutral reading identifies three features that lean libertarian. First, the blinding agent is 'the god of this age' (Satan), not the sovereign God of Israel -- the inability is attributed to an adversary exploiting existing unbelief, not to a divine decree. Second, the neutral reading notes the blinding operates 'within a context of refusal -- the people who cannot see are those who have not turned to the Lord (3:16),' identifying willing unbelief as the precondition the adversary exploits. Third, the present participle 'those who are perishing' describes 'a present trajectory, a current state of movement toward destruction, not a fixed, predetermined fate,' distinguishing this from irreversible divine determination.",
+            "key_phrases": ["veiled to those who are perishing", "the god of this age has blinded the minds of the unbelievers", "not a fixed, predetermined fate", "exploiting the willing unbelief of those who refuse the truth", "when one turns to the Lord, the veil is removed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:5-6",
+            "section_title": "What Is Proclaimed and What Has Shone",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul declares that the content of his proclamation is Christ Jesus as Lord, and that the God who spoke light into primordial darkness has performed a parallel creative act by shining the knowledge of his glory into human hearts.",
+            "relevance": "The neutral reading frames the reception of the gospel as a divine creative act parallel to Genesis 1 creation: 'Just as God spoke light into primordial darkness, God shines the knowledge of his glory into darkened hearts.' The reading describes the illumination as 'just as sovereign and just as creative' as the original creation and says 'those who receive the gospel have experienced a creative act of God as fundamental as the first creation.' Since in Genesis 1 the darkness did not choose to receive light -- God simply spoke it into existence -- the parallel implies divine initiative in conversion that goes beyond mere invitation. However, the passage describes what happened to those who believed without explicitly stating that God unilaterally determines which hearts receive the light, and the immediately preceding context (4:3-4) frames non-reception within human refusal, which introduces tension with a purely deterministic reading.",
+            "key_phrases": ["God, who said, 'Let light shine out of darkness,' has shone in our hearts", "the light of the knowledge of the glory of God in the face of Jesus Christ", "an act of new creation parallel to the original creation", "just as sovereign and just as creative"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:7",
+            "section_title": "The Thesis -- Treasure in Clay Vessels",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul states the chapter's thesis: the surpassing treasure of the new covenant ministry is carried in fragile clay vessels so that the extraordinary power is unmistakably God's rather than the apostle's."
+        },
+        {
+            "reference": "4:8-9",
+            "section_title": "The Catalogue of Afflictions -- Pressed but Not Crushed",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul catalogues four paired contrasts describing his apostolic experience of being afflicted yet not crushed, perplexed yet not despairing, persecuted yet not forsaken, and struck down yet not destroyed, illustrating God's sustaining power within the clay-vessel design."
+        },
+        {
+            "reference": "4:10-12",
+            "section_title": "Carrying the Death of Jesus -- The Logic of the Cross in the Apostle's Body",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul argues that he perpetually carries the dying of Jesus in his body so that the life of Jesus is displayed in the same body, with apostolic suffering functioning as the mechanism by which life flows to the Corinthian community."
+        },
+        {
+            "reference": "4:13-15",
+            "section_title": "The Spirit of Faith, Resurrection, and the Community's Benefit",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul grounds his perseverance in the same spirit of faith as the afflicted psalmist (Psalm 116:10), expresses confidence that the God who raised Jesus will raise him and present him together with the Corinthians, and states that everything he endures serves the extension of grace to more people, increasing thanksgiving to God's glory."
+        },
+        {
+            "reference": "4:16-18",
+            "section_title": "The Inner Renewal and the Weight of Glory",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul declares that while the outer person wastes away, the inner person is renewed daily, and that the light momentary affliction is preparing an eternal weight of glory as the apostle deliberately fixes his gaze on the unseen and eternal rather than the seen and transient.",
+            "relevance": "The neutral reading notes that 'the renewal of the inner person is not automatic or inevitable; it is connected to faithfulness, to the deliberate gaze fixed on the unseen and eternal (4:18), and to the awareness that every person will give account.' It further describes perseverance as 'not effortless confidence but a disciplined, costly, daily choice sustained by faith in the God who raises the dead.' This framing presents inner renewal -- a component of the salvation process -- as requiring ongoing human agency: deliberate choice, disciplined focus, and faithful perseverance. While God is the source of renewal, the text ties its continuation to the believer's active, daily response.",
+            "key_phrases": ["our inner self is being renewed day by day", "as we look not to the things that are seen but to the things that are unseen", "disciplined, costly, daily choice", "not automatic or inevitable"],
+            "confidence": "medium"
+        }
+    ]
+}

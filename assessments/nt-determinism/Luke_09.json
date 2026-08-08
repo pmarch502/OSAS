@@ -1,0 +1,94 @@
+{
+    "book": "Luke",
+    "chapter": 9,
+    "sections": [
+        {
+            "reference": "9:1-6",
+            "section_title": "The Twelve Sent Out",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus gives the twelve power and authority over demons and diseases, sends them to proclaim the kingdom and heal, with instructions to travel in total dependence on hearers' hospitality and to shake dust off their feet against cities that refuse to receive them.",
+            "relevance": "The mission structure assumes genuine human agency in reception or rejection of the kingdom message. The travel instructions create total dependence on the hearers' response, making the hearers active participants whose choice to receive or refuse determines outcomes. The dust-shaking acts as 'a testimony against them,' treating a rejecting city as pagan territory outside the covenant — a consequence that follows directly from the city's own choice. The neutral reading states the mission 'creates a visible division between those who receive the kingdom's announcement and those who refuse it,' presenting that division as the result of human response, not divine predetermination.",
+            "key_phrases": ["as for those who do not receive you", "shake the dust off your feet as a testimony against them"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "9:7-9",
+            "section_title": "Herod's Perplexity",
+            "category": "NOT_APPLICABLE",
+            "summary": "Herod Antipas hears reports of Jesus's ministry, is greatly perplexed by competing public theories about Jesus's identity, and seeks to see him."
+        },
+        {
+            "reference": "9:10-17",
+            "section_title": "Feeding the Five Thousand",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus feeds about five thousand men with five loaves and two fish in a wilderness setting, acting in the pattern of Moses and Elisha with deliberate liturgical language of taking, blessing, breaking, and giving."
+        },
+        {
+            "reference": "9:18-21",
+            "section_title": "The Identity Question Answered",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter confesses Jesus as 'the Christ of God' in response to Jesus's direct question, and Jesus sternly commands the disciples to tell no one, because the title without the correction that follows would be dangerously misleading."
+        },
+        {
+            "reference": "9:22-27",
+            "section_title": "Suffering Redefined, Discipleship Redefined",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus predicts his suffering, rejection, death, and resurrection as divine necessity, then extends the logic to anyone who would follow him: self-denial, daily cross-bearing, and total commitment, with the warning that present response to Jesus determines the Son of Man's response at the eschatological judgment.",
+            "relevance": "This passage directly presents human choice as the determining factor in eschatological outcomes, and does so as part of Jesus's own authoritative teaching. 'If anyone wishes to come after Me' (ei tis thelei) makes following conditional on human volition. 'Whoever wishes to save his life will lose it, but whoever loses his life for My sake, he is the one who will save it' frames the salvation/loss of one's life as the direct consequence of one's own choice. Most decisively, 'whoever is ashamed of Me and My words, the Son of Man will be ashamed of him when He comes in His glory' makes the present human choice — being ashamed or not being ashamed — the determinant of the Son of Man's reciprocal response at the final judgment. The neutral reading emphasizes the exact reciprocity: 'The present relationship to Jesus determines the future relationship.' Human agency is not peripheral here but is the operative mechanism linking present decision to eschatological outcome.",
+            "key_phrases": ["If anyone wishes to come after Me", "whoever wishes to save his life will lose it", "whoever loses his life for My sake, he is the one who will save it", "whoever is ashamed of Me and My words, the Son of Man will be ashamed of him when He comes in His glory"],
+            "confidence": "high"
+        },
+        {
+            "reference": "9:28-36",
+            "section_title": "The Revelation on the Mountain",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus is transfigured on a mountain before Peter, James, and John; Moses and Elijah appear in glory to discuss his 'departure' (exodos) in Jerusalem; and a divine voice identifies Jesus as 'My Son, My Chosen One,' commanding the disciples to listen to him."
+        },
+        {
+            "reference": "9:37-43a",
+            "section_title": "Failure at the Foot of the Mountain",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus descends the mountain to find his disciples unable to heal a demon-possessed boy, rebukes the 'unbelieving and perverted generation' in language echoing Moses's rebuke of Israel, heals the boy, and returns him to his father."
+        },
+        {
+            "reference": "9:43b-45",
+            "section_title": "The Second Prediction and the Disciples' Incomprehension",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "At the moment of maximum public acclaim, Jesus privately tells the disciples that the Son of Man will be delivered into the hands of men, but they do not understand because the meaning was concealed from them by a veiling that the grammar attributes to divine action.",
+            "relevance": "The three-layered description of the disciples' failure — they did not understand, it was concealed from them so that they would not perceive it, and they were afraid to ask — presents divine agency controlling human comprehension. The passive 'it was concealed from them' (en parakekalymmenon ap' auton) with the purpose clause 'so that they would not perceive it' (hina me aisthontai) indicates God actively preventing understanding. While the concealment is specifically about the passion prediction and is temporary (the neutral reading notes full understanding comes only after the resurrection events), the principle that God can and does veil human perception, overriding their capacity to grasp truth, has implications for the broader determinism question. The confidence is low because the concealment is about understanding a specific teaching, not about salvation outcomes directly.",
+            "key_phrases": ["it was concealed from them so that they would not perceive it", "they were afraid to ask Him about this statement"],
+            "confidence": "low"
+        },
+        {
+            "reference": "9:46-48",
+            "section_title": "The Argument About Greatness",
+            "category": "NOT_APPLICABLE",
+            "summary": "The disciples argue about which of them is the greatest, and Jesus uses a child to teach that receiving the least in his name is equivalent to receiving him and the one who sent him, redefining greatness as willingness to be last."
+        },
+        {
+            "reference": "9:49-50",
+            "section_title": "The Outsider Who Acts in Jesus's Name",
+            "category": "NOT_APPLICABLE",
+            "summary": "John reports that the disciples tried to stop an outsider casting out demons in Jesus's name, and Jesus rebukes them with the principle that whoever is not against them is for them, showing that the kingdom's work is not restricted to the recognized inner circle."
+        },
+        {
+            "reference": "9:51-56",
+            "section_title": "The Turn Toward Jerusalem and the Samaritan Rejection",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus sets his face toward Jerusalem in language echoing Isaiah's Suffering Servant, is rejected by a Samaritan village because of his destination, and rebukes James and John when they propose calling down fire from heaven on the rejectors."
+        },
+        {
+            "reference": "9:57-62",
+            "section_title": "Three Encounters About the Cost of Following",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Three encounters escalate the cost of discipleship: the first person is warned of homelessness, the second is told the kingdom takes precedence over the most sacred family obligation (burying a parent), and the third is told that even a farewell disqualifies one who looks back from fitness for the kingdom.",
+            "relevance": "All three encounters assume that following Jesus is a genuine human decision with kingdom consequences. The first volunteer's willingness is tested, not overridden. The second person receives a call ('Follow Me') that requires his own response. Most pointedly, 'No one, after putting his hand to the plow and looking back, is fit for the kingdom of God' directly ties human action — looking back versus pressing forward — to fitness (euthetos) for the kingdom. The passage assumes human beings genuinely choose their level of commitment and that these choices determine their relationship to the kingdom. The neutral reading emphasizes that 'each encounter raises the cost,' presenting the escalation as a test of human resolve, not as a revelation of predetermined outcomes.",
+            "key_phrases": ["I will follow You wherever You go", "Follow Me", "Allow the dead to bury their own dead; but as for you, go and proclaim everywhere the kingdom of God", "No one, after putting his hand to the plow and looking back, is fit for the kingdom of God"],
+            "confidence": "high"
+        }
+    ]
+}

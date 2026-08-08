@@ -1,0 +1,94 @@
+{
+    "book": "Luke",
+    "chapter": 10,
+    "sections": [
+        {
+            "reference": "10:1-4",
+            "section_title": "The Sending of the Seventy(-Two)",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus appoints seventy(-two) missionaries and sends them in pairs ahead of him to every city he intends to visit, using harvest imagery that places God as the Lord of the harvest and instructing them to travel in radical dependence with no provisions."
+        },
+        {
+            "reference": "10:5-9",
+            "section_title": "Instructions for Reception",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus instructs the seventy on how to enter households and cities, offering peace that either rests on a receptive person or returns to the sender, and commanding them to heal the sick and declare that the kingdom of God has come near."
+        },
+        {
+            "reference": "10:10-12",
+            "section_title": "Instructions for Rejection",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus instructs the seventy on how to respond when a city does not receive them, commanding a public dust-wiping protest while declaring that the kingdom of God has come near regardless, and warning that judgment on rejecting cities will be worse than Sodom's.",
+            "relevance": "The passage presents rejection as a genuine human act that carries consequences. The kingdom arrives whether the city accepts or rejects it, but the city's relationship to that arrival depends on its response. The neutral reading states: 'for those who receive the message, the kingdom is salvation; for those who reject it, the kingdom is judgment. The same event is both.' The accountability logic — that rejecting cities face worse judgment than Sodom because Sodom never had the same opportunity — presupposes that the cities genuinely choose their response and that greater privilege entails greater responsibility for that choice.",
+            "key_phrases": ["whatever city you enter and they do not receive you", "it will be more tolerable in that day for Sodom than for that city"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:13-16",
+            "section_title": "Woes on the Cities of Galilee",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus pronounces prophetic woes on Chorazin, Bethsaida, and Capernaum for failing to repent despite witnessing his mighty works, using a counterfactual comparison with Tyre and Sidon and establishing a chain of representation in which rejecting the messengers equals rejecting Jesus equals rejecting God.",
+            "relevance": "The counterfactual argument is significant: if the miracles had been done in Tyre and Sidon, they 'would have repented long ago.' This presupposes that repentance is a genuine human response to divine action, that different groups respond differently to the same evidence, and that accountability is proportional to opportunity. If God unilaterally determined who repents, the counterfactual comparison would be meaningless — there would be no basis for saying Tyre and Sidon would have responded differently. The neutral reading notes the passage 'continues the pattern established in the Nazareth synagogue (4:25-27), in the centurion's faith (7:9), and throughout the Gospel: those outside Israel may be more responsive than those inside.' The woes treat failure to repent as the cities' own culpable choice.",
+            "key_phrases": ["if the miracles had been performed in Tyre and Sidon which occurred in you, they would have repented long ago", "the one who rejects you rejects Me; and the one who rejects Me rejects the One who sent Me"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:17-20",
+            "section_title": "The Return of the Seventy",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The seventy return rejoicing that demons submitted to them in Jesus's name; Jesus reports watching Satan fall from heaven like lightning, confirms their authority over the enemy, but redirects their joy from the power they exercise to the fact that their names are recorded in heaven.",
+            "relevance": "Jesus distinguishes between delegated power (temporary, revocable) and standing before God (names recorded in heaven), directing the disciples to ground their joy in the latter. The neutral reading explicitly contextualizes the heavenly register within the Old Testament framework of Exodus 32:32-33, where names can be blotted out based on faithfulness: 'The register is not a permanent guarantee independent of faithfulness — as Exodus 32:33 makes explicit, names can be blotted out.' This conditional nature of heavenly registration implies that ongoing faithfulness matters and that the outcome is not unilaterally predetermined. The neutral reading concludes: 'Power is delegated and can be revoked; relationship with God is the enduring reality' — but that enduring reality is itself contingent on faithfulness, not unconditional.",
+            "key_phrases": ["rejoice that your names are recorded in heaven", "Whoever has sinned against Me, I will blot him out of My book"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "10:21-24",
+            "section_title": "Jesus's Thanksgiving and the Disciples' Privilege",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jesus, rejoicing in the Holy Spirit, thanks the Father for hiding 'these things' from the wise and intelligent and revealing them to infants, declares that all things have been handed over to him by the Father, and states that no one knows the Father except through the Son's choice to reveal him; he then privately tells the disciples they are blessed to see what prophets and kings longed to see.",
+            "relevance": "The language of divine initiative is significant: God actively 'hid' from the wise and 'revealed' to infants, and access to knowledge of the Father comes only through 'anyone to whom the Son wills to reveal Him.' This places the initiative for revelation — and therefore for access to God — with the Father and Son rather than with human seekers. However, the neutral reading interprets the hiding as consequential rather than arbitrary: 'The hiddenness is not arbitrary cruelty; it is the consequence of sophistication that cannot receive what does not fit its categories, while simplicity can.' On this reading, the wise are not arbitrarily excluded but exclude themselves through a disposition that blocks reception, while infants receive because their simplicity allows it. The passage is genuinely ambiguous: the surface grammar presents God as the active agent in hiding and revealing, but the neutral reading's analysis shows the divine action corresponds to prior human disposition rather than operating independently of it.",
+            "key_phrases": ["You have hidden these things from the wise and intelligent and have revealed them to infants", "anyone to whom the Son wills to reveal Him", "this way was well-pleasing in Your sight"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "10:25-29",
+            "section_title": "The Lawyer's Question",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "A Torah expert tests Jesus by asking what he must do to inherit eternal life; Jesus directs him to the Torah, the lawyer answers by combining the Shema (Deuteronomy 6:5) with the neighbor-love command (Leviticus 19:18), and Jesus affirms the answer with 'do this and you will live,' prompting the lawyer to ask 'who is my neighbor?' in an attempt to limit the command's scope.",
+            "relevance": "The exchange presupposes human agency at every level. The lawyer's question — 'what shall I do to inherit eternal life?' — assumes that human action bears on the outcome. Jesus does not correct this assumption; he affirms it by directing the lawyer to the Torah and then confirming 'do this and you will live,' echoing Leviticus 18:5. The framework is that human obedience to the Torah's commands — specifically, total love of God and love of neighbor — leads to life. The neutral reading notes: 'The answer to inheriting eternal life is not a mystery — the Torah itself provides it. The question is whether the person asking will actually do it.' This final observation treats the critical variable as human willingness, not divine selection.",
+            "key_phrases": ["what shall I do to inherit eternal life", "do this and you will live", "The question is whether the person asking will actually do it"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:30-35",
+            "section_title": "The Parable of the Good Samaritan",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus tells a parable in which a man is beaten and left half dead on the road from Jerusalem to Jericho; a priest and a Levite each see him and pass by on the other side, while a Samaritan stops, shows compassion, provides extensive care, and pays for the man's ongoing recovery.",
+            "relevance": "The parable functions as the concrete answer to 'what shall I do to inherit eternal life?' (v. 25), making 'do this and you will live' specific rather than abstract. Each character in the parable makes a genuine moral choice: the priest and Levite choose to avoid the victim, while the Samaritan chooses to show mercy at personal cost. The neutral reading notes that the parable 'dismantles the ethnic and religious boundaries that the lawyer's question implicitly assumed' and reverses insider/outsider categories — the despised Samaritan embodies the Torah's demand while the institutional religious figures fail it. The reversal of categories is based entirely on human moral choices, not on divine predetermination of who will show mercy.",
+            "key_phrases": ["when he saw him, he passed by on the other side", "when he saw him, he felt compassion"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "10:36-37",
+            "section_title": "The Reversal of the Question",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus asks the lawyer which of the three proved to be a neighbor; the lawyer answers 'the one who showed mercy,' and Jesus commands 'go and do the same,' completing the answer to the original question about inheriting eternal life.",
+            "relevance": "Jesus transforms the lawyer's question from 'who qualifies as my neighbor?' (identifying objects of obligation) to 'will I be the kind of person who shows mercy?' (assessing one's own moral agency). The neutral reading states: 'The question is not \"whom must I love?\" but \"am I the kind of person who loves?\"' The command 'go and do the same' directly answers the eternal life question from v. 25 by presenting human moral action — specifically, showing mercy without boundary — as what the Torah requires for inheriting life. The answer to 'what shall I do to inherit eternal life?' is: be the person who acts with mercy when confronted with need. This framework treats the human as a genuine agent whose choices determine the outcome.",
+            "key_phrases": ["Which of these three do you think proved to be a neighbor", "Go and do the same"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:38-42",
+            "section_title": "Martha and Mary",
+            "category": "NOT_APPLICABLE",
+            "summary": "Martha welcomes Jesus into her home and becomes distracted by preparations while Mary sits at Jesus's feet listening to his word; when Martha asks Jesus to redirect Mary, he affirms that Mary has chosen the one necessary thing — the good portion that will not be taken away."
+        }
+    ]
+}

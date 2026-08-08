@@ -1,0 +1,64 @@
+{
+    "book": "Luke",
+    "chapter": 16,
+    "sections": [
+        {
+            "reference": "16:1-8a",
+            "section_title": "The Parable of the Shrewd Manager",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus tells the disciples a parable about a manager who, upon learning he will be dismissed for squandering his master's possessions, shrewdly reduces the debts owed to his master in order to secure future welcome from the debtors, and the master commends his practical wisdom."
+        },
+        {
+            "reference": "16:8b-9",
+            "section_title": "The Application -- Shrewdness and Eternal Dwellings",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus applies the parable by commanding the disciples to use worldly wealth strategically to make friends who will receive them into eternal dwellings when that wealth fails.",
+            "relevance": "The passage issues a direct imperative to the disciples — 'make friends for yourselves by means of the wealth of unrighteousness' — with eternal consequences attached to their compliance. The logic assumes that the disciples' choices about how they deploy their resources produce either eternal welcome or its absence. The conditional structure ('so that when it is all gone, they will receive you into the eternal dwellings') presents the eternal outcome as contingent on the disciples' present action, implying genuine human agency in securing that outcome.",
+            "key_phrases": ["make friends for yourselves by means of the wealth of unrighteousness", "so that when it is all gone, they will receive you into the eternal dwellings"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "16:10-13",
+            "section_title": "Faithfulness with What Is Entrusted",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus teaches that faithfulness with small, temporary, entrusted wealth is a test determining whether one will be entrusted with the true and permanent riches of the kingdom, and concludes that no one can serve both God and mammon.",
+            "relevance": "The passage presents earthly stewardship as a genuine test whose outcome depends on human faithfulness. The logic is explicit: if you have not been faithful with unrighteous wealth, who will entrust the true wealth to you? This frames the receipt of kingdom riches as contingent on demonstrated human trustworthiness — not on a prior divine determination. The concluding absolute statement ('you cannot serve God and wealth') presents the choice between God and mammon as a real decision the hearers must make, with their allegiance determining which master they serve. The framework is one of evaluated human performance, not assigned destiny.",
+            "key_phrases": ["if you have not been faithful in the use of unrighteous wealth, who will entrust the true wealth to you", "if you have not been faithful in the use of that which is another's, who will give you that which is your own", "You cannot serve God and wealth"],
+            "confidence": "high"
+        },
+        {
+            "reference": "16:14-15",
+            "section_title": "The Pharisees' Response",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Pharisees, characterized by the narrator as lovers of money, ridicule Jesus's teaching, and Jesus responds that their self-justification before people is detestable to God, who knows their hearts."
+        },
+        {
+            "reference": "16:16-17",
+            "section_title": "The Law, the Prophets, and the Kingdom",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus declares that the Law and Prophets were proclaimed until John, that since then the kingdom of God has been preached and everyone is forcing their way into it, and that the Law remains fully in force down to its smallest detail.",
+            "relevance": "The statement 'everyone is forcing his way into it' presents entry into the kingdom as requiring urgent, active human effort. The neutral reading notes that 'the kingdom is not passively received but requires urgent, forceful action to enter' and that the universal scope ('everyone') includes the tax collectors and sinners the Pharisees despise. The passage implies that the kingdom is genuinely accessible to those who press into it through their own exertion, and that human effort is a real factor in entering — a framework that presupposes agency rather than unilateral divine assignment.",
+            "key_phrases": ["everyone is forcing his way into it", "the gospel of the kingdom of God has been preached"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "16:18",
+            "section_title": "Divorce and the Law's Continuing Authority",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus declares that divorce and remarriage constitutes adultery, illustrating the Law's continuing authority and its deepest intent against selective application by those who use legal provisions to serve their economic interests."
+        },
+        {
+            "reference": "16:19-31",
+            "section_title": "The Rich Man and Lazarus",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus tells a narrative about a rich man who feasted daily in splendor while a destitute man named Lazarus lay at his gate, and after both die their conditions are permanently reversed — Lazarus rests in Abraham's bosom while the rich man suffers in Hades — with the final exchange establishing that Moses and the Prophets are sufficient warning and that even a resurrection will not persuade those who refuse to listen.",
+            "relevance": "The passage directly and repeatedly presents eternal outcomes as determined by human choices. The rich man's torment is the consequence of his own actions during life — his daily feasting while Lazarus starved at his gate, his failure to use his wealth for the person in need. The neutral reading states his sin was 'what he did not do,' not any decree imposed upon him. Abraham's explanation ('during your life you received your good things') ties the afterlife reversal to choices made during earthly life. Most critically, the final exchange about the five brothers presents their potential salvation or damnation as contingent on whether they choose to listen to Moses and the Prophets — 'let them hear them.' The obstacle to their salvation is identified as human refusal, not divine predetermination: 'if they do not listen to Moses and the Prophets, they will not be persuaded even if someone rises from the dead.' The neutral reading identifies this as 'a claim about the human heart: a person who has hardened himself against the clear teaching of scripture will not be moved even by a supernatural sign.' This is not an aside or illustration tangential to the argument — it is the theological climax of the chapter, and it frames the determinative factor in salvation outcomes as human response to available revelation.",
+            "key_phrases": ["during your life you received your good things, and likewise Lazarus bad things; but now he is being comforted here, and you are in agony", "They have Moses and the Prophets; let them hear them", "If they do not listen to Moses and the Prophets, they will not be persuaded even if someone rises from the dead", "a great chasm has been set"],
+            "confidence": "high"
+        }
+    ]
+}

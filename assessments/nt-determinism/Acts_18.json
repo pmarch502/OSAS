@@ -1,0 +1,54 @@
+{
+    "book": "Acts",
+    "chapter": 18,
+    "sections": [
+        {
+            "reference": "18:1-4",
+            "section_title": "Arrival in Corinth, Aquila and Priscilla, Tentmaking",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul arrives in Corinth alone, meets the Jewish couple Aquila and Priscilla (displaced by Claudius's edict), shares their tentmaking trade and household, and begins his standard pattern of reasoning in the synagogue every Sabbath to persuade Jews and Greeks."
+        },
+        {
+            "reference": "18:5-8",
+            "section_title": "The Arrival of Silas and Timothy, the Turn to Gentiles, Crispus",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "When the synagogue opposes and reviles Paul's testimony that the Christ is Jesus, he invokes the Ezekiel watchman formula ('Your blood be on your own heads! I am innocent'), turns to the Gentiles, relocates next door to the synagogue, and sees the synagogue ruler Crispus and many Corinthians believe and be baptized over a sustained period.",
+            "relevance": "The Ezekiel watchman formula (33:4, 8-9) presupposes that the warned have genuine capacity to heed or refuse the warning -- their blood is on their own heads precisely because they could have responded differently. Paul's declaration 'I am innocent' only functions as a discharge of obligation if the hearers bore real responsibility for their rejection. The sequence 'hearing, believed, and were baptized' (with ongoing imperfect tenses indicating a sustained process) presents faith as a genuine human response to proclaimed testimony.",
+            "key_phrases": ["Your blood be on your own heads", "I am innocent", "many of the Corinthians hearing Paul believed and were baptized"],
+            "confidence": "high"
+        },
+        {
+            "reference": "18:9-11",
+            "section_title": "The Lord's Vision and Paul's Extended Stay",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_by_both",
+            "summary": "The Lord speaks to Paul in a nocturnal vision, commanding him not to fear but to keep speaking, promising divine presence and protection, and grounding the command in the declaration 'I have many people (laos) in this city,' after which Paul settles for eighteen months of teaching.",
+            "relevance": "The word laos is the LXX covenant-people term for Israel as God's elect possession (Deuteronomy 7:6, Hosea 2:23). The Lord applies it to people in Corinth who have not yet believed -- they are God's 'prior possession,' a people who 'need to be found, not created.' This divine prior claim on individuals before their response tilts toward determinism. However, the vision's entire logic requires Paul's continued preaching as the mechanism by which these people will hear and respond, and the text does not explicitly state that human response is excluded or irrelevant. The passage addresses divine initiative more than it addresses the mechanism of individual conversion.",
+            "key_phrases": ["I have many people in this city", "laos estin moi polys", "go on speaking and do not be silent", "I am with you"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "18:12-17",
+            "section_title": "The Gallio Incident",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Jews bring Paul before the proconsul Gallio on a charge of promoting worship 'contrary to the law,' but Gallio rules the dispute is an internal Jewish matter about 'words and names and your own law,' refuses jurisdiction, and drives the accusers from the tribunal -- establishing a legal precedent that preaching Jesus as Messiah is not a Roman crime."
+        },
+        {
+            "reference": "18:18-23",
+            "section_title": "Departure from Corinth, Ephesus Visit, Return to Antioch",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul departs Corinth with Priscilla and Aquila, fulfills a Nazirite vow at Cenchreae, briefly visits the Ephesian synagogue (where he is warmly received), returns via Caesarea and Jerusalem to Antioch, and then begins a third journey through Galatia and Phrygia strengthening all the disciples."
+        },
+        {
+            "reference": "18:24-28",
+            "section_title": "Apollos in Ephesus and Corinth",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Apollos, an eloquent Alexandrian Jew competent in Scripture but knowing only John's baptism, teaches accurately but incompletely about Jesus in the Ephesian synagogue; Priscilla and Aquila privately complete his instruction; he then crosses to Corinth where he greatly helps 'those who through grace had believed' by powerfully refuting the Jews from the Scriptures.",
+            "relevance": "The phrase 'those who through grace had believed' (tois pepisteukosin dia tes charitos) identifies divine grace as the source or enabler of the Corinthians' faith -- their believing was not self-generated but came 'through grace.' The neutral reading connects this to the Lord's prior claim in v. 10 ('I have many people in this city'), presenting a pattern where God's initiative precedes and enables human faith. However, the text does not state that grace operated irresistibly or that the human act of believing was illusory; it attributes the origin of faith to grace without explicitly excluding genuine human response.",
+            "key_phrases": ["those who through grace had believed", "dia tes charitos", "God gave the growth"],
+            "confidence": "medium"
+        }
+    ]
+}

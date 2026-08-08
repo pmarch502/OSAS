@@ -1,0 +1,54 @@
+{
+    "book": "2Corinthians",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-2",
+            "section_title": "The Opening -- Sender, Recipients, and Greeting",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies himself as an apostle by God's will, names Timothy as co-sender, and greets the church at Corinth and all the saints in Achaia with the standard grace-and-peace formula."
+        },
+        {
+            "reference": "1:3-7",
+            "section_title": "The Blessing -- God as the Source of Comfort in Affliction",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul blesses God as the Father of mercies and God of all comfort, establishing a chain in which God comforts Paul in affliction so that Paul can comfort the community, and linking the Corinthians' salvation to their patient endurance of shared sufferings.",
+            "relevance": "The neutral reading identifies salvation as connected to the Corinthians' active patient endurance (hypomone) of sufferings: 'the Corinthians' salvation is connected to their endurance through those sufferings.' The word hypomone describes an active posture of trust maintained under pressure, not passive reception of a predetermined outcome. Salvation here is presented as something the community participates in through their own sustained response to affliction, implying genuine human agency in the salvation outcome.",
+            "key_phrases": ["for your comfort and salvation", "which you experience when you patiently endure the same sufferings that we suffer", "as you share in our sufferings, you will also share in our comfort"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:8-11",
+            "section_title": "The Affliction in Asia -- Despair and Deliverance",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul discloses a catastrophic affliction in Asia that brought him to the point of despairing of life itself, interpreting its purpose as driving him from self-reliance to trust in the God who raises the dead, and acknowledging the Corinthians' participation through prayer."
+        },
+        {
+            "reference": "1:12-14",
+            "section_title": "The Defense of Sincerity -- Conscience, Conduct, and the Day of the Lord",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul defends the sincerity of his conduct as governed by divine grace rather than fleshly wisdom, affirms the transparency of his letters, and envisions mutual boasting between himself and the Corinthians on the day of the Lord Jesus."
+        },
+        {
+            "reference": "1:15-22",
+            "section_title": "The Travel Plans and the Faithfulness of God's Yes",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul defends his changed travel plans by arguing that God is faithful, all God's promises find their Yes in Christ, and God has established, anointed, sealed, and given the Spirit as a guarantee to both Paul and the Corinthians together in Christ.",
+            "relevance": "The four divine actions in verses 21-22 present God as the sole agent securing believers' eschatological position: God establishes, God anoints, God seals, God gives the Spirit as arrabon (down payment guaranteeing completion). No human cooperation or response is mentioned in this securing process. The arrabon metaphor, drawn from binding commercial practice, implies that God has legally committed to completing the full transaction of salvation -- the deposit guarantees the remainder. The neutral reading states that 'the Spirit's presence in the community is the guarantee that God will complete what he has begun' and that 'this is not a fragile arrangement that might collapse; it is a transaction backed by God's own commitment.' The emphasis falls entirely on God's unilateral investment and guarantee, with no role assigned to human agency in this securing.",
+            "key_phrases": ["God who establishes us with you in Christ", "has anointed us", "sealed us", "given us the Spirit in our hearts as a guarantee", "all the promises of God find their Yes in him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:23-24",
+            "section_title": "The Reason for Not Coming -- Sparing, Not Dominating",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul explains that he refrained from visiting Corinth to spare them, disclaims any authority to lord over their faith, identifies himself as a co-worker for their joy, and affirms that the Corinthians stand firm in their own faith.",
+            "relevance": "The neutral reading highlights Paul's explicit disclaimer that he does not lord over (kyrieuomen) the Corinthians' faith, and that their faith is 'their own standing ground.' The statement 'you stand firm in your faith' (te pistei hestekate) presents faith as the Corinthians' own active position -- they stand, they are not held up. The neutral reading underscores this: 'They are not held up by Paul's authority, propped up by apostolic power, or sustained by human systems. Their standing is in pistis.' This presents believers as genuine agents whose faith-standing is their own responsibility, not something determined for them by an external authority.",
+            "key_phrases": ["not that we lord it over your faith", "we work with you for your joy", "you stand firm in your faith"],
+            "confidence": "medium"
+        }
+    ]
+}

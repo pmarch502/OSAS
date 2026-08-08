@@ -1,0 +1,59 @@
+{
+    "book": "Acts",
+    "chapter": 28,
+    "sections": [
+        {
+            "reference": "28:1-6",
+            "section_title": "The Island, the Snake, and the Reversal of Judgment",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage narrates Paul's arrival on Malta, the viper incident, and the islanders' shifting theological judgments -- from declaring Paul a murderer pursued by divine Justice (Dike) to declaring him a god -- exposing the inadequacy of reading divine intention directly from natural events."
+        },
+        {
+            "reference": "28:7-10",
+            "section_title": "Healings on Malta",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage narrates Paul's healing of Publius's father and subsequent healings across the island, following the biblical pattern of the prophet who blesses his host's household, with Paul acting through prayer and the laying on of hands."
+        },
+        {
+            "reference": "28:11-16",
+            "section_title": "The Journey to Rome",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage narrates the sea journey from Malta through Syracuse, Rhegium, and Puteoli to Rome, fulfilling the divine declarations of 23:11 and 27:24 through entirely human mechanisms -- Roman courts, Mediterranean shipping, military custody -- without any miraculous transportation."
+        },
+        {
+            "reference": "28:17-22",
+            "section_title": "Paul's First Meeting with the Jewish Leaders in Rome",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage presents Paul's self-defense before Rome's Jewish leaders, claiming innocence, identifying 'the hope of Israel' (the resurrection) as the cause of his imprisonment, and receiving a cautiously open response from leaders who have heard nothing negative about him but know the sect is 'everywhere spoken against.'"
+        },
+        {
+            "reference": "28:23-28",
+            "section_title": "The Final Meeting, the Prophet's Words, and the Declaration",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "The neutral reading finds this passage narrates Paul's full-day exposition of the kingdom of God and Jesus from Moses and the Prophets, the divided audience response, Paul's quotation of Isaiah 6:9-10 from the LXX attributing Israel's failure to hear to their own self-closure, and his declaration that God's salvation has been sent to the Gentiles.",
+            "relevance": "The neutral reading identifies this as the theological climax of Acts and makes a decisive observation about the author's choice of the LXX text over the Hebrew for Isaiah 6:9-10. In the Hebrew, God commands Isaiah to harden the people; in the LXX text the author quotes, the verbs shift: 'the heart of this people has become dull' (a condition, not a command), 'their ears barely hear' (description, not decree), and crucially, 'their eyes THEY have closed' (aorist active, third person plural -- the people closed their own eyes). The neutral reading states explicitly: 'The author's use of the LXX, rather than the Hebrew text where God commands the hardening, is a choice that locates the obstacle in human refusal, not in divine decree. God did not close Israel's eyes. Israel closed its own eyes.' The passage then presents the consequence of this self-closure: 'lest they should see... and hear... and understand... and turn, and I would heal them' -- God stands willing to heal, but the turning must come from those who closed their own eyes. This is the author's concluding theological argument about why some in Israel have not received salvation: they have excluded themselves through their own refusal. Meanwhile, the division in verse 24 ('some were convinced... others disbelieved') shows that individual response, not divine predetermination, accounts for the differing outcomes among hearers of the same message.",
+            "key_phrases": [
+                "their eyes they have closed",
+                "the heart of this people has become dull",
+                "lest they should see with their eyes and hear with their ears and understand with their heart and turn, and I would heal them",
+                "some were convinced by what he said, but others disbelieved",
+                "this salvation of God has been sent to the Gentiles; they will listen"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "28:30-31",
+            "section_title": "The Open Conclusion",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage describes Paul's two-year ministry in Rome, living at his own expense, welcoming all who came to him, and proclaiming the kingdom of God and teaching about the Lord Jesus Christ 'with all boldness, unhindered.'",
+            "relevance": "The neutral reading emphasizes that Paul 'welcomed all who came to him' with the word 'all' (pantas) unrestricted -- Jews and Gentiles, slave and free. Immediately following the Isaiah quotation about self-closure and the declaration about the Gentiles, this open door presents the gospel as universally available to anyone who takes the initiative to come. The text implies human agency in approaching the message: people must choose to come to Paul's door. The gospel is not withheld from any category of person, and no one is turned away, but neither is anyone compelled. The emphasis on availability and human initiative in coming bears on the question by presenting salvation as accessible to all who respond, rather than restricted to a predetermined group.",
+            "key_phrases": [
+                "welcomed all who came to him",
+                "with all boldness and without hindrance"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

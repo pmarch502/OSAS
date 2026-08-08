@@ -1,0 +1,80 @@
+{
+    "book": "John",
+    "chapter": 13,
+    "sections": [
+        {
+            "reference": "13:1-3",
+            "section_title": "The Passover Setting and the Author's Theological Introduction",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author introduces the foot-washing scene by establishing Jesus's full awareness of his coming departure to the Father, his love for his own to the end, the devil's prior instigation of Judas's betrayal, and Jesus's knowledge that the Father had given all things into his hands."
+        },
+        {
+            "reference": "13:4-5",
+            "section_title": "The Foot-Washing",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus rises from supper, lays aside his garments, girds himself with a towel, and washes the disciples' feet in an act of servant-labor whose verbal parallels link it to his coming death and resurrection."
+        },
+        {
+            "reference": "13:6-11",
+            "section_title": "The Exchange with Peter",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter resists the foot-washing but is told he must receive Jesus's service to have a share with him, while Judas is identified as unclean because the word has not entered his heart despite having his feet washed.",
+            "relevance": "The passage presents belonging to Jesus as requiring genuine human reception: Peter must choose to accept or refuse the washing, and that choice determines whether he has a 'part with' Jesus. Judas's uncleanness is attributed not to divine decree but to his failure to receive the word and abide in it, even though the devil's influence is noted. The reading frames cleanness as a function of receiving Jesus's word and remaining in it, implying human response is a real factor in one's standing before God.",
+            "key_phrases": [
+                "If I do not wash you, you have no part with me",
+                "you are clean, but not all of you",
+                "the word has not entered his heart; the devil has occupied that space instead"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:12-17",
+            "section_title": "The Interpretation of the Foot-Washing",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus interprets the foot-washing as a binding example of mutual service within the community, declaring that the disciples are obligated to wash one another's feet and that blessedness comes from practicing what they know."
+        },
+        {
+            "reference": "13:18-20",
+            "section_title": "The Betrayer and the Fulfillment of Scripture",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus distinguishes the betrayer from those he has chosen, cites Psalm 41:9 as being fulfilled through Judas's betrayal, and tells the disciples in advance so the betrayal will confirm rather than undermine their faith that he is the 'I am.'",
+            "relevance": "Jesus's deliberate choice of the Twelve included Judas, whom he knew would betray him, and the betrayal is framed as necessary for Scripture to be fulfilled. The reading states the choosing of Judas 'was not a mistake but part of the larger purpose,' suggesting the betrayal and its consequences were incorporated into a predetermined divine plan. However, the choosing described is vocational selection of the Twelve for apostolic mission, not individual election to salvation, and the reading also notes Judas's prior moral failures as a thief, leaving his personal culpability intact.",
+            "key_phrases": [
+                "I know the ones I have chosen",
+                "it is that the Scripture may be fulfilled",
+                "He who eats my bread has lifted up his heel against me",
+                "you may believe that I am"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:21-30",
+            "section_title": "The Identification and Departure of the Betrayer",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus identifies Judas as the betrayer by giving him a dipped morsel, after which Satan enters Judas fully; Jesus directs him to act quickly, and Judas departs into the night.",
+            "relevance": "The progression from the devil putting betrayal into Judas's heart (v. 2) to Satan's full entry after the morsel (v. 27) depicts escalating loss of agency. Jesus's imperative to act quickly is characterized as 'sovereign direction of events,' and the reading states that 'Judas is not the author of the plot but its tool; Jesus remains the agent even in his own handing over.' Judas's departure into the night is simultaneously literal and theological, marking his passage into darkness and away from the light. This presents diminished human agency at the decisive moment, though the text narrates events rather than arguing a theological position about who determines salvation outcomes.",
+            "key_phrases": [
+                "Satan then entered into him",
+                "What you do, do quickly",
+                "Judas is not the author of the plot but its tool",
+                "it was night"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:31-35",
+            "section_title": "The New Commandment",
+            "category": "NOT_APPLICABLE",
+            "summary": "After Judas's departure, Jesus announces that the Son of Man is now glorified, addresses the disciples as 'little children,' warns of his imminent departure, and gives the new commandment to love one another as he has loved them, making mutual love the visible mark of discipleship."
+        },
+        {
+            "reference": "13:36-38",
+            "section_title": "Peter's Boast and the Prediction of Denial",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter claims readiness to lay down his life for Jesus, but Jesus predicts Peter will deny him three times before the rooster crows, while assuring that Peter will follow later."
+        }
+    ]
+}

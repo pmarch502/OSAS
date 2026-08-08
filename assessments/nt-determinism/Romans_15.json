@@ -1,0 +1,47 @@
+{
+    "book": "Romans",
+    "chapter": 15,
+    "sections": [
+        {
+            "reference": "15:1-6",
+            "section_title": "The Strong Bear the Weak -- The Pattern of Christ",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs the strong to bear the weaknesses of the weak rather than pleasing themselves, grounding this obligation in the pattern of Christ who did not please himself, and praying that God would grant the community harmonious worship."
+        },
+        {
+            "reference": "15:7-13",
+            "section_title": "Mutual Welcome -- Christ's Ministry to Jew and Gentile, the Scriptural Chain",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul commands mutual welcome grounded in Christ's welcome, demonstrates from a four-part scriptural chain that Gentile inclusion alongside Israel was always God's plan, and closes with a prayer that God would fill them with joy and peace in believing.",
+            "relevance": "The passage presents Gentile inclusion as God's planned purpose (mercy extended, scriptures fulfilled) but consistently frames the human side as genuine activity: the imperative to 'welcome one another' assumes real agency, the Gentiles 'glorify,' 'rejoice,' 'praise,' and 'hope' as active participants, and the concluding prayer locates joy and peace 'in believing' (en to pisteuein) -- presenting faith as a genuine human act rather than an imposed state. The Spirit provides the power for hope to overflow (15:13), but believing is the sphere in which the experience occurs, not something the Spirit does instead of the person.",
+            "key_phrases": [
+                "welcome one another as Christ has welcomed you",
+                "the Gentiles might glorify God for his mercy",
+                "Rejoice, O Gentiles, with his people",
+                "in him will the Gentiles hope",
+                "fill you with all joy and peace in believing",
+                "by the power of the Holy Spirit you may abound in hope"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "15:14-21",
+            "section_title": "Paul's Apostolic Ministry to the Gentiles -- The Priestly Service of the Gospel",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul describes his apostolic vocation in priestly and sacrificial terms -- he is a liturgical minister of Christ Jesus whose sacred rite is the gospel, whose offering is the Gentile community sanctified by the Holy Spirit, and whose pioneer missionary strategy fulfills Isaiah's prophecy that those who were never told would see and understand."
+        },
+        {
+            "reference": "15:22-29",
+            "section_title": "Paul's Travel Plans -- Rome, Spain, and the Collection for Jerusalem",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul explains his travel itinerary -- delivering the collection from Macedonia and Achaia to the Jerusalem saints, then proceeding to Rome and on to Spain -- presenting the collection as the concrete embodiment of the Gentiles' debt to the Jewish community for spiritual blessings."
+        },
+        {
+            "reference": "15:30-33",
+            "section_title": "The Appeal for Prayer -- The Dangers Ahead",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul appeals to the Roman community to strive together with him in prayer for his safety from opponents in Judea and for the Jerusalem saints' acceptance of the Gentile collection, subordinating all his plans to God's will."
+        }
+    ]
+}

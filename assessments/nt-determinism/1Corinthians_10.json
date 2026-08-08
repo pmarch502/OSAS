@@ -1,0 +1,62 @@
+{
+    "book": "1Corinthians",
+    "chapter": 10,
+    "sections": [
+        {
+            "reference": "10:1-5",
+            "section_title": "The Privileges and the Overthrow",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul establishes that the entire wilderness generation shared in every divine privilege — the cloud, the sea, baptism into Moses, spiritual food, spiritual drink from the Rock that was Christ — yet most of them were overthrown because God was not pleased with them.",
+            "relevance": "The five-fold repetition of 'all' followed by 'most of them God was not pleased' directly undermines the premise that divine provision or sacramental participation guarantees perseverance. The passage establishes a typological precedent in which universal receipt of divine privilege does not determine the outcome — the recipients' behavior does. The implied logic is that something other than the privilege itself (namely, human conduct) determines whether one stands or falls.",
+            "key_phrases": ["all were under the cloud", "all passed through the sea", "all were baptized into Moses", "all ate the same spiritual food", "all drank the same spiritual drink", "nevertheless, with most of them God was not pleased", "they were overthrown in the wilderness"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:6-10",
+            "section_title": "The Catalogue of Wilderness Sins",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul catalogues four specific sins — idolatry, sexual immorality, testing Christ, and grumbling — that led to the destruction of Israelites who had received every divine privilege, presenting these as typological warnings for the Corinthian community.",
+            "relevance": "The passage presents specific human choices (desiring evil, committing idolatry and sexual immorality, testing Christ, grumbling) as the cause of destruction for people who were full participants in God's covenant provision. The warning format — 'that we might not desire evil as they did' — presupposes that the Corinthians have genuine capacity to choose differently from the Israelites. If the outcome were divinely predetermined, the typological warning structure would be incoherent.",
+            "key_phrases": ["these things took place as examples for us", "that we might not desire evil as they did", "do not be idolaters as some of them were", "twenty-three thousand fell in a single day", "were destroyed by serpents", "were destroyed by the Destroyer"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:11-13",
+            "section_title": "The Warning Applied and the Faithfulness of God",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Paul applies the Israel typology directly to the Corinthians as those 'on whom the end of the ages has come,' warns that anyone who thinks they stand should take heed lest they fall, and assures them that God faithfully limits temptation and provides a way of escape that they must take.",
+            "relevance": "Verse 12 is one of the most direct warnings in the Pauline corpus that believers can fall: 'let anyone who thinks that he stands take heed lest he fall.' This is not illustration or aside but the stated conclusion of Paul's argument (introduced by 'therefore'). The 'standing' is subjective self-assessment; the 'falling' is objective judgment, connected by vocabulary (apollymi, adokimos) to spiritual destruction and disqualification. Verse 13 promises divine provision — God limits temptation and provides escape — but the neutral reading explicitly notes that 'the way of escape must be taken; the endurance must be exercised. God provides the ability; the community must exercise it.' The two verses together present a model where God enables perseverance but does not unilaterally determine it; human vigilance and response remain essential.",
+            "key_phrases": ["let anyone who thinks that he stands take heed lest he fall", "on whom the end of the ages has come", "God is faithful", "he will not let you be tempted beyond your ability", "with the temptation he will also provide the way of escape", "that you may be able to endure it"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:14-22",
+            "section_title": "The Incompatibility of Two Tables",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul commands the Corinthians to flee from idolatry and argues that participation in the Lord's table and participation in the table of demons are mutually exclusive, because each meal creates real koinonia (communion/participation) with the respective power it serves.",
+            "relevance": "The imperative 'flee from idolatry' presupposes that believers have genuine capacity to choose the idol's table over the Lord's table — and that doing so would break their exclusive relationship with Christ. The declaration 'you cannot drink the cup of the Lord and the cup of demons' presents the two tables as a genuine either/or facing the Corinthians, not a predetermined outcome. The rhetorical question 'shall we provoke the Lord to jealousy?' warns of the same consequences that fell on Israel, implying the Corinthians could actually make that choice and face those consequences. The passage treats the Corinthians' decisions about worship participation as genuinely open, with real consequences for their standing before God.",
+            "key_phrases": ["flee from idolatry", "is it not a participation in the blood of Christ", "is it not a participation in the body of Christ", "what pagans sacrifice they offer to demons and not to God", "I do not want you to be participants with demons", "you cannot drink the cup of the Lord and the cup of demons", "shall we provoke the Lord to jealousy"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:23-30",
+            "section_title": "Practical Guidelines for Daily Situations",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul provides practical guidance for three specific daily situations — the meat market, dinner at an unbeliever's house, and when food is explicitly identified as a sacred offering — governed by the principle that freedom must be exercised with regard for the other person's conscience and well-being."
+        },
+        {
+            "reference": "10:31-33, 11:1",
+            "section_title": "The Comprehensive Principle and the Call to Imitation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul states the governing principle that all actions should be done for God's glory and without causing offense, models this through his own practice of self-limitation for the sake of others' salvation, and calls the Corinthians to imitate him as he imitates Christ.",
+            "relevance": "Paul's stated purpose — 'not seeking my own advantage, but that of many, that they may be saved' — presents human behavior (Paul's accommodation, the Corinthians' exercise of freedom) as a factor in whether others are saved. The chain of imitation (Christ to Paul to Corinthians) assumes genuine capacity for choice at each link. The salvific language (hina sothōsin) connects the exercise of human freedom directly to salvation outcomes — not the actor's own salvation, but their role in facilitating or hindering the salvation of others.",
+            "key_phrases": ["do all to the glory of God", "give no offense to Jews or to Greeks or to the church of God", "not seeking my own advantage, but that of many, that they may be saved", "be imitators of me, as I am of Christ"],
+            "confidence": "medium"
+        }
+    ]
+}

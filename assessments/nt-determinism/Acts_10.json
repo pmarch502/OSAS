@@ -1,0 +1,72 @@
+{
+    "book": "Acts",
+    "chapter": 10,
+    "sections": [
+        {
+            "reference": "10:1-2",
+            "section_title": "Cornelius -- A Gentile Described in Israel's Vocabulary",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author introduces Cornelius as a Roman centurion who is a God-fearer, gives alms generously to the Jewish people, and prays continually to God, presenting him as a Gentile who has done everything possible to approach Israel's God without becoming an Israelite."
+        },
+        {
+            "reference": "10:3-8",
+            "section_title": "The Angel's Instruction to Cornelius",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "An angel appears to Cornelius at the hour of temple sacrifice and declares that his prayers and alms have ascended to God as a memorial offering, then directs him to send for Peter.",
+            "relevance": "The angel's declaration that Cornelius's prayers and alms have 'ascended as a memorial before God' implies that genuine human devotion -- voluntary acts of prayer and charity -- is noticed, valued, and responded to by God. God's initiative in sending the angel is presented as a response to Cornelius's prior seeking, not as a unilateral determination apart from human agency. The pattern is human devotion followed by divine response, suggesting that Cornelius's choices genuinely affected his standing before God.",
+            "key_phrases": ["your prayers and your alms have ascended as a memorial before God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "10:9-16",
+            "section_title": "Peter's Vision -- The Sheet from Heaven",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter receives a thrice-repeated vision of a sheet containing clean and unclean animals with the command to kill and eat, and a divine declaration that what God has made clean must not be called common, dismantling the dietary distinction that embodied Israel's separation from the nations."
+        },
+        {
+            "reference": "10:17-23a",
+            "section_title": "The Spirit Interprets the Vision",
+            "category": "NOT_APPLICABLE",
+            "summary": "While Peter is perplexed by the vision, the Spirit directs him to go with Cornelius's messengers without hesitation, claiming ownership of the entire chain of events, and Peter extends hospitality to the Gentile visitors."
+        },
+        {
+            "reference": "10:23b-29",
+            "section_title": "Peter Enters a Gentile's House",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter travels to Cornelius's house with Jewish witnesses and upon arrival declares the vision's meaning: God has shown him that he should not call any person common or unclean, interpreting the food vision as a dismantling of ethnic boundaries."
+        },
+        {
+            "reference": "10:30-33",
+            "section_title": "Cornelius Recounts His Vision",
+            "category": "NOT_APPLICABLE",
+            "summary": "Cornelius retells his angelic visitation to Peter and declares that the assembled household is in the presence of God to hear all that Peter has been commanded by the Lord."
+        },
+        {
+            "reference": "10:34-43",
+            "section_title": "Peter's Speech -- God Shows No Partiality",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Peter preaches that God shows no partiality, that anyone in any nation who fears God and does what is right is acceptable to him, and that everyone who believes in Jesus receives forgiveness of sins through his name.",
+            "relevance": "Peter directly addresses who receives forgiveness and on what basis: 'everyone who believes in him receives forgiveness of sins.' The condition is human response -- believing -- not divine preselection. His opening declaration that 'God shows no partiality' and that 'in every nation anyone who fears him and does what is right is acceptable' presents acceptability before God as determined by human response (fearing God, doing right, believing), not by ethnic identity or predetermined election. The universal scope ('everyone,' 'in every nation,' 'anyone') combined with conditions of human response constitutes a direct argument that human agency determines salvation outcomes. This is Peter's own solemn proclamation in his sermon, not an aside or illustration.",
+            "key_phrases": ["God shows no partiality", "in every nation anyone who fears him and does what is right is acceptable to him", "he is Lord of all", "everyone who believes in him receives forgiveness of sins through his name"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:44-46",
+            "section_title": "The Spirit Falls on the Gentiles",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "While Peter is still speaking, the Holy Spirit falls on all the Gentiles who are hearing the word, producing tongues and praise identical to Pentecost, astonishing the Jewish believers present.",
+            "relevance": "The Spirit acts unilaterally -- falling before Peter finishes his sermon, before any call to repentance, before baptism, and without apostolic laying on of hands. The neutral reading emphasizes that 'the gift is entirely from God, entirely unsolicited, entirely free' and that God acted 'in a way that cannot be attributed to apostolic authority or ritual process.' This preemptive divine action, bypassing all human mediation, favors the reading that God determines when and to whom to bestow the Spirit. However, the passage contains genuine ambiguity: the Spirit falls on 'all who heard the word' without selecting some and bypassing others, and the timing coincides with Peter's declaration that 'everyone who believes receives forgiveness,' linking the Spirit's descent to the audience's hearing and implicit believing rather than to arbitrary divine selection.",
+            "key_phrases": ["the Holy Spirit fell on all who heard the word", "the gift of the Holy Spirit was poured out even on the Gentiles", "while Peter was still saying these things"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "10:47-48",
+            "section_title": "Baptism -- The Human Response to God's Action",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter argues that no one can withhold baptism from those who have received the Holy Spirit just as the apostles did, commands their baptism in the name of Jesus Christ, and remains with the Gentile household for several days of table fellowship."
+        }
+    ]
+}

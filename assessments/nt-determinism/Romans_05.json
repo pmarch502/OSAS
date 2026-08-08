@@ -1,0 +1,66 @@
+{
+    "book": "Romans",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-2",
+            "section_title": "Peace, Access, and the Hope of Glory",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul draws out the consequences of justification by faith: peace with God, access into grace through Christ, and boasting in the hope of God's glory."
+        },
+        {
+            "reference": "5:3-5",
+            "section_title": "Suffering, Endurance, and the Love Poured Out",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul describes a chain by which suffering produces endurance, endurance produces tested character, and tested character produces hope, grounded in God's love poured into the heart through the Holy Spirit."
+        },
+        {
+            "reference": "5:6-8",
+            "section_title": "Christ's Death for the Ungodly as the Demonstration of God's Love",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul demonstrates the character of God's love by noting that Christ died for the ungodly, sinners, and the weak at the divinely appointed time, exceeding anything found in ordinary human sacrifice."
+        },
+        {
+            "reference": "5:9-11",
+            "section_title": "The 'Much More' Arguments and Reconciliation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul uses two a fortiori arguments to reason from accomplished justification and reconciliation to the certainty of future salvation from wrath, concluding that the justified boast in God through Christ, having received reconciliation.",
+            "relevance": "The section consistently frames the justified as recipients: they 'received' (elabomen) reconciliation (5:11), paralleling the reception of justification (5:1), access (5:2), and the Spirit (5:5). The neutral reading observes that the entire economy of 5:1-11 is 'structured around reception: the justified have received justification, access, the Holy Spirit, and reconciliation. The human posture is that of the recipient, not the achiever.' The language of reception (lambano) implies genuine human engagement with what God provides rather than unilateral imposition, positioning the human as an active receiver rather than a passive object of determination.",
+            "key_phrases": ["we have now received reconciliation", "through our Lord Jesus Christ, through whom we have now received reconciliation"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:12-14",
+            "section_title": "Sin and Death Through One Man",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul explains how sin entered the world through one man (Adam), bringing death to all humanity, and how death reigned even over those who did not sin in the likeness of Adam's transgression, identifying Adam as a type of Christ."
+        },
+        {
+            "reference": "5:15-17",
+            "section_title": "The Gift Is Not Like the Trespass",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul insists that the gift surpasses the trespass: grace through Christ super-abounds beyond the death brought by Adam, the gift overcomes many trespasses to produce justification, and those who receive the abundance of grace will reign in life.",
+            "relevance": "The critical phrase is 'those who receive (hoi lambanontes) the abundance of grace and the free gift of righteousness will reign in life through the one man Jesus Christ' (5:17). The neutral reading explicitly observes that 'the scope of Christ's work is universal in its provision -- for the many (5:15), for all men (5:18) -- but its reception involves those who receive. The gift is real, abundant, and sufficient; it must also be taken up.' The participial form lambanontes (present tense) describes ongoing reception, not automatic application. This combination of universal provision with required reception implies genuine human agency in determining salvation outcomes: God provides abundantly for all, but the benefit is realized by those who receive it.",
+            "key_phrases": ["those who receive the abundance of grace and the free gift of righteousness reign in life", "the free gift is not like the trespass", "much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many"],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:18-19",
+            "section_title": "The Completed Parallel",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul completes the Adam-Christ parallel: as one trespass led to condemnation for all, so one righteous act leads to justification and life for all; as many were constituted sinners through one man's disobedience, so many will be constituted righteous through one man's obedience.",
+            "relevance": "The universal scope of Christ's righteous act is stated without qualification: justification and life extend 'to all men' (eis pantas anthropous), with the same breadth as the condemnation that reached 'all men' through Adam. The neutral reading notes that 'the text does not qualify the second all men differently from the first.' This universal provision resists a reading in which God predetermined a limited group for salvation. However, the neutral reading also observes that Paul introduced the language of reception in verse 17 ('those who receive'), indicating 'that the universal provision does not operate automatically apart from reception.' Paul holds both in tension: the provision is universal in scope, and the benefit is activated through reception identified elsewhere as faith. The universal scope of provision combined with the need for reception implies that human response is the differentiating factor, not divine preselection.",
+            "key_phrases": ["one act of righteousness leads to justification and life for all men", "by the one man's obedience the many will be made righteous", "as one trespass led to condemnation for all men"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:20-21",
+            "section_title": "The Law, the Increase of Sin, and the Super-Abounding of Grace",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul describes the law as entering to expose and increase the trespass, but where sin increased grace super-abounded, so that as sin reigned in death, grace now reigns through righteousness leading to eternal life through Jesus Christ."
+        }
+    ]
+}

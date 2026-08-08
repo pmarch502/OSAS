@@ -1,0 +1,103 @@
+{
+    "book": "Mark",
+    "chapter": 13,
+    "sections": [
+        {
+            "reference": "13:1-2",
+            "section_title": "The Prediction of the Temple's Destruction",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus leaves the temple for the last time in Mark's narrative and declares with absolute certainty that not one stone of the temple will be left upon another, culminating the prophetic judgment enacted in chapters 11-12."
+        },
+        {
+            "reference": "13:3-4",
+            "section_title": "The Disciples' Question",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter, James, John, and Andrew privately ask Jesus when the temple's destruction will occur and what sign will precede it."
+        },
+        {
+            "reference": "13:5-8",
+            "section_title": "The Period Before the End — What Is Not the Sign",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus warns against being misled by false messiahs and lists wars, earthquakes, and famines as preliminary events that are explicitly not the sign of the end but only the beginning of birth pains."
+        },
+        {
+            "reference": "13:9-13",
+            "section_title": "The Experience of the Disciples Before the End",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus warns the disciples they will be handed over to courts, flogged in synagogues, brought before governors and kings, betrayed by family members, and hated by all, but declares that the one who endures to the end will be saved.",
+            "relevance": "Verse 13 directly conditions salvation on human endurance: 'the one who has endured to the end will be saved.' The neutral reading explicitly connects this to the sower parable (Mark 4:16-17), where joyful reception without endurance produces nothing — only the good soil that bears fruit represents genuine response. Salvation is presented not as a predetermined outcome but as contingent on the believer's sustained faithfulness through persecution. The condition is not initial belief or a moment of decision but endurance through the entire period of suffering.",
+            "key_phrases": [
+                "it is the one who has endured to the end who will be saved",
+                "do not worry beforehand about what you are to say",
+                "you will be hated by everyone because of My name"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "13:14",
+            "section_title": "The Sign — The Abomination of Desolation",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus identifies the abomination of desolation standing where it should not be as the actual sign the disciples asked about, drawing on the Danielic precedent of Antiochus IV's desecration and instructing immediate flight from Judea."
+        },
+        {
+            "reference": "13:15-20",
+            "section_title": "The Urgency of Flight",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jesus describes the tribulation's unprecedented severity and states that God shortened those days for the sake of the elect whom he chose, since otherwise no life would have been saved.",
+            "relevance": "The passage introduces 'the elect' (tous eklektous) as those whom God has chosen, and presents God as sovereignly controlling historical events on their behalf — shortening the days of tribulation as an act of mercy directed specifically toward them. This language has implications favoring divine determination: God has a chosen group and exercises sovereign power to preserve them. However, the neutral reading carefully qualifies that 'elect' in LXX background means 'chosen for a purpose,' not 'individuals who will certainly be saved regardless of their conduct,' and notes that the elect are present in the tribulation (not removed from it), leaving the question of whether their individual salvation is guaranteed unresolved by this passage alone.",
+            "key_phrases": [
+                "for the sake of the elect, whom He chose, He shortened the days",
+                "if the Lord had not shortened those days, no life would have been saved"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:21-23",
+            "section_title": "Second Warning Against False Messiahs",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Jesus warns that false christs and false prophets will perform genuine signs and wonders aimed at misleading even the elect, and instructs the disciples that advance warning is their defense against deception.",
+            "relevance": "The phrase 'if possible, the elect' (ei dynaton, tous eklektous) is the crux. The neutral reading argues that the warning would be meaningless if the elect were incapable of being misled — the danger is real, not merely theoretical. The defense against deception is not ontological immunity but advance knowledge and the hearer's choice to heed the warning. The reading explicitly connects this to the sower parable: 'Advance warning gives the hearer the knowledge needed to endure, but the hearer must still choose to endure. The responsibility remains with them.' This undercuts a strictly deterministic reading of election, since the elect must exercise genuine agency to avoid falling to deception.",
+            "key_phrases": [
+                "in order to mislead, if possible, the elect",
+                "I have told you everything in advance",
+                "do not believe it"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:24-27",
+            "section_title": "After the Tribulation — Cosmic Language and the Son of Man",
+            "category": "NOT_APPLICABLE",
+            "summary": "Using prophetic cosmic-upheaval language drawn from Isaiah and Joel to describe the collapse of the old political-spiritual order, Jesus declares the Son of Man's vindication and enthronement per Daniel 7, followed by the gathering of the elect from the four winds through what the neutral reading identifies as the worldwide gospel mission."
+        },
+        {
+            "reference": "13:28-31",
+            "section_title": "The Fig Tree Parable and 'This Generation'",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus uses the fig tree's seasonal signs to teach the disciples to read the signs of the times, declares that this generation will not pass away before all these things take place, and guarantees the certainty of his words as more enduring than heaven and earth."
+        },
+        {
+            "reference": "13:32",
+            "section_title": "What Is Not Known — The Day and Hour",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus declares that no one — not angels, not even the Son — knows the exact day or hour, only the Father, establishing a hierarchy of knowledge that limits even the Son of Man's awareness of the precise timing."
+        },
+        {
+            "reference": "13:33-37",
+            "section_title": "The Command to Stay Alert",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus concludes with a parable of a master who leaves his house and assigns tasks to his slaves, commanding the doorkeeper to stay alert, and extends the command to vigilance from the four disciples to all followers.",
+            "relevance": "The repeated imperative 'stay alert' (gregoreo) presupposes genuine human agency — the disciples can obey or disobey the command. The neutral reading notes that Peter, one of the four hearing this teaching, will fail to stay alert in Gethsemane just hours later, demonstrating that the failure is a real possibility, not a theoretical one. The Ezekiel 33 watchman framework reinforces individual responsibility: Jesus has sounded the alarm and told them everything in advance, and 'the responsibility now rests on the hearers.' The implication is that faithfulness or failure when the master returns depends on the servants' genuine choices.",
+            "key_phrases": [
+                "Watch out, stay alert; for you do not know when the appointed time is",
+                "so that he does not come suddenly and find you asleep",
+                "What I say to you I say to all: Stay alert!"
+            ],
+            "confidence": "high"
+        }
+    ]
+}

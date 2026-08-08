@@ -1,0 +1,94 @@
+{
+    "book": "Acts",
+    "chapter": 8,
+    "sections": [
+        {
+            "reference": "8:1a",
+            "section_title": "Saul's Consent",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading identifies Saul's active approval of Stephen's death, using the verb syneudokeo to indicate shared, willing participation in the judgment against Stephen."
+        },
+        {
+            "reference": "8:1b-3",
+            "section_title": "The Persecution and the Scattering",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading describes the great persecution that scattered believers throughout Judea and Samaria, noting that what looked like destruction from the persecutors' perspective functioned as sowing from God's perspective, advancing the gospel along the trajectory of Acts 1:8."
+        },
+        {
+            "reference": "8:4",
+            "section_title": "The Scattered Ones Preach",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading notes that the scattered believers went through places preaching the word, showing that the persecution designed to silence the message instead multiplied the messengers."
+        },
+        {
+            "reference": "8:5-8",
+            "section_title": "Philip Proclaims the Christ in Samaria",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading describes Philip crossing the Jewish-Samaritan ethnic boundary to proclaim the Messiah, with the Samaritan crowds paying unified attention to his message and signs, resulting in much rejoicing."
+        },
+        {
+            "reference": "8:9-13",
+            "section_title": "Simon the Practitioner of Magic",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading describes the Samaritans' shift from following Simon the sorcerer to believing Philip's preaching about the kingdom of God and the name of Jesus Christ, with both the crowds and Simon himself believing and being baptized.",
+            "relevance": "Believing is consistently presented as a human response to Philip's preaching. The verb pisteuo is used for both the Samaritan crowds and Simon without any indication that God determined who would believe. The neutral reading notes that Simon's belief and baptism are described with the same vocabulary as everyone else's, yet what follows will reveal the quality of that belief -- implying that faith is a genuine human act whose quality depends on the person's heart orientation, not on divine pre-selection.",
+            "key_phrases": ["when they believed Philip", "both men and women were being baptized", "even Simon himself believed", "after being baptized, he continued on with Philip"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:14-17",
+            "section_title": "The Apostles Send Peter and John to Samaria",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading explains the delay of the Spirit until Peter and John arrive from Jerusalem as serving ecclesiological unity between the Jewish and Samaritan communities, ensuring one body rather than two separate movements."
+        },
+        {
+            "reference": "8:18-24",
+            "section_title": "Simon's Attempt to Purchase the Spirit",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading describes Simon's attempt to buy the authority to bestow the Holy Spirit, Peter's severe rebuke diagnosing Simon's heart as not right before God, and Peter's command to Simon to repent so that forgiveness might be possible.",
+            "relevance": "Peter directly addresses Simon as a genuine agent whose choices determine his salvation outcome. Peter's command 'repent of this wickedness of yours' presupposes that Simon can repent -- the imperative would be meaningless otherwise. Peter diagnoses the problem as Simon's heart condition ('your heart is not right before God') and his internal disposition ('the gall of bitterness and the bondage of unrighteousness'), not as divine decree or predestined exclusion. The remedy is human action: repent and pray. The neutral reading emphasizes that 'Peter does not pronounce a final sentence; he prescribes a remedy,' and that 'the call to repentance means that Simon's condition, though severe, is not irreversible.' The 'if possible' qualifier reflects the gravity of the offense, not a question of whether God has predetermined Simon's fate. The passage directly teaches that a person's standing before God depends on the genuine orientation of their heart, and that even someone in severe spiritual bondage is called to repent -- placing the decisive agency with the human person.",
+            "key_phrases": ["your heart is not right before God", "repent of this wickedness of yours", "pray to the Lord that, if possible, the intention of your heart will be forgiven you", "you are in the gall of bitterness and in the bondage of unrighteousness", "you thought you could acquire the gift of God with money"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:25",
+            "section_title": "The Return to Jerusalem",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading summarizes Peter and John's return to Jerusalem, noting that they preached the gospel in many Samaritan villages along the way, completing the dismantling of the Jewish-Samaritan boundary."
+        },
+        {
+            "reference": "8:26-29",
+            "section_title": "Philip Sent to the Desert Road",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading describes the divine orchestration of Philip's encounter with the Ethiopian eunuch: an angel directs Philip to the desert road, and the Spirit tells him to approach the specific chariot, with the eunuch already reading Isaiah at exactly the right passage.",
+            "relevance": "The elaborate divine orchestration -- angel directing Philip to the road, the Spirit instructing him to approach the chariot, the eunuch reading Isaiah 53 at precisely that moment -- implies that God actively arranges the conditions under which specific individuals encounter the gospel. The neutral reading states that 'the entire encounter is orchestrated -- angel, road, timing, reader, Spirit, herald.' This has implications for divine determination of salvation outcomes: God does not passively wait for people to find the gospel but actively directs messengers to specific recipients. However, the text does not exclude human response -- the eunuch's seeking, asking, and requesting baptism are all presented as genuine acts in subsequent sections -- so the passage shows divine initiative in arranging encounter without presenting God as unilaterally determining the outcome.",
+            "key_phrases": ["an angel of the Lord spoke to Philip", "the Spirit said to Philip, Go up and join this chariot", "this is a desert road"],
+            "confidence": "low"
+        },
+        {
+            "reference": "8:30-35",
+            "section_title": "Philip Interprets Isaiah for the Eunuch",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading describes Philip's encounter with the eunuch who is reading Isaiah 53:7-8, the eunuch's honest request for interpretive guidance, and Philip's proclamation of Jesus beginning from that scripture."
+        },
+        {
+            "reference": "8:36-39",
+            "section_title": "The Eunuch's Baptism",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading describes the eunuch's spontaneous request for baptism, his immediate baptism by Philip without apostolic authorization or delay, and his departure in joy, explicitly contrasted with Simon's deficient response.",
+            "relevance": "The eunuch's question 'What prevents me from being baptized?' presents him as a genuine agent initiating his own response to the gospel. The neutral reading emphasizes that his entire religious life had been defined by barriers (Deuteronomy 23:1 excluded eunuchs from the assembly), so the question carries the weight of a lifetime of exclusion. The implicit answer -- nothing prevents you -- frames salvation as accessible to anyone who responds. The author's deliberate contrast between Simon and the eunuch is especially significant: both heard the message, both believed, both were baptized, yet their outcomes diverge based on heart orientation. The neutral reading states that 'the decisive factor is not the external response but the internal orientation: is the heart turned toward God's purposes or toward one's own?' This framing places the determinative factor in human heart orientation rather than in divine pre-selection.",
+            "key_phrases": ["What prevents me from being baptized?", "they both went down into the water", "went on his way rejoicing", "the decisive factor is not the external response but the internal orientation"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:40",
+            "section_title": "Philip's Continuing Mission",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading describes Philip's supernatural transport to Azotus and his continued preaching through the coastal cities until reaching Caesarea, completing the chapter's picture of centrifugal geographic expansion."
+        }
+    ]
+}

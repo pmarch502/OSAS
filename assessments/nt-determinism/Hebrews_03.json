@@ -1,0 +1,72 @@
+{
+    "book": "Hebrews",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1",
+            "section_title": "The Opening Summons",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author summons the audience -- addressed as holy brothers and partakers of a heavenly calling -- to fix their attention on Jesus as the Apostle and High Priest of their confession.",
+            "relevance": "The word metochoi ('partakers') is identified in the neutral reading as describing 'a shared participation that is real but not automatically permanent,' and the klesis ('calling') is a summons 'to which one must respond.' The vocabulary frames divine initiative (the calling originates from heaven) as requiring ongoing human engagement rather than unilaterally securing an outcome.",
+            "key_phrases": ["partakers of a heavenly calling", "consider the Apostle and High Priest of our confession"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:2-6a",
+            "section_title": "The Comparison with Moses",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author establishes that both Jesus and Moses were faithful in God's house, but Jesus holds greater honor as Son over the house while Moses served within it as a trusted attendant."
+        },
+        {
+            "reference": "3:6b",
+            "section_title": "The Conditional That Governs Everything",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The author states that the audience constitutes the Son's house conditionally: 'if we hold firmly to our confidence and the boast of our hope.'",
+            "relevance": "The neutral reading identifies this as 'one of the most consequential statements in the letter.' The conditional particle ean introduces genuine uncertainty, the verb katachomen is present-tense subjunctive indicating ongoing action, and the reading explicitly states: 'The author does not say we became his house at a past moment and therefore always will be. He says we are his house if we keep holding.' Membership in Christ's household depends on sustained human response. The confidence (parresia) can be 'thrown away' (10:35), confirming it is not an irrevocable possession. This is part of the author's own direct argument, not an aside or illustration.",
+            "key_phrases": ["whose house we are", "if we hold firmly", "our confidence and the boast of our hope"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:7-11",
+            "section_title": "The Psalm 95 Quotation: God's Voice and Israel's Failure",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The author quotes Psalm 95:7-11 as the Holy Spirit's present-tense address, recounting how the wilderness generation heard God's voice, saw his works for forty years, hardened their hearts, and were barred by divine oath from entering God's rest.",
+            "relevance": "The imperative 'do not harden your hearts' presupposes genuine human capacity to choose otherwise. The neutral reading emphasizes that the generation 'saw My works for forty years' yet hardened their hearts -- 'those who saw the most believed the least.' Their exclusion resulted from their own persistent refusal despite maximal exposure to God's faithfulness. The psalm is deployed not as historical illustration but as the generative text for the author's sustained argument (3:7-4:13), making the human choice to harden or not harden the central variable determining the outcome.",
+            "key_phrases": ["Today if you hear His voice", "do not harden your hearts", "they always go astray in their heart", "they certainly shall not enter My rest"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:12-14",
+            "section_title": "The Application: Do Not Repeat Their Failure",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The author warns the community against developing an evil, unbelieving heart that falls away from the living God, prescribes daily mutual encouragement as the remedy against the deceitfulness of sin, and restates the conditional: participation in Christ depends on holding firm until the end.",
+            "relevance": "The imperatives 'take care' (blepete) and 'encourage one another' (parakaleite) presuppose genuine human capacity to act. The warning targets insiders -- 'holy brothers and sisters, partakers of a heavenly calling' (3:1) -- not outsiders, establishing that those with genuine standing before God can fall away (apostenai) from the living God. Verse 14 states the condition explicitly: 'we have become partakers of Christ, if we hold the beginning of our commitment firm until the end.' The neutral reading observes that the author 'is not saying the audience's initial faith was false; he is saying that initial faith, without perseverance, will not arrive at its destination.' The prescribed remedy -- daily communal encouragement against gradual hardening -- treats the outcome as dependent on human choices sustained over time.",
+            "key_phrases": ["take care, brothers and sisters", "an evil, unbelieving heart that falls away from the living God", "encourage one another every day", "as long as it is still called today", "hardened by the deceitfulness of sin", "we have become partakers of Christ", "if we hold the beginning of our commitment firm until the end"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:15",
+            "section_title": "The Psalm Repeated",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author re-quotes Psalm 95:7-8 to reconnect the conditional of verse 14 with the wilderness warning, emphasizing that the psalm's 'today' is still operative for the audience.",
+            "relevance": "The re-quotation underscores that the window for human response ('today') remains open and that the choice not to harden is still before the audience. The present-tense framing ('while it is being said') treats the opportunity for faithful response as temporally bounded but currently available, reinforcing that human decision is the operative variable.",
+            "key_phrases": ["Today if you hear His voice", "do not harden your hearts"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:16-19",
+            "section_title": "The Interrogation: Who Failed, and Why?",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Through three rhetorical questions, the author forces the audience to identify who provoked God, who died in the wilderness, and who was barred from God's rest -- answering each with the entire delivered community whose unbelief was the root cause of their exclusion.",
+            "relevance": "The neutral reading traces the chain of causation: the people heard (real revelation), sinned (responded with distrust), disobeyed (refused to act on God's command), and were excluded -- all because of unbelief (apistia). The reading states: 'The hearing was real, the deliverance was real, the covenant was real -- but unbelief undid all of it.' The determining factor in the outcome was the people's own choices, not a divine decree selecting them for exclusion. The emphatic 'all' (pantes) who came out of Egypt underscores that privileged covenant status -- genuine insider standing -- did not prevent the fall. The author deploys this as his own argument to warn his audience that their choices carry the same weight.",
+            "key_phrases": ["all those who came out of Egypt led by Moses", "those who sinned, whose dead bodies fell in the wilderness", "those who were disobedient", "they were not able to enter because of unbelief"],
+            "confidence": "high"
+        }
+    ]
+}

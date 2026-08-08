@@ -1,0 +1,81 @@
+{
+    "book": "John",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-2",
+            "section_title": "The Setting at Cana",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author sets the scene for the first sign at a wedding in Cana of Galilee, noting the prophetic resonance of weddings as symbols of God's relationship with Israel and the messianic age."
+        },
+        {
+            "reference": "2:3-5",
+            "section_title": "The Wine Runs Out and the Mother's Request",
+            "category": "NOT_APPLICABLE",
+            "summary": "The wine shortage at the wedding introduces the theme of messianic abundance, Jesus's 'hour' as a governing temporal framework, and the mother's instruction to the servants to obey whatever Jesus commands."
+        },
+        {
+            "reference": "2:6-8",
+            "section_title": "The Water Jars and the Command",
+            "category": "NOT_APPLICABLE",
+            "summary": "Six stone jars for Jewish purification are filled with water at Jesus's command, symbolizing the existing but incomplete system of ritual cleansing that Jesus will transform."
+        },
+        {
+            "reference": "2:9-10",
+            "section_title": "The Headwaiter's Testimony",
+            "category": "NOT_APPLICABLE",
+            "summary": "The headwaiter unknowingly testifies to the quality of the wine Jesus produced, while the servants who obeyed Jesus's commands know the source, establishing a pattern where participation in obedience leads to knowledge of Jesus's identity."
+        },
+        {
+            "reference": "2:11",
+            "section_title": "The Author's Interpretation of the Sign",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author interprets the Cana miracle as the first sign that manifested Jesus's glory and produced genuine belief among his disciples, introducing the terms 'sign,' 'glory,' and 'believe into' as structural vocabulary for the document."
+        },
+        {
+            "reference": "2:12",
+            "section_title": "Transition to Capernaum",
+            "category": "NOT_APPLICABLE",
+            "summary": "A brief transitional note recording Jesus's move from Cana to Capernaum with his family and disciples before the journey to Jerusalem."
+        },
+        {
+            "reference": "2:13-14",
+            "section_title": "Jesus Goes to Jerusalem for Passover",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus goes up to Jerusalem for the first of three Passovers in the document and finds commercial activities in the temple courts."
+        },
+        {
+            "reference": "2:15-17",
+            "section_title": "Jesus Drives Out the Merchants",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus drives out the merchants and money changers with a whip of cords, claiming the temple as 'my Father's house,' and the disciples connect his action to the righteous sufferer of Psalm 69 whose zeal will consume him."
+        },
+        {
+            "reference": "2:18-19",
+            "section_title": "The Demand for a Sign and Jesus's Answer",
+            "category": "NOT_APPLICABLE",
+            "summary": "The authorities demand a sign authorizing Jesus's temple action, and Jesus responds with a compressed prophecy of his death and resurrection, identifying his own body as the true temple (naos) where God dwells."
+        },
+        {
+            "reference": "2:20-22",
+            "section_title": "Misunderstanding and Later Understanding",
+            "category": "NOT_APPLICABLE",
+            "summary": "The authorities misunderstand Jesus's temple saying literally, but the author notes that after the resurrection the disciples remembered and believed both the Scripture and Jesus's word, placing them on equal authority."
+        },
+        {
+            "reference": "2:23-25",
+            "section_title": "Belief Based on Signs and Jesus's Knowledge",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Many in Jerusalem believed in Jesus's name upon seeing signs, but Jesus did not entrust himself to them because he knew what was in every person, introducing a distinction between genuine committed belief and superficial sign-based belief.",
+            "relevance": "The neutral reading locates the differentiating factor between adequate and inadequate belief in 'what is in man' — the human interior disposition that determines whether sign-based belief deepens into committed trust or remains superficial. The passage presents different people responding differently to the same evidence (signs), and the quality of response is attributed to the human interior rather than to divine decree. Jesus's supernatural knowledge of hearts functions as discernment of what is already present in people, not as evidence that he determined what would be there.",
+            "key_phrases": [
+                "many believed in his name, observing his signs",
+                "Jesus was not entrusting himself to them",
+                "he knew all men",
+                "he himself knew what was in man"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

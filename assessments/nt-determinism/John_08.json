@@ -1,0 +1,102 @@
+{
+    "book": "John",
+    "chapter": 8,
+    "sections": [
+        {
+            "reference": "7:53-8:11",
+            "section_title": "The Woman Brought Before Jesus",
+            "category": "NOT_APPLICABLE",
+            "summary": "A textual insertion absent from the earliest manuscripts narrates Jesus's response to a woman caught in adultery, combining mercy with the moral demand to sin no more."
+        },
+        {
+            "reference": "8:12",
+            "section_title": "The Light of the World",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus declares himself the light of the world against the backdrop of the Tabernacles lampstand ceremony, promising that the one who follows him will not walk in darkness but will have the light of life.",
+            "relevance": "The present participle 'the one who follows' (ho akolouthon) describes an ongoing human activity, and the promise of not walking in darkness is contingent on this continuous following. The neutral reading notes this is consistent with the grammar of believing that runs through the document, presenting the relationship with Jesus as sustained engagement rather than a single past decision.",
+            "key_phrases": ["he who follows me will not walk in the darkness, but will have the light of life", "the one who follows"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:13-18",
+            "section_title": "The Validity of Jesus's Testimony",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus defends the validity of his self-testimony by appealing to his knowledge of his own divine origin and destination, and to the Father as a second witness fulfilling the two-witness requirement of Deuteronomy 19:15."
+        },
+        {
+            "reference": "8:19-20",
+            "section_title": "Where Is Your Father?",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Pharisees demand to see Jesus's Father, and Jesus replies that their failure to know him means they do not know the Father either, while the author notes that no one seized Jesus because his hour had not yet come."
+        },
+        {
+            "reference": "8:21-24",
+            "section_title": "You Will Die in Your Sins",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Jesus warns that his opponents will die in their sins unless they believe that 'I am,' presenting the ontological gap between 'below' and 'above' as bridgeable through the act of believing.",
+            "relevance": "The conditional 'unless you believe that I am, you will die in your sins' directly presents human belief as the determining factor in whether one dies in sin or receives life. The neutral reading states that the descent of the one from above into the realm of below 'creates the possibility that those below can be reached' and that 'believing is the means by which the gap is bridged.' The text directly addresses human beings as agents whose choice to believe or refuse determines their salvation outcome, and does so as part of the author's central argument. The 'from below' / 'from above' contrast establishes the need for belief but does not present the gap as impassable -- the conditional 'unless you believe' treats belief as a genuine possibility available to those addressed.",
+            "key_phrases": ["unless you believe that I am, you will die in your sins", "you will die in your sin", "you are from below, I am from above"],
+            "confidence": "high"
+        },
+        {
+            "reference": "8:25-30",
+            "section_title": "When You Lift Up the Son of Man",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus declares that the lifting up of the Son of Man will reveal his identity, grounds his speech in the Father's authority, and the author notes that many came to believe in him as he spoke."
+        },
+        {
+            "reference": "8:31-36",
+            "section_title": "Continuing in the Word, Truth, and Freedom",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Jesus tells those who had believed him that genuine discipleship requires continuing in his word, redefines freedom as liberation from sin rather than political independence, and declares that only the Son can provide genuine freedom.",
+            "relevance": "The passage directly presents human continuation as the condition that determines genuine discipleship: 'If you continue in my word, you are truly my disciples.' The conditional ean introduces a real condition that may or may not be fulfilled, and the adverb 'truly' (alethos) distinguishes genuine from apparent disciples based on their ongoing choice to remain. The neutral reading states explicitly that the author 'presents discipleship not as a status conferred by a moment of belief but as a condition maintained by ongoing relationship with Jesus's word.' The subsequent narrative demonstrates this by showing those who 'had believed' progressing to attempted murder, illustrating that initial belief without continuation fails to constitute genuine discipleship. The Son's role as liberator ('if the Son makes you free') does not diminish the libertarian force, since the freedom is conditionally offered and must be received.",
+            "key_phrases": ["if you continue in my word, you are truly my disciples", "the truth will make you free", "everyone who commits sin is the slave of sin", "the slave does not remain in the house forever; the son does remain forever", "if the Son makes you free, you will be free indeed"],
+            "confidence": "high"
+        },
+        {
+            "reference": "8:37-41a",
+            "section_title": "Abraham's Seed and Abraham's Works",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus concedes his opponents' biological descent from Abraham but denies their moral resemblance to Abraham, arguing that their murderous intent toward him proves they do not share Abraham's character of faith and obedience.",
+            "relevance": "The distinction between biological descent (sperma) and genuine childship (tekna) undermines any view that hereditary lineage or predetermined status determines spiritual standing. The neutral reading notes that 'covenant identity is not transmitted genetically; it is constituted by faith and obedience.' The passage implies that human behavior -- receiving or rejecting God's word, as Abraham did -- determines one's true spiritual parentage rather than any predetermined election by lineage.",
+            "key_phrases": ["I know that you are Abraham's descendants; yet you seek to kill me, because my word has no place in you", "if you are Abraham's children, do the deeds of Abraham", "this Abraham did not do"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:41b-47",
+            "section_title": "Your Father the Devil",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Jesus identifies his opponents' spiritual father as the devil, arguing that their rejection of truth and desire to kill him reveals their true parentage, and declares that those who are of God hear God's words while those not of God cannot hear.",
+            "relevance": "This passage is cited by determinists for 'you cannot hear my word' (v. 43) and 'you do not hear them, because you are not of God' (v. 47), which appear to describe a fixed inability imposed apart from human choice. However, the neutral reading finds that the inability stems from volitional alignment: 'their unwillingness produces their inability,' connecting to 7:17 where willingness to do God's will is the prerequisite for recognizing God's teaching. Verse 44 emphasizes volition -- 'you want to do the desires of your father' -- which the neutral reading identifies as 'not involuntary possession but chosen alignment.' The neutral reading explicitly concludes: 'Being of God or of the devil is presented as a matter of orientation, allegiance, and practiced behavior, not as an ontological category determined independently of human response.' The category is medium-confidence because the surface language of inability is genuinely ambiguous.",
+            "key_phrases": ["you want to do the desires of your father", "why do you not understand what I am saying? It is because you cannot hear my word", "because I speak the truth, you do not believe me", "he who is of God hears the words of God; for this reason you do not hear them, because you are not of God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:48-53",
+            "section_title": "Honor, Death, and Abraham",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus declares that anyone who keeps his word will never see death, prompting his opponents to accuse him of having a demon and to challenge whether he is greater than Abraham and the prophets who died.",
+            "relevance": "The conditional 'if anyone keeps my word, he will never see death' presents human keeping of Jesus's word as the condition determining whether one experiences spiritual death. The universal 'anyone' (tis) opens the promise to all, and the verb 'keeps' (terese) describes ongoing faithful obedience, consistent with the document's pattern of presenting salvation-relevant outcomes as contingent on sustained human engagement.",
+            "key_phrases": ["if anyone keeps my word, he will never see death"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:54-56",
+            "section_title": "The Father's Glory and Abraham's Joy",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus declares that the Father glorifies him, charges his opponents with not knowing the God they claim to worship, and asserts that Abraham rejoiced to see his day."
+        },
+        {
+            "reference": "8:57-59",
+            "section_title": "Before Abraham Was, I Am",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus makes the climactic claim 'Before Abraham was born, I am,' asserting the divine mode of existence proper to the 'I AM' of Exodus and Isaiah, provoking an attempted stoning from which he withdraws from the temple."
+        }
+    ]
+}

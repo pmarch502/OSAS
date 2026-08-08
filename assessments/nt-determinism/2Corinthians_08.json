@@ -1,0 +1,52 @@
+{
+    "book": "2Corinthians",
+    "chapter": 8,
+    "sections": [
+        {
+            "reference": "8:1-5",
+            "section_title": "The Grace of God Enacted in Macedonian Poverty",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul presents the Macedonian churches' extraordinary generosity as the product of God's grace working through their voluntary, self-chosen response — they gave 'of their own accord,' begged for the privilege of participating, and gave themselves first to the Lord before giving their money.",
+            "relevance": "The passage models a specific relationship between divine grace and human agency: God's grace is the enabling source ('the grace of God that has been given among the churches of Macedonia'), yet the resulting human response is described with language of genuine voluntary choice (authairetoi, 'self-chosen, of their own accord'). The Macedonians were not compelled by grace into generosity; they begged for the privilege. While the context is financial giving rather than salvation directly, Paul's understanding of how grace operates — enabling and producing genuine voluntary response rather than overriding human will — bears on the broader question of whether divine initiative excludes or includes authentic human agency.",
+            "key_phrases": ["the grace of God that has been given among the churches of Macedonia", "of their own accord", "begging us earnestly for the favor of taking part", "they gave themselves first to the Lord and then by the will of God to us"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:6-7",
+            "section_title": "The Appeal to Complete the Act of Grace",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul urges Titus to complete the collection in Corinth and appeals to the Corinthians to let their existing excellences in faith, speech, knowledge, earnestness, and love overflow into this concrete act of financial grace."
+        },
+        {
+            "reference": "8:8-9",
+            "section_title": "The Test of Genuineness and the Self-Impoverishment of Christ",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul disclaims command and instead tests the genuineness of the Corinthians' love by pointing to the christological exchange pattern: Christ, though rich, became poor for their sake so that by his poverty they might become rich — a model for the collection, not an argument about who determines salvation outcomes."
+        },
+        {
+            "reference": "8:10-12",
+            "section_title": "Finishing What Was Started and the Principle of Proportional Readiness",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul advises the Corinthians to finish the collection they began a year ago, establishing the principle that a gift is acceptable according to what a person has, not according to what they lack — proportional readiness, not absolute amount, is the standard."
+        },
+        {
+            "reference": "8:13-15",
+            "section_title": "The Principle of Reciprocal Supply and the Manna Precedent",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul grounds the collection in the principle of reciprocal supply (the Corinthians' material abundance for Jerusalem's material need, Jerusalem's spiritual abundance for the Corinthians' spiritual need), citing the manna narrative of Exodus 16:18 to establish that God's provision produces equalization rather than hoarding."
+        },
+        {
+            "reference": "8:16-21",
+            "section_title": "The Delegation, Administrative Transparency, and Honorable Conduct",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul introduces the delegation for the collection — Titus (whose earnest care God put in his heart, yet who goes of his own accord) and an unnamed brother elected by the churches — and explains the administrative structure designed to ensure transparency and honorable conduct before both God and people."
+        },
+        {
+            "reference": "8:22-24",
+            "section_title": "The Tested Brother and the Proof of Love",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul introduces a third delegate who has been repeatedly tested and found earnest, identifies the delegation's credentials (Titus as partner, the brothers as messengers of the churches and the glory of Christ), and closes with an appeal for the Corinthians to demonstrate their love and vindicate Paul's boasting before the watching churches."
+        }
+    ]
+}

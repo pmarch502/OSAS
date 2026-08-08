@@ -1,0 +1,52 @@
+{
+    "book": "Hebrews",
+    "chapter": 12,
+    "sections": [
+        {
+            "reference": "12:1-3",
+            "section_title": "The Exhortation to Run -- Drawing the Conclusion from the Catalogue",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author draws the practical conclusion from the chapter 11 catalogue, exhorting the audience to lay aside encumbrances and entangling sin, run with endurance the race set before them, and fix their eyes on Jesus, the pioneer and perfecter of faith who endured the cross for the joy set before him.",
+            "relevance": "The passage is structured entirely around imperatives that assume genuine human agency: the audience must lay aside sin, must run, must fix their eyes on Jesus, must consider him so as not to grow weary and lose heart. While the race is 'set before' them by God and Jesus has blazed the trail, the audience's participation is presented as their own responsibility. The danger of growing weary and losing heart is real and must be actively countered, implying that perseverance depends on the audience's sustained effort and attention.",
+            "key_phrases": ["let us also lay aside every encumbrance and the sin which so easily entangles us", "let us run with endurance the race that is set before us", "fixing our eyes on Jesus", "so that you will not grow weary and lose heart"],
+            "confidence": "high"
+        },
+        {
+            "reference": "12:4-11",
+            "section_title": "Suffering Reframed as Paternal Discipline",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author reframes the audience's suffering as the discipline of a loving father training his sons, using Proverbs 3:11-12 to establish that divine correction is evidence of legitimacy in God's household, and arguing that the discipline's purpose is participation in God's holiness and the production of the peaceful fruit of righteousness.",
+            "relevance": "God's active role in disciplining is prominent, but the text presents two possible human responses to discipline -- accepting the training or refusing it -- and ties the outcome to which response the person makes. The conditional 'to those who have been trained by it, afterwards it yields the peaceful fruit of righteousness' implies that only those who submit to and are shaped by the discipline receive the fruit. The rhetorical question 'shall we not much rather be subject to the Father of spirits, and live?' frames submission as a choice the audience makes, with life as the consequence of willing subjection. The alternative to submission is implied but unstated, reinforcing that the audience's response to God's discipline genuinely affects their outcome.",
+            "key_phrases": ["shall we not much rather be subject to the Father of spirits, and live", "yet to those who have been trained by it, afterwards it yields the peaceful fruit of righteousness", "so that we may share His holiness", "do not regard lightly the discipline of the Lord, nor faint when you are reproved by Him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "12:12-17",
+            "section_title": "Practical Commands and the Warning of Esau",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author issues practical commands to strengthen weak hands and feeble knees, pursue peace and sanctification, watch against falling short of God's grace and against roots of bitterness, and warns against becoming like Esau, who traded his birthright for a single meal and afterward found no place for repentance despite seeking it with tears.",
+            "relevance": "This section directly addresses human agency as determining salvation outcomes, and does so as the author's own sustained argument. Three elements make this unmistakable. First, the author states that sanctification is the condition 'without which no one will see the Lord' (12:14), and frames sanctification as something to be actively pursued -- a human responsibility, not an automatic divine imposition. Second, the command to 'see to it that no one comes short of the grace of God' (12:15) presents grace as something genuinely available that humans can nevertheless fail to reach, treating falling short as a real possibility the community must guard against. Third, the Esau warning presents a person who made a voluntary, irreversible choice to trade his inheritance, and the author explicitly draws the parallel to his audience: they hold a firstborn's inheritance that they can trade away through their own decision to abandon their confession. The irreversibility -- Esau found no place for repentance though he sought with tears -- parallels the impossibility passages of 6:4-6 and 10:26-27, framing certain human choices as having permanent, unreversible consequences for one's standing before God.",
+            "key_phrases": ["the sanctification without which no one will see the Lord", "see to it that no one comes short of the grace of God", "who sold his own birthright for a single meal", "he found no place for repentance, though he sought for it with tears", "no root of bitterness springing up causes trouble, and by it many are defiled"],
+            "confidence": "high"
+        },
+        {
+            "reference": "12:18-24",
+            "section_title": "Two Mountains -- The Contrast Between the Covenants",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author draws the definitive contrast between the Sinai covenant experience (terror, darkness, fire, unbearable divine speech) and the Zion covenant reality the audience has already approached (the heavenly Jerusalem, myriads of angels in festive assembly, the church of the firstborn enrolled in heaven, God the Judge of all, the spirits of the righteous made perfect, Jesus the mediator, and sprinkled blood that speaks mercy rather than vengeance)."
+        },
+        {
+            "reference": "12:25-29",
+            "section_title": "The Final Warning -- Do Not Refuse the One Who Speaks",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author delivers the letter's climactic lesser-to-greater warning: if those who refused God's voice at Sinai did not escape, much less will those escape who turn away from the one who speaks from heaven; God will shake heaven and earth so that only the unshakable remains; the audience is receiving an unshakable kingdom and must serve with reverence and awe, for their God is a consuming fire.",
+            "relevance": "The author directly addresses human choice as determining salvation outcomes, and this constitutes the central argument of the passage rather than an aside or illustration. The imperative 'do not refuse Him who is speaking' assumes the audience has the genuine capacity to refuse and treats their refusal or acceptance as the factor that determines whether they escape judgment. The verb 'turn away from' (apostrephomenoi) describes a deliberate human reorientation. The lesser-to-greater logic depends entirely on human response: those who refused the earthly voice perished; those who refuse the heavenly voice will face proportionally greater consequences. The neutral reading notes the letter's consistent position that 'the kingdom is unshakable; but the person can be shaken out of it' and 'the blood speaks mercy; but the person can trample it.' The consuming fire of 12:29 is directed at those who refuse -- and the refusal is presented as a genuine human act, not a predetermined outcome.",
+            "key_phrases": ["see to it that you do not refuse Him who is speaking", "much less will we escape who turn away from Him who warns from heaven", "since we receive a kingdom which cannot be shaken, let us show gratitude", "our God is a consuming fire"],
+            "confidence": "high"
+        }
+    ]
+}

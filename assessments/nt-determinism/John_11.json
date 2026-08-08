@@ -1,0 +1,94 @@
+{
+    "book": "John",
+    "chapter": 11,
+    "sections": [
+        {
+            "reference": "11:1-4",
+            "section_title": "The Setting and the Purpose Statement",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage introduces Lazarus's illness and Jesus's declaration that the sickness exists not for death but for the glory of God, interpreting human suffering as occasion for divine self-revelation rather than as punishment."
+        },
+        {
+            "reference": "11:5-6",
+            "section_title": "The Deliberate Delay",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that Jesus's two-day delay is presented as flowing from love and sovereign timing rather than contradicting it, ensuring the sign will be unambiguous by allowing four days of death before the raising."
+        },
+        {
+            "reference": "11:7-10",
+            "section_title": "The Decision to Return to Judea",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that Jesus uses the metaphor of walking in daylight versus darkness to address the disciples' fear of returning to Judea, asserting that his appointed ministry cannot be cut short and that walking with him is walking in the light."
+        },
+        {
+            "reference": "11:11-16",
+            "section_title": "Lazarus Has Fallen Asleep",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that Jesus reveals Lazarus's death to the disciples, states his gladness that the occasion will deepen their belief, and Thomas expresses resigned courage to accompany Jesus into danger."
+        },
+        {
+            "reference": "11:17-20",
+            "section_title": "Arrival at Bethany",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage establishes the four-day burial, the proximity to Jerusalem, the presence of Jewish mourners who will serve as witnesses, and the contrasting responses of Martha (going out) and Mary (staying in the house)."
+        },
+        {
+            "reference": "11:21-27",
+            "section_title": "Martha's Confession",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading finds that Jesus redefines resurrection from a future event to a present person and conditions the promise of life on ongoing believing, while Martha responds to the direct question 'Do you believe this?' with a full christological confession.",
+            "relevance": "Jesus's declaration 'he who believes in me will live even if he dies, and everyone who lives and believes in me will never die' directly conditions salvation outcomes on human believing. The neutral reading emphasizes that the present participles (ho pisteuon, ho zon kai pisteuon) describe ongoing states, not a one-time past act, and that 'the promise is for the one who is presently believing and living, not for one who believed once in the past.' Jesus's direct question 'Do you believe this?' treats belief as a genuine human decision Martha must make, and Martha's response in the perfect tense ('I have believed and continue to believe') presents her faith as her own settled conviction. This is the author's core argument through an 'I am' declaration, directly presenting human believing as what determines whether one receives resurrection-life.",
+            "key_phrases": ["he who believes in me will live even if he dies", "everyone who lives and believes in me will never die", "Do you believe this?", "I have believed that you are the Christ, the Son of God"],
+            "confidence": "high"
+        },
+        {
+            "reference": "11:28-32",
+            "section_title": "Mary Comes to Jesus",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that Martha summons Mary using shepherd-calling language ('The Teacher is here and is calling for you'), Mary responds immediately, and the mourners follow, repeating the same reproach Martha made about Jesus's absence."
+        },
+        {
+            "reference": "11:33-37",
+            "section_title": "Jesus's Response to Grief",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that Jesus is deeply moved with agitation and sheds tears at the tomb, demonstrating that the one with sovereign authority over death enters fully into the grief of those who do not yet see what he sees."
+        },
+        {
+            "reference": "11:38-44",
+            "section_title": "The Raising of Lazarus",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that Jesus raises Lazarus after publicly praying to the Father, commanding the dead man by name to come forth, with the stated purpose that the witnesses may believe that the Father sent him.",
+            "relevance": "Two elements bear on the question. First, Jesus tells Martha 'if you believe, you will see the glory of God,' directly conditioning the perception of God's salvific action on human belief. Second, the public prayer states the sign's purpose as 'so that they may believe that you sent me,' presenting belief as the human response God seeks to facilitate through the sign rather than as something God unilaterally produces. The neutral reading also notes the pattern of human participation in divine acts: servants fill water jars, the blind man washes, bystanders remove the stone and unbind Lazarus. The miracle incorporates human cooperation, suggesting a model of divine-human interaction rather than unilateral divine action.",
+            "key_phrases": ["if you believe, you will see the glory of God", "so that they may believe that you sent me", "Lazarus, come forth", "Unbind him, and let him go"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "11:45-46",
+            "section_title": "The Division Among Witnesses",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that the same sign produces belief in many witnesses but causes others to report Jesus to the Pharisees, and interprets this division as the sign revealing the existing orientation of the heart rather than compelling universal belief.",
+            "relevance": "The neutral reading states that 'the sign does not compel universal belief; it reveals the existing orientation of the heart' and that 'those who are disposed toward the light come to it; those who are not carry the report to those who oppose the light.' The language of 'existing orientation' suggests something prior to the sign determines the response. The neutral reading connects this pattern to 10:26-27 ('you do not believe because you are not among my sheep') and 9:39 ('the light illuminates some and blinds others'), both of which suggest a pre-existing condition that shapes whether one responds with faith or hostility. However, the text does not specify whether this orientation was divinely determined or formed through prior human choices, leaving genuine ambiguity.",
+            "key_phrases": ["many of the Jews who came to Mary, and saw what he had done, believed in him", "some of them went to the Pharisees"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "11:47-53",
+            "section_title": "The Council's Decision and Caiaphas's Prophecy",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that Caiaphas's cynical political calculation is reinterpreted by the author as unwitting prophecy: Jesus would die not only for the nation but to gather into one the children of God who are scattered abroad.",
+            "relevance": "Two elements lean deterministic. First, Caiaphas prophesies without his own knowledge or intent, demonstrating God's sovereignty in directing even hostile human actions toward his purposes. The neutral reading states he 'did not say this on his own initiative' and emphasizes that the high priest's cynical words became genuine prophecy. Second, the phrase 'the children of God who are scattered abroad' applies the term 'children of God' to people who have not yet been gathered or believed, suggesting they are already identified as God's children before their response. However, the neutral reading connects this phrase to 1:12, where becoming children of God is conditioned on receiving and believing, and identifies the scattered children as 'those who will come to belief but are currently dispersed,' which reintroduces human response. The tension between the pre-identification and the belief-conditioned status is not resolved by the text.",
+            "key_phrases": ["he did not say this on his own initiative, but being high priest that year, he prophesied", "the children of God who are scattered abroad", "gather together into one"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "11:54-57",
+            "section_title": "Withdrawal and the Approaching Passover",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that Jesus withdraws from public activity to Ephraim near the wilderness as the third Passover approaches, while the authorities issue orders for information on his whereabouts, setting the stage for the passion narrative."
+        }
+    ]
+}

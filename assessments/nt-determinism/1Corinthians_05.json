@@ -1,0 +1,42 @@
+{
+    "book": "1Corinthians",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-2",
+            "section_title": "The Report and the Community's Failure",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul rebukes the Corinthian community for arrogantly tolerating a man's ongoing sexual relationship with his father's wife, a violation condemned by Levitical law and even pagan standards, and commands the offender's removal.",
+            "relevance": "The passage presupposes genuine human agency at every level: the man is held responsible for choosing and maintaining this sinful arrangement, and the community is held culpable for choosing arrogant inaction when they ought to have mourned and acted. Paul's rhetorical question 'Ought you not rather to mourn?' implies the community had a genuine choice and failed to exercise it, with real consequences for their communal standing before God.",
+            "key_phrases": ["And you are arrogant!", "Ought you not rather to mourn?", "Let him who has done this be removed from among you"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:3-5",
+            "section_title": "Paul's Judgment and the Assembly's Action",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul declares he has already judged the offender and instructs the assembled community to deliver the man to Satan for the destruction of the flesh, with the explicit purpose that his spirit may be saved in the day of the Lord.",
+            "relevance": "The restorative purpose of the discipline directly implies that salvation outcomes are not predetermined. The man's current trajectory leads toward non-salvation, but the disciplinary intervention is designed to alter that trajectory. The neutral reading emphasizes that 'the community expels the man precisely because he is worth saving' and parallels Israel's exile as a severe measure designed to produce repentance and return. If the man's salvation were unilaterally determined by God, the elaborate procedure aimed at breaking his sinful pattern to redirect him toward salvation would be incoherent. The passage assumes human response to discipline matters for the final outcome.",
+            "key_phrases": ["deliver this man to Satan for the destruction of the flesh", "so that his spirit may be saved in the day of the Lord", "The logic is restorative, not eliminative"],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:6-8",
+            "section_title": "The Leaven and the Passover",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul uses the Passover leaven metaphor to argue that tolerated sin pervades the whole community, and since Christ the Passover lamb has been sacrificed, the community must cleanse out the old leaven and celebrate with the unleavened bread of sincerity and truth.",
+            "relevance": "The 'become what you are' structure — 'cleanse out the old leaven, as you really are unleavened' — demonstrates that the community's identity as sanctified does not automatically produce corresponding behavior. The imperative to cleanse presupposes genuine agency: the community can choose to act or fail to act, and this choice has real consequences for their communal holiness. If sanctification deterministically produced right conduct, the imperative would be unnecessary.",
+            "key_phrases": ["Cleanse out the old leaven that you may be a new lump, as you really are unleavened", "Let us therefore celebrate the festival", "a little leaven leavens the whole lump"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:9-13",
+            "section_title": "The Boundary Between Inside and Outside",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul clarifies that his earlier instruction about avoiding the immoral applied to insiders bearing the name 'brother,' not to pagans, establishes the community's jurisdiction over its own members while leaving outsiders to God's judgment, and closes with the Deuteronomic command to purge the evil person from among them."
+        }
+    ]
+}

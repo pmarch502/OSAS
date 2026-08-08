@@ -1,0 +1,48 @@
+{
+    "book": "1Corinthians",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-4",
+            "section_title": "The Devastating Application — You Are Not Spiritual",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul rebukes the Corinthians for behaving as fleshly infants despite having received the Spirit and the mind of Christ, citing their factionalism as proof of spiritual immaturity.",
+            "relevance": "The passage presupposes that believers who have received the Spirit and possess the mind of Christ can nonetheless choose to behave according to the flesh. Their spiritual endowment does not automatically determine their behavior or growth — human choices (jealousy, strife, faction-allegiance) can override what has been given. The Corinthians are genuinely 'in Christ' yet stuck in immaturity by their own conduct, implying genuine agency in one's spiritual trajectory rather than a determined outcome.",
+            "key_phrases": ["you are still of the flesh", "jealousy and strife among you", "are you not being merely human", "infants in Christ", "you were not yet ready"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:5-9",
+            "section_title": "The Agricultural Metaphor — Servants in God's Field",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul redefines teachers as mere servants performing assigned tasks, using an agricultural metaphor to show that God alone causes the community's growth while the planter and waterer are nothing."
+        },
+        {
+            "reference": "3:10-15",
+            "section_title": "The Construction Metaphor — Foundation, Builders, and Fire",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes himself as having laid the foundation (Jesus Christ) and warns that each builder's work will be tested by fire on the Day, with quality work earning reward and poor work being consumed — though the builder himself is saved even when his work burns.",
+            "relevance": "The imperative 'let each one take care how he builds' presupposes genuine human agency — builders make real choices about their construction quality, and those choices produce real, differentiated consequences (reward or loss). The passage assumes human responsibility for the quality of one's contribution to the community, with an individualized evaluation ('each one's work') based on what each person actually chose to build.",
+            "key_phrases": ["let each one take care how he builds", "the fire itself will test what sort of work each one has done", "he will suffer loss, though he himself will be saved, but only as through fire"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:16-17",
+            "section_title": "The Temple Warning — Destruction Brings Destruction",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul identifies the community as God's holy temple where the Spirit dwells and warns that anyone who destroys this temple will be destroyed by God.",
+            "relevance": "The warning that destroying God's temple results in God destroying that person directly connects human choices to ultimate divine judgment. The conditional structure ('if anyone destroys') presupposes genuine agency — the recipients can choose whether to engage in temple-destroying behavior, and their choice determines whether God's destructive judgment falls on them. This goes beyond loss of reward (vv. 14-15) to personal destruction, implying that human actions can forfeit one's standing before God.",
+            "key_phrases": ["if anyone destroys God's temple, God will destroy him", "God's temple is holy, and you are that temple"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:18-23",
+            "section_title": "The Final Inversion — All Things Are Yours",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul prohibits boasting in human teachers, reveals that all things already belong to the community, and establishes a chain of belonging — all things are yours, you are Christ's, Christ is God's."
+        }
+    ]
+}

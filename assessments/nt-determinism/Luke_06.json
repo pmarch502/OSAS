@@ -1,0 +1,106 @@
+{
+    "book": "Luke",
+    "chapter": 6,
+    "sections": [
+        {
+            "reference": "6:1-5",
+            "section_title": "Authority Over the Sabbath -- The Grain Incident",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus defends his disciples' grain-plucking on the Sabbath by citing David's precedent and declaring the Son of Man Lord of the Sabbath, asserting authority over Sabbath interpretation rather than addressing who determines salvation outcomes."
+        },
+        {
+            "reference": "6:6-11",
+            "section_title": "Authority Over the Sabbath -- The Withered Hand",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus heals a man's withered hand on the Sabbath, reframing the Sabbath question as a choice between doing good and doing harm, which provokes the Pharisees to rage and plotting against him."
+        },
+        {
+            "reference": "6:12-16",
+            "section_title": "The Selection of the Twelve",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "After all-night prayer, Jesus selects twelve from among his larger body of disciples and names them apostles, forming the nucleus of a renewed Israel, with the author noting proleptically that Judas Iscariot 'became' a traitor.",
+            "relevance": "The selection of the twelve is vocational -- choosing for a role (apostleship and community leadership), not choosing individuals for eternal salvation. The Judas detail bears directly on the determinism question: the author uses egeneto ('became'), indicating that betrayal was not Judas's identity from the start but something he became -- a transformation away from the community he was chosen to be part of. This implies that divine selection for a role does not override human agency or guarantee the outcome, since one of the chosen twelve could and did defect.",
+            "key_phrases": ["chose twelve of them", "whom He also named as apostles", "Judas Iscariot, who became a traitor"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:17-19",
+            "section_title": "Descent and Healing",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus descends from the mountain, and crowds from Judea, Jerusalem, and the Gentile coastal region of Tyre and Sidon come to hear him and be healed, with power coming from him and healing them all."
+        },
+        {
+            "reference": "6:20-23",
+            "section_title": "The Blessings",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus pronounces the poor, hungry, weeping, and persecuted-for-the-Son-of-Man as blessed, declaring the kingdom belongs to them now and placing persecuted disciples in the lineage of the true prophets.",
+            "relevance": "The blessings are addressed to those who have chosen to follow Jesus ('turning His gaze toward His disciples'), and the fourth blessing specifies persecution 'on account of the Son of Man' -- implying that the hearers' identification with Jesus is a chosen commitment that produces consequences. The present-tense declaration 'yours is the kingdom of God' frames kingdom membership as the current reality of those who have responded to Jesus by following him, rather than as the result of prior divine selection. The framework assumes that the disciples' standing before God is connected to their responsive following.",
+            "key_phrases": ["turning His gaze toward His disciples", "yours is the kingdom of God", "on account of the Son of Man", "their fathers used to treat the prophets the same way"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:24-26",
+            "section_title": "The Corresponding Warnings",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Four woes corresponding to the four blessings warn the rich, well-fed, laughing, and universally praised that their present comfort is all they will receive, placing them in the lineage of the false prophets.",
+            "relevance": "The woe 'you are receiving your comfort in full' uses the commercial term apecho (paid in full, receipt issued), implying that the rich have chosen a consolation that is already exhausted -- a different consolation from the messianic paraklesin Simeon awaited. The parallel structure of blessings and woes creates a framework the neutral reading describes as presenting every hearer with a choice: 'every hearer must determine which category describes them.' This implies that one's standing (blessed or under woe) is a matter of which path one has pursued, not of prior divine allocation.",
+            "key_phrases": ["you are receiving your comfort in full", "their fathers used to treat the false prophets the same way", "every hearer must determine which category describes them"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:27-31",
+            "section_title": "The Command to Love Enemies",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus commands those who hear to love enemies, do good to those who hate them, bless those who curse them, pray for those who mistreat them, and practice radical non-retaliation and generosity -- ethical imperatives addressed to the community of responsive hearers."
+        },
+        {
+            "reference": "6:32-36",
+            "section_title": "The Logic of Gratuitous Generosity",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus argues that reciprocal love, goodness, and lending are not distinctive because even sinners practice them, and calls disciples to love enemies and give without expecting return, promising they will be 'sons of the Most High' because God himself is kind to the ungrateful and evil.",
+            "relevance": "The declaration 'you will be sons of the Most High' (huioi hypsistou esesthe) presents filial relationship with God as connected to the disciple's chosen behavior -- acting in ways that reflect God's character of gratuitous kindness. The neutral reading identifies this as character resemblance: 'To be sons of the Most High is to act in a way that reflects the character of the Most High.' The framework presents standing before God as something shaped by the disciple's response to Jesus's teaching, not as a status unilaterally assigned. The theological grounding in God's character (kind to ungrateful and evil) establishes God as initiator of grace, but the command to mirror that character presupposes that the disciple genuinely can and must choose to do so.",
+            "key_phrases": ["you will be sons of the Most High", "He Himself is kind to ungrateful and evil people", "Be merciful, just as your Father is merciful"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:37-38",
+            "section_title": "On Judging and Giving",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus instructs not to judge or condemn but to pardon and give, declaring that God's response to each person will correspond to the measure that person uses toward others.",
+            "relevance": "The measure-for-measure principle ('by your standard of measure it will be measured to you in return') directly ties divine response to human action using salvation-adjacent language: 'you will not be judged,' 'you will not be condemned,' 'you will be pardoned.' The framework presents God's judgment, condemnation, or pardon of a person as responsive to that person's own chosen behavior -- not as unilaterally predetermined. The neutral reading identifies this not as mechanical karma but as 'the coherence between human action and divine response,' which nevertheless places meaningful weight on human agency in determining one's standing before God.",
+            "key_phrases": ["do not judge, and you will not be judged", "do not condemn, and you will not be condemned", "pardon, and you will be pardoned", "by your standard of measure it will be measured to you in return"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "6:39-42",
+            "section_title": "The Blind Guide, the Student, and the Plank",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus uses three illustrations -- the blind guide, the student who becomes like the teacher, and the speck versus the log -- to teach that self-examination must precede any attempt to correct others, and that disciples are formed by the character of the one they follow."
+        },
+        {
+            "reference": "6:43-45",
+            "section_title": "The Character of the Tree",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus teaches that a tree is known by its fruit and that what a person produces in speech and action flows from the 'treasure' stored in the heart, connecting this principle backward to John the Baptist's call to produce fruits consistent with repentance.",
+            "relevance": "The tree-and-fruit principle could in isolation support either reading -- a fixed nature determining output (deterministic) or a cultivated character producing its results (libertarian). However, the neutral reading explicitly connects this passage to John the Baptist's preaching (3:8-9): 'genuine repentance produces visible fruit, and the absence of fruit reveals the absence of the reality it claims to represent.' This connection frames the heart's content not as a divinely predetermined state but as something shaped by repentance -- a human response. The word thesauros ('treasure, storehouse') implies accumulation over time through one's choices, not a fixed endowment.",
+            "key_phrases": ["each tree is known by its own fruit", "the good person out of the good treasure of his heart produces what is good", "his mouth speaks from that which fills his heart"],
+            "confidence": "low"
+        },
+        {
+            "reference": "6:46-49",
+            "section_title": "The Two Builders",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus challenges those who call him 'Lord, Lord' but do not obey, then contrasts two builders: one who hears and acts (whose house on rock withstands the flood) and one who hears but does not act (whose house without foundation collapses with great ruin).",
+            "relevance": "This passage directly addresses human choice as the determining factor in one's outcome before God. The opening question ('Why do you call Me Lord, Lord, and do not do what I say?') frames the decisive issue as obedience -- a human act. The parable then presents two responses to the same teaching: hearing-and-doing versus hearing-without-doing. Both builders hear; the difference is entirely in the human response of acting on what is heard. The outcome (stability under testing versus catastrophic collapse) depends wholly on this chosen response, with no suggestion that God predetermined which builder would act and which would not. The passage is the climax of the chapter's argument, functioning as the author's direct point through Jesus's teaching, not an aside or illustration.",
+            "key_phrases": ["Why do you call Me, 'Lord, Lord,' and do not do what I say?", "everyone who comes to Me and hears My words and acts on them", "the one who has heard and has not acted accordingly", "immediately it collapsed, and the ruin of that house was great"],
+            "confidence": "high"
+        }
+    ]
+}

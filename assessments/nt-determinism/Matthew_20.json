@@ -1,0 +1,44 @@
+{
+    "book": "Matthew",
+    "chapter": 20,
+    "sections": [
+        {
+            "reference": "20:1-16",
+            "section_title": "The Vineyard Laborers and the Landowner's Generosity",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The parable illustrates the first-last reversal of 19:30 by depicting a landowner who hires vineyard workers at every hour of the day and pays all of them the same denarius, rebuking the first-hired for their 'evil eye' complaint that equal pay for unequal labor is unjust.",
+            "relevance": "The parable bears on the determinism/agency question through its model of divine initiative paired with genuine human response. The landowner goes out repeatedly -- at dawn, the third, sixth, ninth, and eleventh hours -- actively seeking workers, and each group freely responds to the invitation by entering the vineyard. No one who responds is excluded. The eleventh-hour workers explain their idleness as 'no one hired us,' presenting their prior exclusion as circumstantial rather than decreed. The sovereignty language ('is it not lawful for me to do what I want with what is my own?') asserts the owner's right to be generous beyond contractual obligation, not his right to exclude. The parable dismantles a merit-based framework for kingdom reward while preserving human response to invitation as integral to the process. The pattern is open invitation, free acceptance, and reward determined by the giver's goodness rather than the worker's output.",
+            "key_phrases": ["no one hired us", "I want to give to this last person the same as to you", "Is it not lawful for me to do what I want with what is my own?", "is your eye evil because I am good?", "the last shall be first, and the first, last"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "20:17-19",
+            "section_title": "The Third Passion Prediction",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus delivers the most detailed of the three passion predictions, specifying that the Son of Man will be handed over to the chief priests and scribes, condemned to death, delivered to the Gentiles for mocking, flogging, and crucifixion, and raised on the third day."
+        },
+        {
+            "reference": "20:20-23",
+            "section_title": "The Request of the Mother of Zebedee's Sons",
+            "category": "NOT_APPLICABLE",
+            "summary": "The mother of James and John requests the two highest positions of honor in Jesus's kingdom; Jesus responds that they will share his cup of suffering but that the positions have been prepared by the Father and are not his to give."
+        },
+        {
+            "reference": "20:24-28",
+            "section_title": "The Indignation of the Ten and the Teaching on Servant-Leadership",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus contrasts the Gentile model of authority-as-domination with the kingdom model of authority-as-service, defining greatness as becoming a diakonos and first place as becoming a doulos, and grounds this ethic in the Son of Man's own mission to serve and give his life as a ransom (lytron) for many."
+        },
+        {
+            "reference": "20:29-34",
+            "section_title": "Two Blind Men Receive Mercy Outside Jericho",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Two blind men sitting by the road cry out to Jesus as the Son of David for mercy, persist despite the crowd's attempt to silence them, receive healing through Jesus's compassion, and immediately follow him toward Jerusalem.",
+            "relevance": "The passage presents human agency as integral to the encounter with Jesus. The blind men exercise genuine initiative: they cry out, they persist against social pressure ('they cried out all the more'), they articulate their specific need ('we want our eyes to be opened'), and after healing they choose to follow Jesus. Jesus responds to their persistent faith with compassion (splagchnizomai) and healing. The neutral reading draws an explicit contrast with the rich young man of 19:16-22 who received the same call to follow and refused: the blind men 'received what the rich young man could not bring himself to receive.' This contrast reinforces that human response -- whether acceptance or refusal -- is presented as a genuine choice that determines the outcome. The crowd's attempt to silence the blind men also implies that human barriers, not divine decrees, are what stand between the marginalized and Jesus, and those barriers can be overcome by persistent faith.",
+            "key_phrases": ["Lord, have mercy on us, Son of David", "they cried out all the more", "What do you want Me to do for you?", "Lord, we want our eyes to be opened", "moved with compassion", "and followed Him"],
+            "confidence": "medium"
+        }
+    ]
+}

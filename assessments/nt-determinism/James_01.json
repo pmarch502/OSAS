@@ -1,0 +1,94 @@
+{
+    "book": "James",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1",
+            "section_title": "The Greeting",
+            "category": "NOT_APPLICABLE",
+            "summary": "James identifies himself as a servant of God and the Lord Jesus Christ and addresses the twelve tribes in the Dispersion, framing the audience as the reconstituted covenant people of Israel scattered among the nations."
+        },
+        {
+            "reference": "1:2-4",
+            "section_title": "Trials and the Work of Endurance",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James instructs the community to consider trials as occasions for joy because the testing of faith produces endurance, which when brought to completion produces wholeness and maturity.",
+            "relevance": "The sequence trials-testing-endurance-completeness is presented as a process that requires active human participation. The imperative 'let endurance have its perfect work' implies the audience must allow the process to run its course rather than cutting it short by giving up or compromising. The neutral reading states 'the temptation when facing trials is to cut the process short -- to give up, compromise, or find an escape,' treating perseverance as a genuine human choice, not a predetermined outcome.",
+            "key_phrases": ["let endurance have its perfect work", "so that you may be perfect and complete, lacking in nothing"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:5-8",
+            "section_title": "Wisdom, Asking, and the Double-Minded Person",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James promises that God gives wisdom generously and without reproach to all who ask, but warns that the double-minded person who asks while doubting should not expect to receive anything from the Lord.",
+            "relevance": "God's giving is described as universal in scope ('to all generously') and conditional only on the asking. The failure to receive is located not in God's unwillingness or selective withholding but in the divided condition of the asker. The double-minded person's instability 'prevents the reception of what God freely offers.' This framework presents God as universally generous and the human condition as the variable that determines reception -- the opposite of a scheme where God selectively determines who receives.",
+            "key_phrases": ["who gives to all generously and without reproach", "the one who doubts is like the surf of the sea", "a double-minded man, unstable in all his ways"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:9-11",
+            "section_title": "The Reversal of Low and High",
+            "category": "NOT_APPLICABLE",
+            "summary": "James presents the eschatological reversal of the lowly brother who is exalted and the rich person who will wither like grass, drawing on Isaiah 40 to contrast the permanence of God's valuation with the transience of wealth-based identity."
+        },
+        {
+            "reference": "1:12",
+            "section_title": "Endurance, Testing, and the Crown of Life",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James declares blessed the person who perseveres under trial, stating that once approved through testing they will receive the crown of life promised to those who love God.",
+            "relevance": "This verse directly ties a salvation outcome (the crown of life) to human perseverance and love for God. The neutral reading is explicit: 'The crown is the reward for completion, not for enrollment' and 'the prize goes to those who finish, not to those who merely enter.' The sequence -- trial endured, character proven, crown received -- presents the crown as conditioned on the human person's active perseverance, not on a prior divine decree. The allusion to Deuteronomy 30:15-20 ('choose life... by loving the LORD your God') reinforces the framework of genuine human choice determining the outcome.",
+            "key_phrases": ["blessed is a man who perseveres under trial", "once he has been approved, he will receive the crown of life", "promised to those who love Him"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:13-15",
+            "section_title": "The Origin of Temptation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James insists that God cannot be tempted by evil and does not tempt anyone; rather, each person is tempted by their own desire, which conceives sin, which when completed brings forth death.",
+            "relevance": "By locating the origin of temptation and sin entirely within the individual ('his own desire'), James explicitly rejects any framework in which God is the source of the moral pull toward sin. The neutral reading emphasizes the personal attribution: 'each person's temptation comes from their own desire, not from God, not from fate, not from external compulsion.' While not directly about election or predestination, this undermines strong deterministic models in which God ordains both salvation and reprobation, since it categorically denies God's role in the trajectory toward sin and death.",
+            "key_phrases": ["God cannot be tempted by evil, and He Himself does not tempt anyone", "each one is tempted when he is carried away and enticed by his own desire", "when desire has conceived, it gives birth to sin; and when sin is accomplished, it brings forth death"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:16-18",
+            "section_title": "The Father of Lights and the Word of Truth",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James identifies God as the unchanging Father of lights from whom every good and perfect gift comes, and states that God, by his own will, brought forth the community through the word of truth to be firstfruits among his creatures.",
+            "relevance": "Verse 18's 'in the exercise of His will He brought us forth' (bouletheis apekuesen) emphasizes divine initiative in creating the messianic community. However, the neutral reading characterizes this as 'a community-creating event: the word of truth, proclaimed and received, generates a people' -- not an act of individual selection that excludes human response. The emphasis on God's universal generosity ('every good thing given and every perfect gift') and the 'firstfruits' metaphor (which defines the community's purpose, not its predetermined membership) align more with a framework of divine initiative that invites response than one of unilateral determination.",
+            "key_phrases": ["every good thing given and every perfect gift is from above", "with whom there is no variation or shifting shadow", "in the exercise of His will He brought us forth by the word of truth", "a kind of first fruits among His creatures"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:19-21",
+            "section_title": "Receiving the Word with the Right Posture",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James instructs the community to be quick to hear, slow to speak, and slow to anger, to put aside moral filth, and to receive in humility the implanted word which is able to save their souls.",
+            "relevance": "The passage directly addresses salvation ('able to save your souls') and explicitly conditions the word's saving power on human reception and action. The neutral reading states: 'The statement that the implanted word is able to save does not mean it automatically saves regardless of human response. The entire passage is built on the conditional logic of reception: the word must be received (dexasthe, imperative) in humility, after the stripping away of filthiness and wickedness. The word has the power to save, but the saving power is activated through reception and, as the next verses will show, through doing.' This is the author's direct argument, not an aside: the word can save, but humans must receive it.",
+            "key_phrases": ["in humility receive the word implanted", "which is able to save your souls", "putting aside all filthiness and all that remains of wickedness"],
+            "confidence": "high"
+        },
+        {
+            "reference": "1:22-25",
+            "section_title": "Hearers and Doers",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James commands the audience to be doers of the word and not merely hearers who delude themselves, using the metaphor of a mirror to illustrate the futility of hearing without acting, and contrasting it with the person who looks intently at the perfect law of liberty and acts on it.",
+            "relevance": "The passage presents human action as the decisive variable in whether the word's revelation produces transformation or is functionally wasted. The hearer-only is 'self-deceived' -- the problem is not God's withholding but the person's failure to act. The doer 'will be blessed in what he does,' locating the blessing in the human's doing. While the passage addresses obedience more than salvation per se, the use of makarios ('blessed,' the same word used in v. 12 for the one who receives the crown of life) and the connection to the 'perfect law of liberty' by which they will be judged (2:12) ties this directly to standing before God.",
+            "key_phrases": ["prove yourselves doers of the word, and not merely hearers who delude themselves", "this man will be blessed in what he does", "one who looks intently at the perfect law, the law of liberty, and abides by it"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:26-27",
+            "section_title": "The Definition of Religion",
+            "category": "NOT_APPLICABLE",
+            "summary": "James defines pure religion as caring for orphans and widows in their distress and keeping oneself unstained by the world, locating authentic devotion in ethical practice rather than ritual performance."
+        }
+    ]
+}

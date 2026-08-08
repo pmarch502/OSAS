@@ -1,0 +1,54 @@
+{
+    "book": "Romans",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-4",
+            "section_title": "The Advantage of the Jew and the Faithfulness of God",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul affirms that the Jews' real advantage is custodianship of God's oracles, and that God's covenant faithfulness persists despite the unfaithfulness of some within Israel."
+        },
+        {
+            "reference": "3:5-8",
+            "section_title": "The Objection from God's Use of Human Unrighteousness",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul addresses and rejects the antinomian objection that human sin is beneficial because it displays God's righteousness, affirming that God remains both faithful and just."
+        },
+        {
+            "reference": "3:9-18",
+            "section_title": "The Universal Indictment from Israel's Own Scriptures",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul assembles a catena of Old Testament quotations to establish that all humanity -- both Jews and Greeks -- is universally under sin, with no one righteous, no one who understands, and no one who seeks God.",
+            "relevance": "The passage describes a universal human condition of corruption so thoroughgoing that 'no one seeks for God' and 'no one understands.' If all humanity universally fails to seek God, this implies that coming to God requires divine initiative rather than human self-correction. However, the neutral reading notes that Paul universalizes what was originally a description of a subset (the wicked in Psalm 14) to serve his argument about the universal need for grace. The passage describes the depth of the problem but does not directly address the mechanism by which God's solution is applied -- whether divine initiative is irresistible or freely received.",
+            "key_phrases": ["no one seeks for God", "none is righteous, no, not one", "no one understands", "all have turned aside", "together they have become worthless", "no one does good, not even one", "all, both Jews and Greeks, are under sin"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:19-20",
+            "section_title": "The Function of the Law and the Closure of Every Mouth",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul concludes that the law speaks to those under it so that every mouth is stopped, the whole world is accountable to God, and no human being will be justified by works of the law, since the law's function is diagnostic -- revealing sin rather than curing it."
+        },
+        {
+            "reference": "3:21-26",
+            "section_title": "The Righteousness of God Manifested Apart from the Law",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Paul reveals that God's righteousness has been manifested apart from the law through the faithfulness of Jesus Christ, available to all who believe, enacted through Christ's death as the hilasterion, demonstrating God as simultaneously just and the justifier of the one who has faith.",
+            "relevance": "The passage presents a two-agent structure that bears directly on the determinism question. God initiates: God 'put forward' Christ as hilasterion, God manifests his righteousness, God justifies. But the passage consistently characterizes the recipients by their faith response: the righteousness is 'for all who believe,' the hilasterion is 'to be received by faith,' and God is 'the justifier of the one who has faith in Jesus.' The neutral reading explicitly identifies 'two different agents -- Christ's faithfulness as the means, human believing as the condition of reception.' The 'for all who believe' language (eis pantas tous pisteuontas) presents faith as a genuine human condition that determines who receives justification, rather than presenting God as unilaterally selecting recipients. However, the passage does not address whether faith itself is a divinely determined response, leaving some ambiguity.",
+            "key_phrases": ["for all who believe", "to be received by faith", "the justifier of the one who has faith in Jesus", "for there is no distinction", "all have sinned and fall short of the glory of God", "justified by his grace as a gift"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:27-31",
+            "section_title": "Boasting Excluded, One God for All",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul argues that boasting is excluded by the principle of faith, that one is justified by faith apart from works of the law, and that the one God justifies both circumcised and uncircumcised through faith.",
+            "relevance": "The passage bears on the question through its emphasis on faith as a universally available mechanism. Paul's monotheistic argument is significant: if God is God of both Jews and Gentiles, and justifies both through faith, then faith is presented as genuinely accessible to all rather than restricted to a predetermined group. The exclusion of boasting 'by the law of faith' frames faith as reception of what God has done rather than human achievement -- yet it remains a genuine human act (trust, reliance), not something imposed. The neutral reading notes that 'if justification comes through trust in what God has done rather than through one's own accomplishments, there are no grounds for boasting in oneself.' This distinguishes human response (faith) from human merit (works), implying that genuine human agency in responding to God is compatible with God receiving all the credit.",
+            "key_phrases": ["one is justified by faith apart from works of the law", "Is God the God of Jews only? Is he not the God of Gentiles also?", "God is one -- who will justify the circumcised by faith and the uncircumcised through faith", "by the law of faith"],
+            "confidence": "medium"
+        }
+    ]
+}

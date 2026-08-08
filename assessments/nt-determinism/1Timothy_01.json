@@ -1,0 +1,44 @@
+{
+    "book": "1Timothy",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-2",
+            "section_title": "The Greeting -- Apostolic Authority and Spiritual Kinship",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul establishes his apostolic credentials as commissioned by divine command, addresses Timothy as his genuine child in faith, and invokes grace, mercy, and peace from God the Father and Christ Jesus."
+        },
+        {
+            "reference": "1:3-7",
+            "section_title": "The Problem -- False Teaching in Ephesus",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies the crisis in Ephesus where certain persons are teaching different doctrine, promoting myths and endless genealogies that generate speculation rather than God's plan which operates through faith, and have swerved from the goal of love issuing from a pure heart, good conscience, and sincere faith."
+        },
+        {
+            "reference": "1:8-11",
+            "section_title": "The Proper Function of the Law",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul clarifies that the law is good when used lawfully, demonstrating through a Decalogue-structured vice list that the law's proper function is identifying and restraining transgression in accordance with the gospel of God's glory entrusted to him."
+        },
+        {
+            "reference": "1:12-17",
+            "section_title": "Paul's Own Story -- The Paradigm of Mercy",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul presents his own transformation from blasphemer, persecutor, and violent aggressor to apostle as the paradigmatic demonstration of Christ's saving purpose, grounding the trustworthy saying that Christ Jesus came into the world to save sinners.",
+            "relevance": "The passage bears on the determinism/agency question in three ways. First, the universal and unqualified scope of the trustworthy saying -- Christ came to save 'sinners,' not 'the elect' or 'the chosen' or any restricted group -- presupposes that salvation is available without precondition of prior divine selection. Second, Paul explains his receipt of mercy as grounded in his state of ignorance rather than in unconditional election, connecting mercy to the character of his sin rather than to a prior decree. Third, Paul's role as a 'prototype' (hypotyposis) for future believers implies that their belief will be a genuine response to the demonstrated evidence of Christ's patience -- the pedagogical logic of an example presupposes that observers retain the capacity to respond or not respond to what they see.",
+            "key_phrases": ["Christ Jesus came into the world to save sinners", "I received mercy because I had acted ignorantly in unbelief", "as an example to those who were to believe in him for eternal life", "the grace of our Lord overflowed for me"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:18-20",
+            "section_title": "The Charge Renewed -- Warning by Example",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul entrusts the charge to Timothy, commands him to hold faith and a good conscience, names Hymenaeus and Alexander as examples of those who rejected conscience and made shipwreck of their faith, and describes their corrective discipline of being handed over to Satan.",
+            "relevance": "The passage directly presents human agency as the mechanism by which faith is destroyed. The verb aposamenoi ('by rejecting, by pushing away') describes a deliberate, self-initiated act: these persons took their good conscience and thrust it aside, and this caused the shipwreck of their faith. The neutral reading emphasizes that this was not gradual erosion or external assault but knowing rejection. The contrast with Paul -- who sinned in ignorance and received mercy -- makes the human posture (ignorance versus deliberate repudiation) the decisive variable, not a prior divine decree. Furthermore, the corrective purpose of the discipline ('that they may learn not to blaspheme') implies that restoration remains possible but depends on their response, not on an irrevocable determination.",
+            "key_phrases": ["holding faith and a good conscience", "by rejecting this, some have made shipwreck of their faith", "handed over to Satan that they may learn not to blaspheme", "the possibility of learning remains open; whether they seize it depends on their response"],
+            "confidence": "high"
+        }
+    ]
+}

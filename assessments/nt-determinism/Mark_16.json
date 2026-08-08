@@ -1,0 +1,34 @@
+{
+    "book": "Mark",
+    "chapter": 16,
+    "sections": [
+        {
+            "reference": "16:1-4",
+            "section_title": "The Women at the Tomb",
+            "category": "NOT_APPLICABLE",
+            "summary": "Three women who witnessed the crucifixion and burial come to anoint Jesus's body after the Sabbath, concerned about who will roll away the large stone, and find it already rolled away by an unspecified agent."
+        },
+        {
+            "reference": "16:5-7",
+            "section_title": "The Young Man and the Message",
+            "category": "NOT_APPLICABLE",
+            "summary": "A young man in a white robe inside the tomb announces that Jesus the crucified Nazarene has risen, the tomb is empty, and commissions the women to tell the disciples and Peter that Jesus goes ahead of them to Galilee, fulfilling his prediction in 14:28."
+        },
+        {
+            "reference": "16:8",
+            "section_title": "The Women's Flight and Silence",
+            "category": "NOT_APPLICABLE",
+            "summary": "The women flee the tomb in trembling and astonishment, telling no one out of fear, creating a total reversal of the document's pattern where those commanded to silence spoke and those now commanded to speak are silent."
+        },
+        {
+            "reference": "16:9-20",
+            "section_title": "The Longer Ending (Later Appendix)",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "A later appendix absent from the earliest manuscripts narrates resurrection appearances to Mary Magdalene and others, Jesus's rebuke of the eleven for unbelief and hardness of heart, a universal commission to preach the gospel to all creation with salvation explicitly contingent on belief and baptism, signs accompanying believers, and Jesus's ascension to God's right hand.",
+            "relevance": "The commission in 16:15-16 directly presents salvation outcome as determined by human response: 'The one who has believed and has been baptized will be saved; but the one who has not believed will be condemned.' The formulation treats belief as a genuine human act whose presence or absence determines whether a person is saved or condemned. The universal scope of the commission ('all the world,' 'all creation') implies the gospel offer is genuinely available to everyone, not restricted to a predetermined group. Jesus's rebuke of the eleven for their unbelief and hardness of heart (16:14) treats failure to believe as culpable moral failure, which is incoherent if belief is unilaterally determined by God. However, the neutral reading identifies this entire passage as a later appendix not present in the earliest and most reliable manuscripts (Sinaiticus, Vaticanus), differing in vocabulary, style, and theological concerns from the rest of the document. It is not part of the original author's own argument, which prevents a STRONG classification despite the directness of the salvation-contingent-on-belief formulation.",
+            "key_phrases": ["Go into all the world and preach the gospel to all creation", "The one who has believed and has been baptized will be saved", "the one who has not believed will be condemned", "rebukes them for their unbelief and hardness of heart"],
+            "confidence": "medium"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "book": "Ephesians",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-2",
+            "section_title": "The Pattern of Imitation -- Walking in Love",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author commands the community to imitate God as beloved children and to walk in love modeled on Christ's self-sacrificial offering, establishing the ethical standard for the chapter."
+        },
+        {
+            "reference": "5:3-7",
+            "section_title": "The Warning -- What Has No Place in the Community",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author warns that those characterized by sexual immorality, impurity, or covetousness have no inheritance in the kingdom of Christ and God, and commands the community not to become co-sharers with the sons of disobedience upon whom God's wrath falls.",
+            "relevance": "The neutral reading identifies this as a disinheritance warning: the inheritance established in 1:11-14 can be forfeited by those whose conduct is characterized by named vices. The present tense 'does not have' (ouk echei) marks a current dispossession, not merely a future risk. The imperative 'do not become partners with them' assumes the community genuinely could return to these practices, and 'let no one deceive you with empty words' warns against anyone claiming such behavior is permissible. The author directly addresses human conduct as the factor that determines whether one retains or forfeits standing in the kingdom, and this is the author's own sustained argument, not an aside.",
+            "key_phrases": [
+                "has no inheritance in the kingdom of Christ and God",
+                "let no one deceive you with empty words",
+                "because of these things the wrath of God comes upon the sons of disobedience",
+                "do not become partners with them"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:8-14",
+            "section_title": "The Identity Argument -- Darkness, Light, and Exposure",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author declares that the community was once darkness but is now light in the Lord, commands them to walk as children of light, and calls sleepers to awake from the dead so that Christ may shine on them.",
+            "relevance": "The identity transformation from darkness to light is God's work (paralleling 2:1-5), but the imperative 'walk as children of light' assumes genuine ongoing human responsibility to live consistently with that identity. The quoted hymn 'Awake, O sleeper, and arise from the dead' addresses people who can respond to a call -- the neutral reading notes this may function as a warning to those within the community who are drifting back toward the behaviors of verses 3-5. The possibility of spiritual drowsiness within the community of the transformed implies that the transformation is not automatically maintained without human participation.",
+            "key_phrases": [
+                "you were darkness, but now you are light in the Lord",
+                "walk as children of light",
+                "awake, O sleeper, and arise from the dead, and Christ will shine on you"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:15-21",
+            "section_title": "Walking Carefully -- Wisdom, the Spirit, and Communal Life",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author instructs the community to walk wisely, redeem the time because the days are evil, be filled with the Spirit rather than drunk with wine, and express their Spirit-filled life through communal worship, thanksgiving, and mutual submission."
+        },
+        {
+            "reference": "5:22-24",
+            "section_title": "Wives and Husbands -- The First Instruction",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author instructs wives to submit to their husbands as to the Lord, grounding the instruction in the analogy of Christ's headship over the church."
+        },
+        {
+            "reference": "5:25-27",
+            "section_title": "The Husband's Love -- Christ's Self-Giving as Model",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The author instructs husbands to love their wives as Christ loved the church and gave himself up for her, specifying that Christ's purpose was to sanctify and present the church as holy and without blemish -- the exact language of the purpose of election in 1:4.",
+            "relevance": "The neutral reading identifies a direct verbal link between 5:27 ('holy and without blemish,' hagia kai amomos) and 1:4 (the purpose of election). The passage presents Christ as the sole agent who sanctifies, cleanses, and presents the church: 'The holiness comes from Christ's action, not from the community's performance -- he sanctifies, he cleanses, he presents. The church is the recipient of a work done for her and upon her.' This emphasis on Christ's unilateral work in achieving the purpose of election has implications favoring divine determination of the community's salvific status. However, the passage addresses the corporate body (the church as bride), not individual salvation determination, and it functions within an analogy about marriage rather than as a direct argument about who determines salvation outcomes.",
+            "key_phrases": [
+                "gave himself up for her",
+                "that he might sanctify her",
+                "having cleansed her by the washing of water with the word",
+                "that she might be holy and without blemish"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:28-30",
+            "section_title": "The Husband's Love as Self-Care",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author argues that husbands should love their wives as their own bodies, since Christ nourishes and cherishes the church because believers are members of his body."
+        },
+        {
+            "reference": "5:31-33",
+            "section_title": "The Mystery -- Genesis 2:24 and Christ and the Church",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author quotes Genesis 2:24 and identifies the one-flesh union of marriage as a profound mystery referring to Christ and the church, then summarizes the reciprocal obligations of husband and wife."
+        }
+    ]
+}

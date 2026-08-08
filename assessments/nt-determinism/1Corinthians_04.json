@@ -1,0 +1,40 @@
+{
+    "book": "1Corinthians",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-5",
+            "section_title": "How to Regard Apostles -- Servants, Stewards, and the Lord's Judgment",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul defines how the Corinthians should regard apostles -- as servants and stewards accountable only to the Lord, whose eschatological judgment alone is competent to assess their faithfulness -- thereby prohibiting the premature ranking of teachers that fuels factionalism."
+        },
+        {
+            "reference": "4:6-7",
+            "section_title": "The Application Revealed -- Not Beyond What Is Written",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul reveals that he has used himself and Apollos as pedagogical illustrations to teach the Corinthians not to exceed scriptural principles, and asks the devastating question 'What do you have that you did not receive?' to eliminate all grounds for competitive boasting.",
+            "relevance": "Verse 4:7 is cited in deterministic arguments (notably by Augustine against the Pelagians, and in Reformed theology) to prove that even faith is a unilateral divine gift, since 'everything is received.' However, the neutral reading shows the 'receiving' refers specifically to the Corinthians' spiritual enrichment described in 1:4-7 -- their speech, knowledge, spiritual gifts, and communal blessings -- not to the mechanism by which individuals come to saving faith. The argument is aimed at eliminating factional boasting about teacher-allegiance by establishing that all spiritual endowments are gifts rather than achievements. The passage addresses grace versus merit in the context of inter-community rivalry, not the question of whether God unilaterally determines who receives saving faith.",
+            "key_phrases": ["What do you have that you did not receive?", "why do you boast as if you had not received it?", "no one of you will become arrogant in behalf of one against the other"],
+            "confidence": "high"
+        },
+        {
+            "reference": "4:8-13",
+            "section_title": "The Ironic Contrast -- The Corinthians' Self-Satisfaction and the Apostles' Suffering",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul deploys sustained irony to expose the gap between the Corinthians' self-satisfied condition -- satiated, rich, and reigning -- and the apostles' actual condition of hunger, homelessness, and treatment as refuse, forcing the question of which group's condition reflects the pattern of the cross."
+        },
+        {
+            "reference": "4:14-17",
+            "section_title": "The Father's Appeal and the Sending of Timothy",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul shifts from irony to paternal appeal, claiming a unique relationship to the Corinthians as their father through the gospel, calling them to imitate his cruciform pattern of life, and announcing the sending of Timothy to remind them of his universal teaching."
+        },
+        {
+            "reference": "4:18-21",
+            "section_title": "Warning to the Arrogant -- Words versus Power",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul warns the arrogant that he is coming personally to test not their impressive speech but their actual power, since 'the kingdom of God is not in words but in power,' and offers the Corinthians a choice between his arrival with a rod of discipline or with love and gentleness."
+        }
+    ]
+}

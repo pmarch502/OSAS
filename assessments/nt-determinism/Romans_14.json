@@ -1,0 +1,48 @@
+{
+    "book": "Romans",
+    "chapter": 14,
+    "sections": [
+        {
+            "reference": "14:1-4",
+            "section_title": "Welcoming the Weak, Not Judging the Servant of Another",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul commands the community to welcome those with scrupulous dietary convictions without quarreling over opinions, prohibiting the strong from despising the weak and the weak from judging the strong, grounding both prohibitions in the fact that God has welcomed both parties and that each servant is accountable to their own master."
+        },
+        {
+            "reference": "14:5-9",
+            "section_title": "Days and the Lordship of Christ Over Living and Dead",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul extends the dispute to day-observance, establishes that both practices are valid when done 'to the Lord,' and grounds the entire argument in Christ's lordship over the living and the dead, purchased by his death and resurrection."
+        },
+        {
+            "reference": "14:10-12",
+            "section_title": "The Judgment Seat of God and the Isaiah Quotation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul warns both parties to cease judging and despising one another because all will stand before the judgment seat of God, where each person will give an account of themselves -- not of their brother.",
+            "relevance": "The emphasis on personal accountability before God's judgment seat presupposes that human choices are genuine and consequential. The statement that 'each of us will give an account of himself to God' treats the individual as a responsible agent whose conduct is subject to evaluation -- an evaluation that would be hollow if outcomes were unilaterally determined. The judgment seat framework assumes that what the person has done with their life matters for their standing before God.",
+            "key_phrases": ["each of us will give an account of himself to God", "we will all stand before the judgment seat of God", "every knee shall bow to me, and every tongue shall confess to God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "14:13-18",
+            "section_title": "Stumbling Blocks, the Clean and the Unclean, and the Kingdom of God",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul shifts from prohibiting judgment to the positive obligation of love, warning the strong not to exercise their legitimate freedom in ways that cause the weak to stumble, because the brother for whom Christ died can be destroyed by such behavior.",
+            "relevance": "The warning 'do not destroy the one for whom Christ died' uses apollymi ('to destroy, to ruin, to cause to perish'), which the neutral reading identifies as describing 'the ruin of the brother's faith' and 'spiritual catastrophe.' If God unilaterally determined salvation outcomes, it would be incoherent to warn that one believer's dietary choices could destroy another believer for whom Christ died. The real possibility that human behavior can undo Christ's redemptive work in a person's life implies that salvation outcomes are not fixed independently of human action. Additionally, the principle that food which is objectively clean becomes 'unclean for anyone who thinks it unclean' roots moral reality partly in the person's own reckoning and conscience, treating human subjectivity as morally consequential.",
+            "key_phrases": ["do not destroy the one for whom Christ died", "if your brother is grieved by what you eat, you are no longer walking in love", "it is unclean for anyone who thinks it unclean"],
+            "confidence": "high"
+        },
+        {
+            "reference": "14:19-23",
+            "section_title": "Pursuing Peace, Not Destroying God's Work, and the Principle of Faith",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul concludes with practical directives to pursue peace and mutual edification, warns against tearing down God's work in a person for the sake of food, and states the governing principle that whatever does not proceed from faith is sin.",
+            "relevance": "Two elements bear on the question. First, 'do not for the sake of food tear down the work of God' treats the work God is doing in a believer's life as something that human action can systematically demolish -- the verb katalyo ('to tear down, to demolish') implies that God's salvific work in a person is not invulnerable to external disruption. Second, the principle 'whatever does not proceed from faith is sin' treats the individual's faith-conviction as the operative criterion for whether an action is sinful, presupposing that the person genuinely chooses to act from faith or against it. The neutral reading connects this directly to 1:17 ('the righteous shall live by faith'), making the ongoing life of faith a matter of genuine human agency at every point.",
+            "key_phrases": ["do not for the sake of food destroy the work of God", "whatever does not proceed from faith is sin", "whoever has doubts is condemned if he eats, because the eating is not from faith"],
+            "confidence": "medium"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "book": "2Timothy",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-2",
+            "section_title": "The Chain of Transmission",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul urges Timothy to be strengthened in grace and to entrust the gospel to faithful, competent people who can teach others, establishing a four-generation chain of transmission."
+        },
+        {
+            "reference": "2:3-7",
+            "section_title": "Three Metaphors for Faithful Service",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul uses the metaphors of soldier, athlete, and farmer to describe the character required for faithful ministry: single-minded devotion, disciplined compliance with the rules, and patient labor with expectation of reward."
+        },
+        {
+            "reference": "2:8-10",
+            "section_title": "The Gospel Paul Suffers For",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul grounds his suffering in the gospel of the risen Davidic Messiah and declares that he endures everything for the sake of the elect, so that they may obtain the salvation that is in Christ Jesus with eternal glory.",
+            "relevance": "The term 'the elect' (tous eklektous) is conventionally cited as evidence that God has individually predetermined who will be saved. The neutral reading traces the LXX background of eklektos, which consistently describes a corporate people chosen for purpose (Isaiah 43:20, 45:4, 65:9; Psalm 105:6), not individuals selected for personal salvation. Further, Paul says he endures so that the elect may 'obtain' (tychosi) salvation -- a verb of attainment with a purpose clause indicating the obtaining is not yet complete. If their salvation were already individually determined, a verb of attainment would be unnecessary. The passage is about Paul's apostolic suffering benefiting God's chosen community as they move toward a salvation they must still reach.",
+            "key_phrases": ["for the sake of the elect", "that they also may obtain the salvation that is in Christ Jesus", "with eternal glory"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:11-13",
+            "section_title": "The Faithful Saying -- Four Conditions and Their Outcomes",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "A hymnic or catechetical fragment presents four conditional statements linking human responses to divine outcomes: dying with Christ leads to living with him, enduring leads to reigning with him, denying him leads to being denied by him, and human faithlessness is met by Christ's faithfulness to his own stated terms.",
+            "relevance": "The text directly presents human choices as determining salvation outcomes. Line 2 conditions reigning with Christ on ongoing endurance (present tense hypomenomen). Line 3 states that denial of Christ results in Christ's denial of the denier, echoing Jesus' own warning in Matthew 10:33. Line 4 is decisive: the exegesis demonstrates that 'he remains faithful' cannot mean Christ saves the faithless regardless, because that would contradict line 3's stated consequence. Christ's faithfulness is comprehensive -- he keeps his promises (lines 1-2) and executes his warnings (line 3), because to fail at either would be to deny himself. The saying is endorsed by the author as 'trustworthy' (pistos ho logos) and functions as part of the author's own argument, not merely an illustration. Human endurance and human denial are presented as genuine options with genuinely different outcomes.",
+            "key_phrases": ["if we endure, we will also reign with him", "if we deny him, he also will deny us", "if we are faithless, he remains faithful", "for he cannot deny himself"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:14-19",
+            "section_title": "The Threat of False Teaching -- Gangrene in the Community",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul warns against word-quarreling and irreverent babble, names Hymenaeus and Philetus as teachers who have swerved from the truth by claiming the resurrection has already happened, notes they are upsetting the faith of some, and affirms that God's firm foundation stands bearing a double seal from the Korah narrative.",
+            "relevance": "Three elements bear on the determinism question. First, the statement that false teachers are 'upsetting the faith of some' (anatrepousin ten tinon pistin) implies that believers' faith can be overturned and destroyed -- it is not invulnerably preserved by divine determination. Second, 'The Lord knows those who are his' (from Numbers 16:5) is sometimes cited as proof of God's predetermined election, but the Korah narrative context reveals it as God distinguishing rebels from the faithful before judgment falls -- not unconditional preservation but accountability. Third, the paired command 'Let everyone who names the name of the Lord depart from iniquity' places active responsibility on humans. The exegesis states: 'God's knowledge of his own does not eliminate human responsibility; it intensifies it.' The combination presents divine knowledge and human responsibility as complementary, not as divine determination overriding human agency.",
+            "key_phrases": ["they are upsetting the faith of some", "The Lord knows those who are his", "Let everyone who names the name of the Lord depart from iniquity", "God's firm foundation stands"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:20-21",
+            "section_title": "Vessels in a Great House -- The Possibility of Change",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul uses a household vessel metaphor to argue that vessels currently used for dishonorable purposes can become vessels for honorable use if they cleanse themselves from what is dishonorable.",
+            "relevance": "The text directly addresses whether a person's standing before God is fixed or changeable, and it answers unambiguously that it is changeable through human action. The conditional 'if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use' uses the reflexive pronoun (heauton), placing the responsibility for transformation squarely on the person. The exegesis explicitly contrasts this with Romans 9:21-23, where the emphasis falls on the potter's sovereignty: here 'the emphasis shifts dramatically -- it falls on the vessel's capacity to change its status.' The result of self-cleansing is being 'set apart as holy, useful to the master of the house, ready for every good work' -- language of sanctification and divine service. The exegesis concludes: 'the categories of honor and dishonor are determined not by prior assignment but by present faithfulness.' This is part of the author's own argument, not an aside or illustration.",
+            "key_phrases": ["if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use", "set apart as holy, useful to the master of the house, ready for every good work"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:22-26",
+            "section_title": "The Lord's Servant -- Flight, Pursuit, and the Hope of Repentance",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Paul instructs Timothy to flee youthful passions, pursue virtues alongside the pure-hearted community, refuse foolish controversies, and correct opponents with gentleness in the hope that God may grant them repentance so they can escape the devil's snare.",
+            "relevance": "The passage presents a complex interplay of divine and human agency. Repentance is described as God's gift (didonai, 'to give/grant'), which determinists cite as evidence that even the capacity to repent is divinely determined. However, the particle mepote ('perhaps') introduces genuine contingency -- God may or may not grant repentance, and the outcome is not predetermined. The Lord's servant creates conditions for possible repentance through gentle correction, implying human action matters. The opponents 'may come to their senses' (ananepsosi) and 'escape from the snare of the devil' -- escape language presupposes genuine possibility, not fixed destiny. Their captivity by the devil is presented as an evil condition to be overcome, not as God's sovereign assignment. The overall picture is of divine initiative (granting repentance) that does not exclude human agency (gentle correction, coming to one's senses, escaping) but rather works alongside it.",
+            "key_phrases": ["God may perhaps grant them repentance leading to a knowledge of the truth", "they may come to their senses and escape from the snare of the devil", "correcting his opponents with gentleness", "after being captured by him to do his will"],
+            "confidence": "medium"
+        }
+    ]
+}

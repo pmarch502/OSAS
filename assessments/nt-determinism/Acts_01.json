@@ -1,0 +1,58 @@
+{
+    "book": "Acts",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-2",
+            "section_title": "The Prologue and the Link to the First Volume",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author establishes literary continuity with the Gospel, identifying Acts as the account of what Jesus continued to do and teach through his apostles and the Holy Spirit after the ascension."
+        },
+        {
+            "reference": "1:3-5",
+            "section_title": "The Forty Days and the Promise of the Spirit",
+            "category": "NOT_APPLICABLE",
+            "summary": "The risen Jesus presents himself alive by many convincing proofs over forty days, teaches about the kingdom of God, and commands the apostles to wait in Jerusalem for the promised baptism with the Holy Spirit."
+        },
+        {
+            "reference": "1:6-8",
+            "section_title": "The Question About Israel's Kingdom and Jesus's Redirection",
+            "category": "NOT_APPLICABLE",
+            "summary": "The disciples ask about the timing of Israel's restoration; Jesus declares that the Father has fixed times and epochs by his own authority, and redirects them to their mission as Spirit-empowered witnesses from Jerusalem to the end of the earth."
+        },
+        {
+            "reference": "1:9-11",
+            "section_title": "The Ascension",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus is lifted up into the cloud of divine presence while the apostles watch, and two angelic figures announce that he will return in the same visible, bodily manner in which he departed."
+        },
+        {
+            "reference": "1:12-14",
+            "section_title": "The Return to Jerusalem and the Gathered Community",
+            "category": "NOT_APPLICABLE",
+            "summary": "The apostles return to Jerusalem and devote themselves to unified, continual prayer in the upper room, together with the women who followed Jesus, Mary his mother, and his brothers."
+        },
+        {
+            "reference": "1:15-20",
+            "section_title": "Peter's Speech About Judas",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter addresses the community, declaring that scripture had to be fulfilled concerning Judas, who became a guide to those who arrested Jesus, turned aside from his ministry, and went to his own place.",
+            "relevance": "The passage holds together divine foreknowledge and human agency in a way that bears on the determinism question. Scripture 'had to be fulfilled' (edei) regarding Judas, yet the language describing Judas's actions is consistently volitional: he 'became' a guide (a transition, not a predetermined state), he 'turned aside' (parabaino — active departure from the apostolic calling), and he went to 'his own place' (a destination corresponding to his choices and character). The author affirms that what happened was foretold without presenting God as the cause of Judas's betrayal. Judas is held fully responsible for his defection despite the scriptural necessity — the pattern of Luke 22:22 ('as it has been determined; but woe to that man') maintains genuine human agency within divine foreknowledge.",
+            "key_phrases": ["the Scripture had to be fulfilled", "became a guide to those who arrested Jesus", "he was counted among us and received his share in this ministry", "from which Judas turned aside", "to go to his own place"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:21-22",
+            "section_title": "The Qualifications for Replacing Judas",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter defines the qualifications for a replacement apostle: continuous presence with Jesus from John's baptism through the ascension, and the ability to serve as a personal witness to the resurrection."
+        },
+        {
+            "reference": "1:23-26",
+            "section_title": "The Selection of Matthias",
+            "category": "NOT_APPLICABLE",
+            "summary": "The community puts forward two candidates, prays to the heart-knowing Lord to reveal which one he has chosen for the apostolic office vacated by Judas, casts lots, and Matthias is added to the Twelve."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "book": "1Timothy",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1",
+            "section_title": "The Trustworthy Saying About Aspiring to Oversight",
+            "category": "NOT_APPLICABLE",
+            "summary": "The community saying endorses aspiration to the office of overseer as the desire for a noble work, using language of active human reaching (oregetai) toward a worthy task."
+        },
+        {
+            "reference": "3:2-3",
+            "section_title": "The Character of the Overseer",
+            "category": "NOT_APPLICABLE",
+            "summary": "The passage lists the moral, temperamental, and relational qualifications required of an overseer, all falling under the overarching requirement of being above reproach."
+        },
+        {
+            "reference": "3:4-5",
+            "section_title": "The Household Test",
+            "category": "NOT_APPLICABLE",
+            "summary": "The passage argues from the lesser to the greater that competent household management is a prerequisite for caring for God's church, establishing a practical and observable test for leadership fitness."
+        },
+        {
+            "reference": "3:6",
+            "section_title": "Not a Recent Convert",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The passage warns that a neophyte elevated to leadership may become puffed up with conceit and fall into the condemnation of the devil, describing a preventable sequence from premature elevation to pride to judgment.",
+            "relevance": "The text presents a mechanism by which a believer can fall into condemnation: elevation before maturity produces pride, and pride produces the same judgment as the devil's. The neutral reading emphasizes that 'the sequence is preventable' -- human decisions (appointing or not appointing a neophyte) directly affect whether condemnation occurs. This implies spiritual outcomes are contingent on human circumstances and choices, not unilaterally fixed by God.",
+            "key_phrases": ["he may become puffed up with conceit", "fall into the condemnation of the devil", "the sequence is preventable"],
+            "confidence": "low"
+        },
+        {
+            "reference": "3:7",
+            "section_title": "The Outsider Test",
+            "category": "NOT_APPLICABLE",
+            "summary": "The overseer must be well regarded by outsiders to avoid falling into disgrace and the devil's snare, framing leadership qualifications as tactical necessities in spiritual warfare."
+        },
+        {
+            "reference": "3:8-10",
+            "section_title": "Qualifications for Deacons",
+            "category": "NOT_APPLICABLE",
+            "summary": "Deacons must meet character qualifications paralleling those of overseers -- dignity, consistent speech, temperance, freedom from greed -- and must hold the mystery of the faith with a clear conscience, undergoing testing before appointment."
+        },
+        {
+            "reference": "3:11",
+            "section_title": "The Women",
+            "category": "NOT_APPLICABLE",
+            "summary": "Women who serve in the community (whether deacons' wives or women in a diaconal role) must be dignified, not slanderers, sober-minded, and faithful in all things."
+        },
+        {
+            "reference": "3:12-13",
+            "section_title": "Completing the Deacon Qualifications",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The passage states that deacons who serve well gain good standing and great confidence in the faith, while the neutral reading explicitly connects this to the letter's consistent teaching that how one lives affects one's standing before God.",
+            "relevance": "The text presents faithful human conduct (serving well as a deacon) as producing spiritual fruit -- good standing and genuine confidence in the faith. The neutral reading draws out the corollary: 'Unfaithful service, or the abandonment of conscience, produces the opposite: shipwrecked faith, the condemnation of the devil, and entrapment.' This structural connection between behavior and spiritual condition implies that human choices genuinely affect salvation-relevant outcomes, rather than those outcomes being unilaterally determined.",
+            "key_phrases": ["those who serve well as deacons gain a good standing for themselves", "great confidence in the faith that is in Christ Jesus", "how one lives affects one's standing before God", "behavior and belief are structurally connected"],
+            "confidence": "low"
+        },
+        {
+            "reference": "3:14-15",
+            "section_title": "The Purpose of the Letter -- Conduct in God's Household",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul states the letter's purpose: so Timothy may know how people ought to conduct themselves in God's household, which is the church of the living God, pillar and buttress of the truth."
+        },
+        {
+            "reference": "3:16",
+            "section_title": "The Mystery of Godliness",
+            "category": "NOT_APPLICABLE",
+            "summary": "A six-line confessional hymn describes the Christ event as the mystery of godliness: incarnation, vindication by the Spirit, angelic witness, proclamation among nations, belief in the world, and reception into glory."
+        }
+    ]
+}

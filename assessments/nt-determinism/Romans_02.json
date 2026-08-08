@@ -1,0 +1,56 @@
+{
+    "book": "Romans",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-5",
+            "section_title": "The Judge Stands Judged",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul turns on the one who judged the idolaters of chapter 1, declaring that the judge who practices the same things is equally without excuse, and that God's kindness is purposefully leading toward repentance, which the person's hard and impenitent heart resists, thereby storing up wrath.",
+            "relevance": "The text directly presents salvation outcomes as determined by human response to divine initiative. God provides kindness, forbearance, and patience with a stated purpose: to lead the person to repentance (2:4). The failure to repent is attributed entirely to the person's own 'hard and impenitent heart' (2:5), not to divine withholding or predetermination. The resulting wrath is something the person actively 'stores up for yourself' — the human agent accumulates the consequence through sustained refusal. God's posture is one of patient invitation; the human determines the outcome by responding or refusing.",
+            "key_phrases": ["God's kindness is meant to lead you to repentance", "because of your hard and impenitent heart you are storing up wrath for yourself", "you have no excuse"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:6-11",
+            "section_title": "God Renders to Each According to Works, Without Partiality",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul establishes that God renders to each person according to their works — eternal life for those who by patience in well-doing seek glory, honor, and immortality; wrath and fury for the self-seeking who disobey truth — applying this criterion impartially to Jew and Greek alike.",
+            "relevance": "This passage directly addresses how salvation outcomes (eternal life vs. wrath) are determined, and the answer is unambiguously human conduct. The criterion is 'what you do, not who you are,' as the neutral reading states. God's impartiality (2:11) explicitly excludes any scheme in which outcomes are determined by prior divine selection of persons — if God shows no partiality, he does not sort individuals into pre-assigned categories. The outcomes described (eternal life, wrath) are eschatological salvation outcomes, and they are rendered 'to each one according to his works.' This is Paul's own argument, stated as a direct claim about how God judges, not an illustration or hypothetical.",
+            "key_phrases": ["He will render to each one according to his works", "to those who by patience in well-doing seek for glory and honor and immortality, he will give eternal life", "God shows no partiality", "the Jew first and also the Greek"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:12-16",
+            "section_title": "Having the Law Does Not Determine the Outcome of Judgment",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul argues that possessing the Torah does not protect from judgment — it is the doers of the law who will be justified, not the hearers — and that even Gentiles who lack the written Torah can do what the law requires because its work is written on their hearts, with conscience bearing witness when God judges the secrets of all people.",
+            "relevance": "The text directly states the criterion for justification: 'it is not the hearers of the law who are righteous before God, but the doers of the law who will be justified' (2:13). Human action — doing — determines the verdict. The neutral reading treats this as 'a statement of God's judgment criterion,' not as a hypothetical. The passage also demonstrates that God has equipped all humans (not a pre-selected subset) with moral capacity: Gentiles have the law's work written on their hearts and possess conscience. This universal moral endowment implies that genuine agency is available to all, not restricted to those whom God has unilaterally enabled.",
+            "key_phrases": ["not the hearers of the law who are righteous before God, but the doers of the law who will be justified", "the work of the law is written on their hearts", "their conscience also bears witness", "God judges the secrets of men"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:17-24",
+            "section_title": "The One Who Relies on the Law Is Indicted by the Law",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul directly addresses the Jewish interlocutor, enumerating the genuine privileges of Jewish identity — knowledge of God's will, instruction from Torah, the vocation to guide the nations — and then exposes the devastating gap between teaching and practice, concluding that God's name is blasphemed among the Gentiles because of the very people commissioned to glorify it.",
+            "relevance": "The entire indictment presupposes that the Jewish interlocutor could have practiced what he taught. The charges ('you who preach against stealing, do you steal?') assume genuine moral agency — the person had the knowledge, the instruction, and the capacity to act rightly, and chose not to. The failure is not attributed to divine withholding of enablement but to the person's own hypocrisy. While the passage is not directly about who determines salvation, its assumption of human accountability for moral choices has clear implications for agency.",
+            "key_phrases": ["you then who teach others, do you not teach yourself?", "you who boast in the law dishonor God by breaking the law", "the name of God is blasphemed among the Gentiles because of you"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:25-29",
+            "section_title": "The Meaning of Circumcision and the Identity of the True Jew",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul argues that circumcision profits only those who obey the law, that an obedient uncircumcised person's status is reckoned as circumcision, and that the true Jew is one inwardly, with circumcision of the heart by the Spirit rather than by the letter.",
+            "relevance": "The passage redefines covenant standing by internal reality rather than external markers, which bears on the determinism question in two ways. First, the value of circumcision is conditional on obedience (2:25) — a human action determines whether the covenant marker retains its significance, implying agency. Second, the introduction of the Spirit as the agent of heart-circumcision (drawing on Ezekiel 36:26-27 and Deuteronomy 30:6) introduces divine initiative. However, the neutral reading notes that the prophetic tradition includes both God commanding humans to circumcise their own hearts (Deut 10:16, Jer 4:4) and God promising to do it himself (Deut 30:6, Ezek 36:26-27). Within the chapter's overall argument — which consistently frames outcomes as determined by human conduct — the Spirit's role appears as enablement for obedience rather than unilateral predetermination of who receives it.",
+            "key_phrases": ["circumcision indeed is of value if you obey the law", "if a man who is uncircumcised keeps the precepts of the law, will not his uncircumcision be regarded as circumcision?", "circumcision is a matter of the heart, by the Spirit, not by the letter"],
+            "confidence": "medium"
+        }
+    ]
+}

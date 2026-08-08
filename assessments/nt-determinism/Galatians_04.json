@@ -1,0 +1,80 @@
+{
+    "book": "Galatians",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-2",
+            "section_title": "The Minor Heir -- Owner of Everything, Free as a Slave",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul uses a legal metaphor of a minor heir under guardians and managers to illustrate the temporary, custodial role of the law until the date set by the father."
+        },
+        {
+            "reference": "4:3-5",
+            "section_title": "Enslaved under the Stoicheia -- Redeemed by the Son",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes God's unilateral action in sending His Son at the appointed time to redeem those under the law and grant adoption as sons.",
+            "relevance": "God is the sole actor in every redemptive event described: He determines the timing ('the fullness of time'), He sends the Son, the Son redeems those under the law, and the result is adoption. Human response is neither mentioned nor excluded, but the passage presents the entire salvation mechanism as God's initiative and execution without reference to any human role in the process.",
+            "key_phrases": ["when the fullness of time had come", "God sent forth his Son", "to redeem those who were under the law", "so that we might receive adoption as sons"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:6-7",
+            "section_title": "The Spirit of the Son -- Evidence of Sonship",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul declares that God sent the Spirit of His Son into believers' hearts as confirmation of their sonship, concluding that they are heirs 'through God.'",
+            "relevance": "The passage presents the entire sequence -- sonship, the sending of the Spirit, and the conferring of inheritance -- as God's work. Paul's causal structure places divine action as the determining factor: God sent the Spirit because believers are sons, not vice versa. The neutral reading emphasizes that the inheritance comes 'through God's action, not through human performance.' However, the broader context (3:26) shows that sonship comes 'through faith,' so divine initiative and human response are both part of the picture, though this section foregrounds God's agency.",
+            "key_phrases": ["because you are sons, God has sent the Spirit of his Son into our hearts", "no longer a slave, but a son", "an heir through God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:8-11",
+            "section_title": "The Regression into Bondage",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul warns the Galatians that their adoption of Torah observance constitutes a regression to the same structural bondage they left behind in paganism, and expresses genuine fear that his labor among them may have been in vain.",
+            "relevance": "While Paul's self-correction ('or rather to be known by God') acknowledges divine initiative in the relationship, the dominant thrust of the section presents human agency as genuine and consequential. The present-tense 'you are turning back' and the volitional 'do you wish to be enslaved' treat the Galatians as genuine agents making real choices about their standing before God. Paul's fear that his labor may have been 'in vain' implies that human choices can undo the effects of the gospel -- if salvation outcomes were unilaterally determined by God, Paul could not genuinely fear that his work would produce nothing lasting.",
+            "key_phrases": ["or rather to be known by God", "how can you turn back again to the weak and worthless elementary things", "do you wish to be enslaved by them all over again", "I am afraid I may have labored over you in vain"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:12-16",
+            "section_title": "The Personal Appeal -- Remember How You Received Me",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul shifts to a personal reminiscence, recalling the Galatians' extraordinary initial reception of him despite his bodily ailment and contrasting it with their present estrangement caused by his truth-telling."
+        },
+        {
+            "reference": "4:17-20",
+            "section_title": "The Rival Teachers' Motives and Paul's Anguish",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul exposes the rival teachers' manipulative strategy of exclusion and flattery, and expresses his anguish using the metaphor of being in labor again until Christ is formed in the Galatians."
+        },
+        {
+            "reference": "4:21-23",
+            "section_title": "The Two Sons of Abraham -- Flesh and Promise",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul introduces the contrast between Abraham's two sons -- Ishmael born 'according to the flesh' through human initiative, and Isaac born 'through promise' through divine intervention -- as a typological framework for two modes of covenant membership.",
+            "relevance": "The flesh/promise contrast identifies the true children of Abraham as those produced by God's promise and God's action (like Isaac), not by human effort and initiative (like Ishmael). The neutral reading identifies this as 'the contrast between human effort and divine gift, between self-generated results and God-given outcomes.' However, the passage opens with 'you who desire to be under the law,' treating the Galatians' choice as genuine, and the primary subject is the basis of covenant membership rather than individual predetermination of who will believe.",
+            "key_phrases": ["you who desire to be under the law", "born according to the flesh", "born through promise"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:24-27",
+            "section_title": "The Allegory of Two Covenants",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul allegorically identifies Hagar with the Sinai covenant producing children born into slavery, and Sarah with the promise producing children of freedom, aligning the present Jerusalem with Hagar and the heavenly Jerusalem with Sarah as the mother of all believers."
+        },
+        {
+            "reference": "4:28-31",
+            "section_title": "The Application -- Children of Promise, Not of Flesh",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul applies the allegory directly: the Galatians, like Isaac, are children of promise born according to the Spirit, and the scripture's own verdict commands the expulsion of the slavery-producing system.",
+            "relevance": "The identification of believers as children 'of promise' and 'according to the Spirit' emphasizes that their spiritual birth is God's work, paralleling Isaac's miraculous birth through divine intervention rather than human initiative. The community's origin in divine promise rather than human effort implies God's determining role in producing the people of faith. However, the passage functions as exhortation ('cast out the slave woman'), implying the Galatians must act on this identity, and the inheritance exclusion ('the son of the slave woman shall not inherit with the son of the free woman') turns on covenant membership rather than individual predetermination.",
+            "key_phrases": ["like Isaac, are children of promise", "born according to the Spirit", "cast out the slave woman and her son", "we are not children of the slave but of the free woman"],
+            "confidence": "medium"
+        }
+    ]
+}

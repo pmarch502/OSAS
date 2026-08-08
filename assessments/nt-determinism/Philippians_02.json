@@ -1,0 +1,42 @@
+{
+    "book": "Philippians",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-4",
+            "section_title": "The Appeal for Unified Humility",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul appeals to the community's shared experience of encouragement in Christ, comfort from love, fellowship of the Spirit, and mutual compassion as grounds for unity in mindset and love, commanding them to abandon selfish ambition and empty glory in favor of humility that considers others as more significant than oneself."
+        },
+        {
+            "reference": "2:5-11",
+            "section_title": "The Pattern of Christ -- Descent and Exaltation",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul presents Christ's voluntary descent from the form of God through self-emptying, slave-form, and obedient death on a cross, followed by God's responsive hyper-exaltation and bestowal of the divine name (Kyrios), as the paradigmatic mindset the community is to adopt in place of competitive status-seeking."
+        },
+        {
+            "reference": "2:12-18",
+            "section_title": "Working Out Salvation in the Community",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Paul commands the community to work out their salvation with fear and trembling, grounds this command in God's ongoing work within them to produce both willing and doing, warns against the wilderness-pattern of grumbling that led to Israel's exclusion, and calls them to be blameless luminaries holding fast the word of life in view of the day of Christ.",
+            "relevance": "The passage directly addresses both human and divine agency in salvation. The genuine imperative to 'work out your own salvation' presents the community as agents whose ongoing effort bears on their salvation outcome. The wilderness grumbling warning implies failure is a real possibility, since Israel was delivered from Egypt (the initial saving act) but failed to enter the land (salvation's completion). Paul's fear of laboring 'in vain' presupposes the community's trajectory is not guaranteed. The future horizon of the 'day of Christ' functions as a point at which present conduct will be evaluated. While v. 13 affirms that God works in them 'both to will and to work,' the neutral reading presents this as divine enablement of genuine human effort rather than divine replacement of it: 'the community works out what God works in,' and 'God's working does not replace the community's effort but enables it.' The ambiguity from v. 13 -- God producing even the willing -- prevents a STRONG classification, but the overall framing (genuine imperative, possibility of failure, wilderness warning, fear and trembling) weighs toward human agency as real and consequential.",
+            "key_phrases": [
+                "work out your own salvation with fear and trembling",
+                "God who works in you, both to will and to work for his good pleasure",
+                "without grumbling or disputing",
+                "in the midst of a crooked and twisted generation",
+                "I did not run in vain or labor in vain",
+                "holding fast to the word of life",
+                "in the day of Christ"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:19-30",
+            "section_title": "Living Examples of the Christ-Pattern",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul presents Timothy and Epaphroditus as concrete embodiments of the Christ-pattern of self-giving service, commending Timothy's genuine concern for others' welfare over self-interest and Epaphroditus's near-death risk in completing the community's ministry to Paul."
+        }
+    ]
+}

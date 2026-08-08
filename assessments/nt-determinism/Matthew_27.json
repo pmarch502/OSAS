@@ -1,0 +1,72 @@
+{
+    "book": "Matthew",
+    "chapter": 27,
+    "sections": [
+        {
+            "reference": "27:1-2",
+            "section_title": "The Council's Decision and the Transfer to Pilate",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Sanhedrin formally decides to put Jesus to death and delivers him bound to Pilate the governor, fulfilling Jesus's own prediction that the Son of Man would be delivered first to the chief priests and then to the Gentiles."
+        },
+        {
+            "reference": "27:3-10",
+            "section_title": "The Death of the Betrayer and the Blood Money",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Judas experiences regret (metamelomai) over his betrayal, confesses that he has sinned by betraying innocent blood, returns the thirty pieces of silver, and hangs himself, while the chief priests use the money to purchase the potter's field in fulfillment of Zechariah 11 and Jeremiah.",
+            "relevance": "The neutral reading explicitly distinguishes Judas's regret (metamelomai — to change one's mind after the fact) from genuine repentance (metanoeo — to turn around), stating that 'the distinction matters' because Judas's regret leads to self-destruction rather than restoration. The deliberate parallel with Peter — who also failed gravely (threefold denial) and also experienced anguish (wept bitterly) but whose trajectory leads to restoration — implies that the quality of human response determines one's outcome. Judas is not presented as predetermined to destruction; he is presented as a man whose response to his own failure took the form of regret and self-destruction rather than the repentance that could have led to restoration.",
+            "key_phrases": ["he changed his mind (metamelomai)", "I have sinned by betraying innocent blood", "he departed, and he went and hanged himself"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "27:11-14",
+            "section_title": "Jesus Before Pilate: The Question of Kingship",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus stands before Pilate, gives the ambiguous reply 'You have said so' to the charge of being King of the Jews, and remains entirely silent before all accusations, fulfilling the Isaianic servant pattern of Isaiah 53:7."
+        },
+        {
+            "reference": "27:15-26",
+            "section_title": "The Release of Barabbas and the Condemnation of Jesus",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Pilate offers the crowd a choice between Barabbas and Jesus; the chief priests persuade the crowd to choose Barabbas; Pilate finds no fault in Jesus yet yields to the crowd's demand for crucifixion; and the crowd voluntarily accepts blood guilt upon themselves and their children.",
+            "relevance": "The text presents the crowd as genuine agents making a real choice with real consequences. The chief priests 'persuaded' (peitho) the crowd — active effort to sway, not compulsion that overrides agency. The crowd's voluntary self-imprecation ('His blood be on us and on our children') uses the legal language of accepting responsibility for bloodshed. The author connects this to Jesus's warning that judgment for all righteous blood shed will fall upon 'this generation' (23:35-36). The consequences are presented as following from the crowd's own decision to reject the Messiah, not from a divine decree that predetermined their rejection. Multiple testimonies to Jesus's innocence from Judas, Pilate's wife, and Pilate himself establish that the rejection is not compelled by evidence of guilt but is a choice against the evidence.",
+            "key_phrases": ["the chief priests and the elders persuaded the crowd", "His blood be on us and on our children", "Which of the two do you want me to release for you?", "Let him be crucified", "What evil has he done?"],
+            "confidence": "high"
+        },
+        {
+            "reference": "27:27-31",
+            "section_title": "The Soldiers' Mockery of the King",
+            "category": "NOT_APPLICABLE",
+            "summary": "Roman soldiers conduct a parody of royal investiture with scarlet robe, crown of thorns, reed scepter, and mock homage, unwittingly enacting Jesus's true kingship while abusing him physically in fulfillment of the Isaianic servant's suffering."
+        },
+        {
+            "reference": "27:32-44",
+            "section_title": "The Crucifixion",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus is crucified at Golgotha between two robbers, with his garments divided by lot and a titulus declaring him 'King of the Jews,' while passersby, religious leaders, and the criminals mock him with taunts that unwittingly testify to his identity and salvific purpose."
+        },
+        {
+            "reference": "27:45-56",
+            "section_title": "The Death of Jesus and Its Attendant Signs",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus cries out Psalm 22:1, voluntarily yields up his spirit, and his death is attended by three hours of darkness, the tearing of the temple curtain from top to bottom, an earthquake, the raising of dead saints, the centurion's confession 'Truly this was the Son of God,' and the faithful vigil of the women disciples.",
+            "relevance": "The temple curtain torn 'from top to bottom' — indicating divine agency — removes the barrier between God's presence and the people, opening access to God through Jesus's death. The neutral reading states that what the high priest's annual entry symbolized is now 'accomplished through Jesus's death,' and the temple's mediating function is 'superseded.' The direction of tearing (from God's side) shows divine initiative, but the result is the opening of access rather than the restriction of it to a predetermined group. The centurion's confession is presented as a genuine human response to witnessing the signs — a Gentile executioner recognizes what Israel's leaders rejected. Jesus's invocation of Psalm 22, which the neutral reading notes would invoke the entire psalm for a first-century audience, concludes with 'all the ends of the earth shall remember and turn to the LORD' (22:27) — framing the outcome of Jesus's death in terms of universal human response ('turn'), not predetermined selection.",
+            "key_phrases": ["the curtain of the temple was torn in two, from top to bottom", "Truly this was the Son of God", "he yielded up his spirit", "all the ends of the earth shall remember and turn to the LORD"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "27:57-61",
+            "section_title": "The Burial",
+            "category": "NOT_APPLICABLE",
+            "summary": "Joseph of Arimathea, a wealthy disciple of Jesus, claims the body from Pilate and lays it in his own new rock-cut tomb wrapped in a clean linen shroud, fulfilling Isaiah 53:9, with Mary Magdalene and the other Mary witnessing the burial location."
+        },
+        {
+            "reference": "27:62-66",
+            "section_title": "The Guard at the Tomb",
+            "category": "NOT_APPLICABLE",
+            "summary": "The chief priests and Pharisees persuade Pilate to seal the tomb and post a Roman military guard to prevent the disciples from stealing the body, thereby establishing maximum human security against tampering that will make the empty tomb in chapter 28 inexplicable by natural means."
+        }
+    ]
+}

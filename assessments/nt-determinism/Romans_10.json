@@ -1,0 +1,56 @@
+{
+    "book": "Romans",
+    "chapter": 10,
+    "sections": [
+        {
+            "reference": "10:1-4",
+            "section_title": "Paul's Prayer and Israel's Misplaced Zeal",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul prays for Israel's salvation and diagnoses their failure as ignorance of God's righteousness, seeking to establish their own rather than submitting to what God offered through Christ, the telos of the law for righteousness to everyone who believes.",
+            "relevance": "The text locates Israel's failure in their own refusal to submit to God's righteousness, presenting it as a choice they made rather than a determination imposed on them. Paul's prayer for their salvation implies it remains genuinely possible, which would be incoherent if their exclusion were divinely predetermined. The phrase 'to everyone who believes' conditions access to righteousness on human response without ethnic restriction.",
+            "key_phrases": ["they did not submit to God's righteousness", "seeking to establish their own", "my heart's desire and prayer to God for them is that they may be saved", "to everyone who believes"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:5-8",
+            "section_title": "Two Kinds of Righteousness — Moses and the Word of Faith",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul contrasts the righteousness based on law (Leviticus 18:5, contingent on doing the commandments) with the righteousness based on faith (Deuteronomy 30:12-14), arguing that the word of faith is near and accessible because Christ has already descended and risen — the word awaits not a journey but a response.",
+            "relevance": "The section frames the word of faith as accessible and awaiting human response, not as something that operates irrespective of human agency. The Deuteronomy 30 argument emphasizes that no impossible heroic act is required — the word is near, in mouth and heart — which implies the hearer is genuinely able to respond. The neutral reading notes that the word 'awaits not a journey but a response,' presupposing that the response is a real human act.",
+            "key_phrases": ["the word is near you, in your mouth and in your heart", "the word of faith that we proclaim", "the person who does the commandments shall live by them"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "10:9-13",
+            "section_title": "Confession, Belief, and Universal Access",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul specifies the content of the word of faith: confession with the mouth that Jesus is Lord and belief in the heart that God raised him from the dead results in salvation, available to everyone without distinction between Jew and Greek, because the same Lord is Lord of all and is rich toward all who call on him.",
+            "relevance": "This section directly addresses how salvation is obtained and makes it explicitly contingent on human response — confessing and believing. The conditional structure ('if you confess... if you believe... you will be saved') presents salvation as genuinely dependent on human action. The word 'everyone' (pas) appears three times in four verses (10:11, 12, 13), universalizing access without restriction, which is incompatible with a scheme in which God has predetermined which individuals will believe. The statement 'there is no distinction between Jew and Greek' eliminates any basis for thinking access to salvation is limited by divine selection. This is part of Paul's own sustained argument, not an aside or illustration.",
+            "key_phrases": ["if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved", "everyone who believes in him will not be put to shame", "there is no distinction between Jew and Greek", "the same Lord is Lord of all, bestowing his riches on all who call on him", "everyone who calls on the name of the Lord will be saved"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:14-17",
+            "section_title": "The Chain of Proclamation — Sending, Preaching, Hearing, Believing, Calling",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul constructs a backward chain of necessary conditions for salvation — calling requires believing, believing requires hearing, hearing requires preaching, preaching requires sending — and then demonstrates that the chain was fulfilled, so that Israel's failure to believe is not attributable to any gap in God's provision but to their own refusal to obey the gospel.",
+            "relevance": "The chain's explicit argumentative purpose, as the neutral reading states, is to demonstrate that 'if the message was delivered, the failure lies with the one who refused to respond, not with the one who sent the messenger.' This locates responsibility for salvation outcomes with the human hearer. The note that 'not all obeyed the gospel' treats obedience/disobedience as a genuine human act, not a predetermined outcome. However, 10:17 states that faith comes from hearing, which emphasizes that the initiative for providing the word is external and divine, introducing a layer of divine enablement alongside human response.",
+            "key_phrases": ["how are they to believe in him of whom they have never heard", "not all obeyed the gospel", "faith comes from hearing, and hearing through the word of Christ", "who has believed what he has heard from us"],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:18-21",
+            "section_title": "Israel Heard, Israel Understood, Israel Refused",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul demonstrates that Israel both heard the message and had the prophetic resources to understand it, then concludes with God's own testimony from Isaiah 65:2 — the image of God holding out his hands all day long to a disobedient and contrary people who actively refused his appeal.",
+            "relevance": "This section directly addresses the determinism question by presenting God as persistently appealing and Israel as freely refusing. The image of God stretching out his hands 'all day long' to a people who disobey and contradict depicts God as desiring Israel's response and not receiving it — the opposite of a God who unilaterally determines who responds. If God determined Israel's refusal, the image of sustained, unrequited appeal would be incoherent. The neutral reading emphasizes that the verse 'does not describe a God who has given up on Israel' but 'a God who continues to appeal, who refuses to stop reaching.' Israel's disobedience is presented as genuine human resistance to genuine divine invitation, not as a predetermined outcome.",
+            "key_phrases": ["all day long I have held out my hands to a disobedient and contrary people", "have they not heard? Indeed they have", "did Israel not understand?", "I have been found by those who did not seek me"],
+            "confidence": "high"
+        }
+    ]
+}

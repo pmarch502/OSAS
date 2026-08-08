@@ -1,0 +1,82 @@
+{
+    "book": "Luke",
+    "chapter": 17,
+    "sections": [
+        {
+            "reference": "17:1-2",
+            "section_title": "Stumbling Blocks and Their Consequences",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus warns that while stumbling blocks are inevitable in the present age, the person through whom they come faces consequences worse than drowning with a millstone, because causing a vulnerable believer to fall is an act for which the perpetrator will be held to account.",
+            "relevance": "The text assumes genuine moral agency: the woe falls on the one who causes stumbling, meaning that person had the capacity to act otherwise and is held accountable for choices that damage others' standing before God. The inevitability of stumbling blocks is described as realistic rather than divinely willed, and the emphasis falls entirely on human responsibility for the consequences.",
+            "key_phrases": ["woe to him through whom they come", "it would be better for him if a millstone were hung around his neck"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "17:3-4",
+            "section_title": "Rebuke, Repentance, and Forgiveness",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus instructs the disciples on handling sin within the community: rebuke the sinner, and if he repents, forgive him without limit, even seven times in a single day."
+        },
+        {
+            "reference": "17:5-6",
+            "section_title": "The Nature of Faith",
+            "category": "NOT_APPLICABLE",
+            "summary": "The apostles ask Jesus to increase their faith, and he reframes faith from a quantity to be stockpiled into a quality of trust and dependence, saying that even mustard-seed faith can accomplish the impossible."
+        },
+        {
+            "reference": "17:7-10",
+            "section_title": "The Parable of the Slave Who Has Done What Was Commanded",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus teaches through a parable that even complete obedience merely fulfills a pre-existing obligation and generates no surplus claim on the master for special treatment or reward."
+        },
+        {
+            "reference": "17:11-19",
+            "section_title": "Ten Lepers Cleansed, One Returns",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "All ten lepers receive identical healing from Jesus, but only the Samaritan foreigner returns to give glory to God, and Jesus tells him alone that his faith has saved him, establishing a distinction between physical cleansing received by all ten and the salvation received only by the one who responded in faith.",
+            "relevance": "This passage directly presents human response as the factor that determines whether divine action results in mere physical restoration or full salvation. God's healing was identical for all ten; the differentiation is entirely in the human response. The nine received katharsis (ritual cleansing); the one who returned received soteria (salvation, wholeness). Jesus's pronouncement 'your faith has saved you' attributes the saving outcome to the Samaritan's own faith — his choice to return, recognize the source of healing, worship, and give thanks. The text does not say God chose to save this one and not the others; it says the one whose faith expressed itself in recognition and gratitude was the one who was made whole.",
+            "key_phrases": ["your faith has made you well", "were there not ten cleansed? But the nine — where are they?", "was no one found who returned to give glory to God, except this foreigner?"],
+            "confidence": "high"
+        },
+        {
+            "reference": "17:20-21",
+            "section_title": "The Kingdom of God Among You",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus tells the Pharisees that the kingdom of God is not coming with observable signs or locatable in a specific place, but is already present in their midst in his person and ministry, while they look for it as a datable future event."
+        },
+        {
+            "reference": "17:22-25",
+            "section_title": "The Son of Man's Day — Longing, Deception, and Suffering",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus tells the disciples they will long for the Son of Man's day during a difficult interval of waiting, warns them not to chase false reports of his arrival since the real event will be as unmistakable as lightning, and inserts a passion prediction that the Son of Man must first suffer and be rejected by this generation."
+        },
+        {
+            "reference": "17:26-30",
+            "section_title": "The Days of Noah and Lot",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus compares the Son of Man's day to the days of Noah and Lot, when people were absorbed in ordinary life — eating, drinking, buying, selling, planting, building — and were destroyed by sudden catastrophic judgment because they ignored available warnings.",
+            "relevance": "The neutral reading emphasizes that judgment in both analogies was preceded by warnings that the people had genuine opportunity to heed. Noah was a preacher of righteousness whose ark-building was a decades-long visible warning; Lot warned his sons-in-law, who dismissed him. The people were not destroyed because God had unilaterally determined their destruction apart from their response; they were destroyed because they had revelation available, warnings sounded, and they refused to hear. The pattern connects to 16:29-31: they have Moses and the Prophets and will not be persuaded. The consistent implication is that human refusal to respond to available revelation is what leads to judgment.",
+            "key_phrases": ["the flood came and destroyed them all", "it rained fire and brimstone from heaven and destroyed them all", "it will be just the same on the day that the Son of Man is revealed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "17:31-33",
+            "section_title": "The Urgency of Detachment",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus warns that when the moment of decision arrives, attachment to possessions and the present order is fatal — the person on the housetop must not go back for goods, Lot's wife who looked back with longing became a pillar of salt, and whoever seeks to keep his life will lose it while whoever loses his life will preserve it.",
+            "relevance": "The universal principle in verse 33 — 'whoever seeks to keep his life will lose it, and whoever loses his life will preserve it' — presents a genuine human choice as determining the outcome. The 'whoever' (hos ean) language frames this as an open possibility available to any person, not a predetermined result. Lot's wife is cited as someone whose own attachment to the life she was leaving killed her — her internal disposition, not God's unilateral decision, determined her fate. The text consistently presents human clinging versus releasing as the factor that determines whether one is preserved or destroyed.",
+            "key_phrases": ["remember Lot's wife", "whoever seeks to keep his life will lose it", "whoever loses his life will preserve it"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "17:34-37",
+            "section_title": "The Separation and the Vultures",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus describes a sudden separation at the Son of Man's coming where two people in identical external circumstances face different fates — one taken in judgment, one left as a survivor — and responds to the disciples' question about location with a proverb about vultures gathering where a body lies, refusing to provide the geographic specificity they seek."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "book": "John",
+    "chapter": 10,
+    "sections": [
+        {
+            "reference": "10:1-6",
+            "section_title": "The Figure of Speech About the Sheepfold",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus addresses the Pharisees with a figure of speech about a sheepfold in which the legitimate shepherd enters by the door, calls his sheep by name, and leads them out, while thieves and strangers are refused by the sheep who do not recognize their voice.",
+            "relevance": "The sheep's response to the shepherd is presented as voluntary recognition based on habitual relationship — they follow because they know his voice, not because they are compelled. The chapter 9 backdrop shows the man born blind progressively moving from ignorance to recognition and worship, demonstrating that becoming a sheep who recognizes the shepherd's voice is a process of encounter and response, not a predetermined status. The sheep flee from strangers because the voice is unfamiliar, not because they are programmed to reject — recognition drives behavior.",
+            "key_phrases": [
+                "the sheep hear his voice",
+                "he calls his own sheep by name and leads them out",
+                "the sheep follow him because they know his voice",
+                "a stranger they simply will not follow, but will flee from him, because they do not know the voice of strangers"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "10:7-10",
+            "section_title": "I Am the Door",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus identifies himself as the door of the sheep, promising salvation, free movement, and abundant life to anyone who enters through him, in contrast to the thieves who come only to steal, kill, and destroy.",
+            "relevance": "The open conditional 'if anyone enters through me, he will be saved' presents salvation as available to whoever chooses to enter — the invitation is unrestricted ('anyone') and the outcome depends on the human act of entering. The contrast between the thief's destructive purpose and Jesus's life-giving purpose frames the choice as genuine, with the door standing open and the human deciding whether to pass through it.",
+            "key_phrases": [
+                "if anyone enters through me, he will be saved",
+                "will go in and out and find pasture",
+                "I came that they may have life, and have it abundantly"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "10:11-18",
+            "section_title": "I Am the Good Shepherd",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Jesus declares himself the good shepherd who lays down his life for the sheep voluntarily, contrasts himself with the hired hand who flees, describes mutual knowledge between himself and his sheep modeled on his relationship with the Father, announces other sheep not of this fold who will also hear his voice, and asserts his authority over his own death and resurrection.",
+            "relevance": "The mutual knowledge between shepherd and sheep ('I know my own and my own know me') is presented as reciprocal — the sheep actively know the shepherd, not merely passively receive his attention. The phrase 'for the sheep,' sometimes cited for limited atonement, defines the sheep by their relational activity of hearing and following rather than by predetermined election. The 'other sheep' who 'will hear my voice' are identified by the neutral reading as Gentiles corporately, describing the divinely necessary scope of mission rather than individual predetermination. The reciprocal knowing, modeled on the Father-Son relationship, implies that the sheep's participation in the relationship is genuine, not merely the effect of a unilateral decree.",
+            "key_phrases": [
+                "I know my own and my own know me",
+                "I lay down my life for the sheep",
+                "I have other sheep which are not of this fold; I must bring them also, and they will hear my voice",
+                "they will become one flock with one shepherd",
+                "I lay it down on my own initiative"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "10:19-21",
+            "section_title": "Division Again",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus's words produce another division among the Jewish audience, with some accusing him of demonic possession and insanity while others point to the evidence of the blind man's healing as proof he is not demonized."
+        },
+        {
+            "reference": "10:22-30",
+            "section_title": "My Sheep Hear My Voice",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "At the Feast of Dedication, Jesus responds to demands for a plain messianic declaration by pointing to his works, diagnosing the authorities' unbelief as a symptom of their not being his sheep, describing his sheep as those who currently hear, follow, and receive eternal life, and declaring that no one can snatch them from his or the Father's hand.",
+            "relevance": "Conventionally cited by Calvinists: verse 26 ('you do not believe because you are not of my sheep') is read as God predetermining who will believe, and verses 28-29 ('no one will snatch them') as proving irresistible and irreversible grace. The neutral reading shows verse 26 is a diagnostic description of present spiritual condition — the Pharisees are not currently hearing and following, the defining activities of sheep — not a decree of predetermined exclusion. The man born blind (chapter 9) demonstrates that a person can move from outside to inside, from not knowing Jesus to worshiping him. The present-tense grammar of verse 27 ('hear... know... follow') defines the sheep by ongoing activity, not by a past-tense credential or predetermined status. The 'no one will snatch' promise addresses external threats — the wolf of verse 12, the thieves of verse 1 — and does not address the sheep's own capacity to depart, which the document elsewhere demonstrates is real (6:66, where disciples voluntarily withdrew). The passage is about the ongoing reciprocal relationship between shepherd and responsive sheep, and about external protection from predators, not about predetermined election or the impossibility of voluntary departure.",
+            "key_phrases": [
+                "you do not believe because you are not of my sheep",
+                "my sheep hear my voice, and I know them, and they follow me",
+                "I give them eternal life, and they will never perish",
+                "no one will snatch them out of my hand",
+                "no one is able to snatch them out of the Father's hand"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "10:31-39",
+            "section_title": "The Stoning Attempt and the Argument from Psalm 82",
+            "category": "NOT_APPLICABLE",
+            "summary": "After the authorities attempt to stone Jesus for blasphemy following his declaration of oneness with the Father, he argues from Psalm 82 that if scripture called human judges 'gods,' then the one whom the Father consecrated and sent has a greater claim to the title 'Son of God,' and appeals to the evidence of his works as proof of mutual indwelling between Father and Son."
+        },
+        {
+            "reference": "10:40-42",
+            "section_title": "Beyond the Jordan",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus withdraws beyond the Jordan to the place where John first baptized, creating a geographic inclusio with the beginning of the document, and many believe in him there after recognizing that everything John testified about him proved true."
+        }
+    ]
+}

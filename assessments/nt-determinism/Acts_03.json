@@ -1,0 +1,66 @@
+{
+    "book": "Acts",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-3",
+            "section_title": "Peter and John Go Up to the Temple",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading describes Peter and John going to the temple at the hour of prayer and encountering a congenitally lame man who begs for alms at the Beautiful Gate."
+        },
+        {
+            "reference": "3:4-8",
+            "section_title": "The Healing",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter commands the lame man to walk in the name of Jesus Christ the Nazarene, seizes his hand, and raises him up; the man's feet and ankles are instantly strengthened and he enters the temple walking, leaping, and praising God."
+        },
+        {
+            "reference": "3:9-10",
+            "section_title": "The Crowd's Reaction",
+            "category": "NOT_APPLICABLE",
+            "summary": "The temple crowd recognizes the healed man as the one who used to beg at the Beautiful Gate and is filled with wonder and amazement."
+        },
+        {
+            "reference": "3:11-16",
+            "section_title": "Peter's Speech -- The Healing Explained",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter redirects the crowd's attention from himself and John to God, identifying Jesus as God's glorified Servant (Isaiah 52:13), the Holy and Righteous One, and the Author of Life whom the audience delivered, denied, and killed but God raised from the dead, and attributes the healing to faith in Jesus' name."
+        },
+        {
+            "reference": "3:17-18",
+            "section_title": "The Concession of Ignorance and the Fulfillment of Prophecy",
+            "category": "NOT_APPLICABLE",
+            "summary": "Peter concedes that the audience and their rulers acted in ignorance when they rejected Jesus, and declares that God thereby fulfilled what He announced through all the prophets -- that His Christ would suffer."
+        },
+        {
+            "reference": "3:19-21",
+            "section_title": "The Call to Repentance and the Promise of Restoration",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter calls the audience to repent and return to God so that their sins may be wiped away, times of refreshing may come from the Lord's presence, and God may send the appointed Christ Jesus, whom heaven must receive until the period of restoration of all things.",
+            "relevance": "The call to repent is a direct imperative addressed to the audience as genuine moral agents capable of responding. The conditional structure -- repent and return, so that your sins may be wiped away -- makes the forgiveness of sins contingent upon human choice. The entire chain (repentance, then forgiveness, then times of refreshing, then sending of the Christ, then restoration of all things) places human response as the initiating factor, and the exegesis explicitly notes that 'the audience's response matters to the unfolding of the sequence.'",
+            "key_phrases": ["repent and return", "so that your sins may be wiped away", "in order that times of refreshing may come", "that He may send Jesus, the Christ appointed for you"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:22-23",
+            "section_title": "The Prophet Like Moses",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter cites Deuteronomy 18:15-19 to identify Jesus as the Prophet like Moses whom God would raise up, and warns that every soul that does not heed that Prophet shall be utterly destroyed from among the people.",
+            "relevance": "The warning directly presents human choice -- heeding or refusing to heed the Prophet -- as the factor that determines whether a person remains within or is cut off from the covenant community. The formulation 'every soul that does not heed' assumes genuine human capacity to listen or refuse. This is not a metaphysical abstraction but a concrete warning that covenant standing depends on the individual's response to Jesus, delivered as part of Peter's central argument.",
+            "key_phrases": ["to Him you shall give heed to everything He says to you", "every soul that does not heed that prophet shall be utterly destroyed from among the people"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:24-26",
+            "section_title": "The Prophets, the Covenant, and the Mission to Israel First",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter declares that all the prophets from Samuel onward announced these days, identifies the audience as sons of the prophets and of the Abrahamic covenant, and states that God raised up His Servant and sent Him first to Israel to bless them by turning every one of them from their wicked ways.",
+            "relevance": "The phrase 'for you first' implies sequential opportunity extended to all, not a predetermined selection of individuals. The universal scope of 'every one of you' (hekaston, singular) individualizes the offer of blessing to each person. However, the description of God's Servant blessing them 'by turning every one of you from your wicked ways' presents repentance as something God enables through His Servant -- the exegesis notes that 'the ability to turn from sin is the gift that God sends through his Servant.' This holds together divine initiative (God sends, God enables the turning) and human response (the call to repent in v. 19 presupposes genuine choice), leaning libertarian because the enabling is presented as a universal offer rather than a selective determination, and the surrounding context treats refusal as a real possibility (v. 23).",
+            "key_phrases": ["for you first", "God raised up His Servant and sent Him to bless you", "by turning every one of you from your wicked ways", "in your seed all the families of the earth shall be blessed"],
+            "confidence": "medium"
+        }
+    ]
+}

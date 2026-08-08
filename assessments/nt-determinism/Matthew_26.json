@@ -1,0 +1,92 @@
+{
+    "book": "Matthew",
+    "chapter": 26,
+    "sections": [
+        {
+            "reference": "26:1-5",
+            "section_title": "The Announcement of the Passover and the Plot",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus announces that the Son of Man will be delivered up to be crucified at Passover, while the chief priests and elders simultaneously plot to arrest and kill him by stealth."
+        },
+        {
+            "reference": "26:6-13",
+            "section_title": "The Anointing at Bethany",
+            "category": "NOT_APPLICABLE",
+            "summary": "An unnamed woman anoints Jesus's head with expensive ointment at Bethany, and Jesus interprets her act as preparation for his burial, declaring it will be told as a memorial wherever the gospel is proclaimed."
+        },
+        {
+            "reference": "26:14-16",
+            "section_title": "Judas's Agreement to Betray",
+            "category": "NOT_APPLICABLE",
+            "summary": "Judas Iscariot goes to the chief priests, negotiates a price of thirty pieces of silver for handing Jesus over, and begins seeking an opportune moment to betray him."
+        },
+        {
+            "reference": "26:17-19",
+            "section_title": "Preparation for the Passover Meal",
+            "category": "NOT_APPLICABLE",
+            "summary": "The disciples prepare the Passover meal according to Jesus's instructions, with Jesus declaring that his appointed time (kairos) is at hand."
+        },
+        {
+            "reference": "26:20-25",
+            "section_title": "The Identification of the Betrayer",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus announces that one of the twelve will betray him, identifies the betrayer as the one who dipped his hand in the dish, and declares that the Son of Man goes as it is written but pronounces woe on the one who betrays him.",
+            "relevance": "The neutral reading explicitly identifies an unresolved tension: the Son of Man's death is scripted in the divine plan ('as it is written'), yet the human agent of that plan bears full moral responsibility ('woe to that man'). The pronouncement that 'it would have been better for that man if he had not been born' implies that Judas's choice genuinely determines his standing before God. If the betrayal were unilaterally determined by God without genuine human agency, the woe and the declaration of existential catastrophe would be unjust. The reading states: 'The divine purpose does not excuse the human instrument.'",
+            "key_phrases": ["the Son of Man goes as it is written of him", "but woe to that man by whom the Son of Man is betrayed", "it would have been better for that man if he had not been born"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "26:26-30",
+            "section_title": "The Reinterpretation of the Passover Meal",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus reinterprets the Passover bread as his body and the cup as his blood of the covenant poured out for many for the forgiveness of sins, establishing a new covenant meal and declaring he will drink the fruit of the vine anew in his Father's kingdom.",
+            "relevance": "The neutral reading clarifies that 'for many' (peri pollon) is a Hebraic idiom for 'the multitude' — not a limiting term (some but not all) but a designation for the broad company who benefit from the servant's suffering. The emphatic instruction 'drink of it, all of you' (pantes) ensures no one at the table is excluded from participation. The covenant blood is offered for participatory reception — the disciples must actively drink — implying that human participation is a genuine component of receiving what God provides, not an automatic or unilaterally imposed benefit.",
+            "key_phrases": ["drink of it, all of you", "poured out for many for the forgiveness of sins", "this is my blood of the covenant"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "26:31-35",
+            "section_title": "The Prediction of Desertion and Peter's Protest",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus predicts that all the disciples will fall away, citing Zechariah 13:7 about the shepherd being struck and the sheep scattered, then promises to go before them to Galilee after his resurrection; Peter protests but Jesus predicts his threefold denial.",
+            "relevance": "The neutral reading presents the disciples' desertion as both the fulfillment of Zechariah's oracle and genuine human moral failure — not merely scripted performance. The reading notes that 'the shepherd must be struck; the sheep must scatter,' yet the failure is real failure with real moral weight. Crucially, the promise of regathering ('I will go before you to Galilee') means that moral failure is not permanently determinative of standing before God — the shepherd will restore the scattered flock. This pattern implies that divine foreknowledge of failure does not constitute divine causation of it, and that human failure does not irreversibly seal one's fate.",
+            "key_phrases": ["you will all fall away because of me this night", "I will strike the shepherd, and the sheep of the flock will be scattered", "after I am raised up, I will go before you to Galilee"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "26:36-46",
+            "section_title": "The Agony in the Garden",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus prays in Gethsemane, asking whether the cup can pass from him but submitting to the Father's will, while the disciples repeatedly fail to stay awake despite his instruction to watch and pray.",
+            "relevance": "The command 'watch and pray that you may not enter into temptation' presupposes that human action (watching and praying) genuinely affects whether one falls under testing — if the outcome were predetermined, the instruction would be pointless. The neutral reading draws a causal link between the disciples' failure to pray and their subsequent failure under pressure. Additionally, Jesus's prayer reveals genuine human will ('not as I will, but as you will') — he has an authentic desire for the cup to pass, which he voluntarily subordinates to the Father's will. This is voluntary submission, not the absence of a genuine alternative will, demonstrating that the relationship between divine will and human will is one of genuine agency and consent rather than deterministic override.",
+            "key_phrases": ["watch and pray that you may not enter into temptation", "the spirit indeed is willing, but the flesh is weak", "not as I will, but as you will", "your will be done"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "26:47-56",
+            "section_title": "The Arrest",
+            "category": "NOT_APPLICABLE",
+            "summary": "Judas arrives with an armed crowd, identifies Jesus with a kiss, and Jesus is seized; Jesus refuses armed resistance because the Scriptures must be fulfilled, and all the disciples flee."
+        },
+        {
+            "reference": "26:57-68",
+            "section_title": "The Trial Before the High Priest",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus is tried before Caiaphas and the Sanhedrin, where false testimony is sought; Jesus remains silent until adjured, then declares the Son of Man will be seen seated at the right hand of Power and coming on the clouds, leading to a verdict of blasphemy deserving death."
+        },
+        {
+            "reference": "26:69-75",
+            "section_title": "Peter's Denial",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter denies Jesus three times with escalating intensity — from simple denial to sworn denial to denial under self-curse — fulfilling Jesus's prediction exactly, then weeps bitterly when the rooster crows.",
+            "relevance": "The neutral reading connects Peter's denial to 10:33 ('whoever denies me before others, I also will deny before my Father who is in heaven'), giving the act potential salvific consequences. Yet the narrative presents Peter as a genuine moral agent throughout: he chooses denial out of fear, he progressively violates Jesus's own teaching on oaths (5:33-37), and his bitter weeping reveals the self-recognition of a free agent who grasps his own failure. The prediction of the denial demonstrates divine foreknowledge but not divine causation — Peter is not forced to deny; he is driven by his own fear. The reading notes that the regathering promise (v. 32) ensures Peter's failure is not the final word, implying that human failure, even predicted failure, does not deterministically seal one's fate before God.",
+            "key_phrases": ["he denied it before them all", "again he denied it with an oath", "he began to invoke a curse on himself and to swear", "he went out and wept bitterly"],
+            "confidence": "medium"
+        }
+    ]
+}

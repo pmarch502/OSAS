@@ -1,0 +1,83 @@
+{
+    "book": "John",
+    "chapter": 20,
+    "sections": [
+        {
+            "reference": "20:1-2",
+            "section_title": "Mary Comes to the Tomb in Darkness",
+            "category": "NOT_APPLICABLE",
+            "summary": "Mary Magdalene comes to the tomb before dawn, finds the stone removed, and runs to report to Peter and the beloved disciple that the body has been taken, interpreting the empty tomb as removal rather than resurrection."
+        },
+        {
+            "reference": "20:3-10",
+            "section_title": "Peter and the Beloved Disciple at the Tomb",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter and the beloved disciple race to the tomb, examine the linen wrappings and the separately folded face-cloth, and the beloved disciple becomes the first person in the document to believe in the resurrection — on the basis of physical evidence rather than a direct appearance.",
+            "relevance": "The beloved disciple's faith is presented as a genuine human response to evidence: he saw the arranged wrappings and believed, with his faith preceding his understanding of Scripture. The author's editorial note that 'they did not yet understand the Scripture' distinguishes between the divine necessity (dei) of the resurrection — which pertains to God's redemptive plan — and the human act of believing, which arises from encounter with evidence. Faith here is modeled as something that happens in a human being in response to what they perceive, not as something imposed from outside. The section establishes a pattern the chapter will develop: faith is a genuine human act that can precede full comprehension.",
+            "key_phrases": [
+                "he saw and believed",
+                "they did not yet understand the Scripture, that He must rise again from the dead"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "20:11-18",
+            "section_title": "Mary Encounters the Risen Jesus",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Mary remains weeping at the tomb, sees two angels, encounters the risen Jesus without recognizing him, and recognizes him only when he speaks her name — an encounter the neutral reading explicitly connects to the shepherd discourse's teaching that the shepherd calls his own sheep by name and they know his voice.",
+            "relevance": "The shepherd-sheep dynamic enacted here shows both divine initiative and genuine human response working together. Jesus initiates by calling Mary's name, but recognition is Mary's own act — she hears, turns, and responds. The neutral reading frames this as the enactment of 'I know my own, and my own know me' (10:14), describing mutual knowledge that constitutes belonging. The mutuality is critical: the sheep's knowing of the shepherd is as real as the shepherd's knowing of the sheep. Recognition is presented as a relational capacity rooted in prior relationship, not as the irresistible effect of a unilateral decree. Mary's commissioning as the first resurrection witness — 'go to my brethren and say to them' — further shows human agency: she is given a message and trusted to carry it, acting as a genuine agent in the transmission of the resurrection proclamation.",
+            "key_phrases": [
+                "Jesus said to her, 'Mary!'",
+                "She turned and said to Him in Hebrew, 'Rabboni!'",
+                "go to My brethren and say to them",
+                "I have seen the Lord"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "20:19-23",
+            "section_title": "Jesus Appears to the Gathered Disciples",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The risen Jesus appears to the gathered disciples behind locked doors, speaks peace, shows his wounds, commissions them as the Father sent him, breathes the Holy Spirit on them, and grants them authority to forgive or retain sins.",
+            "relevance": "The authority to forgive and retain sins (20:23) directly bears on how salvation outcomes are determined. The neutral reading interprets this authority as connected to proclamation: 'their proclamation of the gospel creates the condition in which sins are forgiven for those who believe and retained for those who do not.' This framework places human response — believing or not believing in response to the community's proclamation — as the factor that determines whether sins are forgiven or retained. The Spirit empowers the community for its mission but does not predetermine who will respond to that mission. The commission itself ('as the Father has sent me, I also send you') extends the mission into a world whose response is not foreclosed — sending presupposes an audience capable of genuine response. The new-creation imagery of the Spirit-breathing (Genesis 2:7, Ezekiel 37:9) pertains to the community being empowered, not to individual salvation being unilaterally determined.",
+            "key_phrases": [
+                "as the Father has sent Me, I also send you",
+                "Receive the Holy Spirit",
+                "If you forgive the sins of any, their sins have been forgiven them; if you retain the sins of any, they have been retained"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "20:24-29",
+            "section_title": "Thomas's Absence and Confession",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Thomas, absent during the first appearance, refuses to believe the community's testimony without personal, tactile verification; a week later Jesus appears again, offers his wounds for examination, and Thomas responds with the document's climactic confession — 'My Lord and my God!' — after which Jesus pronounces a beatitude on those who believe without seeing.",
+            "relevance": "Thomas's journey from emphatic refusal ('I will absolutely not believe') to the highest confession in the document demonstrates faith as a genuine human response, not a predetermined outcome. Jesus does not override Thomas's resistance but meets his stated conditions, providing evidence and inviting him to cross the threshold between belief and unbelief. The imperative 'do not be unbelieving, but believing' treats the choice as genuinely Thomas's to make. The climactic beatitude — 'Blessed are those who did not see, and yet believed' — pronounces blessing on a specific human act: believing on the basis of testimony rather than sight. This beatitude reaches beyond the narrative to address all future believers (connecting to 17:20, 'those who believe in me through their word'), and by pronouncing them blessed for believing, it treats their faith as a genuine human response to the apostolic word, not as the determined effect of an irresistible decree.",
+            "key_phrases": [
+                "Unless I see in His hands the imprint of the nails... I will not believe",
+                "do not be unbelieving, but believing",
+                "My Lord and my God!",
+                "Blessed are those who did not see, and yet believed"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "20:30-31",
+            "section_title": "The Author's Statement of Purpose",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author declares that the document is a selective compilation of signs, written with the explicit purpose that readers may believe Jesus is the Christ, the Son of God, and that by believing they may have life in his name.",
+            "relevance": "The document's purpose statement presents a chain in which human faith is the operative link between testimony and life: the document provides testimony, the reader believes, and the believer receives life. The very existence of the document as a persuasive instrument presupposes that presenting evidence and testimony can produce genuine faith — a framework that only makes sense if the reader's belief is a real human response rather than a predetermined outcome. The phrase 'that believing you may have life in his name' identifies faith as the means by which life is received, treating it as a genuine act that mediates between the written testimony and the salvific outcome. The selectivity of the signs — chosen specifically because they serve the purpose of producing faith — further implies that faith is responsive to evidence, not independent of it. The author writes to persuade, which assumes his audience can be persuaded.",
+            "key_phrases": [
+                "these have been written so that you may believe",
+                "that Jesus is the Christ, the Son of God",
+                "that believing you may have life in His name"
+            ],
+            "confidence": "high"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "book": "Acts",
+    "chapter": 27,
+    "sections": [
+        {
+            "reference": "27:1-2",
+            "section_title": "The Decision to Sail and the Company Aboard",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage describes the logistical transfer of Paul and other prisoners to a centurion named Julius for transport to Rome, with the resumption of the 'we' narrative and the presence of Aristarchus as a loyal companion."
+        },
+        {
+            "reference": "27:3-8",
+            "section_title": "The Coastal Voyage and the Difficulty of the Route",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage narrates the coastal voyage from Sidon to Fair Havens in Crete, recording Julius's humane treatment of Paul, contrary winds, the transfer to an Alexandrian grain ship at Myra, and the increasing difficulty of westward progress."
+        },
+        {
+            "reference": "27:9-12",
+            "section_title": "The Debate About Whether to Continue",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage presents a practical navigational debate in which Paul advises against continuing the voyage past the safe sailing season, but the centurion defers to the pilot and shipowner, and the majority decides to attempt the short sail to Phoenix for a better winter harbor."
+        },
+        {
+            "reference": "27:13-20",
+            "section_title": "The Storm",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage narrates the catastrophic northeaster that seizes the ship after a deceptive south wind, tracing a systematic escalation of crisis over multiple days as the crew loses control, jettisons cargo and tackle, and finally abandons all hope of being saved."
+        },
+        {
+            "reference": "27:21-26",
+            "section_title": "Paul's Vision and the Angel's Message",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that Paul delivers an angel's message declaring divine necessity (dei) that Paul must stand before Caesar and that God has granted Paul the lives of all 276 aboard, while the exegesis explicitly identifies the pattern that the divine promise operates through, not independent of, human decisions and cooperation.",
+            "relevance": "The passage uses dei (divine necessity) language identical to that used for salvation-related events elsewhere in Luke-Acts, establishing the author's theological model for how divine determination works. The exegesis finds that the angel's unconditional promise of preservation nonetheless requires human cooperation for its fulfillment: Paul must warn the centurion, the sailors must remain aboard, the people must eat. The author's explicit point is that 'divine assurance does not eliminate human agency; it works through it' -- a model that directly bears on whether divine determination of outcomes excludes genuine human participation.",
+            "key_phrases": ["you must stand before Caesar", "God has granted you all those who are sailing with you", "I believe God that it will turn out exactly as I have been told", "we must run aground on a certain island"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "27:27-32",
+            "section_title": "The Fourteenth Night and the Sailors' Attempted Escape",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds that when sailors attempt to abandon ship under false pretenses, Paul warns the centurion that unless the sailors remain aboard, 'you yourselves cannot be saved,' introducing an explicit human condition into the fulfillment of God's unconditional promise of preservation.",
+            "relevance": "Paul has received an unconditional divine promise that all 276 will survive, yet he states a genuine conditional: 'unless these men remain in the ship, you yourselves cannot be saved.' The exegesis identifies this as the author's consistent pattern: 'The promise of God is certain, but its fulfillment operates through the decisions and actions of human beings.' This directly bears on the determinism question because it demonstrates that in Luke-Acts' theology, a divinely determined outcome does not render human choices irrelevant -- genuine human agency is the mechanism through which the determined outcome is realized.",
+            "key_phrases": ["unless these men remain in the ship, you yourselves cannot be saved"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "27:33-38",
+            "section_title": "Paul's Meal and the Breaking of Bread",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that Paul encourages the starving company to eat for their physical preservation (soteria), leads a meal with eucharistic overtones -- taking bread, giving thanks, breaking it -- and the company is encouraged, eats, and then jettisons the remaining grain to lighten the ship for beaching."
+        },
+        {
+            "reference": "27:39-41",
+            "section_title": "The Attempt to Beach the Ship",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds this passage narrates the sailors' deliberate attempt to drive the ship onto a sandy beach at dawn, describing four simultaneous nautical operations, but the ship strikes a reef where two seas meet, the bow sticks fast, and the stern is broken apart by waves."
+        },
+        {
+            "reference": "27:42-44",
+            "section_title": "The Soldiers' Plan and the Deliverance",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading finds that soldiers plan to kill the prisoners to prevent escape, but centurion Julius intervenes specifically to save Paul, orders an evacuation by swimming and clinging to planks, and all 276 persons are brought safely to land -- fulfilling the angel's promise through entirely human and natural means."
+        }
+    ]
+}

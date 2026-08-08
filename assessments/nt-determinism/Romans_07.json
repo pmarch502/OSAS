@@ -1,0 +1,74 @@
+{
+    "book": "Romans",
+    "chapter": 7,
+    "sections": [
+        {
+            "reference": "7:1-3",
+            "section_title": "The Legal Principle: Death Dissolves Legal Obligation",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul establishes through a marriage-law illustration the legal principle that death dissolves legal obligations, setting up the argument that believers' death in Christ freed them from the law's jurisdiction."
+        },
+        {
+            "reference": "7:4-6",
+            "section_title": "Death to the Law, Belonging to Another, Bearing Fruit",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul applies the death-dissolves-obligation principle: believers died to the law through Christ's body, now belong to the risen Christ, and serve in the newness of the Spirit rather than the oldness of the letter.",
+            "relevance": "The believers' death to the law is expressed in the passive voice (ethanatothete, 'you were put to death'), emphasizing divine action rather than human initiative. The old condition under the law is described as captivity to sinful passions bearing fruit for death (7:5), portraying humans as unable to produce righteousness under the law. The release from the law and transition to Spirit-empowered service (7:6) echoes Ezekiel 36:26-27's promise that God would put his Spirit within Israel and cause them to walk in his statutes -- divine enablement of what human effort could not achieve. However, the passage describes the mechanism of transition rather than who determines which individuals undergo it.",
+            "key_phrases": ["you also have died to the law through the body of Christ", "our sinful passions, aroused by the law, were at work in our members to bear fruit for death", "we have been released from the law", "we serve in the newness of the Spirit and not in the oldness of the letter"],
+            "confidence": "low"
+        },
+        {
+            "reference": "7:7-12",
+            "section_title": "The Law, Sin, and the Commandment",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul defends the law's goodness ('the law is holy, and the commandment is holy and righteous and good') while explaining how sin used the commandment as a base of operations to awaken desire, deceive the 'I,' and produce death."
+        },
+        {
+            "reference": "7:13",
+            "section_title": "The True Culprit: Sin, Not the Law, Produced Death",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies sin as the agent that produced death through the good law, and states God's revelatory purpose in this arrangement was to expose sin's true character as 'sinful beyond measure.'"
+        },
+        {
+            "reference": "7:14-17",
+            "section_title": "The Divided 'I': The Willing and the Doing",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The 'I' is described as 'of the flesh, sold under sin,' unable to do the good it wants and instead doing the evil it hates, leading to the analytical distinction that it is indwelling sin rather than the 'I' itself that produces the unwanted behavior.",
+            "relevance": "The description of the person as 'sold under sin' (pepramenos hypo ten hamartian) depicts the human condition under the law as slavery and inability, language cited in support of total depravity and the doctrine that the unregenerate person cannot contribute to their own salvation. The severing of will from deed -- wanting good but doing evil -- implies human agency is genuine in desire but powerless in execution, suggesting that salvation through human performance is impossible without divine intervention. However, the text simultaneously affirms genuine moral agency: the 'I' truly wants good, hates evil, and agrees with the law. The neutral reading identifies the 'I' of 7:14-25 as describing the condition the believer has left behind -- life under the law without the Spirit -- not the present Christian experience, which complicates using it as evidence for the permanent state of human inability.",
+            "key_phrases": ["I am of the flesh, sold under sin", "I do not do what I want, but I do the very thing I hate", "it is no longer I who do it, but sin that dwells within me"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:18-20",
+            "section_title": "The Flesh as the Location of Sin's Dwelling",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The 'I' identifies the flesh as the location where nothing good dwells and where sin resides, recognizing that the capacity to will the good is present but the capacity to perform it is absent.",
+            "relevance": "The declaration 'nothing good dwells in me, that is, in my flesh' is cited in support of total depravity -- the inability of the unregenerate person to produce anything good before God. The gap between willing and performing ('the willing is present with me, but the doing of the good is not') implies that human effort alone cannot achieve the righteousness God requires, supporting the view that salvation must originate in divine action. The qualifier 'that is, in my flesh' distinguishes between the person as a whole (who retains the capacity for willing good) and the flesh (which is wholly corrupted), preserving genuine human agency in desire while denying its sufficiency in execution.",
+            "key_phrases": ["nothing good dwells in me, that is, in my flesh", "the willing is present with me, but the doing of the good is not", "the evil I do not want is what I keep on doing"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:21-23",
+            "section_title": "The Discovery of the Competing Laws",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The 'I' discovers a governing principle in its experience: the inner person delights in God's law but another law in the bodily members wages war against the mind and takes the person captive to the law of sin.",
+            "relevance": "The military metaphor of defeat and captivity (antistrateuomenon, 'waging war'; aichmalotidzonta, 'taking captive as a prisoner of war') depicts the person under the law as overwhelmed by sin's forces despite genuine spiritual desire. The inner person truly delights in God's law (7:22), affirming real human moral agency, but this delight is powerless against the law of sin that captures and holds the entire person. This portrayal of comprehensive defeat -- where genuine spiritual desire cannot overcome sin's dominion -- supports the argument that humans in their unredeemed state are unable to achieve righteousness and must be rescued by external divine power. The vocabulary of captivity and exile also echoes Israel's national experience: Israel delighted in God's law but was taken captive nonetheless.",
+            "key_phrases": ["I delight in the law of God, in my inner being", "another law in my members, waging war against the law of my mind", "making me captive to the law of sin that dwells in my members"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "7:24-25",
+            "section_title": "The Cry for Deliverance and the Answer",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The 'I' cries out in anguish for deliverance from 'this body of death,' answers with a doxology to God through Jesus Christ, and summarizes the divided condition as serving the law of God with the mind but the law of sin with the flesh.",
+            "relevance": "The cry 'Who will deliver me?' assumes that deliverance must come from outside the self. The neutral reading explicitly states that 'the I has no internal resources to effect its own liberation; the rescue, if it comes, must come from another.' The verb rhyomai ('to deliver, to rescue') is consistently used in the LXX for divine deliverance -- rescue by God, not self-extraction. This supports the position that salvation cannot originate in human effort but must be accomplished by God through Christ. The answer ('Thanks be to God through Jesus Christ our Lord') identifies God as the sole source of deliverance. However, the cry itself is an act of genuine human agency -- the person recognizes need, desires rescue, and calls out -- preserving the possibility that divine deliverance is responsive to the human cry rather than unilateral. The text does not resolve whether God's rescue is given to those who cry out or whether the crying out is itself enabled by God.",
+            "key_phrases": ["Wretched man that I am! Who will deliver me from this body of death?", "Thanks be to God through Jesus Christ our Lord!", "I myself serve the law of God with my mind, but with my flesh I serve the law of sin"],
+            "confidence": "medium"
+        }
+    ]
+}

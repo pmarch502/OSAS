@@ -1,0 +1,46 @@
+{
+    "book": "Romans",
+    "chapter": 13,
+    "sections": [
+        {
+            "reference": "13:1-2",
+            "section_title": "The Principle -- Subjection to Governing Authorities",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul establishes that all governing authorities are instituted by God and that resistance to them constitutes resistance to God's arrangement, drawing on the scriptural tradition that God establishes and removes rulers for his purposes."
+        },
+        {
+            "reference": "13:3-4",
+            "section_title": "The Function of the Governing Authority",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul describes the governing authority's proper function as God's servant: terrorizing bad conduct, commending good conduct, bearing the sword as an avenger who executes God's wrath on the wrongdoer."
+        },
+        {
+            "reference": "13:5",
+            "section_title": "The Dual Motivation -- Wrath and Conscience",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul grounds the necessity of subjection to governing authority in two motivations: the external threat of punishment and the internal moral recognition by the renewed conscience that the authority's function is legitimate."
+        },
+        {
+            "reference": "13:6-7",
+            "section_title": "The Application -- Taxes and Proper Respect",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul applies the principle of subjection to concrete civic obligations: paying direct taxes and indirect revenue, and rendering respect and honor to those who hold authority as ministers of God."
+        },
+        {
+            "reference": "13:8-10",
+            "section_title": "The Only Outstanding Debt -- Love Fulfills the Law",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies love as the one obligation that is never fully discharged, arguing that the Torah's interpersonal commandments are summed up in Leviticus 19:18 and that love, which does no wrong to the neighbor, is the fulfillment of the law."
+        },
+        {
+            "reference": "13:11-14",
+            "section_title": "The Urgency -- The Night Is Ending, the Day Is Near",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul introduces eschatological urgency as the motivation for ethical conduct: salvation is nearer than when they first believed, the night is ending, and believers must cast off the works of darkness, put on the armor of light, and put on the Lord Jesus Christ rather than making provision for the flesh.",
+            "relevance": "The neutral reading identifies a series of imperatives that presuppose genuine human agency: believers are commanded to cast off darkness, to put on the armor of light, to put on Christ, and to make no provision for the flesh. The reading explicitly connects this to the conditional of 8:12-13 ('if you live according to the flesh you will die, but if by the Spirit you put to death the deeds of the body, you will live'), noting that 'the identity established in baptism must be continually enacted in behavior.' The indicative-imperative dynamic -- what was completed in baptism must be renewed in daily practice -- presupposes that believers can choose to enact or neglect their baptismal identity, with consequences for their salvation standing. The text does not present perseverance as automatic or guaranteed but as requiring active, ongoing human response.",
+            "key_phrases": ["let us cast off the works of darkness", "let us put on the armor of light", "put on the Lord Jesus Christ", "make no provision for the flesh, to gratify its desires", "salvation is nearer to us now than when we first believed", "let us walk properly as in the daytime"],
+            "confidence": "medium"
+        }
+    ]
+}

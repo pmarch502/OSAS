@@ -1,0 +1,76 @@
+{
+    "book": "Luke",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-2",
+            "section_title": "The Historical Framework",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author opens with an elaborate dating formula naming seven political and religious figures under whose authority the land is fragmented and dominated, then reports that 'the word of God came to John, the son of Zechariah, in the wilderness,' using the standard LXX prophetic-call formula to establish John as a classical Israelite prophet."
+        },
+        {
+            "reference": "3:3-6",
+            "section_title": "John's Ministry and the Isaiah Citation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "John preaches 'a baptism of repentance for the forgiveness of sins' in the region around the Jordan, and the author cites Isaiah 40:3-5, extending the quotation uniquely to include 'all flesh will see the salvation of God.'",
+            "relevance": "The structure of John's proclamation connects forgiveness to repentance as its prerequisite: the baptism is one 'of repentance' (metanoia, the Greek rendering of the Hebrew teshuvah, 'return') directed toward (eis) the forgiveness of sins. The neutral reading emphasizes that repentance means 'return to God, return to covenant faithfulness,' which is inherently a human act of turning. Forgiveness is presented not as unilaterally bestowed but as resulting from a human act of returning. However, the section is primarily establishing John's prophetic role and the scriptural basis for it rather than directly arguing about who determines salvation outcomes.",
+            "key_phrases": ["a baptism of repentance for the forgiveness of sins", "all flesh will see the salvation of God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:7-9",
+            "section_title": "John's Warning to the Crowds",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "John addresses the crowds coming for baptism as 'brood of vipers,' demands they 'produce fruits consistent with repentance,' warns them not to rely on Abrahamic descent for protection, declares God can raise up children to Abraham from stones, and announces that the axe is already at the root of the trees -- every tree not producing good fruit is cut down and thrown into the fire.",
+            "relevance": "This passage directly addresses what determines a person's standing before God and whether they face judgment or escape it. The answer is unambiguous: human response, not lineage or predetermined status, is the criterion. John explicitly rejects the one basis that could function as a form of determinism -- Abrahamic descent, a status humans do not choose -- and replaces it with a demand for 'fruits consistent with repentance,' which requires genuine human agency. The imperative 'produce fruits' (poiesate karpous) presupposes the capacity to do so. The judgment criterion is fruit-bearing, a human activity: 'every tree that does not produce good fruit is being cut down.' The neutral reading notes that 'belonging to the covenant people is contingent on covenantal response, not on ethnic identity alone.' This is the author's presentation of John's authoritative prophetic preaching, not an aside or illustration, and it directly argues that human choices determine who faces the coming wrath.",
+            "key_phrases": ["produce fruits consistent with repentance", "do not start saying to yourselves, 'We have Abraham as our father'", "from these stones God is able to raise up children to Abraham", "every tree that does not produce good fruit is being cut down and thrown into the fire"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:10-14",
+            "section_title": "Practical Instructions for Three Groups",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Three groups -- the general crowds, tax collectors, and soldiers -- each ask 'What are we to do?' and John gives concrete ethical instructions: share clothing and food, collect no more than ordered, do not extort or accuse falsely, and be content with wages.",
+            "relevance": "This section specifies what the 'fruits consistent with repentance' demanded in verse 8 look like in practice. The thrice-repeated question 'What are we to do?' and John's concrete answers presuppose that these people can genuinely change their behavior. The neutral reading observes that 'John does not prescribe religious rituals or theological commitments; he prescribes behavior that corresponds to the prophetic vision of a just society.' Since the preceding context (vv. 8-9) ties fruit-bearing directly to escaping judgment, these practical instructions define the human agency by which standing before God is maintained. The text assumes moral capacity and treats behavioral change as both possible and necessary.",
+            "key_phrases": ["Then what are we to do?", "The one who has two tunics is to share with the one who has none", "Collect no more than what you have been ordered to", "Do not extort money from anyone"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:15-17",
+            "section_title": "John's Testimony About the Coming One",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "As the people wonder whether John is the Messiah, he distinguishes himself from the Coming One who is incomparably greater, who will baptize with the Holy Spirit and fire, and whose winnowing fork will thoroughly clear the threshing floor -- gathering wheat into the barn and burning chaff with unquenchable fire.",
+            "relevance": "The winnowing imagery presents the Coming One as the agent of judgment who separates wheat from chaff. Taken in isolation, the metaphor could suggest that what is wheat and what is chaff is simply a fixed reality. But the immediate context is decisive: John has just demanded repentance and fruit-bearing as the criterion for escaping judgment (vv. 7-9) and specified what that fruit looks like (vv. 10-14). The winnowing is therefore the execution of judgment based on human response, not an arbitrary sorting. The Coming One judges, but what determines the outcome is whether one has repented and produced fruit. The neutral reading frames the Spirit-and-fire baptism as purification and the winnowing as 'judgment as separation,' consistent with the prophetic tradition where judgment reveals what human choices have produced. However, the primary focus of the section is the identity and superiority of the Coming One, not the basis of judgment itself.",
+            "key_phrases": ["He will baptize you with the Holy Spirit and fire", "His winnowing fork is in His hand to thoroughly clear His threshing floor", "gather the wheat into His barn", "burn up the chaff with unquenchable fire"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:18",
+            "section_title": "Summary of John's Preaching",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author summarizes John's ministry with the word euengelizeto ('he preached the good news'), noting that John offered many other exhortations beyond what has been recorded, and characterizing the entirety of his message -- including warnings of judgment -- as 'good news' because it announces God's decisive action to set things right."
+        },
+        {
+            "reference": "3:19-20",
+            "section_title": "Herod and John",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author closes John's public ministry by reporting that Herod the tetrarch imprisoned John for rebuking him over Herodias and all his other wicked deeds, placing the prophet in the tradition of Elijah confronting Ahab and Nathan confronting David."
+        },
+        {
+            "reference": "3:21-22",
+            "section_title": "The Baptism of Jesus",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus is baptized among the people, and while praying, heaven opens, the Holy Spirit descends upon him in bodily form like a dove, and a divine voice declares 'You are My beloved Son, in You I am well pleased' -- combining the royal Son of Psalm 2 with the Servant of Isaiah 42 to publicly establish his identity and commission for mission."
+        },
+        {
+            "reference": "3:23-38",
+            "section_title": "The Genealogy",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author traces Jesus's lineage backward from Joseph through David (via Nathan), Abraham, Noah, and the antediluvian figures to 'Adam, the son of God,' establishing Jesus's identity not only within Israel's covenant story but within the full scope of human history from creation, and framing his significance as universal rather than limited to one nation."
+        }
+    ]
+}

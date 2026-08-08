@@ -1,0 +1,62 @@
+{
+    "book": "1Corinthians",
+    "chapter": 16,
+    "sections": [
+        {
+            "reference": "16:1-4",
+            "section_title": "The Collection for the Saints in Jerusalem",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs the Corinthians on the practical logistics of gathering a monetary collection for the impoverished saints in Jerusalem, following the same pattern he directed the Galatian churches to use."
+        },
+        {
+            "reference": "16:5-9",
+            "section_title": "Paul's Travel Plans",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul outlines his intended travel route from Ephesus through Macedonia to Corinth, expressing hope to spend extended time with them and noting that a great door for effective work has opened in Ephesus alongside many adversaries."
+        },
+        {
+            "reference": "16:10-11",
+            "section_title": "Instructions Concerning Timothy",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs the Corinthians to receive Timothy without fear or contempt, affirming that Timothy is doing the same work of the Lord that Paul does, and to send him on his way in peace."
+        },
+        {
+            "reference": "16:12",
+            "section_title": "Concerning Apollos",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul reports that he urged Apollos to visit Corinth but Apollos firmly declined for the present, demonstrating that there is no rivalry between them and that Apollos exercises his own genuine decision-making about when to travel."
+        },
+        {
+            "reference": "16:13-14",
+            "section_title": "Five Imperatives",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul delivers five rapid imperatives commanding the Corinthians to be watchful, stand firm in the faith, act courageously, be strong, and do everything in love.",
+            "relevance": "The five imperatives presuppose genuine human agency: the Corinthians are commanded to watch, stand firm, show courage, be strong, and govern all actions by love, with the clear implication that they can choose to obey or fail to do so. The command to 'stand firm in the faith' is particularly significant because the neutral reading identifies 'the faith' as the gospel content of 15:1-4, and the verb stekete echoes the hestekate of 15:1 ('in which also you stand'). Standing firm in the gospel is presented as something the Corinthians must actively do, implying the real possibility of not standing firm, which would affect their standing before God.",
+            "key_phrases": ["be watchful", "stand firm in the faith", "act like men", "be strong", "let all that you do be done in love"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "16:15-18",
+            "section_title": "The Household of Stephanas and the Recognition of Service",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul commends the household of Stephanas as the firstfruits of Achaia who voluntarily devoted themselves to serving the saints, and he instructs the community to submit to such servants and to recognize those who labor in the work of the Lord."
+        },
+        {
+            "reference": "16:19-20",
+            "section_title": "Greetings from the Churches",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul conveys greetings from the churches of Asia, from Aquila and Prisca with the assembly in their house, and from all the brothers, instructing the Corinthians to greet one another with a holy kiss."
+        },
+        {
+            "reference": "16:21-24",
+            "section_title": "Paul's Own Hand and Final Words",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul takes the pen from his secretary to write the closing in his own hand, pronouncing an anathema on anyone who does not love the Lord, crying 'Maranatha' for the Lord's return, and closing with a grace benediction and personal declaration of love for all the Corinthians.",
+            "relevance": "The anathema formula 'if anyone does not love the Lord, let him be accursed' presents love for the Lord as a human condition that determines one's standing. The conditional construction (ei tis ou philei) places the determining factor on the human side: whether a person loves the Lord or not. The neutral reading connects this to a series of exclusion warnings running through the letter (3:17, 5:5, 5:11-13, 6:9-10, 10:21-22), all of which present human behavior or disposition as the factor that triggers exclusion. The formulation implies that humans genuinely determine their own standing by whether they love the Lord, rather than that God unilaterally determines who will love him. However, the text does not directly argue for human agency in salvation as its primary point; the anathema functions as a boundary marker for the community.",
+            "key_phrases": ["if anyone has no love for the Lord, let him be accursed", "ei tis ou philei ton kyrion, eto anathema"],
+            "confidence": "medium"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "book": "Ephesians",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-3",
+            "section_title": "The Former Condition — Death in Trespasses",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The passage describes the universal condition of spiritual death shared by both Gentile and Jewish believers, establishing that all were dead in trespasses, walking according to the world-system and governed by the ruler of the air, living in fleshly desires, and being children of wrath by nature just like everyone else.",
+            "relevance": "Conventionally cited as proof of total inability: spiritual death renders humans incapable of any response to God, requiring God to unilaterally determine who gets made alive. The neutral reading supports the genuine need for divine intervention — the death described is real and comprehensive, covering both groups without exception, and the parallel with Christ's literal death (the same word nekros is used for both) implies a condition from which only God can rescue. However, the neutral reading reveals that the passage functions primarily as a corporate argument establishing the shared condition of Jews and Gentiles as the premise for their shared rescue, drawing on Ezekiel 37's vision of corporate death and revival of Israel as a people. The passage describes the state from which God acted, not the mechanism by which God selects individuals — it does not address whether the dead can respond to God's initiative, only that they cannot revive themselves.",
+            "key_phrases": ["you were dead in the trespasses and sins", "we all once lived in the passions of our flesh", "were by nature children of wrath, like the rest of mankind"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:4-7",
+            "section_title": "God's Action — Making Alive, Raising, Enthroning",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The passage describes God acting to make the dead alive, raise them, and seat them with Christ in the heavenly places — motivated entirely by his own mercy and love — in order to display the surpassing riches of his grace throughout the coming ages.",
+            "relevance": "The passage emphasizes God's unilateral initiative in acting upon the dead. 'But God' marks the sharp contrast between human deadness and divine action; the motivation is entirely internal to God (rich in mercy, great love); and the neutral reading states explicitly that 'God acted while we were still dead, not after we had begun to recover. The dead were raised as dead, not as recovering.' No human response or action is mentioned in the making alive — God is the sole agent described. The three syn- compound verbs (made alive together with Christ, raised together with Christ, seated together with Christ) present the believers' rescue as participation in Christ's own resurrection, accomplished by God alone. However, the passage describes what God did for those who are now believers corporately — the 'us' encompasses both Jewish and Gentile believers — and does not address the question of selection: why these particular people and not others. It narrates the rescue, not the selection mechanism.",
+            "key_phrases": ["But God, being rich in mercy", "because of the great love with which he loved us", "even when we were dead in our trespasses, made us alive together with Christ", "by grace you have been saved", "raised us up with him and seated us with him in the heavenly places"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:8-10",
+            "section_title": "Grace, Faith, and Created Purpose",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "cited_by_both",
+            "summary": "The passage states that salvation is by grace through faith, that this arrangement is God's gift and not from works so that no one may boast, and that believers are God's workmanship created in Christ Jesus for good works which God prepared beforehand.",
+            "relevance": "The passage heavily emphasizes divine agency: salvation is God's gift, not originating from the recipients, not from works; believers are God's poiema (workmanship, crafted product); they were created (ktizo — the verb for God's original creation) in Christ Jesus; even the good works they are to walk in were prepared by God in advance. However, the neutral reading identifies faith explicitly as 'the human response of trust in God's action' and carefully distinguishes grace (the ground of salvation) from faith (the instrument of reception). The neuter demonstrative touto ('this') does not grammatically agree with the feminine noun pistis ('faith') and most naturally refers to the entire salvation arrangement, not specifically identifying faith as God's gift. Furthermore, the neutral reading shows that in context the 'works' excluded are Torah boundary markers — the passage explains how Gentiles enter the covenant community without Torah compliance, not a blanket denial of all human response. The passage leans deterministic because of its overwhelming emphasis on God's initiative, gift, creative work, and prior preparation, but it genuinely preserves faith as a human response and does not explicitly exclude human agency from the process.",
+            "key_phrases": ["by grace you have been saved through faith", "this is not your own doing; it is the gift of God", "not a result of works, so that no one may boast", "we are his workmanship, created in Christ Jesus for good works", "which God prepared beforehand, that we should walk in them"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:11-12",
+            "section_title": "The Former Gentile Condition — Exclusion from Israel's Covenants",
+            "category": "NOT_APPLICABLE",
+            "summary": "The passage commands the Gentile recipients to remember their former five-fold exclusion from Israel's covenant blessings: without Christ, alienated from Israel's commonwealth, strangers to the covenants of promise, having no hope, and without God in the world."
+        },
+        {
+            "reference": "2:13-18",
+            "section_title": "The Reconciliation — One New Humanity",
+            "category": "NOT_APPLICABLE",
+            "summary": "The passage describes Christ's work in bringing the far-off Gentiles near by his blood, breaking down the dividing wall of hostility between Jew and Gentile, abolishing the law of commandments in ordinances, creating one new humanity from the two groups, reconciling both to God in one body through the cross, killing the enmity, proclaiming peace to both groups, and providing both with access to the Father in one Spirit."
+        },
+        {
+            "reference": "2:19-22",
+            "section_title": "The New Identity — Citizens, Family, Temple",
+            "category": "NOT_APPLICABLE",
+            "summary": "The passage declares that Gentile believers are no longer strangers and aliens but fellow citizens with the saints and members of God's household, built on the foundation of the apostles and prophets with Christ Jesus as the cornerstone, growing together into a holy temple and being constructed as God's permanent dwelling place by the Spirit."
+        }
+    ]
+}

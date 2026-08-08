@@ -1,0 +1,38 @@
+{
+    "book": "Mark",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-12",
+            "section_title": "The Son of Man's Authority to Forgive Sins on Earth",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus healing a paralytic as visible proof that the Son of Man has authority on earth to forgive sins, with the declaration of forgiveness triggered by Jesus 'seeing their faith' — the concrete, visible action of the men who broke through the roof to bring the paralytic to him.",
+            "relevance": "Faith is presented as genuine human action — visible, collective, and consisting in the concrete effort of overcoming obstacles to reach Jesus — and forgiveness is declared in direct response to that faith. The neutral reading is explicit: 'Faith here is not an internal disposition that Jesus perceives mystically; it is visible. It consists in the concrete action of breaking through obstacles to bring a man to Jesus.' The pattern is human faith preceding and prompting divine forgiveness, which implies human agency plays a real role in obtaining a salvation-relevant outcome. However, the passage's primary concern is Christological — demonstrating Jesus's authority as Son of Man — rather than directly addressing whether God unilaterally determines who receives forgiveness or humans choose it, which keeps the classification at LEANS rather than STRONG.",
+            "key_phrases": ["seeing their faith", "Son, your sins are forgiven", "the Son of Man has authority on earth to forgive sins", "so that you may know"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:13-17",
+            "section_title": "Calling the Excluded and Eating with Sinners",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus calling Levi the tax collector into discipleship, dining with tax collectors and sinners, and declaring his mission statement — 'I did not come to call the righteous, but sinners' — with the physician metaphor framing his association with sinners as treatment rather than contamination.",
+            "relevance": "Jesus's mission is described with the verb 'call' (kalesai) — invitational language that implies a summons requiring response, not unilateral determination of outcome. The physician metaphor reinforces this: the sick need the physician, which frames the relationship as one of need and response rather than imposition. The neutral reading notes that Levi 'got up and followed Him' and that many tax collectors and sinners 'were following Him,' using the discipleship verb (akolouthein) to describe their voluntary response. The direction of the mission — toward sinners, those who need forgiveness — connects to the salvation-relevant declaration in v. 5 ('your sins are forgiven'). However, Jesus clearly initiates the call, and the passage is primarily about the scope and direction of his mission rather than directly about who determines salvation outcomes. A determinist could read the immediate, unhesitating response as evidence of irresistible calling, though the neutral reading does not frame it that way.",
+            "key_phrases": ["Follow Me!", "he got up and followed Him", "they were following Him", "It is not those who are healthy who need a physician, but those who are sick", "I did not come to call the righteous, but sinners"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:18-22",
+            "section_title": "The Bridegroom, the New Cloth, and the New Wine",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus identifying himself as the bridegroom whose presence transforms the current moment into a time of celebration rather than fasting, and declaring through the new cloth and new wine sayings that what he brings is qualitatively new and cannot be contained within existing religious forms."
+        },
+        {
+            "reference": "2:23-28",
+            "section_title": "The Son of Man and the Sabbath",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus defending his disciples' Sabbath grain-picking by appealing to David's precedent with the consecrated bread and concluding that the Son of Man is Lord even of the Sabbath, claiming authority over an institution God himself established."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "book": "Philemon",
+    "chapter": 1,
+    "sections": [
+        {
+            "reference": "1:1-3",
+            "section_title": "The Greeting",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul identifies himself as a prisoner of Christ Jesus, names Timothy as co-sender, addresses Philemon, Apphia, Archippus, and the house-church, and pronounces grace and peace."
+        },
+        {
+            "reference": "1:4-7",
+            "section_title": "Thanksgiving -- Philemon's Love and Faith",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul gives thanks for Philemon's love toward all the saints and faith toward the Lord Jesus, prays that the koinonia of his faith may become effective, and praises Philemon for refreshing the hearts of the saints."
+        },
+        {
+            "reference": "1:8-16",
+            "section_title": "The Appeal -- Onesimus, the Useless One Made Useful",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul appeals for Onesimus, his spiritual child begotten during imprisonment, choosing to request rather than command so that Philemon's good deed would be voluntary rather than compelled, and declares Onesimus no longer a slave but a beloved brother both in the flesh and in the Lord.",
+            "relevance": "Verse 14 establishes an explicit principle that genuine goodness requires uncoerced voluntary response rather than compulsion (kata hekousion vs. kata anagken). The neutral reading notes that this mirrors Paul's understanding of divine grace as requiring a free human response, drawing a direct parallel to 2 Corinthians 9:7. While the immediate subject is Philemon's social decision rather than salvation per se, Paul frames voluntary human agency as essential to the structure of how grace operates -- coerced compliance, even toward the right outcome, is rejected as inadequate. This operative assumption that genuine response to grace must be freely chosen bears on whether God unilaterally determines outcomes or works through willing human agents.",
+            "key_phrases": [
+                "for love's sake I rather appeal to you",
+                "without your consent I did not want to do anything",
+                "so that your goodness would not be, as it were, by compulsion but of your own free will",
+                "perhaps he was for this reason separated from you for a while, that you would have him back forever",
+                "no longer as a slave, but more than a slave, a beloved brother"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "1:17-22",
+            "section_title": "The Request, the Guarantee, and the Anticipated Visit",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul asks Philemon to receive Onesimus as he would receive Paul, offers to repay any debt Onesimus owes while reminding Philemon of his own greater debt to Paul, expresses confidence that Philemon will exceed the request, and announces a planned visit."
+        },
+        {
+            "reference": "1:23-25",
+            "section_title": "Closing Greetings and Benediction",
+            "category": "NOT_APPLICABLE",
+            "summary": "Epaphras, Mark, Aristarchus, Demas, and Luke send greetings, and Paul closes with a benediction of grace upon the community's spirit."
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "book": "Romans",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-3",
+            "section_title": "The Question and the Torah's Answer",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul poses the test case of Abraham and quotes Genesis 15:6 to establish that Abraham was reckoned righteous because he believed God, not because he performed works.",
+            "relevance": "The passage establishes faith as Abraham's own act of trusting God's promise when visible evidence contradicted it. The verb 'believed' (episteusen) describes Abraham's response, and God's reckoning responds to that faith. The framework treats faith as a genuine human act that God honors, not as something God unilaterally produced in Abraham.",
+            "key_phrases": ["Abraham believed God, and it was counted to him as righteousness", "if Abraham was justified by works, he has something to boast about, but not before God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:4-5",
+            "section_title": "The Logic of Wages versus Gift",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Paul contrasts the logic of wages (earned by working) with the logic of gift (received by the one who does not work but believes in the God who justifies the ungodly).",
+            "relevance": "The person who is justified is described as one who 'does not work but believes' -- believing is an active participle describing what the person does. The person is 'ungodly' (asebe), indicating moral bankruptcy, yet is presented as genuinely capable of trusting God. Calvinists sometimes cite 'justifies the ungodly' to support total inability, but the neutral reading shows the ungodly person as the one who actively believes. Faith is distinguished from works not by being passive or divinely imposed, but by being trust rather than performance. The framework presupposes that the person's faith is genuine human agency, not a divinely determined response.",
+            "key_phrases": ["to the one who does not work but believes in him who justifies the ungodly", "his faith is counted as righteousness", "not counted as a gift but as his due"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:6-8",
+            "section_title": "David's Confirmation from Psalm 32",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul cites David's pronouncement of blessedness over the person whose sins are forgiven, covered, and not reckoned, confirming the negative complement of Abraham's case: God does not debit sin to the forgiven."
+        },
+        {
+            "reference": "4:9-12",
+            "section_title": "The Timing of Abraham's Circumcision",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul demonstrates from the Torah's chronology that Abraham was reckoned righteous before circumcision, making him father of both uncircumcised believers and circumcised believers who walk in the footsteps of his pre-circumcision faith.",
+            "relevance": "The section's main argument is about circumcision and scope, but it repeatedly uses language that treats believing as a human activity: Abraham is father of 'all who believe without being circumcised' and of circumcised people who 'walk in the footsteps of the faith' of Abraham. The verb stoicheo ('to walk in step, to march in formation') describes a deliberate human action of following Abraham's example. The framework assumes that people can and do believe as an act they undertake.",
+            "key_phrases": ["all who believe without being circumcised", "who also walk in the footsteps of the faith that our father Abraham had before he was circumcised"],
+            "confidence": "low"
+        },
+        {
+            "reference": "4:13-15",
+            "section_title": "The Promise, the Law, and Their Incompatibility",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul argues that the promise to Abraham came through the righteousness of faith, not through the law, because the law produces wrath by revealing and multiplying transgression, which would void the promise and empty faith of its content."
+        },
+        {
+            "reference": "4:16-17",
+            "section_title": "The Promise Rests on Grace, Abraham as Father of Many Nations",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul concludes that the inheritance depends on faith so that it may rest on grace and be guaranteed to all Abraham's offspring -- both those from the law and those who share Abraham's faith -- and describes God as the one who gives life to the dead and calls non-existent things into existence.",
+            "relevance": "The emphasis on grace and God's sovereign creative power might suggest determinism, but the neutral reading shows the argument is about reliability: the promise is guaranteed because it rests on God's faithfulness rather than on deficient human performance. The recipients of the guaranteed promise are defined as those who 'share the faith of Abraham,' treating faith-sharing as a human activity. God's power to give life to the dead and call things into existence describes God's capacity to fulfill promises, not God's unilateral determination of who will believe.",
+            "key_phrases": ["in order that the promise may rest on grace and be guaranteed to all his offspring", "the one who shares the faith of Abraham", "who gives life to the dead and calls into existence the things that do not exist"],
+            "confidence": "low"
+        },
+        {
+            "reference": "4:18-22",
+            "section_title": "The Content of Abraham's Faith",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes Abraham's faith in detail: he believed against hope, considered the impossibility of his dead body and Sarah's dead womb, did not waver in unbelief, grew strong in faith giving glory to God, and was fully convinced that God could do what he had promised.",
+            "relevance": "This section provides the most sustained portrait of faith as genuine human agency in the chapter. Abraham 'believed against hope,' 'did not weaken in faith,' was 'fully convinced' -- all descriptions of deliberate, sustained human trust in the face of contrary evidence. The passive 'was empowered by faith' (enedunamothe) hints at divine enablement, and the neutral reading notes that God may have strengthened Abraham's faith. But enablement is not determination: the passage is compatible with God strengthening faith without unilaterally producing it. The overall portrait treats faith as Abraham's genuine response, exercised with knowledge of the impossibility, not as a divinely implanted certainty.",
+            "key_phrases": ["in hope he believed against hope", "he did not weaken in faith when he considered his own body", "no unbelief made him waver", "he grew strong in his faith as he gave glory to God", "fully convinced that God was able to do what he had promised"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:23-25",
+            "section_title": "The Application to Present Believers",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul applies Abraham's paradigm to present believers: Genesis 15:6 was written for those who believe in the God who raised Jesus, who was delivered up for their trespasses and raised for their justification.",
+            "relevance": "The application extends Abraham's paradigm of faith-as-genuine-human-response to the present believing community. 'It will be counted to us who believe' presents believing as what the community does -- an act parallel to Abraham's believing. The structural parallel between Abraham's faith (trusting God who gives life to the dead) and present faith (trusting God who raised Jesus from the dead) maintains faith as a genuine human response to God's action. God acts (raises Jesus); humans respond (believe in the God who did so). The passage does not address whether God determines who will believe, but its framework consistently treats believing as something humans do.",
+            "key_phrases": ["it will be counted to us who believe in him who raised from the dead Jesus our Lord", "who was delivered up for our trespasses and raised for our justification"],
+            "confidence": "medium"
+        }
+    ]
+}

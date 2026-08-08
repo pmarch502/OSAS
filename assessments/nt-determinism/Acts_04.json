@@ -1,0 +1,66 @@
+{
+    "book": "Acts",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-4",
+            "section_title": "The Arrest and the Growth of the Community",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The temple authorities arrest Peter and John mid-speech, but many who heard the message believed, bringing the community to about five thousand men.",
+            "relevance": "The text states that 'many of those who had heard the message believed' (v. 4), presenting faith as a human response to hearing the proclaimed word. No divine appointment or predetermination of who would believe is mentioned; the believing is attributed to the hearers' response to the message, implying genuine human agency in coming to faith.",
+            "key_phrases": ["many of those who had heard the message believed"],
+            "confidence": "low"
+        },
+        {
+            "reference": "4:5-7",
+            "section_title": "The Assembly of the Sanhedrin",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Sanhedrin assembles with the high-priestly family and asks the apostles by what power or name they performed the healing."
+        },
+        {
+            "reference": "4:8-12",
+            "section_title": "Peter's Defense",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter, filled with the Holy Spirit, declares the healing was done in Jesus's name, identifies Jesus as the rejected cornerstone of Psalm 118:22, and proclaims that there is no other name under heaven by which people must be saved.",
+            "relevance": "The claim that salvation is found in no other name 'under heaven' that 'has been given among men' (v. 12) establishes the universal scope of the offer: the name has been given among all humanity, not reserved for a predetermined subset. The divine passive ('has been given') affirms God's initiative in providing the means of salvation, while the universal scope ('under heaven,' 'among men') and the inclusive 'we must be saved' imply that this means is available to all, leaving the question of who accesses it to human response rather than divine selection.",
+            "key_phrases": ["there is no other name under heaven that has been given among men by which we must be saved", "has been given among men"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:13-22",
+            "section_title": "The Council's Response and the Apostles' Release",
+            "category": "NOT_APPLICABLE",
+            "summary": "The council is amazed at Peter and John's boldness, cannot deny the miracle, commands the apostles to stop speaking in Jesus's name, and releases them when the apostles declare they must obey God rather than men."
+        },
+        {
+            "reference": "4:23-30",
+            "section_title": "The Community's Prayer",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "The community prays to God as sovereign creator, cites Psalm 2 as prophesying the opposition to Jesus, identifies Herod, Pilate, the Gentiles, and the peoples of Israel as fulfilling what God's hand and purpose predestined to occur, and asks for boldness and continued signs.",
+            "relevance": "Verse 28 uses the verb proorizo ('predestine'), stating that the conspirators against Jesus did 'whatever Your hand and Your purpose predestined to occur.' This is conventionally cited as evidence for exhaustive divine determinism, including the predetermination of who will be saved. However, the neutral reading shows that what was predestined is a specific historical event -- the crucifixion of Jesus -- not individual salvation outcomes. The text simultaneously affirms that the human actors bore genuine guilt for their actions ('whom you crucified,' v. 10; 'you acted in ignorance,' 3:17), holding divine sovereignty over the event and human responsibility for the choices in unresolved tension. The predestination is of a redemptive-historical event, paralleling Joseph's statement that 'you meant evil against me, but God meant it for good' (Genesis 50:20), not a statement about God unilaterally determining who will or will not be saved.",
+            "key_phrases": ["to do whatever Your hand and Your purpose predestined to occur", "gathered together against Your holy servant Jesus", "whom You anointed"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:31",
+            "section_title": "The Answer to the Prayer",
+            "category": "NOT_APPLICABLE",
+            "summary": "The place is shaken, the community is filled with the Holy Spirit again, and they begin speaking the word of God with boldness, demonstrating that the Spirit's empowerment is renewable and situation-specific."
+        },
+        {
+            "reference": "4:32-35",
+            "section_title": "The Life of the Believing Community",
+            "category": "NOT_APPLICABLE",
+            "summary": "The community shares possessions voluntarily so that no one is in need, fulfilling the Deuteronomic vision of a people among whom there is no poverty, with distribution administered through the apostles."
+        },
+        {
+            "reference": "4:36-37",
+            "section_title": "The Example of Barnabas",
+            "category": "NOT_APPLICABLE",
+            "summary": "Barnabas, a Levite from Cyprus, sells his land and lays the proceeds at the apostles' feet, serving as a concrete example of the communal ideal and setting up the Ananias and Sapphira counterexample in chapter 5."
+        }
+    ]
+}

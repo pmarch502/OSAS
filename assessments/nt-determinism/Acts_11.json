@@ -1,0 +1,77 @@
+{
+    "book": "Acts",
+    "chapter": 11,
+    "sections": [
+        {
+            "reference": "11:1-3",
+            "section_title": "The Jerusalem Challenge",
+            "category": "NOT_APPLICABLE",
+            "summary": "The circumcision party in Jerusalem challenges Peter for entering a Gentile household and sharing table fellowship with uncircumcised men."
+        },
+        {
+            "reference": "11:4-17",
+            "section_title": "Peter's Defense -- Retelling the Cornelius Episode",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter defends his actions by narrating the sequence of divine interventions (vision, Spirit's command, Spirit's descent on Gentiles) and concludes that God gave the Gentiles the same gift given to Jewish believers 'after believing in the Lord Jesus Christ.'",
+            "relevance": "Peter's defense heavily emphasizes God's initiative throughout the Cornelius event -- angel, vision, Spirit's command, Spirit's outpouring -- and his conclusion ('who was I that I could stand in God's way?') places all agency on God's side. However, verse 17 explicitly names 'believing in the Lord Jesus Christ' as the condition under which both Jewish and Gentile believers received the gift. The basis for the gift is 'the same: faith in the Lord Jesus Christ. Not circumcision. Not Torah observance. Not ethnic identity. Faith.' The text does not present God as unilaterally determining who believes; it presents God as initiating and humans as genuinely responding through faith.",
+            "key_phrases": [
+                "God gave them the same gift as He also gave to us after believing in the Lord Jesus Christ",
+                "who was I that I could stand in God's way",
+                "the Spirit told me to go with them without misgivings"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "11:18",
+            "section_title": "The Jerusalem Community's Conclusion",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The Jerusalem community concludes that God has granted to the Gentiles the repentance that leads to life, echoing the same language used in Acts 5:31 for Israel but now extended to the nations.",
+            "relevance": "The verb 'granted' (edōken) presents repentance as a divine gift, which could suggest deterministic implications. However, the neutral reading identifies this as God opening access to a group (Gentiles) previously excluded, paralleling Acts 5:31 where the same gift was 'granted to Israel' corporately. The neutral reading further contextualizes the phrase 'repentance that leads to life' within Deuteronomy 30 and Ezekiel 18, where life and death are contingent on ongoing faithfulness, and explicitly notes this 'is not a statement about automatic or irreversible security.' The 'granting' is about making repentance available to a new people-group, not about predetermining which individuals within that group will repent.",
+            "key_phrases": [
+                "God has also granted to the Gentiles the repentance that leads to life"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "11:19-21",
+            "section_title": "The Gospel Reaches Antioch",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Unnamed believers scattered by persecution preach to Gentiles in Antioch; the hand of the Lord is with them, and a large number who believed turn to the Lord.",
+            "relevance": "The passage presents both divine empowerment ('the hand of the Lord was with them') and genuine human response ('a large number who believed turned to the Lord'). The two verbs -- 'believed' (intellectual and volitional trust) and 'turned' (directional reorientation, the Greek equivalent of the Hebrew prophetic call to repentance) -- describe the human side of the event, while 'the hand of the Lord' identifies divine power enabling the outcome. The text presents God as empowering the proclamation and humans as genuinely choosing to believe and turn.",
+            "key_phrases": [
+                "the hand of the Lord was with them",
+                "a large number who believed turned to the Lord"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "11:22-24",
+            "section_title": "Barnabas Sent to Antioch",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Barnabas is sent to Antioch, witnesses the grace of God, rejoices, and exhorts the believers to remain true to the Lord with resolute heart; considerable numbers are added to the Lord.",
+            "relevance": "Barnabas's exhortation to 'remain true to the Lord with resolute heart' implies that perseverance requires genuine human intention and effort. The neutral reading explicitly notes that 'you do not exhort someone to continue doing something that is automatic or guaranteed' and that the verb prosmenō implies the possibility of not remaining. The qualifier 'with resolute heart' (prothesis tēs kardias) indicates continued faithfulness requires deliberate, sustained commitment. The passage uses the same covenant-faithfulness language applied to Israel (Deuteronomy 10:20, 11:22), treating ongoing human loyalty as genuinely required. The neutral reading identifies the deliberate tension between verse 18 (God grants the gift) and verse 23 (humans must remain): 'The gift inaugurates a relationship; the relationship must be maintained.'",
+            "key_phrases": [
+                "to remain true to the Lord",
+                "with resolute heart",
+                "he witnessed the grace of God"
+            ],
+            "confidence": "high"
+        },
+        {
+            "reference": "11:25-26",
+            "section_title": "Barnabas Retrieves Saul",
+            "category": "NOT_APPLICABLE",
+            "summary": "Barnabas goes to Tarsus to find Saul, brings him to Antioch, and they teach for a year; the disciples are first called Christians in Antioch."
+        },
+        {
+            "reference": "11:27-30",
+            "section_title": "Famine Relief -- The Antioch Community Acts",
+            "category": "NOT_APPLICABLE",
+            "summary": "Agabus prophesies a famine by the Spirit, and the Antioch community sends proportional financial relief to the Judean believers through Barnabas and Saul."
+        }
+    ]
+}

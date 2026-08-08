@@ -1,0 +1,84 @@
+{
+    "book": "Acts",
+    "chapter": 15,
+    "sections": [
+        {
+            "reference": "15:1-2",
+            "section_title": "The Crisis at Antioch",
+            "category": "NOT_APPLICABLE",
+            "summary": "Men from Judea teach that circumcision according to Moses is necessary for salvation, provoking sharp dissension with Paul and Barnabas and resulting in a delegation to Jerusalem for formal resolution."
+        },
+        {
+            "reference": "15:3",
+            "section_title": "The Journey Through Phoenicia and Samaria",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul and Barnabas travel to Jerusalem through Phoenicia and Samaria, reporting Gentile conversions and bringing great joy to the believing communities along the way."
+        },
+        {
+            "reference": "15:4-5",
+            "section_title": "Arrival in Jerusalem and the Pharisee Believers' Demand",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul and Barnabas are welcomed in Jerusalem and report what God did through them, but believing Pharisees insist that Gentile converts must be circumcised and ordered to keep the entire Law of Moses."
+        },
+        {
+            "reference": "15:6",
+            "section_title": "The Assembly",
+            "category": "NOT_APPLICABLE",
+            "summary": "The apostles and elders gather formally to deliberate on the question of what is required of Gentile believers."
+        },
+        {
+            "reference": "15:7-11",
+            "section_title": "Peter's Speech — God Already Settled This",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Peter argues from the Cornelius precedent that God chose him as the instrument through whom Gentiles would hear and believe, that God bore witness to the Gentiles by giving them the Holy Spirit without distinction, and that God cleansed their hearts by faith — concluding that all are saved through grace, not Torah observance.",
+            "relevance": "Peter uses election language (exelexato) but the neutral reading identifies the object of God's choice as Peter's vocational role — God chose him as the instrument through whom Gentiles would hear and believe — not as individual soteriological election. The phrase 'having cleansed their hearts by faith' (te pistei katharisas) presents faith as the instrumental means (dative of means) by which God accomplishes internal cleansing, positioning faith as a genuine human response that mediates divine action rather than something unilaterally imposed. Peter's conclusion that salvation is 'through the grace of the Lord Jesus' contrasts grace with Torah observance, not grace with human agency; the framework throughout assumes that Gentiles genuinely heard, believed, and turned to God, with the question being what additional requirements apply — not whether their response was authentic.",
+            "key_phrases": ["God made a choice among you, that through my mouth the Gentiles would hear the word of the gospel and believe", "having cleansed their hearts by faith", "he made no distinction between us and them", "we believe that we will be saved through the grace of the Lord Jesus, just as they will"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "15:12",
+            "section_title": "Barnabas and Paul's Testimony",
+            "category": "NOT_APPLICABLE",
+            "summary": "The assembly falls silent and listens as Barnabas and Paul report the signs and wonders God performed through them among the Gentiles during the first missionary journey."
+        },
+        {
+            "reference": "15:13-18",
+            "section_title": "James's Speech — Scripture Confirms What God Has Done",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James interprets Peter's testimony through the lens of Amos 9:11-12 (LXX), arguing that God's visitation of the Gentiles to take from them a people for his name fulfills the prophetic promise that the restoration of David's fallen tent would result in the nations seeking the Lord — a plan known from of old.",
+            "relevance": "James's summary contains language that could be read as deterministic: God 'visited' the Gentiles (divine initiative), took 'a people for his name' (divine purpose), and this was 'known from of old' (eternal plan). However, the neutral reading identifies the Amos quotation as describing corporate inclusion of Gentiles as a category, not individual predetermination. Critically, the LXX form James quotes says 'that the remnant of mankind may seek the Lord' — the verb 'seek' (ekzetesoosin) presents humans as genuine agents who seek God in response to what God has made possible through the rebuilding of David's tent. God creates the conditions for inclusion; humans seek within those conditions. The plan 'known from of old' is about the corporate purpose of Gentile inclusion, not about which specific individuals would or would not be saved.",
+            "key_phrases": ["God first visited the Gentiles, to take from them a people for his name", "that the remnant of mankind may seek the Lord", "all the Gentiles who are called by my name", "who makes these things known from of old"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "15:19-21",
+            "section_title": "James's Judgment — The Four Prohibitions",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James rules that Gentile believers who turn to God should not be troubled with circumcision or full Torah observance but should abstain from idol pollution, sexual immorality, strangled meat, and blood — requirements rooted in Torah's provisions for sojourners in Israel.",
+            "relevance": "James's formulation 'those of the Gentiles who turn to God' (tois apo ton ethnon epistrephousin epi ton theon) uses the standard conversion verb epistrephein, which describes a human act of turning. The neutral reading notes this is the standard vocabulary for conversion throughout Acts (3:19; 9:35; 11:21; 14:15; 26:18, 20). James assumes that Gentiles genuinely turn to God as agents, and his ruling addresses what should be required of people who have exercised that turning. The framework presupposes human agency in the act of conversion.",
+            "key_phrases": ["those of the Gentiles who turn to God", "we should not trouble"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "15:22-29",
+            "section_title": "The Letter",
+            "category": "NOT_APPLICABLE",
+            "summary": "The apostles, elders, and whole church send a formal letter to Gentile believers in Antioch, Syria, and Cilicia, disavowing the unauthorized teachers, affirming the four prohibitions as the only requirements, and claiming the decision reflects the will of the Holy Spirit alongside their own deliberation."
+        },
+        {
+            "reference": "15:30-35",
+            "section_title": "The Letter's Reception in Antioch",
+            "category": "NOT_APPLICABLE",
+            "summary": "The delegation delivers the letter in Antioch, where the community rejoices at its encouragement; Judas and Silas strengthen the believers as prophets before returning to Jerusalem in peace, while Paul and Barnabas remain teaching."
+        },
+        {
+            "reference": "15:36-41",
+            "section_title": "The Separation of Paul and Barnabas",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul and Barnabas have a sharp disagreement over John Mark's fitness for the second journey, resulting in their separation — Barnabas takes Mark to Cyprus while Paul takes Silas through Syria and Cilicia, strengthening the churches."
+        }
+    ]
+}

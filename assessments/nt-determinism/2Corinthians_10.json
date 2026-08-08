@@ -1,0 +1,58 @@
+{
+    "book": "2Corinthians",
+    "chapter": 10,
+    "sections": [
+        {
+            "reference": "10:1",
+            "section_title": "The Appeal and the Accusation It Answers",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul opens a personal defense of his apostolic authority by grounding his meek demeanor in the character of Christ, reframing opponents' accusations of weakness as conformity to Christ's own meekness and gentleness."
+        },
+        {
+            "reference": "10:2",
+            "section_title": "The Request to Avoid Confrontation",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul pleads with the Corinthians not to force him into a confrontation when he arrives, identifying a subset of the community that accuses him of walking 'according to the flesh' and operating by merely human power."
+        },
+        {
+            "reference": "10:3-6",
+            "section_title": "Warfare Not According to the Flesh",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes apostolic ministry as spiritual warfare using divinely empowered weapons to destroy intellectual strongholds and bring every thought captive to obedience to Christ, while distinguishing between a disobedient minority and an obedient majority whose response must be completed before he acts.",
+            "relevance": "The passage assumes that human obedience is a genuine response that must be actively rendered, not an automatic or predetermined outcome. Paul explicitly conditions his action on 'when your obedience is complete,' and the neutral reading notes that 'the completion is not guaranteed; it depends on the Corinthians' own response to the arguments now competing for their minds.' God's power destroys false arguments so that people can see clearly, but the framework treats the community's decision to obey or disobey as genuinely open.",
+            "key_phrases": ["when your obedience is complete", "take every thought captive to obey Christ", "being ready to punish every disobedience"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "10:7-8",
+            "section_title": "Belonging to Christ and the Purpose of Authority",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul asserts his equal claim to belong to Christ alongside the rival teachers and characterizes his divinely given authority as intended for building up the community rather than destroying it."
+        },
+        {
+            "reference": "10:9-11",
+            "section_title": "The Accusation About Letters and Presence",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul addresses the opponents' charge that his letters are forceful but his physical presence is weak and his speech contemptible, promising that his actions when present will match the force of his written words."
+        },
+        {
+            "reference": "10:12",
+            "section_title": "The Folly of Self-Measurement",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul sarcastically refuses to enter the rivals' self-referential system of comparing themselves with one another, declaring such closed-circuit self-commendation to be evidence of a lack of understanding."
+        },
+        {
+            "reference": "10:13-16",
+            "section_title": "The Limits of Legitimate Boasting",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul limits his boasting to the territory God assigned him, establishes his priority claim to Corinth as its founding evangelist, and contrasts his forward-looking missionary ambition with the rivals' parasitic practice of boasting in another apostle's labor."
+        },
+        {
+            "reference": "10:17-18",
+            "section_title": "The Only Boasting That Matters",
+            "category": "NOT_APPLICABLE",
+            "summary": "Citing Jeremiah 9:24, Paul eliminates all grounds for human boasting except boasting in the Lord and closes with the principle that only the one whom the Lord commends is genuinely approved, not the one who commends himself."
+        }
+    ]
+}

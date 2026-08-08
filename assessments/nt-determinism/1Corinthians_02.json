@@ -1,0 +1,48 @@
+{
+    "book": "1Corinthians",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-5",
+            "section_title": "Paul's Manner of Coming to Corinth",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul deliberately avoided impressive rhetoric when he came to Corinth so that the Corinthians' faith would rest on God's power rather than on human wisdom, an argument designed to undercut their factionalism over teachers."
+        },
+        {
+            "reference": "2:6-9",
+            "section_title": "God's Wisdom in a Mystery",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul describes a genuine wisdom spoken among the mature — God's hidden wisdom, decreed before the ages for the glory of believers, which the rulers of this age failed to understand and which exceeds all natural human perception.",
+            "relevance": "The verb proorisen ('decreed beforehand') connects to predestination vocabulary, but its object is the plan of salvation through the cross, not the identity of individuals who will be saved. God predetermined the method; the beneficiaries are separately identified as 'those who love him' (v. 9, adapting Isaiah 64:4), a characterization by responsive human disposition rather than by divine selection. The passage distinguishes what God predetermined (the wisdom-plan) from who benefits from it (those characterized by love for God).",
+            "key_phrases": [
+                "the hidden wisdom that God decreed before the ages for our glory",
+                "what God has prepared for those who love him",
+                "none of the rulers of this age understood this"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:10-13",
+            "section_title": "The Spirit as the Revealer of God's Depths",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Spirit bridges the epistemological gap between divine hiddenness and human perception, searching the depths of God and revealing to believers what God has freely given them, so that the entire chain of communication — content, language, and reception — is the Spirit's work."
+        },
+        {
+            "reference": "2:14-16",
+            "section_title": "The Natural Person and the Spiritual Person",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_determinism",
+            "summary": "Paul distinguishes the psychikos person, who operates from natural human faculties and cannot receive or understand the things of the Spirit, from the pneumatikos person, who possesses the Spirit and can evaluate all things — an argument designed to expose the Corinthians' use of worldly criteria to evaluate their teachers.",
+            "relevance": "Verse 14 ('the natural person does not accept the things of the Spirit of God... he is not able to understand them') is conventionally cited as proof of total inability — that unregenerate humans cannot respond to God without prior irresistible divine enabling. The neutral reading shows the passage addresses a different question: epistemological capacity for deeper spiritual discernment within the believing community, not the ability of unbelievers to respond to the initial gospel proclamation. The psychikos/pneumatikos distinction operates within Paul's argument against factionalism: the Corinthians are evaluating teachers by worldly wisdom-criteria (the psychikos mode) when they should be using Spirit-given discernment (the pneumatikos mode). Chapter 3:1-3 confirms this application — the Corinthians themselves received the gospel ('milk') and are 'in Christ' but are still called fleshly and infantile because they lack the maturity for deeper wisdom ('solid food'). The incapacity Paul describes is the inability of natural human faculties to discern God's hidden wisdom, not the inability of unregenerate people to believe the gospel message.",
+            "key_phrases": [
+                "the natural person does not accept the things of the Spirit of God",
+                "they are folly to him",
+                "he is not able to understand them because they are spiritually discerned",
+                "the spiritual person judges all things",
+                "we have the mind of Christ"
+            ],
+            "confidence": "high"
+        }
+    ]
+}

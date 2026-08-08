@@ -1,0 +1,72 @@
+{
+    "book": "1Timothy",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-2",
+            "section_title": "The Instruction to Pray for All People",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs the community to offer every form of prayer for all people, including rulers, so that the community may live a peaceful, godly, and dignified life."
+        },
+        {
+            "reference": "2:3-4",
+            "section_title": "The Theological Ground -- God's Desire to Save All",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul grounds the universal prayer instruction in the theological claim that God our Savior desires all people to be saved and to come to the knowledge of the truth.",
+            "relevance": "The text states that God actively desires (thelei) all people to be saved, yet the letter repeatedly acknowledges that some have shipwrecked their faith (1:19), swerved from it (1:6), and will depart from it (4:1). If God's unilateral will determined salvation outcomes, then either all would be saved (since God desires all to be saved) or 'all' would not mean all. The neutral reading takes 'all people' at face value as comprehensive and notes that the text states what God desires without claiming that this desire is always accomplished, implying that human response is what mediates between God's universal desire and actual salvation outcomes.",
+            "key_phrases": ["God our Savior", "who desires all people to be saved", "to come to the knowledge of the truth", "pantas anthropous"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:5-6",
+            "section_title": "One God, One Mediator, One Ransom",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul presents a compressed creedal statement: one God entails one mediator (the man Christ Jesus), who gave himself as a ransom for all at the appointed time.",
+            "relevance": "The oneness of God grounds the universality of salvation: because there is only one God, salvation is available to all humanity, not restricted to a predetermined subset. The ransom is explicitly 'for all' (hyper panton), extending the Markan 'for many' to universal scope. The mediator stands between God and 'men' (anthropon) without restriction. If salvation's provision is genuinely universal in scope, then what determines who benefits from it cannot be a prior divine restriction of its availability, pointing toward human response as the differentiating factor.",
+            "key_phrases": ["one God", "one mediator between God and men", "the man Christ Jesus", "a ransom for all", "hyper panton"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:7",
+            "section_title": "Paul's Apostolic Commission",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul declares his divine appointment as herald, apostle, and teacher of the Gentiles in faith and truth, connecting his commission to the universal gospel just articulated."
+        },
+        {
+            "reference": "2:8",
+            "section_title": "Instructions for Men in the Assembly",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs men to pray in every place with holy hands, free from the anger and quarreling that the false teaching has generated in the Ephesian assembly."
+        },
+        {
+            "reference": "2:9-10",
+            "section_title": "Instructions for Women in the Assembly",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs women to adorn themselves not with costly display but with good works befitting those who profess godliness, addressing the specific problem of ostentation in the Ephesian assembly."
+        },
+        {
+            "reference": "2:11-12",
+            "section_title": "Women, Learning, and the Restriction on Teaching",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul commands women to learn in quietness and submissiveness and does not permit them to teach or exercise authority over men, addressing a situation where women influenced by false teaching are asserting unauthorized teaching roles."
+        },
+        {
+            "reference": "2:13-14",
+            "section_title": "The Genesis Grounds",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul appeals to the creation order (Adam formed first) and Eve's deception as scriptural grounds for the teaching restriction, drawing a parallel between Eve's deception by the serpent and women in Ephesus being targeted by false teachers."
+        },
+        {
+            "reference": "2:15",
+            "section_title": "Saved Through Childbearing",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul states that women will be saved through 'the childbearing' (likely the messianic offspring of Genesis 3:15 and/or the legitimacy of marriage contra the false teachers), conditioned on their continuing in faith, love, holiness, and self-control.",
+            "relevance": "The conditional clause 'if they continue in faith and love and holiness, with self-control' (ean meinosin) is a third-class conditional in Greek, presenting the outcome as genuinely contingent on sustained human faithfulness. The neutral reading explicitly notes that continuation is 'not assumed; it is required' and that this fits the letter's pervasive pattern: faith can be shipwrecked (1:19), people swerve from it (1:6, 6:21), some will depart (4:1), and some have wandered away (6:10). Salvation is presented as real but realized through ongoing faithfulness rather than guaranteed by a prior divine decree.",
+            "key_phrases": ["she will be saved through childbearing", "if they continue in faith and love and holiness, with self-control", "ean meinosin"],
+            "confidence": "high"
+        }
+    ]
+}

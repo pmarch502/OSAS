@@ -1,0 +1,44 @@
+{
+    "book": "2Corinthians",
+    "chapter": 12,
+    "sections": [
+        {
+            "reference": "12:1-6",
+            "section_title": "The Heavenly Vision",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul describes being caught up to the third heaven fourteen years earlier, hearing unspeakable things, but deliberately refrains from boasting about the experience so that he will be judged only by his observable ministry of weakness."
+        },
+        {
+            "reference": "12:7-10",
+            "section_title": "The Thorn, the Appeal, and the Answer",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul recounts receiving a thorn in the flesh (a messenger of Satan given by God to prevent self-exaltation), his threefold prayer for its removal, and Christ's answer that divine grace is sufficient because power is perfected in weakness."
+        },
+        {
+            "reference": "12:11-13",
+            "section_title": "Apostolic Credentials Revisited",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul rebukes the Corinthians for forcing his fool's boast, asserts his equality with the super-apostles despite being 'nothing,' and notes that apostolic signs were performed among them with patient endurance."
+        },
+        {
+            "reference": "12:14-18",
+            "section_title": "The Financial Dispute",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul defends his refusal to accept financial support from Corinth using a parent-children metaphor, declares his willingness to spend and be spent for them, and refutes charges that he or his delegates profited through deceit."
+        },
+        {
+            "reference": "12:19-21",
+            "section_title": "The Pivot to Warning",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul expresses fear that when he visits he will find unrepented sin in the community — quarreling, jealousy, sexual immorality — and reframes his entire argument as aimed at their edification, not self-defense.",
+            "relevance": "The neutral reading finds that Paul treats repentance as a genuine human response that is expected but not guaranteed: some community members 'have not repented,' and their failure to do so threatens the community's standing before God. The reading explicitly concludes that 'belonging to Christ is not a settled, irreversible status that makes subsequent behavior irrelevant' and that 'what the community does with [grace] is not predetermined.' Paul's pastoral anguish presupposes that the Corinthians have real agency — they can repent or refuse to repent, and the outcome matters for their relationship to Christ.",
+            "key_phrases": [
+                "have not repented of the impurity, sexual immorality, and debauchery that they have practiced",
+                "I may have to mourn over many who previously sinned",
+                "Everything we do, beloved, is for the sake of building you up"
+            ],
+            "confidence": "high"
+        }
+    ]
+}

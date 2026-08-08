@@ -1,0 +1,60 @@
+{
+  "book": "Philippians",
+  "chapter": 1,
+  "sections": [
+    {
+      "reference": "1:1-2",
+      "section_title": "The Greeting",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul and Timothy identify themselves as slaves of Christ Jesus and address the saints in Philippi, including overseers and deacons, with the standard grace-and-peace formula."
+    },
+    {
+      "reference": "1:3-8",
+      "section_title": "Thanksgiving and the Language of Partnership",
+      "category": "LEANS_DETERMINISTIC",
+      "conventional_use": "cited_for_determinism",
+      "summary": "Paul thanks God for the Philippians' sustained partnership (koinonia) in the gospel from the first day until now, and expresses confidence that God who began a good work in them will bring it to completion until the day of Christ Jesus.",
+      "relevance": "Verse 6 presents God as both the initiator and the completer of the 'good work' in the community, and the neutral reading explicitly states that 'the confidence is not that the Philippians will persevere by their own strength but that God who started the work will bring it to completion.' This has deterministic implications for the question of who ensures salvation outcomes -- God is the guarantor. However, the 'good work' is defined within the context of koinonia (active partnership), and the community's sustained faithfulness is presented as evidence of God's ongoing work rather than as irrelevant to it. The neutral reading notes the logic is not 'they are so faithful they will surely continue' but 'God who started this is the kind of God who finishes what he starts, and their faithfulness is proof that he is still at work.' Human participation is not excluded but is reframed as evidence of divine activity.",
+      "key_phrases": ["He who began a good work in you will perfect it until the day of Christ Jesus", "your participation in the gospel from the first day until now", "you all are partakers of grace with me"],
+      "confidence": "medium"
+    },
+    {
+      "reference": "1:9-11",
+      "section_title": "Paul's Prayer for the Community",
+      "category": "LEANS_LIBERTARIAN",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul prays that the Philippians' love would abound in knowledge and discernment so they can approve what is excellent, be sincere and blameless until the day of Christ, and be filled with the fruit of righteousness that comes through Jesus Christ to God's glory.",
+      "relevance": "The prayer assumes genuine human moral agency: the community must grow in love, exercise discernment, test and approve what is excellent, and maintain sincerity and blamelessness 'until the day of Christ.' The neutral reading traces a trajectory in which each element depends on the previous -- love grows in knowledge, knowledge enables approval, approval produces character -- and describes this as 'a growing, discerning, fruit-bearing engagement with God's purposes.' The connection to 'the day of Christ' links this moral growth to eschatological standing, implying that human choices in discernment and moral life bear on outcomes at the final day. The fruit of righteousness comes 'through Jesus Christ,' acknowledging divine mediation, but the emphasis falls on what the community must actively cultivate.",
+      "key_phrases": ["that your love may abound still more and more in real knowledge and all discernment", "so that you may approve the things that are excellent", "sincere and blameless until the day of Christ", "the fruit of righteousness which comes through Jesus Christ"],
+      "confidence": "low"
+    },
+    {
+      "reference": "1:12-14",
+      "section_title": "Paul's Imprisonment Advances the Gospel",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul reports that his imprisonment has resulted in the gospel's advancement: his chains are recognized as being for Christ throughout the praetorium, and most of the brethren have been emboldened to speak the word of God fearlessly."
+    },
+    {
+      "reference": "1:15-18a",
+      "section_title": "Different Motives, Same Proclamation",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul acknowledges that some preach Christ from envy and rivalry while others preach from goodwill and love, but he rejoices that Christ is proclaimed regardless of the preachers' motives."
+    },
+    {
+      "reference": "1:18b-26",
+      "section_title": "Paul's Deliberation Between Life and Death",
+      "category": "NOT_APPLICABLE",
+      "summary": "Paul expresses confidence in his ultimate deliverance, declares that for him to live is Christ and to die is gain, deliberates between his desire to depart and be with Christ and the community's need for his continued presence, and concludes that he expects to remain for their progress and joy in the faith."
+    },
+    {
+      "reference": "1:27-30",
+      "section_title": "Living Worthy of the Gospel",
+      "category": "LEANS_DETERMINISTIC",
+      "conventional_use": "cited_for_determinism",
+      "summary": "Paul charges the community to conduct their citizenship worthily of the gospel, standing firm in one spirit and striving together for the faith, unalarmed by opponents, and states that both believing in Christ and suffering for his sake have been granted to them as a divine gift.",
+      "relevance": "Verse 29 is a conventional proof-text for determinism, cited to argue that faith itself is a unilateral divine gift. The neutral reading confirms that the verb charizomai ('to grant as a favor, to bestow graciously') presents both believing and suffering as divine grace-gifts: 'Both believing and suffering are presented as divine gifts. This is remarkable: suffering is not merely an unfortunate consequence of faith but a grace granted by God.' Verse 28 adds that the contrasting outcomes -- destruction for opponents, salvation for the community -- are 'from God' (apo theou). These elements favor a deterministic reading: faith originates as divine gift, and the contrasting outcomes of salvation and destruction are attributed to God. However, the section's dominant rhetorical move is to reframe suffering as vocation, and the parallel construction (believing AND suffering as gifts) suggests the point is the divine purposing of the community's entire experience rather than the mechanism of faith's origin. Further, the surrounding verses command active human response: 'conduct yourselves' (politeuomai), 'standing firm,' 'striving together,' 'in no way alarmed' -- none of which is presented as optional or irrelevant. Human agency is assumed throughout the section even as faith and its consequences are attributed to God's gift.",
+      "key_phrases": ["to you it has been granted for Christ's sake, not only to believe in Him, but also to suffer for His sake", "a sign of destruction for them, but of salvation for you, and that too, from God", "conduct yourselves in a manner worthy of the gospel", "standing firm in one spirit"],
+      "confidence": "medium"
+    }
+  ]
+}

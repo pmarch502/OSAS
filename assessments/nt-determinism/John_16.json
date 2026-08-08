@@ -1,0 +1,70 @@
+{
+    "book": "John",
+    "chapter": 16,
+    "sections": [
+        {
+            "reference": "16:1-4a",
+            "section_title": "The Purpose of the Persecution Warning",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus explains that he has warned the disciples about coming persecution (synagogue expulsion and religiously motivated killing) so that they will not stumble when it arrives.",
+            "relevance": "The stated purpose of the warning is to prevent the disciples from stumbling (skandalisthete), a verb the neutral reading connects to 6:61-66 where disciples 'withdrew and were not walking with him anymore.' The prophylactic logic presupposes that the disciples could genuinely fall away -- that without advance warning, persecution might trap them into 'abandoning their allegiance.' This assumes the disciples' continued faithfulness is a real human responsibility that can succeed or fail, not a foreordained outcome.",
+            "key_phrases": ["so that you may be kept from stumbling", "you may remember that I told you of them"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "16:4b-7",
+            "section_title": "The Departure and the Advantage of Going Away",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus reframes his departure as advantageous because it is the precondition for the Spirit's coming, which will provide interior, universal, and permanent presence replacing Jesus's exterior, local, and temporary physical presence."
+        },
+        {
+            "reference": "16:8-11",
+            "section_title": "The Spirit's Work of Convicting the World",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The Spirit will convict the world concerning sin (unbelief in Jesus), righteousness (Jesus's vindication by the Father), and judgment (the ruler of this world has been judged).",
+            "relevance": "The definitive sin the Spirit exposes is unbelief: 'they do not believe in me,' stated in the present tense as an ongoing condition. The neutral reading traces the document's sustained definition of sin as the rejection of Jesus -- a relational failure, not a predetermined condition. The Spirit's role is forensic exposure ('to convict, to expose, to bring to light'), demonstrating the world's wrongness rather than unilaterally overriding it. The text presents unbelief as the world's own posture that the Spirit exposes, not as something God imposed on the world.",
+            "key_phrases": ["will convict the world concerning sin", "because they do not believe in Me", "the ruler of this world has been judged"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "16:12-15",
+            "section_title": "The Spirit Guiding into All Truth",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus promises that the Spirit of truth will guide the disciples into all truth by speaking what he hears, disclosing what is to come, and glorifying Jesus by taking what belongs to him and making it known to the disciples."
+        },
+        {
+            "reference": "16:16-22",
+            "section_title": "Grief Turning to Joy",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus uses the 'little while' saying and the birth-pains image drawn from Israel's prophetic literature to describe the transformation of the disciples' grief at his death into permanent joy at his resurrection, a joy that 'no one will take away.'"
+        },
+        {
+            "reference": "16:23-24",
+            "section_title": "Asking in Jesus's Name",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus promises that after his departure the disciples will have direct access to the Father in prayer, asking in Jesus's name, and that answered prayer will bring fullness of joy."
+        },
+        {
+            "reference": "16:25-28",
+            "section_title": "Plain Speech about the Father",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus announces the coming shift from figurative to plain speech about the Father, and declares that the Father himself loves the disciples because they have loved Jesus and believed in his divine origin.",
+            "relevance": "The Father's personal love (philei) for the disciples is explicitly conditioned on their human response: 'because you have loved Me and have believed that I came forth from the Father.' The neutral reading emphasizes that the perfect tenses (pephelekate, pepisteukate) describe completed actions with ongoing results -- the disciples' loving and believing are presented as genuine human responses that establish their relationship with the Father. The text does not present the Father's love as unilateral determination but as responsive to human faith and love, extending the Father's love for the Son to those who love the Son.",
+            "key_phrases": ["the Father Himself loves you", "because you have loved Me and have believed that I came forth from the Father"],
+            "confidence": "high"
+        },
+        {
+            "reference": "16:29-33",
+            "section_title": "The Disciples' Premature Confidence and Jesus's Final Declaration",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The disciples prematurely declare their understanding and belief; Jesus predicts their imminent scattering and closes the farewell discourse with the declaration that he has overcome the world, offering peace and courage grounded in his accomplished victory.",
+            "relevance": "The section presents the disciples' belief as genuine but fragile -- real enough to confess, insufficient to sustain them through the coming crisis. Their scattering is predicted as a genuine human failure: 'their belief and their imminent failure coexist in the same moment.' The imperative 'take courage' (tharseite) presupposes that the disciples must exercise a genuine human response to Jesus's accomplished victory. The ground of peace and courage is Jesus's work ('I have overcome the world'), but the disciples must still respond by taking courage and remaining 'in me' (en emoi). The neutral reading notes that their peace is 'located in the relationship with Jesus' -- a relationship that requires their participation (the vine metaphor's 'abide in me'), not one sustained by divine fiat alone.",
+            "key_phrases": ["Do you now believe?", "you to be scattered, each to his own home, and to leave Me alone", "in Me you may have peace", "take courage; I have overcome the world"],
+            "confidence": "medium"
+        }
+    ]
+}

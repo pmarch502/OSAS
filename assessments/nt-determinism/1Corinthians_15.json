@@ -1,0 +1,78 @@
+{
+    "book": "1Corinthians",
+    "chapter": 15,
+    "sections": [
+        {
+            "reference": "15:1-2",
+            "section_title": "The Gospel in Which They Stand -- Conditionally",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul presents salvation as an ongoing process ('you are being saved') conditioned on the community's continued holding fast to the gospel, with the real possibility that their initial believing was 'in vain.'",
+            "relevance": "Paul directly addresses the community's salvation as conditional on ongoing human faithfulness. The present tense 'being saved' (sozesthe) refuses to treat salvation as a completed past event, and the conditional clause 'if you hold fast' (ei katechete) makes human agency a genuine determinant of whether salvation continues. The possibility of believing 'in vain' (eike) is raised as a real danger, not a rhetorical impossibility -- Paul will spend the chapter demonstrating what would make faith vain. This is part of Paul's own foundational argument, not an aside: the conditionality frames the entire chapter and is echoed in the closing exhortation (v. 58).",
+            "key_phrases": ["by which you are being saved", "if you hold fast to the word I preached to you", "unless you believed in vain"],
+            "confidence": "high"
+        },
+        {
+            "reference": "15:3-5",
+            "section_title": "The Received Tradition -- The Kerygma",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul states the core kerygma as received tradition: Christ died for our sins according to the Scriptures, was buried, was raised on the third day according to the Scriptures, and appeared to Cephas and the twelve."
+        },
+        {
+            "reference": "15:6-11",
+            "section_title": "The Extended Witness List and Paul's Apostolic Standing",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul extends the resurrection witness list to over five hundred, then to James and all the apostles, and describes his own apostolic commissioning as a work of divine grace that produced genuine apostolic labor."
+        },
+        {
+            "reference": "15:12-19",
+            "section_title": "If No Resurrection, Then Everything Collapses",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul demonstrates through reductio ad absurdum that denying the general resurrection entails denying Christ's resurrection, which would empty the preaching, empty the faith, make the apostles false witnesses, leave the community still in its sins, consign the dead in Christ to destruction, and render Christians the most pitiable of all people."
+        },
+        {
+            "reference": "15:20-28",
+            "section_title": "Christ the Firstfruits and the Subjection of All Things",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul describes the cosmic sequence of resurrection events: Christ as firstfruits, then the resurrection of 'those who belong to Christ' at his parousia, then the end when Christ delivers the kingdom to the Father after destroying every hostile power including death, so that God may be all in all."
+        },
+        {
+            "reference": "15:29-34",
+            "section_title": "Practical Consequences of the Resurrection",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul appeals to the community's practice of baptism for the dead and his own daily mortal danger as practical evidence that the resurrection is assumed, then warns against the corrupting influence of resurrection-deniers and commands the community to sober up and stop sinning.",
+            "relevance": "The imperatives 'do not be deceived,' 'sober up righteously,' and 'stop sinning' presuppose genuine human capacity for moral and spiritual response. The warning that 'bad company corrupts good morals' treats the community members' choices about association as consequential for their spiritual condition. Since the chapter opened by establishing that salvation is conditional on holding fast (v. 2), these warnings about influences that corrode faith bear on whether the community maintains or forfeits its saved status through genuine choices. The rebuke that 'some have no knowledge of God' identifies a spiritual failure within the community that the members are responsible for addressing.",
+            "key_phrases": ["Do not be deceived", "Bad company ruins good morals", "Come to your right mind, and sin no more", "some have no knowledge of God", "I say this to your shame"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "15:35-41",
+            "section_title": "The Seed Analogy and the Diversity of Bodies",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul addresses the skeptic's objection about the resurrection body through analogies from agriculture and the diversity of flesh and celestial bodies in creation, demonstrating that God gives each seed its own body and that radically different forms of embodiment already exist."
+        },
+        {
+            "reference": "15:42-49",
+            "section_title": "The Resurrection Body Contrasted with the Present Body",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul describes the transformation from the present body (perishable, dishonorable, weak, natural/psychikon) to the resurrection body (imperishable, glorious, powerful, spiritual/pneumatikon), grounding the contrast in the Adam/Christ typology drawn from Genesis."
+        },
+        {
+            "reference": "15:50-57",
+            "section_title": "The Mystery -- Transformation, Victory, and the Defeat of Death",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul reveals the mystery that all will be transformed instantaneously at the last trumpet, fulfilling Isaiah 25:8 and Hosea 13:14 as death is swallowed in victory and its sting removed, with God giving the victory through Christ."
+        },
+        {
+            "reference": "15:58",
+            "section_title": "The Concluding Exhortation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul exhorts the community to be steadfast, immovable, and always abounding in the Lord's work, assuring them that their labor in the Lord is not in vain.",
+            "relevance": "The exhortation to steadfastness and immovability directly echoes the conditionality of v. 2 ('if you hold fast') and presupposes genuine human agency in ongoing faithfulness. The assurance that 'your labor is not in vain' answers the opening warning that they may have 'believed in vain' (v. 2), forming an inclusio that frames the entire chapter in terms of human responsibility to maintain faithful commitment. The commands are meaningful only if the community can genuinely choose to be steadfast or not -- if their perseverance were unilaterally determined, the exhortation would be superfluous.",
+            "key_phrases": ["be steadfast, immovable", "always abounding in the work of the Lord", "your labor is not in vain"],
+            "confidence": "medium"
+        }
+    ]
+}

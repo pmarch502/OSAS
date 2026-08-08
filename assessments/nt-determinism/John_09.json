@@ -1,0 +1,70 @@
+{
+    "book": "John",
+    "chapter": 9,
+    "sections": [
+        {
+            "reference": "9:1-5",
+            "section_title": "The Disciples' Question, Jesus's Answer, and the Purpose of the Work",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus encounters a man blind from birth, rejects the sin-causation framework for his blindness, and declares that the blindness exists so that God's works may be displayed in him, then reaffirms his identity as the light of the world."
+        },
+        {
+            "reference": "9:6-7",
+            "section_title": "The Healing",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus makes clay from spittle, applies it to the man's eyes, and sends him to wash in the Pool of Siloam, after which the man returns seeing — the healing echoes Genesis creation imagery and requires the man's obedience at each step."
+        },
+        {
+            "reference": "9:8-12",
+            "section_title": "The Neighbors' Inquiry",
+            "category": "NOT_APPLICABLE",
+            "summary": "The man's neighbors and acquaintances debate whether this is the same man who was a blind beggar, and the man identifies his healer only as 'the man called Jesus.'"
+        },
+        {
+            "reference": "9:13-17",
+            "section_title": "The Pharisees' First Investigation",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Pharisees investigate the Sabbath healing and divide over whether Jesus can be from God given the Sabbath violation, while the healed man advances his identification of Jesus from 'a man' to 'a prophet.'"
+        },
+        {
+            "reference": "9:18-23",
+            "section_title": "The Interrogation of the Parents",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The parents confirm their son was born blind and now sees, but refuse to identify who healed him or interpret the event, because they fear the formal decree that anyone confessing Jesus as Christ will be expelled from the synagogue.",
+            "relevance": "The parents are presented as genuine agents making a free choice between confession and silence. Their refusal to confess is driven by their own fear of institutional consequences, not by divine determination. The text presents public confession of Jesus as a genuine human decision that can be freely made or refused, with the parents' choice to prioritize communal security over truthful testimony being entirely their own.",
+            "key_phrases": ["His parents said these things because they feared the Jews", "if anyone confessed him to be Christ, he was to be put out of the synagogue", "He is of age; ask him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "9:24-34",
+            "section_title": "The Second Interrogation and the Man's Expulsion",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Under oath the healed man constructs a theological argument that Jesus must be from God since God does not empower sinners, an argument the authorities cannot refute; they respond by insulting him and expelling him from the synagogue.",
+            "relevance": "The man and the Pharisees are presented with identical evidence — an unprecedented miracle — yet respond in opposite directions. The man follows the evidence to its conclusion ('If this man were not from God, he could do nothing') while the authorities refuse to follow their own theological principles where the evidence leads. The text presents the barrier to belief not as divine withholding but as human unwillingness: the authorities' rejection arises from their refusal to accept evidence that contradicts their prior verdict, not from any divine determination of their response.",
+            "key_phrases": ["one thing I do know, that though I was blind, now I see", "I told you already and you did not listen", "If this man were not from God, he could do nothing", "You were born entirely in sins, and are you teaching us?", "they put him out"],
+            "confidence": "high"
+        },
+        {
+            "reference": "9:35-38",
+            "section_title": "Jesus Finds the Man",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus seeks out the expelled man, asks if he believes in the Son of Man, reveals himself, and receives the man's confession of faith and worship.",
+            "relevance": "The passage shows divine initiative (Jesus finds the man, both times unsought) paired with genuine human response (the man is willing to believe, asks 'Who is he, Lord, that I may believe?', and freely confesses). The man's response is not coerced, predetermined, or rendered irrelevant by Jesus's initiative — his willingness is described as his own disposition. The pattern presents faith as a cooperative dynamic in which God initiates the encounter but the human genuinely responds.",
+            "key_phrases": ["finding him, he said, 'Do you believe in the Son of Man?'", "Who is he, Lord, that I may believe in him?", "Lord, I believe", "he worshiped him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "9:39-41",
+            "section_title": "Judgment, Sight, and Blindness",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus declares that his coming enacts a judgment in which those who do not see receive sight and those who claim to see become blind, then tells the Pharisees that their claim to see is precisely what causes their sin to remain.",
+            "relevance": "The text presents judgment not as an externally imposed divine decree but as a separation produced by human response to the light. The Pharisees' sin 'remains' because of their own posture — they say 'We see' while refusing to acknowledge what is in front of them. Jesus makes their spiritual outcome contingent on their own choice: if they were genuinely ignorant, they would have no sin, but because they claim knowledge while rejecting the evidence, their guilt persists. The determining factor in their spiritual standing is their own willful refusal, not divine predetermination.",
+            "key_phrases": ["For judgment I came into this world, so that those who do not see may see, and that those who see may become blind", "If you were blind, you would have no sin; but since you say, 'We see,' your sin remains"],
+            "confidence": "high"
+        }
+    ]
+}

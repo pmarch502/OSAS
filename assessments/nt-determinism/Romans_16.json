@@ -1,0 +1,46 @@
+{
+    "book": "Romans",
+    "chapter": 16,
+    "sections": [
+        {
+            "reference": "16:1-2",
+            "section_title": "The Commendation of Phoebe",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul formally commends Phoebe as the letter-bearer and patron (prostatis) of the Cenchreaean community, requesting that the Roman believers receive her hospitably and assist her in whatever business she has in Rome."
+        },
+        {
+            "reference": "16:3-16",
+            "section_title": "Greetings to Persons in the Roman Community",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul greets twenty-six or more named individuals in Rome — Jewish and Gentile, slave and free, male and female — characterizing them as fellow workers, beloved, approved, and laborers, thereby embodying the social diversity and unity the letter has argued for."
+        },
+        {
+            "reference": "16:17-20",
+            "section_title": "Warning Against Divisive Persons",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul warns the community to identify and avoid persons who create divisions and stumbling blocks contrary to the teaching they received, exposing these persons as servants of their own appetites who deceive the unsuspecting through smooth speech, and promising that the God of peace will soon crush Satan under the community's feet."
+        },
+        {
+            "reference": "16:21-24",
+            "section_title": "Greetings from Paul's Companions",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul relays greetings from his companions in Corinth — Timothy, Jewish kinsmen, the scribe Tertius, the wealthy host Gaius, the city treasurer Erastus, and the brother Quartus — revealing the same social diversity in the sending community as in the receiving one."
+        },
+        {
+            "reference": "16:25-27",
+            "section_title": "The Doxology — The Mystery Revealed to All Nations",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The doxology praises God who is able to establish believers according to the gospel, describing the revelation of a mystery kept silent for ages but now disclosed through the prophetic scriptures to all the nations, leading to the obedience of faith.",
+            "relevance": "The doxology's structure presents a framework of divine initiative met with genuine human response. God sovereignly controls the plan — the mystery was kept silent for ages and disclosed according to the command of the eternal God — but the stated purpose of the entire disclosure is 'the obedience of faith' (eis hypakoen pisteos) among 'all the nations.' This phrase forms a deliberate inclusio with 1:5, framing the entire letter's argument. The pattern — divine revelation through prophetic scriptures, made known universally, for the purpose of eliciting faith — implies that faith is a genuine human response the disclosure is designed to produce. If individual salvation outcomes were unilaterally predetermined, the elaborate apparatus of universal proclamation 'to all the nations' for the purpose of producing 'the obedience of faith' would be structurally unnecessary. The passage does not directly address the mechanism of individual response, but its teleological framework assumes that the revelation calls for and expects genuine human hearing and responding.",
+            "key_phrases": [
+                "to Him who is able to establish you",
+                "the revelation of the mystery which has been kept secret for long ages past",
+                "according to the commandment of the eternal God",
+                "has been made known to all the nations",
+                "leading to obedience of faith"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

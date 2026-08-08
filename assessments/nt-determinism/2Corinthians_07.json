@@ -1,0 +1,50 @@
+{
+    "book": "2Corinthians",
+    "chapter": 7,
+    "sections": [
+        {
+            "reference": "7:1",
+            "section_title": "The Demands of the Promises",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul draws the practical consequence from the covenant promises of 6:16-18, calling the community to cleanse itself from every defilement and bring holiness to completion in the fear of God.",
+            "relevance": "The neutral reading emphasizes that the promises of God generate demands rather than passive assurance: 'The Spirit who writes on hearts does not produce passivity -- the community actively cleanses itself.' The hortatory subjunctive 'let us cleanse ourselves' presents holiness as an ongoing process requiring genuine human participation, and the indicative-to-imperative logic (God has promised, therefore cleanse yourselves) frames divine action as empowering human responsibility rather than replacing it. This bears on the determinism question because it presents sanctification -- which is connected to remaining within God's covenant community -- as contingent on active human effort.",
+            "key_phrases": ["let us cleanse ourselves from every defilement of body and spirit", "bringing holiness to completion in the fear of God", "the promises of God carry demands"],
+            "confidence": "high"
+        },
+        {
+            "reference": "7:2-4",
+            "section_title": "The Renewed Appeal and Paul's Overflowing Joy",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul resumes his appeal for open hearts, defends his integrity with a triple denial of wrongdoing, declares his unbreakable bond with the Corinthians, and pours out his boldness, pride, comfort, and overflowing joy."
+        },
+        {
+            "reference": "7:5-7",
+            "section_title": "The Narrative Resumed -- Titus's Arrival and God's Comfort",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul resumes the travel narrative interrupted at 2:13, reporting his affliction in Macedonia and the comfort God provided through Titus's arrival bearing good news of the Corinthians' longing, mourning, and zeal."
+        },
+        {
+            "reference": "7:8-11",
+            "section_title": "The Severe Letter and the Distinction Between Godly and Worldly Grief",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul distinguishes between godly grief, which produces repentance leading to salvation, and worldly grief, which produces death, and enumerates the seven-fold evidence that the Corinthians' grief was godly.",
+            "relevance": "This is the chapter's most consequential passage for the determinism question. Paul directly argues that two types of human response to confrontation lead to two opposite salvation outcomes: godly grief produces repentance leading to salvation (7:10a), while worldly grief produces death (7:10b). The neutral reading states explicitly that 'salvation here is connected to an active human response -- repentance -- which is itself produced by a specific quality of grief.' The community's willingness to be grieved according to God rather than according to the world is what kept them on the trajectory of salvation. The text presents no third option and no suggestion that the outcome was predetermined -- the Corinthians could have responded with worldly grief (as Saul did, per the neutral reading's illustration), and the result would have been death. Their active response -- earnestness, eagerness, indignation, fear, longing, zeal, and punishment -- is presented as genuine human agency that determined their standing before God.",
+            "key_phrases": ["godly grief produces a repentance that leads to salvation without regret", "worldly grief produces death", "you were grieved into repenting", "at every point you have proved yourselves innocent in the matter"],
+            "confidence": "high"
+        },
+        {
+            "reference": "7:12",
+            "section_title": "The Deeper Purpose of the Severe Letter",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul reveals that the severe letter's ultimate purpose was not about the offender or the victim but about revealing the community's own earnestness to themselves in the sight of God."
+        },
+        {
+            "reference": "7:13-16",
+            "section_title": "The Joy of Titus and Paul's Complete Confidence",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul reports the comfort chain's completion through Titus's refreshment by the Corinthians, confirms that his boasting about them proved true, and declares complete confidence in them, resolving the relational crisis and preparing for the collection appeal."
+        }
+    ]
+}

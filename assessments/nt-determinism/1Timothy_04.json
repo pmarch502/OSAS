@@ -1,0 +1,36 @@
+{
+    "book": "1Timothy",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-5",
+            "section_title": "The Spirit's Warning About Departure from the Faith",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The Spirit explicitly warns that some will depart from the faith by devoting themselves to demonic teachings delivered through human agents whose consciences have been self-seared, with the specific false content being ascetic prohibitions against marriage and food that deny the goodness of God's creation.",
+            "relevance": "The passage presents departure from the faith as a genuine human action: insiders deliberately 'stand away from' a position they previously occupied. The neutral reading identifies the searing of conscience as self-inflicted, describing 'the interior anatomy of apostasy' as a progression from ignoring conscience, to actively pushing it away, to destroying it through repeated violation. The emphatic pronoun 'their own' conscience underscores that 'no one seared it from outside. The destruction is self-inflicted, the result of their own persistent refusal.' This implies genuine human agency in both maintaining and forfeiting faith.",
+            "key_phrases": ["some will depart from the faith", "devoting themselves to deceitful spirits", "whose consciences are seared", "the destruction is self-inflicted, the result of their own persistent refusal to heed what their conscience told them"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:6-10",
+            "section_title": "Timothy as a Good Servant — Nourished by Sound Teaching, Trained for Godliness",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul instructs Timothy to be a good servant nourished on sound teaching, to reject myths and train himself for godliness which holds promise for both present and future life, grounding this effort in hope set on the living God who is the Savior of all people, especially of those who believe.",
+            "relevance": "Verse 10 is a recognized proof-text: God is 'the Savior of all people, especially of those who believe.' The neutral reading finds that the distinction is 'between the scope of God's intention (all) and the locus of its realization (especially believers),' making belief the factor that distinguishes who experiences God's universal saving purpose rather than a prior divine selection. The passage does not directly argue the determinism question but embeds it within a larger argument about godliness and hope, where human effort is foregrounded: 'train yourself for godliness,' 'we toil and strive,' 'we have set our hope on the living God.'",
+            "key_phrases": ["train yourself for godliness", "we toil and strive", "we have set our hope on the living God", "who is the Savior of all people, especially of those who believe"],
+            "confidence": "high"
+        },
+        {
+            "reference": "4:11-16",
+            "section_title": "The Charge to Timothy — Teach, Model, Persist",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "Paul charges Timothy to command and teach sound doctrine, model exemplary conduct in five areas, devote himself to public Scripture reading and teaching, use his gift, and persist in watching his life and teaching, because by doing so he will save both himself and his hearers.",
+            "relevance": "Verse 16 directly addresses human agency as determining salvation outcomes within the author's own argument: 'by doing this you will save both yourself and your hearers.' The neutral reading identifies the conditional logic as 'unmistakable' — the participle of condition makes saving contingent on doing. It concludes: 'The letter does not present salvation as a settled possession that, once obtained, cannot be lost. It presents salvation as a reality that is entered through faith, sustained through faithfulness, and completed through perseverance — and that can be lost through departure, neglect, or the searing of conscience.' Timothy's perseverance is the condition under which both his own salvation and that of his hearers is realized.",
+            "key_phrases": ["persist in this, for by so doing you will save both yourself and your hearers", "the saving is contingent on the doing", "if he does not persist, he will not"],
+            "confidence": "high"
+        }
+    ]
+}

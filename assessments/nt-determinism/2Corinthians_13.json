@@ -1,0 +1,62 @@
+{
+    "book": "2Corinthians",
+    "chapter": 13,
+    "sections": [
+        {
+            "reference": "13:1-2",
+            "section_title": "The Third Visit and the Standard of Evidence",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul announces his imminent third visit, invokes the Deuteronomic standard of multiple witnesses for judicial proceedings, and warns that he will not spare the unrepentant offenders as he did previously."
+        },
+        {
+            "reference": "13:3-4",
+            "section_title": "The Christological Pattern of Weakness and Power",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul grounds his apostolic authority in the christological pattern of Christ crucified in weakness but living by God's power, and identifies his own ministry as participating in both sides of that pattern."
+        },
+        {
+            "reference": "13:5-7",
+            "section_title": "The Reversal: Test Yourselves, Not Paul",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul reverses the Corinthians' demand for proof of his legitimacy by commanding them to examine themselves to see whether they are in the faith, and then declares he would rather appear to fail the test himself than have the community do wrong.",
+            "relevance": "The command to examine oneself to determine whether one is 'in the faith' presupposes that being in the faith is a condition that can be present or absent, and that the individuals themselves can assess and affect it. The real possibility of being adokimoi (counterfeit, disqualified) implies that standing before God is not irrevocably fixed. Paul's prayer 'that you may do what is right' and his willingness to appear failed if they succeed both treat human moral and spiritual response as genuinely consequential rather than predetermined.",
+            "key_phrases": [
+                "Examine yourselves, to see whether you are in the faith",
+                "unless indeed you fail to meet the test",
+                "that you may not do wrong",
+                "that you may do what is right",
+                "though we may seem to have failed"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:8-10",
+            "section_title": "Truth, Weakness, and the Purpose of Authority",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul states that apostolic authority can only operate for the truth, rejoices when the community is strong enough that he does not need to exercise discipline, prays for their restoration, and explains that he writes these warnings while absent so that his visit can be constructive rather than severe.",
+            "relevance": "The neutral reading explicitly states that the community 'cannot simply wait passively for repair; it must participate in the process' of restoration. The middle/passive voice of katartizesthe allows both 'let yourselves be restored' and 'restore yourselves,' presenting spiritual mending as requiring genuine human cooperation. Paul's authority is structurally limited by truth and can only build up, implying that the community's response to that authority is a real variable, not a foregone conclusion.",
+            "key_phrases": [
+                "Your restoration is what we pray for",
+                "the authority that the Lord has given me for building up and not for tearing down",
+                "we are glad when we are weak and you are strong"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:11-14",
+            "section_title": "Final Exhortations and Benediction",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul closes the letter with imperatives to rejoice, pursue restoration, comfort one another, agree, and live in peace, followed by a conditional promise of God's presence, the holy kiss, greetings from the saints, and the trinitarian benediction encompassing the entire community.",
+            "relevance": "The series of imperatives (aim for restoration, comfort one another, agree, live in peace) treats the community as genuine agents whose choices shape their communal life. The conditional promise that follows — 'the God of love and peace will be with you' — makes God's experienced presence contingent on the community's conduct. The neutral reading states the conditionality is 'implicit in the syntax but real in the logic,' indicating that human response genuinely affects the community's relationship with God rather than that outcome being unilaterally determined.",
+            "key_phrases": [
+                "Aim for restoration, comfort one another, agree with one another, live in peace",
+                "and the God of love and peace will be with you",
+                "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all"
+            ],
+            "confidence": "medium"
+        }
+    ]
+}

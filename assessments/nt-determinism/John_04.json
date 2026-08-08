@@ -1,0 +1,90 @@
+{
+    "book": "John",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-3",
+            "section_title": "Departure from Judea",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus departs Judea for Galilee after the Pharisees learn he is making more disciples than John, with a parenthetical clarification that his disciples, not Jesus himself, were performing the baptisms."
+        },
+        {
+            "reference": "4:4-6",
+            "section_title": "The Necessity of Samaria and Jacob's Well",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author uses the theologically charged term 'edei' (it was necessary) for Jesus's route through Samaria, locates the encounter at Jacob's well on Jacob's land, and establishes the incarnational detail of Jesus's physical weariness and the noon setting that contrasts with Nicodemus's nighttime approach."
+        },
+        {
+            "reference": "4:7-9",
+            "section_title": "The Request for Water",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus initiates conversation with a Samaritan woman by requesting water, crossing ethnic, gender, and social boundaries simultaneously, and placing himself in a position of dependence despite being the one who will offer living water."
+        },
+        {
+            "reference": "4:10-15",
+            "section_title": "Living Water",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus offers the woman 'the gift of God' — living water that becomes an internal spring unto eternal life — contrasting it with Jacob's well water that requires repeated return, while the woman moves from literal misunderstanding toward comprehension.",
+            "relevance": "The offer is framed in universally conditional terms: 'If you knew the gift of God... you would have asked him'; 'whoever drinks of the water that I will give him will never thirst.' The construction 'whoever drinks' (hos d' an pie) presents eternal life as a gift that is received through a genuine human act — asking, drinking, receiving. God initiates (it is 'the gift of God,' and Jesus offers it), but the human must ask and drink. The woman is told she 'would have asked' — implying her asking is a real, non-predetermined action that matters for whether she receives the gift.",
+            "key_phrases": ["if you knew the gift of God", "you would have asked him", "whoever drinks of the water that I will give him will never thirst", "will become in him a spring of water springing up to eternal life", "Sir, give me this water"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:16-19",
+            "section_title": "The Exposure of Her Situation",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus demonstrates supernatural knowledge of the woman's marital history — five husbands and a current partner who is not her husband — leading her to recognize him as a prophet, while the narrative shows that the one offering living water knows the recipient fully and offers it anyway."
+        },
+        {
+            "reference": "4:20-24",
+            "section_title": "Worship in Spirit and Truth",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus declares that true worship will no longer be tied to Gerizim or Jerusalem but will be offered 'in spirit and truth' — enabled by the Holy Spirit and responsive to God's full self-revelation in Jesus — because 'God is spirit' and cannot be confined to a geographic location."
+        },
+        {
+            "reference": "4:25-26",
+            "section_title": "The Messiah Declaration",
+            "category": "NOT_APPLICABLE",
+            "summary": "The woman expresses the Samaritan expectation of the Taheb who will 'declare all things,' and Jesus responds with the most direct, unqualified messianic self-identification in any of the four accounts: 'I who speak to you am he,' using the theologically loaded 'ego eimi' formula."
+        },
+        {
+            "reference": "4:27-30",
+            "section_title": "The Disciples Return, the Woman Departs",
+            "category": "NOT_APPLICABLE",
+            "summary": "The woman leaves her water jar, goes into the city, and invites people to 'come, see a man who told me all the things I have done,' using the same invitation formula ('come, see') found in the chain of testimony in chapter 1, while the disciples are amazed that Jesus was speaking with a woman but do not question him."
+        },
+        {
+            "reference": "4:31-38",
+            "section_title": "Food, Harvest, and the Work of the Sent One",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus defines his sustenance as doing the will of the one who sent him, declares the fields 'white for harvest' as the Samaritan townspeople approach, and tells the disciples they are entering a harvest prepared by others' prior labor — connecting the sowing of Moses, the prophets, and the woman's testimony to the reaping now underway."
+        },
+        {
+            "reference": "4:39-42",
+            "section_title": "The Samaritans Believe",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Many Samaritans believe because of the woman's testimony, many more believe because of Jesus's own word during his two-day stay, and they arrive at the confession that Jesus is 'truly the Savior of the world' — a progression from secondhand testimony to personal encounter to firsthand conviction.",
+            "relevance": "The text models belief as a genuine human response that progresses through stages: (1) initial belief based on the woman's testimony, (2) deeper belief based on Jesus's own word, (3) personal knowledge — 'we have heard for ourselves and know.' At no point does the neutral reading identify any divine selection or predetermination of which Samaritans would believe. The mechanism is testimony producing belief, encounter deepening belief, and personal conviction completing belief. The author presents this as the normative pattern for how people come to faith — through testimony and genuine human response to it. The Samaritans' belief is treated as their own act, and the author holds it up as the model for his readers, who are also encountering Jesus through testimony (the written document) and are 'invited to move through it to their own encounter.'",
+            "key_phrases": ["many of the Samaritans believed in him because of the word of the woman who testified", "many more believed because of his word", "we have heard for ourselves and know that this one is truly the Savior of the world", "it is no longer because of what you said that we believe"],
+            "confidence": "high"
+        },
+        {
+            "reference": "4:43-45",
+            "section_title": "Reception in Galilee",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus enters Galilee where he is welcomed by Galileans who had seen his signs at the Jerusalem feast, while the author notes the proverb that a prophet has no honor in his own country — likely referring to Judea as the center of opposition — and implicitly contrasts the Galileans' sign-dependent welcome with the Samaritans' word-based belief."
+        },
+        {
+            "reference": "4:46-54",
+            "section_title": "The Second Sign — The Royal Official's Son",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "A royal official from Capernaum asks Jesus to heal his dying son; Jesus rebukes the Galilean demand for signs and wonders, heals the son by spoken word alone from a distance, and the official progresses from desperate petition through trust in Jesus's word to confirmed household belief — the second sign counted by the author.",
+            "relevance": "Jesus's rebuke — 'Unless you people see signs and wonders, you will not believe' — treats believing as a human action for which people bear responsibility. The rebuke presupposes that the Galileans should believe without spectacular proof, implying belief is within their capacity and is their failure to exercise. The official's progression models belief as a series of genuine human choices: he comes to Jesus, he persists despite the rebuke, he 'believed the word that Jesus spoke to him,' and then he and his household 'believed' in a fuller sense upon confirmation. The contrast with the Samaritans is pointed — the Samaritans believed without signs, based on testimony and word alone, while the Galileans demand signs. The author ranks these as different qualities of belief, but both are treated as authentic human responses, not as predetermined outcomes.",
+            "key_phrases": ["unless you people see signs and wonders, you will not believe", "the man believed the word that Jesus spoke to him", "he himself believed and his whole household"],
+            "confidence": "medium"
+        }
+    ]
+}

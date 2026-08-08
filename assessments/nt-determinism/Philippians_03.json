@@ -1,0 +1,76 @@
+{
+    "book": "Philippians",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1",
+            "section_title": "Transitional Exhortation",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul transitions from commending Epaphroditus to a new section with an exhortation to rejoice in the Lord, noting that repeating his warnings is a safeguard for the community."
+        },
+        {
+            "reference": "3:2-3",
+            "section_title": "The Warning and the Redefinition of Circumcision",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul warns against circumcision-advocates with caustic invective, then redefines the true circumcision as those who worship by the Spirit of God, boast in Christ Jesus, and put no confidence in the flesh."
+        },
+        {
+            "reference": "3:4-6",
+            "section_title": "Paul's Credentials in the Flesh",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul catalogs seven credentials -- four inherited (circumcision, Israelite birth, Benjaminite tribe, Hebrew culture) and three chosen (Pharisaic commitment, zealous persecution, legal blamelessness) -- establishing an unsurpassable resume of fleshly qualification."
+        },
+        {
+            "reference": "3:7-8",
+            "section_title": "The Revaluation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul recounts his deliberate decision to count all his former credentials as loss -- even as excrement -- for the surpassing worth of knowing Christ Jesus his Lord.",
+            "relevance": "The neutral reading emphasizes that Paul's revaluation is a deliberate mental act, not something that happened to him passively: 'He made a judgment.' The ongoing present tense ('I count') indicates continuous active reckoning. Paul is presented as a genuine agent who chose to trade his entire basis of standing before God for the pursuit of Christ. The purpose clause 'in order that I may gain Christ' frames the gaining of Christ as Paul's active aim, not a completed divine transaction.",
+            "key_phrases": ["I counted as loss for the sake of Christ", "I count everything as loss", "in order that I may gain Christ"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:9-11",
+            "section_title": "Righteousness, Knowledge, and Conformity to Christ",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul contrasts two kinds of righteousness -- his own from the law versus the righteousness from God through the faithfulness of Christ that depends on faith -- and describes his pursuit of knowing Christ through resurrection power, shared sufferings, and death-conformity, using contingent language about attaining the resurrection.",
+            "relevance": "The section presents righteousness as originating in God ('from God') but received through a channel that involves human response ('depends on faith'). The contrast is between self-generated righteousness and received righteousness, not between human choice and divine decree. Most significantly, v. 11 introduces striking contingency: 'if somehow I may attain the resurrection from the dead.' The neutral reading explicitly notes this language 'stands in tension with any reading that treats the believer's final destiny as already settled beyond any possibility of failure.' Paul treats the resurrection -- the salvation outcome -- as the end of a process he is still walking through, not as a predetermined conclusion.",
+            "key_phrases": ["the righteousness from God that depends on faith", "if somehow I may attain the resurrection from the dead", "becoming like him in his death"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:12-14",
+            "section_title": "Pressing Forward",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_by_both",
+            "summary": "Paul emphatically denies having already obtained the goal or been perfected, describing himself as actively pressing forward to lay hold of that for which Christ Jesus laid hold of him, using athletic imagery of pursuit and straining toward the prize.",
+            "relevance": "This section presents both divine initiative and genuine human agency operating together without tension. Christ seized Paul first ('Christ Jesus has made me his own' -- the passive voice places initiative entirely with Christ), but Paul must actively press forward in response ('I press on to make it my own'). The repeated denials of completion ('not that I have already obtained,' 'not already been made perfect,' 'I do not consider that I have made it my own') directly address Paul's salvation status as unfinished. The athletic imagery -- the prize (brabeion) awarded by the judge, the race that must be run, the runner who has not crossed the finish line -- implies the outcome depends on Paul's continued pursuit. The cross-reference to 1 Corinthians 9:24-27, where Paul fears being 'disqualified,' reinforces that the prize is not automatic.",
+            "key_phrases": ["not that I have already obtained this or am already perfect", "I press on to make it my own", "because Christ Jesus has made me his own", "I do not consider that I have made it my own", "I press on toward the goal for the prize"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:15-16",
+            "section_title": "The Appeal to the Mature",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul calls the mature to adopt the mindset he has described -- recognizing they have not arrived -- and expresses confidence that God will correct any who think otherwise, urging all to walk consistently with the understanding they have attained."
+        },
+        {
+            "reference": "3:17-19",
+            "section_title": "The Call to Imitate and the Warning About Enemies of the Cross",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul calls the Philippians to imitate his pattern and warns with tears about many who walk as enemies of the cross, whose end is destruction because they serve their belly, glory in their shame, and set their minds on earthly things.",
+            "relevance": "The call to imitate Paul's pattern (v. 17) implies genuine choice -- the Philippians can follow either the positive example (Paul) or the negative one (enemies of the cross). The four characteristics of the enemies (v. 19) describe orientations and choices that lead to destruction: serving the belly, glorying in shame, setting minds on earthly things. Their 'end is destruction' (apoleia, the opposite of soteria) is presented as the consequence of their earthly orientation, not as a predetermined decree. The contrast between the two groups -- those who press forward toward the upward call versus those who set their minds on earthly things -- implies that the individuals' own mindset (phroneo) determines which trajectory they follow.",
+            "key_phrases": ["join in imitating me", "their end is destruction", "their god is their belly", "minds set on earthly things"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:20-21",
+            "section_title": "Heavenly Citizenship and Bodily Transformation",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul declares that the community's citizenship is in heaven, from which they await a Savior who will transform their humble bodies into conformity with his glorious body by the power that enables him to subject all things to himself."
+        }
+    ]
+}

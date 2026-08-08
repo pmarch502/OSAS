@@ -1,0 +1,52 @@
+{
+    "book": "Mark",
+    "chapter": 3,
+    "sections": [
+        {
+            "reference": "3:1-6",
+            "section_title": "The Sabbath Controversy Completed",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents a Sabbath healing in which the man with the withered hand obeys Jesus's command and is restored, while the Pharisees refuse to answer Jesus's question and immediately conspire to kill him, with their refusal described as 'hardness of heart' — the same condition attributed to Pharaoh and obstinate Israel in the LXX.",
+            "relevance": "The passage presents two contrasting human responses to the same divine action, and each response determines the outcome. The man obeys Jesus's word and receives restoration; the Pharisees refuse Jesus's word and proceed to plot murder. The neutral reading frames the Pharisees' porosis (hardness of heart) as their own refusal — 'not a lack of evidence but a refusal to accept the evidence' — rather than as divinely imposed hardening. The LXX background invoked is Pharaoh and the house of Israel, both of whom witnessed God's power and refused to acknowledge it. The pattern implies that human response to God's evident work is a genuine choice with real consequences, not a predetermined outcome. However, the passage is primarily about the Sabbath controversy and Christological authority rather than directly about who determines salvation, keeping the classification at LEANS rather than STRONG.",
+            "key_phrases": ["they kept silent", "hardness of heart", "Stretch out your hand. And he stretched it out, and his hand was restored", "immediately began conspiring"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:7-12",
+            "section_title": "Withdrawal, Crowds, and Unclean Spirits",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents an expanding geographic response to Jesus from Jewish and Gentile-bordering regions, with crowds pressing in for healing and unclean spirits involuntarily declaring his identity as the Son of God, while Jesus silences their testimony."
+        },
+        {
+            "reference": "3:13-19",
+            "section_title": "The Appointment of the Twelve on the Mountain",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus going up the mountain, summoning those 'He Himself wanted,' and constituting the twelve for a threefold vocational purpose — to be with him, to preach, and to have authority over demons — with the list concluding by noting that Judas Iscariot, one of the twelve, 'also betrayed Him.'",
+            "relevance": "The sovereign initiative language is strong — Jesus 'summoned those whom He Himself wanted,' with no volunteers, no selection process, and the emphasis on his will alone. The neutral reading draws a parallel to God's sovereign choice of Israel in Deuteronomy 7:7-8. At first glance this favors determinism: God chooses unilaterally. However, the neutral reading makes two clarifications that shift the implication. First, this is vocational calling to apostolic mission (being with him, preaching, casting out demons), not election to individual salvation. Second, the inclusion of Judas — with the author's immediate note that he 'betrayed Him' — directly undermines any reading that treats divine appointment as guaranteeing outcome. The neutral reading explicitly states: 'Being chosen and appointed by Jesus is not a guarantee against betrayal. The community Jesus constitutes includes the possibility of failure from within.' The implication is that even sovereign divine initiative does not eliminate the role of human response in determining the final outcome.",
+            "key_phrases": ["summoned those whom He Himself wanted", "He appointed twelve", "Judas Iscariot, who also betrayed Him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "3:20-30",
+            "section_title": "The Accusation and Jesus's Response",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the Jerusalem scribes attributing Jesus's Spirit-empowered exorcisms to Beelzebul, Jesus's rebuttal via the divided kingdom and strong man parables, and his warning that blasphemy against the Holy Spirit is an eternal sin that 'never has forgiveness' — defined by the author as the specific act of looking at the Spirit's work and calling it the work of an unclean spirit.",
+            "relevance": "This passage directly addresses who determines forgiveness outcomes and locates the determining factor in human choice, not divine decree. First, the scope of divine forgiveness is stated as maximally broad: 'all sins will be forgiven the sons and daughters of men, and whatever blasphemies they commit.' God's willingness to forgive is universal and without limit. Second, the single exception — blasphemy against the Holy Spirit — is framed as self-imposed, not divinely imposed. The neutral reading is explicit: 'The reason this sin cannot be forgiven is not that God refuses to forgive it but that the person who commits it has disabled the very capacity that makes repentance possible.' The mechanism is human self-exclusion: by identifying the Holy Spirit's work as satanic, the scribes have broken the diagnostic tool that could bring them to repentance. 'Every exorcism that could serve as evidence of Jesus's divine authority is instead interpreted as evidence of his demonic allegiance.' The sin is called 'self-sealing' — the person's own interpretive choice renders all corrective evidence useless. This is the author's own argument through Jesus's direct teaching, not an illustration or aside, and it directly addresses the question of who determines whether a person receives or forfeits forgiveness.",
+            "key_phrases": ["all sins will be forgiven the sons and daughters of men", "whoever blasphemes against the Holy Spirit never has forgiveness", "guilty of an eternal sin", "because they were saying, 'He has an unclean spirit'"],
+            "confidence": "high"
+        },
+        {
+            "reference": "3:31-35",
+            "section_title": "The Redefinition of Family",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus redefining family membership around a single criterion — 'whoever does the will of God' — designating those sitting around him as his true mother, brother, and sister, while his biological family stands outside having come to seize him as a madman.",
+            "relevance": "The criterion for belonging to Jesus's reconstituted community is human action: doing the will of God. The open conditional 'whoever' (hos an) frames this as a genuine offer available to anyone, not limited to a predetermined group. The neutral reading emphasizes that the inside/outside division established in this passage directly prefigures Mark 4:11, where those 'inside' receive the mystery of the kingdom and those 'outside' receive only parables. The reading explicitly states: 'The division is not arbitrary or predestined by God's unilateral decree; it is the result of the responses documented in chapter 3. The Pharisees chose to kill. The scribes chose to call the Spirit unclean. The family chose to stand outside and send word in. Those around Jesus chose to sit and listen.' The spatial positions — inside and outside — are the result of human decisions, not divine predetermination. However, the passage's direct concern is community identity and kinship rather than salvation outcomes per se, which keeps the classification at LEANS.",
+            "key_phrases": ["whoever does the will of God, this is My brother, and sister, and mother", "standing outside", "sitting around Him"],
+            "confidence": "high"
+        }
+    ]
+}

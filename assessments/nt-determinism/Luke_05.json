@@ -1,0 +1,108 @@
+{
+    "book": "Luke",
+    "chapter": 5,
+    "sections": [
+        {
+            "reference": "5:1-3",
+            "section_title": "The Crowd, the Lake, and the Boat",
+            "category": "NOT_APPLICABLE",
+            "summary": "The crowd presses around Jesus to hear the word of God, and he uses Simon's boat as a teaching platform on the lake of Gennesaret."
+        },
+        {
+            "reference": "5:4-7",
+            "section_title": "The Miraculous Catch of Fish",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus instructs Simon to let down nets after a fruitless night, and the resulting catch overwhelms both boats, demonstrating divine power over the natural order."
+        },
+        {
+            "reference": "5:8-10a",
+            "section_title": "Simon Peter's Response",
+            "category": "NOT_APPLICABLE",
+            "summary": "Simon falls at Jesus's feet confessing himself a sinful man, exhibiting the pattern from Israel's scriptures where encounter with divine power produces acute awareness of one's own unworthiness."
+        },
+        {
+            "reference": "5:10b-11",
+            "section_title": "The Call",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus commissions Simon with the words 'Do not fear, from now on you will be catching men,' and the fishermen leave everything to follow him.",
+            "relevance": "The pattern established here is divine initiative followed by genuine human response. Jesus issues the call, but the neutral reading explicitly states the obedience 'is not blind; it is the response of men who have seen something that recalibrates every other consideration.' The disciples' decision to leave everything is presented as a genuine choice made in light of what they have witnessed, not as compulsion or irresistible determination.",
+            "key_phrases": ["Do not fear, from now on you will be catching men", "they left everything and followed Him", "the response of men who have seen something that recalibrates every other consideration"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:12-14",
+            "section_title": "The Cleansing of a Leper",
+            "category": "NOT_APPLICABLE",
+            "summary": "A leper approaches Jesus expressing faith in his power to cleanse, Jesus touches and heals him, then instructs him to follow the Mosaic purification procedure as a testimony to the priests."
+        },
+        {
+            "reference": "5:15-16",
+            "section_title": "Withdrawal to Pray",
+            "category": "NOT_APPLICABLE",
+            "summary": "As crowds grow, Jesus habitually withdraws to the wilderness to pray, establishing prayer as the sustaining practice of his ministry and his dependence on the Father."
+        },
+        {
+            "reference": "5:17-20",
+            "section_title": "The Setting for the Paralytic's Healing",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Pharisees and teachers of the law gather from across Galilee, Judea, and Jerusalem to observe Jesus, while men carrying a paralytic dismantle a roof to lower him before Jesus, prompting Jesus to respond to 'their faith.'",
+            "relevance": "The neutral reading defines faith here as 'not primarily a set of beliefs but a disposition that acts on its convictions despite obstacles.' The men who bring the paralytic are described as 'active agents' whose extraordinary persistence overcomes barriers. Their faith is presented as genuine human initiative that creates the conditions for Jesus's saving response, rather than as a product of divine determination.",
+            "key_phrases": ["Seeing their faith", "not passive observers; they are active agents", "Faith in Luke is not primarily a set of beliefs but a disposition that acts on its convictions despite obstacles"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:20-21",
+            "section_title": "The Pronouncement of Forgiveness and the Controversy",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus pronounces the paralytic's sins forgiven in response to the faith of those who brought him, provoking the scribes and Pharisees to charge blasphemy since only God can forgive sins.",
+            "relevance": "Forgiveness of sins -- directly connected to salvation outcomes -- is explicitly linked to human faith: 'Seeing their faith, He said, Friend, your sins are forgiven you.' The text presents divine saving action (forgiveness) as responsive to genuine human faith rather than as unilaterally determined. God retains the prerogative to forgive (the divine passive), but the occasion and trigger of that forgiveness is human faith exercised through persistent action.",
+            "key_phrases": ["Seeing their faith", "your sins are forgiven you", "Who can forgive sins, but God alone?"],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:22-26",
+            "section_title": "The Healing as Demonstration",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus heals the paralytic to demonstrate that the Son of Man has authority on earth to forgive sins, and the crowd responds with astonishment, glorifying God and declaring they have seen remarkable things."
+        },
+        {
+            "reference": "5:27-28",
+            "section_title": "The Calling of Levi",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus calls the tax collector Levi with the command 'Follow Me,' and Levi leaves everything to follow him, extending the community of followers across the most significant social boundary in Jewish religious life.",
+            "relevance": "The call-and-response pattern from the fishermen's calling is repeated with a social outcast. Jesus takes the initiative (divine call), but Levi's response is presented as a genuine and costly choice -- leaving his tax contract, income, and social position. The neutral reading emphasizes the irrevocability and cost of the decision, presenting it as Levi's own act rather than a compelled outcome. The text also implies that belonging to God's kingdom community is not predetermined by social or religious category; a tax collector can respond to the call.",
+            "key_phrases": ["Follow Me", "he left everything behind, and got up and began to follow Him"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "5:29-32",
+            "section_title": "The Banquet and the Controversy",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Levi hosts a banquet for Jesus with tax collectors and sinners; when Pharisees object to this table fellowship, Jesus responds that the physician goes to the sick and that he came to call sinners to repentance.",
+            "relevance": "Jesus's mission statement -- 'I have not come to call the righteous but sinners to repentance' -- presents divine initiative ('I have come to call') that requires genuine human response ('to repentance'). The physician metaphor implies the sick need healing but does not suggest the physician predetermines who will come for treatment. The neutral reading notes that 'repentance is offered in the context of acceptance, not as its precondition' -- Jesus eats with sinners first and calls them to repentance through the fellowship. The calling is directed broadly to all sinners, not to a preselected group.",
+            "key_phrases": ["It is not those who are well who need a physician, but those who are sick", "I have not come to call the righteous but sinners to repentance", "repentance is offered in the context of acceptance, not as its precondition"],
+            "confidence": "high"
+        },
+        {
+            "reference": "5:33-35",
+            "section_title": "The Question about Fasting",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus responds to a challenge about his disciples' failure to fast by using the bridegroom metaphor -- wedding guests do not fast while the bridegroom is present, but the days will come when the bridegroom is taken away."
+        },
+        {
+            "reference": "5:36-39",
+            "section_title": "The Parables of the Patch and the Wine",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus tells parables about a new patch on an old garment, new wine in old wineskins, and the preference for old wine, all addressing the incompatibility of his movement with existing religious structures and diagnosing human resistance as a matter of preference.",
+            "relevance": "The old wine saying presents human resistance to Jesus's message as a genuine choice rooted in preference: 'those who have grown accustomed to the old wine will not naturally desire the new.' The neutral reading interprets this as 'a diagnosis of resistance' in which people 'genuinely prefer what they have.' Rejection of the new is attributed to human disposition and habit, not to divine decree. Those who insist on the old 'will find themselves unable to receive the new -- not because the new wine is inferior, but because their palate has been shaped by what they already have.' This locates responsibility for reception or rejection with the human agent.",
+            "key_phrases": ["No one, after drinking old wine wishes for new; for he says, The old is good enough", "their palate has been shaped by what they already have", "the resistance Jesus encounters is not irrational from the perspective of those who hold it"],
+            "confidence": "medium"
+        }
+    ]
+}

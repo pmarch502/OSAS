@@ -1,0 +1,94 @@
+{
+    "book": "Luke",
+    "chapter": 24,
+    "sections": [
+        {
+            "reference": "24:1-3",
+            "section_title": "The Women at the Empty Tomb",
+            "category": "NOT_APPLICABLE",
+            "summary": "Women come at dawn to anoint Jesus's body but find the stone rolled away and the tomb empty."
+        },
+        {
+            "reference": "24:4-8",
+            "section_title": "The Two Men and the Command to Remember",
+            "category": "NOT_APPLICABLE",
+            "summary": "Two angelic figures remind the women of Jesus's passion predictions, framing his death and resurrection as divine necessity (dei), and the women remember his words."
+        },
+        {
+            "reference": "24:9-12",
+            "section_title": "The Report and Its Reception",
+            "category": "NOT_APPLICABLE",
+            "summary": "The women report the empty tomb and angelic message to the apostles, who dismiss it as nonsense, though Peter goes to the tomb and marvels at the empty grave cloths."
+        },
+        {
+            "reference": "24:13-16",
+            "section_title": "Two Disciples on the Road",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Two disciples walk to Emmaus discussing the recent events when Jesus himself joins them, but their eyes are divinely prevented from recognizing him.",
+            "relevance": "The divine passive 'their eyes were prevented from recognizing Him' (ekratounto) indicates God actively controls spiritual perception. The neutral reading identifies this as a divine passive: the prevention comes from outside themselves, not from Jesus looking different or being disguised. If God determines when and whether people can perceive spiritual truth, this has implications favoring deterministic control over the conditions under which belief becomes possible.",
+            "key_phrases": ["their eyes were prevented from recognizing Him", "the prevention comes from outside themselves", "a divinely imposed blindness that has a purpose"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "24:17-24",
+            "section_title": "The Disciples' Account of What They Know",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Emmaus disciples recount Jesus's identity as a prophet mighty in deed and word, his death at the hands of the chief priests and rulers, their lost hope that he would redeem Israel, and the women's report of the empty tomb and angelic vision -- showing that evidence alone has not produced belief."
+        },
+        {
+            "reference": "24:25-27",
+            "section_title": "Jesus Opens the Scriptures",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus rebukes the disciples for being foolish and slow of heart to believe all that the prophets spoke, then interprets the entire scriptural witness as pointing to a Christ who must suffer before entering glory.",
+            "relevance": "The rebuke 'O foolish men and slow of heart to believe' holds the disciples responsible for their failure to believe, implying genuine human agency in the act of believing. If their unbelief were divinely determined, the rebuke would be incoherent -- one does not rebuke people for failing to do what they were prevented from doing. The neutral reading notes their problem was selectivity: they believed the glory prophecies but not the suffering ones, and Jesus insists on believing 'all' that the prophets spoke. This treats belief as a genuine human capacity that can be exercised well or poorly.",
+            "key_phrases": ["O foolish men and slow of heart to believe in all that the prophets have spoken", "Was it not necessary for the Christ to suffer these things and to enter into His glory"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "24:28-32",
+            "section_title": "Recognition at the Breaking of Bread",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The disciples urge Jesus to stay with them; when he breaks bread their eyes are divinely opened to recognize him, and he vanishes; they reflect that their hearts burned while he opened the scriptures on the road.",
+            "relevance": "The divine passive 'their eyes were opened' (dienoichthesan) mirrors the divine passive of verse 16 where their eyes were 'held.' Recognition comes through divine action removing a divinely imposed restraint, not through human effort or insight. The neutral reading notes that 'as their eyes were held shut, so now their eyes are opened' and that the passive voice 'again indicates divine action.' God controlled both the concealment and the disclosure. However, the disciples' genuine choice to invite Jesus in (v. 29) precedes the opening, and the neutral reading describes their invitation as earnest and pressing -- suggesting that human response and divine action work in sequence rather than divine action operating without regard for human choices.",
+            "key_phrases": ["their eyes were opened and they recognized Him", "they urged Him, saying, Stay with us", "Were not our hearts burning within us while He was speaking to us on the road, while He was opening the Scriptures to us"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "24:33-35",
+            "section_title": "Return to Jerusalem and Mutual Testimony",
+            "category": "NOT_APPLICABLE",
+            "summary": "The Emmaus disciples immediately return to Jerusalem and find the community already proclaiming that the Lord has risen and appeared to Simon, and they recount how Jesus was made known to them in the breaking of the bread."
+        },
+        {
+            "reference": "24:36-43",
+            "section_title": "Jesus Appears to the Gathered Community",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus appears bodily among the gathered disciples, addresses their fear and doubt, demonstrates his physical reality by showing his crucifixion-marked hands and feet and eating broiled fish, establishing that the resurrection is bodily rather than spiritual."
+        },
+        {
+            "reference": "24:44-47",
+            "section_title": "The Scriptures Opened and the Commission Given",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus opens the disciples' minds to understand Scripture and commissions them to proclaim repentance for forgiveness of sins in his name to all nations, beginning from Jerusalem.",
+            "relevance": "The commission's content directly bears on how salvation outcomes are determined. The neutral reading explicitly states that 'repentance and forgiveness are the two sides of a single reality: the human turn toward God and God's responsive release of sin's burden.' Repentance (metanoia) is presented as a genuine human act of turning, and forgiveness is God's response to that turning. The universal scope -- 'to all the nations' -- implies the offer is genuinely available to everyone, with the human act of repentance determining who receives forgiveness. Jesus also 'opened their minds to understand the Scriptures' (v. 45), showing divine enabling of understanding, but this act equips the apostles for their mission rather than addressing who among the nations will be saved. The salvation mechanism proclaimed is repentance-then-forgiveness, placing human response as a genuine factor in the outcome.",
+            "key_phrases": ["repentance for forgiveness of sins would be proclaimed in His name to all the nations", "He opened their minds to understand the Scriptures", "beginning from Jerusalem"],
+            "confidence": "high"
+        },
+        {
+            "reference": "24:48-49",
+            "section_title": "Witnesses and the Promise of Power",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus designates the disciples as witnesses and promises to send the Holy Spirit as the Father's promise, commanding them to stay in Jerusalem until they are clothed with power from on high for their proclamation mission."
+        },
+        {
+            "reference": "24:50-53",
+            "section_title": "The Departure and the Return to the Temple",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus leads the disciples to Bethany, blesses them with a priestly gesture echoing the Aaronic benediction, ascends into heaven while still blessing them, and the disciples return to Jerusalem with great joy to worship continually in the temple."
+        }
+    ]
+}

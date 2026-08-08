@@ -1,0 +1,78 @@
+{
+    "book": "Hebrews",
+    "chapter": 13,
+    "sections": [
+        {
+            "reference": "13:1-3",
+            "section_title": "Love, Hospitality, and Solidarity",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author commands the community to sustain brotherly love, practice hospitality to strangers, and identify with prisoners and the ill-treated, connecting these practices to the faith patterns of chapter 11 and the community's own history of solidarity."
+        },
+        {
+            "reference": "13:4-6",
+            "section_title": "Marriage, Contentment, and God's Promises",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author commands sexual purity with a warning of divine judgment on violators, then commands contentment free from the love of money, grounded in God's promise never to desert or abandon his people and the resulting confidence that human threats are subordinate to divine faithfulness."
+        },
+        {
+            "reference": "13:7-8",
+            "section_title": "Past Leaders and the Unchanging Christ",
+            "category": "NOT_APPLICABLE",
+            "summary": "The audience is told to remember their deceased founding leaders, consider the outcome of their lives, and imitate their faith, with the declaration that Jesus Christ is the same yesterday, today, and forever serving as a bridge between the dead leaders and the present crisis."
+        },
+        {
+            "reference": "13:9",
+            "section_title": "Strange Teachings and the Heart Strengthened by Grace",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author warns against being carried off course by varied and strange teachings, asserting that the heart is strengthened by grace rather than by food regulations, which did not benefit those who followed them."
+        },
+        {
+            "reference": "13:10-14",
+            "section_title": "The Altar, the Camp, and the City to Come",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author draws a final typological argument from the Day of Atonement -- the sacrifice whose blood entered the Holy Place had its body burned outside the camp, just as Jesus suffered outside the city gate -- and commands the audience to go out to Jesus outside the camp, bearing his reproach, because they have no lasting city here but are seeking the city to come.",
+            "relevance": "The hortatory subjunctive 'let us go out to Him outside the camp' is a communal summons that assumes the audience can genuinely choose to obey or refuse. The neutral reading identifies this as the concrete, spatial expression of the entire letter's demand, where refusing to go outside means retreating to the obsolete covenant system -- an action the letter has consistently associated with apostasy and judgment. The audience's choice to leave the camp or stay directly affects their standing before God.",
+            "key_phrases": ["let us go out to Him outside the camp, bearing His reproach", "here we do not have a lasting city, but we are seeking the city which is to come"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:15-16",
+            "section_title": "The Sacrifices That Remain",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author identifies the two sacrifices of the new covenant community -- the sacrifice of praise (the fruit of lips confessing God's name) and the sacrifice of good works and sharing -- declaring that God is pleased with such sacrifices, which replace the obsolete animal offerings."
+        },
+        {
+            "reference": "13:17",
+            "section_title": "Obey Your Present Leaders",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The author commands obedience and submission to present community leaders who keep watch over the audience's souls as those who will give an account, warning that resistance is unhelpful to the audience itself.",
+            "relevance": "The leaders 'keep watch over your souls' -- with the word psyche connecting to 10:39's 'preserving of the soul,' making the leaders' function directly relevant to the audience's salvation. The audience's choice to cooperate or resist affects whether this soul-watching achieves its purpose, and the author explicitly states that resistance is 'unhelpful' to the audience, implying their response genuinely shapes the outcome.",
+            "key_phrases": ["they keep watch over your souls as those who will give an account", "this would be unhelpful for you"],
+            "confidence": "low"
+        },
+        {
+            "reference": "13:18-19",
+            "section_title": "Personal Request for Prayer",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author requests prayer for himself, claims a good conscience and honorable conduct, and expresses urgency about being restored to the audience, treating prayer as having real efficacy."
+        },
+        {
+            "reference": "13:20-21",
+            "section_title": "The Benediction",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "The author prays that the God of peace -- who raised Jesus, the great Shepherd, from the dead through the blood of the eternal covenant -- would equip the audience in every good thing to do God's will, working in them that which is pleasing in God's sight, through Jesus Christ.",
+            "relevance": "The benediction attributes the active production of conduct that pleases God to God himself: 'working in us that which is pleasing in His sight.' The neutral reading explicitly notes that 'the audience's faithfulness is not purely a matter of human willpower; it is a matter of divine enablement. God equips; God works; God produces the pleasing thing.' This attributes the effective agency in the community's faithfulness to God rather than to human effort. However, two factors temper a strong deterministic reading: the prayer form itself implies contingency (if the outcome were already unilaterally determined, prayer would be unnecessary), and the neutral reading holds this divine enablement in tension with the letter's sustained demands for human action, noting that 'the author does not resolve this by choosing one side over the other.'",
+            "key_phrases": ["equip you in every good thing to do His will", "working in us that which is pleasing in His sight, through Jesus Christ"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "13:22-25",
+            "section_title": "The Author's Final Words",
+            "category": "NOT_APPLICABLE",
+            "summary": "The author identifies his letter as a 'word of exhortation' (a synagogue sermon genre), mentions Timothy's release, sends greetings involving Italian associates, and closes with the word 'grace.'"
+        }
+    ]
+}

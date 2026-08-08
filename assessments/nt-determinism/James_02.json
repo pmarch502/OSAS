@@ -1,0 +1,68 @@
+{
+    "book": "James",
+    "chapter": 2,
+    "sections": [
+        {
+            "reference": "2:1-4",
+            "section_title": "The Command Against Partiality and the Assembly Scene",
+            "category": "NOT_APPLICABLE",
+            "summary": "James prohibits showing favoritism in the community's assembly, illustrating with a scenario where the rich are honored and the poor are dishonored, and condemning such discrimination as judging with evil motives."
+        },
+        {
+            "reference": "2:5-7",
+            "section_title": "God's Choice of the Poor and the Community's Contradiction",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James declares that God chose the poor to be rich in faith and heirs of the kingdom promised to those who love Him, while the community dishonors the poor and honors the rich who oppress them and blaspheme Christ's name.",
+            "relevance": "The passage uses election language (exelexato) but the neutral reading shows it describes God's characteristic pattern of choosing the lowly as a social category, echoing Deuteronomy 7:6-7, not individual predestination to salvation. The kingdom promise is explicitly conditioned on 'those who love Him,' implying that human response (loving God) is relevant to inheriting the kingdom. Election here is corporate and conditional, not unconditional and individual.",
+            "key_phrases": ["God choose the poor of this world to be rich in faith", "heirs of the kingdom which He promised to those who love Him", "you have dishonored the poor man"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "2:8-11",
+            "section_title": "The Royal Law and the Indivisible Demand",
+            "category": "NOT_APPLICABLE",
+            "summary": "James argues that fulfilling the love command of Leviticus 19:18 is good, but showing partiality constitutes sin and transgression of an indivisible law, since violating one point makes a person guilty of the whole."
+        },
+        {
+            "reference": "2:12-13",
+            "section_title": "Judgment by the Law of Liberty",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "James instructs the community to speak and act as those who will be judged by the law of liberty, declaring that judgment will be merciless to the merciless but that mercy triumphs over judgment.",
+            "relevance": "The correspondence principle directly links human behavior to judgment outcomes: the one who shows no mercy receives merciless judgment, while the one who practices mercy finds that mercy prevails at the final reckoning. This makes the eschatological verdict responsive to human choices, implying genuine human agency in determining one's standing before God at judgment.",
+            "key_phrases": ["judgment will be merciless to one who has shown no mercy", "mercy triumphs over judgment", "judged by the law of liberty"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:14-17",
+            "section_title": "Can That Faith Save?",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "James asks whether faith without works can save, illustrates with the uselessness of verbal piety toward a hungry sibling without material provision, and declares that faith without works is dead.",
+            "relevance": "The passage directly addresses salvation ('Can that faith save him?') and answers that faith without corresponding human action cannot save. The verb 'save' (sosai) connects to 1:21 where the implanted word saves when received and acted upon. By declaring faith without works 'dead' (nekra), James makes salvation contingent on human response -- not mere mental assent but active works of mercy. This is the author's own sustained argument, not an aside or illustration.",
+            "key_phrases": ["Can that faith save him?", "faith, if it has no works, is dead, being by itself", "you do not give them what is necessary for their body, what use is that?"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:18-20",
+            "section_title": "The Interlocutor, the Demons, and the Empty Person",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "James challenges the objector to show faith apart from works, notes that even demons hold correct theology yet are not saved, and calls the person who separates faith from works 'empty.'",
+            "relevance": "The demons illustration demonstrates that correct belief alone does not constitute saving faith -- the demons believe orthodox theology and it saves them nothing. What distinguishes saving faith from demonic belief is human action (works). This implies that human response beyond mere intellectual assent is necessary for faith to have saving power, but the passage functions as supporting argumentation for the direct assertions in the surrounding sections.",
+            "key_phrases": ["show me your faith without the works", "the demons also believe, and shudder", "faith without works is useless"],
+            "confidence": "high"
+        },
+        {
+            "reference": "2:21-26",
+            "section_title": "Abraham, Rahab, and the Final Analogy",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "James argues that Abraham was justified by his act of offering Isaac, that his faith was perfected through works, that Rahab was likewise justified by her actions, and that faith without works is dead as a body without breath.",
+            "relevance": "The passage directly addresses justification and makes it dependent on human action: 'a man is justified by works and not by faith alone' (2:24). Abraham's specific human actions (offering Isaac) and Rahab's specific human actions (receiving the messengers) are presented as the occasions of their being justified. The verb eteleothe ('was perfected') shows that faith reaches its intended end through human works -- works complete faith rather than being irrelevant to it. The body-breath analogy makes works internal to living faith, not an optional supplement. This is the author's direct conclusion and central argument.",
+            "key_phrases": ["justified by works and not by faith alone", "faith was working with his works", "faith was perfected", "the body without the spirit is dead, so also faith without works is dead"],
+            "confidence": "high"
+        }
+    ]
+}

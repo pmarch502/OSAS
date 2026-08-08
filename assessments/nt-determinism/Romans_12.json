@@ -1,0 +1,34 @@
+{
+    "book": "Romans",
+    "chapter": 12,
+    "sections": [
+        {
+            "reference": "12:1-2",
+            "section_title": "The 'Therefore' -- Bodies as Living Sacrifice, the Renewed Mind",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul draws the conclusion of the entire theological argument of Romans 1-11, appealing to believers to present their bodies as living sacrifices and to be transformed by the renewal of their minds so they can discern God's will.",
+            "relevance": "The passage uses the language of appeal (parakaleo) rather than decree, which the neutral reading notes is 'not a command issued by an authority but an earnest appeal made by one who has earned the right to be heard.' The imperatives -- present your bodies, do not be conformed, be transformed -- presuppose that believers are genuine agents who can respond to God's mercies or fail to. The 'therefore' draws its conclusion from the entire salvation argument, presenting the human response as a real and necessary act rather than an automatic outcome of divine determination. While the passive voice of 'be transformed' indicates the Spirit as agent of transformation, the believer's active participation (presenting the body, refusing conformity to this age) is treated as indispensable.",
+            "key_phrases": ["I appeal to you therefore, brothers, by the mercies of God", "to present your bodies as a living sacrifice", "Do not be conformed to this world, but be transformed by the renewal of your mind", "that by testing you may discern what is the will of God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "12:3-8",
+            "section_title": "Sober Self-Assessment and the Body's Varied Members",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs the community toward sober self-assessment based on the measure of faith God has assigned to each, uses the body metaphor to describe the community's diverse members and functions, and lists seven spiritual gifts with qualifiers for their proper exercise."
+        },
+        {
+            "reference": "12:9-13",
+            "section_title": "The Shape of Love Within the Community",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul describes the characteristics of genuine love within the community: unhypocritical affection, mutual honor, zeal, hope, endurance in tribulation, persistent prayer, generosity, and hospitality."
+        },
+        {
+            "reference": "12:14-21",
+            "section_title": "Relations with the World Beyond the Community",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul instructs believers to bless persecutors, live at peace with all, renounce personal vengeance in favor of God's justice, actively provide for enemies' needs, and overcome evil with good rather than with retaliation."
+        }
+    ]
+}

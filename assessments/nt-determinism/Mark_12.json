@@ -1,0 +1,60 @@
+{
+    "book": "Mark",
+    "chapter": 12,
+    "sections": [
+        {
+            "reference": "12:1-12",
+            "section_title": "The Vineyard, the Tenants, and the Rejected Stone",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus tells a parable in which God (the vineyard owner) sends prophets (servants) to Israel's leadership (tenants), who deliberately reject and kill them, culminating in the calculated murder of God's beloved son, after which God removes the corrupt stewards and gives the vineyard to others, while the rejected stone becomes the cornerstone by God's action.",
+            "relevance": "The parable presents the tenants as genuine agents making calculated, deliberate choices to reject God's messengers and kill the heir. The owner's expectation that the tenants 'will respect my son' is described as 'an act of trust -- even hope -- not merely a test,' suggesting the outcome was not predetermined. Judgment (destruction of the tenants, transfer of the vineyard) follows as a consequence of their choices, not as a decree issued prior to them. The Psalm 118 citation ('this came about from the Lord') shows God reversing human rejection rather than causing it -- the builders genuinely rejected the stone, and God then made it the cornerstone.",
+            "key_phrases": ["This is the heir; come, let's kill him, and the inheritance will be ours", "They will respect my son", "He will come and put the vine-growers to death, and give the vineyard to others", "A stone which the builders rejected, this has become the chief cornerstone; this came about from the Lord"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "12:13-17",
+            "section_title": "The Tax Trap -- Caesar's Image and God's",
+            "category": "NOT_APPLICABLE",
+            "summary": "Pharisees and Herodians attempt to trap Jesus with a question about paying the Roman poll-tax; Jesus reframes the issue by distinguishing what bears Caesar's image (the coin) from what bears God's image (human beings), transcending the political question entirely."
+        },
+        {
+            "reference": "12:18-27",
+            "section_title": "The Resurrection Question -- God of the Living",
+            "category": "NOT_APPLICABLE",
+            "summary": "Sadducees pose a reductio ad absurdum against resurrection using levirate marriage; Jesus corrects them on two counts -- the resurrected state is qualitatively different from the present age, and God's self-identification as 'the God of Abraham, Isaac, and Jacob' in the present tense implies their continued existence because God is 'the God of the living, not the dead.'"
+        },
+        {
+            "reference": "12:28-34",
+            "section_title": "The Greatest Commandment -- Love as the Center",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "A sincere scribe asks which commandment is greatest; Jesus answers with the Shema (love God totally) and Leviticus 19:18 (love neighbor as yourself), the scribe affirms that love surpasses all sacrifices, and Jesus tells him he is 'not far from the kingdom of God.'",
+            "relevance": "The command to love God with all heart, soul, mind, and strength presupposes genuine human capacity to respond -- it is an obligation addressed to moral agents. Jesus's assessment that the scribe is 'not far from the kingdom of God' implies proximity without arrival, and the neutral reading states that 'what remains is the step of acting on it in relation to Jesus himself,' indicating that entering the kingdom depends on the scribe's own response. The text presents kingdom entry as requiring not just intellectual understanding but a genuine human decision to follow (cf. 8:34-35, 10:21).",
+            "key_phrases": ["you shall love the Lord your God with all your heart, and with all your soul, and with all your mind, and with all your strength", "You are not far from the kingdom of God"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "12:35-37",
+            "section_title": "David's Son and David's Lord",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus poses a question about how the Messiah can be both David's descendant and David's Lord, using Psalm 110:1 to show that Davidic descent does not exhaust the Messiah's identity -- the Messiah is enthroned at God's right hand with authority that transcends the Davidic line."
+        },
+        {
+            "reference": "12:38-40",
+            "section_title": "Warning Against the Scribes",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Jesus publicly warns against scribes who seek public honor through religious status while exploiting the vulnerable, specifically 'devouring widows' houses' behind a facade of long prayers, and declares they will receive 'greater condemnation.'",
+            "relevance": "The pronouncement of 'greater condemnation' treats the scribes as genuine moral agents who are culpable for their chosen behavior. The principle that greater privilege brings greater accountability assumes that the scribes freely chose to exploit rather than protect, to perform piety rather than practice it. Their condemnation is presented as proportional to their choices and position, not as a predetermined status.",
+            "key_phrases": ["who devour widows' houses, and for appearance's sake offer long prayers", "These will receive all the more condemnation"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "12:41-44",
+            "section_title": "The Widow at the Treasury",
+            "category": "NOT_APPLICABLE",
+            "summary": "Jesus observes a poor widow giving her last two coins to the temple treasury and tells his disciples she gave more than all the rich donors; the neutral reading places this within the continuous argument about the temple system's failure, identifying the widow as the concrete illustration of how scribes 'devour widows' houses' -- a vulnerable person pouring her entire livelihood into a corrupt institution Jesus has already condemned."
+        }
+    ]
+}

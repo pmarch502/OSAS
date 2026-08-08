@@ -1,0 +1,60 @@
+{
+    "book": "Mark",
+    "chapter": 8,
+    "sections": [
+        {
+            "reference": "8:1-10",
+            "section_title": "The Second Feeding — Bread for the Nations",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus feeding four thousand people in Gentile territory with seven loaves and a few fish, yielding seven large baskets of leftovers, and argues that the author has deliberately paralleled this feeding with the first (5,000 in Jewish territory, 12 Jewish kophinoi) to demonstrate that Jesus's provision extends beyond Israel to the nations — bread for the fullness of God's people, not one group alone."
+        },
+        {
+            "reference": "8:11-13",
+            "section_title": "The Pharisees Demand a Sign — This Generation",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents the Pharisees demanding a celestial sign 'to test' Jesus despite having access to abundant evidence of his power — two wilderness feedings, healings, exorcisms — and Jesus responding with an absolute refusal, comparing 'this generation' to the wilderness generation of Deuteronomy 32 and Psalm 95 that saw God's mighty acts and still demanded more.",
+            "relevance": "The passage frames the Pharisees' unbelief as culpable human refusal, not as divinely imposed blindness. The neutral reading places their demand in continuity with the wilderness generation of Psalm 78, whose failure is explicitly described as a failure to 'remember His power' — a moral and volitional failure, not a lack of evidence or capacity. The author equates their testing of Jesus with Satan's temptation (the same verb peirazo from 1:13), treating their demand as a deliberate choice to resist rather than as an inability to perceive. Jesus's grief (anastenaxas) rather than anger at their demand reinforces the implication that a different response was possible. The refusal to provide further signs is a response to their demonstrated refusal to accept what has already been given, not a withholding of evidence from people who might otherwise believe. However, the passage addresses the Pharisees' disposition toward evidence rather than directly arguing about who determines salvation outcomes.",
+            "key_phrases": ["to test Him", "Why does this generation demand a sign?", "no sign will be given to this generation"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:14-21",
+            "section_title": "The Leaven Warning and the Disciples' Failure to Understand",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading presents Jesus warning the disciples about the leaven of the Pharisees and Herod, followed by the most sustained rebuke of the disciples in the document — seven questions exposing their failure to comprehend the significance of the two feedings, with Jesus applying the language of Isaiah 6:9-10 and Jeremiah 5:21 ('Having eyes, do you not see? And having ears, do you not hear?') to his own inner circle and accusing them of hardened hearts.",
+            "relevance": "The passage bears on the determinism question because it deploys the heart-hardening tradition and the Isaiah 6 language of judicial blindness — texts sometimes associated with divine determination of who perceives and who does not. The neutral reading notes that the same word poroo (to harden) is applied to both the Pharisees (3:5) and the disciples (6:52, 8:17), and that the Isaiah 6 language from Mark 4:12, originally describing 'outsiders,' is now directed at the twelve: 'The insiders are exhibiting the condition of outsiders.' However, several features of the neutral reading weigh against a deterministic interpretation. First, the rebuke format presupposes that the disciples should understand — the word 'yet' (oupo) in 'Do you not yet comprehend?' implies they have had sufficient basis for understanding and are culpable for failing to achieve it. Second, 'Do you still have your heart hardened?' frames the condition as something the disciples possess and could change, not as something imposed from without. Third, the neutral reading connects the failure to the Psalm 78 tradition of Israel's wilderness generation, whose sin was specifically a failure to 'remember' — an active, volitional failure, not a divinely imposed inability. Fourth, the question 'Do you not remember?' followed by the disciples' correct recall of the numbers (twelve baskets, seven baskets) shows they have the data but lack perception — a gap the text treats as their responsibility to close. The passage presents spiritual blindness as a culpable human condition rather than an irresistible divine decree, though the heart-hardening language and Isaiah 6 echo carry genuine deterministic weight that prevents a higher confidence rating.",
+            "key_phrases": ["Do you not yet comprehend or understand?", "Do you still have your heart hardened?", "Having eyes, do you not see? And having ears, do you not hear?", "And do you not remember?", "Do you not yet understand?"],
+            "confidence": "medium"
+        },
+        {
+            "reference": "8:22-26",
+            "section_title": "The Two-Stage Healing of the Blind Man at Bethsaida",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents the only two-stage miracle in the gospel documents — a blind man first sees people as walking trees, then after a second touch sees everything clearly — and interprets it as an enacted parable about the disciples' spiritual perception, positioned between their failure to understand (vv. 14-21) and Peter's partial confession (vv. 27-30), to show that the disciples are at the halfway point of sight: they can identify Jesus as the Christ but cannot yet see that the Christ must suffer and die."
+        },
+        {
+            "reference": "8:27-30",
+            "section_title": "Peter's Declaration at Caesarea Philippi",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Peter's confession 'You are the Christ' as the first correct human identification of Jesus in the document — a declaration that is accurate (the author confirmed it in 1:1) but dangerously incomplete because 'the Christ' carries expectations of military triumph and political restoration that Jesus is about to contradict, prompting Jesus to suppress the confession with the same verb (epitimao) used for rebuking demons."
+        },
+        {
+            "reference": "8:31-33",
+            "section_title": "The First Passion Prediction and the Satanic Rebuke",
+            "category": "NOT_APPLICABLE",
+            "summary": "The neutral reading presents Jesus's announcement that the Son of Man 'must' (dei — divine necessity) suffer, be rejected by the full Sanhedrin, be killed, and rise after three days, followed by Peter's rebuke of Jesus and Jesus's counter-rebuke: 'Get behind Me, Satan; for you are not setting your mind on God's purposes, but on man's' — establishing that the human expectation of messiahship and God's actual plan are not merely different but opposed."
+        },
+        {
+            "reference": "8:34-38",
+            "section_title": "The Cost of Following a Suffering Messiah",
+            "category": "STRONG_LIBERTARIAN",
+            "conventional_use": "cited_for_agency",
+            "summary": "The neutral reading presents Jesus summoning the crowd together with his disciples and issuing a public declaration that following him requires self-denial, cross-bearing, and willingness to lose one's life, capped by a warning that the Son of Man's eschatological response to each person will mirror that person's response to him now.",
+            "relevance": "This passage directly addresses human choice as the determining factor in salvation outcomes, and does so as part of the author's central argument — not an aside, illustration, or assumption. The conditional 'If anyone wants to come after Me' (ei tis thelei opiso mou elthein) makes following voluntary: it begins with human desire and choice. Three human actions are then required: deny himself, take up his cross, follow. The paradox 'whoever wants to save his life will lose it, but whoever loses his life for My sake and the gospel's will save it' places the outcome squarely on the human decision — the verb 'wants' (thelei) and the repeated 'whoever' (hos) present this as a universal condition dependent on individual choice, not on prior divine selection. The rhetorical questions about gaining the world but forfeiting one's soul presuppose that the person makes the decisive calculation. Most directly, the eschatological warning operates on strict reciprocity: 'whoever is ashamed of Me and My words in this adulterous and sinful generation, the Son of Man will also be ashamed of him when He comes in the glory of His Father with the holy angels.' The Son of Man's future response is explicitly conditioned on each person's present human response — shame for shame. The neutral reading concludes that 'the choice is binary: follow the way of the cross, or follow the way of Satan. There is no third option.' The author presents this not as a description of what God has predetermined for individuals but as a genuine choice set before every person — crowd and disciples alike — with ultimate consequences. The audience expansion from disciples to 'the crowd' reinforces that these terms apply universally, not to a pre-selected group.",
+            "key_phrases": ["If anyone wants to come after Me, he must deny himself, take up his cross, and follow Me", "whoever wants to save his life will lose it", "whoever loses his life for My sake and the gospel's will save it", "what does it benefit a person to gain the whole world, and forfeit his soul?", "whoever is ashamed of Me and My words in this adulterous and sinful generation, the Son of Man will also be ashamed of him"],
+            "confidence": "high"
+        }
+    ]
+}
