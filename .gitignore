@@ -3,5 +3,8 @@
 pass2_combined.json
 *.jsonl
 
+# Working files - not for repo
+no-commit/
+
 # Ignore Claude project files
 .claude/

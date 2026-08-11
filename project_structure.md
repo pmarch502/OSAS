@@ -33,6 +33,13 @@ BibleStudy/
 │   └── ot-determinism/
 │       └── ...
 │
+├── usfm/                               SOURCE — Restored Context Bible USFM files
+│   └── nt/
+│       └── GAL.usfm                    Galatians (3-letter book codes)
+│
+├── scripts/
+│   └── gen_rcb_data.py                 Regenerate RCB data from USFM source
+│
 ├── docs/                               PUBLISHED — GitHub Pages root (/docs)
 │   ├── index.html                      Landing page linking to all reports
 │   ├── exegesis/                       Generated HTML versions of neutral readings
@@ -42,6 +49,10 @@ BibleStudy/
 │   │   └── ot/
 │   │       ├── Genesis_01.html
 │   │       └── ... (929 files)
+│   ├── rcb/                            Restored Context Bible viewer
+│   │   ├── index.html                  Single viewer (loads ?book=CODE)
+│   │   └── data/
+│   │       └── GAL.js                  Generated from usfm/nt/GAL.usfm
 │   └── reports/                        Interactive reports, one folder per topic
 │       ├── osas/
 │       │   ├── index.html              Interactive report

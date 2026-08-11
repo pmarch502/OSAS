@@ -199,6 +199,24 @@ function exegesisLink(book, chapter, reference) {
   return '<a class="exegesis-link" href="' + exegesisHref(book, chapter, reference) + '" target="_blank" title="View neutral reading for ' + book + ' ' + chapter + '">Exegesis</a>';
 }
 
+var RCB_BOOKS = { 'Galatians': 'GAL' };
+
+function rcbLink(book, chapter, reference) {
+  var code = RCB_BOOKS[book];
+  if (!code) return '';
+  var frag = 'ch' + chapter;
+  if (reference) {
+    var colonIdx = reference.indexOf(':');
+    if (colonIdx >= 0) {
+      var afterColon = reference.substring(colonIdx + 1);
+      var dash = afterColon.indexOf('-');
+      var v = dash >= 0 ? afterColon.substring(0, dash) : afterColon;
+      frag = 'v' + chapter + '-' + v;
+    }
+  }
+  return ' <a class="exegesis-link" href="../../rcb/index.html?book=' + code + '#' + frag + '" target="_blank" title="Restored Context Bible: ' + book + ' ' + chapter + '">RCB</a>';
+}
+
 DATA.forEach(function(d) { d.book = normBook(d.book); });
 
 var totals = {};
@@ -466,7 +484,7 @@ function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').re
     html += '<td><strong>' + s.book + ' ' + s.reference + '</strong></td><td>' + escHtml(s.section_title) + '</td>';
     html += '<td>' + confSpan(s.confidence) + '</td><td>' + convBadge(s.conventional_use) + '</td>';
     html += '<td style="max-width:400px">' + escHtml(s.summary) + '</td>';
-    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + '</td>';
+    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>';
     html += '<td>' + (s.relevance ? '<button class="expand-btn" data-arr="sc" data-aidx="' + idx + '">&#9654;</button>' : '') + '</td>';
     html += '</tr>';
   });
@@ -495,7 +513,7 @@ function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').re
     html += '<td><strong>' + s.book + ' ' + s.reference + '</strong></td><td>' + escHtml(s.section_title) + '</td>';
     html += '<td>' + confSpan(s.confidence) + '</td><td>' + convBadge(s.conventional_use) + '</td>';
     html += '<td style="max-width:400px">' + escHtml(s.summary) + '</td>';
-    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + '</td>';
+    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>';
     html += '<td>' + (s.relevance ? '<button class="expand-btn" data-arr="lp" data-aidx="' + idx + '">&#9654;</button>' : '') + '</td>';
     html += '</tr>';
   });
@@ -551,7 +569,7 @@ function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').re
     html += '<td><strong>' + s.book + ' ' + s.reference + '</strong></td><td>' + escHtml(s.section_title) + '</td>';
     html += '<td>' + convBadge(s.conventional_use) + '</td><td>' + confSpan(s.confidence) + '</td>';
     html += '<td style="max-width:400px">' + escHtml(s.summary) + '</td>';
-    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + '</td>';
+    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>';
     html += '<td>' + (s.relevance ? '<button class="expand-btn" data-aidx="' + idx + '">&#9654;</button>' : '') + '</td>';
     html += '</tr>';
   });
@@ -650,7 +668,7 @@ function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').re
         '<td>' + confSpan(s.confidence) + '</td>' +
         '<td>' + convBadge(s.conventional_use) + '</td>' +
         '<td style="max-width:400px">' + escHtml(s.summary) + '</td>' +
-        '<td>' + exegesisLink(s.book, s.chapter, s.reference) + '</td>' +
+        '<td>' + exegesisLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>' +
         '<td>' + (s.relevance ? '<button class="expand-btn" data-sect-idx="' + i + '">&#9654;</button>' : '') + '</td>';
       tbody.appendChild(tr);
     });

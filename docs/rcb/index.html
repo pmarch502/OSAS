@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Restored Context Bible</title>
+<style>
+  :root {
+    --text: #1a1a1a;
+    --bg: #faf8f5;
+    --restoration: #6a5a3c;
+    --restoration-bg: rgba(106, 90, 60, 0.06);
+    --verse-num: #8a7a5a;
+    --heading: #2c2416;
+    --intro-border: #d4c9b0;
+    --link: #5a6f3c;
+    --note: #c05030;
+    --note-bg: rgba(192, 80, 48, 0.15);
+    --muted: #7a7060;
+    --toggle-bg: #e8e0d0;
+    --toggle-active: #6a5a3c;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text: #d4cfc8;
+      --bg: #1c1a17;
+      --restoration: #c4a86c;
+      --restoration-bg: rgba(196, 168, 108, 0.08);
+      --verse-num: #a09070;
+      --heading: #e0d4c0;
+      --intro-border: #3a3428;
+      --link: #8aaa5c;
+      --note: #e08060;
+      --note-bg: rgba(224, 128, 96, 0.18);
+      --muted: #908878;
+      --toggle-bg: #2c2820;
+      --toggle-active: #c4a86c;
+    }
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.8;
+    font-size: 18px;
+  }
+
+  .toolbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--bg);
+    border-bottom: 1px solid var(--intro-border);
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 14px;
+  }
+
+  .home-link {
+    color: var(--muted);
+    text-decoration: none;
+    font-size: 13px;
+    margin-right: 12px;
+  }
+
+  .home-link:hover {
+    color: var(--text);
+  }
+
+  .toolbar-title {
+    font-weight: 600;
+    color: var(--heading);
+    font-size: 15px;
+  }
+
+  .toolbar-subtitle {
+    color: var(--muted);
+    font-size: 13px;
+    margin-left: 8px;
+  }
+
+  .toggle-btn {
+    background: var(--toggle-bg);
+    border: none;
+    padding: 6px 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--text);
+    font-family: inherit;
+    transition: background 0.2s;
+  }
+
+  .toggle-btn:hover {
+    background: var(--toggle-active);
+    color: var(--bg);
+  }
+
+  .toggle-btn.active {
+    background: var(--toggle-active);
+    color: var(--bg);
+  }
+
+  .container {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 30px 20px 80px;
+  }
+
+  .book-title {
+    font-size: 32px;
+    font-weight: normal;
+    color: var(--heading);
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  .intro {
+    border-left: 3px solid var(--intro-border);
+    padding: 16px 20px;
+    margin-bottom: 40px;
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--muted);
+  }
+
+  .intro p {
+    margin-bottom: 12px;
+  }
+
+  .intro p:last-child {
+    margin-bottom: 0;
+  }
+
+  .chapter-num {
+    display: block;
+    font-size: 48px;
+    color: var(--heading);
+    font-weight: normal;
+    line-height: 1;
+    margin-bottom: 8px;
+    margin-top: 40px;
+  }
+
+  .chapter-num:first-of-type {
+    margin-top: 0;
+  }
+
+  .section-heading {
+    scroll-margin-top: 60px;
+  }
+
+  .section-heading {
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--heading);
+    margin-top: 28px;
+    margin-bottom: 12px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    letter-spacing: 0.3px;
+  }
+
+  .paragraph {
+    margin-bottom: 8px;
+    text-align: justify;
+    text-indent: 0;
+  }
+
+  .verse-num {
+    font-size: 14px;
+    font-weight: bold;
+    color: var(--text);
+    vertical-align: super;
+    line-height: 0;
+    margin-right: 3px;
+    scroll-margin-top: 60px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+
+  .restoration {
+    color: var(--restoration);
+    background: var(--restoration-bg);
+    border-radius: 2px;
+    padding: 0 1px;
+    font-size: 0.92em;
+    transition: opacity 0.3s, color 0.3s;
+  }
+
+  body.hide-restorations .restoration {
+    opacity: 0;
+    font-size: 0;
+    padding: 0;
+    margin: 0;
+  }
+
+  .note-marker {
+    font-size: 11px;
+    font-weight: bold;
+    color: var(--note);
+    background: var(--note-bg);
+    vertical-align: super;
+    line-height: 0;
+    cursor: pointer;
+    padding: 1px 3px;
+    border: 1px solid var(--note);
+    border-radius: 3px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+
+  .note-marker:hover {
+    background: var(--note);
+    color: #fff;
+    border-color: var(--note);
+  }
+
+  .footnote-popup {
+    display: none;
+    position: absolute;
+    background: var(--bg);
+    border: 1px solid var(--intro-border);
+    padding: 10px 14px;
+    border-radius: 4px;
+    font-size: 14px;
+    max-width: 360px;
+    line-height: 1.5;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    z-index: 200;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+
+  .error-msg {
+    text-align: center;
+    color: var(--muted);
+    margin-top: 4rem;
+    font-size: 1.1rem;
+  }
+</style>
+</head>
+<body>
+
+<div class="toolbar">
+  <div>
+    <a href="../index.html" class="home-link">Home</a>
+    <span class="toolbar-title">Restored Context Bible</span>
+    <span class="toolbar-subtitle" id="toolbar-book"></span>
+  </div>
+  <button class="toggle-btn active" id="toggleBtn" onclick="toggleRestorations()">
+    Restorations: ON
+  </button>
+</div>
+
+<div class="container" id="content"></div>
+
+<script>
+function slugify(text) {
+  return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+}
+
+function parseUSFM(usfm) {
+  const lines = usfm.split('\n');
+  let html = '';
+  let bookTitle = '';
+  let inIntro = false;
+  let introHtml = '';
+  let inParagraph = false;
+  let currentChapter = 0;
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim();
+    if (!line) continue;
+
+    if (line.startsWith('\\id ') || line.startsWith('\\toc')) continue;
+    if (line.startsWith('\\h ')) {
+      bookTitle = line.substring(3).trim();
+      continue;
+    }
+    if (line.startsWith('\\mt1 ')) {
+      html += '<div class="book-title">' + line.substring(5).trim() + '</div>';
+      continue;
+    }
+
+    if (line.startsWith('\\imt ')) {
+      inIntro = true;
+      introHtml = '';
+      continue;
+    }
+    if (line.startsWith('\\ip ')) {
+      introHtml += '<p>' + renderInline(line.substring(4).trim()) + '</p>';
+      continue;
+    }
+
+    if (line.startsWith('\\c ')) {
+      if (inIntro) {
+        html += '<div class="intro">' + introHtml + '</div>';
+        inIntro = false;
+      }
+      if (inParagraph) {
+        html += '</div>';
+        inParagraph = false;
+      }
+      currentChapter = parseInt(line.substring(3).trim());
+      noteCounter = 0;
+      html += '<span class="chapter-num" id="ch' + currentChapter + '">' + currentChapter + '</span>';
+      continue;
+    }
+
+    if (line.startsWith('\\s1 ')) {
+      if (inParagraph) {
+        html += '</div>';
+        inParagraph = false;
+      }
+      var headingText = line.substring(4).trim();
+      var id = 'ch' + currentChapter + '-' + slugify(headingText);
+      html += '<div class="section-heading" id="' + id + '">' + renderInline(headingText) + '</div>';
+      continue;
+    }
+
+    if (line === '\\p') {
+      if (inParagraph) {
+        html += '</div>';
+      }
+      html += '<div class="paragraph">';
+      inParagraph = true;
+      continue;
+    }
+
+    if (line.startsWith('\\v ')) {
+      const rest = line.substring(3).trim();
+      const spaceIdx = rest.indexOf(' ');
+      const verseNum = rest.substring(0, spaceIdx);
+      const verseText = rest.substring(spaceIdx + 1);
+      html += '<span class="verse-num" id="v' + currentChapter + '-' + verseNum + '">' + verseNum + '</span>' + renderInline(verseText) + ' ';
+      continue;
+    }
+  }
+
+  if (inParagraph) html += '</div>';
+  if (inIntro) html += '<div class="intro">' + introHtml + '</div>';
+
+  document.getElementById('toolbar-book').textContent = bookTitle;
+  return html;
+}
+
+let noteCounter = 0;
+
+function renderInline(text) {
+  text = text.replace(/\\u([0-9a-fA-F]{4})/g, function(_, hex) { return String.fromCharCode(parseInt(hex, 16)); });
+
+  text = text.replace(/\\f \+ \\fr ([^ ]+) \\ft (.*?)\\f\*/g, function(match, ref, noteText) {
+    noteCounter++;
+    var letter = String.fromCharCode(96 + ((noteCounter - 1) % 26) + 1);
+    var safeText = noteText.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;').replace(/</g, '&lt;');
+    return '<span class="note-marker" data-note="' + safeText + '" onclick="showNote(event, this)" onmouseenter="showNoteHover(event, this)" onmouseleave="hideNoteHover()">' + letter + '</span>';
+  });
+
+  text = text.replace(/\\add\s+(.*?)\\add\*/g, '<span class="restoration">$1</span>');
+
+  return text;
+}
+
+function toggleRestorations() {
+  var btn = document.getElementById('toggleBtn');
+  document.body.classList.toggle('hide-restorations');
+  var hidden = document.body.classList.contains('hide-restorations');
+  btn.textContent = hidden ? 'Restorations: OFF' : 'Restorations: ON';
+  btn.classList.toggle('active', !hidden);
+}
+
+let popupPinned = false;
+
+function positionPopup(popup, el) {
+  var rect = el.getBoundingClientRect();
+  var left = Math.max(10, Math.min(rect.left, window.innerWidth - 380));
+  popup.style.left = left + 'px';
+  popup.style.top = (rect.bottom + window.scrollY + 8) + 'px';
+}
+
+function showNoteHover(event, el) {
+  if (popupPinned) return;
+  var popup = document.getElementById('footnotePopup');
+  var text = el.getAttribute('data-note');
+  popup.textContent = text.length > 120 ? text.substring(0, 120) + '…' : text;
+  popup.style.display = 'block';
+  positionPopup(popup, el);
+}
+
+function hideNoteHover() {
+  if (popupPinned) return;
+  document.getElementById('footnotePopup').style.display = 'none';
+}
+
+function showNote(event, el) {
+  event.stopPropagation();
+  popupPinned = true;
+  var popup = document.getElementById('footnotePopup');
+  popup.textContent = el.getAttribute('data-note');
+  popup.style.display = 'block';
+  positionPopup(popup, el);
+}
+
+document.addEventListener('click', function() {
+  popupPinned = false;
+  document.getElementById('footnotePopup').style.display = 'none';
+});
+
+var params = new URLSearchParams(window.location.search);
+var bookCode = params.get('book');
+
+if (bookCode) {
+  var script = document.createElement('script');
+  script.src = 'data/' + bookCode + '.js';
+  script.onload = function() {
+    document.getElementById('content').innerHTML = parseUSFM(USFM);
+    if (window.location.hash) {
+      setTimeout(function() {
+        var el = document.getElementById(window.location.hash.substring(1));
+        if (el) el.scrollIntoView();
+      }, 50);
+    }
+  };
+  script.onerror = function() {
+    document.getElementById('content').innerHTML = '<p class="error-msg">Book data not found.</p>';
+  };
+  document.head.appendChild(script);
+} else {
+  document.getElementById('content').innerHTML = '<p class="error-msg">No book specified.</p>';
+}
+</script>
+
+<div class="footnote-popup" id="footnotePopup"></div>
+</body>
+</html>

@@ -56,6 +56,36 @@ Notes:
 - Skip `combined.json` (legacy pre-flattened file)
 - Same pattern applies for future `nt-determinism` reports
 
+## Restored Context Bible (RCB)
+
+Original English translation from Greek with inline contextual restorations (`\add`) and footnotes (`\f`) in USFM 3.x format. See `RCB-decisions.md` for format, markup, translation philosophy, and key term decisions.
+
+### RCB pipeline
+
+```
+usfm/nt/{BOOK}.usfm                ← Source: USFM with restorations and footnotes
+        ↓
+docs/rcb/data/{BOOK}.js            ← JS data file (MUST REGENERATE)
+        ↓
+docs/rcb/index.html                ← Single viewer (loads ?book={BOOK})
+```
+
+Reports link to the RCB viewer via `RCB_BOOKS` map in each report's JS. Adding a new book: drop a data file and add one entry to that map.
+
+### Regenerating RCB data
+
+After any change to a USFM source file:
+
+```
+python scripts/gen_rcb_data.py GAL
+```
+
+The script reads `usfm/nt/{BOOK}.usfm`, escapes for a JS template literal, and writes `docs/rcb/data/{BOOK}.js`.
+
+### RCB file naming
+
+`{BOOK}.usfm` — three-letter book abbreviation (e.g., `GAL`, `ROM`, `EPH`). Same abbreviation used in the data JS file and the `?book=` query parameter.
+
 ## Correction workflow
 
 When the project author identifies a factual error or overlooked evidence:
