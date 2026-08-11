@@ -70,7 +70,24 @@ docs/rcb/data/{BOOK}.js            ← JS data file (MUST REGENERATE)
 docs/rcb/index.html                ← Single viewer (loads ?book={BOOK})
 ```
 
-Reports link to the RCB viewer via `RCB_BOOKS` map in each report's JS. Adding a new book: drop a data file and add one entry to that map.
+### RCB links in reports
+
+Every report links each passage row to the RCB viewer when that book has been translated.
+
+`docs/rcb/books.js` is the single source for this. It holds the `RCB_BOOKS` map (full book name as it appears in `data.js` → three-letter code) and `rcbLink()`, which returns an empty string for books not in the map, so untranslated books silently render nothing.
+
+A report wires it up in two places:
+
+1. `<script src="../../rcb/books.js"></script>` after the `data.js` tag and before the inline script
+2. `rcbLink(s.book, s.chapter, s.reference)` appended after `exegesisLink(...)` in every table-row builder
+
+Adding a translated book (e.g. Ephesians):
+
+1. `python scripts/gen_rcb_data.py EPH`
+2. Add `'Ephesians': 'EPH'` to `RCB_BOOKS` in `docs/rcb/books.js` — one line, one file, all reports pick it up
+3. Verify a passage row in that book shows the RCB link and the fragment lands on the right verse
+
+Note `books.js` builds its href relative to the *including page*, assuming `docs/reports/{topic}/index.html`. A page at a different depth would need the path adjusted.
 
 ### Regenerating RCB data
 
@@ -115,6 +132,7 @@ When the project author identifies a factual error or overlooked evidence:
 - Model: opus
 - Pacing: 2-3 agents at a time max
 - After all chapters are done: regenerate `data.js` and verify the report
+- New report? Carry over the RCB link wiring — see "RCB links in reports" below. It is easy to ship a report with no RCB links and not notice.
 
 ## Converting markdown to HTML
 

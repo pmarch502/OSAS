@@ -51,6 +51,7 @@ BibleStudy/
 │   │       └── ... (929 files)
 │   ├── rcb/                            Restored Context Bible viewer
 │   │   ├── index.html                  Single viewer (loads ?book=CODE)
+│   │   ├── books.js                    Shared RCB_BOOKS map + rcbLink(), used by all reports
 │   │   └── data/
 │   │       └── GAL.js                  Generated from usfm/nt/GAL.usfm
 │   └── reports/                        Interactive reports, one folder per topic
@@ -124,4 +125,5 @@ All analysis is performed by **Claude Opus 4.6 (Anthropic)**. The model identifi
 3. Output goes to `assessments/{testament}-{topic}/`
 4. Aggregate JSONs into `docs/reports/{topic}/data.js`
 5. Adapt the report template for the topic's categories and question
-6. Update `docs/index.html` to link to the new report
+6. Carry over the RCB link wiring — include `../../rcb/books.js` and call `rcbLink(...)` after `exegesisLink(...)` in each table-row builder. See CLAUDE.md, "RCB links in reports"
+7. Update `docs/index.html` to link to the new report

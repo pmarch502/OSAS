@@ -133,6 +133,7 @@ summary:hover { color: var(--leans-perm); }
 <div id="tab-all" class="tab-content"></div>
 
 <script src="data.js"></script>
+<script src="../../rcb/books.js"></script>
 <script>
 var BOOK_ORDER = [
   'Matthew','Mark','Luke','John','Acts',
@@ -199,23 +200,7 @@ function exegesisLink(book, chapter, reference) {
   return '<a class="exegesis-link" href="' + exegesisHref(book, chapter, reference) + '" target="_blank" title="View neutral reading for ' + book + ' ' + chapter + '">Exegesis</a>';
 }
 
-var RCB_BOOKS = { 'Galatians': 'GAL' };
-
-function rcbLink(book, chapter, reference) {
-  var code = RCB_BOOKS[book];
-  if (!code) return '';
-  var frag = 'ch' + chapter;
-  if (reference) {
-    var colonIdx = reference.indexOf(':');
-    if (colonIdx >= 0) {
-      var afterColon = reference.substring(colonIdx + 1);
-      var dash = afterColon.indexOf('-');
-      var v = dash >= 0 ? afterColon.substring(0, dash) : afterColon;
-      frag = 'v' + chapter + '-' + v;
-    }
-  }
-  return ' <a class="exegesis-link" href="../../rcb/index.html?book=' + code + '#' + frag + '" target="_blank" title="Restored Context Bible: ' + book + ' ' + chapter + '">RCB</a>';
-}
+/* RCB_BOOKS and rcbLink() live in ../../rcb/books.js (loaded above) */
 
 DATA.forEach(function(d) { d.book = normBook(d.book); });
 
