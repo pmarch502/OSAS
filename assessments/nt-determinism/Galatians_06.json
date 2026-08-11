@@ -4,45 +4,45 @@
     "sections": [
         {
             "reference": "6:1-5",
-            "section_title": "Communal Responsibility and Self-Knowledge",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul instructs the community on Spirit-led responses to a member's transgression, mutual burden-bearing, honest self-examination, and individual responsibility before God."
+            "section_title": "Restoring the Fallen and Testing One's Own Work",
+            "category": "LEANS_LIBERTARIAN",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul instructs the Spirit-led community to gently restore members caught in transgression, to bear one another's burdens as fulfillment of 'the law of Christ,' and to practice honest self-examination rather than competitive comparison, while maintaining that each person bears individual accountability before God.",
+            "relevance": "The passage presupposes genuine human agency at multiple points: believers can be 'caught in transgression' and need restoration (not permanently secured against falling); the restorer is warned 'lest you too be tempted,' placing every believer in the same category of vulnerability; and each person 'will have to bear his own load' before God, implying individual eschatological accountability for one's own conduct. While the section's primary focus is community ethics rather than the question of who determines salvation, the logic throughout assumes that believers' choices and conduct genuinely matter for their standing.",
+            "key_phrases": ["if anyone is caught in any transgression", "lest you too be tempted", "let each one test his own work", "each will have to bear his own load"],
+            "confidence": "medium"
         },
         {
             "reference": "6:6",
-            "section_title": "Sharing with Those Who Teach",
+            "section_title": "Supporting Those Who Teach",
             "category": "NOT_APPLICABLE",
-            "summary": "Paul gives practical instruction that those who receive oral teaching should share material goods with those who teach them."
+            "summary": "Paul instructs those receiving oral teaching to share material goods with their teachers, establishing a reciprocal relationship of spiritual and material support."
         },
         {
             "reference": "6:7-10",
-            "section_title": "Sowing and Reaping — The Flesh-Spirit Contrast Applied",
+            "section_title": "The Sowing-Reaping Principle -- Flesh and Spirit in Eschatological Terms",
             "category": "STRONG_LIBERTARIAN",
-            "conventional_use": "cited_for_agency",
-            "summary": "Paul applies the sowing-reaping principle to the flesh-Spirit contrast, declaring that the one who sows to the flesh reaps corruption and the one who sows to the Spirit reaps eternal life.",
-            "relevance": "The passage directly presents salvation outcomes — eternal life versus corruption — as determined by human choice. The reflexive 'his own flesh' emphasizes that sowing is a personal decision, and the universal law 'whatever one sows, that will he also reap' frames the harvest as corresponding to the human agent's investment. The conditional 'if we do not give up' makes perseverance a genuine factor in the outcome. The entire framework treats human agency as determinative: the person chooses the field (flesh or Spirit), and the harvest follows accordingly.",
-            "key_phrases": [
-                "whatever one sows, that will he also reap",
-                "the one who sows to his own flesh will from the flesh reap corruption",
-                "the one who sows to the Spirit will from the Spirit reap eternal life",
-                "if we do not give up",
-                "God is not mocked"
-            ],
+            "conventional_use": "not_in_debate",
+            "summary": "Paul applies the agricultural principle of sowing and reaping to the flesh-Spirit contrast, declaring that sowing to the flesh reaps corruption while sowing to the Spirit reaps eternal life, and exhorting the community to persist in doing good since the harvest depends on not giving up.",
+            "relevance": "This passage directly addresses human choices as determinative of salvation outcomes, and it does so as the core of Paul's own argument. The sowing-reaping principle ('whatever one sows, that will he also reap') places the determining action squarely with the human agent: the person chooses the field (flesh or Spirit) and the harvest follows accordingly (corruption or eternal life). The neutral reading identifies this as the third in a series of warnings addressed to believers (alongside 5:4 and 5:21), all describing 'real possibilities' of forfeiting the inheritance. The conditional 'if we do not give up' in verse 9 makes perseverance -- a human action -- an explicit condition of receiving the eschatological harvest. The neutral reading concludes that 'the inheritance -- the kingdom of God, eternal life -- is genuine, but it is not automatically guaranteed regardless of subsequent choices.'",
+            "key_phrases": ["whatever one sows, that will he also reap", "the one who sows to his own flesh will from the flesh reap corruption", "the one who sows to the Spirit will from the Spirit reap eternal life", "if we do not give up", "God is not mocked"],
             "confidence": "high"
         },
         {
-            "reference": "6:11-18",
-            "section_title": "Paul's Handwritten Conclusion — The Cross Against Circumcision",
+            "reference": "6:11-17",
+            "section_title": "Paul's Handwritten Summary -- The Cross Against Circumcision",
             "category": "LEANS_LIBERTARIAN",
             "conventional_use": "not_in_debate",
-            "summary": "Paul exposes the agitators' motives of vanity and cowardice, declares the cross as the sole basis for boasting, proclaims new creation as the only category that matters, and pronounces blessing on those who walk by this standard as the Israel of God.",
-            "relevance": "The blessing in verse 16 is conditioned on those who 'walk by this rule' — the verb stoicheo implies ongoing human choice to align with the standard of new creation. Belonging to the 'Israel of God' is tied to walking by the cross-centered rule, not to a prior divine determination. The passage frames standing before God as connected to a human posture (walking by the rule of new creation) rather than to an irrevocable divine decree, though its primary focus is the cross-circumcision contrast rather than the determinism question directly.",
-            "key_phrases": [
-                "as for all who walk by this rule, peace and mercy be upon them",
-                "neither circumcision counts for anything, nor uncircumcision, but a new creation",
-                "the Israel of God"
-            ],
+            "summary": "Paul takes the pen himself to expose the agitators' motives as vanity and cowardice, declares his sole boast in the cross through which the world-system has been crucified, announces that what matters is neither circumcision nor uncircumcision but 'new creation,' and presents his own bodily scars as the marks of Jesus contrasted with the circumcision marks the agitators promote.",
+            "relevance": "The section is primarily about identity markers (cross vs. circumcision) rather than directly about who determines salvation, but its logic presupposes genuine human agency throughout. The agitators choose to compel circumcision; the Galatians face a real decision with real consequences; Paul chooses to boast in the cross. The command to 'walk by this rule' (v. 16) assumes the Galatians can choose to align with the new creation standard or not. While 'new creation' (kaine ktisis) is God's eschatological act, participation in it is framed throughout the letter as contingent on faith -- a genuine human response -- not on unilateral divine selection. The entire rhetorical force of the passage depends on the Galatians being genuine agents whose decision matters.",
+            "key_phrases": ["neither circumcision counts for anything, nor uncircumcision, but a new creation", "all who walk by this rule", "who would force you to be circumcised", "far be it from me to boast except in the cross"],
             "confidence": "medium"
+        },
+        {
+            "reference": "6:18",
+            "section_title": "The Final Benediction",
+            "category": "NOT_APPLICABLE",
+            "summary": "Paul closes the letter with a prayer that the grace of the Lord Jesus Christ be with the Galatians' spirit, maintaining the familial address 'brothers' despite the letter's severity."
         }
     ]
 }

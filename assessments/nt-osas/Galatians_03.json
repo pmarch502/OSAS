@@ -4,49 +4,61 @@
   "sections": [
     {
       "reference": "3:1-5",
-      "section_title": "The Galatians' Own Experience as Evidence",
+      "section_title": "The Appeal to the Galatians' Own Experience",
       "category": "LEANS_CONDITIONAL",
       "conventional_use": "not_in_debate",
-      "summary": "Paul appeals to the Galatians' own experience of receiving the Spirit through faith-hearing rather than law-works, asking whether having begun by the Spirit they are now being perfected by the flesh, and whether their suffering was in vain.",
-      "relevance": "The question 'Having begun by the Spirit, are you now being perfected by the flesh?' (3:3) presupposes that a Spirit-begun process can be derailed by turning to a different mechanism. The question 'Did you suffer so many things in vain?' (3:4) implies that the Galatians' spiritual progress could be rendered fruitless by their current trajectory. Together these questions indicate that beginning in the Spirit does not guarantee completion, and that the standing established through the Spirit received by faith could be undermined by a turn to law-based observance.",
-      "key_phrases": ["Having begun by the Spirit, are you now being perfected by the flesh?", "Did you suffer so many things in vain -- if indeed it was in vain?"],
+      "summary": "Paul appeals to the Galatians' undeniable experience of receiving the Spirit through faith-hearing, not circumcision, arguing that turning to circumcision would mean regression from Spirit to flesh and could render their experience 'in vain.'",
+      "relevance": "Verse 4 asks whether the Galatians' experience will have been 'in vain' if they complete the turn to circumcision, implying that abandoning the faith-basis of their standing could nullify what they received. Verse 3 frames the proposed shift from Spirit to flesh as regression, not merely an unnecessary supplement, suggesting that the standing established through faith is dependent on maintaining that faith-basis rather than exchanging it for another. The conditional 'if indeed it was in vain' (v. 4) holds the outcome open, meaning the Galatians' standing is still in the balance and determined by their subsequent choice.",
+      "key_phrases": ["Having begun by the Spirit, are you now being perfected by the flesh?", "Did you suffer so many things in vain -- if indeed it was in vain?", "Did you receive the Spirit by works of the law or by hearing with faith?"],
       "confidence": "medium"
     },
     {
       "reference": "3:6-9",
-      "section_title": "Abraham and the Blessing of the Nations",
+      "section_title": "The Argument from Abraham -- Faith, Not Circumcision, Defines Sonship",
       "category": "NOT_APPLICABLE",
-      "summary": "Paul argues from Genesis 15:6 that Abraham was justified by faith and that those who share Abraham's faith are his sons and share his blessing, citing the promise that all nations would be blessed in Abraham."
+      "summary": "Paul establishes from Genesis 15:6 and Genesis 12:3/18:18 that Abrahamic sonship is constituted by faith rather than circumcision, and that the blessing of Abraham was always intended for all nations."
     },
     {
       "reference": "3:10-14",
       "section_title": "The Law's Curse and Christ's Redemption",
-      "category": "NOT_APPLICABLE",
-      "summary": "Paul argues that those who rely on works of the law are under a curse because the law demands comprehensive obedience that no one achieves, that no one is justified by the law since the righteous shall live by faith, and that Christ redeemed those under the curse by becoming a curse himself on the cross, so that Abraham's blessing could flow to the Gentiles and the promise of the Spirit could be received through faith."
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul argues that the law-covenant system operates by curse since no one achieves comprehensive obedience, that Christ exhausted the curse by becoming a curse for those under the law, thereby opening the Abrahamic blessing to the Gentiles and the promise of the Spirit to all who believe through faith.",
+      "relevance": "Christ's redemptive act is described with the commercial term exagorazo ('to buy out'), presenting redemption as a completed purchase that removed those under the law from the curse's jurisdiction. The double purpose clause of verse 14 presents the Abrahamic blessing reaching the Gentiles and the Spirit being received through faith as accomplished outcomes of a decisive, finished act. The finality and completeness of this redemption supports the permanence of the new standing it establishes. However, the passage addresses a salvation-historical event -- Christ's exhaustion of the covenant curse -- rather than directly addressing whether an individual believer's standing can subsequently be lost.",
+      "key_phrases": ["Christ redeemed us from the curse of the law by becoming a curse for us", "so that in Christ Jesus the blessing of Abraham might come to the Gentiles", "so that we might receive the promise of the Spirit through faith"],
+      "confidence": "medium"
     },
     {
       "reference": "3:15-18",
-      "section_title": "The Priority of the Promise over the Law",
-      "category": "NOT_APPLICABLE",
-      "summary": "Paul argues from the legal principle that a ratified covenant cannot be annulled or amended, establishing that the Abrahamic promise -- made to Abraham and his singular seed identified as Christ -- cannot be altered by the law which came 430 years later, and that the inheritance comes by promise, not by law."
+      "section_title": "The Priority of Promise over Law",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul argues that the Abrahamic promise, unilaterally ratified by God 430 years before the law, cannot be annulled or supplemented by the law, and that the inheritance comes by promise and grace, not by law and performance.",
+      "relevance": "The emphasis on God's unilateral ratification of the promise and the impossibility of its annulment supports the permanence of what the promise grants. The inheritance is described as something God 'graced' (kecharistai) to Abraham -- a completed gift with ongoing force (perfect tense). If the believer's standing is rooted in this irrevocable, God-ratified promise rather than in human performance, the standing shares the promise's inviolability. However, the passage addresses the relationship between two covenant systems rather than directly addressing whether an individual heir can forfeit the inheritance.",
+      "key_phrases": ["no one annuls it or adds to it once it has been ratified", "the law, which came 430 years afterward, does not annul a covenant previously ratified by God", "God gave it to Abraham by a promise"],
+      "confidence": "low"
     },
     {
       "reference": "3:19-22",
-      "section_title": "The Purpose of the Law",
+      "section_title": "The Purpose of the Law -- Added for a Defined Role, Subordinate to the Promise",
       "category": "NOT_APPLICABLE",
-      "summary": "Paul explains that the law was added because of transgressions until the promised seed should come, was delivered indirectly through angels and a mediator, cannot give life or produce righteousness, and functioned to imprison everything under sin so that the promise could be given through faith to those who believe."
+      "summary": "Paul explains the law's temporary, subordinate role: added because of transgressions until the seed (Christ) came, delivered indirectly through angels and a mediator, unable to give life, with Scripture imprisoning everything under sin so the promise might be given through faith to those who believe."
     },
     {
       "reference": "3:23-25",
-      "section_title": "The Law as Paidagogos",
+      "section_title": "The Paidagogos -- The Law's Temporary Custodial Function",
       "category": "NOT_APPLICABLE",
-      "summary": "Paul describes the law as a paidagogos -- a custodial escort, not a teacher -- that supervised those under it until Christ came, with the purpose of delivering them to justification by faith, a custodial role that is now complete."
+      "summary": "Paul describes the law's function as a paidagogos (custodian-escort) for Jewish believers -- a legitimate but temporary supervisory role that ended with the arrival of faith and Christ, so that those formerly under the law's custody are no longer under its jurisdiction."
     },
     {
       "reference": "3:26-29",
-      "section_title": "Identity in Christ",
-      "category": "NOT_APPLICABLE",
-      "summary": "Paul declares that in Christ Jesus all are sons of God through faith, baptized into Christ and clothed with Christ, with the divisions of Jew-Greek, slave-free, and male-female rendered irrelevant as determinants of standing, and that those who belong to Christ are Abraham's seed and heirs according to promise."
+      "section_title": "Identity in Christ -- Sons, Seed, Heirs",
+      "category": "LEANS_PERMANENT",
+      "conventional_use": "not_in_debate",
+      "summary": "Paul declares that in Christ Jesus the Galatians are all sons of God through faith, that baptism into Christ constitutes putting on Christ with the abolition of ethnic, social, and biological distinctions, and that those who belong to Christ are Abraham's seed and heirs according to the irrevocable promise.",
+      "relevance": "The declarations of sonship, incorporation into Christ, and heirship are stated as accomplished realities in strong, present-tense terms: 'you are all sons of God,' 'you are all one in Christ Jesus,' 'you are Abraham's offspring, heirs according to promise.' The inheritance is explicitly tied to the irrevocable Abrahamic promise established in 3:15-18, and the identity is secured by incorporation into Christ (the seed to whom the promises were made). These elements support the permanence of the believer's standing. However, the standing is also described as 'through faith' (dia tes pisteos), and the broader letter context warns urgently against abandoning this faith-basis (cf. 5:4), leaving open whether the faith-conditioned nature of the standing implies ongoing conditionality.",
+      "key_phrases": ["in Christ Jesus you are all sons of God, through faith", "as many of you as were baptized into Christ have put on Christ", "you are all one in Christ Jesus", "if you are Christ's, then you are Abraham's offspring, heirs according to promise"],
+      "confidence": "medium"
     }
   ]
 }

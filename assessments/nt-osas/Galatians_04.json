@@ -1,64 +1,66 @@
 {
-  "book": "Galatians",
-  "chapter": 4,
-  "sections": [
-    {
-      "reference": "4:1-2",
-      "section_title": "The Minor Heir -- Owner of Everything, Free as a Slave",
-      "category": "NOT_APPLICABLE",
-      "summary": "Paul illustrates the condition of an heir during minority: though owner of everything, the child is no different from a slave, subject to guardians and managers until the date set by the father."
-    },
-    {
-      "reference": "4:3-5",
-      "section_title": "Enslaved under the Stoicheia -- Redeemed by the Son",
-      "category": "NOT_APPLICABLE",
-      "summary": "Paul describes the pre-Christ condition as enslavement under the elementary things of the world, and declares that when the fullness of time came God sent his Son, born under the law, to redeem those under the law so that all believers could receive adoption as sons."
-    },
-    {
-      "reference": "4:6-7",
-      "section_title": "The Spirit of the Son -- Evidence of Sonship",
-      "category": "NOT_APPLICABLE",
-      "summary": "Paul declares that because the Galatians are sons, God sent the Spirit of his Son into their hearts crying 'Abba, Father,' so that each believer is no longer a slave but a son and heir through God."
-    },
-    {
-      "reference": "4:8-11",
-      "section_title": "The Regression into Bondage",
-      "category": "LEANS_CONDITIONAL",
-      "conventional_use": "not_in_debate",
-      "summary": "Paul warns the Galatians that their adoption of Torah observance -- observing days, months, seasons, and years -- constitutes a regression from knowing God back into enslavement to weak and worthless elementary things, and expresses fear that his labor among them may have been in vain.",
-      "relevance": "The passage describes believers who have 'come to know God, or rather to be known by God' (4:9) as being in the active process of turning back to bondage. Paul's self-correction ('or rather to be known by God') places the initiative with God -- God knew them, God chose them -- yet this divine knowing does not prevent their voluntary return to slavery. The fear that his labor was 'in vain' (4:11) implies that the entire process of the Galatians' coming to know God could be rendered fruitless by their regression. The passage presupposes that being known by God does not automatically preserve the known from voluntarily returning to bondage.",
-      "key_phrases": ["now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless elementary things?", "Do you wish to be enslaved by them all over again?", "I am afraid I may have labored over you in vain"],
-      "confidence": "high"
-    },
-    {
-      "reference": "4:12-16",
-      "section_title": "The Personal Appeal -- Remember How You Received Me",
-      "category": "NOT_APPLICABLE",
-      "summary": "Paul makes a personal appeal recalling the Galatians' extraordinary initial reception of him despite his bodily ailment, and laments that their former blessedness has been replaced by estrangement now that he has told them the truth."
-    },
-    {
-      "reference": "4:17-20",
-      "section_title": "The Rival Teachers' Motives and Paul's Anguish",
-      "category": "NOT_APPLICABLE",
-      "summary": "Paul exposes the rival teachers' corrupt motives of creating dependency through exclusion, and expresses his own anguish in the language of childbirth, laboring again until Christ is formed in the Galatians."
-    },
-    {
-      "reference": "4:21-23",
-      "section_title": "The Two Sons of Abraham -- Flesh and Promise",
-      "category": "NOT_APPLICABLE",
-      "summary": "Paul asks those who want to be under the law whether they have listened to the law, then recounts that Abraham had two sons: one born to a slave woman according to the flesh and one born to a free woman through promise."
-    },
-    {
-      "reference": "4:24-27",
-      "section_title": "The Allegory of Two Covenants",
-      "category": "NOT_APPLICABLE",
-      "summary": "Paul reads the Hagar-Sarah narrative allegorically as representing two covenants: Hagar corresponds to the Sinai covenant producing children for slavery and to the present Jerusalem, while the Jerusalem above is free and is the mother of believers, citing Isaiah 54:1 about the barren woman's children outnumbering those of the married woman."
-    },
-    {
-      "reference": "4:28-31",
-      "section_title": "The Application -- Children of Promise, Not of Flesh",
-      "category": "NOT_APPLICABLE",
-      "summary": "Paul identifies the Galatian believers as children of promise like Isaac, notes the pattern of the flesh-born persecuting the Spirit-born, cites the Torah's command to cast out the slave woman and her son since they cannot share the inheritance with the free woman's son, and concludes that believers are children of the free woman."
-    }
-  ]
+    "book": "Galatians",
+    "chapter": 4,
+    "sections": [
+        {
+            "reference": "4:1-7",
+            "section_title": "The Heir Under Guardians — From Minority to Sonship",
+            "category": "LEANS_PERMANENT",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage extending the paidagogos metaphor to describe the minor heir's transition from functional slavery under guardians to full sonship through God's sending of the Son (to redeem those under the law) and the Spirit (to confirm adoption), establishing that the Galatians already possess sonship and inheritance through divine initiative rather than proselyte conversion.",
+            "relevance": "The passage grounds the believer's standing entirely in God's initiative: God sent the Son, God sent the Spirit, and the Spirit's cry of 'Abba, Father' in believers' hearts confirms an already-established sonship. The status declarations ('you are sons,' 'you are no longer a slave but a son, and if a son, then an heir through God') present sonship as a completed reality rooted in divine action rather than human performance, which provides a foundation for permanence claims. However, the passage is primarily addressing how standing is gained (faith vs. law), not whether that standing can subsequently be lost.",
+            "key_phrases": [
+                "God sent forth his Son",
+                "to redeem those who were under the law, so that we might receive adoption as sons",
+                "because you are sons, God has sent the Spirit of his Son into our hearts",
+                "crying, 'Abba! Father!'",
+                "you are no longer a slave, but a son, and if a son, then an heir through God"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:8-11",
+            "section_title": "The Stoicheia Equation — Proselyte Conversion as Return to Pagan Bondage",
+            "category": "LEANS_CONDITIONAL",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage equating the Galatians' proposed adoption of Torah-covenant membership with a return to their former pagan bondage, on the ground that both systems function identically as slavery to elemental principles that condition access to God on compliance with external regulations.",
+            "relevance": "The passage implies that believers can effectively undo the gospel's effects by their own choices. Paul's question 'how can you turn back again?' assumes the possibility of regression from freedom to bondage. 'Do you wish to be enslaved by them all over again?' treats re-enslavement as a real option the Galatians are actively pursuing. Paul's fear that his labor 'may have been in vain' means the Galatians' response could negate what the gospel accomplished in them. The neutral reading states explicitly: 'The fear is not that the gospel is wrong but that the Galatians' response may undo the gospel's effects.' This implies that the believer's standing, though established by God's initiative, can be compromised by the believer's subsequent choices — here, by adopting a different basis for standing before God.",
+            "key_phrases": [
+                "how can you turn back again to the weak and worthless elementary principles",
+                "Do you wish to be enslaved by them all over again",
+                "I am afraid I may have labored over you in vain"
+            ],
+            "confidence": "medium"
+        },
+        {
+            "reference": "4:12-20",
+            "section_title": "The Personal Appeal — From Warmth to Estrangement",
+            "category": "LEANS_CONDITIONAL",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage shifting from theological argument to personal appeal, recalling the Galatians' initial extraordinary reception of Paul, exposing the rival teachers' manipulative motives, and expressing Paul's anguish through the metaphor of a mother again in labor until Christ is formed in the Galatians.",
+            "relevance": "Paul's declaration that he is 'again in the anguish of childbirth' implies that the agitators' intervention has undermined the Galatians' prior spiritual formation to the point where it must be re-accomplished. The neutral reading states: 'the agitators' intervention has undone the previous birth, and Paul must labor to bring them to birth once more.' If the work of bringing believers to spiritual birth can be undone by external influence and their own receptivity to it, their standing is not automatically permanent. However, this is pastoral metaphor rather than a direct theological statement about the permanence of salvation, and the section's primary focus is the personal relationship and the rival teachers' manipulation.",
+            "key_phrases": [
+                "for whom I am again in the anguish of childbirth until Christ is formed in you",
+                "Have I then become your enemy by telling you the truth",
+                "They want to shut you out"
+            ],
+            "confidence": "low"
+        },
+        {
+            "reference": "4:21-31",
+            "section_title": "The Hagar-Sarah Allegory — The Torah Against the Proselyte Program",
+            "category": "LEANS_CONDITIONAL",
+            "conventional_use": "not_in_debate",
+            "summary": "The neutral reading finds this passage using an allegory of Hagar and Sarah to demonstrate from the Torah itself that the flesh-method of becoming Abraham's child (proselyte conversion through circumcision) produces slavery, while the promise-method (faith) produces freedom, and that the Torah commands the expulsion of the flesh-method's products from the inheritance.",
+            "relevance": "The allegory establishes that the flesh-method and the promise-method are mutually exclusive: 'the son of the slave woman shall not inherit with the son of the free woman.' If the Galatians, who are currently children of promise in the Isaac position (v. 28), adopt the flesh-method through circumcision, they would move from the Isaac position to the Ishmael position — from inheritance to disinheritance. The command 'cast out the slave woman and her son' implies that those who choose the wrong method of standing before God are expelled from the inheritance. The passage does not directly state that believers lose their salvation, but the inheritance language and the mutual exclusivity of the two methods imply that the believer's standing depends on remaining in the promise-method rather than switching to the flesh-method. This sets the stage for the explicit statement in 5:4 that those who seek justification through the law are 'severed from Christ' and have 'fallen from grace.'",
+            "key_phrases": [
+                "bearing children for slavery",
+                "Cast out the slave woman and her son",
+                "the son of the slave woman shall not inherit with the son of the free woman",
+                "like Isaac, are children of promise",
+                "we are not children of the slave but of the free woman"
+            ],
+            "confidence": "medium"
+        }
+    ]
 }

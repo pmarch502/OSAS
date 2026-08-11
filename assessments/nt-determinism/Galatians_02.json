@@ -3,69 +3,38 @@
     "chapter": 2,
     "sections": [
         {
-            "reference": "2:1-2",
-            "section_title": "Paul's Second Visit to Jerusalem -- Timing, Companions, and Revelation",
+            "reference": "2:1-5",
+            "section_title": "The Jerusalem Visit -- Revelation, Not Summons",
             "category": "NOT_APPLICABLE",
-            "summary": "Paul narrates his second visit to Jerusalem after fourteen years, undertaken because of a divine revelation, to present his law-free gospel to the recognized leaders privately."
-        },
-        {
-            "reference": "2:3-5",
-            "section_title": "The Titus Test Case -- Circumcision Refused",
-            "category": "NOT_APPLICABLE",
-            "summary": "Titus, an uncircumcised Greek believer, was not compelled to be circumcised by the Jerusalem leadership, and Paul refused to yield to false brothers who sought to impose Torah observance on Gentile believers."
+            "summary": "Paul narrates his divinely directed visit to Jerusalem with Barnabas and Titus, demonstrating that the Jerusalem leaders did not require Titus's circumcision despite pressure from false brothers who infiltrated the community to undermine Gentile believers' freedom in Christ."
         },
         {
             "reference": "2:6-10",
-            "section_title": "The Jerusalem Pillars Add Nothing -- Mutual Recognition",
+            "section_title": "The Pillars' Endorsement -- Nothing Added",
             "category": "NOT_APPLICABLE",
-            "summary": "The Jerusalem pillars -- James, Cephas, and John -- added nothing to Paul's gospel, recognized his divine commission to the Gentiles as parallel to Peter's commission to the Jews, and extended the right hand of fellowship."
+            "summary": "The recognized leaders James, Cephas, and John added nothing to Paul's gospel, recognized God's effective working through both Peter to the circumcised and Paul to the Gentiles, and extended the right hand of fellowship with a division of labor by audience, asking only that Paul remember the poor."
         },
         {
             "reference": "2:11-14",
-            "section_title": "The Antioch Confrontation -- Cephas Condemned",
+            "section_title": "The Antioch Confrontation -- Hypocrisy Exposed",
             "category": "NOT_APPLICABLE",
-            "summary": "Paul publicly confronted Cephas in Antioch for withdrawing from Gentile table fellowship under pressure from the circumcision party, exposing the hypocrisy of a Jew who had been living like a Gentile now compelling Gentiles to live like Jews."
+            "summary": "Paul narrates his public confrontation of Cephas at Antioch, who withdrew from table fellowship with Gentile believers under pressure from men associated with James, exposing the internal contradiction of a Jew who lived like a Gentile but through his withdrawal effectively forced Gentiles to Judaize."
         },
         {
-            "reference": "2:15-16",
-            "section_title": "The Theological Turn -- Justification by Faith, Not Works of Law",
+            "reference": "2:15-21",
+            "section_title": "Justification by Faith, Not by Works of the Law",
             "category": "LEANS_LIBERTARIAN",
             "conventional_use": "not_in_debate",
-            "summary": "Paul argues that even Jews by birth recognized that justification comes through faith in Jesus Christ, not through works of the law, and therefore they themselves believed in Christ.",
-            "relevance": "The passage presents believing as a genuine human act undertaken by Jewish believers who recognized Torah's insufficiency: 'we also have believed in Christ Jesus, in order to be justified by faith in Christ.' The verb episteusamen ('we believed') frames faith as something these individuals did -- they recognized, they believed, they acted. The primary argument is about the instrument of justification (faith vs. Torah observance), not about who determines salvation outcomes, but the passage's consistent presentation of faith as a real human response has clear implications for human agency.",
+            "summary": "Paul states the letter's central thesis -- no one is justified by works of the law but through faith in Christ Jesus -- declaring this three times in a single sentence and culminating in the claim that if righteousness came through the law, Christ died for no purpose.",
+            "relevance": "While the passage's primary concern is the basis of justification (faith vs. law-covenant entry) rather than who determines the response of faith, it consistently presents believing as a genuine human act. The aorist 'we also have believed in Christ Jesus' (episteusamen, v. 16) describes Jewish believers who recognized the law's insufficiency and deliberately placed their trust in Christ -- a purposeful act with a stated goal ('in order to be justified'). Paul's 'the life I now live in the flesh I live by faith in the Son of God' (v. 20) presents faith as the ongoing operative principle of his existence, something he actively does. The passage pairs divine initiative (Christ's self-giving love, co-crucifixion with Christ) with genuine human response (believing, living by faith), without suggesting that God unilaterally determined who would believe. Verse 18's warning that rebuilding what was torn down makes the rebuilder a transgressor implies genuine agency: the person can choose to rebuild or not, and bears responsibility for that choice.",
             "key_phrases": [
-                "we know that a person is not justified by works of the law but through faith in Jesus Christ",
                 "so we also have believed in Christ Jesus, in order to be justified by faith in Christ",
-                "by works of the law no one will be justified"
+                "the life I now live in the flesh I live by faith in the Son of God",
+                "who loved me and gave himself for me",
+                "I have been crucified with Christ",
+                "if I rebuild what I tore down, I prove myself to be a transgressor"
             ],
             "confidence": "medium"
-        },
-        {
-            "reference": "2:17-18",
-            "section_title": "The Absurdity of Rebuilding What Was Torn Down",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul argues that returning to Torah observance after embracing justification in Christ would make him a transgressor by rebuilding the very system he demolished, directly implicating Cephas's withdrawal from Gentile fellowship."
-        },
-        {
-            "reference": "2:19-20",
-            "section_title": "Death to the Law, Life to God",
-            "category": "LEANS_LIBERTARIAN",
-            "conventional_use": "not_in_debate",
-            "summary": "Paul describes dying to the law through the law so as to live to God, having been crucified with Christ so that Christ now lives in him, while the life he continues to live in the flesh is lived by faith in the Son of God.",
-            "relevance": "The passage holds divine action and human agency in active tension. 'Christ lives in me' presents the indwelling Christ as the animating principle of Paul's new existence, but the neutral reading clarifies this is 'not mystical annihilation of personhood.' Paul immediately adds 'the life I now live in the flesh I live by faith' -- presenting his ongoing faith as his own genuine activity. The result is a picture in which divine presence empowers rather than replaces human agency: Christ indwells, and Paul believes. Faith remains a real human activity even within a life transformed by divine action.",
-            "key_phrases": [
-                "I have been crucified with Christ",
-                "it is no longer I who live, but Christ who lives in me",
-                "the life I now live in the flesh I live by faith in the Son of God",
-                "who loved me and gave himself for me"
-            ],
-            "confidence": "low"
-        },
-        {
-            "reference": "2:21",
-            "section_title": "The Conclusion -- Grace Stands or Falls",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul concludes that he does not nullify the grace of God, since if righteousness could come through the law, then Christ died for no purpose -- framing the choice as between grace in Christ and Torah-based righteousness."
         }
     ]
 }
