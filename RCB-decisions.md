@@ -24,22 +24,7 @@
   - Keep complex sentence structure when intelligible in English
   - No interpretive smoothing — base text says what the Greek says, restorations add context
   - Luke is the exception: translate his Greek as Greek, except in OT quotation and deliberate Septuagint style (Luke 1-2, the speeches in Acts)
-- **Key term decisions** (as rendered in Galatians):
-  - ἐκκλησία (ekklēsia) → always "assembly" (no restoration needed)
-  - Χριστός (Christos) → "the Christ" (title, not surname)
-  - νόμος (nomos) → "Torah"; exception at 5:23, anarthrous and proverbial, where it is "law"
-  - πίστις (pistis) → "faithfulness" as the standing rendering; πιστεύω → "trust"; "the faith" where it means the message or movement (1:23, 6:10)
-  - πίστις Χριστοῦ → "the faithfulness of Jesus the Christ" (2:16, 2:20, 3:22). No natural English preserves the subjective/objective genitive ambiguity; this rendering awaits a decision from the project author
-  - δικαιόω (dikaioō) → "set right"; δικαιοσύνη → "righteousness"
-  - χάρις (charis) → "favor"
-  - εὐαγγέλιον (euangelion) → "good news"
-  - ἀπόστολος (apostolos) → "one sent"
-  - ἄγγελος (angelos) → "messenger"
-  - ἀνάθεμα (anathema) → "under the ban"
-  - ἔθνη (ethnē) → "the nations"
-  - βαπτίζω (baptizō) → "immersed"
-  - ζωὴ αἰώνιος → "the life of the age"
-  - More terms to be decided as further books are translated
+- Where English cannot hold open what the Greek holds open, the translation picks a reading and a footnote carries the other
 
 ## Restoration Conventions
 - All inline restorations render identically to the reader: bracketed text within `\add`
@@ -60,7 +45,6 @@
 ## Production Process
 - **Prompts**: `prompts/rcb-pass1.md` (translation), then `prompts/rcb-pass2.md` (amplification, intro, headings)
 - Translation and restorations are produced in two separate passes, a whole book at a time. Pass 1 is frozen before pass 2 runs; pass 2 writes the finished `{BOOK}.usfm`
-- `prompts/rcb.md` is the superseded single-pass prompt
 - Primary reference: exegesis files in `exegesis/nt/` (260 chapters of first-century contextual analysis)
 - Output: `usfm/nt/{BOOK}.usfm` (three-letter book code)
 - Galatians is the proof of concept and reference example
