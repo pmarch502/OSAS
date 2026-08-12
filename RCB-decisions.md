@@ -3,6 +3,7 @@
 ## Product
 - **Name**: Restored Context Bible (RCB)
 - **Technique name**: Contextual restoration (inline restorations woven into base text)
+- **Unit name**: Explanatory Amplification (**EA**) — a single bracketed insertion within `\add`. These are often called "restorations" in this project because the product is the Restored Context Bible, but EA is the proper term for the unit.
 - **Heritage**: Modern English targum — same function as ancient targumim (bridging temporal/cultural gap)
 - **Target platforms**: Bible Gateway, YouVersion, Bible apps, SWORD-based apps, web, print
 
@@ -39,15 +40,25 @@
   - Alternative renderings (`better: ...`)
   - Deeper explanations that don't fit inline
 - **Rule of thumb**: if it completes the thought, it's inline. If the reader has to stop and process, it's a footnote.
+- **The governing test**: the amplified sentence must read naturally. An EA exists so the reader can easily see what is really being said. Whether a passage takes many EAs or none is beside the point — clarity is the only measure, and there is no target density.
+- **Voice**: EAs commonly speak in the author's own voice, finishing the thought he is already making — `not from men \add [i.e. my commission did not originate from any human council]\add*`. Where that would not read naturally, an editorial voice is appropriate, typically for cultural, historical, or linguistic background the author could not have said about himself (the household guardian at 3:24). Neither is a rule. The natural-reading test decides.
 - **Production categories** (completeness checklist, not exposed to reader):
   - Definitional, Rhetorical, Morphological, Audience ID, Historical — typically inline
   - Cross-reference, Source ID, Editorial, Alternative rendering — typically footnotes
 
 ## Production Process
+- **Prompt**: `prompts/rcb.md`
 - Translation and restorations are produced together, chapter by chapter
 - Primary reference: exegesis files in `exegesis/nt/` (260 chapters of first-century contextual analysis)
-- Output: USFM files in TBD location
+- Output: `usfm/nt/{BOOK}.usfm` (three-letter book code)
 - Galatians is the proof of concept and reference example
+
+### Publishing a finished book
+
+1. Finish `usfm/nt/{BOOK}.usfm`
+2. `python scripts/gen_rcb_data.py {BOOK}` — writes `docs/rcb/data/{BOOK}.js`
+3. Add one entry to `RCB_BOOKS` in `docs/rcb/books.js` (e.g. `'Ephesians': 'EPH'`) — one line, one file, every report picks it up
+4. Open a report, find a passage in that book, confirm the RCB link appears and lands on the right verse
 
 ## Scope & Sequence
 - **Start with**: Galatians (translation + restorations, full proof of concept)

@@ -81,11 +81,7 @@ A report wires it up in two places:
 1. `<script src="../../rcb/books.js"></script>` after the `data.js` tag and before the inline script
 2. `rcbLink(s.book, s.chapter, s.reference)` appended after `exegesisLink(...)` in every table-row builder
 
-Adding a translated book (e.g. Ephesians):
-
-1. `python scripts/gen_rcb_data.py EPH`
-2. Add `'Ephesians': 'EPH'` to `RCB_BOOKS` in `docs/rcb/books.js` — one line, one file, all reports pick it up
-3. Verify a passage row in that book shows the RCB link and the fragment lands on the right verse
+To add a translated book, follow "Publishing a finished book" in `RCB-decisions.md`. Those steps live there, not here.
 
 Note `books.js` builds its href relative to the *including page*, assuming `docs/reports/{topic}/index.html`. A page at a different depth would need the path adjusted.
 
