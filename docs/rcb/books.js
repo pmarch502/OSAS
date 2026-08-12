@@ -12,7 +12,7 @@
  * defines the .exegesis-link CSS class.
  */
 
-var RCB_BOOKS = { 'Galatians': 'GAL' };
+var RCB_BOOKS = { 'Galatians': 'GAL', 'Ephesians': 'EPH' };
 
 function rcbLink(book, chapter, reference) {
   var code = RCB_BOOKS[book];

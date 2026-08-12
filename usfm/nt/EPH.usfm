@@ -1,0 +1,237 @@
+\id EPH - Restored Context Bible (RCB)
+\usfm 3.0
+\ide UTF-8
+\h Ephesians
+\toc1 The Letter of Paul to the Assembly in Ephesus
+\toc2 Ephesians
+\toc3 Eph
+\mt1 Ephesians
+
+\imt Introduction
+\ip This letter comes from Paul, in prison at the time of writing (3:1; 4:1; 6:20), to assemblies of believers in the Roman province of Asia, in what is now western Turkey. Ephesus was that province's chief city. The date is somewhere in the middle of the first century.
+\ip The words "in Ephesus" in the opening greeting are missing from the oldest surviving copies, which suggests that this was a circular letter — carried from one assembly to the next, with the name of each community supplied as it was read aloud. Everything else about the letter fits that: it settles no local quarrel, answers no question anyone has sent, and names no one in the community except Tychicus, who carried it.
+\ip The people it addresses are Gentiles (2:11; 3:1) — men and women with no share by birth in Israel's covenants, its worship, its scriptures, or its hope. They now belong to a community whose entire identity had been Israel's, alongside Jewish believers who had waited generations for the Messiah they now share. Two peoples who had regarded each other with contempt were sitting down together, and no one had ever done this before.
+\ip So the letter sets out to tell them what has happened to them. The first half (chapters 1-3) declares what God has done: a purpose formed before the world was made, worked out in the Messiah, and now disclosed — that the nations are full and equal partners in everything promised to Israel. The second half (chapters 4-6) draws out what a community formed by that must look like in daily life: in its unity, its speech, its households, and its standing against the powers that oppose it.
+
+\c 1
+\s1 Greeting
+\p
+\v 1 Paul, one sent\f + \fr 1:1 \ft Greek \tl apostolos\tl*: an emissary who carries the full authority of the one who sent him.\f* by the Christ Jesus through the will of God, to the holy ones\f + \fr 1:1 \ft Greek \tl hagioi\tl*, "set-apart ones" — Israel's own covenant word for itself (Exodus 19:6; Deuteronomy 7:6; Daniel 7:18). It is used here of a largely Gentile readership.\f* who are in Ephesus\f + \fr 1:1 \ft The words "in Ephesus" are absent from the earliest manuscripts, including Papyrus 46, Sinaiticus, and Vaticanus, which read simply "to the holy ones who are also faithful." The gap suggests a circular letter with the local name supplied as it was read.\f* and faithful in the Christ Jesus:
+\v 2 Favor to you and peace\f + \fr 1:2 \ft Greek \tl eirēnē\tl*, standing for Hebrew \tl shalom\tl*: not merely the absence of conflict but wholeness and well-being.\f* from God our Father and the Lord Jesus the Christ.
+\s1 Blessed Be God for What He Purposed Before the World
+\p
+\v 3 Blessed be the God and Father of our Lord Jesus the Christ\f + \fr 1:3 \ft The letter opens in the form of a Jewish \tl berakah\tl* — "Blessed be the LORD, who has done such and such" — the standing way Israel answered God's acts (Genesis 14:20; 1 Kings 8:15; Psalm 72:18).\f*, who blessed us with every spiritual blessing in the heavenly places \add [— the realm where God's rule is actually exercised]\add* in the Christ,
+\v 4 just as he chose us\f + \fr 1:4 \ft Greek \tl exelexato\tl*, the choosing verb of Israel's scriptures. There it is always the choosing of a people, and always for something — to be holy, to serve, to bear his name among the nations (Deuteronomy 7:6-7; Isaiah 41:8-9; Psalm 33:12).\f* \add [i.e. us of Israel, whom he took for himself long before ever you heard of him]\add* in him before the founding of the world, for us to be holy and without blemish\f + \fr 1:4 \ft Greek \tl amōmos\tl*, the word for a sacrificial animal with no defect in it (Leviticus 1:3; Numbers 6:14), used also of the conduct of God's people (Psalm 15:2).\f* before his face in love,
+\v 5 having marked us out beforehand \add [i.e. having settled the destination in advance]\add* for adoption as sons\f + \fr 1:5 \ft Sonship by adoption was Israel's own privilege: "Israel is my firstborn son" (Exodus 4:22); "to them belongs the adoption" (Romans 9:4).\f* \add [i.e. placed as sons with the full standing and full inheritance of natural-born sons]\add* through Jesus the Christ to himself, according to the good pleasure of his will,
+\v 6 to the praise of the glory of his favor, with which he favored us in the Beloved \add [i.e. in his own beloved Son]\add*.
+\v 7 In him we have the ransoming\f + \fr 1:7 \ft Greek \tl apolytrōsis\tl*, the word of the exodus: God buying his people out of slavery (Deuteronomy 7:8; Psalm 111:9 LXX). What was done at the Red Sea is what is being claimed here.\f* through his blood, the sending away of the missteps \add [i.e. our wrong steps let go, the debt released and never called in]\add*, according to the riches of his favor
+\v 8 which he made overflow to us, in all wisdom and good sense
+\v 9 making known to us the secret\f + \fr 1:9 \ft Greek \tl mystērion\tl*: not a riddle that clever men solve, but a plan God kept hidden and has now disclosed (Daniel 2:28 LXX). Its content is stated outright at 3:6.\f* of his will, according to his good pleasure which he purposed in him
+\v 10 for the stewardship of the fullness of the seasons \add [i.e. for how he would run his household once the appointed times came full]\add*: to bring all things together under one head\f + \fr 1:10 \ft Greek \tl anakephalaiōsasthai\tl*, to gather many things under a single heading, the way many commandments are summed up in one (Romans 13:9). The root of the word is "head."\f* in the Christ, the things upon the heavens and the things upon the earth — in him,
+\v 11 in whom we were also made his portion\f + \fr 1:11 \ft Greek \tl eklērōthēmen\tl*, from the word for an allotted share. It reads both ways at once: we were given an allotment, and we were made his allotment. Israel was both — it received the land, and it was itself "the LORD's portion" (Deuteronomy 32:9; Joshua 14-21).\f*, marked out beforehand according to the purpose of the one who works all things according to the counsel of his will,
+\v 12 so that we, who hoped beforehand in the Christ \add [i.e. we of Israel, who were waiting for the Messiah before you ever heard there was one]\add*, should be to the praise of his glory.
+\v 13 In him you also \add [i.e. you of the nations — and here is where you come into it]\add*, when you heard the word of the truth, the good news of your rescue — in him also, when you trusted, you were sealed \add [i.e. stamped with his own mark, the way an owner seals what belongs to him]\add* with the Holy Spirit of the promise,
+\v 14 which is the down payment\f + \fr 1:14 \ft Greek \tl arrabōn\tl*, a Semitic loan-word from commerce: the first installment of a price, which is not a promise to pay but part of the payment itself, and binds the payer to complete it.\f* of our inheritance, until the ransoming of what he has made his own \add [i.e. until the day he takes full possession of the people he bought]\add*, to the praise of his glory.
+\s1 A Prayer That They Would Grasp What They Already Have
+\p
+\v 15 For this reason I too, having heard of the faithfulness that is among you in the Lord Jesus and of your love toward all the holy ones,
+\v 16 do not stop giving thanks for you, making mention of you in my prayers,
+\v 17 that the God of our Lord Jesus the Christ, the Father of the glory, may give you a spirit of wisdom and uncovering \add [i.e. a mind able to take in what he has disclosed]\add* in the knowing of him,
+\v 18 the eyes of your heart having been given light \add [i.e. the inward sight by which a whole person perceives]\add*, so that you may know what is the hope of his calling, what the riches of the glory of his inheritance among the holy ones,
+\v 19 and what the surpassing greatness of his power toward us who trust, according to the working of the might of his strength,
+\v 20 which he worked in the Christ when he raised him from among the dead and seated him at his right hand\f + \fr 1:20 \ft Psalm 110:1, "Sit at my right hand until I make your enemies a footstool for your feet" — the most quoted text in the earliest assemblies. The right hand is the seat from which rule is exercised.\f* in the heavenly places,
+\v 21 far above every rule and authority and power and lordship \add [i.e. every power that governs anything, seen or unseen]\add*, and every name that is named, not only in this age but also in the one to come.
+\v 22 And he put all things under his feet\f + \fr 1:22 \ft Psalm 8:6, where the words are spoken of humanity's rule over creation. What Adam was given and did not hold, the Messiah holds.\f* and gave him as head over all things to the assembly\f + \fr 1:22 \ft Greek \tl ekklēsia\tl*, the word the Greek scriptures use for the assembly of Israel gathered before God (Deuteronomy 4:10; 1 Kings 8:14). Not a new institution but that assembly, reconstituted around the Messiah and opened to the nations.\f*,
+\v 23 which is his body, the fullness of the one who fills all things in all \add [i.e. the place where the one who fills everything is concretely present and at work]\add*.
+
+\c 2
+\s1 Dead, and Made Alive Together with the Christ
+\p
+\v 1 And you \add [i.e. you of the nations]\add*, being dead in your missteps and sins \add [— dead, not ailing]\add* —
+\v 2 in which you once walked according to the age of this world, according to the ruler of the authority of the air \add [i.e. the spirit power whose domain is the region between earth and heaven]\add*, the spirit now working in the sons of disobedience\f + \fr 2:2 \ft A Semitism: "sons of" a thing means men characterized by it. These are men whose settled character is refusal.\f*,
+\v 3 among whom we also all \add [i.e. we of Israel too, with the covenants and the Torah and all of it]\add* once went about in the cravings of our flesh, doing the wills of the flesh and of the thoughts, and we were by nature children of wrath \add [i.e. people standing under God's settled verdict]\add*, like the rest —
+\v 4 but God, being rich in mercy, because of the great love with which he loved us,
+\v 5 even while we were dead in our missteps, made us alive together with the Christ \add [— his rising was ours: what happened to him happened to us]\add* — by favor you have been rescued —
+\v 6 and raised us up together with him and seated us together with him in the heavenly places in the Christ Jesus \add [— the seat is his, and we are already there in him]\add*,
+\v 7 so that in the ages coming on he might show the surpassing riches of his favor in kindness toward us in the Christ Jesus \add [i.e. we ourselves are to be the exhibit]\add*.
+\v 8 For by favor you have been rescued through faithfulness — and this\f + \fr 2:8 \ft "This" is neuter in the Greek and matches the gender of neither "favor" nor "faithfulness." It takes in the whole arrangement together: the rescue, the favor that gives it, the trust that receives it.\f* not out of yourselves; it is God's gift —
+\v 9 not out of works, so that no one may boast.
+\v 10 For we are what he has made \add [i.e. his own workmanship, a thing crafted]\add*, created in the Christ Jesus for good works, which God prepared beforehand so that we should walk in them \add [— works are not the root of this but the fruit of it]\add*.
+\s1 Remember What You Were: Outsiders to Israel
+\p
+\v 11 Therefore remember that you, once the nations in flesh \add [i.e. Gentiles by birth]\add*, the ones called uncircumcision by what is called circumcision, made in flesh by hands\f + \fr 2:11 \ft "Made by hands" is the prophets' word for idols — what men manufacture, as against what God does (Isaiah 2:8; 46:6). Applied to circumcision it does not dismiss the mark but puts it in its place: external, and not the last word.\f* —
+\v 12 that you were at that time apart from the Christ \add [i.e. with no anointed deliverer promised you and none expected]\add*, made strangers to the citizenship of Israel \add [i.e. shut out of the whole ordered life of God's people — its law, its worship, its festivals, its priests and its king]\add* and foreigners to the covenants of the promise \add [i.e. the agreements made with Abraham, at Sinai, with David, and the new one the prophets announced]\add*, having no hope \add [— no promised rescue to wait for at all]\add* and without God in the world \add [i.e. without the God who made it, whatever gods you had]\add*.
+\v 13 But now, in the Christ Jesus, you who once were far off have been brought near\f + \fr 2:13 \ft Isaiah 57:19, "peace, peace, to the far and to the near." "Far" was the standing word for those outside Israel, "near" for those inside it.\f* in the blood of the Christ.
+\s1 The Wall Broken Down, One New Man Made
+\p
+\v 14 For he himself is our peace, who made the both one and broke down the middle wall of the fence\f + \fr 2:14 \ft The \tl soreg\tl*: the barrier in the temple courts beyond which no Gentile could pass. Josephus describes it (\tl War\tl* 5.193-194), and one of its warning inscriptions has been recovered — "no foreigner is to enter within the balustrade; whoever is caught will be responsible for his own death that will ensue."\f* — the hostility — in his flesh,
+\v 15 having done away with the Torah of commandments in decrees\f + \fr 2:15 \ft Greek \tl katargeō\tl*, to put out of action. What is put out of action is the regulatory system — circumcision, food, purity, the marks that drew the line — in its function as a barrier between the two peoples.\f* \add [i.e. the very regulations that marked Israel off from the nations, and so stood between us]\add*, so that he might create the two in himself into one new man \add [i.e. one new humanity — not Gentiles turned into Jews, nor Jews into Gentiles, but a third thing that never existed]\add*, making peace,
+\v 16 and might bring both back together to God in one body through the cross, having killed the hostility in it \add [— on the very instrument built for killing men, what was killed was the enmity itself]\add*.
+\v 17 And he came and announced peace as good news to you who were far off, and peace to those who were near;
+\v 18 because through him we both have the way in \add [i.e. the right of approach, as a man is brought in before a king]\add*, in one Spirit, to the Father.
+\s1 No Longer Foreigners, but a Sanctuary Being Built
+\p
+\v 19 So then you are no longer foreigners and resident aliens \add [i.e. men tolerated in a place but holding no citizenship in it]\add*, but you are fellow citizens with the holy ones and members of God's household,
+\v 20 built up on the foundation of the sent ones and prophets, the Christ Jesus himself being the corner stone\f + \fr 2:20 \ft Isaiah 28:16, "I am laying in Zion a stone, a tested stone, a precious cornerstone." The corner stone was set first, and every measurement of the building was taken from it.\f*,
+\v 21 in whom the whole building, fitted together, grows into a holy sanctuary \add [i.e. the inner house itself, where God dwells]\add* in the Lord,
+\v 22 in whom you also are being built together into a dwelling place of God in Spirit.
+
+\c 3
+\s1 The Secret Now Uncovered: The Nations Are Fellow Heirs
+\p
+\v 1 For this reason I, Paul, the prisoner\f + \fr 3:1 \ft The charge that led to his arrest was that he had brought Gentiles past the temple barrier (Acts 21:28-29) — the very barrier he has just said the Christ broke down.\f* of the Christ Jesus for you, the nations —\f + \fr 3:1 \ft The sentence begun here is never finished. It is taken up again at verse 14, after the explanation that follows.\f*
+\v 2 if indeed you have heard of the stewardship \add [i.e. a trust put into my hands to manage, as a steward manages another man's estate]\add* of the favor of God given to me for you,
+\v 3 that by an uncovering the secret was made known to me, as I wrote before in brief \add [i.e. earlier in this same letter]\add*,
+\v 4 by which, when you read it, you can perceive my insight into the secret of the Christ,
+\v 5 which in other generations was not made known to the sons of men \add [i.e. to human beings at all]\add* as it has now been uncovered to his holy sent ones and prophets in Spirit:
+\v 6 that the nations are fellow heirs and one body together and fellow sharers of the promise\f + \fr 3:6 \ft Three words in the Greek, each built on the prefix meaning "together with." Two of them are found nowhere else in Greek before this and appear to be coined here. All three say partnership on equal terms, not junior membership.\f* \add [i.e. co-owners of everything ever promised to Israel]\add* in the Christ Jesus through the good news,
+\v 7 of which I became a servant according to the gift of the favor of God given to me according to the working of his power.
+\s1 The Assembly Shows God's Wisdom to the Powers
+\p
+\v 8 To me, less than the least of all the holy ones\f + \fr 3:8 \ft The Greek is a comparative built on a superlative — "leaster than the least." It is irregular grammar, and the strain is the point.\f*, this favor was given: to announce as good news to the nations the riches of the Christ that cannot be tracked out \add [i.e. that no one can follow to their source or trace to their end]\add*,
+\v 9 and to bring to light for all what is the stewardship of the secret hidden from the ages in God \add [i.e. hidden in God himself, where no investigation could have reached it]\add*, who created all things,
+\v 10 so that now, through the assembly \add [— the community itself is the demonstration: Jew and Gentile in one body is the thing they are shown]\add*, the wisdom of God in all its many colors\f + \fr 3:10 \ft Greek \tl polypoikilos\tl*, the word for embroidery worked in many colors. Not wisdom in one shade but in a whole variegated pattern.\f* might be made known to the rulers and the authorities in the heavenly places,
+\v 11 according to the purpose of the ages which he made in the Christ Jesus our Lord,
+\v 12 in whom we have the boldness \add [i.e. the freedom to speak out, as a citizen speaks in the assembly]\add* and the way in, in confidence, through his faithfulness.
+\v 13 Therefore I ask you not to lose heart over my pressures for you, which are your glory \add [— that an emissary lies in chains for your sake is not your disgrace but your standing]\add*.
+\s1 A Prayer to Be Filled to the Fullness of God
+\p
+\v 14 For this reason I bend my knees\f + \fr 3:14 \ft The usual posture for prayer was standing. Kneeling marks urgency or great depth of feeling (Daniel 6:10; Acts 20:36).\f* before the Father,
+\v 15 from whom every father's house\f + \fr 3:15 \ft A play on words: \tl patēr\tl* ("father") and \tl patria\tl* ("father's house, lineage, clan"). Every kinship group that exists anywhere takes its name from the one Father.\f* in the heavens and on earth is named,
+\v 16 that he may give you, according to the riches of his glory, to be made strong with power through his Spirit into the inner man \add [i.e. the innermost self, where a person is actually made or unmade]\add*,
+\v 17 for the Christ to dwell \add [i.e. to settle down and make his permanent home]\add* in your hearts through faithfulness — you having been rooted and founded in love,
+\v 18 so that you may have full strength to grasp, together with all the holy ones \add [— no one takes the measure of this alone]\add*, what is the breadth and length and height and depth \add [— of his love, which runs out past measuring in every direction]\add*,
+\v 19 and to know the love of the Christ that surpasses knowing, so that you may be filled to all the fullness of God\f + \fr 3:19 \ft As the glory filled the tabernacle and afterward the temple (Exodus 40:34-35; 1 Kings 8:10-11), so God is asked to fill the community that has become his dwelling.\f*.
+\s1 To Him Be the Glory
+\p
+\v 20 Now to the one able to do far beyond all that we ask or think, according to the power that works in us,
+\v 21 to him be the glory in the assembly and in the Christ Jesus, to all the generations of the age of the ages \add [i.e. without end]\add*. Amen.
+
+\c 4
+\s1 Walk Worthy of the Calling: Guard the Oneness
+\p
+\v 1 I urge you, then — I, the prisoner in the Lord — to walk\f + \fr 4:1 \ft Greek \tl peripateō\tl*, standing for Hebrew \tl halak\tl*: the whole conduct of a life, not a step here and there. It is the governing word of the rest of the letter.\f* worthily of the calling with which you were called,
+\v 2 with all lowliness of mind\f + \fr 4:2 \ft In the Greek world this was no virtue at all but the disposition of a slave. Israel's scriptures make it the disposition God favors (Proverbs 3:34; Isaiah 57:15).\f* and gentleness, with long-suffering, bearing with one another in love,
+\v 3 being eager to keep the oneness of the Spirit \add [i.e. to guard what the Spirit has already made one — it was never yours to invent]\add* in the bond of peace:
+\v 4 one body and one Spirit, just as you were also called in one hope of your calling;
+\v 5 one Lord, one faithfulness, one immersion \add [i.e. one baptism, the same single doorway for every one of us]\add*;
+\v 6 one God and Father of all, who is over all and through all and in all.
+\s1 The Christ Went Up, and Gave Gifts
+\p
+\v 7 But to each one of us the favor was given according to the measure of the gift of the Christ.
+\v 8 Therefore it says: "Having gone up on high, he took captivity captive \add [i.e. he led his conquered enemies behind him in the procession]\add*; he gave gifts to men."\f + \fr 4:8 \ft Psalm 68:18, a psalm of God's triumphal march up to Zion. The psalm reads "you received gifts among men"; here it is "he gave gifts to men." The Aramaic paraphrase of the psalm read it the same way — of Moses going up the mountain, receiving the Torah, and giving it to the people.\f*
+\v 9 Now this "he went up" — what is it, except that he also went down into the lower parts of the earth?\f + \fr 4:9 \ft Either the earth itself, low by contrast with heaven, or the realm of the dead beneath it. Either way the argument holds: the one who went up is the one who first came down.\f*
+\v 10 The one who went down is himself also the one who went up far above all the heavens, so that he might fill all things.
+\s1 Gifts Given to Bring the Body to Full Growth
+\p
+\v 11 And he himself gave some as sent ones \add [i.e. apostles]\add*, some as prophets, some as announcers of good news, some as shepherds and teachers \add [i.e. one work with two faces — men who tend the flock by teaching it]\add*,
+\v 12 to make the holy ones ready for the work of service \add [— the work belongs to all of them; these men exist to equip them for it]\add*, for the building up of the body of the Christ,
+\v 13 until we all arrive at the oneness of the faithfulness and of the knowing of the Son of God, at a full-grown man \add [i.e. at the whole body come to adulthood]\add*, at the measure of the stature of the fullness of the Christ,
+\v 14 so that we may no longer be infants, tossed by waves and carried around by every wind of teaching, in the dice-play of men\f + \fr 4:14 \ft Greek \tl kybeia\tl*, dice-throwing. The image is of loaded dice — not honest disagreement but rigged play.\f*, in craftiness toward the scheming of deceit;
+\v 15 but speaking the truth in love, we are to grow up in every way into him who is the head, the Christ,
+\v 16 out of whom the whole body, fitted together and knit together through every joint that supplies it, according to the working in measure of each single part \add [— each member's portion, no two the same]\add*, makes the body grow for the building up of itself in love.
+\s1 Put Off the Old Man, Put On the New
+\p
+\v 17 This, then, I say and testify in the Lord: you are no longer to walk as the nations \add [i.e. as the Gentile world you came out of]\add* also walk, in the emptiness of their mind,
+\v 18 darkened in their understanding, made strangers to the life of God because of the ignorance that is in them, because of the hardening of their heart;
+\v 19 who, having stopped feeling anything \add [i.e. past all sense of shame]\add*, handed themselves over to wantonness, to work all uncleanness with greed.
+\v 20 But you did not learn the Christ this way —
+\v 21 if indeed you heard him and were taught in him, as truth is in Jesus:
+\v 22 to put off, in the way you lived before, the old man \add [i.e. the whole former way of being human, worn like a garment and now taken off]\add*, who is decaying by the cravings of deceit,
+\v 23 and to be made new in the spirit of your mind,
+\v 24 and to put on the new man \add [— the one new humanity he made of the two, now to be worn by each of you]\add*, the one created after God in righteousness and holiness of the truth.
+\s1 How the New Man Speaks and Acts
+\p
+\v 25 Therefore, putting off the lie, let each of you speak truth with his neighbor\f + \fr 4:25 \ft Zechariah 8:16, spoken to the community rebuilt after the exile — the plain integrity a restored people has to practice if it is to hold together.\f*, because we are members of one another \add [— a body whose parts deceive each other cannot work]\add*.
+\v 26 Be angry and do not sin;\f + \fr 4:26 \ft Psalm 4:4 (LXX 4:5), word for word. The force is concessive: anger will come; it must not be allowed to turn into sin.\f* do not let the sun go down on your provocation,
+\v 27 and do not give a place to the accuser\f + \fr 4:27 \ft Greek \tl diabolos\tl*, standing for Hebrew \tl satan\tl*: the adversary who brings accusation (Job 1-2; Zechariah 3:1-2).\f* \add [i.e. do not leave him an opening to work in]\add*.
+\v 28 Let the one who steals steal no longer; rather let him labor, working the good with his own hands, so that he may have something to share with the one who is in need \add [— the taker is to become the giver]\add*.
+\v 29 Let no rotten word \add [i.e. the word used of fruit gone bad]\add* go out of your mouth, but only what is good for building up where there is need, so that it may give favor to those who hear.
+\v 30 And do not grieve the Holy Spirit of God\f + \fr 4:30 \ft Isaiah 63:10 says of Israel in the wilderness that "they rebelled and grieved his Holy Spirit." The same words are turned on this community.\f*, with whom you were sealed for a day of ransoming \add [i.e. marked as his own against the day he takes full possession]\add*.
+\v 31 Let all bitterness and rage and wrath and shouting and slander be taken away from you, along with all malice.
+\v 32 And become kind to one another, tender in the inward parts\f + \fr 4:32 \ft A Hebrew way of speaking: the inward organs are where compassion is felt, as the heart is where a man decides.\f*, freely forgiving one another, just as God in the Christ freely forgave you.
+
+\c 5
+\s1 Walk in Love, as the Christ Loved
+\p
+\v 1 Become, then, imitators of God, as beloved children,
+\v 2 and walk in love, just as the Christ also loved us and handed himself over for us, an offering and a sacrifice to God for a fragrance of sweet smell\f + \fr 5:2 \ft The standing phrase of the Levitical offerings for a sacrifice God receives with pleasure (Genesis 8:21; Exodus 29:18; Leviticus 1:9).\f*.
+\s1 What Has No Place Among Holy Ones
+\p
+\v 3 But sexual immorality and all uncleanness or greed — let it not even be named among you \add [— not so much as discussed as a possibility]\add*, as is fitting for holy ones,
+\v 4 and shamefulness and foolish talk or coarse joking, which are not fitting, but rather thanksgiving.
+\v 5 For this you know, knowing it well: that no one who is sexually immoral or unclean or greedy — that is, an idolater \add [— what a man must have, he serves; and what he serves is his god]\add* — has any inheritance\f + \fr 5:5 \ft The verb is present tense: not merely shut out at the end, but not holding it now.\f* in the kingdom of the Christ and of God.
+\v 6 Let no one deceive you with empty words, for because of these things the wrath of God comes on the sons of disobedience \add [i.e. the very company you were once part of]\add*.
+\v 7 So do not become fellow sharers with them \add [— the same word that said you were made fellow sharers of the promise; do not now be made fellow sharers of this]\add*.
+\s1 You Were Darkness; Now Walk as Light
+\p
+\v 8 For you were once darkness \add [— not in the dark: darkness itself]\add*, but now light in the Lord. Walk as children of light —
+\v 9 for the fruit of the light is in all goodness and righteousness and truth —
+\v 10 testing what is well pleasing to the Lord.
+\v 11 And do not share in the fruitless works of the darkness \add [— darkness has works, but they come to nothing]\add*; rather, expose them.
+\v 12 For the things done by them in secret are shameful even to speak of;
+\v 13 but everything exposed by the light is made visible,
+\v 14 for everything that is made visible is light. Therefore it says: "Wake up, sleeper, and rise up from among the dead, and the Christ will shine on you."\f + \fr 5:14 \ft These lines match no known passage of scripture exactly. They appear to be an early hymn, perhaps sung over the newly baptized, woven out of Isaiah 51:17; 52:1; 26:19; and 60:1-2.\f*
+\s1 Walk Carefully, Filled with the Spirit
+\p
+\v 15 Watch carefully, then, how you walk — not as unwise but as wise,
+\v 16 buying up the opportunity \add [i.e. buying up the time as a man buys goods off a market stall before they are gone]\add*, because the days are evil.
+\v 17 For this reason do not become senseless, but understand what the will of the Lord is.
+\v 18 And do not get drunk with wine, in which is wild living, but be filled with Spirit \add [— the fullness wine only promises]\add*,
+\v 19 speaking to one another in psalms and hymns and spiritual songs, singing and plucking the strings in your heart to the Lord,
+\v 20 always giving thanks for all things in the name of our Lord Jesus the Christ to the God and Father,
+\s1 Wives and Husbands, under the Christ
+\p
+\v 21 submitting to one another in the fear of the Christ \add [— and this governs everything that follows: each of you placed under the other]\add* —
+\v 22 wives to your own husbands,\f + \fr 5:22 \ft The oldest manuscripts have no verb in this line. "Submitting" carries over from verse 21, which makes what follows one application of that mutual submission rather than a separate rule standing on its own.\f* as to the Lord,
+\v 23 because a husband is head\f + \fr 5:23 \ft Greek \tl kephalē\tl*. In Israel's scriptures the word carries both senses — the one who leads, and the one from whom a thing comes.\f* of the wife, as the Christ also is head of the assembly, he himself the rescuer of the body \add [— and here the likeness stops: no husband rescues anyone]\add*;
+\v 24 but as the assembly submits to the Christ, so also wives to their husbands in everything.
+\s1 Husbands: Love as the Christ Loved the Assembly
+\p
+\v 25 Husbands, love your wives, just as the Christ also loved the assembly and handed himself over for her \add [— the measure set for you is not what you may require but what you will give up]\add*,
+\v 26 so that he might make her holy, cleansing her by the washing of water in a word\f + \fr 5:26 \ft The bride was bathed and prepared before being presented to her husband. The washing here is the immersion by which a believer enters the community, with the word spoken over it.\f*,
+\v 27 so that he himself might present the assembly to himself in splendor, having no spot or wrinkle or any such thing, but that she might be holy and without blemish\f + \fr 5:27 \ft The same two words as 1:4, where they state the purpose of the choosing made before the world was founded. What God purposed there is what the Christ accomplishes here.\f*.
+\v 28 In the same way husbands ought to love their own wives as their own bodies. The one who loves his own wife loves himself.
+\v 29 For no one ever hated his own flesh, but he nourishes and warms it, just as the Christ also does the assembly,
+\v 30 because we are members of his body.
+\v 31 "For this reason a man will leave his father and mother and will be joined to his wife, and the two will become one flesh."\f + \fr 5:31 \ft Genesis 2:24.\f*
+\v 32 This secret is great \add [i.e. what was hidden in those words from the beginning is now uncovered]\add* — but I am speaking about the Christ and about the assembly.
+\v 33 In any case, you also, each one of you: let each so love his own wife as himself, and the wife — that she fear her husband \add [i.e. that she hold him in the same reverence the assembly holds the Christ]\add*.
+
+\c 6
+\s1 Children and Fathers
+\p
+\v 1 Children, obey your parents in the Lord, for this is right.
+\v 2 "Honor your father and mother" — which is the first commandment with a promise \add [i.e. the first in the ten to have a promise attached to it]\add* —
+\v 3 "so that it may go well with you and you may be long-lived on the land."\f + \fr 6:3 \ft Exodus 20:12; Deuteronomy 5:16. Deuteronomy promises "the land the LORD your God is giving you." That limit is dropped here: the land is wherever God's people are.\f*
+\p
+\v 4 And fathers, do not provoke your children to anger \add [— your authority over them is not a licence to embitter them]\add*, but nourish them in the training and correction\f + \fr 6:4 \ft Greek \tl paideia\tl* and \tl nouthesia\tl*: the formative discipline that shapes a character, and the setting of understanding into another person's mind. Both belong to the Lord, not to the father's own invention.\f* of the Lord.
+\s1 Slaves and Masters
+\p
+\v 5 Slaves, obey your masters according to flesh \add [i.e. masters in this present order only — the word is the same one we use for the Lord, and theirs is the lesser sense of it]\add*, with fear and trembling, in singleness of your heart, as to the Christ;
+\v 6 not by eye-service\f + \fr 6:6 \ft A word apparently coined for this: work done only while the eye is on you.\f*, as men-pleasers, but as slaves of the Christ \add [— the same title an apostle wears]\add*, doing the will of God from the whole self,
+\v 7 serving with good will, as to the Lord and not to men,
+\v 8 knowing that whatever good each one does, this he will receive back from the Lord, whether slave or free \add [— he does not weigh the two differently]\add*.
+\p
+\v 9 And masters, do the same things toward them \add [i.e. the same singleness of heart, the same good will, owed by you to them]\add*, giving up the threatening \add [— let go of it; it has been your ordinary way of managing them]\add*, knowing that both their Master and yours is in the heavens, and there is no receiving of the face with him\f + \fr 6:9 \ft A Semitism: "to receive the face" is to show favor because of who a man is (Deuteronomy 10:17; Leviticus 19:15). Before this Master, the slave and the slaveowner are weighed on one scale.\f*.
+\s1 Stand: The Full Armor of God
+\p
+\v 10 For the rest: be made strong in the Lord and in the might of his strength \add [— the same words used of the power that raised him from the dead]\add*.
+\v 11 Put on the full armor\f + \fr 6:11 \ft Greek \tl panoplia\tl*, a soldier's complete kit, every piece of it.\f* of God, so that you may be able to stand against the schemes of the accuser;
+\v 12 because our wrestling is not against blood and flesh \add [i.e. not against human beings at all, whatever hands are actually against you]\add*, but against the rulers, against the authorities, against the world-rulers of this darkness \add [i.e. the powers that govern the present dark age]\add*, against the spiritual forces of wickedness in the heavenly places.
+\v 13 For this reason take up the full armor of God, so that you may be able to stand against them in the evil day and, having done everything, to stand \add [— the ground has already been won; you are asked to hold it]\add*.
+\v 14 Stand, then, having girded your loins with truth\f + \fr 6:14 \ft Isaiah 11:5, of the coming king: "righteousness shall be the belt of his waist, and faithfulness the belt of his side." The belt went on first, and everything else was mounted on it.\f*, and having put on the breastplate of righteousness\f + \fr 6:14 \ft Isaiah 59:17, where it is God himself who puts on this breastplate and the helmet below, and goes out as a warrior because there was no one else to act. The armor being handed out here is his own.\f*,
+\v 15 and having tied on your feet the readiness of the good news of peace\f + \fr 6:15 \ft Isaiah 52:7, "how beautiful upon the mountains are the feet of the one who brings good news, who announces peace." The footing is peace, not aggression.\f*;
+\v 16 in all of it taking up the long shield\f + \fr 6:16 \ft Greek \tl thyreos\tl*, from the word for a door: the tall rectangular shield a man could crouch behind entirely, its leather soaked with water before battle so that fire-arrows died in it.\f* of faithfulness, with which you will be able to put out all the flaming arrows of the evil one;
+\v 17 and receive the helmet of rescue and the sword of the Spirit, which is the spoken word of God\f + \fr 6:17 \ft The only piece in the list that strikes; every other is for holding ground. Compare Isaiah 49:2, "he made my mouth like a sharp sword."\f* —
+\v 18 praying at every season in Spirit, through all prayer and petition, and staying awake for this very thing in all perseverance and petition for all the holy ones \add [— prayer is not an addition to the armor but what puts it to work]\add*,
+\v 19 and for me, that a word may be given me in the opening of my mouth, to make known with boldness the secret of the good news,
+\v 20 for which I am an ambassador in a chain \add [— an envoy is the one man who ought to move freely, and I am the one in irons]\add* — that in it I may speak boldly, as I ought to speak.
+\s1 Tychicus Is Coming
+\p
+\v 21 Now so that you also may know how things stand with me, what I am doing, Tychicus, the beloved brother and faithful servant in the Lord, will make everything known to you,
+\v 22 whom I sent to you for this very thing, so that you may know how we are and that he may encourage your hearts.
+\s1 Final Blessing
+\p
+\v 23 Peace to the brothers, and love with faithfulness, from God the Father and the Lord Jesus the Christ.
+\v 24 The favor be with all who love our Lord Jesus the Christ in incorruption\f + \fr 6:24 \ft Greek \tl aphtharsia\tl*, "undecaying" — a word belonging to the vocabulary of resurrection (1 Corinthians 15:42, 53-54). The love is of the kind that does not perish.\f*.
