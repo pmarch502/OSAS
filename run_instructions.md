@@ -1,5 +1,11 @@
 # Neutral Reading Run -- Instructions
 
+> **Completed run record.** All 260 NT chapters are done. Kept as the record of
+> that run — the checklist below is history, not a work queue. For current
+> procedure see `CLAUDE.md`, "Running Pass 1". Two filenames below are stale:
+> the prompt is now `prompts/neutral_reading.md`, and `agent_prompt.md` was
+> deleted long ago.
+
 ## What We're Doing
 
 Running all 260 New Testament chapters through the neutral reading prompt (`neutral_reading_pass1.md`) to produce first-century textual analyses free of post-first-century theological frameworks. This is Pass 1 of a two-stage process. Pass 2 (OSAS assessment) will be built on these results later.

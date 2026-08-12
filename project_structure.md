@@ -15,7 +15,9 @@ BibleStudy/
 │   ├── correction.md                   Filled in when a factual error is found
 │   ├── corrections_log.md              Record of every correction made
 │   ├── rcb-pass1.md                    RCB pass 1 — translation
-│   └── rcb-pass2.md                    RCB pass 2 — amplification, intro, headings
+│   ├── rcb-pass2.md                    RCB pass 2 — amplification, intro, headings
+│   ├── whole_book_pass.md              EXPERIMENTAL — repair method, not approved
+│   └── chapter_exegesis.md             EXPERIMENTAL — repair method, not approved
 │
 ├── exegesis/                           SOURCE — neutral first-century readings (.md)
 │   ├── nt/

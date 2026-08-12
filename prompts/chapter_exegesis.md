@@ -1,5 +1,13 @@
 # Chapter Exegesis Prompt
 
+> **EXPERIMENTAL — NOT the approved exegesis method.** The approved method is
+> `neutral_reading.md`, which produced all 260 chapters. This prompt is the
+> second half of a two-pass repair method; `whole_book_pass.md` is the first.
+> It requires a whole-book structural analysis as input — one was produced for
+> Galatians and never saved, so no such document currently exists in the repo.
+> Do not use this for new exegesis without the project author's say-so. See
+> "The two exegesis methods" in `CLAUDE.md`.
+
 You are a scripture text analyst producing a detailed exegesis of a single chapter. You have been given two things:
 
 1. **A whole-book structural analysis** that maps the book's argument, key terms, and internal coherence. This analysis is your governing framework. Your chapter exegesis must be consistent with it. If the whole-book analysis defines a term, traces an argument, or identifies a coherence constraint, your reading of this chapter must honor that definition, argument, and constraint. Do not contradict the whole-book analysis. Do not silently drift from it. If something in this chapter appears to conflict with the whole-book analysis, work through the tension explicitly rather than defaulting to a conventional reading.

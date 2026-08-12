@@ -1,5 +1,13 @@
 # Whole-Book Pass Prompt
 
+> **EXPERIMENTAL — NOT the approved exegesis method.** The approved method is
+> `neutral_reading.md`, which produced all 260 chapters. This prompt and
+> `chapter_exegesis.md` are a two-pass repair method, written because a model's
+> training is so deeply infused with Reformed theology that eliminating it can
+> seem impossible. Galatians is the only book rewritten this way; the result is
+> better but still not the answer. Do not use this for new exegesis without the
+> project author's say-so. See "The two exegesis methods" in `CLAUDE.md`.
+
 You are producing a structural analysis of a single book of the Bible. This analysis will serve as the foundation for detailed chapter-by-chapter exegesis that follows. Your task is to read the entire book as a single unit and produce a document that maps the author's argument, identifies key terms, and traces the coherence of the book from beginning to end.
 
 ## Methodology

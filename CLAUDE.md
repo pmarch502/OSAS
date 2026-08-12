@@ -160,7 +160,24 @@ When the error is in the RCB itself rather than the exegesis — a translation c
 - Model: opus
 - Pacing: 2-3 agents at a time max
 - Do NOT add topic framing, output structure, or conclusions to the prompt
-- See `run_instructions.md` for the full 260-chapter checklist
+- See `run_instructions.md` for the full 260-chapter checklist (complete; kept as the record of that run)
+
+## The two exegesis methods — read before touching `exegesis/`
+
+There are two sets of exegesis prompts in `prompts/`. They are not alternatives to choose between. One is the method; the other is an experiment in repairing the method's failures.
+
+**`neutral_reading.md` — the original and approved approach.** This is the method. All 260 NT chapters were produced with it. Use it for any new exegesis. Do not replace it, and do not "upgrade" a chapter to the other method because it looks more thorough.
+
+**`whole_book_pass.md` + `chapter_exegesis.md` — an ongoing experiment, not approved.** A two-pass repair method: a whole-book structural analysis (occasion, argument flow, key terms traced across every occurrence, internal coherence, and "injections" flagging where later theology tends to creep in), then chapter exegesis bound to that framework.
+
+Why it exists: a model's training is so deeply infused with Reformed theology that eliminating it can seem impossible. The original Galatians exegesis was badly off the mark for exactly that reason. These prompts were written to correct it, and Galatians was rewritten with them (commit `942660b`, 2026-08-11).
+
+**Galatians is the only book produced this way, and it is better but still not the answer.** The experiment is unfinished. Treat its output as improved, not as the standard.
+
+Two things to know if you work on this:
+
+- The whole-book analysis that `chapter_exegesis.md` requires as input was never saved for Galatians. There is no storage convention for it. Anyone re-running or extending the experiment has to produce one first, and should save it this time.
+- Any future correction to a Galatians chapter is being made against a framework that no longer exists in the repo.
 
 ## Running Pass 2 (assessment)
 
