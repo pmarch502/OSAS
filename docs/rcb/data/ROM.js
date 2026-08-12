@@ -1,0 +1,629 @@
+const USFM = `\\id ROM - Restored Context Bible (RCB)
+\\usfm 3.0
+\\ide UTF-8
+\\h Romans
+\\toc1 The Letter of Paul to the Romans
+\\toc2 Romans
+\\toc3 Rom
+\\mt1 Romans
+
+\\imt Introduction
+\\ip This letter was written by Paul to believers in the city of Rome, most likely from Corinth in the mid-50s AD, shortly before he sailed for Jerusalem. It is the only letter he wrote at length to a community he had neither founded nor visited. He knew many of them by name (chapter 16), but he had never stood among them, and everything he says has to earn its hearing from a distance.
+\\ip The believers in Rome were not one congregation but a scattering of household gatherings across a city of a million people. They were both Jewish and Gentile, and their recent history had strained the seam between the two. Around 49 AD the emperor Claudius expelled the Jews from Rome over disturbances the Roman historian Suetonius traced to "Chrestus." For some years the assemblies in the city were left almost entirely Gentile. When Claudius died in 54 and the expelled families came home, they returned to communities whose habits, leadership, and table practice had been reshaped without them. The disputes Paul takes up in chapters 14 and 15 — what may be eaten, which days are kept — are the daily friction of that return, and the warning against Gentile contempt for Israel in chapter 11 addresses the temptation it created.
+\\ip Paul writes with two errands in view. He has finished his pioneering work in the eastern Mediterranean and intends to open a mission in Spain, at the far western edge of the empire, with Rome as his base. He needs the Roman believers to know exactly what message they would be sending out. And before Spain he must carry to Jerusalem a collection gathered from his Gentile congregations for the poor among the believers there — a gift that will test, in hard currency, whether Jew and Gentile in the Messiah are in fact one people. He asks the Romans to pray it will be received.
+\\ip So the letter sets out his gospel from the ground up: that God's own covenant faithfulness has now been put into action through the Messiah; that Jew and Gentile alike stand condemned and are set right on identical terms, by trust; that this does not mean God has abandoned Israel; and that a community formed on this basis must welcome one another as the Messiah welcomed them.
+
+\\c 1
+\\s1 Paul's Credentials and the Good News He Carries
+\\p
+\\v 1 Paul, a slave\\f + \\fr 1:1 \\ft Greek \\tl doulos\\tl*. In Greek society a slave had no standing of his own; but in the Greek Old Testament "slave of God" is a title of honor borne by Moses, Joshua, David, and the prophets. Both senses are in play: total ownership, and high commission.\\f* of Christ Jesus, called to be one sent\\f + \\fr 1:1 \\ft Greek \\tl apostolos\\tl*, from which "apostle" comes: an emissary who carries the full authority of the one who sent him.\\f* \\add [i.e. summoned to it, not volunteering for it]\\add*, set apart for the good news\\f + \\fr 1:1 \\ft Greek \\tl euangelion\\tl*. In Isaiah it is the herald's cry that the exile is over and God reigns (Isaiah 40:9; 52:7). In Roman inscriptions it announced the emperor's birth or victory. Paul uses it of a crucified Jew.\\f* of God \\add [— God marked me off for this one work, as the Levites were marked off for theirs]\\add* —
+\\v 2 which he promised beforehand through his prophets in holy writings \\add [i.e. this is nothing new; the Scriptures pledged it in advance, and I am announcing a promise kept]\\add*,
+\\v 3 concerning his Son, who came out of the seed of David according to flesh \\add [i.e. so far as human descent goes, he is David's heir, the king the covenant promised]\\add*,\\f + \\fr 1:3 \\ft 2 Samuel 7:12-16; Isaiah 11:1; Jeremiah 23:5. The Messiah had to come from David's line, and Paul begins by granting it.\\f*
+\\v 4 who was marked out\\f + \\fr 1:4 \\ft Greek \\tl horizō\\tl*, to mark off, appoint, designate. Not "made" — he was already Son; the resurrection publicly installed him in the office with all its power. Compare Psalm 2:6-7, where the king is enthroned and told "today I have begotten you."\\f* Son of God in power according to the Spirit of holiness\\f + \\fr 1:4 \\ft Greek \\tl pneuma hagiōsynēs\\tl*, an unusual phrase; Paul normally writes \\tl pneuma hagion\\tl*. It likely renders the Hebrew \\tl ruach qodesh\\tl*.\\f* out of the resurrection of the dead \\add [— what changed was not who he was but the mode in which he now holds it]\\add* — Jesus the Christ our Lord,
+\\v 5 through whom we received favor and a sending\\f + \\fr 1:5 \\ft Greek \\tl apostolē\\tl*, the commission of an emissary — the noun matching "one sent" in v. 1.\\f*, for obedience of faithfulness\\f + \\fr 1:5 \\ft Greek \\tl hypakoē pisteōs\\tl*. The phrase resists being split. Behind it stands Hebrew \\tl shama\\tl*, which means both to hear and to obey: genuine hearing is obedient hearing. Paul closes the letter with the same words (16:26).\\f* among all the nations \\add [i.e. the Gentile peoples, who were always meant to be brought in]\\add*, on behalf of his name,
+\\v 6 among whom you also are \\add [— you in Rome fall inside that commission, which is why I write to you at all]\\add*, called of Jesus the Christ —
+\\v 7 to all who are in Rome, loved by God, called to be holy ones \\add [i.e. words Israel's Scriptures reserved for Israel, now spoken over you]\\add*: favor to you and peace\\f + \\fr 1:7 \\ft Greek \\tl charis\\tl* and \\tl eirēnē\\tl*: the Greek greeting and the Hebrew \\tl shalom\\tl* set side by side. \\tl Shalom\\tl* is not merely the absence of conflict but wholeness and well-being.\\f* from God our Father and the Lord Jesus the Christ.
+\\s1 Why He Has Not Yet Come to Rome
+\\p
+\\v 8 First, I thank my God through Jesus the Christ for all of you, because your faithfulness is being told through the whole world \\add [— what happens in the capital is heard everywhere]\\add*.
+\\v 9 For God is my witness \\add [— I put this under oath, since you have only my word for it]\\add*, whom I serve\\f + \\fr 1:9 \\ft Greek \\tl latreuō\\tl*, the word used in the Greek Old Testament for priestly service in the tabernacle. Paul treats his gospel work as an act of worship; he will ask the same of his readers at 12:1.\\f* in my spirit in the good news of his Son, how without ceasing I make mention of you,
+\\v 10 always in my prayers asking whether somehow, now at last, I may be given a clear road by the will of God to come to you.
+\\v 11 For I long to see you, so that I may share with you some gift of the Spirit, to make you firm —
+\\v 12 that is, to be encouraged together among you \\add [— I correct myself: I do not come only to give]\\add*, through the faithfulness in one another, both yours and mine.
+\\v 13 I do not want you to be unaware, brothers, that I often set out to come to you — and was blocked until now \\add [i.e. the unreached fields kept claiming me first]\\add* — so that I might have some fruit among you also, just as among the rest of the nations.
+\\v 14 To Greeks and to foreigners\\f + \\fr 1:14 \\ft Greek \\tl barbaros\\tl*, anyone outside the Greek language and culture — the standard division of the non-Jewish world.\\f*, to wise and to senseless, I am a debtor \\add [i.e. I owe this message to every category of human being, with none left out]\\add*;
+\\v 15 so, for my part, I am eager to announce the good news to you also who are in Rome.
+\\s1 The Thesis: God's Righteousness Unveiled
+\\p
+\\v 16 For I am not ashamed of the good news \\add [— and in this city that is worth saying plainly, since the man I proclaim was executed on a Roman cross]\\add*, for it is the power of God for rescue\\f + \\fr 1:16 \\ft Greek \\tl sōtēria\\tl*. In the Greek Old Testament it is God's act of deliverance — out of Egypt, out of exile, out of the hand of enemies — not primarily an inward or private condition.\\f* to everyone who trusts, to the Jew first and also to the Greek \\add [i.e. Israel had it first by covenant right, and the nations have it now on identical terms]\\add*.
+\\v 17 For in it the righteousness of God\\f + \\fr 1:17 \\ft Greek \\tl dikaiosynē theou\\tl*. In Isaiah, God's righteousness and God's salvation are set in parallel as the same thing: "I bring near my righteousness... my salvation will not delay" (Isaiah 46:13; 51:5-8; 56:1). It is not merely a quality God has but his covenant faithfulness put into action to set things right.\\f* is unveiled, out of faithfulness into faithfulness\\f + \\fr 1:17 \\ft The compressed phrase can be read as running from God's own faithfulness to the trust it draws out, or as trust from first to last, or as running from the Messiah's faithfulness to ours. Paul leaves it open; the translation does the same.\\f*, as it is written: "But the righteous one will live out of faithfulness."\\f + \\fr 1:17 \\ft Habakkuk 2:4. The Hebrew reads "by his faithfulness," the Greek Old Testament "by my faithfulness"; Paul quotes it with neither pronoun, leaving it as open as he found it useful.\\f*
+\\s1 The Wrath Unveiled: What Men Did with What They Knew
+\\p
+\\v 18 For the wrath of God\\f + \\fr 1:18 \\ft Greek \\tl orgē\\tl*: not a fit of temper but God's settled opposition to evil. Paul is about to define precisely how it operates in the present — by handing men over (vv. 24, 26, 28) rather than by striking them down.\\f* is unveiled from heaven \\add [— the same present unveiling: the good news that rescues also exposes]\\add* against all ungodliness and unrighteousness of men who hold the truth down in unrighteousness \\add [i.e. they have the truth and press it down so it cannot rise]\\add*,
+\\v 19 because what can be known of God is plain among them, for God made it plain to them \\add [— the knowledge was never withheld; it was pushed away]\\add*.
+\\v 20 For the unseen things of him, from the founding of the world, are seen with the mind in the things he made\\f + \\fr 1:20 \\ft Compare Psalm 19:1-4 and Wisdom of Solomon 13:1-9, where the made world testifies to its maker without words.\\f* — both his everlasting power and his divinity — so that they are without a word to say in their defense\\f + \\fr 1:20 \\ft Greek \\tl anapologētos\\tl*, without a defense to enter. Paul will drop the identical word on the man who reads all this and approves of it (2:1).\\f*;
+\\v 21 because, knowing God, they did not give him glory as God or give thanks, but became empty in their reasonings\\f + \\fr 1:21 \\ft The wording tracks Jeremiah 2:5 in the Greek: Israel "went after empty things and became empty." Men become like what they worship.\\f*, and their heart, without understanding, was darkened.
+\\v 22 Claiming to be wise, they became fools,
+\\v 23 and they exchanged the glory of the incorruptible God for the likeness of an image of corruptible man, and of birds and four-footed animals and creeping things.\\f + \\fr 1:23 \\ft Psalm 106:20 says of the golden calf, "they exchanged their glory for the image of an ox that eats grass." The catalogue of man, birds, animals, creeping things follows the same descending order as the prohibition of Deuteronomy 4:16-18. Paul is describing all humanity in the language of Israel's own worst hour.\\f*
+\\s1 God Hands Them Over
+\\p
+\\v 24 Therefore God handed them over\\f + \\fr 1:24 \\ft Greek \\tl paradidōmi\\tl*, the word used in the Greek Old Testament when God gives Israel into the hands of their enemies (Judges 2:14; Psalm 106:41). God's wrath here is not a blow struck but a restraint withdrawn: he lets go, and the chosen road runs its course.\\f*, in the cravings of their hearts \\add [— the desires were already theirs; what he removed was the brake]\\add*, to uncleanness, so that their bodies would be dishonored among themselves —
+\\v 25 they who exchanged the truth of God for the lie \\add [i.e. the one fundamental falsehood, that what is not God may be treated as God]\\add*, and reverenced and served the thing made rather than the one who made it, who is blessed into the ages. Amen.
+\\v 26 Because of this God handed them over to passions of dishonor. For their females exchanged the natural use for one contrary to nature,
+\\v 27 and likewise also the males, leaving the natural use of the female, were set burning in their appetite for one another — males with males working shamelessness, and receiving back in themselves the payment that was owed for their wandering \\add [— the consequence is not imposed from outside; it is collected within them]\\add*.\\f + \\fr 1:27 \\ft This is the third of three exchanges: God's glory for images (v. 23), God's truth for the lie (v. 25), and now the natural use for what is against nature. Each has the same shape — what God made is set aside for a substitute — and the third embodies the first.\\f*
+\\s1 The Mind That Fails the Test
+\\p
+\\v 28 And just as they did not think it worth having God in their recognition, God handed them over to a mind that fails the test\\f + \\fr 1:28 \\ft The Greek turns on one word: they did not \\tl edokimasan\\tl* (approve, judge fit) to keep God in view, so God gave them an \\tl adokimon\\tl* (unapproved, failing the test) mind. The sentence is shaped to the crime.\\f*, to do the things that are not fitting —
+\\v 29 filled with all unrighteousness, wickedness, greed, malice; full of envy, murder, strife, deceit, spite; whisperers,
+\\v 30 slanderers, God-haters, insolent, arrogant, boasters, inventors of evils, disobedient to parents,
+\\v 31 without understanding, breakers of agreements, without natural affection, without mercy;\\f + \\fr 1:31 \\ft The list runs from the spectacular down to the entirely ordinary — gossip, arrogance, boasting, hard-heartedness. A reader nodding along through the first half is meant to find himself somewhere in the second. That is where 2:1 lands.\\f*
+\\v 32 who, though they know the righteous decree of God — that those who practice such things are worthy of death — not only do them but give their hearty approval to those who practice them \\add [— the last stage is not doing evil but applauding it, which is how a society settles into it]\\add*.
+
+\\c 2
+\\s1 The Judge Has No Defense Either
+\\p
+\\v 1 Therefore you are without a word to say in your defense\\f + \\fr 2:1 \\ft The same Greek word Paul used of the idolaters at 1:20. The judge stands exactly where the judged stands.\\f*, O man, whoever you are who judges \\add [— you have been agreeing with every line of that indictment, and it was written to bring you here]\\add*. For in what you judge the other, you condemn yourself; for you who judge practice the same things \\add [i.e. not the identical acts, but the same pattern: knowing the standard and violating it]\\add*.
+\\v 2 And we know that the judgment of God is according to truth against those who practice such things \\add [i.e. according to what is actually the case, not according to what is professed]\\add*.
+\\v 3 And do you reckon this, O man, you who judge those practicing such things and do them yourself — that you will escape the judgment of God?
+\\v 4 Or do you think lightly of the riches of his kindness and forbearance and long-suffering, not knowing that the kindness of God is leading you to a turning back\\f + \\fr 2:4 \\ft Greek \\tl metanoia\\tl*, a change of mind that turns the whole life around.\\f* \\add [— you have read his patience as approval; it is a window, and windows close]\\add*?
+\\v 5 But according to your hardness and your unturning heart you are storing up\\f + \\fr 2:5 \\ft The verb is the one used for laying up treasure. He thinks he is accumulating merit; the account he is filling holds wrath.\\f* wrath for yourself in a day of wrath\\f + \\fr 2:5 \\ft The day of the LORD, the prophets' day of reckoning. Amos had to tell Israel that it would fall on them and not only on their enemies (Amos 5:18-20; Zephaniah 1:14-15).\\f* and of the unveiling of the righteous judgment of God,
+\\s1 God Repays According to Works, Without Favor
+\\p
+\\v 6 who will give back to each according to his works:\\f + \\fr 2:6 \\ft Psalm 62:12; Proverbs 24:12. Paul is quoting a principle his hearer already holds about God, and then making him reckon with it.\\f*
+\\v 7 to those who, by endurance in good work, seek glory and honor and incorruption — life of the age\\f + \\fr 2:7 \\ft Greek \\tl zōē aiōnios\\tl*, the life belonging to the age to come — resurrection life, not merely unending duration (Daniel 12:2).\\f*;
+\\v 8 but to those who are out for themselves and disobey the truth and obey unrighteousness — wrath and fury \\add [— they are not without obedience; it is aimed at the wrong master]\\add*.
+\\v 9 Affliction and crushing distress on every soul of man who works out the evil, of the Jew first and also of the Greek \\add [— the same priority that ran first in the rescue runs first in the reckoning]\\add*;
+\\v 10 but glory and honor and peace to everyone who works the good, to the Jew first and also to the Greek.
+\\v 11 For there is no receiving of faces with God\\f + \\fr 2:11 \\ft A Hebrew idiom, "to lift the face" — to judge by who someone is rather than by what he has done. Deuteronomy 10:17 says flatly that God does not do it, and it says so immediately after commanding Israel to circumcise their hearts (10:16) — the very point Paul reaches at v. 29.\\f*.
+\\s1 Having the Torah Is Not Keeping It
+\\p
+\\v 12 For as many as sinned without Torah\\f + \\fr 2:12 \\ft Greek \\tl nomos\\tl*, "law." Where the law given at Sinai is meant, this translation says Torah, since "law" in English suggests a legal system in general rather than the covenant charter of a particular people.\\f* will also perish without Torah, and as many as sinned under Torah will be judged through Torah \\add [— possessing the standard does not exempt you from it; it is the standard you will be measured by]\\add*.
+\\v 13 For it is not the hearers of Torah who are righteous before God, but the doers of Torah who will be set right \\add [— every Sabbath in the synagogue makes a man a hearer; that is not the question]\\add*.
+\\v 14 For whenever nations that do not have Torah do by nature the things of the Torah, these, not having Torah, are a Torah to themselves;
+\\v 15 they show the work of the Torah written in their hearts\\f + \\fr 2:15 \\ft The phrase carries the promise of Jeremiah 31:33, "I will put my law within them, and write it on their hearts."\\f*, their conscience bearing witness with them, and their reasonings between one another accusing them or even speaking in their defense \\add [i.e. an inner court in session, with prosecution and defense both at work]\\add* —
+\\v 16 in a day when God judges the hidden things of men \\add [— not the public record but what is underneath it]\\add*, according to my good news, through Christ Jesus.
+\\s1 The Teacher Who Does Not Teach Himself
+\\p
+\\v 17 But if you call yourself a Jew and rest on Torah and boast in God,
+\\v 18 and know the will and approve the things that matter, being instructed out of the Torah,
+\\v 19 and have persuaded yourself that you are a guide of the blind, a light of those in darkness \\add [— the vocation Isaiah gave Israel, to be a light to the nations]\\add*,
+\\v 20 a trainer of the senseless, a teacher of infants, having in the Torah the outline of the knowledge and of the truth \\add [— and every item on that list is true; I am not disputing one of them]\\add* —
+\\v 21 you then who teach another, do you not teach yourself \\add [— here the whole tower comes down]\\add*? You who proclaim not to steal, do you steal?
+\\v 22 You who say not to commit adultery, do you commit adultery? You who detest idols, do you rob temples?\\f + \\fr 2:22 \\ft Greek \\tl hierosyleō\\tl*, to plunder a sanctuary. Deuteronomy 7:25-26 forbids taking the gold off a pagan idol even while abhorring the idol; Josephus records four Jews in Rome embezzling funds collected for the Jerusalem temple, which brought an expulsion down on the whole community (Antiquities 18.3.5). Either would fit.\\f*
+\\v 23 You who boast in Torah — through your stepping over the Torah do you dishonor God?
+\\v 24 For "the name of God is spoken against among the nations because of you," as it is written.\\f + \\fr 2:24 \\ft Isaiah 52:5 in the Greek. Ezekiel 36:20-22 makes the same charge: when the people who bear God's name live in contradiction to him, the watching nations draw their conclusions about him. The guide to the blind has blinded them.\\f*
+\\s1 Circumcision of the Heart
+\\p
+\\v 25 For circumcision profits if you practice Torah; but if you are one who steps over Torah, your circumcision has become uncircumcision \\add [— the mark is still on the body; what it stood for has been voided]\\add*.\\f + \\fr 2:25 \\ft Jeremiah said the same, and worse: Egypt, Edom, Moab and "all the house of Israel" alike are uncircumcised in heart (Jeremiah 9:25-26).\\f*
+\\v 26 If therefore the uncircumcision keeps the righteous decrees of the Torah, will not his uncircumcision be counted as circumcision?
+\\v 27 And the one uncircumcised by nature, completing the Torah, will judge you who through letter and circumcision step over Torah \\add [— your assets become your accusers]\\add*.
+\\v 28 For the Jew is not the one out in the open, nor is circumcision the one out in the open, in flesh;
+\\v 29 but the Jew is the one in the hidden place, and circumcision is of the heart, in spirit, not in letter\\f + \\fr 2:29 \\ft Not Paul's invention. Moses commanded it (Deuteronomy 10:16), then promised God would do it himself (Deuteronomy 30:6); Jeremiah repeated the command with a warning of unquenchable fire (Jeremiah 4:4); Ezekiel promised the new heart and the indwelling Spirit that would make obedience possible (Ezekiel 36:26-27).\\f* — whose praise is not from men but from God.\\f + \\fr 2:29 \\ft A play on the name. "Jew" comes from Judah, and Genesis 29:35 explains Judah from Leah's words "this time I will praise the LORD." The true Judah is the one whose praise comes from God rather than from the men who can see only the outside.\\f*
+
+\\c 3
+\\s1 Then What Advantage Has the Jew?
+\\p
+\\v 1 What then is the advantage of the Jew, or what the profit of circumcision \\add [— if the standard is the same for everyone, why did God choose Israel at all?]\\add*?
+\\v 2 Much in every way. First of all, that they were entrusted with the sayings of God\\f + \\fr 3:2 \\ft Greek \\tl logia\\tl*, God's spoken utterances — the promises, the commands, the covenant declarations. Israel's first advantage is not immunity but custody: they were made the keepers and carriers of God's own words. Paul gives the fuller list at 9:4-5.\\f* \\add [— they were made the keepers of his words for the world, and that is no small thing]\\add*.
+\\v 3 For what if some were unfaithful? Will their unfaithfulness put an end to the faithfulness of God \\add [i.e. can Israel's failure cancel God's covenant commitment?]\\add*?
+\\v 4 May it never be!\\f + \\fr 3:4 \\ft Greek \\tl mē genoito\\tl*, the strongest refusal the language allows, used in the Greek Old Testament for the Hebrew \\tl chalilah\\tl*, "far be it." Paul reaches for it ten times in this letter, always at the point where his own argument could be twisted into its opposite.\\f* Let God be true, and every man a liar, as it is written: "So that you may be set right in your words, and prevail when you are judged."\\f + \\fr 3:4 \\ft Psalm 51:4, from David's confession after Bathsheba and Uriah. David sinned and God was vindicated: the sinner's failure displayed the judge's integrity rather than compromising it.\\f*
+\\v 5 But if our unrighteousness sets off the righteousness of God, what shall we say? Is God unrighteous who brings the wrath? (I am speaking in a human way.) \\add [— I put the objection at its worst so there is nothing left of it afterward]\\add*
+\\v 6 May it never be! Otherwise, how will God judge the world \\add [— take that argument seriously and there is no justice anywhere]\\add*?
+\\v 7 But if by my lie the truth of God overflowed to his glory, why am I still judged as a sinner?
+\\v 8 And why not — as we are slandered, and as some claim we say — "Let us do the evil things so that the good things may come" \\add [— that is the charge laid against my preaching, and I will answer it at length later]\\add*? Their condemnation is just.
+\\s1 All Under Sin: The Scriptures' Own Verdict
+\\p
+\\v 9 What then? Are we holding something over them? Not at all. For we have already brought the charge that Jews and Greeks are all under sin \\add [i.e. under it as under a power, not merely guilty of acts]\\add*,
+\\v 10 as it is written: "There is no righteous one, not even one;
+\\v 11 there is no one who understands, there is no one who seeks out God.
+\\v 12 All turned aside, together they went sour; there is no one doing kindness, there is not even one."
+\\v 13 "Their throat is a grave standing open, with their tongues they kept deceiving." "Venom of asps is under their lips."
+\\v 14 "Whose mouth is full of cursing and bitterness."
+\\v 15 "Their feet are quick to pour out blood;
+\\v 16 wreckage and misery are in their roads,
+\\v 17 and the road of peace they did not know."
+\\v 18 "There is no fear of God before their eyes."\\f + \\fr 3:18 \\ft The chain runs Psalm 14:1-3; Psalm 5:9; Psalm 140:3; Psalm 10:7; Isaiah 59:7-8; Psalm 36:1. It moves from the inner man, through the organs of speech, to the feet, and ends at the root: no fear of God. Isaiah 59 in particular is an indictment of Israel, not of the nations — which is exactly why Paul reaches for it.\\f*
+\\s1 Every Mouth Stopped
+\\p
+\\v 19 Now we know that whatever the Torah says, it says to those inside the Torah \\add [— those texts are addressed to the people who own them; you cannot read them as being about somebody else]\\add*, so that every mouth may be stopped and the whole world come under judgment to God \\add [i.e. answerable in court, with no defense left to enter]\\add*.
+\\v 20 Because out of works of Torah no flesh will be set right before him\\f + \\fr 3:20 \\ft Echoing Psalm 143:2, "no living thing will be justified before you," with Paul adding the decisive qualifier: not by works of Torah.\\f*; for through Torah comes the recognition of sin\\f + \\fr 3:20 \\ft Greek \\tl epignōsis\\tl*, full recognition, not vague awareness. The Torah is a diagnosis, not a cure. It names the disease; it does not heal it.\\f*.
+\\s1 But Now: Righteousness Apart from Torah
+\\p
+\\v 21 But now \\add [— everything from 1:18 to here has been diagnosis; this is the turn]\\add*, apart from Torah, a righteousness of God has been made visible, borne witness to by the Torah and the Prophets \\add [— it operates outside the Torah, yet the Torah itself has been pointing at it all along]\\add* —
+\\v 22 a righteousness of God through the faithfulness of Jesus the Christ\\f + \\fr 3:22 \\ft Greek \\tl pistis Iēsou Christou\\tl* can mean either "faith in Jesus Christ" or "the faithfulness of Jesus Christ." The second avoids the redundancy of the clause that follows immediately — "into all who trust" — by naming two different things: Christ's faithfulness as the means, and human trust as the way it is received. Both readings have long been held.\\f*, into all who trust. For there is no distinction \\add [i.e. none between Jew and Gentile — the ground is level in both directions]\\add*:
+\\v 23 for all sinned and fall short of the glory of God,
+\\v 24 being set right as a gift, by his favor, through the ransoming\\f + \\fr 3:24 \\ft Greek \\tl apolytrōsis\\tl*, the purchase of a slave's or a captive's freedom. In the Greek Old Testament it is exodus language: "I will redeem you with an outstretched arm" (Exodus 6:6).\\f* that is in Christ Jesus,
+\\v 25 whom God set out in the open as the place of atonement\\f + \\fr 3:25 \\ft Greek \\tl hilastērion\\tl*, the word the Greek Old Testament uses for the \\tl kapporet\\tl* — the gold cover of the ark in the Most Holy Place, where the high priest sprinkled blood once a year on the Day of Atonement (Exodus 25:17-22; Leviticus 16:14-15). What was done behind the veil, out of sight, once a year, God has now done in public and once for all.\\f*, through faithfulness, in his blood — to show his righteousness, because of the passing over\\f + \\fr 3:25 \\ft Greek \\tl paresis\\tl*, a passing over or letting go by — not the ordinary word for forgiveness (\\tl aphesis\\tl*). Sins were not being pardoned outright but held in suspense while God withheld the penalty.\\f* of the sins committed beforehand, in the forbearance of God;
+\\v 26 to show his righteousness in the present season, so that he might be righteous and the one who sets right the man who is out of the faithfulness of Jesus \\add [— both at once: he does not overlook sin in order to acquit, and he does not withhold acquittal in order to be just]\\add*.
+\\s1 One God, One Way In
+\\p
+\\v 27 Where then is the boasting? It was shut out. Through what sort of Torah? That of works? No, but through a Torah of faithfulness \\add [— a thing received leaves nothing to boast of]\\add*.
+\\v 28 For we reckon that a man is set right by faithfulness, apart from works of Torah.
+\\v 29 Or is God the God of Jews only? Is he not also of the nations? Yes, of the nations also,
+\\v 30 since God is one\\f + \\fr 3:30 \\ft The Shema, Israel's daily confession: "Hear, O Israel, the LORD our God, the LORD is one" (Deuteronomy 6:4). Paul draws a startling conclusion from it — one God means one way in, for everyone.\\f*, who will set right the circumcision out of faithfulness and the uncircumcision through the faithfulness \\add [i.e. Jews and Gentiles alike, by the one means]\\add*.
+\\v 31 Do we then put Torah out of use through the faithfulness? May it never be! Rather, we make Torah stand \\add [— and I will now show you from the Torah itself that this is what it always said]\\add*.
+
+\\c 4
+\\s1 Abraham Was Counted Righteous by Trusting
+\\p
+\\v 1 What then shall we say that Abraham our forefather has found according to flesh \\add [i.e. our ancestor by birth — and the test case, since if this fails for him it fails altogether]\\add*?
+\\v 2 For if Abraham was set right out of works, he has a boast — but not before God.
+\\v 3 For what does the Scripture say? "And Abraham trusted God, and it was counted\\f + \\fr 4:3 \\ft Greek \\tl logizomai\\tl*, a bookkeeping word: to enter an item in an account. It governs this whole chapter, appearing eleven times. God does the entering, and the value he assigns to Abraham's trust is "righteousness."\\f* to him for righteousness."\\f + \\fr 4:3 \\ft Genesis 15:6. Note what the verse does not say. Not that Abraham obeyed, or was circumcised, or sacrificed — but that he trusted God's word when everything visible contradicted it.\\f*
+\\v 4 Now to the one who works, the wage is not counted according to favor but according to debt \\add [— an employer who pays is not being generous; he is settling an obligation]\\add*;
+\\v 5 but to the one who does not work but trusts on the one who sets right the ungodly\\f + \\fr 4:5 \\ft Proverbs 17:15 calls it an abomination when a human judge acquits the guilty. God can do what no human judge may, because the guilt has been dealt with at the place of atonement (3:25).\\f*, his faithfulness is counted for righteousness \\add [i.e. "the ungodly" — the very word I used at the start of the indictment]\\add*.
+\\v 6 Just as David also speaks the blessing of the man to whom God counts righteousness apart from works:
+\\v 7 "Blessed are those whose lawless acts were forgiven and whose sins were covered over;
+\\v 8 blessed is the man whose sin the Lord will never count."\\f + \\fr 4:8 \\ft Psalm 32:1-2. Abraham shows the positive entry — righteousness credited where there was none. David shows the negative — sin refused entry where there was much. And David, of all men, spoke from experience.\\f*
+\\s1 The Reckoning Came Before the Circumcision
+\\p
+\\v 9 Is this blessing then on the circumcision, or on the uncircumcision as well? For we say, "The faithfulness was counted to Abraham for righteousness."
+\\v 10 How then was it counted? While he was in circumcision or in uncircumcision? Not in circumcision but in uncircumcision \\add [— the reckoning stands in Genesis 15; the circumcision is not commanded until Genesis 17, and he was ninety-nine by then]\\add*.
+\\v 11 And he received a sign, circumcision — a seal\\f + \\fr 4:11 \\ft Greek \\tl sphragis\\tl*, the stamp pressed into wax that authenticates a document or marks ownership. A seal confirms what already exists; it does not create it.\\f* of the righteousness of the faithfulness that was his while in the uncircumcision — so that he might be father of all who trust while uncircumcised, so that righteousness might be counted to them as well,
+\\v 12 and father of circumcision to those who are not only out of circumcision but who also walk in the footsteps\\f + \\fr 4:12 \\ft The verb is used of soldiers marching in file, each man setting his feet in the tracks of the one ahead.\\f* of the faithfulness our father Abraham had while in uncircumcision \\add [— circumcision alone does not make a man Abraham's son; walking where he walked does]\\add*.
+\\s1 The Promise Came by Faithfulness, Not by Torah
+\\p
+\\v 13 For the promise to Abraham or to his seed, that he would be heir of the world\\f + \\fr 4:13 \\ft No single verse in Genesis says "heir of the world," but the promises read together — the land, a multitude of nations, blessing for all the families of the earth — were already being summed up that way in Jewish reading before Paul (Sirach 44:21; Jubilees 22:14).\\f*, was not through Torah but through a righteousness of faithfulness \\add [— the Torah would not be given for another four centuries]\\add*.
+\\v 14 For if those out of Torah are heirs, faithfulness has been emptied out and the promise has been put out of use \\add [— a condition imposed four hundred years later would cancel the word already given]\\add*.
+\\v 15 For the Torah works wrath; but where there is no Torah, neither is there stepping over\\f + \\fr 4:15 \\ft Greek \\tl parabasis\\tl*, stepping across a drawn line. Sin exists without the Torah (5:13); transgression, the deliberate crossing of a stated boundary, requires the boundary to be stated first.\\f*.
+\\v 16 Because of this it is out of faithfulness, so that it may be according to favor, so that the promise may stand firm\\f + \\fr 4:16 \\ft The word is a legal term for a guarantee that cannot be challenged or revoked. Resting on grace rather than performance is precisely what makes it unshakeable.\\f* to all the seed — not to the one out of the Torah only, but also to the one out of Abraham's faithfulness, who is father of us all,
+\\v 17 as it is written: "I have made you a father of many nations"\\f + \\fr 4:17 \\ft Genesis 17:5. The Greek word for "nations" is the same one translated "Gentiles" throughout this letter.\\f* — before the God whom he trusted, who makes the dead alive and calls the things that are not as being \\add [— which is exactly the God the promise required, since nothing in Abraham's circumstances could produce it]\\add*.
+\\s1 What Abraham's Trust Actually Looked Like
+\\p
+\\v 18 Against hope, upon hope he trusted, so that he became father of many nations, according to what was spoken: "So will your seed be."
+\\v 19 And not being weak in faithfulness, he took a good look at his own body, already dead (being about a hundred years old), and at the deadness of Sarah's womb \\add [— he did not believe by refusing to look; he looked, and believed anyway]\\add*;
+\\v 20 but at the promise of God he did not waver in unbelief, but was made strong in faithfulness, giving glory to God \\add [— the precise reverse of the men who knew God and would not glorify him]\\add*,
+\\v 21 fully carried to the conviction that what he has promised he is also able to do.
+\\v 22 Therefore also it was counted to him for righteousness.
+\\s1 Written for Us as Well
+\\p
+\\v 23 Now it was not written for his sake alone that it was counted to him,
+\\v 24 but for ours also, to whom it is going to be counted — to us who trust on the one who raised Jesus our Lord from among the dead \\add [— the same God, exercising the same power, over a deeper deadness]\\add*,
+\\v 25 who was handed over\\f + \\fr 4:25 \\ft The same verb used three times in chapter 1 of God handing men over to the consequences of their sin. There it was judgment; here God hands over his own Son, and it is rescue.\\f* because of our false steps and raised because of our being set right.
+
+\\c 5
+\\s1 What Being Set Right Produces
+\\p
+\\v 1 Therefore, having been set right out of faithfulness, we have peace\\f + \\fr 5:1 \\ft Greek \\tl eirēnē\\tl*, standing for Hebrew \\tl shalom\\tl*: not the mere absence of hostility but wholeness and right relation. Isaiah says twice that there is no \\tl shalom\\tl* for the ungodly (48:22; 57:21) — and "the ungodly" is what v. 6 will call us.\\f* toward God through our Lord Jesus the Christ,
+\\v 2 through whom we have also gained our way in\\f + \\fr 5:2 \\ft Greek \\tl prosagōgē\\tl*, the formal presentation of a petitioner into a king's presence by an authorized official; in the Greek Old Testament the related verb is used of bringing offerings and priests before the LORD. Not a pardon issued at the gate but an introduction into the throne room.\\f*, by faithfulness, into this favor in which we stand; and we boast upon hope of the glory of God \\add [— the very glory we were falling short of]\\add*.
+\\v 3 And not only that, but we also boast in our afflictions, knowing that affliction works out endurance,
+\\v 4 and endurance works out proven worth\\f + \\fr 5:4 \\ft The word is used of metal that has been through the fire and come out genuine.\\f*, and proven worth works out hope.
+\\v 5 And the hope does not put us to shame, because the love of God has been poured out\\f + \\fr 5:5 \\ft The verb Joel uses for the promised outpouring of the Spirit on all flesh (Joel 2:28). What Joel announced as future, Paul describes as already done.\\f* in our hearts through the Holy Spirit given to us \\add [i.e. God's love for us, not ours for him — as the next verses make plain]\\add*.
+\\s1 The Proof of God's Love
+\\p
+\\v 6 For while we were still weak, at the right season\\f + \\fr 5:6 \\ft Greek \\tl kairos\\tl*, the appointed moment rather than the passage of time. God's rescues arrive on his schedule, not on the strength of the moment.\\f* the Christ died for the ungodly.
+\\v 7 For hardly will anyone die for a righteous man — though perhaps for the good man someone might even dare to die \\add [— I am granting human self-sacrifice its very best case]\\add*.
+\\v 8 But God sets his own love toward us on display in this: that while we were still sinners, the Christ died for us \\add [— not for the good man, and not after we improved]\\add*.
+\\v 9 Much more then\\f + \\fr 5:9 \\ft The argument from the harder case to the easier, standard in Jewish reasoning: if God did the costly thing for enemies, the remaining thing for friends is not in doubt. Paul uses it four times in this chapter (vv. 9, 10, 15, 17).\\f*, having now been set right in his blood, we will be rescued through him from the wrath.
+\\v 10 For if, while we were enemies, we were brought back\\f + \\fr 5:10 \\ft Greek \\tl katallassō\\tl*, to change a relationship from hostility to friendship — a word from the sphere of personal reconciliation rather than the courtroom or the marketplace.\\f* to God through the death of his Son, much more, having been brought back, we will be rescued in his life \\add [— his death dealt with the past; his living now carries us through]\\add*.
+\\v 11 And not only that, but we also boast in God through our Lord Jesus the Christ, through whom we have now received the bringing back.
+\\s1 Adam and the One Who Was to Come
+\\p
+\\v 12 Therefore, just as through one man sin entered into the world, and through sin death, and so death went through into all men, upon which all sinned\\f + \\fr 5:12 \\ft The Greek phrase rendered "upon which" (\\tl eph' hō\\tl*) most naturally means "because." How the two halves fit — Adam's act, and every man's own sinning — Paul does not resolve; he holds both. The sentence itself breaks off unfinished, and the comparison it begins is not completed until vv. 18-19.\\f* —
+\\v 13 for until Torah, sin was in the world, but sin is not put on the account where there is no Torah \\add [— it was there and it was deadly; it simply could not be itemized as the breach of a stated command]\\add*;
+\\v 14 yet death reigned as king from Adam until Moses, even over those who did not sin in the likeness of the stepping over of Adam \\add [— which shows death's grip does not depend on itemized transgressions]\\add*, who is a type\\f + \\fr 5:14 \\ft Greek \\tl typos\\tl*, the impression a stamp leaves in wax — an earlier shape that corresponds to a later one. Adam and the Messiah match in structure: one man's single act, consequences for everyone. In everything else they are opposites, as the next verses insist.\\f* of the one who was to come.
+\\s1 The Gift Is Not Like the False Step
+\\p
+\\v 15 But the free gift is not like the false step. For if by the false step of the one the many died, much more did the favor of God and the gift in favor — that of the one man, Jesus the Christ — overflow to the many.\\f + \\fr 5:15 \\ft "The many" is a Hebrew way of saying the whole multitude as against the one, not "many but not all." The phrasing tracks Isaiah 53:11-12, where the Servant "makes many to be accounted righteous" and "bore the sin of many."\\f*
+\\v 16 And the gift is not like what came through the one who sinned. For the judgment, out of one, went to condemnation; but the free gift, out of many false steps, went to a righteous verdict \\add [— one sin was enough to condemn; a whole race of them was not enough to prevent the acquittal]\\add*.
+\\v 17 For if by the false step of the one, death reigned as king through that one, much more will those who receive the overflow of the favor and of the gift of righteousness reign as kings in life through the one, Jesus the Christ \\add [— note the turn: under Adam death reigned over men; under Christ men themselves reign]\\add*.
+\\s1 The Comparison Completed
+\\p
+\\v 18 So then, as through one false step it came to all men for condemnation, so also through one righteous act it came to all men for a setting right that is life.\\f + \\fr 5:18 \\ft The two halves are stated with the same reach: "all men" on each side. Paul does not soften either. He has already said in v. 17 that the gift belongs to "those who receive" it, and the letter has identified trust as how it is received (3:22; 4:5). He states both and leaves them standing.\\f*
+\\v 19 For just as through the disobedience of the one man the many were set down as sinners, so also through the obedience of the one, the many will be set down as righteous.
+\\v 20 And Torah slipped in alongside\\f + \\fr 5:20 \\ft The verb suggests entry from the side. Sin came in by the main door (v. 12) and death was already reigning (v. 14); the Torah arrives afterward, into a situation already under way, not as the cause of it.\\f*, so that the false step might grow to its full; but where sin grew to its full, favor overflowed beyond it \\add [— it did not match sin's increase; it swamped it]\\add*,
+\\v 21 so that just as sin reigned as king in death, so also favor might reign as king through righteousness, into life of the age, through Jesus the Christ our Lord.
+
+\\c 6
+\\s1 Dead to Sin, Buried with Him
+\\p
+\\v 1 What then shall we say? Shall we stay on in sin so that favor may overflow \\add [— which is exactly what my last sentence invites you to ask]\\add*?
+\\v 2 May it never be! We who died to sin — how shall we still live in it \\add [— this is not "you must not"; it is "you cannot," because the man who lived there is dead]\\add*?
+\\v 3 Or are you unaware that as many of us as were immersed\\f + \\fr 6:3 \\ft Greek \\tl baptizō\\tl*, to plunge or submerge — used of ships going down and cloth taking dye. The Torah's washings, and the immersion by which a Gentile entered the Jewish community, both marked a passage out of one state and into another.\\f* into Christ Jesus were immersed into his death?
+\\v 4 We were buried with him, then, through the immersion into the death, so that just as the Christ was raised from among the dead through the glory of the Father, so we also might walk in newness of life \\add [— his rising is done; our walking is what it was done for]\\add*.
+\\v 5 For if we have grown together\\f + \\fr 6:5 \\ft The word is horticultural: grafted so as to grow as one plant. Not association but fusion.\\f* with the likeness of his death, we will certainly also be of his resurrection;
+\\v 6 knowing this, that our old man\\f + \\fr 6:6 \\ft Not the body, and not an inner compartment of the self, but the whole of what we were in Adam — the old mode of being human, described in 5:12-21.\\f* was crucified together with him, so that the body of sin might be put out of work, so that we would no longer be slaves to sin \\add [i.e. so that sin would lose its instrument]\\add*.
+\\v 7 For the one who has died has been cleared from sin.\\f + \\fr 6:7 \\ft The verb is the one translated "set right" throughout the letter. Death dissolves a legal claim: a dead slave cannot be compelled, a dead debtor owes nothing. Sin's writ does not run past the grave.\\f*
+\\v 8 And if we died with the Christ, we trust that we will also live with him,
+\\v 9 knowing that the Christ, having been raised from among the dead, dies no more; death is no longer lord over him.
+\\v 10 For the death he died, he died to sin once for all\\f + \\fr 6:10 \\ft Greek \\tl ephapax\\tl*, once and for all time — unrepeatable and permanently in force. The contrast with the yearly Day of Atonement is deliberate; compare the atonement place of 3:25.\\f*; but the life he lives, he lives to God.
+\\v 11 So you also, count\\f + \\fr 6:11 \\ft The same accounting verb that governed chapter 4. There God did the reckoning; here it is handed to you, as a standing order.\\f* yourselves dead to sin but living to God in Christ Jesus.
+\\s1 Do Not Let Sin Reign
+\\p
+\\v 12 Therefore do not let sin reign as king in your mortal body \\add [— your body is not yet raised, and that is the ground sin still tries to hold]\\add*, so that you obey its cravings;
+\\v 13 and do not go on handing over your members to sin as weapons\\f + \\fr 6:13 \\ft Greek \\tl hopla\\tl*, a soldier's arms and equipment. Your hands, eyes, tongue are weaponry, and they are being issued to one side or the other.\\f* of unrighteousness, but hand yourselves over to God as men alive from among the dead, and your members to God as weapons of righteousness.
+\\v 14 For sin will not be lord over you, for you are not under Torah but under favor \\add [— the regime you live under has changed, and I will explain in due course why the old one could never break sin's grip]\\add*.
+\\s1 Whose Slave Are You?
+\\p
+\\v 15 What then? Shall we sin because we are not under Torah but under favor \\add [— if the Torah was the enforcement, does its removal open the gate?]\\add*? May it never be!
+\\v 16 Do you not know that when you hand yourselves over to someone as slaves for obedience, you are slaves of the one you obey — whether of sin, into death, or of obedience, into righteousness \\add [— there is no third option, no standing free of every master; the only question is whose]\\add*?
+\\v 17 But thanks be to God that, though you were slaves of sin, you obeyed from the heart the pattern of teaching into which you were handed over \\add [— note the direction: not the teaching delivered to you, but you delivered into it, as into a mould]\\add*;
+\\v 18 and having been set free from sin, you were made slaves to righteousness.
+\\v 19 I am speaking in a human way because of the weakness of your flesh \\add [— the picture of slavery is a rough one, and I use it because it is the one you will feel]\\add*. For just as you handed over your members as slaves to uncleanness and to lawlessness leading on into more lawlessness, so now hand over your members as slaves to righteousness leading on into holiness.
+\\s1 The Two Harvests
+\\p
+\\v 20 For when you were slaves of sin, you were free with regard to righteousness \\add [— free of the good, which is another way of saying held by the bad]\\add*.
+\\v 21 What fruit then did you have at that time? Things you are now ashamed of — for the end of those things is death.
+\\v 22 But now, having been set free from sin and made slaves to God, you have your fruit leading on into holiness, and the end, life of the age.
+\\v 23 For the wages\\f + \\fr 6:23 \\ft Greek \\tl opsōnia\\tl*, a soldier's pay and rations — what is earned and owed. Against it stands \\tl charisma\\tl*, a thing given out of \\tl charis\\tl*, favor. Sin pays what you worked for; God gives what you did not.\\f* sin pays is death, but the free gift of God is life of the age in Christ Jesus our Lord.
+
+\\c 7
+\\s1 Death Ends the Torah's Claim
+\\p
+\\v 1 Or are you unaware, brothers — for I am speaking to those who know Torah — that the Torah is lord over a man for as long a time as he lives \\add [i.e. its jurisdiction stops at the grave; that is an axiom of any law]\\add*?
+\\v 2 For the married woman has been bound by law to the living husband; but if the husband dies, she has been released from the law of the husband.
+\\v 3 So then, while the husband is living, she will be called an adulteress if she comes to belong to another man; but if the husband dies, she is free from the law, so that she is not an adulteress by coming to belong to another man \\add [— the act is the same; the legal situation is not]\\add*.
+\\v 4 So, my brothers, you also were put to death to the Torah through the body of the Christ\\f + \\fr 7:4 \\ft In the illustration the husband dies and the wife goes free; in the application it is you who died. Paul is not building an allegory in which every part matches, but pressing one principle: death ends legal obligation.\\f*, so that you might come to belong to another — to the one raised from among the dead — so that we might bear fruit to God \\add [— the fruit Israel was planted to bear and the prophets kept looking for]\\add*.
+\\v 5 For when we were in the flesh, the passions of sins, those that come through the Torah, were at work in our members to bear fruit to death \\add [— which is the whole difficulty: the good command, working in bad ground, produced the opposite crop]\\add*.
+\\v 6 But now we have been released from the Torah, having died to that in which we were held down, so that we serve in newness of spirit and not in oldness of letter\\f + \\fr 7:6 \\ft Greek \\tl gramma\\tl*, the written character. The Torah was inscribed on stone, standing outside a man and telling him what to do; Jeremiah promised a law written on hearts and Ezekiel a Spirit put within (Jeremiah 31:33; Ezekiel 36:26-27). The contrast is not between a bad code and a good one but between an external standard and an inward power.\\f*.
+\\s1 Is the Torah Sin?
+\\p
+\\v 7 What then shall we say? Is the Torah sin \\add [— that is where my last sentences appear to point, and I want it said out loud so I can deny it]\\add*? May it never be! But I would not have known sin except through Torah; for I would not have known craving if the Torah had not said, "You shall not crave."\\f + \\fr 7:7 \\ft The tenth commandment (Exodus 20:17). Of the ten, it is the only one that reaches past the deed to the wanting behind it — which is why Paul chooses it as his test case.\\f*
+\\v 8 But sin, taking its opening\\f + \\fr 7:8 \\ft Greek \\tl aphormē\\tl*, a military term for the base from which an operation is launched. Sin did not write the commandment; it seized it and worked out of it.\\f* through the commandment, worked out in me every kind of craving; for apart from Torah, sin is dead \\add [— dormant, not absent]\\add*.
+\\v 9 And I was alive apart from Torah once\\f + \\fr 7:9 \\ft The "I" that speaks from here to the end of the chapter is a recognized device of ancient speech-making: a representative voice. The story fits Adam, who was alive until the commandment came; it fits Israel, alive before Sinai; and it fits any man who first discovers a prohibition and finds it has woken an appetite. Paul is likely reaching for all three at once.\\f*; but when the commandment came, sin came back to life,
+\\v 10 and I died. And the commandment that was for life\\f + \\fr 7:10 \\ft "You shall keep my statutes... the man who does them shall live by them" (Leviticus 18:5); "I have set before you today life and good" (Deuteronomy 30:15). The Torah aimed at life. That is what makes the outcome so bitter.\\f*, this was found to be for death to me.
+\\v 11 For sin, taking its opening through the commandment, deceived me\\f + \\fr 7:11 \\ft The verb echoes Eve's words in Genesis 3:13, "the serpent deceived me." Sin here plays the serpent's part, twisting God's own prohibition into a lure.\\f*, and through it killed me.
+\\v 12 So then, the Torah is holy, and the commandment holy and righteous and good \\add [— that is the verdict everything so far was working toward: the fault was never in the command]\\add*.
+\\s1 The Divided Man
+\\p
+\\v 13 Did then the good become death to me? May it never be! But sin did — so that it might be shown to be sin, working out death in me through the good — so that sin might become sinful beyond all measure through the commandment \\add [— the Torah exposed the disease at full strength; that was its work]\\add*.
+\\v 14 For we know that the Torah is of the Spirit, but I am of flesh, sold under sin.\\f + \\fr 7:14 \\ft "Sold under sin" is the exact reverse of 6:18, "set free from sin." The voice speaking here is not describing the freed man of chapter 6 or the Spirit-led man of chapter 8, but the condition they were rescued out of: the man who has the Torah and does not have the Spirit.\\f*
+\\v 15 For what I work out I do not understand; for what I want, this I do not practice, but what I hate, this I do.\\f + \\fr 7:15 \\ft The bind was proverbial well outside Israel. Ovid: "I see the better and approve it; I follow the worse." Euripides' Medea: "I understand the evil I am about to do, but passion is stronger than my deliberations."\\f*
+\\v 16 But if what I do not want, this I do, I agree with the Torah that it is good \\add [— my very resistance to my own conduct is testimony on the Torah's side]\\add*.
+\\v 17 But now it is no longer I who work it out, but the sin that lives in me \\add [— not an excuse; a distinction between the self that wants and the power that has moved in]\\add*.
+\\v 18 For I know that good does not live in me, that is, in my flesh; for the wanting lies close at hand for me, but the working out of the good does not \\add [— I have the will and not the power, which is the whole trouble]\\add*.
+\\v 19 For I do not do the good that I want, but the evil that I do not want — this I practice.
+\\v 20 But if what I do not want, this I do, it is no longer I who work it out, but the sin that lives in me.
+\\s1 The Law at War in My Members
+\\p
+\\v 21 So I find this law: that when I want to do the good, the evil lies close at hand for me \\add [i.e. this is not an incident but a fixed pattern I keep running into]\\add*.
+\\v 22 For I take my delight together with the Torah of God according to the inner man\\f + \\fr 7:22 \\ft The interior man as against the outward, acting one. Delight in God's law is the posture of the psalms (Psalm 1:2; 119:97); the problem here is not a failure to love the Torah but a failure to be able to keep it.\\f*,
+\\v 23 but I see a different law in my members, waging war against the law of my mind and taking me captive\\f + \\fr 7:23 \\ft The verbs are military: an enemy army in the field, and a prisoner of war led away. Israel's own history supplies the picture — a people who delighted in the law and went into exile anyway.\\f* by the law of sin that is in my members.
+\\v 24 Wretched man that I am! Who will rescue me out of this body of death \\add [— the question asks for a rescuer, not a method; nothing inside this man can lift him out]\\add*?
+\\v 25 Thanks be to God, through Jesus the Christ our Lord! \\add [— that is the answer, and I will spend the next chapter on it]\\add* So then, I myself with the mind serve the Torah of God, but with the flesh, the law of sin.
+
+\\c 8
+\\s1 No Condemnation: What the Torah Could Not Do
+\\p
+\\v 1 So now there is no condemnation for those in Christ Jesus \\add [— none: not reduced, not suspended, none]\\add*.
+\\v 2 For the law of the Spirit of life in Christ Jesus \\add [i.e. a new governing power, doing what a written code never could]\\add* set you free from the law of sin and of death.
+\\v 3 For what the Torah could not do, in that it was weak through the flesh \\add [— the weakness was never in the command but in the material it had to work with]\\add*, God did: sending his own Son in the likeness of flesh of sin\\f + \\fr 8:3 \\ft Real flesh, genuinely inside the human condition, yet not mastered by sin. The word "likeness" holds both halves open; compare 6:5.\\f*, and concerning sin\\f + \\fr 8:3 \\ft Greek \\tl peri hamartias\\tl*, the standing phrase in the Greek Old Testament for the sin offering (Leviticus 4-5; 16:3-27; Isaiah 53:10). God sent his Son as the offering.\\f*, he condemned sin in the flesh \\add [— the sentence fell, and it fell on sin, on the very ground where sin had ruled]\\add*,
+\\v 4 so that the righteous requirement of the Torah might be filled full in us who walk not according to flesh but according to Spirit \\add [— what the Torah demanded and could not produce, the Spirit produces]\\add*.
+\\v 5 For those who are according to flesh set their minds on the things of the flesh, but those according to Spirit, on the things of the Spirit.
+\\v 6 For the mind of the flesh is death \\add [— not a penalty added to it; its own nature]\\add*, but the mind of the Spirit is life and peace,
+\\v 7 because the mind of the flesh is hostility toward God, for it is not put in order under the Torah of God, nor can it be \\add [— it does not merely refuse; it lacks the capacity]\\add*.
+\\v 8 And those who are in flesh cannot please God.
+\\s1 The Spirit Who Lives in You
+\\p
+\\v 9 But you are not in flesh but in Spirit, if indeed\\f + \\fr 8:9 \\ft The Greek conditional assumes the condition holds for those addressed — "if in fact, as is the case." Paul is not casting doubt on his readers but stating what constitutes the difference.\\f* the Spirit of God lives in you. And if anyone does not have the Spirit of the Christ, this one is not his \\add [— the Spirit is not an addition to belonging; it is what belonging consists of]\\add*.
+\\v 10 But if the Christ is in you, the body is dead because of sin, but the Spirit is life because of righteousness.
+\\v 11 And if the Spirit of the one who raised Jesus from among the dead lives in you, the one who raised the Christ from among the dead will also make your mortal bodies alive through his Spirit that lives in you \\add [— the same power, and it has your body on its list]\\add*.
+\\s1 Sons, Heirs, and Fellow Sufferers
+\\p
+\\v 12 So then, brothers, we are debtors — not to the flesh, to live according to flesh \\add [— we owe the old master nothing]\\add*.
+\\v 13 For if you live according to flesh, you are about to die; but if by the Spirit you put to death the practices of the body, you will live \\add [— you do the putting to death, and the Spirit supplies what you do it with]\\add*.
+\\v 14 For as many as are led by the Spirit of God, these are sons of God.
+\\v 15 For you did not receive a spirit of slavery leading back into fear, but you received a Spirit of adoption as sons\\f + \\fr 8:15 \\ft Greek \\tl huiothesia\\tl*, the legal placing of someone into a family as a son, with the new father's name, standing, and inheritance, and all prior debts cancelled. Israel already held this status — "Israel is my firstborn son" (Exodus 4:22) — and Paul names it among Israel's possessions at 9:4.\\f*, in whom we cry, "Abba! Father!"\\f + \\fr 8:15 \\ft \\tl Abba\\tl* is Aramaic for "father," left untranslated and then translated. It is the word Jesus used in Gethsemane (Mark 14:36), evidently carried over into the community's prayer and kept in his own language.\\f*
+\\v 16 The Spirit himself bears witness together with our spirit that we are children of God \\add [i.e. two witnesses, which is what the Torah requires to establish a matter]\\add*.
+\\v 17 And if children, also heirs — heirs of God and fellow heirs with the Christ, if indeed we suffer together with him so that we may also be glorified together with him \\add [— the road to the one runs through the other]\\add*.
+\\s1 Creation Groaning, Waiting
+\\p
+\\v 18 For I reckon that the sufferings of the present season are not worth weighing against the glory about to be unveiled to us.
+\\v 19 For the creation waits with its head craned forward\\f + \\fr 8:19 \\ft A single vivid Greek word: neck stretched, head thrust out, watching the road.\\f* for the unveiling of the sons of God.
+\\v 20 For the creation was put under emptiness\\f + \\fr 8:20 \\ft The word of Ecclesiastes — "vanity of vanities," existence unable to reach its purpose. The subjection goes back to Genesis 3:17-18, where the ground is cursed on account of the man.\\f* — not willingly, but because of the one who put it under \\add [— it did not choose this; it was sentenced for our sake]\\add* — upon hope
+\\v 21 that the creation itself also will be set free from the slavery of decay into the freedom of the glory of the children of God \\add [— as it fell with man, so it rises with him]\\add*.
+\\v 22 For we know that the whole creation groans together and is in birth pains together until now\\f + \\fr 8:22 \\ft Not the groaning of the dying but of the birthing. The prophets used labor pains for the anguish that precedes deliverance (Isaiah 26:17-18; 66:7-9; Micah 4:10).\\f*;
+\\v 23 and not only it, but we ourselves also, having the firstfruit of the Spirit\\f + \\fr 8:23 \\ft The first portion of the harvest, offered to God as pledge that the whole field is coming (Leviticus 23:10-11). The Spirit is the down payment, not the settlement.\\f* — we ourselves also groan within ourselves, waiting for adoption as sons, the ransoming of our body \\add [— the sonship is already ours and not yet in the open; what is still owed us is the body itself]\\add*.
+\\v 24 For in this hope we were rescued. But hope that is seen is not hope; for who hopes for what he sees?
+\\v 25 But if we hope for what we do not see, we wait for it with endurance.
+\\s1 The Spirit Prays What We Cannot
+\\p
+\\v 26 And in the same way the Spirit also takes hold along with us\\f + \\fr 8:26 \\ft The verb pictures someone seizing the other end of a load too heavy for one — not carrying it instead of you but under it with you.\\f* in our weakness. For we do not know what to pray for as we ought \\add [— caught between what has come and what has not, we cannot see far enough to frame the request]\\add*, but the Spirit himself steps in for us with groanings too deep for words;
+\\v 27 and the one who searches the hearts\\f + \\fr 8:27 \\ft A title for God in Israel's Scriptures: "the LORD looks on the heart" (1 Samuel 16:7); "I the LORD search the heart" (Jeremiah 17:10).\\f* knows what the mind of the Spirit is, because he steps in for holy ones according to God \\add [i.e. asking for exactly what God had already purposed, so that nothing is lost in the asking]\\add*.
+\\s1 The Chain God Has Already Carried Through
+\\p
+\\v 28 And we know that for those who love God all things work together for good, for those who are called according to purpose \\add [— the same people described twice: by their love, and by his summons]\\add*.
+\\v 29 Because those he knew beforehand\\f + \\fr 8:29 \\ft Greek \\tl proginōskō\\tl*. Behind the Greek verb "to know" stands Hebrew \\tl yada\\tl*, which means relationship, not information: "You only have I known of all the families of the earth" (Amos 3:2). Paul uses the same verb of Israel at 11:2, where the foreknowing is a completed historical fact — God's covenant engagement with a people before they had done anything.\\f* he also marked out beforehand to be shaped along with the image of his Son, so that he would be firstborn among many brothers \\add [— God's aim was never a single Son but a household]\\add*;
+\\v 30 and those he marked out beforehand, these he also called; and those he called, these he also set right; and those he set right, these he also glorified.\\f + \\fr 8:30 \\ft Every verb here is past tense, and every one has a record behind it in Israel's history: God called Abraham out of Ur and Israel out of Egypt (Isaiah 51:2; Hosea 11:1; Isaiah 43:1); he counted Abraham's trust as righteousness and gave Israel righteous ordinances no other nation had (Genesis 15:6; Deuteronomy 4:8); and he glorified them by filling the tabernacle and the temple with his presence (Exodus 40:34; 1 Kings 8:10-11) — which is why Paul can list "the glory" at 9:4 among things Israel already possesses. Into a chapter about people too weak to know what to pray for, Paul sets a chain God has already carried through from end to end.\\f*
+\\s1 Nothing in All Creation
+\\p
+\\v 31 What then shall we say to these things? If God is for us, who is against us?
+\\v 32 He who did not spare his own Son\\f + \\fr 8:32 \\ft The words of Genesis 22:12, 16, where God says to Abraham, "you did not spare your son, your beloved." What Abraham was asked to do and stopped short of, God did.\\f* but handed him over for us all \\add [— the same handing over, now running the other way]\\add* — how will he not also, along with him, freely give us all things?
+\\v 33 Who will bring a charge against God's chosen ones? God is the one who sets right \\add [— if the judge has acquitted, there is no prosecutor left to hear]\\add*.\\f + \\fr 8:33 \\ft The pattern is the Servant's in Isaiah 50:8-9: "He who justifies me is near. Who will contend with me? Let him come near."\\f*
+\\v 34 Who is the one who condemns? Christ Jesus is the one who died — rather, who was raised — who is also at the right hand of God, who also steps in for us \\add [— the one who might have condemned is at the bench arguing for us]\\add*.
+\\v 35 Who will separate us from the love of the Christ? Affliction, or crushing distress, or persecution, or famine, or nakedness, or danger, or sword \\add [— a list drawn from what these communities were actually enduring]\\add*?
+\\v 36 As it is written: "For your sake we are put to death all day long; we were counted as sheep for slaughtering."\\f + \\fr 8:36 \\ft Psalm 44:22, a national lament in which Israel suffers precisely because it has not abandoned the covenant. The psalm goes on to ask whether God has forgotten them. Paul quotes the suffering and answers the question in the next verse.\\f*
+\\v 37 But in all these things we more than conquer through the one who loved us.
+\\v 38 For I am persuaded that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers,
+\\v 39 nor height nor depth\\f + \\fr 8:39 \\ft In the astrological vocabulary of the day, the terms named the points of a planet's greatest and least influence. Whether read as space or as the powers thought to govern it, nothing in the range is exempted.\\f*, nor any other created thing, will be able to separate us from the love of God that is in Christ Jesus our Lord.\\f + \\fr 8:39 \\ft Every item in the list is a force outside the man: death, life, spirit powers, time, space, anything made. The question being answered is whether the hostile universe can break God's love for his people. What the man himself may do is the subject of 8:13 and 11:20-22.\\f*
+
+\\c 9
+\\s1 Paul's Grief for Israel
+\\p
+\\v 1 I speak truth in Christ, I do not lie, my conscience bearing witness with me in the Holy Spirit \\add [— I put this under the heaviest oath I have, because I know how it will be doubted]\\add*,
+\\v 2 that my grief is great and the pain in my heart does not stop.
+\\v 3 For I could wish that I myself were under the ban\\f + \\fr 9:3 \\ft Greek \\tl anathema\\tl*, from Hebrew \\tl cherem\\tl*: devoted to God for destruction, and beyond ransom (Leviticus 27:28-29; Joshua 6:17-18). Moses made the same offer after the golden calf — "blot me out of your book" (Exodus 32:32).\\f*, cut off from the Christ, for the sake of my brothers, my kinsmen according to flesh \\add [— I have just said nothing can separate us from his love, and here I am offering to be separated]\\add* —
+\\v 4 who are Israelites, whose is the adoption as sons and the glory and the covenants and the giving of the Torah and the service and the promises;
+\\v 5 whose are the fathers, and out of whom is the Christ according to flesh — the one who is over all, God blessed into the ages. Amen. \\add [— every item on that list is a gift God gave them, and the last of them is the Messiah himself]\\add*
+\\s1 The Word of God Has Not Fallen Through
+\\p
+\\v 6 But it is not as though the word of God has fallen through \\add [— that is the charge this whole section has to answer]\\add*. For not all those out of Israel — these are Israel \\add [i.e. descent from Jacob never by itself made a man part of the Israel the promise speaks of]\\add*;
+\\v 7 nor are they all children because they are seed of Abraham; but, "In Isaac your seed will be called."\\f + \\fr 9:7 \\ft Genesis 21:12. Ishmael was Abraham's son by ordinary means; Isaac was his son by promise. No Jewish reader disputed that God had chosen between them — which is exactly why Paul starts here.\\f*
+\\v 8 That is, it is not the children of the flesh who are children of God, but the children of the promise are counted for seed.
+\\v 9 For this is a word of promise: "At this season I will come, and there will be a son for Sarah."
+\\v 10 And not only that, but also Rebekah, having conceived by one man, Isaac our father \\add [— and here every other explanation is closed off: one father, one mother, one conception, twins]\\add* —
+\\v 11 for though they were not yet born and had done nothing good or worthless, so that the purpose of God according to choosing might stand, not out of works but out of the one who calls,
+\\v 12 it was said to her, "The greater will serve the lesser,"
+\\v 13 just as it is written: "Jacob I loved, but Esau I hated."\\f + \\fr 9:13 \\ft Both quotations are about peoples, not private destinies. The oracle to Rebekah begins "two nations are in your womb" (Genesis 25:23), and Malachi's "Jacob I loved, Esau I hated" is immediately explained by the desolation of Edom's hill country (Malachi 1:2-4). In Hebrew idiom "hate" regularly means to love less or not to choose: Leah is called "hated" when she is simply the less-loved wife (Genesis 29:31; compare Deuteronomy 21:15).\\f*
+\\s1 Is There Unrighteousness with God?
+\\p
+\\v 14 What then shall we say? Is there unrighteousness with God? May it never be!
+\\v 15 For to Moses he says, "I will have mercy on whomever I have mercy, and I will have compassion on whomever I have compassion."\\f + \\fr 9:15 \\ft Exodus 33:19 — spoken in the aftermath of the golden calf, when God had every right to destroy the nation and did not. The freedom being asserted is the freedom to spare the guilty. Israel exists because of it.\\f*
+\\v 16 So then it is not of the one who wants, nor of the one who runs, but of God who has mercy.
+\\v 17 For the Scripture says to Pharaoh, "For this very thing I raised you up, so that I might display my power in you, and so that my name might be told out in all the earth."\\f + \\fr 9:17 \\ft Exodus 9:16. The verb means "I kept you standing" rather than "I created you for this." In the Exodus narrative Pharaoh hardens his own heart through the early plagues before God is said to harden it in the later ones; the hardening confirms a direction already taken.\\f*
+\\v 18 So then he has mercy on whom he wants, and he hardens whom he wants.
+\\s1 The Potter and the Clay
+\\p
+\\v 19 You will say to me then, "Why does he still find fault? For who has stood against his will?"
+\\v 20 O man — who are you, on the contrary, who answers back to God? Will the thing formed say to the one who formed it, "Why did you make me like this?"\\f + \\fr 9:20 \\ft Isaiah 29:16 and 45:9, both addressed to Israel when Israel objected to how God was running its history — in 45:9, to God's use of the pagan Cyrus as his instrument.\\f*
+\\v 21 Or does the potter not have authority over the clay, to make out of the same lump one vessel for honor and another for dishonor?\\f + \\fr 9:21 \\ft The potter's house is Jeremiah 18:1-6, and what follows there is essential: the potter reworks the spoiled vessel, and God's announced word over a nation turns on whether that nation turns (Jeremiah 18:7-10). The image asserts the potter's right; it does not fix the clay's shape forever.\\f*
+\\v 22 And what if God, wanting to display his wrath and to make his power known, carried with much long-suffering vessels of wrath fitted for ruin\\f + \\fr 9:22 \\ft "Fitted" is passive with no one named as doing the fitting — in pointed contrast with the next verse, where God is named outright as the one who prepared the vessels of mercy beforehand. Paul says who does the preparing for glory and does not say who does the fitting for ruin.\\f*,
+\\v 23 and did so to make known the riches of his glory upon vessels of mercy, which he prepared beforehand for glory —
+\\v 24 even us, whom he called, not only out of Jews but also out of the nations \\add [— there is the answer to who the vessels of mercy are]\\add*?
+\\v 25 As he also says in Hosea: "I will call the one who is not my people 'my people,' and the one not loved 'loved.'"
+\\v 26 "And it will be, in the place where it was said to them, 'You are not my people' — there they will be called sons of the living God."\\f + \\fr 9:26 \\ft Hosea 2:23 and 1:10. In Hosea the promise is to apostate Israelites who had been renamed "Not My People." Paul applies it to the Gentiles because the operative principle is the same: God reconstitutes a people by calling them.\\f*
+\\v 27 And Isaiah cries out over Israel: "Though the number of the sons of Israel be as the sand of the sea, the remnant will be rescued;
+\\v 28 for the Lord will do his word upon the earth, finishing it and cutting it short."
+\\v 29 And just as Isaiah has said beforehand: "Unless the Lord of hosts had left us a seed, we would have become as Sodom and been made like Gomorrah."\\f + \\fr 9:29 \\ft Isaiah 10:22-23 and 1:9. The remnant is not the leftovers of a failed promise but the shape the promise always had; and Isaiah's point is that Israel was no better than Sodom, only spared — the seed was left, not earned.\\f*
+\\s1 Why Israel Struck Its Foot
+\\p
+\\v 30 What then shall we say? That nations who were not pursuing righteousness laid hold of righteousness — a righteousness out of faithfulness;
+\\v 31 but Israel, pursuing a Torah of righteousness, did not arrive at that Torah \\add [— the ones not running finished; the ones running did not]\\add*.
+\\v 32 Why? Because it was not out of faithfulness but as out of works \\add [i.e. they took what was given as a covenant and treated it as a wage to be earned]\\add*. They struck their foot against the stone of striking,
+\\v 33 as it is written: "Look, I am laying in Zion a stone of striking and a rock of stumbling, and the one who trusts on him will not be put to shame."\\f + \\fr 9:33 \\ft Two texts woven together: Isaiah 8:14, where God himself becomes a stone of offense to those who will not trust him, and Isaiah 28:16, where the stone laid in Zion is a sure foundation for those who do. It is the same stone. What differs is the response.\\f*
+
+\\c 10
+\\s1 Zeal Without Full Knowledge
+\\p
+\\v 1 Brothers, the good pleasure of my own heart, and my plea to God on their behalf, is for their rescue \\add [— I am not arguing against my people; I am praying for them]\\add*.
+\\v 2 For I bear witness to them that they have a zeal for God\\f + \\fr 10:2 \\ft Zeal was among the highest of Jewish virtues: Phinehas (Numbers 25:11-13), Elijah (1 Kings 19:10), Mattathias and the Maccabees. Paul had it himself and says so elsewhere (Galatians 1:14; Philippians 3:6). He is granting them what he once claimed.\\f*, but not according to full knowledge \\add [— the fault is not in the intensity but in the aim]\\add*.
+\\v 3 For not knowing the righteousness of God, and seeking to set up their own, they did not put themselves in order under the righteousness of God \\add [— you cannot build your own and submit to his; the two exclude each other]\\add*.
+\\v 4 For the Christ is the end of Torah\\f + \\fr 10:4 \\ft Greek \\tl telos\\tl*, which can mean the point where something stops or the goal it was aiming at. Paul has just insisted that faith makes the Torah stand (3:31) and that the Torah is holy and good (7:12), so the second sense fits his argument: the Messiah is what the Torah was heading for.\\f*, for righteousness to everyone who trusts.
+\\s1 The Word Is Near You
+\\p
+\\v 5 For Moses writes of the righteousness that is out of the Torah, that the man who does these things will live in them.\\f + \\fr 10:5 \\ft Leviticus 18:5. Paul does not deny it. The standard is real; the performance has never been.\\f*
+\\v 6 But the righteousness out of faithfulness speaks like this: "Do not say in your heart, 'Who will go up into heaven?'" — that is, to bring the Christ down —
+\\v 7 "or, 'Who will go down into the abyss?'" — that is, to bring the Christ up from among the dead.
+\\v 8 But what does it say? "The word is near you, in your mouth and in your heart"\\f + \\fr 10:8 \\ft Deuteronomy 30:11-14, where Moses tells Israel the commandment is not out of reach in heaven or across the sea. Paul reads it toward the Messiah: no one need fetch him down, because he has come; no one need fetch him up, because he has been raised. Both journeys are already made. Deuteronomy 30:6, a few lines earlier, promises the circumcised heart — which is what makes the passage fit.\\f* — that is, the word of the faithfulness that we proclaim:
+\\v 9 that if you confess with your mouth "Jesus is Lord,"\\f + \\fr 10:9 \\ft Greek \\tl kyrios\\tl*, the word the Greek Old Testament uses for the divine name, and the title the emperor claimed. In Rome the confession said two things at once, and both were costly.\\f* and trust in your heart that God raised him from among the dead, you will be rescued \\add [— mouth and heart, matching the two places Moses said the word already was]\\add*.
+\\v 10 For with the heart one trusts, into righteousness; and with the mouth one confesses, into rescue.
+\\v 11 For the Scripture says, "Everyone who trusts on him will not be put to shame."
+\\v 12 For there is no distinction between Jew and Greek; for the same one is Lord of all, rich toward all who call on him.
+\\v 13 For "everyone who calls on the name of the Lord will be rescued."\\f + \\fr 10:13 \\ft Joel 2:32. In Joel the name called on is the LORD's own; Paul applies it to the confession of Jesus as Lord. The same verse ends by noting that among the survivors are "those whom the LORD calls" — the calling runs both directions.\\f*
+\\s1 They Heard; They Did Not Obey
+\\p
+\\v 14 How then will they call on one they have not trusted? And how will they trust one they have not heard? And how will they hear apart from someone proclaiming?
+\\v 15 And how will they proclaim unless they are sent \\add [— the chain runs backward to God, who does the sending; if every link held, the failure is not his]\\add*? As it is written: "How beautiful are the feet of those announcing good news of good things!"\\f + \\fr 10:15 \\ft Isaiah 52:7 — the runner coming over the mountains with word that the exile is over and God reigns.\\f*
+\\v 16 But not all obeyed the good news \\add [— "not all" is putting it gently]\\add*. For Isaiah says, "Lord, who trusted what he heard from us?"\\f + \\fr 10:16 \\ft Isaiah 53:1, the opening cry of the Servant song. The report was given and not believed then either.\\f*
+\\v 17 So faithfulness comes out of hearing, and the hearing through a word of the Christ.
+\\v 18 But I say, did they not hear? Indeed they did: "Their sound went out into all the earth, and their words to the ends of the inhabited world."
+\\v 19 But I say, did Israel not know? First Moses says, "I will make you jealous over what is no nation; over a nation without understanding I will make you angry."\\f + \\fr 10:19 \\ft Deuteronomy 32:21, from the Song of Moses, recited regularly in the synagogue. Israel provoked God with no-gods, so God would provoke Israel with a no-people. Paul builds his whole argument at 11:11-14 on this line: Israel had the script in advance.\\f*
+\\v 20 And Isaiah dares to say, "I was found by those not seeking me; I became visible to those not asking after me."
+\\v 21 But to Israel he says, "All day long I stretched out my hands to a people disobeying and speaking against me."\\f + \\fr 10:21 \\ft Isaiah 65:1-2. The last word of the chapter is not a verdict but a posture: hands still out, all day long, to a people still arguing. That is the ground the next chapter builds on.\\f*
+
+\\c 11
+\\s1 God Has Not Pushed Away His People
+\\p
+\\v 1 I say then, did God push away his people?\\f + \\fr 11:1 \\ft The question is framed in the words of texts that already answer it: "The LORD will not reject his people" (Psalm 94:14; 1 Samuel 12:22).\\f* May it never be! For I also am an Israelite, out of the seed of Abraham, of the tribe of Benjamin \\add [— if God had cast off Israel, I would not be standing where I stand]\\add*.
+\\v 2 God did not push away his people, whom he knew beforehand \\add [— the same word I used of those he foreknew and glorified; the people in view has not changed]\\add*. Or do you not know what the Scripture says in the passage about Elijah — how he pleads with God against Israel?
+\\v 3 "Lord, they killed your prophets, they tore down your altars, and I alone am left, and they are seeking my life."
+\\v 4 But what does the divine answer say to him? "I left for myself seven thousand men who did not bend the knee to Baal."\\f + \\fr 11:4 \\ft 1 Kings 19:10-18. Two things to notice: God kept them — they did not keep themselves — and Elijah had no idea they existed. The invisibility of the faithful to the prophet is the point.\\f*
+\\v 5 So in the same way also, in the present season, there has come to be a remnant according to a choosing of favor.
+\\v 6 And if by favor, it is no longer out of works; otherwise the favor no longer becomes favor \\add [— lest anyone think the seven thousand earned their place by not bending the knee]\\add*.
+\\s1 The Chosen Obtained It; The Rest Were Made Callous
+\\p
+\\v 7 What then? What Israel is seeking after, this it did not obtain; but the chosen obtained it, and the rest were made callous\\f + \\fr 11:7 \\ft The Greek word is medical: the stone-hard growth over a break, the loss of feeling in a part. And it is passive, with no one named as doing it.\\f*,
+\\v 8 as it is written: "God gave them a spirit of stupor, eyes not to see and ears not to hear, down to this very day."\\f + \\fr 11:8 \\ft Deuteronomy 29:4 joined with Isaiah 29:10. Both come from settings where the people had already refused to see: Israel had watched every sign in Egypt and understood nothing; Jerusalem had reduced worship to lip-service (Isaiah 29:13). The hardening answers a prior deafness.\\f*
+\\v 9 And David says: "Let their table become a snare and a trap and a stumbling block and a payback to them;
+\\v 10 let their eyes be darkened so as not to see, and bend their back down through it all."\\f + \\fr 11:10 \\ft Psalm 69:22-23, from the psalm of the righteous sufferer rejected by his own people. The "table" that becomes a snare is most naturally the covenant's own benefits — the very gifts of 9:4-5, turned into a trap when they are trusted in place of God.\\f*
+\\s1 Their False Step Was Not the End
+\\p
+\\v 11 I say then, did they stumble so as to fall \\add [— was the stumble aimed at a final collapse?]\\add*? May it never be! But by their false step, the rescue has come to the nations, to make them jealous \\add [— exactly the strategy Moses put in the Song]\\add*.
+\\v 12 And if their false step is riches for the world, and their loss riches for the nations, how much more their fullness!
+\\v 13 Now I am speaking to you, the nations \\add [— from here I am addressing the Gentiles among you directly, and you should hear it as aimed at you]\\add*. Inasmuch as I am one sent to the nations, I make much of my service,
+\\v 14 if somehow I may make my own flesh jealous and rescue some of them \\add [i.e. my own kinsmen — my work among you is partly work on them]\\add*.
+\\v 15 For if their being cast away is a bringing back of the world, what will their being received be, but life out of the dead\\f + \\fr 11:15 \\ft Ezekiel's valley of dry bones is the picture Israel would reach for: a nation restored is a resurrection (Ezekiel 37:1-14).\\f*?
+\\v 16 And if the firstfruit is holy, so is the whole lump; and if the root is holy, so are the branches \\add [i.e. the fathers were set apart, and what grows out of them is not now unholy]\\add*.
+\\s1 The Olive Tree: A Warning to the Nations
+\\p
+\\v 17 But if some of the branches were broken off \\add [— some, not all]\\add*, and you, being a wild olive\\f + \\fr 11:17 \\ft The uncultivated olive, which bears poorly or not at all. Grafting normally runs the other way — a cultivated shoot onto wild stock. Paul's picture is a procedure against the grain, which is his point about you.\\f*, were grafted in among them and became a sharer with them of the rich root of the olive tree,
+\\v 18 do not boast over the branches. But if you do boast — it is not you who carry the root, but the root you \\add [— everything you live on came up through Israel]\\add*.
+\\v 19 You will say then, "Branches were broken off so that I might be grafted in."
+\\v 20 Well said \\add [— the fact is right; what you are drawing from it is not]\\add*. By unbelief they were broken off, and you stand by faithfulness. Do not think high thoughts, but fear \\add [— your footing is trust, and trust is nobody's birthright]\\add*.
+\\v 21 For if God did not spare the branches according to nature, neither will he spare you.
+\\v 22 See then the kindness and the severity of God: severity upon those who fell, but upon you the kindness of God, if you remain in the kindness — otherwise you also will be cut off \\add [— the same knife, and no exemption for grafted wood]\\add*.
+\\v 23 And those also, if they do not remain in unbelief, will be grafted in, for God is able to graft them in again \\add [— the obstacle is their unbelief, not any shortage of power in him]\\add*.
+\\v 24 For if you were cut out of an olive tree that is wild by nature, and against nature were grafted into a cultivated olive tree, how much more will these, who are according to nature, be grafted into their own olive tree \\add [— for them it is not a graft against nature but a homecoming]\\add*.
+\\s1 The Secret: All Israel Will Be Rescued
+\\p
+\\v 25 For I do not want you to be unaware, brothers, of this secret\\f + \\fr 11:25 \\ft Greek \\tl mystērion\\tl*: not something unknowable but something hidden until now disclosed — as Daniel used it of God's plan shown in a dream (Daniel 2:28-29).\\f* — so that you will not be wise in your own eyes — that a callousness in part has come upon Israel \\add [i.e. partial, not total]\\add*, until the fullness of the nations comes in \\add [— and "until" sets a limit; this has a term]\\add*;
+\\v 26 and so all Israel will be rescued\\f + \\fr 11:26 \\ft "All Israel" is a corporate expression, standing for the people as a body rather than a headcount of every individual — as when "all Israel" gathers at Shechem or Mizpah (1 Kings 12:1; 1 Samuel 7:5). The contrast is with the present remnant of v. 5: not a spared few, but the people.\\f*, as it is written: "The Deliverer will come out of Zion; he will turn away ungodliness from Jacob.
+\\v 27 And this is the covenant from me with them, when I take away their sins."\\f + \\fr 11:27 \\ft Isaiah 59:20-21 with Isaiah 27:9. In Isaiah 59 God looks for someone to intervene, finds no one, and arms himself and comes as redeemer. And the covenant that removes sins is Jeremiah's new covenant (Jeremiah 31:33-34). These are promises made to Israel; Paul's argument is that they still stand.\\f*
+\\v 28 As regards the good news, they are enemies for your sake; but as regards the choosing, they are loved for the sake of the fathers \\add [— both at once, and the second outlasts the first]\\add*.
+\\v 29 For the gifts and the calling of God are not taken back.\\f + \\fr 11:29 \\ft The Greek word means not to be regretted, not subject to a change of mind. The gifts are those of 9:4-5. God does not repent of what he gave.\\f*
+\\v 30 For just as you once disobeyed God but have now been shown mercy by their disobedience,
+\\v 31 so also these have now disobeyed, so that by the mercy shown to you they also may now be shown mercy \\add [— the mercy circulates: through their fall to you, and through you back to them]\\add*.
+\\v 32 For God shut them all up together into disobedience, so that he might have mercy on them all \\add [— one prison, one door, and everyone in the letter has been in that cell]\\add*.
+\\s1 Doxology
+\\p
+\\v 33 O the depth of the riches and wisdom and knowledge of God! How unsearchable his judgments, and untrackable his roads\\f + \\fr 11:33 \\ft The second word is built on "footprint": his ways cannot be tracked the way a man tracks game. Compare Job 11:7.\\f*!
+\\v 34 For "who knew the mind of the Lord? Or who became his counselor?"\\f + \\fr 11:34 \\ft Isaiah 40:13. No one advised him on this.\\f*
+\\v 35 Or "who gave to him first, and it will be paid back to him?"\\f + \\fr 11:35 \\ft Job 41:11. No one — Jew or Gentile — has put God in his debt. Mercy is not a repayment.\\f*
+\\v 36 Because out of him and through him and into him are all things. To him be the glory into the ages. Amen.
+
+\\c 12
+\\s1 Your Bodies as a Living Sacrifice
+\\p
+\\v 1 I call on you therefore, brothers \\add [— and that "therefore" reaches back over everything from the first chapter to the last]\\add*, through the compassions of God\\f + \\fr 12:1 \\ft Greek \\tl oiktirmoi\\tl*, standing for Hebrew \\tl rachamim\\tl*, a word built on the womb — the deepest and most physical word for mercy the language has. The plural gathers up every mercy the letter has described.\\f*, to present your bodies a living sacrifice, holy, well-pleasing to God \\add [— every sacrifice at the altar died; this one is offered alive, and goes on being offered]\\add* — your reasoned service\\f + \\fr 12:1 \\ft Greek \\tl logikē latreia\\tl*. \\tl Latreia\\tl* is the temple word, listed at 9:4 among Israel's possessions: the whole apparatus of priestly worship. \\tl Logikē\\tl* means engaging the mind, or answering to the word — either way, worship that is thought rather than merely performed. The place of worship has moved from the sanctuary to your body.\\f*.
+\\v 2 And do not be shaped along with this age\\f + \\fr 12:2 \\ft Two different words, and the difference matters: the first is about \\tl schēma\\tl*, outward form pressed on from outside, and the second about \\tl morphē\\tl*, the essential shape of a thing. Do not be moulded on the surface; be remade at the core.\\f*, but be changed in form by the making new of the mind \\add [— the mind that failed the test back at the beginning is the very thing being remade]\\add*, so that you may test out what the will of God is — the good and well-pleasing and complete.
+\\s1 One Body, Many Members
+\\p
+\\v 3 For through the favor given to me I say to everyone among you not to think higher of himself than he ought to think, but to think so as to have a sound mind, as God has divided out to each a measure of faithfulness \\add [— your measuring stick is what you were given, not what the man beside you was given]\\add*.
+\\v 4 For just as in one body we have many members, and all the members do not have the same work,
+\\v 5 so we, the many, are one body in Christ, and individually members of one another \\add [i.e. not merely parts of a whole but parts of each other]\\add*.
+\\v 6 And having gifts that differ according to the favor given to us: if prophecy, according to the proportion of the faithfulness \\add [i.e. do not claim more than you were given to say]\\add*;
+\\v 7 if service, in the serving; or the one teaching, in the teaching \\add [— do the work your gift is for, rather than eyeing a more visible one]\\add*;
+\\v 8 or the one encouraging, in the encouragement; the one who shares, with singleness of heart; the one who leads, with diligence; the one who shows mercy, with cheerfulness \\add [— mercy handed over grudgingly is not what God's mercy looked like]\\add*.
+\\s1 Love Without Pretense
+\\p
+\\v 9 Let love be without pretense\\f + \\fr 12:9 \\ft Literally "unhypocritical" — without the actor's mask. In a society organized around patronage, warm display often covered calculation.\\f*. Hate what is evil; glue yourselves to what is good\\f + \\fr 12:9 \\ft The verb is the one used of a man cleaving to his wife (Genesis 2:24) and of Israel clinging to the LORD (Deuteronomy 10:20). Love is not neutral ground; it has a fierce grip and a fierce recoil.\\f*.
+\\v 10 In brotherly love, be tenderly bound to one another; in honor, go first in showing it to one another \\add [— in a city where honor is fought over as a fixed quantity, compete instead at handing it away]\\add*.
+\\v 11 In diligence, not slack; in spirit, boiling; serving the Lord;
+\\v 12 in hope, rejoicing; in affliction, enduring; in prayer, holding on;
+\\v 13 sharing in the needs of the holy ones; pursuing the love of strangers\\f + \\fr 12:13 \\ft Greek \\tl philoxenia\\tl*, love of the stranger — hospitality. And "pursuing": it does not happen by itself. Compare Abraham at Mamre (Genesis 18:1-8) and the Torah's insistence that Israel remember it was a stranger in Egypt (Exodus 23:9).\\f*.
+\\v 14 Bless those who persecute you; bless and do not curse \\add [— said twice, once each way, so it cannot be softened]\\add*.
+\\v 15 Rejoice with those rejoicing; weep with those weeping.
+\\v 16 Think the same thing toward one another; do not set your mind on high things, but let yourselves be carried along with the lowly. Do not become wise in your own eyes.\\f + \\fr 12:16 \\ft Proverbs 3:7, and the same warning Paul gave the Gentile believers at 11:25.\\f*
+\\s1 Conquer Evil with Good
+\\p
+\\v 17 Give back to no one evil for evil. Have a care beforehand for what is good in the sight of all men\\f + \\fr 12:17 \\ft Proverbs 3:4. The community's conduct is meant to be legible to outsiders, not only to itself.\\f*.
+\\v 18 If it is possible, so far as it depends on you, be at peace with all men \\add [— two honest limits: some quarrels are not yours to end]\\add*.
+\\v 19 Do not take your own revenge, beloved, but give place to the wrath \\add [i.e. step back and leave the ground clear for God's]\\add*; for it is written, "Vengeance is mine, I will pay back, says the Lord."\\f + \\fr 12:19 \\ft Deuteronomy 32:35, from the Song of Moses. You may hand over vengeance not because justice does not matter but because it is guaranteed by someone better placed to do it — and, as the next chapter says, he has already appointed an office to carry it in the meantime.\\f*
+\\v 20 But "if your enemy is hungry, feed him; if he is thirsty, give him drink; for by doing this you will heap coals of fire on his head."\\f + \\fr 12:20 \\ft Proverbs 25:21-22. The burning is most naturally the shame that flares in a man who braced for hatred and was handed bread instead — a fire that can bring him round rather than destroy him.\\f*
+\\v 21 Do not be conquered by the evil, but conquer the evil with the good \\add [— strike back and evil has already won you; that is how it takes a man]\\add*.
+
+\\c 13
+\\s1 Under the Authorities God Has Set in Place
+\\p
+\\v 1 Let every soul put itself in order under\\f + \\fr 13:1 \\ft Greek \\tl hypotassō\\tl*, a military word for taking one's assigned place in a formation. Paul does not use the word for obeying commands (\\tl hypakouō\\tl*). Israel's own tradition holds both together: Daniel served the empire and would not obey its decree to worship an image (Daniel 3:16-18; 6:10), and the Hebrew midwives feared God and did not do what the king of Egypt said (Exodus 1:17).\\f* the authorities that stand over it. For there is no authority except by God, and those that exist have been set in their order by God.\\f + \\fr 13:1 \\ft The claim is standard in Israel's Scriptures. God "deposes kings and sets up kings" (Daniel 2:21); he calls Nebuchadnezzar, who burned the temple, "my servant" (Jeremiah 27:6); he names Cyrus the Persian "his anointed" (Isaiah 45:1). And the same Scriptures judge those instruments when they exceed their commission (Isaiah 10:5-12).\\f*
+\\v 2 So the one who sets himself against the authority has taken his stand against the arrangement of God, and those who have taken such a stand will receive judgment on themselves.
+\\v 3 For rulers are not a fear to the good work but to the evil \\add [— that is the office as God framed it, whatever a given holder makes of it]\\add*. Do you want not to fear the authority? Do the good, and you will have praise from it;
+\\v 4 for it is God's servant to you for good. But if you do the evil, be afraid; for it does not carry the sword for nothing\\f + \\fr 13:4 \\ft The magistrate's sword stood for the power of capital punishment, held by Roman officials of sufficient rank. Paul names it without softening.\\f*. For it is God's servant, an avenger for wrath to the one who practices the evil \\add [— the vengeance I just told you to leave alone is the very thing this office was appointed to carry]\\add*.
+\\v 5 Therefore it is necessary to put yourselves in order under it, not only because of the wrath but also because of conscience \\add [i.e. not merely to stay out of trouble, but because you see what the office is for]\\add*.
+\\v 6 For because of this you also pay taxes; for they are God's public servants\\f + \\fr 13:6 \\ft Greek \\tl leitourgoi\\tl*, a word used both for citizens performing a public duty and, in the Greek Old Testament, for priests and Levites serving in the sanctuary. Paul will use it of himself at 15:16.\\f*, holding steadily to this very thing.
+\\v 7 Give back to all what is owed them: tax to whom tax is owed, toll to whom toll\\f + \\fr 13:7 \\ft Two distinct Roman levies: \\tl phoros\\tl*, the direct tribute paid by subject peoples — the tax at issue when Jesus was asked about the coin — and \\tl telos\\tl*, the customs duties and tolls collected at harbors, borders, and markets.\\f*, fear to whom fear, honor to whom honor.
+\\s1 The One Debt That Is Never Paid Off
+\\p
+\\v 8 Owe no one anything, except to love one another \\add [— every other debt can be settled; this one runs on]\\add*; for the one who loves the other has filled Torah full.
+\\v 9 For the "You shall not commit adultery, you shall not murder, you shall not steal, you shall not crave" — and if there is any other commandment — is summed up in this word: "You shall love your neighbor as yourself."\\f + \\fr 13:9 \\ft Leviticus 19:18, from the Holiness Code — where a few verses later the same love is commanded toward the resident stranger (Leviticus 19:34). Jesus named this the second of the two greatest commandments (Mark 12:28-34).\\f*
+\\v 10 Love does not work evil to the neighbor; therefore love is the filling full of Torah \\add [— not its cancellation but the thing it was always trying to produce]\\add*.
+\\s1 The Night Is Far Along
+\\p
+\\v 11 And do this, knowing the season — that it is already the hour for you to be raised out of sleep; for now our rescue is nearer than when we first trusted \\add [— time has run; the distance has closed]\\add*.
+\\v 12 The night is far along, and the day has drawn near. So let us put off the works of the darkness and put on the weapons of the light\\f + \\fr 13:12 \\ft Isaiah 59:17 has God himself arming: righteousness for a breastplate, salvation for a helmet. Paul puts the same armor on the community — the armor of light, not of vengeance, which he has already reserved to God.\\f*.
+\\v 13 As in the day, let us walk in a fitting way — not in carousing and drunkenness, not in beds and shameless acts, not in strife and jealousy \\add [— and note that the last pair belongs on the list with the first two]\\add*.
+\\v 14 But put on the Lord Jesus the Christ\\f + \\fr 13:14 \\ft The same verb used of being clothed with Christ in baptism (Galatians 3:27). What was done then is now commanded again: put on daily what you already wear.\\f*, and make no forethought for the flesh, for its cravings \\add [i.e. do not plan ahead for it, do not arrange the circumstances in its favor]\\add*.
+
+\\c 14
+\\s1 Take In the One Who Is Weak
+\\p
+\\v 1 Take in the one who is weak in faithfulness \\add [i.e. not weak in trusting Christ, but not yet free in conscience about food and days]\\add*, but not for passing judgment on his reasonings \\add [— receive the man; do not put his scruples on trial]\\add*.
+\\v 2 One trusts he may eat anything; the weak one eats vegetables.\\f + \\fr 14:2 \\ft In Rome, meat fit under the Torah was hard to come by, and much of what the market sold had come off a pagan altar. The simplest course for a scrupulous Jewish believer was to eat no meat at all — the same course Daniel took in Babylon (Daniel 1:8-16).\\f*
+\\v 3 Let the one who eats not despise the one who does not eat, and let the one who does not eat not judge the one who eats \\add [— the free man's contempt and the careful man's condemnation are the same sin facing opposite ways]\\add*, for God took him in.
+\\v 4 Who are you to judge another's household servant? To his own lord he stands or falls; and he will be made to stand, for the Lord is able to make him stand \\add [— he is not your servant, and the one whose servant he is intends to hold him up]\\add*.
+\\v 5 One judges one day above another; another judges every day alike \\add [i.e. the Sabbaths and festivals of the calendar]\\add*. Let each be fully persuaded in his own mind \\add [— note that I do not settle it for you]\\add*.
+\\v 6 The one who minds the day, minds it to the Lord; and the one who eats, eats to the Lord, for he gives thanks to God; and the one who does not eat, to the Lord he does not eat, and he gives thanks to God \\add [— both say grace; that is the evidence that both are facing the same direction]\\add*.
+\\s1 We Are the Lord's, Living or Dead
+\\p
+\\v 7 For none of us lives to himself, and none dies to himself.
+\\v 8 For if we live, we live to the Lord; and if we die, we die to the Lord. So whether we live or whether we die, we are the Lord's \\add [— there is no part of a man's existence left over that is his own to be judged by you]\\add*.
+\\v 9 For this is why the Christ died and came to life: so that he might be lord over both the dead and the living.
+\\v 10 But you — why do you judge your brother? Or you also — why do you despise your brother \\add [— I am now addressing each of you in turn]\\add*? For we will all stand before the judgment seat\\f + \\fr 14:10 \\ft Greek \\tl bēma\\tl*, the raised platform from which a Roman magistrate gave judgment — the sort Paul himself had lately stood before in Corinth.\\f* of God.
+\\v 11 For it is written: "As I live, says the Lord, to me every knee will bend, and every tongue will confess out to God."\\f + \\fr 14:11 \\ft Isaiah 45:23, with the oath formula "as I live" carried in from elsewhere in the prophet. In Isaiah the whole earth acknowledges Israel's God; here the same scene is a courtroom, and everyone in it is answering for himself.\\f*
+\\v 12 So then, each of us will give an account of himself to God \\add [— of himself, not of his brother; that is the whole force of it]\\add*.
+\\s1 Do Not Destroy What God Is Building
+\\p
+\\v 13 So let us no longer judge one another; but judge this instead \\add [— turn the verdict around and pass it on your own conduct]\\add* — not to put a stumbling block or a trap in a brother's way.\\f + \\fr 14:13 \\ft "Stumbling block" is the word Paul used at 9:32-33 of the stone in Zion over which Israel tripped. He is willing to use the language of a national catastrophe for what one believer can do to another at dinner.\\f*
+\\v 14 I know, and have been persuaded in the Lord Jesus, that nothing is common\\f + \\fr 14:14 \\ft Greek \\tl koinos\\tl*, common in the sense of unhallowed, ritually defiled. The conviction matches the word given to Peter: "What God has made clean, do not call common" (Acts 10:15; compare Mark 7:19).\\f* of itself; except to the one who reckons something to be common — to that one it is common \\add [— the food is clean; his conscience is the authority over his own act]\\add*.
+\\v 15 For if because of food your brother is grieved, you are no longer walking according to love \\add [— your freedom is real, and you have stopped loving with it]\\add*. Do not by your food destroy that one for whom the Christ died \\add [— weigh the two: a meal, and a man Christ died for]\\add*.
+\\v 16 So do not let your good be spoken of as evil.
+\\v 17 For the kingdom of God is not eating and drinking, but righteousness and peace and joy in the Holy Spirit \\add [— you are at war over the very thing the kingdom is not made of]\\add*.
+\\v 18 For the one who serves the Christ in this is well-pleasing to God and stands the test with men.
+\\v 19 So then, let us pursue the things of peace and the things that build one another up.
+\\v 20 Do not for the sake of food tear down the work of God \\add [i.e. your brother, whom God is building]\\add*. All things are clean, but it is evil for the man who eats through a stumbling block \\add [— the food is not the evil; the manner of eating it is]\\add*.
+\\v 21 It is good not to eat meat, nor to drink wine, nor to do anything by which your brother stumbles \\add [— not required of you; simply the better course]\\add*.
+\\v 22 The faithfulness that you have, have it to yourself before God \\add [— hold the conviction; you need not brandish it]\\add*. Blessed is the one who does not judge himself in what he approves.
+\\v 23 But the one who wavers has been condemned if he eats, because it is not out of faithfulness; and everything that is not out of faithfulness is sin.\\f + \\fr 14:23 \\ft "Out of faithfulness" is the same phrase as in the letter's opening thesis: "the righteous one will live out of faithfulness" (1:17). What a man's own trust cannot carry, he must not do — however clean the thing is in itself.\\f*
+
+\\c 15
+\\s1 The Strong Carry the Weak
+\\p
+\\v 1 We who are strong \\add [— and I count myself among them, so this is not advice from the sidelines]\\add* ought to carry the weaknesses of those without strength, and not to please ourselves.
+\\v 2 Let each of us please the neighbor for the good, toward building up.
+\\v 3 For the Christ also did not please himself, but as it is written: "The insults of those insulting you fell on me."\\f + \\fr 15:3 \\ft Psalm 69:9, from the psalm of the righteous sufferer. Hostility aimed at God landed on him and he absorbed it. That is the shape asked of the strong: carrying what is not yours.\\f*
+\\v 4 For whatever was written beforehand was written for our instruction, so that through endurance and through the encouragement of the Scriptures we might have hope \\add [— which is why I keep laying these old texts in front of you]\\add*.
+\\v 5 And may the God of endurance and encouragement give you to think the same thing among one another, according to Christ Jesus \\add [— not the same opinion about food, but the same mind toward each other]\\add*,
+\\v 6 so that with one accord, with one mouth, you may give glory to the God and Father of our Lord Jesus the Christ \\add [— that is what the whole quarrel is costing you: a single voice]\\add*.
+\\s1 Take One Another In — Jew and Nations Together
+\\p
+\\v 7 Therefore take one another in, just as the Christ also took you in, into the glory of God \\add [— the same word I opened with: take them in]\\add*.
+\\v 8 For I say that the Christ has become a servant of circumcision \\add [i.e. he came and served Israel, as any reader of his life can see]\\add* on behalf of the truth of God, to make firm the promises of the fathers,
+\\v 9 and for the nations to give glory to God for his mercy \\add [— to Israel, promises kept; to you, mercy you had no claim on; and the same Messiah does both]\\add*, as it is written: "For this I will confess you out among the nations, and I will sing to your name."
+\\v 10 And again it says: "Be glad, nations, with his people."
+\\v 11 And again: "Praise the Lord, all you nations, and let all the peoples praise him."
+\\v 12 And again Isaiah says: "There will be the root of Jesse, and the one who rises up to rule the nations; on him the nations will hope."\\f + \\fr 15:12 \\ft Four quotations, drawn from every division of Israel's Scriptures: Psalm 18:49, Deuteronomy 32:43, Psalm 117:1, Isaiah 11:10. They also climb — the nations hear God praised, then rejoice alongside his people, then praise him themselves, then hope in his Messiah. Nowhere do they replace Israel; the Deuteronomy line says "with his people."\\f*
+\\v 13 And may the God of hope fill you with all joy and peace in your trusting, so that you overflow in the hope, in the power of the Holy Spirit.
+\\s1 Paul's Priestly Work Among the Nations
+\\p
+\\v 14 And I myself am persuaded about you, my brothers, that you yourselves also are full of goodness, filled with all knowledge, able also to instruct one another \\add [— I have written at length, and not because I think you need a beginner's lesson]\\add*.
+\\v 15 But I wrote to you rather boldly in part, as one bringing you back to mind, because of the favor given to me by God
+\\v 16 to be a public servant of Christ Jesus to the nations, working as a priest\\f + \\fr 15:16 \\ft The verb is Paul's own coinage from the words for priest and work. The whole picture is temple service relocated: the mission field is the sanctuary, the gospel is the rite, and the Gentile communities are the offering carried to the altar — made holy not by ritual but by the Spirit.\\f* with the good news of God, so that the offering of the nations may be well received, made holy in the Holy Spirit \\add [i.e. you yourselves are what I carry up and lay before him]\\add*.
+\\v 17 So I have this boast in Christ Jesus in the things toward God.
+\\v 18 For I will not dare to speak of anything except what the Christ worked through me for the obedience of the nations, in word and work \\add [— I am the channel, not the source]\\add*,
+\\v 19 in the power of signs and wonders, in the power of the Spirit of God — so that from Jerusalem and around as far as Illyricum \\add [i.e. right across the eastern empire to the Adriatic coast]\\add* I have filled full the good news of the Christ.
+\\v 20 And so I have made it my point of honor to announce the good news where the Christ was not named, so that I would not build on another man's foundation \\add [— which is why I have never come to you: Rome already had the message before I could bring it]\\add*,
+\\v 21 but as it is written: "Those to whom nothing was told about him will see, and those who have not heard will understand."\\f + \\fr 15:21 \\ft Isaiah 52:15, from the opening of the Servant song: the nations who were never given the announcement are the ones who see and grasp it.\\f*
+\\s1 Jerusalem, Rome, and Spain
+\\p
+\\v 22 That is why I was blocked so many times from coming to you.
+\\v 23 But now, no longer having a place in these regions \\add [i.e. no unreached ground left in the east that needs a man like me]\\add*, and having a longing for many years to come to you
+\\v 24 whenever I go to Spain \\add [i.e. the far western end of the empire, where the good news has not been carried]\\add* — for I hope to see you as I pass through, and to be sent on my way there by you \\add [i.e. provisioned and backed for the journey]\\add*, once I have first been filled with you for a while.
+\\v 25 But now I am going to Jerusalem, serving the holy ones.
+\\v 26 For Macedonia and Achaia thought it good to make some sharing\\f + \\fr 15:26 \\ft Greek \\tl koinōnia\\tl*, a partnership in which what belongs to one belongs to both. The collection is not charity from a distance but the olive tree of chapter 11 turned into money.\\f* for the poor among the holy ones in Jerusalem.
+\\v 27 They thought it good — and they are debtors to them; for if the nations shared in their spiritual things, they owe it also to serve them in the fleshly things \\add [— everything you have came up through that root; the least you can send back is bread]\\add*.
+\\v 28 So when I have completed this and sealed to them this fruit, I will go away by way of you into Spain.
+\\v 29 And I know that when I come to you, I will come in the fullness of the blessing of the Christ.
+\\s1 Struggle Together with Me in Prayer
+\\p
+\\v 30 And I call on you, brothers, through our Lord Jesus the Christ and through the love of the Spirit, to struggle together with me\\f + \\fr 15:30 \\ft The verb is from the wrestling floor and the battle line. Paul is not asking to be remembered; he is calling for reinforcements.\\f* in prayers to God on my behalf,
+\\v 31 that I may be delivered from those who disobey in Judea \\add [— the journey may cost me my life]\\add*, and that my service for Jerusalem may be well received by the holy ones \\add [— and whether they take the gift will show whether Jew and Gentile in the Messiah are in fact one people]\\add*,
+\\v 32 so that, coming to you in joy through the will of God, I may rest along with you.
+\\v 33 And may the God of peace be with all of you. Amen.
+
+\\c 16
+\\s1 Phoebe Commended
+\\p
+\\v 1 I commend\\f + \\fr 16:1 \\ft The formal verb of a letter of recommendation, standard for a traveler arriving where no one knows her. Phoebe is almost certainly the one carrying this letter to Rome.\\f* to you Phoebe our sister, who is also a servant of the assembly in Cenchreae \\add [i.e. the eastern port of Corinth, a few hours' walk from the city]\\add*,
+\\v 2 so that you may take her in, in the Lord, in a way worthy of the holy ones, and stand by her in whatever matter she may have need of you; for she herself also became one who stands before many, and before me myself.\\f + \\fr 16:2 \\ft Greek \\tl prostatis\\tl*, the feminine of the word for a patron: a person of means who backed others with money, standing, and legal protection. Paul says she has done it for many, and for him.\\f*
+\\s1 Greetings to the Assemblies in Rome
+\\p
+\\v 3 Greet Prisca and Aquila, my fellow workers in Christ Jesus,\\f + \\fr 16:3 \\ft This couple was expelled from Rome under Claudius and met Paul in Corinth (Acts 18:2). Prisca is named first here and in most references to them — usually a sign of the higher standing of the two.\\f*
+\\v 4 who laid down their own necks for my life — to whom not only I give thanks but also all the assemblies of the nations —
+\\v 5 and greet the assembly at their house.\\f + \\fr 16:5 \\ft The believers in Rome had no buildings; they met in households. The greetings that follow appear to name several such gatherings across the city — which is part of why holding them together took a letter this long.\\f* Greet Epaenetus my beloved, who is the firstfruit of Asia for the Christ.
+\\v 6 Greet Mary, who labored much for you.
+\\v 7 Greet Andronicus and Junia\\f + \\fr 16:7 \\ft Junia is a common woman's name, and the pairing suggests a married couple, as with Prisca and Aquila.\\f*, my kinsmen and my fellow prisoners, who are of note among those sent, who also were in Christ before me \\add [— they were in the Messiah before I was, which puts them among the earliest there are]\\add*.
+\\v 8 Greet Ampliatus, my beloved in the Lord.
+\\v 9 Greet Urbanus, our fellow worker in Christ, and Stachys my beloved.
+\\v 10 Greet Apelles, the one who has been proved in Christ. Greet those of the household of Aristobulus.
+\\v 11 Greet Herodion my kinsman. Greet those of the household of Narcissus who are in the Lord.\\f + \\fr 16:11 \\ft "Household" covers the slaves and freedmen attached to a great man's establishment. An Aristobulus in Rome was a grandson of Herod the Great; a Narcissus was Claudius' powerful freedman secretary. The note that only some of Narcissus' household are "in the Lord" fits a great house in which a few had believed. Many of the names in this list — Ampliatus, Urbanus, Hermes, Nereus, Tertius, Quartus — are common slave names.\\f*
+\\v 12 Greet Tryphaena and Tryphosa, who labor in the Lord. Greet Persis the beloved, who labored much in the Lord.
+\\v 13 Greet Rufus, the chosen one in the Lord, and his mother — and mine \\add [i.e. she mothered me too, at some point when I needed it]\\add*.
+\\v 14 Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers with them.
+\\v 15 Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the holy ones with them.
+\\v 16 Greet one another with a holy kiss \\add [— across the households, and across the line you have been quarrelling over]\\add*. All the assemblies of the Christ greet you.
+\\s1 Watch Out for Those Who Make Divisions
+\\p
+\\v 17 And I call on you, brothers, to keep an eye on those who make the divisions and the traps contrary to the teaching that you learned, and turn away from them \\add [— mark who they are, and do not argue with them]\\add*.
+\\v 18 For such men do not serve our Lord Christ but their own belly\\f + \\fr 16:18 \\ft Greek \\tl koilia\\tl*, the belly — appetite set up as master. The word lands where the community has been fighting: over eating and drinking (14:17). Whatever a man's appetite, it cannot be served alongside the Lord.\\f*, and through smooth talk and flattering speech they deceive the hearts of the guileless \\add [— they sound excellent, which is exactly the danger]\\add*.
+\\v 19 For your obedience has reached out to all, so I rejoice over you; but I want you to be wise toward the good and unmixed with the evil \\add [i.e. expert in what is good and entirely inexperienced in what is not]\\add*.
+\\v 20 And the God of peace will crush Satan under your feet quickly.\\f + \\fr 16:20 \\ft The promise of Genesis 3:15, that the woman's seed would crush the serpent's head, with the enemies-under-the-feet of Psalm 110:1. The feet in view are yours: the community shares in the victory.\\f* The favor of our Lord Jesus be with you.
+\\s1 Greetings from Those with Paul
+\\p
+\\v 21 Timothy my fellow worker greets you, and Lucius and Jason and Sosipater, my kinsmen.
+\\v 22 I, Tertius, who wrote this letter down, greet you in the Lord.\\f + \\fr 16:22 \\ft The scribe taking Paul's dictation steps out from behind the pen — the only place in Paul's letters where this happens. His name, like Quartus in the next verse ("Third" and "Fourth"), is a common slave name.\\f*
+\\v 23 Gaius, my host and host of the whole assembly, greets you. Erastus, the city treasurer, greets you, and Quartus the brother.\\f + \\fr 16:23 \\ft A pavement inscription found at Corinth names an Erastus who laid it at his own expense in return for public office. If it is the same man, a senior civic official sat in this assembly alongside slaves. Some manuscripts add a verse 24 repeating the blessing of v. 20; it is absent from the earliest witnesses.\\f*
+\\s1 To the Only Wise God
+\\p
+\\v 25 Now to the one who is able to make you firm, according to my good news and the proclamation of Jesus the Christ, according to the unveiling of a secret kept in silence for times of the ages
+\\v 26 but now made visible, and through prophetic writings, according to the command of the God of the age, made known to all the nations for obedience of faithfulness\\f + \\fr 16:26 \\ft The same phrase with which the letter opened (1:5): "for obedience of faithfulness among all the nations." Everything between the two stands inside that frame.\\f* —
+\\v 27 to the only wise God, through Jesus the Christ, to whom be the glory into the ages. Amen.
+`;
