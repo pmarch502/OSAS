@@ -12,5 +12,7 @@ no-commit/
 # RCB build intermediates - the final {BOOK}.usfm carries everything
 usfm/nt/*-pass1.usfm
 usfm/nt/*-pass2.usfm
+usfm/nt/*-pass2-*.usfm
+usfm/nt/*-handoff.md
 docs/rcb/data/*-pass1.js
 docs/rcb/data/*-pass2.js
