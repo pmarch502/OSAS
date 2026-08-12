@@ -359,12 +359,47 @@ function renderInline(text) {
     noteCounter++;
     var letter = String.fromCharCode(96 + ((noteCounter - 1) % 26) + 1);
     var safeText = noteText.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;').replace(/</g, '&lt;');
+    safeText = safeText.replace(/\\tl\s+(.*?)\\tl\*/g, '<em>$1</em>');
     return '<span class="note-marker" data-note="' + safeText + '" onclick="showNote(event, this)" onmouseenter="showNoteHover(event, this)" onmouseleave="hideNoteHover()">' + letter + '</span>';
   });
 
   text = text.replace(/\\add\s+(.*?)\\add\*/g, '<span class="restoration">$1</span>');
+  text = text.replace(/\\tl\s+(.*?)\\tl\*/g, '<em>$1</em>');
 
   return text;
+}
+
+// Truncate HTML without cutting inside a tag or an entity, and close any open <em>.
+function truncateHtml(html, max) {
+  var out = '', count = 0, i = 0, open = 0;
+  while (i < html.length && count < max) {
+    if (html.charAt(i) === '<') {
+      var end = html.indexOf('>', i);
+      if (end === -1) break;
+      var tag = html.substring(i, end + 1);
+      if (tag === '<em>') open++;
+      else if (tag === '</em>') open--;
+      out += tag;
+      i = end + 1;
+    } else if (html.charAt(i) === '&') {
+      var semi = html.indexOf(';', i);
+      if (semi !== -1 && semi - i <= 6) {
+        out += html.substring(i, semi + 1);
+        i = semi + 1;
+      } else {
+        out += html.charAt(i);
+        i++;
+      }
+      count++;
+    } else {
+      out += html.charAt(i);
+      i++;
+      count++;
+    }
+  }
+  while (open-- > 0) out += '</em>';
+  if (i < html.length) out += '…';
+  return out;
 }
 
 function toggleRestorations() {
@@ -388,7 +423,7 @@ function showNoteHover(event, el) {
   if (popupPinned) return;
   var popup = document.getElementById('footnotePopup');
   var text = el.getAttribute('data-note');
-  popup.textContent = text.length > 120 ? text.substring(0, 120) + '…' : text;
+  popup.innerHTML = truncateHtml(text, 120);
   popup.style.display = 'block';
   positionPopup(popup, el);
 }
@@ -402,7 +437,7 @@ function showNote(event, el) {
   event.stopPropagation();
   popupPinned = true;
   var popup = document.getElementById('footnotePopup');
-  popup.textContent = el.getAttribute('data-note');
+  popup.innerHTML = el.getAttribute('data-note');
   popup.style.display = 'block';
   positionPopup(popup, el);
 }
