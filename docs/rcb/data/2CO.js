@@ -1,0 +1,414 @@
+const USFM = `\\id 2CO - Restored Context Bible (RCB)
+\\usfm 3.0
+\\ide UTF-8
+\\h 2 Corinthians
+\\toc1 The Second Letter of Paul to the Assembly in Corinth
+\\toc2 2 Corinthians
+\\toc3 2Co
+\\mt1 2 Corinthians
+
+\\imt Introduction
+\\ip This letter is from Paul, writing from Macedonia in northern Greece somewhere around the middle of the first century, to the assembly he had founded in Corinth and to the believers scattered through the rest of Achaia, the Roman province covering southern Greece. Corinth was that province's capital: a rebuilt Roman colony straddling the isthmus, a port city rich on trade, crowded with cults, and fiercely admiring of polished speakers and men who looked the part.
+\\ip It is not his first letter to them, and it is written out of the wreckage of what happened after it. Paul had made a second visit to Corinth that went badly — he calls it a visit "in grief." Instead of returning a third time to fight it out in person, he wrote them a hard letter, in tears, and sent it with Titus. Then he waited. The letter he was waiting on has not survived, and it is not 1 Corinthians. While he waited, something in the province of Asia nearly killed him. He could not settle anywhere until Titus finally found him in Macedonia with the news that the Corinthians had taken the hard letter to heart. This letter is what he wrote next.
+\\ip Behind the quarrel stands a group of teachers who had arrived in Corinth after Paul, carrying letters of recommendation and impressing the assembly with the very things Paul lacked: presence, eloquence, credentials, and a willingness to be paid. Beside them Paul looked unimpressive — a battered man who worked with his hands and took no money. Some in Corinth had begun to conclude that his weakness disqualified him, and that the change in his travel plans proved his word could not be trusted.
+\\ip So the letter does several things at once, and its tone swings hard between them. It rebuilds a damaged friendship (chapters 1-7). It asks the restored assembly to finish the relief fund they had promised for the poor believers in Jerusalem (chapters 8-9). And it turns at last on the rival teachers directly (chapters 10-13), in the most personal writing Paul left behind. Running underneath the whole of it is one claim, which he states plainly only at the end: God's power does not arrive in spite of human weakness but through it, because that is how it arrived in the crucified Messiah.
+
+\\c 1
+\\s1 Greeting
+\\p
+\\v 1 Paul, an apostle\\f + \\fr 1:1 \\ft Greek \\tl apostolos\\tl*: an emissary who carries the full authority of the one who sent him.\\f* of Christ Jesus through the will of God \\add [— no human council put me here]\\add*, and Timothy the brother, to the assembly\\f + \\fr 1:1 \\ft Greek \\tl ekklēsia\\tl*, the word the Greek scriptures use for the assembly of Israel gathered before God (Deuteronomy 4:10; 1 Kings 8:14).\\f* of God that is in Corinth, together with all the holy ones\\f + \\fr 1:1 \\ft Greek \\tl hagioi\\tl*, "set-apart ones" — Israel's own covenant word for itself (Exodus 19:6; Deuteronomy 7:6).\\f* who are in the whole of Achaia\\f + \\fr 1:1 \\ft The Roman province covering southern Greece, with Corinth as its capital. The letter is addressed past the city to the whole region.\\f*:
+\\v 2 favor\\f + \\fr 1:2 \\ft Greek \\tl charis\\tl*, rendered "favor" throughout: God's freely given goodwill and the concrete generosity it produces. The same word will later name the relief fund itself (8:1-7).\\f* to you and peace from God our Father and the Lord Jesus the Christ.
+\\s1 Blessed Be the God Who Comforts Us in Our Affliction
+\\p
+\\v 3 Blessed be the God and Father of our Lord Jesus the Christ\\f + \\fr 1:3 \\ft Paul normally opens with thanksgiving. Here he opens instead in the form of a Jewish \\tl berakah\\tl* — "Blessed be the LORD, who has done such and such" (Psalm 72:18).\\f*, the Father of mercies\\f + \\fr 1:3 \\ft Greek \\tl oiktirmoi\\tl*, standing for Hebrew \\tl rachamim\\tl*, a word built on \\tl rechem\\tl*, the womb: compassion felt in the body.\\f* and God of all comfort\\f + \\fr 1:3 \\ft Greek \\tl paraklēsis\\tl*: comfort, consolation, strengthening. It is the word of Isaiah 40:1, "Comfort, comfort my people" — the cry that opens the promise of Israel's return from exile. The word group runs ten times through verses 3-7.\\f*,
+\\v 4 who comforts us in all our affliction \\add [— not by lifting the affliction off us, but by holding us up inside it]\\add*, so that we are able to comfort those in every affliction through the comfort with which we ourselves are comforted by God.
+\\v 5 For as the sufferings of the Christ overflow into us \\add [i.e. the same kind of suffering he bore, and borne for his sake]\\add*, so through the Christ our comfort also overflows.
+\\v 6 If we are afflicted, it is for your comfort and salvation; if we are comforted, it is for your comfort, which is at work in your enduring of the same sufferings that we also suffer.
+\\v 7 And our hope for you is firm, knowing that as you share in the sufferings, so you share also in the comfort.
+\\s1 What Happened to Us in Asia
+\\p
+\\v 8 For we do not want you not to know, brothers, about the affliction that came on us in Asia\\f + \\fr 1:8 \\ft The Roman province whose chief city was Ephesus. Paul never says what happened. Acts records a riot against him there (Acts 19:23-41), and he had spoken earlier of fighting beasts at Ephesus (1 Corinthians 15:32).\\f*: we were weighed down beyond measure, beyond our strength, so that we despaired even of living.
+\\v 9 Indeed, we had the sentence of death within ourselves\\f + \\fr 1:9 \\ft Greek \\tl apokrima\\tl*, a term from the courts for an official ruling handed down. He felt like a man already sentenced.\\f*, so that we would not be trusting in ourselves but in God, who raises the dead\\f + \\fr 1:9 \\ft The synagogue prayer named God in exactly these words — "who gives life to the dead." Driven past every other resource, Paul was driven back onto the bedrock of Israel's hope.\\f* —
+\\v 10 who rescued us out of so great a death, and will rescue; on whom we have set our hope that he will rescue us again,
+\\v 11 as you also work together with us by your prayer for us, so that from many faces \\add [i.e. from many people]\\add* thanks may be given by many on our behalf for the gift given to us.
+\\s1 Our Conduct Toward You Has Been Transparent
+\\p
+\\v 12 For this is our boast, the testimony of our conscience: that in the holiness and sincerity\\f + \\fr 1:12 \\ft Greek \\tl eilikrineia\\tl*, from words for sunlight and judging: what can be held up in full daylight and found unmixed.\\f* of God, not in fleshly wisdom \\add [i.e. the cleverness that calculates its own advantage]\\add* but in the favor of God, we have walked in the world, and all the more toward you.
+\\v 13 For we write you nothing other than what you read or indeed recognize \\add [— there is no second meaning underneath the words]\\add*; and I hope that you will recognize it to the end,
+\\v 14 just as you have recognized us in part — that we are your boast, as you also are ours, in the day of our Lord Jesus\\f + \\fr 1:14 \\ft The prophets' "day of the LORD," the day of final reckoning (Amos 5:18; Joel 2:1), here named as the day of Jesus.\\f*.
+\\s1 Why the Travel Plans Changed
+\\p
+\\v 15 And in this confidence I was intending to come to you first, so that you might have a second favor \\add [i.e. the good of a second visit]\\add*,
+\\v 16 and through you to pass on into Macedonia, and from Macedonia to come back to you, and by you to be sent on my way into Judea.
+\\v 17 So, when I was intending this, did I act with lightness \\add [i.e. was I making promises I never meant to keep?]\\add*? Or the things I plan, do I plan according to flesh\\f + \\fr 1:17 \\ft Greek \\tl kata sarka\\tl*, "according to flesh": by ordinary human calculation and self-interest. The phrase returns at 5:16 and 10:2-3, where it is the charge his opponents are making against him.\\f*, so that with me there is "Yes, yes" and "No, no" together?
+\\v 18 But God is faithful: our word to you is not "Yes" and "No."
+\\v 19 For the Son of God, Jesus the Christ, who was proclaimed among you through us — through me and Silvanus\\f + \\fr 1:19 \\ft The Silas of Acts, one of the team that first brought the good news to Corinth (Acts 18:5).\\f* and Timothy — did not become "Yes" and "No"; in him it has become "Yes."
+\\v 20 For as many as are the promises of God, in him is the "Yes." And so through him is the "Amen"\\f + \\fr 1:20 \\ft Hebrew \\tl amen\\tl*, "it stands firm" — the word a congregation says back to ratify what has been spoken (1 Chronicles 16:36; Nehemiah 8:6).\\f* spoken by us, for glory to God.
+\\v 21 And the one who makes us stand firm with you into Christ, and who anointed us \\add [i.e. set us apart and equipped us, as kings and priests were anointed]\\add*, is God,
+\\v 22 who also sealed us \\add [i.e. stamped us with his own mark, the way an owner seals what belongs to him]\\add* and gave the down payment\\f + \\fr 1:22 \\ft Greek \\tl arrabōn\\tl*, a Semitic loan-word from commerce: the first installment of a price, which is not a promise to pay but part of the payment itself, and legally binds the payer to complete it.\\f* of the Spirit in our hearts.
+\\s1 I Stayed Away to Spare You
+\\p
+\\v 23 But I call on God as witness against my own life \\add [— let him hold my life forfeit if I am lying]\\add*: it was to spare you that I did not come again to Corinth.
+\\v 24 Not that we are lords over your faithfulness, but we are fellow workers of your joy; for by faithfulness you stand.
+
+\\c 2
+\\s1 Why I Wrote Instead of Coming
+\\p
+\\v 1 For I decided this for myself: not to come to you again in grief \\add [i.e. not to make a second visit like the last one]\\add*.
+\\v 2 For if I grieve you, then who is left to gladden me but the one I have grieved?
+\\v 3 And I wrote this very thing \\add [i.e. in the hard letter I sent instead of coming]\\add*\\f + \\fr 2:3 \\ft That letter has not survived, and it is not 1 Corinthians. Titus carried it to Corinth, and Paul waited in dread to learn how it had been received (2:12-13; 7:5-16).\\f*, so that when I came I would not have grief from those who ought to make me glad — being confident about you all that my joy is the joy of you all.
+\\v 4 For out of much affliction and constriction of heart \\add [— hemmed in, with no good way out]\\add* I wrote to you through many tears, not so that you would be grieved, but so that you would know the love that I have for you beyond measure.
+\\s1 Forgive the Man You Punished
+\\p
+\\v 5 But if anyone has caused grief, he has not grieved me, but in part — not to press the weight on all of you.
+\\v 6 Enough for such a man is this punishment by the majority \\add [i.e. the penalty the assembly voted]\\add*,
+\\v 7 so that instead you should rather forgive and comfort him, or such a man may be swallowed up by too much grief.
+\\v 8 Therefore I appeal to you to confirm your love toward him \\add [i.e. to say so out loud, as a body, so he knows he is received back]\\add*.
+\\v 9 For this is also why I wrote: so that I might know whether you hold up under testing, whether you are obedient in everything.
+\\v 10 And whom you forgive anything, I also forgive; for what I have forgiven — if I have forgiven anything — was for your sake, in the face of Christ \\add [i.e. with Christ looking on]\\add*,
+\\v 11 so that we would not be outreached by Satan \\add [i.e. so that he does not turn our own discipline to his profit]\\add*; for we are not ignorant of his designs.
+\\s1 No Rest Until Titus Came
+\\p
+\\v 12 Now when I came to Troas\\f + \\fr 2:12 \\ft The port on the north-west coast of Asia Minor from which ships crossed to Macedonia.\\f* for the good news of the Christ, and a door had been opened for me in the Lord \\add [i.e. a real opening to preach was standing there]\\add*,
+\\v 13 I had no rest in my spirit, because I did not find Titus my brother\\f + \\fr 2:13 \\ft Titus had carried the hard letter to Corinth. Paul was waiting for him to come back with word of how the assembly had taken it, and could not stay put — he walked away from an open door to go looking for him.\\f*; so I took leave of them and went out into Macedonia.
+\\s1 Led in the Triumph, Carrying a Fragrance
+\\p
+\\v 14 But thanks be to God, who always leads us in triumph\\f + \\fr 2:14 \\ft The Roman triumph: the victory parade granted a general, with his troops behind the chariot, the captured enemy led in chains before it, and incense burning the whole length of the route. Paul puts himself not in the chariot but among those led — displayed.\\f* in the Christ and through us makes the fragrance of the knowledge of him manifest in every place.
+\\v 15 For we are a pleasing aroma\\f + \\fr 2:15 \\ft Greek \\tl euōdia\\tl*, the standard phrase for the smell of sacrifice going up to God and accepted by him (Genesis 8:21; Leviticus 1:9).\\f* of Christ to God, among those being saved and among those perishing:
+\\v 16 to the one a fragrance from death to death, to the other a fragrance from life to life \\add [— one smoke, and it means opposite things depending on where in the parade a man is standing]\\add*. And who is sufficient for these things?\\f + \\fr 2:16 \\ft The question is answered at 3:5-6.\\f*
+\\v 17 For we are not, like the many, hawking\\f + \\fr 2:17 \\ft Greek \\tl kapēleuō\\tl*, what a wine-seller does: retailing for profit, and watering the goods down (Isaiah 1:22 LXX).\\f* the word of God, but as out of sincerity, as out of God, before God, in Christ we speak.
+
+\\c 3
+\\s1 You Are Our Letter of Recommendation
+\\p
+\\v 1 Are we beginning to commend ourselves again? Or do we need, as some do, letters of recommendation \\add [i.e. written credentials from someone you already trust]\\add* to you, or from you?
+\\v 2 You yourselves are our letter, written on our hearts, known and read by all men,
+\\v 3 made manifest to be a letter of Christ delivered by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets that are hearts of flesh\\f + \\fr 3:3 \\ft Two texts fused into one image: the stone tablets cut at Sinai and written with God's finger (Exodus 31:18), and the promise of a heart of flesh in place of a heart of stone, with God's own instruction written inside it (Ezekiel 11:19; 36:26; Jeremiah 31:33). The assembly itself is the evidence that the promise has landed.\\f*.
+\\s1 Our Competence Comes from God
+\\p
+\\v 4 Such confidence we have through the Christ toward God.
+\\v 5 Not that we are sufficient of ourselves to reckon anything as coming from ourselves; our sufficiency is from God,
+\\v 6 who also made us sufficient as servants of a new covenant\\f + \\fr 3:6 \\ft Jeremiah 31:31-34: a covenant in which the instruction is put inside people rather than carved outside them, all of them know the LORD directly, and their sin is remembered no more.\\f* — not of letter \\add [i.e. a written code]\\add* but of Spirit; for the letter kills \\add [i.e. a written command can name a man's wrong and sentence him for it, but it cannot change him]\\add*, but the Spirit makes alive.
+\\s1 The Glory That Faded and the Glory That Stays
+\\p
+\\v 7 Now if the service of death \\add [i.e. the arrangement that could only pronounce sentence]\\add*, in letters cut into stones, came in glory, so that the sons of Israel could not gaze at the face of Moses because of the glory of his face\\f + \\fr 3:7 \\ft Exodus 34:29-35. Moses came down from the mountain with his face shining, and the people were afraid to come near him.\\f* — which was being brought to an end \\add [— even that glory was on its way out]\\add* —
+\\v 8 how will the service of the Spirit not be all the more in glory?
+\\v 9 For if there was glory in the service of condemnation, much more does the service of righteousness overflow in glory.
+\\v 10 For what had been glorified has not been glorified at all in this case, because of the surpassing glory \\add [— as stars are still there at noon and no one can see them]\\add*.
+\\v 11 For if what is being brought to an end came through glory, much more is what remains in glory.
+\\s1 The Veil, and the Face Left Uncovered
+\\p
+\\v 12 Having then such a hope, we speak with much boldness,
+\\v 13 and not as Moses, who would put a veil over his face so that the sons of Israel would not gaze at the end of what was being brought to an end \\add [i.e. at the fading out of a glory that was never meant to last]\\add*.
+\\v 14 But their minds were made hard. For to this day the same veil remains at the reading of the old covenant \\add [i.e. at the reading of Moses in the synagogue, week by week]\\add*, not lifted, because it is in Christ that it is brought to an end.
+\\v 15 To this day, whenever Moses is read, a veil lies on their heart;
+\\v 16 but whenever one turns to the Lord, the veil is taken away\\f + \\fr 3:16 \\ft Exodus 34:34: whenever Moses went in before the LORD, he took the veil off. What was one man's practice at the tent is here opened to anyone who turns.\\f*.
+\\v 17 Now the Lord is the Spirit\\f + \\fr 3:17 \\ft He is still reading the Exodus text. The Lord before whom the veil came off is the one now met as the Spirit.\\f*; and where the Spirit of the Lord is, there is freedom.
+\\v 18 And we all \\add [— not one mediator on a mountain, but all of us]\\add*, with unveiled face, beholding as in a mirror\\f + \\fr 3:18 \\ft The Greek verb can mean either looking at something in a mirror or reflecting it as a mirror does. Both may be intended.\\f* the glory of the Lord, are being transformed into the same image, from glory into glory \\add [— by degrees, and it is still going on]\\add*, just as from the Lord, the Spirit.
+
+\\c 4
+\\s1 Nothing Hidden, Nothing Watered Down
+\\p
+\\v 1 Therefore, having this service, as we have been shown mercy, we do not lose heart.
+\\v 2 We have renounced the hidden things of shame, not walking in craftiness nor watering down the word of God, but by the open showing of the truth commending ourselves to every conscience of men before God.
+\\v 3 And if our good news is veiled, it is veiled among those who are perishing \\add [— the covering is over them, not over it]\\add*,
+\\v 4 in whom the god of this age\\f + \\fr 4:4 \\ft Not a rival deity but the power that actually governs the present order — the adversary. Calling him "god" describes the authority he exercises over those still inside that order, not any standing beside the God of Israel.\\f* has blinded the minds of the unbelieving, so that the light of the good news of the glory of the Christ, who is the image of God, may not dawn on them.
+\\v 5 For we do not proclaim ourselves, but Jesus Christ as Lord, and ourselves as your slaves for Jesus' sake.
+\\v 6 For the God who said, "Out of darkness light shall shine,"\\f + \\fr 4:6 \\ft Genesis 1:3. God's first act of creation is the pattern for what happens in a man who comes to see: light spoken into a dark that could not produce it.\\f* is the one who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.
+\\s1 Treasure in Clay Pots
+\\p
+\\v 7 But we have this treasure in vessels of clay\\f + \\fr 4:7 \\ft The cheapest and most breakable container in a first-century house. Israel had long been the clay in the potter's hands (Isaiah 64:8; Jeremiah 18:6), and a smashed clay jar was Jeremiah's sign of a ruined city (Jeremiah 19:10-11).\\f*, so that the surpassing greatness of the power may be God's and not from us.
+\\v 8 We are pressed hard on every side but not crushed; at a loss but not at a total loss;
+\\v 9 hunted down but not left behind; struck down but not destroyed;
+\\v 10 always carrying about in the body the dying of Jesus \\add [— what was done to him is being done to us]\\add*, so that the life of Jesus also may be made manifest in our body.
+\\v 11 For we the living are always being handed over to death for Jesus' sake, so that the life of Jesus also may be made manifest in our mortal flesh.
+\\v 12 So then death is at work in us, but life in you \\add [— what it costs us is what you have received]\\add*.
+\\s1 We Trust, and So We Speak
+\\p
+\\v 13 And having the same spirit of faithfulness — according to what is written, "I trusted, therefore I spoke"\\f + \\fr 4:13 \\ft Psalm 116:10 (LXX 115:1), the words of a man who had been brought to the edge of death and went on speaking anyway.\\f* — we also trust, and therefore we also speak,
+\\v 14 knowing that the one who raised the Lord Jesus will raise us also with Jesus and will present us with you.
+\\v 15 For all things are for your sake, so that the favor, spreading through more and more people, may make thanksgiving overflow to the glory of God.
+\\s1 Wasting on the Outside, Renewed on the Inside
+\\p
+\\v 16 Therefore we do not lose heart. Even if our outer man \\add [i.e. what of us is visible and wearing out]\\add* is being ruined, yet our inner man \\add [i.e. what of us God is remaking]\\add* is being made new day by day.
+\\v 17 For the light weight of our affliction, lasting a moment, is working out for us an eternal weight of glory\\f + \\fr 4:17 \\ft The Hebrew word for glory, \\tl kabod\\tl*, is built on a root meaning "heavy." Glory is what has weight to it — and Paul is setting it on the scales against a suffering he calls light.\\f* beyond all measure and beyond all measure again,
+\\v 18 while we fix our eyes not on what is seen but on what is not seen; for what is seen lasts a season, but what is not seen is eternal.
+
+\\c 5
+\\s1 The Tent Taken Down and the Building from God
+\\p
+\\v 1 For we know that if our earthly house, the tent\\f + \\fr 5:1 \\ft Israel's own dwelling for God was a tent — the tabernacle of the wilderness years, portable by design and always meant to give way to something permanent.\\f*, is torn down, we have a building from God, a house not made with hands, eternal in the heavens.
+\\v 2 And in this one we groan, longing to put on over it our dwelling from heaven —
+\\v 3 if indeed, having put it on, we shall not be found naked \\add [i.e. stripped of a body altogether]\\add*.
+\\v 4 For we who are in the tent groan and are weighed down, because we do not want to be stripped but to be clothed over, so that what is mortal may be swallowed up by life\\f + \\fr 5:4 \\ft The reversal of Isaiah 25:8, where God swallows up death forever. Here it is death that gets swallowed.\\f*.
+\\v 5 And the one who worked us for this very thing is God, who gave us the down payment of the Spirit.
+\\s1 Everyone Appears Before the Judgment Seat
+\\p
+\\v 6 So we are always of good courage, and we know that while we are at home in the body we are away from home from the Lord —
+\\v 7 for we walk by faithfulness, not by what is seen —
+\\v 8 we are of good courage, and we would rather be away from home out of the body and at home with the Lord.
+\\v 9 And so we make it our aim, whether at home or away from home, to be pleasing to him.
+\\v 10 For we must all be made manifest before the judgment seat\\f + \\fr 5:10 \\ft Greek \\tl bēma\\tl*, the raised platform a Roman magistrate gave judgment from. Corinth's stood in the marketplace, and Paul had been hauled before it (Acts 18:12-17). Every reader knew exactly what it looked like.\\f* of the Christ, so that each may receive back what was done through the body, according to what he did, whether good or worthless.
+\\s1 Why We Say All This
+\\p
+\\v 11 Knowing then the fear of the Lord, we persuade men; but to God we have been made manifest, and I hope that in your consciences we have been made manifest too.
+\\v 12 We are not commending ourselves to you again, but giving you an occasion to boast on our behalf, so that you may have something for those who boast in the face \\add [i.e. in what shows on the outside]\\add* and not in the heart.
+\\v 13 For if we went out of our mind \\add [i.e. if we strike you as unhinged]\\add*, it was for God; if we are in our right mind, it is for you.
+\\s1 One Died for All
+\\p
+\\v 14 For the love of the Christ presses in on us, since we have judged this: that one died for all, therefore all died \\add [i.e. when the one who stood for all of them died, they all died in him]\\add*;
+\\v 15 and he died for all so that those who live might live no longer for themselves but for the one who died for them and was raised.
+\\s1 Anyone in Christ Is a New Creation
+\\p
+\\v 16 So then, from now on we know no one according to flesh \\add [i.e. we size no one up by what he looks like from outside]\\add*. Even if we have known Christ according to flesh, we know him so no longer.
+\\v 17 So if anyone is in Christ — new creation!\\f + \\fr 5:17 \\ft Isaiah's promise, spoken of the whole world: new heavens and a new earth, and the former things not called to mind again (Isaiah 43:18-19; 65:17). Paul says it has already begun, one person at a time.\\f* The old things have passed away; look, they have become new.
+\\s1 Ambassadors Carrying God's Appeal
+\\p
+\\v 18 And all of it is from God, who reconciled us to himself through Christ and gave us the service of reconciliation:
+\\v 19 that is, God was in Christ reconciling the world to himself, not counting their trespasses against them \\add [i.e. not entering them in the ledger]\\add*, and putting in us the word of reconciliation.
+\\v 20 So we are ambassadors\\f + \\fr 5:20 \\ft An envoy sent by a king or a senate. He speaks with none of his own authority and all of his sender's; to refuse him is to refuse the one who sent him.\\f* on behalf of Christ, as though God were making his appeal through us. We beg on behalf of Christ: be reconciled to God.\\f + \\fr 5:20 \\ft The appeal is addressed to the assembly itself, not to outsiders. Being reconciled to God is not a transaction closed once and filed away.\\f*
+\\v 21 The one who did not know sin, he made to be sin\\f + \\fr 5:21 \\ft In the Greek scriptures the one word \\tl hamartia\\tl* carries both senses: "sin" and "sin offering," the unblemished animal whose death covers the people's wrong (Leviticus 4:24-25; Isaiah 53:10). Both are heard here at once.\\f* for our sake, so that in him we might become the righteousness of God.
+
+\\c 6
+\\s1 Do Not Let This Favor Come to Nothing
+\\p
+\\v 1 Working together with him, we also appeal to you not to receive the favor of God for nothing \\add [i.e. to take it in and let it come to nothing in you]\\add* —
+\\v 2 for he says, "At an acceptable time I heard you, and in a day of salvation I helped you."\\f + \\fr 6:2 \\ft Isaiah 49:8, spoken by God to his Servant — the same Servant who had just complained that he had labored for nothing (49:4). Paul reads the appointed day as this one.\\f* Look, now is the well-accepted time; look, now is the day of salvation —
+\\s1 How We Commend Ourselves
+\\p
+\\v 3 giving no one a cause to stumble in anything, so that no fault may be found with the service,
+\\v 4 but in everything commending ourselves as God's servants: in much endurance, in afflictions, in hardships, in narrow places \\add [i.e. hemmed in with nowhere to go]\\add*,
+\\v 5 in beatings, in prisons, in riots, in labors, in sleepless nights, in going without food;
+\\v 6 in purity, in knowledge, in patience, in kindness, in the Holy Spirit, in love without play-acting,
+\\v 7 in the word of truth, in the power of God; through the weapons of righteousness for the right hand and for the left \\add [i.e. sword and shield both]\\add*;
+\\v 8 through glory and dishonor, through bad report and good report; as deceivers, and true;
+\\v 9 as unknown, and well known; as dying, and look, we live; as disciplined, and not put to death\\f + \\fr 6:9 \\ft Psalm 118:18 (LXX 117:18): "The LORD disciplined me severely, but he did not hand me over to death." What is happening to Paul is a father's correction, not a verdict of rejection.\\f*;
+\\v 10 as grieved, but always rejoicing; as poor, but making many rich; as having nothing, and holding all things.
+\\s1 Our Heart Is Wide Open — Open Yours
+\\p
+\\v 11 Our mouth stands open to you, Corinthians; our heart has been made wide.
+\\v 12 You are not squeezed in us, but you are squeezed in your own inward parts \\add [i.e. the narrowness is on your side, not ours]\\add*.
+\\v 13 Now in fair exchange — I speak as to children — you be made wide as well.
+\\s1 Come Out from What Cannot Share Your Yoke
+\\p
+\\v 14 Do not become mismatched in yoke\\f + \\fr 6:14 \\ft The Torah forbade yoking two different kinds of animal to one plow, or breeding them together (Deuteronomy 22:10; Leviticus 19:19). Two natures that cannot pull the same load.\\f* with unbelievers. For what partnership have righteousness and lawlessness? Or what fellowship has light with darkness?
+\\v 15 And what harmony has Christ with Beliar\\f + \\fr 6:15 \\ft Hebrew \\tl beliyya'al\\tl*, "worthlessness." By the first century it had become a name for the chief adversary, the head of the opposing side; the Dead Sea writings set the sons of light against the lot of Belial in exactly this way.\\f*? Or what share has one who is faithful with an unbeliever?
+\\v 16 And what agreement has the sanctuary of God with idols? For we are the sanctuary of the living God, just as God said: "I will dwell among them and walk about among them; and I will be their God, and they shall be my people."\\f + \\fr 6:16 \\ft Leviticus 26:11-12 and Ezekiel 37:27. In Leviticus the promise stands inside a covenant whose blessings turn on Israel's obedience; the demand that follows here does the same work.\\f*
+\\v 17 Therefore, "Come out from their midst and be separated," says the Lord, "and touch no unclean thing; and I will take you in.\\f + \\fr 6:17 \\ft Isaiah 52:11, called out to the exiles walking away from Babylon — and addressed specifically to those carrying the vessels of the LORD.\\f*
+\\v 18 And I will be a Father to you, and you shall be sons and daughters to me," says the Lord of hosts.\\f + \\fr 6:18 \\ft 2 Samuel 7:14, God's promise to David's royal heir — "I will be a father to him, and he shall be a son to me" — opened out here from one son to a whole people, sons and daughters together (Isaiah 43:6). "Lord of hosts" renders \\tl kyrios pantokratōr\\tl*, the LORD who commands armies.\\f*
+
+\\c 7
+\\s1 These Promises Carry a Demand
+\\p
+\\v 1 Having then these promises, beloved, let us cleanse ourselves from every defilement of flesh and spirit \\add [i.e. of the whole person, outside and in]\\add*, completing holiness \\add [i.e. carrying it through to the finish]\\add* in the fear of God.
+\\s1 Make Room for Us
+\\p
+\\v 2 Make room for us. We wronged no one, we ruined no one, we took advantage of no one.
+\\v 3 I do not say this to condemn you; for I have said before that you are in our hearts, to die together and to live together.
+\\v 4 Great is my boldness toward you; great is my boasting on your behalf. I have been filled with comfort; I overflow with joy in all our affliction.
+\\s1 Titus Came, and God Comforted Us
+\\p
+\\v 5 For even when we came into Macedonia our flesh had no rest, but we were afflicted in every way — fights outside, fears inside \\add [— and the fears were about you]\\add*.
+\\v 6 But God, who comforts the low\\f + \\fr 7:6 \\ft Isaiah 49:13: "God has comforted his people and will have mercy on the lowly among them." The comfort arrived, as it usually does, in the form of a friend walking in the door.\\f*, comforted us by the coming of Titus —
+\\v 7 and not only by his coming, but also by the comfort with which he was comforted over you, as he told us of your longing, your mourning, your zeal for me, so that I rejoiced all the more.
+\\s1 The Grief That Turned You Back
+\\p
+\\v 8 For even if I grieved you by the letter \\add [i.e. the hard one I sent instead of coming]\\add*, I do not regret it. Even if I did regret it \\add [— and for a while I did]\\add* — I see that that letter grieved you, if only for an hour —
+\\v 9 now I rejoice, not that you were grieved, but that you were grieved into a turning back\\f + \\fr 7:9 \\ft Greek \\tl metanoia\\tl*: a turn of mind that changes the direction of a life. It is the prophets' word — "Return to me with all your heart" (Joel 2:12).\\f*; for you were grieved according to God, so that in nothing did you suffer loss from us.
+\\v 10 For grief according to God works a turning back that leads to salvation and leaves no regret; but the grief of the world works death \\add [i.e. grief over the damage and the disgrace, which turns a man inward and finishes him]\\add*.
+\\v 11 For look at this very thing, your being grieved according to God: how much earnestness it worked in you, and defense, and indignation, and fear, and longing, and zeal, and punishment! In every part you showed yourselves clean in the matter.
+\\v 12 So then, though I wrote to you, it was not on account of the one who did the wrong, nor on account of the one who was wronged, but so that your earnestness for us might be made manifest to you \\add [— to you: you needed to see for yourselves what you actually are]\\add* before God.
+\\s1 The Joy of Titus and My Confidence in You
+\\p
+\\v 13 For this reason we have been comforted. And on top of our comfort we rejoiced still more abundantly at the joy of Titus, because his spirit has been given rest by you all.
+\\v 14 For if I have boasted to him about you in anything, I was not put to shame; but as we spoke everything to you in truth, so also our boasting before Titus proved to be truth.
+\\v 15 And his inward parts go out to you all the more, as he remembers the obedience of you all, how you received him with fear and trembling.
+\\v 16 I rejoice that in everything I am confident in you.
+
+\\c 8
+\\s1 What the Assemblies of Macedonia Did
+\\p
+\\v 1 Now we make known to you, brothers, the favor of God\\f + \\fr 8:1 \\ft Through these two chapters one word, \\tl charis\\tl* — "favor" — carries everything: God's own generosity, Christ's self-impoverishment, the Macedonians' giving, the Corinthians' obligation, and the collection itself. Paul never lets the money and the grace come apart.\\f* that has been given in the assemblies of Macedonia:
+\\v 2 that in a heavy testing by affliction, the overflow of their joy and their poverty down to the depths overflowed into the wealth of their open-handedness \\add [— destitute people producing wealth: that is what it looks like when God's favor is at work]\\add*.
+\\v 3 For according to their ability — I testify — and beyond their ability, of their own will,
+\\v 4 with much appeal they begged us for the favor and the sharing in the service to the holy ones\\f + \\fr 8:4 \\ft The relief fund Paul had been gathering across the Gentile assemblies for the impoverished believers in Jerusalem (1 Corinthians 16:1-4; Romans 15:25-27). Poor Greek converts were being asked to support Jewish believers they had never met — the gospel's claim about one body, in cash.\\f*.
+\\v 5 And not as we had hoped: they gave themselves first to the Lord, and to us through the will of God \\add [— the money came second, and only because the first gift had been made]\\add*.
+\\s1 Finish What You Began a Year Ago
+\\p
+\\v 6 So we urged Titus that, as he had made a beginning before, so he would also complete this favor among you.
+\\v 7 But just as you overflow in everything — in faithfulness, in word, in knowledge, in all earnestness, and in the love that comes from us and is in you — see that you overflow in this favor also.
+\\v 8 I do not say this as a command, but through the earnestness of others I am testing the genuineness of your love as well.
+\\v 9 For you know the favor of our Lord Jesus the Christ: that being rich, for your sake he became poor, so that you by his poverty might become rich \\add [— that is the pattern, and money is only where it touches ground]\\add*.
+\\s1 Give Out of What You Have
+\\p
+\\v 10 And in this I give an opinion, for this is what is useful to you, who a year ago began not only to do it but to want to do it.
+\\v 11 Now complete the doing as well, so that as there was the readiness to want it, so also there may be the completing of it out of what you have.
+\\v 12 For if the readiness is there, it is well received according to what one has, not according to what one does not have\\f + \\fr 8:12 \\ft The same principle governed Israel's offerings: a man who could not afford a lamb brought two birds, and a man who could not afford birds brought flour, and each offering was accepted (Leviticus 5:7-11; 12:8).\\f*.
+\\s1 An Evenness Between You and Them
+\\p
+\\v 13 For it is not that there should be relief for others and affliction for you, but that out of an evenness
+\\v 14 your abundance at the present time should go to their lack, so that their abundance also may go to your lack \\add [— and what they have to send back is not money]\\add* — so that there may be an evenness,
+\\v 15 as it is written: "The one who gathered much had nothing over, and the one who gathered little had no lack."\\f + \\fr 8:15 \\ft Exodus 16:18, of the manna. However much or little each man gathered, when it was measured out no one had a surplus and no one went short — and what was hoarded past the day bred worms.\\f*
+\\s1 The Men We Are Sending, and Why
+\\p
+\\v 16 But thanks be to God, who puts the same earnestness for you in the heart of Titus:
+\\v 17 for he welcomed the appeal, and being all the more earnest, he went out to you of his own will.
+\\v 18 And we sent with him the brother whose praise in the good news runs through all the assemblies\\f + \\fr 8:18 \\ft Paul does not name him, here or at verse 22. The Corinthians evidently knew who was meant.\\f* —
+\\v 19 and not only that, but he was also appointed by the assemblies \\add [i.e. chosen by their own vote, not picked by me]\\add* to travel with us in this favor that is being served by us, for the glory of the Lord himself and for our readiness —
+\\v 20 guarding against this: that no one should find fault with us in this abundance being served by us,
+\\v 21 for we take thought for what is good not only before the Lord but also before men\\f + \\fr 8:21 \\ft Proverbs 3:4. Integrity that only God can see is not enough when a man is carrying other people's money.\\f*.
+\\v 22 And we sent with them our brother whom we have tested many times in many things and found earnest, and who is now much more earnest through his great confidence in you.
+\\v 23 As for Titus, he is my partner and fellow worker for you; as for our brothers, they are apostles of the assemblies \\add [i.e. sent out as their delegates]\\add*, the glory of Christ.
+\\v 24 So show them the proof of your love and of our boasting about you, in the face of the assemblies.
+
+\\c 9
+\\s1 Why I Am Sending the Brothers Ahead
+\\p
+\\v 1 Now concerning the service to the holy ones, it is more than enough for me to write to you;
+\\v 2 for I know your readiness, and I boast about it on your behalf to the Macedonians, that Achaia has been ready since a year ago, and your zeal has stirred up most of them \\add [— I have been holding you up to them as they were held up to you]\\add*.
+\\v 3 But I sent the brothers so that our boasting about you might not be emptied out in this matter — so that, as I was saying, you may be ready;
+\\v 4 or else, if Macedonians come with me and find you unprepared, we — not to say you — would be put to shame in this confidence.
+\\v 5 So I thought it necessary to urge the brothers to go on ahead to you and to arrange in advance the blessing you promised before, so that it may be ready as a blessing and not as something squeezed out of you \\add [— settle it before I arrive, so that nothing about it is under pressure]\\add*.
+\\s1 God Loves a Cheerful Giver
+\\p
+\\v 6 And this: the one who sows sparingly will also reap sparingly, and the one who sows with blessings will also reap with blessings.
+\\v 7 Each one as he has chosen in his heart, not out of grief or out of compulsion; for God loves a cheerful giver\\f + \\fr 9:7 \\ft The line stands in the Greek text of Proverbs 22:8: "God blesses a cheerful man and a giver."\\f*.
+\\v 8 And God is able to make every favor overflow to you, so that in everything, always having all sufficiency, you may overflow into every good work \\add [— enough is given so that there is something to pass on, not so that there is something to sit on]\\add*,
+\\v 9 as it is written: "He scattered wide, he gave to the poor; his righteousness stands forever."\\f + \\fr 9:9 \\ft Psalm 112:9, describing the man who fears the LORD. In that psalm the giving is not evidence of his righteousness alongside other evidence — the giving is the righteousness.\\f*
+\\v 10 And the one who supplies seed to the sower and bread for food\\f + \\fr 9:10 \\ft Isaiah 55:10. Some of what God supplies is bread, to be eaten; some of it is seed, and seed is only any use in the ground.\\f* will supply and multiply your seed and will make the harvest of your righteousness grow.
+\\s1 What Your Giving Sets in Motion
+\\p
+\\v 11 You will be made rich in everything for every kind of open-handedness, which works thanksgiving to God through us.
+\\v 12 For the carrying out of this priestly service\\f + \\fr 9:12 \\ft Greek \\tl leitourgia\\tl*, the word for the priests' service at the tabernacle (Numbers 8:22). A cash collection carried to Jerusalem is being called an act of worship.\\f* is not only filling up what the holy ones lack; it is also overflowing through many thanksgivings to God.
+\\v 13 Through the proof this service gives, they glorify God for the obedience of your confession to the good news of the Christ \\add [— they can see that what you say you believe has cost you something]\\add* and for the open-handedness of your sharing with them and with all;
+\\v 14 and in their prayer for you they long for you because of the surpassing favor of God upon you \\add [— Jewish believers in Judea, longing for Greeks in Corinth they have never met]\\add*.
+\\v 15 Thanks be to God for his gift that no word can tell.
+
+\\c 10
+\\s1 The Weapons We Fight With Are Not Human Ones
+\\p
+\\v 1 Now I myself, Paul, appeal to you through the meekness and gentleness\\f + \\fr 10:1 \\ft Greek \\tl praytēs\\tl*: not timidity but restraint — a man who has power and declines to use it on his own behalf. It is said of Moses (Numbers 12:3) and of the king who comes riding on a donkey (Zechariah 9:9).\\f* of the Christ — I who face to face am lowly among you, but away from you am bold toward you \\add [— their words, not mine]\\add*.
+\\v 2 I beg that when I am present I will not have to be bold with the confidence I reckon on daring to use against some who reckon us as walking according to flesh.
+\\v 3 For though we walk in flesh \\add [i.e. we live in mortal bodies like anyone else]\\add*, we do not wage war according to flesh \\add [i.e. by the world's methods]\\add*.
+\\v 4 For the weapons of our warfare are not fleshly but powerful before God for tearing down strongholds — tearing down reasonings
+\\v 5 and every high thing raised up against the knowledge of God, and taking every thought captive into the obedience of the Christ \\add [— the fight is over what men think, and the prisoners taken are thoughts]\\add*,
+\\v 6 and holding ready to punish every disobedience, once your obedience is filled full \\add [i.e. once the rest of you have come all the way over — I will not move against the few while the many are still deciding]\\add*.
+\\s1 What We Are in Letters We Will Be in Person
+\\p
+\\v 7 You look at what is in front of your face. If anyone is confident in himself that he is Christ's, let him reckon this again with himself: that just as he is Christ's, so also are we.
+\\v 8 For even if I should boast somewhat more about our authority — which the Lord gave for building you up and not for tearing you down — I will not be put to shame,
+\\v 9 so that I may not seem to be frightening you off by my letters.
+\\v 10 For they say, "His letters are weighty and strong, but the presence of his body is weak and his word is worth nothing."\\f + \\fr 10:10 \\ft The charge as it was circulating. A public speaker's bearing, voice, and delivery were held to be inseparable from his authority; a man who did not carry himself well was assumed to have nothing worth hearing.\\f*
+\\v 11 Let such a man reckon this: that what we are in word through letters when absent, that is what we are also in deed when present.
+\\s1 Boasting Only Within the Field God Marked Out for Us
+\\p
+\\v 12 For we do not dare to class ourselves with, or measure ourselves against, some of those who commend themselves. But they, measuring themselves by themselves and comparing themselves with themselves, do not understand \\add [— a ruler they cut to their own length, and every one of them comes out the right size]\\add*.
+\\v 13 We will not boast beyond measure, but according to the measure of the measuring line\\f + \\fr 10:13 \\ft Greek \\tl kanōn\\tl*, a measuring rod, and so the stretch of ground it marks off. Paul means the mission territory God assigned him — which includes Corinth, because he got there first.\\f* that God apportioned to us as our measure — to reach even as far as you.
+\\v 14 For we are not stretching ourselves too far, as though we did not reach you; we came all the way to you with the good news of the Christ.
+\\v 15 We do not boast beyond measure in other men's labors \\add [— which is exactly what has been done to us here]\\add*, but we have hope that as your faithfulness grows we shall be enlarged among you, according to our measuring line, into abundance,
+\\v 16 so as to bring the good news to the regions beyond you, and not to boast in another man's measuring line over things already made ready.
+\\v 17 But "let the one who boasts boast in the Lord."\\f + \\fr 10:17 \\ft Jeremiah 9:23-24, which strikes out boasting in wisdom, in strength, and in wealth, and leaves standing only one thing to boast of: knowing the LORD.\\f*
+\\v 18 For it is not the one who commends himself who is approved, but the one whom the Lord commends.
+
+\\c 11
+\\s1 I Betrothed You to One Husband
+\\p
+\\v 1 I wish you would bear with me in a little foolishness — but indeed you do bear with me.
+\\v 2 For I am jealous over you with the jealousy of God\\f + \\fr 11:2 \\ft God names himself jealous (Exodus 20:5; 34:14) — not petty, but the refusal of a husband under covenant to share his wife with anyone.\\f*; for I betrothed you to one husband\\f + \\fr 11:2 \\ft Jewish betrothal was already legally binding; the bride belonged to her husband through the whole interval before the wedding, and unfaithfulness in that interval counted as adultery. Behind the picture stands the prophets' long use of it for Israel and the LORD (Hosea 2:19-20; Ezekiel 16:8).\\f*, to present you as a pure virgin to the Christ.
+\\v 3 But I fear that somehow, as the serpent deceived Eve by his craftiness\\f + \\fr 11:3 \\ft Genesis 3:1-13. The serpent did not deny God or remove Eve from the garden. It retold what God had said, and left everything else where it was.\\f*, your thoughts may be corrupted away from the singleness and the purity that is toward the Christ.
+\\v 4 For if someone comes and proclaims another Jesus whom we did not proclaim, or you receive a different spirit which you did not receive, or a different good news which you did not accept — you bear with it well enough \\add [— and that is exactly the trouble: for him you have all the patience in the world]\\add*.
+\\v 5 For I reckon that I have fallen short in nothing of the super-apostles\\f + \\fr 11:5 \\ft Paul's own coinage, and sarcastic — something like "the extra-special apostles." By verse 13 he drops the irony and calls them what he thinks they are.\\f*.
+\\v 6 And even if I am untrained in speech \\add [i.e. never schooled as an orator]\\add*, I am not so in knowledge; in every way we have made this plain to you in all things.
+\\s1 Why I Took No Pay from You
+\\p
+\\v 7 Or did I commit a sin in humbling myself so that you might be lifted up, because I proclaimed the good news of God to you free of charge?\\f + \\fr 11:7 \\ft Under the patronage customs of the time, a teacher who accepted a community's support was validated by it and bound to it. Paul's refusal could be read as a snub — or as an admission that he was not a real apostle. The rival teachers appear to have read it both ways.\\f*
+\\v 8 I stripped other assemblies\\f + \\fr 11:8 \\ft The verb is the one for stripping a fallen enemy of his armor. He is being deliberately extravagant: other congregations paid the wages while he worked for Corinth for nothing.\\f*, taking wages from them to serve you;
+\\v 9 and when I was present with you and in need, I was a dead weight on no one, for the brothers who came from Macedonia filled up my lack. In everything I kept myself from being a burden to you, and I will keep myself so.
+\\v 10 As the truth of Christ is in me, this boast of mine will not be blocked off in the regions of Achaia.
+\\v 11 Why? Because I do not love you? God knows.
+\\v 12 But what I do, I will go on doing, so as to cut off the opening of those who want an opening to be found the same as we are in what they boast about \\add [— they would like to say they work on our terms; as long as they take your money and I do not, they cannot]\\add*.
+\\s1 False Apostles in Borrowed Dress
+\\p
+\\v 13 For such men are false apostles, workers of deceit, dressing themselves up as apostles of Christ.
+\\v 14 And no wonder; for Satan himself dresses himself up as an angel of light\\f + \\fr 11:14 \\ft Jewish writings of the period told the garden story with the adversary approaching Eve in the appearance of an angel. The most dangerous enemy does not arrive as darkness.\\f*.
+\\v 15 So it is nothing great if his servants also dress themselves up as servants of righteousness — whose end will be according to their works.
+\\s1 Bear With Me While I Play the Fool
+\\p
+\\v 16 Again I say, let no one think me a fool; but if you do, then receive me as a fool, so that I too may boast a little.
+\\v 17 What I say, I do not say according to the Lord, but as in foolishness, in this confidence of boasting \\add [— I know what boasting is worth; I am doing it because you have left me no other way in]\\add*.
+\\v 18 Since many boast according to flesh, I too will boast.
+\\v 19 For gladly you bear with fools, being wise yourselves!
+\\v 20 For you bear with it if anyone enslaves you, if anyone eats you up, if anyone takes you in his net, if anyone lifts himself over you, if anyone strikes you in the face.
+\\v 21 To my shame I say it: we have been weak \\add [— too weak, apparently, to treat you like that]\\add*. But whatever anyone else dares — I speak in foolishness — I dare too.
+\\s1 What I Have Actually Endured
+\\p
+\\v 22 Are they Hebrews? So am I. Are they Israelites? So am I. Are they seed of Abraham? So am I.
+\\v 23 Are they servants of Christ? — I speak as one out of his mind — I am more: in labors far more, in prisons far more, in beatings beyond measure, in deaths often.
+\\v 24 Five times from the Jews I received forty less one\\f + \\fr 11:24 \\ft The synagogue flogging. Deuteronomy 25:3 capped it at forty strokes, and the practice stopped at thirty-nine so the limit could never be passed by miscount. That he took it five times means he kept walking back into synagogues after each one.\\f*.
+\\v 25 Three times I was beaten with rods \\add [i.e. by the officers of Roman magistrates]\\add*, once I was stoned, three times I was shipwrecked; a night and a day I have spent in the deep.
+\\v 26 In journeys often: dangers of rivers, dangers of robbers, dangers from my own people, dangers from the nations, dangers in the city, dangers in the wilderness, dangers at sea, dangers among false brothers;
+\\v 27 in labor and hardship, in sleepless nights often, in hunger and thirst, going without food often, in cold and nakedness.
+\\v 28 Apart from the things outside, there is the press on me daily: the anxious care for all the assemblies.
+\\v 29 Who is weak, and I am not weak? Who is made to stumble, and I do not burn?
+\\s1 If I Must Boast, I Will Boast in My Weakness
+\\p
+\\v 30 If I must boast, I will boast in the things of my weakness.
+\\v 31 The God and Father of the Lord Jesus, who is blessed forever, knows that I am not lying.
+\\v 32 In Damascus the ethnarch under King Aretas\\f + \\fr 11:32 \\ft Aretas IV ruled the Nabatean kingdom from Petra in the first half of the first century; his officer held authority over the Damascus community. Acts 9:23-25 tells the same escape from the other side.\\f* was guarding the city of the Damascenes in order to seize me,
+\\v 33 and through a window I was let down in a basket through the wall, and I escaped his hands \\add [— there is my one great feat of arms: a man posted out through a hole in a wall]\\add*.
+
+\\c 12
+\\s1 Caught Up to the Third Heaven
+\\p
+\\v 1 I must boast; it does no good, but I will come to visions and unveilings of the Lord.
+\\v 2 I know a man in Christ \\add [i.e. myself, though I would rather not put it that way]\\add* who fourteen years ago — whether in the body I do not know, or outside the body I do not know, God knows — such a man was snatched away as far as the third heaven\\f + \\fr 12:2 \\ft Jewish reckoning of the time gave heaven layers, the highest being where God dwells. Verse 4 names the same place paradise — the word the Greek scriptures use for the garden in Eden (Genesis 2:8), and by this period for the place of the righteous with God.\\f*.
+\\v 3 And I know that this man — whether in the body or apart from the body I do not know, God knows —
+\\v 4 was snatched away into the paradise and heard words that cannot be spoken, which a man is not permitted to say \\add [— so the one credential that would settle everything is the one I am forbidden to produce]\\add*.
+\\v 5 On behalf of such a man I will boast; but on behalf of myself I will not boast, except in the weaknesses.
+\\v 6 For if I should want to boast, I will not be a fool, since I will be speaking the truth. But I hold back, so that no one may reckon me to be more than what he sees in me or hears from me,
+\\v 7 and because of the surpassing greatness of the unveilings. Therefore, so that I would not be lifted up, a thorn in the flesh\\f + \\fr 12:7 \\ft The phrase comes from the Torah, where thorns are never illnesses but hostile people left in the land to harass Israel (Numbers 33:55; Joshua 23:13; Ezekiel 28:24). "Messenger" likewise can mean a human agent as easily as a spirit. Paul never says what his was.\\f* was given to me, a messenger of Satan, to beat me with his fists, so that I would not be lifted up.
+\\s1 My Favor Is Enough for You
+\\p
+\\v 8 About this I appealed to the Lord three times, that it would leave me.
+\\v 9 And he has said to me, "My favor is enough for you, for power is brought to completion in weakness." So most gladly I will boast all the more in my weaknesses, that the power of the Christ may pitch its tent over me\\f + \\fr 12:9 \\ft The verb is built on the word for a tent — the picture of God's presence settling over the tabernacle. The thorn was not taken away; the presence was added on top of it.\\f*.
+\\v 10 Therefore I am well pleased in weaknesses, in insults, in hardships, in persecutions and narrow places, for the sake of Christ; for whenever I am weak, then I am powerful.
+\\s1 You Should Have Been the Ones to Commend Me
+\\p
+\\v 11 I have become a fool; you compelled me \\add [— this whole performance is yours, not mine]\\add*. For I ought to have been commended by you, since I fell short in nothing of the super-apostles, even if I am nothing.
+\\v 12 The signs of the apostle were worked out among you in all endurance — signs and wonders and works of power.
+\\v 13 For in what were you made less than the rest of the assemblies, except that I myself was not a dead weight on you? Forgive me this wrong! \\add [— if that is what you want to call it]\\add*
+\\s1 I Want You, Not What Is Yours
+\\p
+\\v 14 Look, this is the third time I am ready to come to you, and I will not be a dead weight; for I do not seek what is yours but you. For children ought not to lay up for the parents, but the parents for the children \\add [— and I am your father in this]\\add*.
+\\v 15 And I will most gladly spend and be spent out for your lives. If I love you all the more, am I to be loved less?
+\\v 16 But let it stand: I did not weigh you down. Yet being crafty, I took you by trickery! \\add [— so the story goes: he took no money himself, but he got it another way]\\add*
+\\v 17 Did I take advantage of you through any of those I have sent to you?
+\\v 18 I urged Titus to go, and I sent the brother with him. Did Titus take advantage of you? Did we not walk by the same spirit? In the same footsteps?
+\\s1 What I Am Afraid I Will Find When I Come
+\\p
+\\v 19 All this time you have been thinking that we are defending ourselves to you \\add [— as though you were the bench and I were in the dock]\\add*. Before God, in Christ, we speak; and all of it, beloved, is for your building up.
+\\v 20 For I fear that when I come I may not find you as I want, and I may be found by you as you do not want — that there may be strife, jealousy, bursts of anger, rivalries, slanders, whisperings, swellings of pride, disorders;
+\\v 21 that when I come again my God may humble me before you, and I may mourn over many who sinned before and did not turn back from the uncleanness and sexual immorality and shamelessness that they practiced \\add [— the sinning is not the whole of what I dread; it is that it still stands unrepented]\\add*.
+
+\\c 13
+\\s1 This Third Visit I Will Not Spare
+\\p
+\\v 1 This is the third time I am coming to you. "By the mouth of two witnesses and of three every word shall stand."\\f + \\fr 13:1 \\ft Deuteronomy 19:15, the safeguard against a charge resting on one accuser. Warned in person on the second visit, warned again now in writing, they will have had their testimonies when he arrives — and he will follow the procedure rather than act on his own say-so.\\f*
+\\v 2 I have said it before, and I say it beforehand now — as when I was present the second time, so now while absent — to those who sinned before and to all the rest: that if I come again I will not spare \\add [— I spared you once, and that is why I did not come]\\add*,
+\\v 3 since you are seeking a proof of the Christ speaking in me. He is not weak toward you; he is powerful among you.
+\\v 4 For indeed he was crucified out of weakness, but he lives out of the power of God. For we also are weak in him, but we shall live with him out of the power of God toward you \\add [— you have seen the first half of that pattern in me; do not assume the second half is missing]\\add*.
+\\s1 Test Yourselves
+\\p
+\\v 5 Test yourselves, whether you are in the faithfulness; prove yourselves. Or do you not recognize about yourselves that Jesus Christ is in you? — unless you fail the test\\f + \\fr 13:5 \\ft The verb belongs to the assayer, testing a coin for genuineness. He expects them to pass — and that is the trap. If Christ is in them, he came there through the ministry they are now demanding proof of.\\f*.
+\\v 6 But I hope you will know that we do not fail the test.
+\\v 7 And we pray to God that you do nothing evil — not so that we may appear to have passed, but so that you may do what is good, even if we should look like those who fail \\add [i.e. if your doing right leaves me no occasion to show any power at all, let them say I had none]\\add*.
+\\v 8 For we can do nothing against the truth, but only for the truth.
+\\v 9 For we rejoice whenever we are weak and you are powerful; and this is what we pray for, your mending\\f + \\fr 13:9 \\ft The word is used of mending nets and setting a broken bone: putting back into working order something that was whole and has been torn.\\f*.
+\\v 10 This is why I write these things while absent: so that when present I may not have to deal sharply, according to the authority the Lord gave me for building up and not for tearing down.
+\\s1 Final Words and Blessing
+\\p
+\\v 11 For the rest, brothers, rejoice, be mended, be comforted, be of the same mind, be at peace; and the God of love and peace will be with you.
+\\v 12 Greet one another with a holy kiss\\f + \\fr 13:12 \\ft The standing greeting among the assemblies (Romans 16:16; 1 Thessalonians 5:26) — and in a congregation this divided, an act with some cost to it.\\f*.
+\\v 13 All the holy ones greet you.
+\\v 14 The favor of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all \\add [— all of you, the ones I have warned along with the rest]\\add*.
+`;
