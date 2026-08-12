@@ -1,0 +1,190 @@
+const USFM = `\\id 1TI - Restored Context Bible (RCB)
+\\usfm 3.0
+\\ide UTF-8
+\\h 1 Timothy
+\\toc1 The First Letter of Paul to Timothy
+\\toc2 1 Timothy
+\\toc3 1Ti
+\\mt1 1 Timothy
+
+\\imt Introduction
+\\ip This is a letter from Paul to Timothy, a younger co-worker he has left behind in Ephesus while he himself travels on into Macedonia (1:3). Ephesus was the leading city of the Roman province of Asia, in what is now western Turkey — a commercial center built around the temple of Artemis, one of the largest religious institutions in the Mediterranean world. The date is somewhere in the early-to-mid sixties of the first century.
+\\ip Timothy is not there on a general assignment. Certain men in the assembly are teaching something other than what Paul taught, building speculative systems out of the genealogies and narratives of Israel's scriptures and claiming the standing of Torah experts while understanding neither their material nor their own assertions (1:3-7). What they teach also forbids marriage and requires keeping away from certain foods (4:3) — a program that treats what God made as the obstacle standing between a man and God. Two of these men, Hymenaeus and Alexander, have already been put out (1:20), and others have gone after them.
+\\ip So the letter is a mandate: a written commission from an absent authority to the delegate acting in his place, meant to be read aloud in front of the people Timothy has to govern. That is why it opens by asserting an apostleship Timothy himself never doubted. Its stated purpose is set down at 3:14-15 — so that Timothy will know how people are to conduct themselves in God's household.
+\\ip What follows is practical throughout: how the assembly prays, who may lead it and what such men must be, how widows are supported and elders paid and accusations handled, what slaves owe their masters and what the wealthy owe everyone else. Underneath all of it runs one persistent alarm. Six times in six chapters the letter reports people who were inside the faith and are no longer in it — they missed the mark, were shipwrecked, stood away, strayed, wandered off, shot wide. The letter exists because that is happening.
+
+\\c 1
+\\s1 Greeting
+\\p
+\\v 1 Paul, one sent\\f + \\fr 1:1 \\ft Greek \\tl apostolos\\tl*: an emissary who carries the full authority of the one who sent him. The phrase that follows, "by the command" (Greek \\tl epitagē\\tl*), is the language of a binding official order — this commission was issued to Paul, not taken up by him.\\f* of the Christ Jesus by the command of God our Rescuer\\f + \\fr 1:1 \\ft Greek \\tl sōtēr\\tl*, "savior, deliverer." In Israel's scriptures the title is never abstract; it sums up a record of God getting his people out — of Egypt, of exile, of the hands of enemies (Deuteronomy 32:15; Isaiah 45:15, 21). In the Roman world it was also a standing title of the emperor.\\f* and of the Christ Jesus our hope,
+\\v 2 to Timothy, a true-born child in faithfulness\\add [i.e. my own son in this, not by birth but because I brought him to trust]\\add*: favor, mercy, peace\\f + \\fr 1:2 \\ft Paul's standing greeting is "favor and peace." Only here and in 2 Timothy does he add "mercy," and mercy is the word this chapter turns on (vv. 13, 16).\\f* from God the Father and the Christ Jesus our Lord.
+\\s1 Why You Are Still in Ephesus
+\\p
+\\v 3 Just as I urged you when I was going into Macedonia, stay on in Ephesus so that you may charge certain ones not to teach a different teaching\\f + \\fr 1:3 \\ft Greek \\tl heterodidaskalein\\tl*, a word not found before this letter. Greek distinguishes \\tl allos\\tl*, another of the same kind, from \\tl heteros\\tl*, another of a different kind. What these men teach is not a variation on the good news but a different species from it.\\f*,
+\\v 4 nor to give themselves to tales and endless genealogies\\f + \\fr 1:4 \\ft Not the genealogies of the scriptures themselves, but the speculative systems built on them — chains of hidden wisdom traced through bloodlines, angelic figures identified with patriarchs, Genesis retold with elaborate frameworks. Titus 1:14 calls the same material "Jewish tales."\\f*, which supply questionings rather than God's management of his household, which is in faithfulness \\add [i.e. which is taken hold of by trusting him, not by investigating him]\\add*.
+\\v 5 The goal of the charge is love out of a clean heart and a good conscience and faithfulness without pretense \\add [i.e. trust with no mask on it]\\add*.
+\\v 6 Some have missed the mark of these things \\add [— those three are the target, and they have shot wide of it]\\add* and have turned aside into empty talk,
+\\v 7 wanting to be teachers of Torah \\add [i.e. wanting the standing of a recognized authority on the Law]\\add*, understanding neither what they are saying nor the things about which they insist so firmly.
+\\s1 What the Torah Is Actually For
+\\p
+\\v 8 Now we know that the Torah is good, if a man uses it the way Torah is meant to be used\\f + \\fr 1:8 \\ft The pun is in the Greek: \\tl nomos\\tl* used \\tl nomimōs\\tl* — the law used law-fully, for the purpose it was given for.\\f*,
+\\v 9 knowing this: that Torah is not laid down for a righteous man \\add [i.e. its restraints are aimed at the man who needs restraining]\\add*, but for the lawless and the unruly, for the irreverent and sinners, for the unholy and the profane, for those who strike their fathers and those who strike their mothers\\f + \\fr 1:9 \\ft From here the list runs in the order of the Ten Words: striking a parent (the fifth — Exodus 21:15), murderers (the sixth), the sexually immoral (the seventh), man-stealers (the eighth in its worst form — Exodus 21:16; Deuteronomy 24:7), liars and false-swearers (the ninth). Paul is demonstrating command of the Torah these men claim to teach.\\f*, for murderers,
+\\v 10 for the sexually immoral, for men who lie with males\\f + \\fr 1:10 \\ft Greek \\tl arsenokoitēs\\tl*, a compound apparently built from the Greek wording of Leviticus 18:22 and 20:13 — \\tl arsēn\\tl*, "male," and \\tl koitē\\tl*, "lying" — which read "with a male you shall not lie the lying of a woman."\\f*, for man-stealers \\add [i.e. those who seize people and sell them]\\add*, for liars, for false-swearers — and for whatever else stands against the healthy teaching\\f + \\fr 1:10 \\ft This letter's standing image for right teaching is health (also 6:3; 2 Timothy 1:13; Titus 1:9). Its opposite is not merely error but disease — teaching that makes the people who take it in sick.\\f*,
+\\v 11 according to the good news of the glory of the blessed God, with which I was entrusted \\add [i.e. it was put into my hands to keep, not handed to me to do with as I please]\\add*.
+\\s1 Mercy Shown to the Worst Case There Was
+\\p
+\\v 12 I am grateful to the one who put power in me, the Christ Jesus our Lord, because he counted me trustworthy, placing me into service —
+\\v 13 me, who before that was a blasphemer and a persecutor and an insolent man. But I was shown mercy, because I acted in ignorance, without trust\\f + \\fr 1:13 \\ft The Torah divides sin done unwittingly, for which atonement is provided, from sin done "with a high hand," for which it is not (Numbers 15:27-31). Paul is not excusing what he did — he has just named it — but placing it in the category where mercy was still available. The contrast with verse 19 is deliberate: those men knew, and shoved it away anyway.\\f*;
+\\v 14 and the favor of our Lord overflowed beyond all measure, with faithfulness and love that are in the Christ Jesus.
+\\v 15 Trustworthy is the word\\f + \\fr 1:15 \\ft A formula used five times in these letters (also 3:1; 4:9; 2 Timothy 2:11; Titus 3:8). It marks what follows as a saying already in circulation and already tested, not something Paul is coining on the spot.\\f*, and worthy of every acceptance: that the Christ Jesus came into the world to rescue sinners — of whom I am first \\add [— am, not was; I have never stopped being the case that proves it]\\add*.
+\\v 16 But for this reason I was shown mercy: so that in me first the Christ Jesus might display the whole of his long-suffering, as a pattern for those who are going to trust in him for the life of the age \\add [i.e. so that anyone afterward can look at me and know how far it reaches]\\add*.
+\\v 17 To the King of the ages, incorruptible, unseen, the only God\\f + \\fr 1:17 \\ft The confession of Deuteronomy 6:4 — "the LORD our God, the LORD is one" — said of a city organized around the temple of Artemis.\\f*, be honor and glory into the ages of the ages. Amen.
+\\s1 The Charge Handed Over, and Two Who Threw It Away
+\\p
+\\v 18 This charge I place in your keeping, child Timothy, in line with the prophecies that went ahead of you \\add [i.e. what was spoken over you when you were set apart for this]\\add*, so that by them you may wage the good campaign \\add [— this is a war, and they are your orders]\\add*,
+\\v 19 holding on to faithfulness and a good conscience — which some have shoved away from themselves \\add [i.e. deliberately, with both hands; no one took it from them]\\add*, and concerning the faith they have been shipwrecked \\add [— put the conscience over the side and the trust goes down with it]\\add*.
+\\v 20 Among them are Hymenaeus and Alexander, whom I handed over to Satan, so that they may be trained not to blaspheme.\\f + \\fr 1:20 \\ft The same measure Paul directs at Corinth (1 Corinthians 5:5): expulsion from the assembly's protection out into the territory where Satan operates. The stated aim there and here is corrective — the Greek verb, \\tl paideuō\\tl*, is the ordinary word for raising and schooling a child.\\f*
+
+\\c 2
+\\s1 Pray for Everyone, the Emperor Included
+\\p
+\\v 1 So then, first of all, I urge that petitions, prayers, intercessions, thanksgivings \\add [i.e. every kind of praying there is]\\add* be made on behalf of all men,
+\\v 2 on behalf of kings and all who are in high place\\f + \\fr 2:2 \\ft Israel had long prayed for the pagan rulers it lived under: "seek the welfare of the city where I have sent you into exile, and pray to the LORD on its behalf" (Jeremiah 29:7); so also Ezra 6:10 and Baruch 1:11-12.\\f*, so that we may lead a calm and quiet life in all reverence for God and dignity \\add [i.e. we are not asking for power over anyone, only for room to live]\\add*.
+\\v 3 This is good and welcome before God our Rescuer\\f + \\fr 2:3 \\ft The emperor was hailed as \\tl sōtēr\\tl*, savior of the world. This assembly prays for the king and calls God its Rescuer, and the order of those two is the whole point.\\f*,
+\\v 4 who wants all men to be rescued \\add [— all of them, with no group left outside the reach of it]\\add* and to come to a full knowing of the truth.
+\\v 5 For God is one\\f + \\fr 2:5 \\ft The Shema, Deuteronomy 6:4. Paul draws the same consequence from it elsewhere: if there is only one God, he is not the God of one nation only (Romans 3:29-30).\\f*, and one also is the one who stands between God and men\\f + \\fr 2:5 \\ft Greek \\tl mesitēs\\tl*, one who stands between two parties and bridges the gap. Moses filled that role at Sinai — "I stood between the LORD and you" (Deuteronomy 5:5) — and Job longed for one and had none (Job 9:33).\\f* — a man, the Christ Jesus \\add [— a man; he stands on our side of the gap]\\add*,
+\\v 6 who gave himself as a ransom in exchange for all\\f + \\fr 2:6 \\ft Greek \\tl antilytron\\tl*, found nowhere else. A \\tl lytron\\tl* was the price paid to release a captive or a slave (Leviticus 25:51-52), and the word carries Israel's memory of being bought out of Egypt (Isaiah 43:1-3). The Lord's own saying used the simpler form, "a ransom for many" (Mark 10:45); here it is for all.\\f* — the testimony, at its own times \\add [i.e. the proof of it, delivered at the moment God had set]\\add*.
+\\v 7 For this I was appointed a herald and one sent — I am telling the truth, I am not lying\\f + \\fr 2:7 \\ft The oath is startling in a letter to a close associate. It suggests that what Paul is claiming here — a commission to the nations — was being disputed in Ephesus, which is exactly what a teaching built on genealogies and bloodlines would dispute.\\f* — a teacher of the nations in faithfulness and truth.
+\\s1 How the Men Are to Pray, and How the Women Are to Dress
+\\p
+\\v 8 So I want the men in every place to pray, lifting up holy hands\\f + \\fr 2:8 \\ft The ancient posture of prayer in Israel (Psalm 28:2; 63:4; 134:2; 141:2). "Holy" describes not washed hands but hands belonging to a life given to God.\\f*, without anger and without arguing \\add [i.e. the quarrel has to be settled before the hands go up]\\add*.
+\\v 9 Likewise the women: that they order themselves in orderly dress, with modesty and a sound mind, not with braided hair and gold or pearls or costly clothing\\f + \\fr 2:9 \\ft These are the markers of rank. An elaborate hairdress took hours of a slave's labor and was worked with gold thread and jewels. Isaiah had itemized the same inventory in his indictment of the daughters of Zion (Isaiah 3:16-24). In Ephesus, a city organized around the wealth of the Artemision, such display would have walked into the room with the wearer.\\f*,
+\\v 10 but with what fits women who profess reverence for God — through good works \\add [i.e. let that be what people see on you]\\add*.
+\\s1 Let a Woman Learn
+\\p
+\\v 11 Let a woman learn\\f + \\fr 2:11 \\ft The command is that she learn, and in this world that was not assumed. Rabbi Eliezer, of roughly this period, is recorded as saying that a man who teaches his daughter Torah teaches her lechery (Mishnah, Sotah 3:4). What is restricted in the next verse is the manner, not the learning.\\f* in quietness \\add [i.e. the settled attentiveness of someone taking instruction in, not the silence of someone forbidden to speak]\\add*, in all submission.
+\\v 12 I do not permit a woman to teach, or to take authority over a man\\f + \\fr 2:12 \\ft Greek \\tl authentein\\tl*, a verb found nowhere else in the New Testament and rare anywhere. It is not the ordinary word for holding authority — \\tl exousiazein\\tl* or \\tl proistanai\\tl*, both of which Paul uses elsewhere. An \\tl authentēs\\tl* is one who acts on his own say-so: a master, an autocrat. The unusual word may be aimed at a particular behavior rather than at office as such.\\f*, but to be in quietness.
+\\v 13 For Adam was formed first, then Eve.
+\\v 14 And Adam was not deceived, but the woman, thoroughly deceived, came to be in transgression.\\f + \\fr 2:14 \\ft The verb is the intensified form Paul uses of the serpent and Eve at 2 Corinthians 11:3, where he warns a whole assembly, men included, that the same thing is being done to them. Here the parallel is pointed: what was done to Eve is being done to women in Ephesus (compare 2 Timothy 3:6).\\f*
+\\v 15 But she will be rescued through the childbearing\\f + \\fr 2:15 \\ft The Greek has the definite article: "the childbearing," not childbearing in general. After a paragraph on Genesis 2-3, the nearest referent is the promise of Genesis 3:15 — that the woman's offspring would crush the serpent's head. She is rescued as everyone is, through the one born of a woman. The statement also stands against teachers in Ephesus who forbid marriage outright (4:3), and it matches the instruction to younger widows at 5:14.\\f*, if they remain in faithfulness and love and holiness, with a sound mind.\\f + \\fr 2:15 \\ft The sentence turns from singular to plural here — "she will be rescued... if they remain" — moving from the one woman of the Genesis account to the women of the assembly.\\f*
+
+\\c 3
+\\s1 What an Overseer Must Be
+\\p
+\\v 1 Trustworthy is the word: if anyone reaches out for oversight\\f + \\fr 3:1 \\ft Greek \\tl episkopē\\tl*, the function of watching over. The word was ordinary civic vocabulary — an \\tl episkopos\\tl* audited accounts, supervised public works, or managed a temple's affairs. Acts 20:17, 28 and Titus 1:5-7 show that in these assemblies "overseer" and "elder" name the same men: one word for what they do, the other for who they are.\\f*, he desires a good work \\add [— a work, note, not a rank]\\add*.
+\\v 2 So the overseer must be above reproach, the husband of one wife\\f + \\fr 3:2 \\ft Literally "a one-woman man." The standard is put positively rather than as a list of exclusions; polygamy, concubinage, and serial divorce were all live possibilities in this world. The mirror phrase, "the wife of one husband," is required of enrolled widows at 5:9.\\f*, clear-headed, sound-minded, orderly, welcoming to strangers, able to teach \\add [— he will have to hold the room against men who teach otherwise]\\add*,
+\\v 3 not one who sits long over wine, not a striker, but forbearing, not a fighter, not a lover of money,
+\\v 4 managing his own household well, keeping his children in submission with all dignity \\add [i.e. order kept by the weight of his own character, not by force]\\add*
+\\v 5 — for if a man does not know how to manage his own household, how will he take care of God's assembly? —
+\\v 6 not newly planted \\add [i.e. not lately come to the faith, with no root down yet]\\add*, so that he may not be puffed up and fall into the judgment of the devil.\\f + \\fr 3:6 \\ft Either the sentence the devil himself fell under or the one he engineers; both readings work, and pride is the hinge of both.\\f*
+\\v 7 He must also have a good witness from those outside, so that he may not fall into disgrace and into the snare of the devil \\add [i.e. once a man is disgraced he is held, and everything after that can be used against him]\\add*.
+\\s1 What Those Who Serve Must Be
+\\p
+\\v 8 Servants likewise\\f + \\fr 3:8 \\ft Greek \\tl diakonoi\\tl*, those who do the practical work of the assembly — a role, not a rank. Paul greets them alongside overseers at Philippians 1:1, and names Phoebe as one at Romans 16:1.\\f*: dignified, not double-tongued, not giving themselves to much wine, not greedy for shameful gain,
+\\v 9 holding the secret of the faith \\add [i.e. what God kept hidden and has now told out — set down in full at the end of this chapter]\\add* with a clean conscience.
+\\v 10 And let these also be tested first \\add [i.e. watched a while before they are handed anything]\\add*; then let them serve, if they are without accusation.
+\\v 11 Women likewise\\f + \\fr 3:11 \\ft The Greek word means both "women" and "wives," and there is no "their" in the text. Since the same word "likewise" introduced the servants at verse 8, this may be a third group — women who serve — rather than servants' wives. Phoebe is called a servant of the assembly at Cenchreae (Romans 16:1), and Pliny, writing to Trajan around 112, reports interrogating two slave women the believers called ministers. The text does not settle it.\\f*: dignified, not slanderers, clear-headed, faithful in everything.
+\\v 12 Let servants be husbands of one wife, managing their children and their own households well.
+\\v 13 For those who serve well gain for themselves a good standing\\f + \\fr 3:13 \\ft Greek \\tl bathmos\\tl*, a step or footing — a solid place to stand, not a rung climbed to.\\f* and much boldness \\add [i.e. they can speak up with nothing to hide]\\add* in the faithfulness that is in the Christ Jesus.
+\\s1 Why Any of This Matters: This Is God's House
+\\p
+\\v 14 These things I write to you, hoping to come to you soon;
+\\v 15 but if I am slow, so that you may know how one must conduct himself in God's household\\f + \\fr 3:15 \\ft Greek \\tl oikos theou\\tl*, which in Israel's scriptures is the temple. Both senses are working: the assembly is God's family, ordered like a household, and it is the place where God now dwells.\\f*, which is the assembly of the living God, pillar and foundation of the truth \\add [i.e. the truth needs something to hold it up and keep it standing, and this is it]\\add*.
+\\v 16 And by common confession\\f + \\fr 3:16 \\ft What follows is a confession the assemblies already said or sang; Paul quotes it rather than composes it. Its six lines move back and forth between earth and heaven — flesh and spirit, angels and nations, world and glory.\\f*, great is the secret of reverence for God: He was made visible in flesh, set right in spirit \\add [i.e. shown to have been in the right all along, when God raised him]\\add*, seen by angels, heralded among the nations, trusted in the world, taken up in glory.
+
+\\c 4
+\\s1 The Spirit Has Said Plainly That Some Will Stand Away
+\\p
+\\v 1 But the Spirit says in so many words that in later seasons\\f + \\fr 4:1 \\ft Not "the last days" — the Greek says simply "later times," later than now. Two men have already gone (1:19-20) and some have already strayed (5:15). The prophecy describes the weather Timothy is standing in.\\f* some will stand away from the faith \\add [— stand away from it, which is what men do who were once standing in it]\\add*, giving themselves to spirits that lead astray and to teachings of demons,
+\\v 2 through the pretense of men who speak lies, their own conscience seared with a hot iron\\f + \\fr 4:2 \\ft The verb is the surgeon's: cauterizing, burning a surface until it can no longer feel. What was shoved away at 1:19 has now been burned dead. And it is their own conscience — no one else held the iron.\\f*,
+\\v 3 who forbid marrying and require keeping away from foods \\add [i.e. they treat what God made as the thing standing between a man and God]\\add* that God created to be received with thanksgiving by those who trust and have come to know the truth fully.
+\\v 4 For everything God created is good\\f + \\fr 4:4 \\ft The wording is the verdict of Genesis 1, where after each act God saw that it was good, and at the end, very good (Genesis 1:31).\\f*, and nothing is to be thrown away when it is received with thanksgiving,
+\\v 5 for it is made holy through God's word and intercession \\add [i.e. God has already called it good, and the blessing said over the table says it back to him]\\add*.
+\\s1 Train Yourself the Way an Athlete Trains
+\\p
+\\v 6 If you set these things before the brothers, you will be a good servant of the Christ Jesus, fed on the words of the faith and of the good teaching that you have followed closely.
+\\v 7 But have nothing to do with profane tales fit for old women\\f + \\fr 4:7 \\ft A stock dismissal in the period; Epictetus uses the same word of fears "worthy of old women." It files the tales under nursery superstition rather than revelation.\\f*. Train yourself instead toward reverence for God \\add [i.e. put yourself through what an athlete puts himself through]\\add*.
+\\v 8 For bodily training is useful for a little \\add [— and bodily training is the whole of what they are selling]\\add*, but reverence for God is useful for everything, holding a promise of life — the life now and the life that is coming.
+\\v 9 Trustworthy is the word, and worthy of every acceptance.
+\\v 10 For to this end we toil and contend, because we have set our hope on the living God, who is the Rescuer of all men, especially of those who trust.\\f + \\fr 4:10 \\ft The Greek \\tl malista\\tl* means "most of all," not "only" (compare Galatians 6:10). The reach is all men; the place where the rescue actually lands is among those who trust.\\f*
+\\s1 What Timothy Is to Do Until Paul Comes
+\\p
+\\v 11 Charge these things and teach them.
+\\v 12 Let no one look down on your youth\\f + \\fr 4:12 \\ft In a world where authority followed age, a delegate younger than the men he had to correct stood at a permanent disadvantage. Timothy was likely in his thirties; by Roman reckoning a man was "young" until about forty.\\f*; instead, become a pattern for those who trust — in word, in the way you live, in love, in faithfulness, in purity.
+\\v 13 Until I come, give your attention to the reading \\add [i.e. the public reading of the scriptures when the assembly gathers]\\add*, to the urging, to the teaching.
+\\v 14 Do not neglect the gift in you, which was given you through prophecy, with the laying on of the hands of the body of elders.\\f + \\fr 4:14 \\ft The gesture by which Israel commissioned — Moses laid hands on Joshua (Numbers 27:18-23) — and by which these assemblies did the same (Acts 6:6; 13:3). The elders did not confer the gift; they recognized it and set him apart in public.\\f*
+\\v 15 Practice these things; be in them \\add [i.e. live inside them; do not visit them]\\add*, so that your progress may be plain to all.
+\\v 16 Keep your eye on yourself and on the teaching. Stay with them; for by doing this you will rescue both yourself and those who hear you \\add [— both: your own rescue rides on this too, not only theirs]\\add*.
+
+\\c 5
+\\s1 Treat the Assembly as a Family
+\\p
+\\v 1 Do not lash out at an older man, but urge him on as a father; younger men as brothers,
+\\v 2 older women as mothers, younger women as sisters, in all purity.
+\\s1 Which Widows the Assembly Supports
+\\p
+\\v 3 Honor widows\\f + \\fr 5:3 \\ft To honor, in this world, is to provide. The same verb carries the fifth commandment's demand that grown children keep their parents, and at verse 17 it plainly includes pay. Israel's law had always set the widow, the orphan, and the foreigner together as the defenseless (Deuteronomy 10:18; 24:17-21; Exodus 22:22-24).\\f* — the ones who are really widows \\add [i.e. the ones with no one else]\\add*.
+\\v 4 But if any widow has children or grandchildren, let them learn first to show reverence toward their own household and to pay back what is owed to their forebears \\add [i.e. this is a debt being repaid, not charity being handed out]\\add*; for this is welcome before God.
+\\v 5 She who is really a widow, and left alone, has set her hope on God and stays on in petitions and prayers night and day;
+\\v 6 but she who lives for pleasure is dead while she lives.
+\\v 7 Charge these things too, so that they may be above reproach.
+\\v 8 But if anyone does not provide for his own, and especially for those of his own house, he has denied the faith and is worse than one who does not trust \\add [— worse, because even men who know nothing of God feed their own]\\add*.
+\\s1 Enrolling a Widow, and Why Not the Young Ones
+\\p
+\\v 9 Let a widow be enrolled\\f + \\fr 5:9 \\ft The assembly kept an actual register; the verb is the one used for entering a name on an official roll. Enrollment appears to have carried a pledge (v. 12) — support given in exchange for a life handed over to prayer and service.\\f* if she is not less than sixty years old, the wife of one husband,
+\\v 10 spoken well of for good works: if she brought up children, if she took in strangers, if she washed the feet of the holy ones \\add [i.e. did the slave's job for them and never thought it beneath her]\\add*, if she came to the aid of those under pressure, if she followed hard after every good work.
+\\v 11 But refuse younger widows; for when their desires pull them away from the Christ, they want to marry \\add [— and there is nothing wrong with wanting to marry; the trouble is the pledge]\\add*,
+\\v 12 and they bring judgment on themselves, because they set aside their first faithfulness \\add [i.e. the pledge they gave when their name went on the roll]\\add*.
+\\v 13 At the same time they learn to be idle, going around from house to house — and not only idle, but babblers and busybodies, saying what they should not \\add [— and in this city, carrying the wrong teaching from door to door]\\add*.
+\\v 14 So I want younger widows to marry, to bear children, to rule their own houses \\add [i.e. to run a household with real authority in it, as its master]\\add*, to give the one who opposes us no foothold for abuse.
+\\v 15 For some have already turned aside after Satan.
+\\v 16 If any woman who trusts has widows, let her come to their aid, and let the assembly not be weighed down \\add [i.e. the fund is finite; families first]\\add*, so that it may come to the aid of those who are really widows.
+\\s1 Elders: Support, Accusations, and Judging Without Leaning
+\\p
+\\v 17 Let the elders who lead well be counted worthy of double honor\\f + \\fr 5:17 \\ft Honor here includes pay, as the next verse settles with two texts about wages. "Double" sets these elders above the ordinary measure of support the assembly gives.\\f*, especially those who toil in word and teaching.
+\\v 18 For the Scripture says, "You shall not muzzle an ox while it treads out the grain," and, "The worker is worthy of his wages."\\f + \\fr 5:18 \\ft The first is Deuteronomy 25:4 — the ox that threshes eats as it works. The second is a saying of the Lord, recorded at Luke 10:7. Paul introduces both with the same words: "the Scripture says."\\f*
+\\v 19 Do not take in an accusation against an elder except on the word of two or three witnesses.\\f + \\fr 5:19 \\ft Deuteronomy 19:15. A leader who corrects people makes enemies; without the rule, one aggrieved man could stop him.\\f*
+\\v 20 Those who go on sinning, expose before all, so that the rest also may have fear.
+\\v 21 I testify solemnly before God and the Christ Jesus and the chosen angels\\f + \\fr 5:21 \\ft Angels who kept their place, as against those who did not (compare 2 Peter 2:4; Jude 6). Timothy's rulings are being set before the heavenly court.\\f*: guard these things without judging beforehand, doing nothing by leaning to one side \\add [i.e. no favors for friends, no scores settled with anyone]\\add*.
+\\s1 Take Your Time; Character Comes Out
+\\p
+\\v 22 Do not lay hands on anyone quickly \\add [i.e. do not commission a man before you know him]\\add*, and do not share in the sins of others \\add [— appoint him too soon and what he then does is partly yours]\\add*. Keep yourself clean.
+\\v 23 No longer drink only water; use a little wine because of your stomach and your frequent weaknesses.\\f + \\fr 5:23 \\ft The aside sits where it does for a reason. Timothy has just been told to keep himself clean, and Paul does not want that heard as the asceticism of 4:3. Purity is not self-punishment, and a sick man should take the remedy.\\f*
+\\v 24 The sins of some men are out in the open, going ahead of them into judgment; but with others they follow behind.
+\\v 25 Likewise the good works are also out in the open, and the ones that are not cannot stay hidden \\add [i.e. wait, and you will know what a man is]\\add*.
+
+\\c 6
+\\s1 Slaves and Their Masters
+\\p
+\\v 1 As many as are slaves under a yoke\\f + \\fr 6:1 \\ft Between a quarter and a third of a city like Ephesus was enslaved. "Under a yoke" is the language Israel's scriptures use for bondage and its weight (Leviticus 26:13; Deuteronomy 28:48); the phrase does not call the condition good.\\f*, let them count their own masters worthy of all honor, so that the name of God and the teaching may not be blasphemed.\\f + \\fr 6:1 \\ft Israel had learned this at cost: "my name is blasphemed continually all day long among the nations" (Isaiah 52:5; see Ezekiel 36:20-23; Romans 2:24). A believing slave who turned insubordinate would not be judged alone — the verdict would fall on the teaching and on God.\\f*
+\\v 2 Those who have masters who trust must not look down on them because they are brothers; rather, let them serve all the more, because those who take hold of the good service are ones who trust and are loved \\add [— the man getting the benefit of your work is your brother, so do it better, not worse]\\add*. Teach these things and urge them.
+\\s1 The Different Teaching and What It Comes To
+\\p
+\\v 3 If anyone teaches a different teaching\\f + \\fr 6:3 \\ft The same rare verb that opened the letter at 1:3. The whole body of instruction sits between the two occurrences.\\f* and does not come over to the healthy words, those of our Lord Jesus the Christ, and to the teaching that goes with reverence for God,
+\\v 4 he is puffed up\\f + \\fr 6:4 \\ft The Greek verb is built on the word for smoke: fogged, swollen with vapor, unable to see out.\\f*, understanding nothing, but sick over questionings and battles about words. Out of these come envy, strife, slanders, evil suspicions,
+\\v 5 and constant friction between men whose minds have been ruined and who have been robbed of the truth, supposing that reverence for God is a means of gain \\add [i.e. they have made a business of it]\\add*.
+\\s1 Contentment Is the Real Profit
+\\p
+\\v 6 But reverence for God with contentment is a great means of gain \\add [— gain, yes, but not the kind they are counting]\\add*.
+\\v 7 For we brought nothing into the world, and neither can we carry anything out.\\f + \\fr 6:7 \\ft Job 1:21; Ecclesiastes 5:15; Psalm 49:17.\\f*
+\\v 8 But having food and covering \\add [i.e. something to eat and something to put on — that is the whole list]\\add*, with these we will be satisfied.
+\\v 9 Those who want to be rich fall into testing and a snare and many senseless and harmful cravings, which sink men into ruin and destruction \\add [— under the water, the way a ship goes down]\\add*.
+\\v 10 For a root of all the evils is the love of money\\f + \\fr 6:10 \\ft The Greek has no article: a root, not the only root. The claim is that every kind of evil can be grown from this one.\\f*; and some, reaching for it, have been led astray from the faith and have run themselves through with many pains \\add [i.e. impaled on the very thing they were reaching for]\\add*.
+\\s1 Flee, Chase, Contend, Take Hold
+\\p
+\\v 11 But you, O man of God\\f + \\fr 6:11 \\ft The title of Moses, Samuel, Elijah, and Elisha (Deuteronomy 33:1; 1 Samuel 9:6-10; 1 Kings 17:24; 2 Kings 4:9). It places Timothy in that line, not among administrators.\\f*, flee these things. Chase after righteousness, reverence for God, faithfulness, love, endurance, gentleness.
+\\v 12 Contend in the good contest of the faith. Take hold of the life of the age \\add [i.e. get your hands on it and do not let it go]\\add*, to which you were called and about which you confessed the good confession before many witnesses.\\f + \\fr 6:12 \\ft Probably his baptism or his commissioning (4:14) — in either case a public declaration made in front of people who can hold him to it.\\f*
+\\v 13 I charge you before God, who keeps all things alive, and the Christ Jesus, who before Pontius Pilate testified to the good confession \\add [— the same confession, and it cost him his life]\\add*:
+\\v 14 keep the commandment without stain, above reproach, until the appearing of our Lord Jesus the Christ\\f + \\fr 6:14 \\ft Greek \\tl epiphaneia\\tl*, used of God's unmistakable public interventions. The charge runs to the end; there is no point at which it lapses.\\f*,
+\\v 15 which he will show at its own times — the blessed and only Sovereign, the King of those who reign and Lord of those who rule\\f + \\fr 6:15 \\ft Deuteronomy 10:17; Daniel 2:47; Psalm 136:3 — said inside an empire whose ruler claimed the top of that list.\\f*,
+\\v 16 who alone has deathlessness \\add [i.e. no one else has life in himself; everyone else who lives was given it]\\add*, dwelling in light that cannot be approached\\f + \\fr 6:16 \\ft "You cannot see my face, for man shall not see me and live" (Exodus 33:20); God wrapped in light as with a garment (Psalm 104:2).\\f*, whom no man has seen or is able to see. To him be honor and everlasting might. Amen.
+\\s1 A Charge to the Rich
+\\p
+\\v 17 Charge those who are rich in the present age not to be high-minded, nor to set their hope on the uncertainty of riches \\add [i.e. it can all be gone by morning]\\add*, but on God, who richly supplies us with everything to enjoy \\add [— to enjoy, not merely to endure]\\add*.
+\\v 18 They are to work good, to be rich in good works, to give readily, to share what they have,
+\\v 19 storing up for themselves a good foundation for what is coming \\add [i.e. give it away and it is stored, not spent]\\add*, so that they may take hold of the life that is really life.
+\\s1 Guard What Was Placed in Your Keeping
+\\p
+\\v 20 O Timothy, guard what has been placed in your keeping\\f + \\fr 6:20 \\ft Greek \\tl parathēkē\\tl*, a banker's word: goods left with a trustee, who is bound to keep them intact and hand them back unchanged. It was given to Timothy; it is not his to improve on.\\f*, turning away from the profane empty noises and the oppositions of the knowledge that is falsely named\\f + \\fr 6:20 \\ft Greek \\tl pseudōnymos gnōsis\\tl* — knowledge wearing a name that does not belong to it. Teachers claiming a deeper \\tl gnōsis\\tl* about the unseen world, with elaborate spirit-genealogies and hard rules about food and marriage, were already circulating; this letter has been answering them since chapter 1.\\f*,
+\\v 21 which some have professed and so have missed the mark concerning the faith.\\f + \\fr 6:21 \\ft The same verb as 1:6. The letter opens and closes with men who have shot wide of it, and reports six such departures in six chapters: 1:6; 1:19; 4:1; 5:15; 6:10; 6:21.\\f* Favor be with you.\\f + \\fr 6:21 \\ft The Greek "you" is plural. The letter is addressed to one man, and ends by blessing the room it will be read in.\\f*
+`;
