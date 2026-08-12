@@ -109,6 +109,18 @@ When the project author identifies a factual error or overlooked evidence:
 4. **Check for ripple references**: grep other exegesis files for references to the corrected passage. Fix context summaries in adjacent chapters if needed.
 5. **Update the corrections log** (`prompts/corrections_log.md`) with the problem, question sent, outcome, ripple fixes, and assessment impact.
 6. **Re-run the assessment** for the affected section if the correction changes OSAS-relevant content. Update the assessment JSON, then regenerate `data.js`.
+7. **Check RCB impact**: if that book has an RCB translation (`usfm/nt/{BOOK}.usfm`), review the EAs and footnotes covering the corrected passage. They were written from the exegesis, so a correction upstream can leave them stating the superseded reading. Fix what the correction invalidates, then regenerate with `python scripts/gen_rcb_data.py {BOOK}`.
+
+### RCB corrections
+
+When the error is in the RCB itself rather than the exegesis — a translation choice, an EA that overreaches or reads awkwardly, a footnote, or something inline that belongs in a footnote:
+
+1. **Check the exegesis first.** If the underlying reading is wrong, run the correction workflow above instead; the RCB fix follows from it. Only proceed here when the exegesis is sound and the problem is in the translation layer.
+2. **Consult `RCB-decisions.md`** before editing. The fix must follow the settled conventions, and the governing test is that the amplified sentence reads naturally. Do not edit the decision log — if the fix requires a decision the log does not cover, raise it with the project author.
+3. **Edit `usfm/nt/{BOOK}.usfm`.**
+4. **Check for ripple within the book**: footnote cross-references to the changed verse, and EAs that depend on a term or framing introduced there.
+5. **Regenerate**: `python scripts/gen_rcb_data.py {BOOK}`.
+6. **Update the corrections log** (`prompts/corrections_log.md`).
 
 ## Running Pass 1 (neutral reading)
 

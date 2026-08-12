@@ -9,11 +9,13 @@ Record of passages returned to Claude for re-analysis. Each entry documents what
 ```
 ### [Book Chapter]:[Verse(s)] — [Short description]
 **Date:** YYYY-MM-DD
-**File:** exegesis/nt/[filename].md
+**File:** exegesis/nt/[filename].md — or usfm/nt/[BOOK].usfm for an RCB correction
 **Problem:** [What the original analysis got wrong or missed]
 **Question sent:** [The specific textual question given to Claude via the correction prompt]
 **Outcome:** [What Claude's re-analysis concluded — corrected / revised / original reading upheld]
+**Ripple fixes:** [Other files referencing the corrected passage that needed updating, or "checked, none needed"]
 **Assessment impact:** [Whether the Pass 2 assessment for this chapter needed to be re-run, and if the category changed]
+**RCB impact:** [Whether the book has an RCB translation and whether its EAs or footnotes needed updating — or "no RCB translation"]
 ```
 
 ---
