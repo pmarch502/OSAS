@@ -11,7 +11,11 @@ BibleStudy/
 ├── prompts/
 │   ├── neutral_reading.md              Shared prompt for all exegesis
 │   ├── osas.md                         OSAS assessment prompt
-│   └── determinism.md                 Determinism/free will assessment prompt
+│   ├── determinism.md                  Determinism/free will assessment prompt
+│   ├── correction.md                   Filled in when a factual error is found
+│   ├── corrections_log.md              Record of every correction made
+│   ├── rcb-pass1.md                    RCB pass 1 — translation
+│   └── rcb-pass2.md                    RCB pass 2 — amplification, intro, headings
 │
 ├── exegesis/                           SOURCE — neutral first-century readings (.md)
 │   ├── nt/
@@ -36,11 +40,12 @@ BibleStudy/
 ├── usfm/                               SOURCE — Restored Context Bible USFM files
 │   └── nt/
 │       └── GAL.usfm                    Galatians (3-letter book codes)
+│                                       {BOOK}-pass1.usfm is a gitignored intermediate
 │
 ├── scripts/
 │   └── gen_rcb_data.py                 Regenerate RCB data from USFM source
 │
-├── docs/                               PUBLISHED — GitHub Pages root (/docs)
+├── docs/                               PUBLISHED — Cloudflare Pages build output
 │   ├── index.html                      Landing page linking to all reports
 │   ├── exegesis/                       Generated HTML versions of neutral readings
 │   │   ├── nt/
@@ -62,6 +67,8 @@ BibleStudy/
 │           ├── index.html
 │           └── data.js
 │
+├── CLAUDE.md                           Operations guide — pipelines, workflows, conventions
+├── RCB-decisions.md                    Restored Context Bible decision log
 ├── run_instructions.md                 Checklist and run procedures
 ├── project_structure.md                This file
 └── .gitignore
@@ -77,7 +84,7 @@ BibleStudy/
 
 4. **Reports are self-contained.** Each report folder under `docs/reports/` contains an `index.html` and a `data.js`. The report loads its data via a relative `<script>` tag. Exegesis links point to `../../exegesis/nt/` or `../../exegesis/ot/` with fragment anchors to specific sections.
 
-5. **GitHub Pages serves `docs/` only.** Configure Pages to use the `/docs` folder as the publishing root. Source `.md` files, assessment `.json` files, and prompts are in the repo but not served to the web.
+5. **Cloudflare Pages serves `docs/` only.** It auto-deploys from `main` with `docs/` as the build output directory. Source `.md` files, assessment `.json` files, and prompts are in the repo but not served to the web. GitHub Pages is disabled — it was flaky with 260+ static files.
 
 ## File Naming Conventions
 
