@@ -21,4 +21,6 @@ Every NT writer except Luke thinks like a Hebrew and writes in Greek. Greek is t
 
 Write plain, natural English. Raw doesn't mean clumsy. If a sentence read smoothly to its first hearers, your English should read smoothly too — it just must not say more than the Greek said.
 
+**Break the text into paragraphs where the argument turns.** Put a `\p` at each movement of the thought, not only at the start of a chapter. You have read the whole book; you are the one who knows where it turns. A short letter needs this as much as a long one — a book delivered as a single unbroken paragraph is not finished.
+
 Output USFM 3.x to `usfm/nt/{BOOK}-pass1.usfm`. The `\id` line reads `\id {BOOK} - Restored Context Bible (RCB)`. No pass label.

@@ -80,6 +80,8 @@ docs/rcb/index.html                ← Single viewer (loads ?book={BOOK})
 
 Pass 1 renders the Greek with the Hebrew thinking behind it intact and resolves nothing. Pass 2 adds `\add`, `\f`, `\s1`, `\imt`, and `\ip` and may change nothing else — the base text is frozen. Pass 2 writes the finished book directly; there is no separate merge step.
 
+The freeze breaks in practice, so it is verified on every book. Two failure modes have recurred: pass 2 inserting a `\p` to carry an `\s1` where pass 1 had no paragraph break, and punctuation displaced when a footnote is appended to the end of a sentence. Both are repaired by restoring what pass 1 said — remove the invented `\p` (and the heading that depended on it), or put the mark back. That is not a content edit and does not need the author's approval; anything beyond it does.
+
 The `-pass1` file is a build intermediate, gitignored, and can be deleted after the book is published. The final `{BOOK}.usfm` reproduces it by stripping markers, and the viewer's "Restorations: OFF" toggle already shows a reader the un-amplified translation.
 
 ### Running the RCB passes
@@ -87,7 +89,8 @@ The `-pass1` file is a build intermediate, gitignored, and can be deleted after 
 - Model: opus, one agent per pass
 - Give the agent the prompt file's text **verbatim**, plus the minimal instruction naming the book (e.g. "Translate Ephesians." / "Amplify Ephesians.") and the working directory. Add nothing else — no "report back on your choices," no extra constraints, no invented output path
 - Run pass 2 only after pass 1 is finished; it reads pass 1's file
-- After pass 2: check that markers are balanced (`\add`, `\f`, `\tl`), that every `\s1` is followed by a `\p`, and that verse counts match standard versification. Do not diff the base text against the pass-1 file — the freeze has held on every book and re-proving it is not worth a run
+- After pass 2: check that markers are balanced (`\add`, `\f`, `\tl`), that every `\s1` is followed by a `\p`, and that verse counts match standard versification
+- **Then verify the freeze**: `python scripts/check_freeze.py {BOOK}`. It must report `0`. Run it *before* deleting the pass-1 intermediate — that file is the only baseline, and once it is gone the check is impossible. Do not take pass 2's word for it; an agent has reported a book clean that was not
 - Then follow "Publishing a finished book" in `RCB-decisions.md`
 
 ### How much to run at once
