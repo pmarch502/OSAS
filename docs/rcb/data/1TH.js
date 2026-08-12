@@ -1,0 +1,163 @@
+const USFM = `\\id 1TH - Restored Context Bible (RCB)
+\\usfm 3.0
+\\ide UTF-8
+\\h 1 Thessalonians
+\\toc1 The First Letter of Paul to the Assembly in Thessalonica
+\\toc2 1 Thessalonians
+\\toc3 1Th
+\\mt1 1 Thessalonians
+
+\\imt Introduction
+\\ip This letter comes from Paul, Silvanus, and Timothy — the three men who together founded the assembly in Thessalonica — writing back to it from Corinth around 50 CE. It is quite possibly the earliest surviving document of the Jesus movement, written within about twenty years of the crucifixion.
+\\ip Thessalonica was the capital of the Roman province of Macedonia, a free city governed by its own magistrates, sitting on the Via Egnatia, the highway that carried traffic between the Adriatic and the East. The founding visit had been short and had ended in violence. The three preached in the synagogue; some Jews were persuaded, along with a large number of God-fearing Greeks and a number of leading women. Then a mob was raised, and Jason, who had housed the missionaries, was dragged before the city magistrates on a political charge — that these men were saying there is another king, Jesus. Jason posted a bond, and the brothers sent the missionaries out of the city by night (Acts 17:1-10).
+\\ip Paul tried more than once to go back and could not. He finally sent Timothy in his place, and Timothy returned with a good report; this letter was written on the strength of it. It goes to a very young community: recently formed out of paganism, cut off from its teachers almost at once, under pressure from its own neighbors, and troubled by something no one had prepared it for — some of its members have died before the return of the Lord they were taught to expect.
+\\ip Two things about the letter are worth noticing before reading it. Paul claims no title in the greeting — no other letter of his opens so bare — and the voice throughout is "we," the three founders speaking together, with the first person singular breaking in only twice (2:18; 5:27). And nearly half of it is thanksgiving: three full chapters of gratitude and remembrance before a single instruction is given. When the instructions come, they come as requests, and each one begins by affirming what these people are already doing.
+
+\\c 1
+\\s1 Greeting
+\\p
+\\v 1 Paul and Silvanus\\f + \\fr 1:1 \\ft The Silas of Acts — a leading man of the Jerusalem assembly, a prophet, and a Roman citizen (Acts 15:22, 32; 16:37). He and Timothy were both present when this assembly was founded, and all three men speak through the whole letter.\\f* and Timothy, to the assembly\\f + \\fr 1:1 \\ft Greek \\tl ekklēsia\\tl*. In a Greek city it named the citizens summoned to meet and settle public business; in Israel's Greek scriptures it renders Hebrew \\tl qahal\\tl*, the assembled people of God (Deuteronomy 4:10; 1 Kings 8:14). Thessalonica, as a free city, had an assembly of its own, and both senses would be heard at once.\\f* of Thessalonians in God the Father and the Lord Jesus the Christ: favor to you and peace\\f + \\fr 1:1 \\ft Greek \\tl eirēnē\\tl*, standing for Hebrew \\tl shalom\\tl*: not the absence of trouble but wholeness and well-being.\\f*.
+\\s1 Why We Thank God for You
+\\p
+\\v 2 We give thanks to God always concerning all of you, making mention of you at our prayers, unceasingly
+\\v 3 remembering your work of faithfulness and labor of love and endurance of hope\\f + \\fr 1:3 \\ft Three actions, each named together with what drives it. \\tl Kopos\\tl*, "labor," is work that exhausts and costs; \\tl hypomonē\\tl*, "endurance," is holding your ground under pressure rather than waiting quietly. Faithfulness, love, and hope carry the whole letter, and Paul hands them back as armor at 5:8.\\f* in our Lord Jesus the Christ, before our God and Father —
+\\v 4 knowing, brothers loved by God, that he has chosen you\\f + \\fr 1:4 \\ft Greek \\tl eklogē\\tl*, "choosing" — the word Israel's scriptures use for God's selection of a people for himself: "the LORD your God has chosen you to be a people for his own possession," and he did it because he loved you (Deuteronomy 7:6-8), where being loved and being chosen stand together exactly as they do here. Paul says it of an assembly of Greeks.\\f*,
+\\v 5 because our good news did not come to you in word only, but also in power and in the Holy Spirit and with much full conviction \\add [i.e. you watched God at work among you; you were not asked to take our word for it]\\add* — just as you know what sort of men we became among you, for your sake.
+\\s1 The Report That Ran Ahead of Us
+\\p
+\\v 6 And you became imitators of us and of the Lord, having welcomed the word in much affliction \\add [i.e. the trouble started the moment you took it]\\add* with the joy of the Holy Spirit,
+\\v 7 so that you became a pattern\\f + \\fr 1:7 \\ft Greek \\tl typos\\tl*: the die that stamps its own shape into whatever is pressed against it. Macedonia and Achaia are the two Roman provinces that between them cover the whole of Greece.\\f* to all who trust in Macedonia and in Achaia.
+\\v 8 For from you the word of the Lord has rung out\\f + \\fr 1:8 \\ft The verb is the one used of a trumpet blast, or of an echo rolling back off a hillside. Thessalonica stood on the Via Egnatia, the Roman highway running east from the Adriatic coast, and news out of it traveled fast and far.\\f*, not only in Macedonia and Achaia, but in every place your faithfulness toward God has gone out, so that we have no need to say anything.
+\\v 9 For they themselves report about us what sort of entrance we had among you, and how you turned to God from the idols \\add [i.e. you walked out of the temples and away from the household shrines, in full view of the neighbors]\\add*, to serve a living and true God,
+\\v 10 and to wait for his Son out of the heavens, whom he raised from among the dead — Jesus, the one who rescues us out of the wrath that is coming\\f + \\fr 1:10 \\ft The prophets' word for God's settled reckoning with injustice and idolatry on the day he acts — "a day of wrath is that day" (Zephaniah 1:14-18; Joel 2:1-2). Not a mood, and already on its way.\\f*.
+
+\\c 2
+\\s1 How We Came to You
+\\p
+\\v 1 For you yourselves know, brothers, our entrance among you — that it has not turned out empty.
+\\v 2 Rather, having already suffered and been outraged\\f + \\fr 2:2 \\ft At Philippi, the stop before this one, they were seized, stripped, beaten with rods without trial, and shut in the inner cell (Acts 16:19-40). The Greek word names public humiliation as much as injury. They came into Thessalonica still carrying the marks.\\f* in Philippi, as you know, we grew bold in our God to speak to you the good news of God in much struggle\\f + \\fr 2:2 \\ft Greek \\tl agōn\\tl*, the word for a contest in the public games. The preaching was a fight, and it was carried on in front of a crowd.\\f*.
+\\s1 What Our Appeal Was Not
+\\p
+\\v 3 For our appeal is not out of error, nor out of uncleanness, nor in guile,\\f + \\fr 2:3 \\ft Every Greek city knew the traveling teacher who arrived, gathered a following, took what he could get, and moved on. The charges Paul denies one after another — delusion, uncleanness, trickery, flattery, greed, self-promotion — are the standard ones brought against such men, and he answers them by pointing to what the Thessalonians themselves watched him do.\\f*
+\\v 4 but just as we have been tested by God and entrusted with the good news, so we speak — not as pleasing men but God, who tests our hearts.
+\\v 5 For we never came with a word of flattery, as you know, nor with a pretext for greed — God is witness —
+\\v 6 nor seeking glory from men, neither from you nor from others,
+\\s1 What It Was
+\\p
+\\v 7 though as the Christ's sent ones we could have come with weight \\add [i.e. we could have demanded both your money and your deference]\\add*. But we became infants\\f + \\fr 2:7 \\ft The manuscripts divide between \\tl nēpioi\\tl*, "infants," and \\tl ēpioi\\tl*, "gentle" — one letter apart, and easily gained or lost in copying. Either way the posture is the same: harmless, making no claim.\\f* among you — as when a nursing mother\\f + \\fr 2:7 \\ft Greek \\tl trophos\\tl*, a woman feeding a child at her own breast; the verb is the one used of a bird warming her young under her. "Her own children" — not a hired nurse with someone else's.\\f* warms her own children.
+\\v 8 So, yearning over you, we were glad to share with you not only the good news of God but our own lives as well, because you had become beloved to us.
+\\v 9 For you remember, brothers, our labor and our hardship: working night and day\\f + \\fr 2:9 \\ft Paul worked a trade with his hands — leatherworking (Acts 18:3). An artisan's day began before first light, and the preaching went into whatever hours were left over. No one in Thessalonica paid for his keep.\\f* so as not to lay a weight on any of you, we heralded to you the good news of God.
+\\p
+\\v 10 You are witnesses, and God is, how devoutly and justly and blamelessly we behaved toward you who trust,
+\\v 11 just as you know how, one by one, as a father his own children, we were urging you and comforting you and charging you
+\\v 12 to walk worthily of the God who calls you \\add [i.e. who is calling you still, not who called you once]\\add* into his own kingdom and glory.
+\\s1 You Took It as God's Word
+\\p
+\\v 13 And for this reason we also give thanks to God unceasingly: that when you received God's word, which you heard from us, you welcomed it not as men's word but, just as it truly is, as God's word — which is also at work in you who trust\\f + \\fr 2:13 \\ft In the prophets God's word is not information but an agent: it goes out, does the thing it was sent to do, and does not come back empty (Isaiah 55:10-11).\\f*.
+\\s1 You Suffered What the Assemblies in Judea Suffered
+\\p
+\\v 14 For you, brothers, became imitators of the assemblies of God that are in Judea in the Christ Jesus, because you also suffered the same things from your own countrymen\\f + \\fr 2:14 \\ft Greek \\tl symphyletai\\tl*, men of your own tribe and city. Since this assembly came out of paganism, these were their pagan neighbors. The parallel is in the shape of the thing: each community suffering at the hands of its own.\\f* as they did from the Judeans\\f + \\fr 2:14 \\ft Greek \\tl Ioudaioi\\tl*, which can mean the people of Judea or Jews as a whole. The parallel Paul has just drawn settles the sense: as only some Thessalonians persecuted the assembly there, so this is the particular group in Judea that set itself against the mission. Paul is himself a Jew, and so are the assemblies he has just held up as the model.\\f*,
+\\v 15 who both killed the Lord Jesus and the prophets\\f + \\fr 2:15 \\ft The charge is one Israel's own scriptures bring against Israel — "they killed your prophets who had warned them" (Nehemiah 9:26; 2 Chronicles 36:15-16) — and Jesus brought it too (Matthew 23:29-37). It is an argument made from inside, not an accusation from outside.\\f* and drove us out. They do not please God, and they are set against all men,
+\\v 16 hindering us from speaking to the nations so that they may be rescued \\add [i.e. and that is the whole of their hostility to everyone: they will not have the nations brought in]\\add* — so as to fill up their sins always\\f + \\fr 2:16 \\ft An old pattern in the scriptures: God waits while wrongdoing accumulates, and the reckoning comes when the measure is full — "the iniquity of the Amorites is not yet complete" (Genesis 15:16); "the Lord waits patiently to punish them until they have reached the full measure of their sins" (2 Maccabees 6:14).\\f*. But the wrath has come upon them to the end\\f + \\fr 2:16 \\ft The verb is past tense, though the wrath of 1:10 was still on its way. Either some recent event is in view that Paul reads as judgment already arrived, or he is using the prophets' habit of putting a certain future into the past tense (Isaiah 5:13). "To the end" can mean utterly, or at last, or with no reversal.\\f*.
+\\s1 Torn Away, and Trying to Get Back
+\\p
+\\v 17 But we, brothers, orphaned\\f + \\fr 2:17 \\ft The Greek word is the one for being left an orphan. In the image it is not the young assembly that has been bereaved but the men who founded it.\\f* from you for the space of an hour — in face, not in heart — were all the more eager, with much longing, to see your face.
+\\v 18 Therefore we wanted to come to you — I, Paul, both once and twice — and Satan cut off our road\\f + \\fr 2:18 \\ft What the obstruction actually was he does not say. Jason, who had housed them, had been made to post a bond with the city magistrates (Acts 17:5-9), and that may have carried a guarantee that these men would not come back.\\f*.
+\\v 19 For what is our hope or joy or crown of boasting\\f + \\fr 2:19 \\ft Not a king's diadem but the wreath given to the winner at the games — the visible proof that the effort came to something. Paul's is a body of people, and it is his only if they last.\\f*? Is it not you yourselves, before our Lord Jesus at his coming\\f + \\fr 2:19 \\ft Greek \\tl parousia\\tl*, the ordinary word for the state visit of a king or emperor to a city, with the citizens going out along the road to receive him. It is this letter's word for the Lord's arrival (2:19; 3:13; 4:15; 5:23).\\f*?
+\\v 20 For you are our glory and our joy.
+
+\\c 3
+\\s1 Why We Sent Timothy
+\\p
+\\v 1 Therefore, when we could hold out no longer \\add [i.e. the not knowing had become more than we could carry]\\add*, we thought it good to be left behind in Athens alone \\add [i.e. giving up the one companion we had left]\\add*,
+\\v 2 and we sent Timothy, our brother and God's fellow worker\\f + \\fr 3:2 \\ft The manuscripts read "God's fellow worker," or "God's servant," or both together. The bold one is likely what Paul wrote, the others being attempts to soften the claim that a man works alongside God.\\f* in the good news of the Christ, to make you firm and to urge you on behalf of your faithfulness,
+\\v 3 so that no one would be shaken by these afflictions. For you yourselves know that we are set for this \\add [i.e. this is the position we were put in, not a sign that something has gone wrong]\\add*.
+\\v 4 For indeed, when we were with you, we kept telling you beforehand that we were about to be afflicted — just as it also happened, and you know it.
+\\v 5 For this reason I too, when I could hold out no longer, sent to know your faithfulness — lest somehow the tester had tested you\\f + \\fr 3:5 \\ft Greek \\tl ho peirazōn\\tl*, "the one who tests." The same word covers testing meant to prove and pressure meant to break; here Paul fears the second. Compare the adversary given leave to test Job by making him suffer (Job 1-2).\\f* and our labor should come to nothing.
+\\s1 What He Brought Back
+\\p
+\\v 6 But now Timothy has come to us from you and has brought us the good news\\f + \\fr 3:6 \\ft The verb is the one Paul reserves everywhere else for announcing the good news itself. Word that these people were still standing was that kind of news to him.\\f* of your faithfulness and love, and that you always have a good remembrance of us, longing to see us just as we also long to see you.
+\\v 7 For this reason, brothers, we were comforted over you in all our distress and affliction, through your faithfulness.
+\\v 8 For now we live, if you are standing firm \\add [i.e. holding your ground like a man who will not leave his post]\\add* in the Lord.
+\\s1 Thanks We Cannot Repay
+\\p
+\\v 9 For what thanksgiving can we give back to God concerning you, for all the joy with which we rejoice because of you before our God,
+\\v 10 night and day begging beyond all measure to see your face and to mend\\f + \\fr 3:10 \\ft The verb is the one for mending nets or setting a bone: repairing what is already there. Timothy has just reported their faithfulness intact — but a community founded in a matter of weeks and then left without its teachers has gaps in it, and the instructions of chapters 4 and 5 are Paul's attempt to fill them by letter, since he cannot come in person.\\f* what is lacking in your faithfulness?
+\\s1 A Prayer for the Road, and for Your Hearts
+\\p
+\\v 11 Now may our God and Father himself, and our Lord Jesus, make our road straight to you.
+\\v 12 And may the Lord make you increase and overflow in love toward one another and toward all \\add [i.e. and "all" takes in the neighbors who are making you suffer]\\add*, just as we also do toward you,
+\\v 13 so as to make your hearts firm, blameless in holiness before our God and Father at the coming of our Lord Jesus with all his holy ones\\f + \\fr 3:13 \\ft In Israel's scriptures the holy ones who come with the LORD are his angels — "and the LORD my God will come, and all the holy ones with him" (Zechariah 14:5; Deuteronomy 33:2). Whether the believing dead are among them here Paul does not say; at 4:14 he says God will bring those who have died along with Jesus.\\f*.
+
+\\c 4
+\\s1 Keep Walking as You Were Taught, and More
+\\p
+\\v 1 For the rest, then, brothers, we ask you and urge you in the Lord Jesus that, just as you received from us how you must walk and please God — as indeed you are walking — you would overflow still more.
+\\v 2 For you know what charges we gave you through the Lord Jesus.
+\\s1 God's Will: Holiness in the Body
+\\p
+\\v 3 For this is the will of God, that you be made holy\\f + \\fr 4:3 \\ft Greek \\tl hagiasmos\\tl*: being set apart for God's own use, out of common use. In Israel's scriptures it is what is done to the temple, the priesthood, and the Sabbath. Here it is done to bodies and households.\\f*: that you hold yourselves away from sexual immorality\\f + \\fr 4:3 \\ft Greek \\tl porneia\\tl*, the standard Jewish term covering every kind of sexual act outside marriage. In the Greek and Roman world a free man's use of slaves, prostitutes, and concubines was ordinary and went unremarked. What Paul lays on these Gentile converts is Israel's standard, with nothing conceded to their upbringing.\\f*;
+\\v 4 that each of you know how to possess his own vessel\\f + \\fr 4:4 \\ft Greek \\tl skeuos\\tl*, "vessel, instrument." It is read either as a man's own body — learn to master it — or as his wife — take her in holiness and honor, not out of craving. The instruction lands the same way on either reading.\\f* in holiness and honor,
+\\v 5 not in the passion of craving, like the nations also that do not know God \\add [i.e. which is what you were, and what you are no longer]\\add*;
+\\v 6 that no one step over the line and take advantage of his brother in the matter \\add [i.e. by taking the wife of a man in this assembly, or anyone else who is his]\\add*, because the Lord is an avenger\\f + \\fr 4:6 \\ft "Vengeance is mine; I will repay" (Deuteronomy 32:35); "God of vengeances, LORD" (Psalm 94:1). The wronged brother has someone acting on his behalf.\\f* concerning all these things, just as we also told you beforehand and testified.
+\\v 7 For God did not call us for uncleanness but in holiness.
+\\v 8 So then, the one who sets this aside is not setting aside a man but God, who also gives his Holy Spirit into you\\f + \\fr 4:8 \\ft The giving is present and continuing, not something done once. Ezekiel had promised exactly this as the mark of the restored covenant: "I will put my Spirit within you and cause you to walk in my statutes" (Ezekiel 36:27). The command and the power to keep it arrive together.\\f*.
+\\s1 Love One Another; Live Quietly and Work
+\\p
+\\v 9 Now concerning love of the brothers, you have no need for anyone to write to you, for you yourselves are taught by God\\f + \\fr 4:9 \\ft Greek \\tl theodidaktoi\\tl*, a word that turns up nowhere before this. Isaiah's promise for the restored people was "all your sons taught by God" (Isaiah 54:13), and Jeremiah's new covenant was one in which no one would have to teach his neighbor, because they would all know the LORD (Jeremiah 31:33-34).\\f* to love one another.
+\\v 10 For indeed you are doing it toward all the brothers in the whole of Macedonia. But we urge you, brothers, to overflow still more,
+\\v 11 and to make it your ambition to live quietly \\add [i.e. spend on an unremarkable life the energy this city spends on being noticed]\\add* and to attend to your own things and to work with your hands\\f + \\fr 4:11 \\ft Manual work was held to be beneath a free man of any standing in a Greek city. In this assembly it is the honorable thing, and Paul had done it in front of them (2:9).\\f*, just as we charged you,
+\\v 12 so that you may walk properly toward those outside \\add [i.e. those not in the assembly, who are watching you]\\add* and have need of no one.
+\\s1 Those Who Died Will Lose Nothing
+\\p
+\\v 13 We do not want you to be ignorant, brothers, concerning those who are sleeping\\f + \\fr 4:13 \\ft The ordinary way of speaking of the dead in Israel's scriptures — "you are about to sleep with your fathers" (Deuteronomy 31:16); "many of those who sleep in the dust of the earth shall awake" (Daniel 12:2). The word itself already says the condition is one you can be woken out of.\\f*, so that you may not grieve as the rest do, who have no hope\\f + \\fr 4:13 \\ft Grief itself is not forbidden — this particular grief is. Roman gravestones put the alternative plainly: "I was not; I was; I am not; I care not."\\f*.
+\\v 14 For if we trust that Jesus died and rose, so also God will bring with him, through Jesus, those who have fallen asleep.
+\\v 15 For this we tell you by a word of the Lord\\f + \\fr 4:15 \\ft Paul marks what follows as not his own conclusion but the Lord's own word — whether a saying of Jesus that the written accounts did not keep, or something given to Paul directly.\\f*: we who are living, who are left over until the coming of the Lord \\add [i.e. and we expect to be among them]\\add*, will by no means get ahead of those who have fallen asleep.
+\\v 16 Because the Lord himself, with a shouted command\\f + \\fr 4:16 \\ft Greek \\tl keleusma\\tl*: the officer's shout that starts a charge, or the call that sets rowers pulling together.\\f*, with an archangel's voice and with God's trumpet\\f + \\fr 4:16 \\ft The only archangel named in Israel's scriptures is Michael, and it is at his rising that those who sleep in the dust awake (Daniel 12:1-2). The trumpet sounded when God came down on Sinai (Exodus 19:16, 19), and in the prophets it announces the day of the LORD and gathers the scattered home (Isaiah 27:13; Joel 2:1; Zephaniah 1:16).\\f*, will come down from heaven, and the dead in the Christ will rise first \\add [i.e. first, not last — they lose nothing by having died before he came]\\add*.
+\\v 17 Then we who are living, who are left over, will be snatched up\\f + \\fr 4:17 \\ft The verb is sudden and forcible — to seize and carry off. It is done to them; they do not climb.\\f* together with them in clouds to meet the Lord\\f + \\fr 4:17 \\ft Greek \\tl eis apantēsin\\tl*, the set phrase for what a city did when a king or emperor arrived: the citizens went out along the road to meet him and escorted him in. Paul says nothing about where anyone goes after the meeting. What he says is that they are with the Lord and stay with him.\\f* in the air; and so we will always be with the Lord.
+\\v 18 So then, comfort one another with these words.
+
+\\c 5
+\\s1 The Day Comes Like a Thief
+\\p
+\\v 1 Now concerning the times and the seasons, brothers, you have no need for anything to be written to you.
+\\v 2 For you yourselves know accurately that the day of the Lord\\f + \\fr 5:2 \\ft The prophets' name for the day God acts decisively. It is not automatically a good day for God's own people: Amos had to tell Israel that for them it would be "darkness, and not light" (Amos 5:18-20; Joel 2:1-2; Zephaniah 1:14-18).\\f* comes just as a thief in the night\\f + \\fr 5:2 \\ft The comparison is the Lord's own: "if the master of the house had known at what hour the thief was coming, he would not have let his house be broken into" (Matthew 24:43-44; Luke 12:39-40).\\f*.
+\\v 3 When they are saying, "Peace and safety,"\\f + \\fr 5:3 \\ft Two things sound at once in the phrase. It is the prophets' mark of false assurance — "'Peace, peace,' when there is no peace" (Jeremiah 6:14; Ezekiel 13:10) — and it is Rome's own advertisement, the peace and security its rule claimed to have secured, stamped on the coins and cut into the inscriptions of a city like this one.\\f* then sudden ruin comes upon them, like the birth pang\\f + \\fr 5:3 \\ft The prophets' image for a judgment that cannot be talked out of arriving once it has begun (Isaiah 13:8; Jeremiah 6:24; Micah 4:9-10).\\f* upon her who has a child in the womb, and they will by no means escape.
+\\s1 You Belong to the Day
+\\p
+\\v 4 But you, brothers, are not in darkness, that the day should overtake you like a thief.
+\\v 5 For you are all sons of light and sons of day\\f + \\fr 5:5 \\ft A Hebrew way of saying "those who belong to the light" — the idiom is about what you belong to, not who your father was. The Jewish community at Qumran used the same phrase of itself, "sons of light," over against "sons of darkness."\\f*. We are not of night nor of darkness.
+\\v 6 So then, let us not sleep as the rest do, but let us stay awake and be sober.
+\\v 7 For those who sleep sleep at night, and those who get drunk are drunk at night.
+\\v 8 But let us, being of the day, be sober, having put on a breastplate of faithfulness and love, and as a helmet, the hope of rescue\\f + \\fr 5:8 \\ft The armor is God's own in Isaiah, where he arms himself to come and set right what no one else would: "he put on righteousness as a breastplate, and a helmet of salvation on his head" (Isaiah 59:17). Paul hands it to the assembly and fills it with the three things he opened the letter with (1:3). It is all protection; there is no weapon in it.\\f*.
+\\v 9 Because God did not set us for wrath but for the gaining\\f + \\fr 5:9 \\ft The noun is used in Israel's scriptures for God acquiring a people as his own treasured possession (Malachi 3:17). Rescue here is not only escape from something but being claimed by someone. Note also what Paul does and does not say: he says what God has set "us" for, and says nothing at all about God setting anyone for wrath.\\f* of rescue through our Lord Jesus the Christ,
+\\v 10 who died for us, so that whether we are awake or asleep \\add [i.e. alive or dead when he comes]\\add* we may live together with him.
+\\v 11 So then, comfort one another and build up one another, just as you also are doing.
+\\s1 Living Together as an Assembly
+\\p
+\\v 12 Now we ask you, brothers, to recognize those who labor among you and stand at your head \\add [i.e. who take the lead and take care of you]\\add* in the Lord and correct you,
+\\v 13 and to consider them beyond all measure in love because of their work \\add [i.e. for what they do, not for any rank they hold]\\add*. Be at peace among yourselves.
+\\v 14 And we urge you, brothers: correct the disorderly\\f + \\fr 5:14 \\ft Greek \\tl ataktoi\\tl*, a military word for a man out of his rank. Given 4:11-12, these are most likely the ones who have stopped working and taken to minding other people's business.\\f*, comfort the faint-hearted, hold on to the weak, be long-suffering toward all \\add [i.e. and do not confuse these — the faint-hearted are not the disorderly, and correcting them would only break them]\\add*.
+\\v 15 See that no one gives back evil for evil to anyone, but always pursue the good toward one another and toward all.
+\\s1 Rejoice, Pray, Give Thanks
+\\p
+\\v 16 Rejoice always.
+\\v 17 Pray without ceasing.
+\\v 18 In everything give thanks, for this is God's will in the Christ Jesus for you.\\f + \\fr 5:18 \\ft At 4:3 God's will was named as your being made holy. The two are one thing from two sides: what is done with the body, and what a life turned toward God sounds like from the inside.\\f*
+\\s1 Do Not Quench the Spirit — Test It
+\\p
+\\v 19 Do not quench the Spirit \\add [i.e. there is a fire burning among you; do not put it out]\\add*.
+\\v 20 Do not count prophecies as nothing\\f + \\fr 5:20 \\ft Speech given in the assembly's gathering under the Spirit, for its building up and encouragement. Some were treating it with contempt. Paul's answer is neither to swallow it whole nor to silence it, but the one he gives in the next verse: test it.\\f*.
+\\v 21 But test all things; hold fast the good.
+\\v 22 Hold yourselves away from every form of evil.
+\\s1 Closing Prayer
+\\p
+\\v 23 Now may the God of peace himself make you holy through and through, and may your whole spirit and soul and body\\f + \\fr 5:23 \\ft Three words piled up to say "the whole of you, with nothing left out." It is not a theory about the parts a person is made of.\\f* be kept whole in every part, blameless at the coming of our Lord Jesus the Christ.
+\\v 24 Faithful is the one who calls you \\add [i.e. who is calling you still]\\add*, who also will do it.
+\\s1 Final Requests
+\\p
+\\v 25 Brothers, pray also for us.
+\\v 26 Greet all the brothers with a holy kiss\\f + \\fr 5:26 \\ft The ordinary greeting between members of a family, taken into the assembly's gatherings as the sign that these people now are one (Romans 16:16; 1 Corinthians 16:20).\\f*.
+\\v 27 I put you under oath by the Lord\\f + \\fr 5:27 \\ft The only place in the letter where Paul speaks alone and in his own name, and he does it with the strongest form of adjuration there is. He wants no one left out of the hearing — the assembly may well have been meeting in more than one house.\\f* to have this letter read to all the brothers.
+\\v 28 The favor of our Lord Jesus the Christ be with you.
+`;
