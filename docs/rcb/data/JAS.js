@@ -1,0 +1,177 @@
+const USFM = `\\id JAS - Restored Context Bible (RCB)
+\\usfm 3.0
+\\ide UTF-8
+\\h James
+\\toc1 The Letter of James to the Twelve Tribes Scattered Abroad
+\\toc2 James
+\\toc3 Jas
+\\mt1 James
+
+\\imt Introduction
+\\ip The writer names himself only as James — in Greek \\tl Iakobos\\tl*, that is Jacob — and adds no title beyond "a slave of God and of the Lord Jesus the Christ." He expects to be recognized without further credentials. The man who needed none was James the brother of Jesus, who did not believe in him during his lifetime (John 7:5), saw him after he was raised (1 Corinthians 15:7), and became the head of the community in Jerusalem (Acts 15:13-21; Galatians 2:9). The date is somewhere in the middle of the first century.
+\\ip He writes "to the twelve tribes scattered abroad" — to Jewish believers living outside the land, among the nations. The phrase carries Israel's whole history in it. The twelve tribes had not existed as one people for seven centuries, and the prophets had promised that God would gather them again. These are people who understand themselves as the covenant nation, living far from its center, waiting.
+\\ip What provoked the letter is not a doctrinal dispute but a way of living. The community is poor and under pressure. Wealthy landowners hold back the wages of the men who mow their fields, haul the community before magistrates, and insult the name it bears. Inside the assembly the community has adopted the world's measure of a man, seating the visitor in fine clothes in the good place and the poor man on the floor. They quarrel and slander each other, they crowd toward the standing of teacher, and they say the right things about God while doing nothing for the brother in front of them who has no coat and no dinner.
+\\ip Against this James writes in the manner of Israel's wisdom teachers — short, hard, concrete instruction moving quickly from one subject to the next, in the line of Proverbs and Ben Sira. He is also saturated with the teaching of Jesus, which surfaces in nearly every paragraph, though he never once quotes his brother by name; he has absorbed it and delivers it as his own. One question governs the whole letter: does what a man says he believes show up in what he actually does? The letter ends with no farewell at all, on the sentence that answers it.
+
+\\c 1
+\\s1 Greeting
+\\p
+\\v 1 James, a slave\\f + \\fr 1:1 \\ft Greek \\tl doulos\\tl*, one who belongs entirely to his master. It is the title Israel's scriptures give to Moses, David, and the prophets (Joshua 1:1; 2 Samuel 7:5; Amos 3:7).\\f* of God and of the Lord Jesus the Christ, to the twelve tribes scattered abroad\\f + \\fr 1:1 \\ft Greek \\tl diaspora\\tl*, the standing word for Jews living outside the land. "Twelve tribes" names the whole of Israel, which had not existed as one people since the northern tribes were deported in 722 BC. The prophets promised that God would gather them from wherever they had been scattered (Deuteronomy 30:4).\\f*: Greetings.
+\\s1 Trials, and the Wisdom to Meet Them
+\\p
+\\v 2 Count it all joy, my brothers, whenever you fall in among tests of every kind,
+\\v 3 knowing that the proving \\add [i.e. the assaying of it, as metal is put in the fire to find out whether it is real]\\add* of your faithfulness\\f + \\fr 1:3 \\ft Greek \\tl pistis\\tl* holds two things in one word: trust, and the loyalty that trust produces. English "faith" carries only the first half, so this translation says "faithfulness" throughout.\\f* works out endurance.
+\\v 4 And let endurance have its complete work \\add [i.e. let it run all the way to its end, and do not cut it short]\\add*, so that you may be complete, whole in every part, lacking in nothing.
+\\v 5 And if any of you lacks wisdom, let him ask from God, who gives to all with a whole heart and does not reproach \\add [— he will not shame a man for having to ask]\\add*, and it will be given him.
+\\v 6 But let him ask in faithfulness, divided in nothing \\add [i.e. not asking with one half of himself while doubting with the other]\\add*; for the one who is divided is like a surge of the sea, blown by the wind and flung about.
+\\v 7 Let not that man suppose that he will receive anything from the Lord —
+\\v 8 a man of two hearts\\f + \\fr 1:8 \\ft Greek \\tl dipsychos\\tl*, "two-souled." The word appears nowhere in Greek before this letter and may be James's own coinage. It returns at 4:8, where it is given a remedy.\\f*, restless in all his ways.
+\\s1 The Low Man Is Raised, the Rich Man Withers
+\\p
+\\v 9 Let the brother who is low boast in his height \\add [i.e. in the standing God has given him, which no one around him can see]\\add*,
+\\v 10 and the rich one in his being brought low \\add [i.e. in having stripped from him the very thing he was holding on to]\\add*, because like a flower of the grass he will pass away.
+\\v 11 For the sun rose with the burning wind\\f + \\fr 1:11 \\ft The \\tl sirocco\\tl*, the hot dry wind off the eastern desert, which could kill a field in a day. The whole picture is Isaiah 40:6-8: "All flesh is grass... the grass withers and the flower falls, but the word of our God stands forever."\\f* and dried up the grass, and its flower fell, and the beauty of its face was destroyed. So also the rich man will wither in the midst of his goings \\add [i.e. in the middle of his ventures, with the deals still running]\\add*.
+\\s1 Where Testing Comes From, and Where Every Good Gift Comes From
+\\p
+\\v 12 Blessed is the man who endures testing, because, when he has been proved, he will receive the crown of life\\f + \\fr 1:12 \\ft Greek \\tl stephanos\\tl*, the wreath given to the winner of a contest, not the crown of a king. It goes to the one who finishes.\\f*, which he promised to those who love him.
+\\v 13 Let no one being tested\\f + \\fr 1:13 \\ft One Greek word, \\tl peirasmos\\tl*, covers both the outward hardship of verse 2 and the inward pull toward wrong spoken of here. James uses it for both and then separates the sources: God sends the one and never the other.\\f* say, "I am being tested from God." For God is untested by evils \\add [i.e. evil has no purchase on him, no point of contact to work through]\\add*, and he himself tests no one.
+\\v 14 But each one is tested when he is dragged out and baited by his own craving \\add [i.e. lured out of cover and hooked, the way a fish is taken]\\add*.
+\\v 15 Then craving conceives and bears sin, and sin, when it has come to full term, gives birth to death.
+\\v 16 Do not be led astray, my beloved brothers.
+\\v 17 Every good giving and every complete gift is from above, coming down from the Father of the lights \\add [i.e. of the sun and moon and stars, which he made]\\add*, with whom there is no shifting, nor shadow cast by turning\\f + \\fr 1:17 \\ft The words are taken from watching the sky. Every light he made varies — rising and setting, waxing and waning, moving with the seasons, throwing a shadow as it turns. He does not.\\f*.
+\\v 18 Because he willed it, he gave us birth by a word of truth \\add [— set against the birth just described: craving bears sin and sin bears death, but he bore us]\\add*, so that we might be a kind of firstfruits\\f + \\fr 1:18 \\ft The first portion of a harvest, brought to God and consecrating the whole crop that followed it (Exodus 23:19; Leviticus 23:10). Israel itself was called God's firstfruits (Jeremiah 2:3).\\f* of what he has created.
+\\s1 Do Not Only Hear the Word — Do It
+\\p
+\\v 19 Know this, my beloved brothers: let every man be quick to hear, slow to speak, slow to anger;
+\\v 20 for a man's anger does not work the righteousness of God.
+\\v 21 So strip off all filth and every overflow of evil \\add [i.e. whatever of the old life is still left clinging to you]\\add*, and in meekness receive the implanted word \\add [i.e. the word already planted in you, like seed put down in ground]\\add*, which is able to save your lives.
+\\v 22 But become doers of the word, and not hearers only, deceiving yourselves.
+\\v 23 For if anyone is a hearer of the word and not a doer, this one is like a man looking in a mirror\\f + \\fr 1:23 \\ft A polished sheet of bronze or silver. It gave back a face a man could recognize, but not sharply.\\f* at the face he was born with:
+\\v 24 he looked at himself and has gone away, and at once he forgot what sort of man he was.
+\\v 25 But the one who stoops to look into the complete Torah, the Torah of freedom\\f + \\fr 1:25 \\ft "Complete" translates \\tl teleios\\tl*: the Torah brought to the end it was made for. "Of freedom" says what it does to a man who keeps it — it frees him rather than binding him. What this letter puts inside it is the love of the neighbor (2:8) and the commandments (2:11).\\f*, and stays beside it — becoming not a hearer who forgets but a doer of work — this one will be blessed in his doing.
+\\s1 The Service God Actually Accepts
+\\p
+\\v 26 If anyone thinks he serves God\\f + \\fr 1:26 \\ft Greek \\tl thrēskeia\\tl*, the outward practice of religion: the observances a man performs and can be seen performing.\\f* and does not bridle his tongue but deceives his own heart, this man's service is empty.
+\\v 27 Service to God that is clean and undefiled beside God the Father is this: to visit orphans and widows\\f + \\fr 1:27 \\ft The standing pair in the Torah and the prophets for those left with no protector and no standing (Exodus 22:22; Deuteronomy 10:18; Isaiah 1:17). To "visit" is what God himself is said to do for his people — to come to them and see to what they need.\\f* in their affliction, and to keep oneself unstained from the world.
+
+\\c 2
+\\s1 Do Not Fawn on the Rich in Your Assembly
+\\p
+\\v 1 My brothers, hold the faithfulness of our Lord Jesus the Christ, the glory\\f + \\fr 2:1 \\ft Greek \\tl doxa\\tl*, standing for Hebrew \\tl kavod\\tl*: the weight of God's own presence, which filled the tabernacle and settled on Sinai (Exodus 40:34-35). The title is laid on Jesus here without a word of argument, as something already agreed.\\f*, without receiving faces\\f + \\fr 2:1 \\ft A Hebrew idiom — "to lift the face," to decide a matter by who a man is rather than by the case. God is defined by its absence: he "does not receive the face and does not take a bribe" (Deuteronomy 10:17; Leviticus 19:15).\\f*.
+\\v 2 For if a man with gold rings on his fingers comes into your synagogue\\f + \\fr 2:2 \\ft Greek \\tl synagōgē\\tl*. The community's gathering is named exactly as any Jewish assembly would be named.\\f* in shining clothes, and a poor man in filthy clothes also comes in,
+\\v 3 and you fix your eyes on the one wearing the shining clothes and say, "You, sit here in a good place," and to the poor man you say, "You, stand there," or, "Sit under my footstool \\add [i.e. on the floor, down at my feet]\\add*,"
+\\v 4 have you not made divisions among yourselves and become judges with evil reasonings?
+\\v 5 Hear, my beloved brothers: did not God choose\\f + \\fr 2:5 \\ft Greek \\tl exelexato\\tl*, the choosing word of Israel's scriptures. God chose Israel not because it was the greatest of the peoples but because it was the smallest (Deuteronomy 7:6-7). He has always chosen past what men count.\\f* the poor of the world to be rich in faithfulness and heirs of the kingdom which he promised to those who love him?
+\\v 6 But you have dishonored the poor man. Is it not the rich who oppress you, and they themselves who drag you into courts \\add [— they use the law itself as a weapon against you]\\add*?
+\\v 7 Is it not they who blaspheme the good name that was called over you\\f + \\fr 2:7 \\ft A Hebrew way of speaking: to have a name "called over" something is to own it (2 Chronicles 7:14; Amos 9:12). The name called over this community is the Messiah's, and it marks them as his.\\f*?
+\\s1 Break One Command and You Have Broken the Whole Torah
+\\p
+\\v 8 If, however, you complete the king's Torah \\add [i.e. the law of the kingdom he has promised you]\\add* according to the Scripture, "You shall love your neighbor as yourself,"\\f + \\fr 2:8 \\ft Leviticus 19:18. Three verses earlier, the same chapter says: "You shall not receive the face of the poor nor defer to the great, but judge your neighbor fairly" (Leviticus 19:15). The two commands stand side by side, and this community is keeping one while breaking the other.\\f* you do well.
+\\v 9 But if you receive faces, you work sin, and you are convicted by the Torah as men who break it.
+\\v 10 For whoever keeps the whole Torah but stumbles in one thing has become liable for it all \\add [— it is not a list of separate rules to be scored, but one cloth: tear it anywhere and it is torn]\\add*.
+\\v 11 For the one who said, "Do not commit adultery," also said, "Do not murder."\\f + \\fr 2:11 \\ft Exodus 20:13-14; Deuteronomy 5:17-18. The point is the single voice behind both: one Lawgiver, so one law.\\f* Now if you do not commit adultery but you do murder, you have become a breaker of Torah.
+\\v 12 So speak and so do, as men about to be judged through a Torah of freedom.
+\\v 13 For the judgment is without mercy to the one who has done no mercy. Mercy boasts over judgment \\add [i.e. mercy has the louder voice when the reckoning comes]\\add*.
+\\s1 Faithfulness That Does Nothing Is Dead
+\\p
+\\v 14 What is the good of it, my brothers, if someone says he has faithfulness but does not have works? Can that faithfulness \\add [i.e. the kind that is only said]\\add* save him?
+\\v 15 If a brother or a sister is naked and lacking the day's food,
+\\v 16 and one of you says to them, "Go in peace, be warmed and be filled,"\\f + \\fr 2:16 \\ft "Go in peace" was the ordinary parting blessing (1 Samuel 1:17). Here it is being used as a substitute for a coat and a meal.\\f* but you do not give them what the body needs — what is the good of it?
+\\v 17 So also faithfulness, if it does not have works, is dead by itself.
+\\v 18 But someone will say, "You have faithfulness and I have works." \\add [— as though the two could be parceled out, one man believing and another acting.]\\add* Show me your faithfulness apart from the works \\add [— you cannot; there is nothing to point at]\\add*, and I will show you the faithfulness out of my works.
+\\v 19 You trust that God is one?\\f + \\fr 2:19 \\ft Deuteronomy 6:4, the \\tl Shema\\tl*, which every observant Jew recited daily. It is the most basic confession Israel has.\\f* You do well. The demons also trust — and they shudder.
+\\s1 Abraham and Rahab: Faithfulness Completed in Action
+\\p
+\\v 20 But do you want to know, empty man, that faithfulness apart from the works is without work?
+\\v 21 Was not Abraham our father set right\\f + \\fr 2:21 \\ft Greek \\tl dikaioō\\tl*, to be declared in the right — a verdict pronounced over a man, as in a court.\\f* out of works when he brought Isaac his son up onto the altar\\f + \\fr 2:21 \\ft Genesis 22. What he was told to give up was the one son through whom the whole promise was to come (Genesis 21:12), and he went up the mountain and did it.\\f*?
+\\v 22 You see that faithfulness was working together with his works, and out of the works the faithfulness was completed,
+\\v 23 and the Scripture was filled full \\add [i.e. what had been said of him long before was brought to its fullness here]\\add* that says, "And Abraham trusted God, and it was counted to him as righteousness"\\f + \\fr 2:23 \\ft Genesis 15:6, spoken decades before Moriah. It was not overturned by what happened on the mountain; it was filled out by it.\\f* — and he was called God's friend\\f + \\fr 2:23 \\ft The title is not in Genesis. It comes from 2 Chronicles 20:7 and Isaiah 41:8, where God calls Abraham "the one who loved me," and it was in common use in the Judaism of this period.\\f*.
+\\v 24 You see that a man is set right out of works and not out of faithfulness alone \\add [— the word to weigh is "alone"]\\add*.
+\\v 25 In the same way Rahab the prostitute also — was she not set right out of works when she took in the messengers and sent them out by another road\\f + \\fr 2:25 \\ft Joshua 2. She hid Joshua's spies from the king of Jericho's men, lied to the search party, and let the spies down the city wall by a rope. Had she been caught it would have cost her life. A Canaanite woman and a prostitute is set here beside the father of the nation, and the same thing is said of both.\\f*?
+\\v 26 For just as the body apart from breath\\f + \\fr 2:26 \\ft One word, \\tl pneuma\\tl*, is both breath and spirit, in Greek as in Hebrew. What leaves a corpse and what animates a living man are the same thing.\\f* is dead, so also faithfulness apart from works is dead.
+
+\\c 3
+\\s1 The Tongue: Small, and Able to Burn Everything
+\\p
+\\v 1 Not many of you should become teachers, my brothers, knowing that we will receive a greater judgment \\add [i.e. we who teach are weighed on a stricter measure than the rest]\\add*.
+\\v 2 For we all stumble in many things. If anyone does not stumble in word, this is a complete man \\add [i.e. a man come to his full growth]\\add*, able to bridle the whole body as well.
+\\v 3 If we put bits into the mouths of horses so that they will obey us, we turn their whole body as well.
+\\v 4 Look at the ships too: as big as they are and driven by hard winds, they are turned by a very small rudder wherever the impulse of the man steering wills \\add [— and the rudder does not choose; it goes where the man at the tiller is already going]\\add*.
+\\v 5 So also the tongue is a small member, and it boasts of great things. Look how small a fire sets so great a forest alight!
+\\v 6 And the tongue is a fire. The world of unrighteousness \\add [i.e. the whole range of human wrong, gathered into one small member]\\add*, the tongue is set among our members, staining the whole body and setting on fire the wheel of birth \\add [i.e. the whole turning course of a life, from the moment it starts]\\add*, and set on fire by Gehenna\\f + \\fr 3:6 \\ft The Valley of Hinnom, outside Jerusalem, where children had once been burned to Molech and which Josiah defiled to end it (2 Kings 23:10). In the prophets and in Jesus's teaching its name became the name of the fire of final judgment (Isaiah 66:24; Mark 9:43-47).\\f*.
+\\s1 One Mouth Cannot Bless and Curse
+\\p
+\\v 7 For every kind of beast and bird, of creeping thing and sea creature, is tamed and has been tamed by human kind\\f + \\fr 3:7 \\ft The four kinds are the four domains over which man was given rule at the creation (Genesis 1:26-28). He holds every one of them, and cannot hold his own tongue.\\f*,
+\\v 8 but the tongue no one among men can tame — a restless evil, full of death-bearing venom\\f + \\fr 3:8 \\ft "The venom of asps is under their lips" (Psalm 140:3). The tongue is being called a snake.\\f*.
+\\v 9 With it we bless the Lord and Father, and with it we curse men who have been made in the likeness of God\\f + \\fr 3:9 \\ft Genesis 1:26. The Greek is a perfect: they were made so and they remain so. The likeness is not something a man forfeits by being the sort of man you want to curse.\\f*.
+\\v 10 Out of the same mouth comes blessing and cursing. My brothers, these things ought not to be so.
+\\v 11 Does the spring pour out the sweet and the bitter from the same opening?
+\\v 12 Can a fig tree, my brothers, make olives, or a vine figs? Neither can salt water make sweet \\add [— what comes out tells you what the source is, and there is only one source]\\add*.
+\\s1 Two Kinds of Wisdom
+\\p
+\\v 13 Who among you is wise and understanding? Let him show his works out of a good way of life, in the meekness of wisdom.
+\\v 14 But if you have bitter jealousy and self-seeking rivalry\\f + \\fr 3:14 \\ft Greek \\tl eritheia\\tl*, used of a political faction working for its own advantage at the cost of everyone else's.\\f* in your heart, do not boast against the truth and lie against it.
+\\v 15 This is not the wisdom that comes down from above; it is earthly, creaturely \\add [i.e. running on nothing but a man's own natural resources]\\add*, demonic.
+\\v 16 For where there is jealousy and self-seeking rivalry, there is unrest and every worthless deed.
+\\v 17 But the wisdom from above is first pure, then peaceable, gentle, ready to yield, full of mercy and good fruits, undivided \\add [i.e. it does not waver and it does not play favorites]\\add*, wearing no mask.
+\\v 18 And the fruit of righteousness is sown in peace by those who make peace \\add [— peace is the ground it grows in, and it will not grow in any other]\\add*.
+
+\\c 4
+\\s1 Where Your Quarrels Really Come From
+\\p
+\\v 1 Where do the wars among you come from, and where the fights? Is it not from here — out of your pleasures that are on campaign in your members \\add [i.e. cravings that have taken the field inside you and are running a war of their own]\\add*?
+\\v 2 You crave and do not have. You murder\\f + \\fr 4:2 \\ft The plain word for killing. It may mean actual violence in a community where rivalry had turned lethal, or it may carry the force of the teaching that hatred of a brother is already murder (Matthew 5:21-22; 1 John 3:15).\\f* and are jealous and cannot get. You fight and make war. You do not have because you do not ask \\add [— the one thing you have not tried is the thing I told you to do first]\\add*.
+\\v 3 You ask and do not receive, because you ask badly \\add [i.e. you ask God to fund the very craving that is tearing you apart]\\add*, so that you may spend it on your pleasures.
+\\v 4 Adulteresses!\\f + \\fr 4:4 \\ft The prophets speak of God's covenant with Israel as a marriage, and of Israel's turning to other gods and other nations' ways as adultery (Hosea 1-3; Jeremiah 3:1; Ezekiel 16 and 23). The feminine form belongs to that picture — the nation as the wife — and is not aimed at the women in the room.\\f* Do you not know that friendship with the world is enmity with God? So whoever wants to be a friend of the world is set up as an enemy of God \\add [— and he is the one who sets himself there]\\add*.
+\\v 5 Or do you think the Scripture speaks for nothing when it says, "The spirit he made to dwell in us yearns jealously"?\\f + \\fr 4:5 \\ft These words match no passage that has come down to us. They may sum up the cumulative witness rather than quote one text: God is jealous for the undivided loyalty of his people (Exodus 20:5; 34:14; Zechariah 8:2), and he has put his Spirit inside them (Ezekiel 36:27). The Greek can also be read the other way round — that the spirit God put in us is what yearns enviously.\\f*
+\\v 6 But he gives greater favor. Therefore it says, "God sets himself against the proud, but to the lowly he gives favor."\\f + \\fr 4:6 \\ft Proverbs 3:34.\\f*
+\\s1 Come Back to God
+\\p
+\\v 7 So put yourselves under God. Stand against the devil, and he will flee from you.
+\\v 8 Come near to God, and he will come near to you\\f + \\fr 4:8 \\ft The prophets' own terms for return: "Turn back to me, and I will turn back to you" (Zechariah 1:3; Malachi 3:7).\\f*. Cleanse your hands, sinners, and purify your hearts, you of two hearts\\f + \\fr 4:8 \\ft Hands and hearts together are the qualification for coming into God's presence: "who has clean hands and a pure heart" (Psalm 24:3-4). "You of two hearts" is the same word used at 1:8, where the condition disqualified a man from receiving anything. Here it is treated as curable.\\f*.
+\\v 9 Be wretched and mourn and weep. Let your laughter be turned to mourning and your joy to a face cast down.
+\\v 10 Be made low before the Lord, and he will lift you high.
+\\s1 Who Are You to Judge Your Neighbor?
+\\p
+\\v 11 Do not speak against one another, brothers. The one who speaks against a brother or judges his brother speaks against Torah and judges Torah. And if you judge Torah, you are not a doer of Torah but a judge \\add [i.e. you have put yourself above it, deciding which of its commands bind you and which do not]\\add*.
+\\v 12 There is one lawgiver and judge\\f + \\fr 4:12 \\ft "The LORD is our judge, the LORD is our lawgiver, the LORD is our king; he will save us" (Isaiah 33:22).\\f*, the one able to save and to destroy. But you — who are you, judging your neighbor?
+\\s1 You Do Not Know What Tomorrow Holds
+\\p
+\\v 13 Come now, you who say, "Today or tomorrow we will go into such and such a city and spend a year there and trade and make a profit" \\add [— every verb of it settled in advance, and God nowhere in the sentence]\\add* —
+\\v 14 you who do not know what tomorrow will bring, what your life is. For you are a vapor that appears for a little and then disappears.
+\\v 15 Instead you ought to say, "If the Lord wills, we will both live and do this or that." \\add [— and note which of the two comes first: whether you are alive to do it at all is not yours to schedule.]\\add*
+\\v 16 But as it is, you boast in your swaggering. All such boasting is evil.
+\\v 17 So to the one who knows to do good and does not do it, to him it is sin.
+
+\\c 5
+\\s1 To the Rich: What Is Coming Upon You
+\\p
+\\v 1 Come now, you rich\\f + \\fr 5:1 \\ft These are not addressed as brothers, as everyone else in the letter is, and they are not called to repent. They are told what is already on its way.\\f*, weep and howl\\f + \\fr 5:1 \\ft The prophets' word for the shriek that goes up when judgment falls (Isaiah 13:6; Amos 8:3).\\f* over the wretchedness coming upon you.
+\\v 2 Your wealth has rotted and your clothes have become moth-eaten\\f + \\fr 5:2 \\ft Fine clothing was stored wealth in the ancient world, held and traded like money. Moths in it are proof that it was hoarded and never used, while the brother of 2:15 went without a coat.\\f*.
+\\v 3 Your gold and your silver have rusted \\add [— gold does not rust; that is the point of saying it has]\\add*, and their rust will be a witness against you and will eat your flesh like fire. You stored up treasure in the last days \\add [i.e. you were hoarding it in the very hour before the reckoning]\\add*.
+\\v 4 Look — the wages of the workers who mowed your fields, which you kept back, cry out\\f + \\fr 5:4 \\ft The Torah requires that a hired man be paid the same day: "he is poor and sets his heart on it, so that he will not cry against you to the LORD and it become sin in you" (Deuteronomy 24:14-15; Leviticus 19:13). The cry the Torah warned about has now gone up.\\f*; and the shouts of the harvesters have gone into the ears of the Lord of Armies\\f + \\fr 5:4 \\ft Hebrew \\tl YHWH tseva'ot\\tl*, carried into Greek as "Sabaoth": God as commander of heaven's armies, the title used when he is about to act. A cry going up into his ears is how Israel's own cry under Egypt is described, just before the Exodus (Exodus 2:23-24).\\f*.
+\\v 5 You lived softly on the earth and gave yourselves to luxury. You fattened your hearts in a day of slaughter \\add [i.e. as cattle fatten in the pen, and the pen has a purpose]\\add*.
+\\v 6 You condemned, you murdered the righteous one. He does not set himself against you \\add [— he does not fight back, and he leaves the reckoning where it belongs]\\add*.
+\\s1 Wait for the Lord's Coming
+\\p
+\\v 7 So be long-suffering\\f + \\fr 5:7 \\ft Greek \\tl makrothymia\\tl*, literally "long-tempered": the restraint that waits instead of striking back. It is not the same as the endurance of 1:3, which is holding up under weight.\\f*, brothers, until the coming of the Lord. Look, the farmer waits for the precious fruit of the land, being long-suffering over it until it receives the early and the late rains\\f + \\fr 5:7 \\ft The rain of October and November that starts the seed, and the rain of March and April that fills out the grain before harvest. Both are needed, neither comes at the farmer's call, and there is nothing he can do to hurry either.\\f*.
+\\v 8 You too be long-suffering. Make your hearts firm, because the coming of the Lord has come near.
+\\v 9 Do not groan against one another, brothers, so that you may not be judged. Look, the judge stands before the doors \\add [— already at the threshold, about to walk in]\\add*.
+\\v 10 Take as an example of suffering hardship and long-suffering, brothers, the prophets who spoke in the name of the Lord\\f + \\fr 5:10 \\ft Speaking for God is what got them beaten, imprisoned, and killed (Jeremiah 20:2; 38:6; 2 Chronicles 36:15-16). The community's own suffering is not new and not a sign that something has gone wrong.\\f*.
+\\v 11 Look, we call blessed those who endured. You have heard of the endurance of Job \\add [— and he was not quiet under it: he protested, he argued, he demanded an answer, and he never let go of God]\\add*, and you have seen the end the Lord brought about \\add [i.e. how the Lord finished the story]\\add*, that the Lord is tender in his inward parts and full of pity\\f + \\fr 5:11 \\ft A Hebrew way of speaking: the inward organs are where compassion is felt. The words echo God's own description of himself to Moses — "compassionate and gracious, slow to anger, abounding in steadfast love" (Exodus 34:6).\\f*.
+\\s1 Let Your Yes Be Yes
+\\p
+\\v 12 Above all, my brothers, do not swear — not by the heaven, not by the earth, not by any other oath. Let your Yes be yes and your No be no\\f + \\fr 5:12 \\ft The same teaching stands in the tradition behind Matthew 5:33-37. A man needs an oath only where his plain word is not trusted; the demand here is for speech that needs no backing.\\f*, so that you may not fall under judgment.
+\\s1 Pray in Every Condition
+\\p
+\\v 13 Is anyone among you suffering hardship? Let him pray. Is anyone in good spirits? Let him sing praise.
+\\v 14 Is anyone among you weak? Let him call the elders of the assembly, and let them pray over him, anointing him with oil\\f + \\fr 5:14 \\ft Olive oil was the ordinary medicine of the day, rubbed on the sick and poured into wounds (Luke 10:34). Done "in the name of the Lord," the same act is both the care and the trust.\\f* in the name of the Lord.
+\\v 15 And the prayer of faithfulness will save the one who is worn down, and the Lord will raise him up \\add [— the Lord does it; the elders only ask]\\add*. And if he has done sins, they will be let go.
+\\v 16 So confess your sins to one another \\add [— to one another, not to an officeholder]\\add* and pray for one another, so that you may be healed. A righteous man's prayer has great strength as it works.
+\\v 17 Elijah was a man of the same feelings as ours \\add [i.e. made of exactly what we are made of, with the same weaknesses in him]\\add*, and he prayed a prayer that it would not rain, and it did not rain on the land for three years and six months\\f + \\fr 5:17 \\ft 1 Kings 17:1 through 18:45. Elijah was one righteous man standing against the whole apparatus of a corrupt court, which is roughly where this community finds itself.\\f*.
+\\v 18 And again he prayed, and the heaven gave rain and the land sprouted its fruit.
+\\s1 Turning Back the One Who Wanders
+\\p
+\\v 19 My brothers, if anyone among you wanders from the truth and someone turns him back \\add [— anyone at all; this is not the work of an office]\\add*,
+\\v 20 let him know that the one who turns a sinner back from the wandering of his road will save his life from death \\add [i.e. the wanderer's own life, pulled back from where that road ends]\\add* and will cover a multitude of sins\\f + \\fr 5:20 \\ft "Hatred stirs up strife, but love covers all transgressions" (Proverbs 10:12). To cover is not to hide a wrong from view but to deal with it, so that it no longer stands between anyone.\\f*.
+`;
