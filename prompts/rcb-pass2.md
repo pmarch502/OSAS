@@ -11,6 +11,8 @@ Read these two files first:
 
 The translation is finished and frozen. Change nothing outside the markers you add — not a word, not a mark of punctuation. It is not yours to judge. Where the wording is hard to follow, that is exactly what your amplification is for — clarify it there.
 
+You may add five markers and no others: `\add`, `\f`, `\s1`, `\imt`, and `\ip`.
+
 Add your amplification using the following format:
 
 **Inline** — bracketed text wrapped in `\add ... \add*`, placed immediately after the words it completes:
@@ -33,4 +35,12 @@ Use inline when it completes the thought and the sentence still reads in one bre
 
 Write every inline amplification in the author's own voice, continuing the sentence he is already writing. Read the amplified sentence aloud with the brackets ignored: it should sound like he wrote it that way from the start, not like someone has interrupted him to explain. Never narrate about him — no "Paul means," no "the term here refers to," no study-note voice. Things that cannot be said in his voice, because he could not have said them about himself — the background of a Greek word, a cross-reference, a manuscript note — go in footnotes.
 
-Output USFM 3.x to `usfm/nt/{BOOK}-pass2.usfm`.
+## Introduction and section headings
+
+Two more things the book needs, both written from the same neutral readings.
+
+**Introduction.** After the `\mt1` line, write `\imt Introduction` followed by two to four `\ip` paragraphs: who wrote to whom, where they were, roughly when, and what situation provoked the letter. A reader who knows nothing should be able to follow the argument after reading it. This is editorial, not the author's voice, and it is not a summary of the book's contents.
+
+**Section headings.** Break the book into the movements of its argument with `\s1` headings. A heading says what the passage does, in plain words, in the fewest that will carry it. Put each on its own line, immediately before the `\p` that opens the section — never inside a paragraph, and always with a `\p` following it.
+
+Output USFM 3.x to `usfm/nt/{BOOK}.usfm`. This is the finished book.

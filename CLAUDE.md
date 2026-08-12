@@ -62,13 +62,41 @@ Original English translation from Greek with inline contextual restorations (`\a
 
 ### RCB pipeline
 
+Produced in two passes. The translation is made first, on its own, and is frozen before any amplification touches it.
+
 ```
-usfm/nt/{BOOK}.usfm                ← Source: USFM with restorations and footnotes
+prompts/rcb-pass1.md               ← Pass 1: translation only
+        ↓
+usfm/nt/{BOOK}-pass1.usfm          ← Intermediate (gitignored)
+        ↓
+prompts/rcb-pass2.md               ← Pass 2: amplification, intro, headings
+        ↓
+usfm/nt/{BOOK}.usfm                ← The finished book (COMMITTED)
         ↓
 docs/rcb/data/{BOOK}.js            ← JS data file (MUST REGENERATE)
         ↓
 docs/rcb/index.html                ← Single viewer (loads ?book={BOOK})
 ```
+
+Pass 1 renders the Greek with the Hebrew thinking behind it intact and resolves nothing. Pass 2 adds `\add`, `\f`, `\s1`, `\imt`, and `\ip` and may change nothing else — the base text is frozen. Pass 2 writes the finished book directly; there is no separate merge step.
+
+The `-pass1` file is a build intermediate, gitignored, and can be deleted after the book is published. The final `{BOOK}.usfm` reproduces it by stripping markers, and the viewer's "Restorations: OFF" toggle already shows a reader the un-amplified translation.
+
+### Running the RCB passes
+
+- Model: opus, one agent per pass
+- Give the agent the prompt file's text **verbatim**, plus the minimal instruction naming the book (e.g. "Translate Ephesians." / "Amplify Ephesians.") and the working directory. Add nothing else — no "report back on your choices," no extra constraints, no invented output path
+- Run pass 2 only after pass 1 is finished; it reads pass 1's file
+- After pass 2: verify the freeze by stripping every `\add` and `\f` from `{BOOK}.usfm` and diffing the remainder against `{BOOK}-pass1.usfm`, ignoring the `\s1`/`\imt`/`\ip` lines pass 2 added. It must come back identical. Check that markers are balanced and verse counts match standard versification
+- Then follow "Publishing a finished book" in `RCB-decisions.md`
+
+### How much to run at once
+
+Whole book wherever it fits. That is the point of the design: key terms and the senses a word carries can only be judged across the whole of what an author wrote, and chapter-at-a-time runs drift.
+
+Where a book is too long to hold in one pass, the split is a judgment call made book by book, not a fixed rule. Split at a structural seam in the argument, never at an arbitrary chapter count, and carry the term decisions forward from one piece to the next. Among the NT books, pass 2 is the constraint — Matthew, Luke, John, Acts, and Revelation are the likely candidates.
+
+This will matter far more in the OT, where several books are longer than anything in the NT. Assume chunking will be normal there and decide it per book.
 
 ### RCB links in reports
 
@@ -98,6 +126,8 @@ The script reads `usfm/nt/{BOOK}.usfm`, escapes for a JS template literal, and w
 ### RCB file naming
 
 `{BOOK}.usfm` — three-letter book abbreviation (e.g., `GAL`, `ROM`, `EPH`). Same abbreviation used in the data JS file and the `?book=` query parameter.
+
+`{BOOK}-pass1.usfm` — the pass 1 intermediate for that book. Gitignored, along with `docs/rcb/data/*-pass1.js` and the equivalent `-pass2` names.
 
 ## Correction workflow
 

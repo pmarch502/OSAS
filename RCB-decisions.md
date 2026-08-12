@@ -17,18 +17,29 @@
 ## Base Text
 - **Original translation** from Greek (NT) — not derived from any copyrighted English translation
 - **Source text basis**: NA28/UBS5 critical text, noting major variants
-- **Translation philosophy**: Formal-leaning, not wooden (ESV range, not NASB-stiff or NIV-smooth)
+- **Translation philosophy**: every NT writer except Luke thinks like a Hebrew and writes in Greek. Translate the thought, not the container. Plain natural English — raw does not mean clumsy
+  - Where a Greek word carries a Hebrew idea, translate the Hebrew idea; where a Greek and a Hebrew reading pull apart, take the Hebrew one
+  - Keep the shape of Hebrew thinking: concrete over abstract, the whole person, verbs over nouns, parallel lines left untidied, physical words for inner states
   - Preserve Greek ambiguities — let restorations resolve them, not the translation
   - Keep complex sentence structure when intelligible in English
-  - Translate key terms consistently rather than contextually varying
   - No interpretive smoothing — base text says what the Greek says, restorations add context
-- **Key term decisions**:
+  - Luke is the exception: translate his Greek as Greek, except in OT quotation and deliberate Septuagint style (Luke 1-2, the speeches in Acts)
+- **Key term decisions** (as rendered in Galatians):
   - ἐκκλησία (ekklēsia) → always "assembly" (no restoration needed)
   - Χριστός (Christos) → "the Christ" (title, not surname)
-  - πίστις (pistis) → vary by context (faith / faithfulness / trust / loyalty); EA clarifies
-  - νόμος (nomos) → vary by context (law / Torah / principle); EA clarifies
-  - χάρις (charis) → vary by context (grace / favor); EA clarifies
-  - More terms to be decided as Galatians translation proceeds
+  - νόμος (nomos) → "Torah"; exception at 5:23, anarthrous and proverbial, where it is "law"
+  - πίστις (pistis) → "faithfulness" as the standing rendering; πιστεύω → "trust"; "the faith" where it means the message or movement (1:23, 6:10)
+  - πίστις Χριστοῦ → "the faithfulness of Jesus the Christ" (2:16, 2:20, 3:22). No natural English preserves the subjective/objective genitive ambiguity; this rendering awaits a decision from the project author
+  - δικαιόω (dikaioō) → "set right"; δικαιοσύνη → "righteousness"
+  - χάρις (charis) → "favor"
+  - εὐαγγέλιον (euangelion) → "good news"
+  - ἀπόστολος (apostolos) → "one sent"
+  - ἄγγελος (angelos) → "messenger"
+  - ἀνάθεμα (anathema) → "under the ban"
+  - ἔθνη (ethnē) → "the nations"
+  - βαπτίζω (baptizō) → "immersed"
+  - ζωὴ αἰώνιος → "the life of the age"
+  - More terms to be decided as further books are translated
 
 ## Restoration Conventions
 - All inline restorations render identically to the reader: bracketed text within `\add`
@@ -47,8 +58,9 @@
   - Cross-reference, Source ID, Editorial, Alternative rendering — typically footnotes
 
 ## Production Process
-- **Prompt**: `prompts/rcb.md`
-- Translation and restorations are produced together, chapter by chapter
+- **Prompts**: `prompts/rcb-pass1.md` (translation), then `prompts/rcb-pass2.md` (amplification, intro, headings)
+- Translation and restorations are produced in two separate passes, a whole book at a time. Pass 1 is frozen before pass 2 runs; pass 2 writes the finished `{BOOK}.usfm`
+- `prompts/rcb.md` is the superseded single-pass prompt
 - Primary reference: exegesis files in `exegesis/nt/` (260 chapters of first-century contextual analysis)
 - Output: `usfm/nt/{BOOK}.usfm` (three-letter book code)
 - Galatians is the proof of concept and reference example
