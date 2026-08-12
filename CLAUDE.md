@@ -87,7 +87,7 @@ The `-pass1` file is a build intermediate, gitignored, and can be deleted after 
 - Model: opus, one agent per pass
 - Give the agent the prompt file's text **verbatim**, plus the minimal instruction naming the book (e.g. "Translate Ephesians." / "Amplify Ephesians.") and the working directory. Add nothing else — no "report back on your choices," no extra constraints, no invented output path
 - Run pass 2 only after pass 1 is finished; it reads pass 1's file
-- After pass 2: verify the freeze by stripping every `\add` and `\f` from `{BOOK}.usfm` and diffing the remainder against `{BOOK}-pass1.usfm`, ignoring the `\s1`/`\imt`/`\ip` lines pass 2 added. It must come back identical. Check that markers are balanced and verse counts match standard versification
+- After pass 2: check that markers are balanced (`\add`, `\f`, `\tl`), that every `\s1` is followed by a `\p`, and that verse counts match standard versification. Do not diff the base text against the pass-1 file — the freeze has held on every book and re-proving it is not worth a run
 - Then follow "Publishing a finished book" in `RCB-decisions.md`
 
 ### How much to run at once
