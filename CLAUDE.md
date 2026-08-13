@@ -149,6 +149,16 @@ What this rests on: **every Home link in the project already pointed at `docs/in
 - Links out of the viewer — the pane's "Full chapter exegesis" and the topic badges — and the `RCB` links in reports all open in the **same tab**, not a new one. That is what makes Back and Home work, and it matters most on a phone. Don't reintroduce `target="_blank"`.
 - The exegesis chapter list that used to be `docs/index.html` is gone. The exegesis is reached through the commentary pane, and each chapter page carries its own prev/next nav, so nothing needs a table of contents.
 
+### Front matter
+
+`?book=FRONT` loads `docs/rcb/data/FRONT.js` and injects it into the reading column. It is **hand-written** — nothing generates it, unlike every other file in `rcb/data/`. Plain HTML in a template literal, so no backticks and no `${` in the prose.
+
+It is a page, not a book: no verses, so `currentBook` is left null, `body.front` hides the pane, the divider and both toggles, and the reading column narrows to 720px (1100px is right for verse text and too long a line for prose). Nothing is bookmarked while reading it.
+
+A first visit with no saved place lands here rather than on Matthew 1, and the picker's head row carries the way back to it.
+
+**Keep it true.** It states the textual basis to the reader — the sixteen verses absent from the numbering, the doubtful passages included and footnoted, the 7,943-verse total. Verify against the USFM before changing any of it (`scripts/` has no checker for this; a gap scan over `\c`/`\v` is what produced the list). It also discloses that the translation and analysis are AI-produced and not committee-reviewed; that paragraph is deliberate and should not be softened without the author's say-so.
+
 ### The reader's place
 
 The viewer remembers where the reader was, in `localStorage` under `rcb-place` (`ROM.14.12`). A visit with no `?book=` and no hash returns there; a first-ever visit opens at Matthew 1:1. **An explicit `?book=` or `#verse` always wins**, so RCB links from the reports still land exactly where they point — the bookmark only ever fills in a bare visit to the front door.
