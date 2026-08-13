@@ -283,11 +283,49 @@
     font-size: 14px;
   }
 
+  /* The verdicts are pulled, not pushed. One line states how many topics have
+     something to say about the passage and opens the list on demand, so the
+     pane reads the same with two topics as it would with twenty. */
+  /* No section for the verse, so the line follows the reference directly. */
+  .pane-ref + .topics { margin-top: 14px; }
+
   .topics {
-    margin-top: 22px;
-    padding-top: 16px;
-    border-top: 1px solid var(--pane-border);
+    margin: 0 0 18px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--pane-border);
   }
+
+  .topic-summary {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    width: 100%;
+    padding: 0;
+    border: 0;
+    background: none;
+    font: inherit;
+    font-size: 13px;
+    color: var(--muted);
+    text-align: left;
+    cursor: pointer;
+  }
+
+  .topic-summary:hover { color: var(--link); }
+  .topic-summary:hover .topic-summary-text { text-decoration: underline; }
+
+  /* Sized to be seen. A disclosure control the reader's eye slides over is a
+     control that does not exist. */
+  .topic-caret {
+    color: var(--link);
+    font-size: 17px;
+    line-height: 1;
+    transition: transform 0.12s ease;
+  }
+
+  .topics.open .topic-caret { transform: rotate(90deg); }
+
+  .topic-list { display: none; margin-top: 12px; }
+  .topics.open .topic-list { display: block; }
 
   .topic-row {
     display: flex;
@@ -296,6 +334,8 @@
     margin-bottom: 8px;
     font-size: 13px;
   }
+
+  .topic-row:last-child { margin-bottom: 0; }
 
   .topic-name {
     color: var(--muted);
@@ -932,6 +972,11 @@ var verseIndex = [];        // [{ch, v, top}] sorted by document position
 var exegesisCache = {};     // chapter -> [{start, end, title, html}] | 'loading' | null
 var topicsLoaded = false;
 var paneOn = false;
+var topicsOpen = readTopicsOpen();   // whether the verdict list is expanded
+
+function readTopicsOpen() {
+  try { return localStorage.getItem('rcb-topics-open') === '1'; } catch (e) { return false; }
+}
 var lastKey = null;
 
 // Where a section starts or ends mid-verse the id holds only its first verse
@@ -1061,23 +1106,53 @@ function topicsFor(chapter, verse) {
   return hits;
 }
 
+/* One quiet line, plus the verdicts behind it. The count is of topics that
+   actually say something: most passages are NOT_APPLICABLE to most topics
+   (1,376 of 1,959 OSAS rows, 1,088 of 1,976 determinism rows), so counting
+   every covering row would report the same number on nearly every passage and
+   tell the reader nothing. The not-applicable rows are still listed once the
+   line is opened -- that a report considered the passage and found it beside
+   the point is itself worth being able to check. */
 function renderTopics(hits) {
   if (!hits.length) return '';
-  var html = '<div class="topics"><div class="pane-label">Topical assessment</div>';
+  var rows = '';
+  var speaking = 0;
   ['o', 'd'].forEach(function(t) {
     var row = null;
     for (var i = 0; i < hits.length; i++) {
       if (hits[i].t === t) { row = hits[i]; break; }
     }
     if (!row) return;
+    if (row.c !== 'NOT_APPLICABLE') speaking++;
     var href = '../reports/' + TOPIC_PATHS[t] + '/index.html';
-    html += '<div class="topic-row">' +
+    rows += '<div class="topic-row">' +
             '<span class="topic-name">' + TOPIC_NAMES[t] + '</span>' +
             '<a class="badge ' + categoryClass(row.c) + '" href="' + href + '" target="_blank" ' +
             'title="' + escapeAttr(row.n) + ' (' + row.r + ')">' +
             row.c.replace(/_/g, ' ') + '</a></div>';
   });
-  return html + '</div>';
+  if (!rows) return '';
+
+  var label = speaking === 0 ? 'No topic discusses this passage'
+            : speaking === 1 ? '1 topic discusses this passage'
+            : speaking + ' topics discuss this passage';
+
+  return '<div class="topics' + (topicsOpen ? ' open' : '') + '">' +
+         '<button class="topic-summary" type="button" onclick="toggleTopics(this)" ' +
+         'aria-expanded="' + (topicsOpen ? 'true' : 'false') + '">' +
+         '<span class="topic-caret">&#9656;</span>' +
+         '<span class="topic-summary-text">' + label + '</span></button>' +
+         '<div class="topic-list">' + rows + '</div></div>';
+}
+
+// Open and close in place rather than re-rendering: updatePane() resets the
+// pane's scroll to the top, which would throw the reader out of a long section.
+function toggleTopics(btn) {
+  topicsOpen = !topicsOpen;
+  var box = btn.parentNode;
+  box.className = 'topics' + (topicsOpen ? ' open' : '');
+  btn.setAttribute('aria-expanded', topicsOpen ? 'true' : 'false');
+  try { localStorage.setItem('rcb-topics-open', topicsOpen ? '1' : '0'); } catch (e) {}
 }
 
 function escapeAttr(s) {
@@ -1132,14 +1207,14 @@ function updatePane() {
     html += '<div class="pane-ref">' + bookLabel() + ' ' + pos.ch + ':' +
             section.start + (section.end !== section.start ? '-' + section.end : '') + '</div>';
     html += '<div class="pane-title">' + section.title + '</div>';
+    html += renderTopics(hits);
     html += '<div class="pane-body">' + section.html + '</div>';
   } else {
     html += '<div class="pane-ref">' + bookLabel() + ' ' + pos.ch + ':' + pos.v + '</div>';
+    html += renderTopics(hits);
     html += '<p class="pane-empty">The exegesis has no section covering this verse, ' +
             'so there is nothing to show rather than something approximate.</p>';
   }
-
-  html += renderTopics(hits);
 
   if (full) {
     html += '<div class="pane-footer"><a href="' + full + '" target="_blank">' +

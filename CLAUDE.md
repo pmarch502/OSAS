@@ -141,7 +141,9 @@ The script reads `usfm/nt/{BOOK}.usfm`, escapes for a JS template literal, and w
 
 ### The commentary pane
 
-`docs/rcb/index.html` can show the exegesis beside the text, synced to whatever passage the reader is in, with the OSAS and determinism verdicts for that passage under it. The "Commentary" toolbar toggle shows and hides it; the choice is remembered in `localStorage`, defaulting on above 1100px and off below, where the pane becomes a bottom sheet.
+`docs/rcb/index.html` can show the exegesis beside the text, synced to whatever passage the reader is in, with the topical verdicts for that passage above it. The "Commentary" toolbar toggle shows and hides it; the choice is remembered in `localStorage`, defaulting on above 1100px and off below, where the pane becomes a bottom sheet.
+
+**The verdicts are pulled, not pushed.** One quiet line sits at the top of the pane — "2 topics discuss this passage" — and opens the list on demand; its state is remembered in `localStorage` (`rcb-topics-open`), collapsed by default. It reads the same way at two topics as it would at twenty, which is the point: a stack of badges pushed at the reader does not survive the topic count growing. **The count is of topics that actually say something**, i.e. excluding `NOT_APPLICABLE` — that is the majority verdict in both reports (1,376 of 1,959 OSAS rows, 1,088 of 1,976 determinism), so counting every covering row would print the same number on nearly every passage. The not-applicable rows are still listed once the line is opened.
 
 **It syncs by verse containment, not by matching headings.** The RCB's `\s1` divisions and the exegesis's divisions usually agree but not always — Romans 8 breaks at v9 in the RCB and v5 in the exegesis. So the pane takes the verse at the reading line and finds the section whose range contains it, which is immune to the mismatch. Do not "fix" this by aligning the two sets of headings.
 
