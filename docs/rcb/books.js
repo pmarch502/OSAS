@@ -11,6 +11,10 @@
  * href below is relative to the page, not to this file) and that the page
  * defines the .exegesis-link CSS class.
  *
+ * The viewer lives at docs/index.html — it is the site's front door, and the
+ * data it loads is what stayed behind in docs/rcb/. The link opens in the same
+ * tab: the viewer remembers the reader's place, so Back and Home both work.
+ *
  * Numbered books are spelled inconsistently across the reports — the OSAS
  * data.js says '1 Corinthians', the determinism one says '1Corinthians', and
  * determinism is inconsistent with itself ('1 Peter' and '1Peter' both occur).
@@ -45,5 +49,5 @@ function rcbLink(book, chapter, reference) {
       frag = 'v' + c + '-' + v;
     }
   }
-  return ' <a class="exegesis-link" href="../../rcb/index.html?book=' + code + '#' + frag + '" target="_blank" title="Restored Context Bible: ' + book + ' ' + chapter + '">RCB</a>';
+  return ' <a class="exegesis-link" href="../../index.html?book=' + code + '#' + frag + '" title="Restored Context Bible: ' + book + ' ' + chapter + '">RCB</a>';
 }

@@ -81,7 +81,7 @@ usfm/nt/{BOOK}.usfm                ← The finished book (COMMITTED)
         ↓
 docs/rcb/data/{BOOK}.js            ← JS data file (MUST REGENERATE)
         ↓
-docs/rcb/index.html                ← Single viewer (loads ?book={BOOK})
+docs/index.html                    ← The viewer, and the site's front door
 ```
 
 Pass 1 renders the Greek with the Hebrew thinking behind it intact and resolves nothing. Pass 2 adds `\add`, `\f`, `\s1`, `\imt`, and `\ip` and may change nothing else — the base text is frozen. Pass 2 writes the finished book directly; there is no separate merge step.
@@ -139,6 +139,16 @@ python scripts/gen_rcb_data.py GAL
 
 The script reads `usfm/nt/{BOOK}.usfm`, escapes for a JS template literal, and writes `docs/rcb/data/{BOOK}.js`.
 
+### The site's front door
+
+**The viewer is `docs/index.html`.** The Bible is the front page; the exegesis and the reports hang off it. Its data stayed behind in `docs/rcb/` (`data/{BOOK}.js`, `data/index.js`, `data/topics.js`, `books.js`), so the viewer loads `rcb/data/...` from its new depth.
+
+What this rests on: **every Home link in the project already pointed at `docs/index.html`** — all 260 exegesis chapters (`../../index.html`) and both reports. So the move re-aimed 262 links at the Bible without editing any of them.
+
+- `docs/rcb/index.html` is now a **redirect stub**, kept for links and bookmarks made while the viewer lived there. It carries `?book=` and the fragment across.
+- Links out of the viewer — the pane's "Full chapter exegesis" and the topic badges — and the `RCB` links in reports all open in the **same tab**, not a new one. That is what makes Back and Home work, and it matters most on a phone. Don't reintroduce `target="_blank"`.
+- The exegesis chapter list that used to be `docs/index.html` is gone. The exegesis is reached through the commentary pane, and each chapter page carries its own prev/next nav, so nothing needs a table of contents.
+
 ### The reader's place
 
 The viewer remembers where the reader was, in `localStorage` under `rcb-place` (`ROM.14.12`). A visit with no `?book=` and no hash returns there; a first-ever visit opens at Matthew 1:1. **An explicit `?book=` or `#verse` always wins**, so RCB links from the reports still land exactly where they point — the bookmark only ever fills in a bare visit to the front door.
@@ -154,7 +164,7 @@ Two things that are easy to break:
 
 ### The commentary pane
 
-`docs/rcb/index.html` can show the exegesis beside the text, synced to whatever passage the reader is in, with the topical verdicts for that passage above it. The "Commentary" toolbar toggle shows and hides it; the choice is remembered in `localStorage`, defaulting on above 1100px and off below, where the pane becomes a bottom sheet.
+`docs/index.html` can show the exegesis beside the text, synced to whatever passage the reader is in, with the topical verdicts for that passage above it. The "Commentary" toolbar toggle shows and hides it; the choice is remembered in `localStorage`, defaulting on above 1100px and off below, where the pane becomes a bottom sheet.
 
 **The verdicts are pulled, not pushed.** One quiet line sits at the top of the pane — "2 topics discuss this passage" — and opens the list on demand; its state is remembered in `localStorage` (`rcb-topics-open`), collapsed by default. It reads the same way at two topics as it would at twenty, which is the point: a stack of badges pushed at the reader does not survive the topic count growing. **The count is of topics that actually say something**, i.e. excluding `NOT_APPLICABLE` — that is the majority verdict in both reports (1,376 of 1,959 OSAS rows, 1,088 of 1,976 determinism), so counting every covering row would print the same number on nearly every passage. The not-applicable rows are still listed once the line is opened.
 

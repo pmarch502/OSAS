@@ -52,7 +52,7 @@ for _v in range(8, 11):
 
 
 def parse_heading_range(text, ident):
-    """Mirror parseHeadingRange() in docs/rcb/index.html.
+    """Mirror parseHeadingRange() in docs/index.html.
 
     A section starting or ending mid-verse has an id holding only its first
     verse token ('Verses 16b-18' carries id="16"), so the heading text is the
