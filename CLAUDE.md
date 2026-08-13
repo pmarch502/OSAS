@@ -68,6 +68,7 @@ Produced in two passes. The translation is made first, on its own, and is frozen
 prompts/rcb-pass1.md               ← Pass 1: translation only
         ↓
 usfm/nt/{BOOK}-pass1.usfm          ← Intermediate (gitignored)
+usfm/nt/{BOOK}-pass1-notes.md      ← Intermediate (gitignored) — see below
         ↓
 prompts/rcb-pass2.md               ← Pass 2: amplification, intro, headings
         ↓
@@ -84,13 +85,20 @@ The freeze breaks in practice, so it is verified on every book. Two failure mode
 
 The `-pass1` file is a build intermediate, gitignored, and can be deleted after the book is published. The final `{BOOK}.usfm` reproduces it by stripping markers, and the viewer's "Restorations: OFF" toggle already shows a reader the un-amplified translation.
 
+**Pass 1 also writes `{BOOK}-pass1-notes.md`, and pass 2 reads it.** It carries the three things a finished translation cannot show on its own: a reading that departs from what most English versions have, words a reader knows by heart that the critical text does not contain, and a place where the Greek held two senses open and English forced a choice. Every item in it must end up footnoted.
+
+The file exists because pass 2 can only footnote what the text in front of it reveals. A whole verse absent from the critical text shows up as a gap in the numbering; a clause dropped from *inside* a verse is invisible once the verse is written. Pass 1 used to report these to the orchestrating session, which pass 2 never sees, and they were missed on 1 Corinthians and again on Matthew. It is a second build intermediate — gitignored, and deleted with the `-pass1` file when the book is published.
+
 ### Running the RCB passes
 
 - Model: opus, one agent per pass
 - Give the agent the prompt file's text **verbatim**, plus the minimal instruction naming the book (e.g. "Translate Ephesians." / "Amplify Ephesians.") and the working directory. Add nothing else — no "report back on your choices," no extra constraints, no invented output path
 - Run pass 2 only after pass 1 is finished; it reads pass 1's file
-- After pass 2: check that markers are balanced (`\add`, `\f`, `\tl`), that every `\s1` is followed by a `\p`, and that verse counts match standard versification
+- After pass 2: check that markers are balanced (`\add`, `\f`, `\tl`), that every `\s1` is followed by a `\p`, that the `\p` count equals pass 1's, and that verse counts match standard versification with the critical-text omissions subtracted
+- Confirm no `\add` sits inside a footnote and no footnote inside an `\add` — an agent has used `\add` as emphasis in note text, which would render as a restoration
+- Check that **every item** in `{BOOK}-pass1-notes.md` carries a footnote. Match on the `\fr` reference, and allow for a note anchored on the adjacent verse (when the verse itself is absent) or on a verse range such as `\fr 15:16-18`
 - **Then verify the freeze**: `python scripts/check_freeze.py {BOOK}`. It must report `0`. Run it *before* deleting the pass-1 intermediate — that file is the only baseline, and once it is gone the check is impossible. Do not take pass 2's word for it; an agent has reported a book clean that was not
+- Parse USFM in Python from a script file, never with a shell one-liner. Backslash-heavy patterns do not survive shell quoting and fail silently, reporting everything clean or everything broken
 - Then follow "Publishing a finished book" in `RCB-decisions.md`
 
 ### How much to run at once
@@ -131,6 +139,8 @@ The script reads `usfm/nt/{BOOK}.usfm`, escapes for a JS template literal, and w
 `{BOOK}.usfm` — three-letter book abbreviation (e.g., `GAL`, `ROM`, `EPH`). Same abbreviation used in the data JS file and the `?book=` query parameter.
 
 `{BOOK}-pass1.usfm` — the pass 1 intermediate for that book. Gitignored, along with `docs/rcb/data/*-pass1.js` and the equivalent `-pass2` names.
+
+`{BOOK}-pass1-notes.md` — pass 1's handoff to pass 2. Also gitignored, and deleted with the `-pass1` file at publication.
 
 ## Correction workflow
 
