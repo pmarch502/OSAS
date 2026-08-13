@@ -48,19 +48,22 @@ BibleStudy/
 │   └── gen_rcb_data.py                 Regenerate RCB data from USFM source
 │
 ├── docs/                               PUBLISHED — Cloudflare Pages build output
-│   ├── index.html                      Landing page linking to all reports
+│   ├── index.html                      THE SITE. The RCB viewer, and the front door;
+│   │                                   loads ?book=CODE, or ?book=INTRO for the
+│   │                                   introduction. Every "Home" link lands here
 │   ├── exegesis/                       Generated HTML versions of neutral readings
 │   │   ├── nt/
 │   │   │   ├── Matthew_01.html
 │   │   │   └── ... (260 files)
-│   │   └── ot/
-│   │       ├── Genesis_01.html
-│   │       └── ... (929 files)
-│   ├── rcb/                            Restored Context Bible viewer
-│   │   ├── index.html                  Single viewer (loads ?book=CODE)
+│   │   └── ot/                         (not yet written)
+│   ├── rcb/                            The viewer's data — the viewer itself is above
+│   │   ├── index.html                  Redirect stub; the viewer used to live here
 │   │   ├── books.js                    Shared RCB_BOOKS map + rcbLink(), used by all reports
 │   │   └── data/
-│   │       └── GAL.js                  Generated from usfm/nt/GAL.usfm
+│   │       ├── MAT.js ... REV.js       Generated from usfm/nt/{BOOK}.usfm (27 books)
+│   │       ├── index.js                Book/chapter/verse index for the picker
+│   │       ├── topics.js               Both reports, stripped to what the pane shows
+│   │       └── INTRO.js                The introduction — hand-written, not generated
 │   └── reports/                        Interactive reports, one folder per topic
 │       ├── osas/
 │       │   ├── index.html              Interactive report
@@ -84,7 +87,7 @@ BibleStudy/
 
 3. **Assessments are per-topic.** Each assessment folder (`nt-osas/`, `nt-determinism/`, etc.) contains JSON files produced by running a topic-specific assessment prompt against the neutral readings. The naming pattern is `{testament}-{topic}/`.
 
-4. **Reports are self-contained.** Each report folder under `docs/reports/` contains an `index.html` and a `data.js`. The report loads its data via a relative `<script>` tag. Exegesis links point to `../../exegesis/nt/` or `../../exegesis/ot/` with fragment anchors to specific sections.
+4. **Reports are self-contained.** Each report folder under `docs/reports/` contains an `index.html` and a `data.js`. The report loads its data via a relative `<script>` tag. Exegesis links point to `../../exegesis/nt/` or `../../exegesis/ot/` with fragment anchors to specific sections, and RCB links to `../../index.html?book=CODE#vCH-V`.
 
 5. **Cloudflare Pages serves `docs/` only.** It auto-deploys from `main` with `docs/` as the build output directory. Source `.md` files, assessment `.json` files, and prompts are in the repo but not served to the web. GitHub Pages is disabled — it was flaky with 260+ static files.
 
@@ -125,7 +128,7 @@ neutral_reading.md + "Analyze {Book} {Chapter}"
 
 ## Model
 
-All analysis is performed by **Claude Opus 4.6 (Anthropic)**. The model identifier and prompts used are documented in each report's Methodology section.
+All analysis is performed by **Claude Opus (Anthropic)**. The prompts used are in `prompts/`, and the site's own account of this is in the introduction (`docs/rcb/data/INTRO.js`).
 
 ## Adding a New Topic
 
@@ -135,4 +138,7 @@ All analysis is performed by **Claude Opus 4.6 (Anthropic)**. The model identifi
 4. Aggregate JSONs into `docs/reports/{topic}/data.js`
 5. Adapt the report template for the topic's categories and question
 6. Carry over the RCB link wiring — include `../../rcb/books.js` and call `rcbLink(...)` after `exegesisLink(...)` in each table-row builder. See CLAUDE.md, "RCB links in reports"
-7. Update `docs/index.html` to link to the new report
+7. Introduce the report in `docs/rcb/data/INTRO.js` — that is where a reader
+   learns the topical assessments exist. The commentary pane picks the report up
+   automatically once `topics.js` is regenerated; it is not linked from the toolbar
+   by design (the reports are not the front of the site)

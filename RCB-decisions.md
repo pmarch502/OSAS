@@ -57,13 +57,13 @@
 4. Open a report, find a passage in that book, confirm the RCB link appears and lands on the right verse
 
 ## Scope & Sequence
-- **Start with**: Galatians (translation + restorations, full proof of concept)
-- **Then**: TBD (likely Romans, then remaining Pauline epistles)
-- **Ultimate scope**: Full NT (27 books, 260 chapters)
+- **The New Testament is complete** — 27 books, 260 chapters, 7,943 verses (2026-08-13). Galatians was the proof of concept and remains the reference example
+- Every book ran **whole**; the range mode in `prompts/rcb-pass2.md` was never needed
+- **Next**: the Old Testament. Assume chunking will be normal there and decide it per book
 
 ## Rendering
 - **USFM**: No special rendering — `\add` with brackets; platforms render as they will
-- **HTML (our site)**: Custom styling, decisions deferred until we build it
+- **HTML (our site)**: Built. `docs/index.html` is both the viewer and the site's front door — the reading column with a "Restorations" toggle, footnotes, a synced exegesis pane, and an introduction at `?book=INTRO`. See CLAUDE.md for the mechanics
 - Brackets in the text guarantee restorations are always distinguishable regardless of platform
 
 ## Open Questions

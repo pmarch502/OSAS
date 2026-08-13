@@ -2,7 +2,7 @@
 
 ## What this project is
 
-A neutral first-century exegetical study of every NT chapter (260 total), with topic-specific assessments built on top. The exegesis is the shared foundation; assessments and reports are per-topic. All analysis is produced by Claude Opus 4.6. The project author reviews output for factual errors and overlooked textual evidence.
+A neutral first-century exegetical study of every NT chapter (260 total), with topic-specific assessments built on top. The exegesis is the shared foundation; assessments and reports are per-topic. All analysis is produced by Claude Opus. The project author reviews output for factual errors and overlooked textual evidence.
 
 See `project_structure.md` for full directory layout and design rationale.
 
