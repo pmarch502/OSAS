@@ -19,6 +19,8 @@
     --muted: #7a7060;
     --toggle-bg: #e8e0d0;
     --toggle-active: #6a5a3c;
+    --pane-bg: #f3efe7;
+    --pane-border: #d4c9b0;
   }
 
   @media (prefers-color-scheme: dark) {
@@ -36,6 +38,8 @@
       --muted: #908878;
       --toggle-bg: #2c2820;
       --toggle-active: #c4a86c;
+      --pane-bg: #191714;
+      --pane-border: #3a3428;
     }
   }
 
@@ -59,8 +63,15 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 10px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     font-size: 14px;
+  }
+
+  .toolbar-buttons {
+    display: flex;
+    gap: 8px;
+    flex-shrink: 0;
   }
 
   .home-link {
@@ -80,10 +91,35 @@
     font-size: 15px;
   }
 
-  .toolbar-subtitle {
-    color: var(--muted);
-    font-size: 13px;
-    margin-left: 8px;
+  /* The book name is the way into the picker -- no separate button for it, so
+     it has to read as a control at a glance rather than as a label. */
+  .book-select {
+    background: var(--toggle-bg);
+    border: 1px solid var(--intro-border);
+    border-radius: 4px;
+    color: var(--text);
+    font-family: inherit;
+    font-size: 14px;
+    margin-left: 10px;
+    padding: 3px 8px 3px 11px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    line-height: 1.2;
+  }
+
+  .book-select:hover {
+    border-color: var(--toggle-active);
+    background: var(--toggle-active);
+    color: var(--bg);
+  }
+
+  .book-select .caret {
+    font-size: 20px;
+    line-height: 0.6;
+    position: relative;
+    top: -1px;
   }
 
   .toggle-btn {
@@ -96,6 +132,7 @@
     color: var(--text);
     font-family: inherit;
     transition: background 0.2s;
+    white-space: nowrap;
   }
 
   .toggle-btn:hover {
@@ -108,11 +145,202 @@
     color: var(--bg);
   }
 
-  .container {
-    max-width: 680px;
-    margin: 0 auto;
-    padding: 30px 20px 80px;
+  /* ---- Layout: reading column beside the commentary pane ---- */
+
+  :root {
+    --pane-w: 400px;
+    --text-max: 680px;
+    --toolbar-h: 49px;
   }
+
+  /* With the commentary hidden, the reason to hide it is almost always to get
+     more text on screen -- so the column widens rather than just recentring.
+     Capped for line length; raise --text-max-wide to let it fill further. */
+  :root { --text-max-wide: 1100px; }
+  body:not(.show-commentary) { --text-max: var(--text-max-wide); }
+
+  .layout {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0 20px;
+  }
+
+  .container {
+    max-width: var(--text-max);
+    width: 100%;
+    padding: 30px 0 80px;
+    min-width: 0;
+  }
+
+  .divider {
+    display: none;
+    flex: 0 0 auto;
+    width: 21px;
+    position: sticky;
+    top: var(--toolbar-h);
+    height: calc(100vh - var(--toolbar-h));
+    cursor: col-resize;
+    background: none;
+    border: none;
+    padding: 0;
+  }
+
+  body.show-commentary .divider { display: block; }
+
+  .divider::before {
+    content: '';
+    position: absolute;
+    left: 10px;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: var(--pane-border);
+    transition: background 0.15s, width 0.15s;
+  }
+
+  .divider:hover::before,
+  .divider.dragging::before {
+    background: var(--toggle-active);
+    width: 3px;
+    left: 9px;
+  }
+
+  body.resizing { user-select: none; cursor: col-resize; }
+
+  .pane {
+    display: none;
+    width: var(--pane-w);
+    flex-shrink: 0;
+    position: sticky;
+    top: var(--toolbar-h);
+    max-height: calc(100vh - var(--toolbar-h));
+    overflow-y: auto;
+    background: var(--pane-bg);
+    border-left: 1px solid var(--pane-border);
+    border-right: 1px solid var(--pane-border);
+    padding: 20px 22px 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 15px;
+    line-height: 1.65;
+  }
+
+  body.show-commentary .pane { display: block; }
+
+  .pane-label {
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 10px;
+  }
+
+  .pane-ref {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 20px;
+    color: var(--heading);
+    margin-bottom: 2px;
+  }
+
+  .pane-title {
+    font-size: 14px;
+    color: var(--muted);
+    font-style: italic;
+    margin-bottom: 16px;
+  }
+
+  .pane-body {
+    font-size: 14.5px;
+  }
+
+  .pane-body p {
+    margin-bottom: 12px;
+    text-align: left;
+  }
+
+  .pane-body h3 {
+    font-size: 14px;
+    color: var(--heading);
+    margin: 18px 0 6px;
+  }
+
+  .pane-body blockquote {
+    border-left: 3px solid var(--pane-border);
+    padding: 4px 0 4px 12px;
+    margin: 12px 0;
+    color: var(--muted);
+  }
+
+  .pane-body ul, .pane-body ol { margin: 10px 0 12px 20px; }
+  .pane-body li { margin-bottom: 5px; }
+  .pane-body strong { color: var(--heading); }
+  .pane-body a { color: var(--link); }
+  .pane-body hr { display: none; }
+
+  .pane-empty {
+    color: var(--muted);
+    font-style: italic;
+    font-size: 14px;
+  }
+
+  .topics {
+    margin-top: 22px;
+    padding-top: 16px;
+    border-top: 1px solid var(--pane-border);
+  }
+
+  .topic-row {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 8px;
+    font-size: 13px;
+  }
+
+  .topic-name {
+    color: var(--muted);
+    flex-shrink: 0;
+    width: 78px;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 11.5px;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    border: 1px solid transparent;
+  }
+
+  .badge:hover { border-color: currentColor; }
+
+  .badge.cat-strong { background: rgba(192, 80, 48, 0.16); color: #b04a28; }
+  .badge.cat-leans  { background: rgba(106, 90, 60, 0.14); color: #6a5a3c; }
+  .badge.cat-mis    { background: rgba(90, 111, 60, 0.16); color: #4d6033; }
+  .badge.cat-na     { background: rgba(122, 112, 96, 0.12); color: var(--muted); }
+
+  @media (prefers-color-scheme: dark) {
+    .badge.cat-strong { background: rgba(224, 128, 96, 0.18); color: #e08060; }
+    .badge.cat-leans  { background: rgba(196, 168, 108, 0.16); color: #c4a86c; }
+    .badge.cat-mis    { background: rgba(138, 170, 92, 0.18); color: #8aaa5c; }
+  }
+
+  .pane-footer {
+    margin-top: 18px;
+    padding-top: 14px;
+    border-top: 1px solid var(--pane-border);
+    font-size: 13px;
+  }
+
+  .pane-footer a {
+    color: var(--link);
+    text-decoration: none;
+  }
+
+  .pane-footer a:hover { text-decoration: underline; }
+
+  /* ---- Reading column ---- */
 
   .book-title {
     font-size: 32px;
@@ -149,6 +377,7 @@
     line-height: 1;
     margin-bottom: 8px;
     margin-top: 40px;
+    scroll-margin-top: 60px;
   }
 
   .chapter-num:first-of-type {
@@ -157,9 +386,6 @@
 
   .section-heading {
     scroll-margin-top: 60px;
-  }
-
-  .section-heading {
     font-size: 16px;
     font-weight: bold;
     color: var(--heading);
@@ -243,6 +469,214 @@
     margin-top: 4rem;
     font-size: 1.1rem;
   }
+
+  /* ---- Reference picker: book blocks -> chapter blocks -> verse blocks ---- */
+
+  .picker-backdrop {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+    z-index: 300;
+    padding: 24px 20px;
+    overflow-y: auto;
+  }
+
+  .picker-backdrop.open { display: block; }
+
+  /* Deliberately small. The whole point of a block grid is that everything is
+     within a short mouse move of everything else -- a wide card undoes that. */
+  .picker {
+    background: var(--bg);
+    border: 1px solid var(--intro-border);
+    border-radius: 6px;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 14px 16px 18px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.3);
+  }
+
+  .picker-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 9px;
+    gap: 10px;
+  }
+
+  .picker-crumb {
+    font-size: 13px;
+    color: var(--heading);
+    font-weight: 600;
+  }
+
+  .picker-search {
+    width: 100%;
+    box-sizing: border-box;
+    background: var(--toggle-bg);
+    border: 1px solid var(--intro-border);
+    border-radius: 4px;
+    padding: 6px 9px;
+    font-family: inherit;
+    font-size: 13px;
+    color: var(--text);
+    margin-bottom: 4px;
+  }
+
+  .picker-search:focus {
+    outline: none;
+    border-color: var(--toggle-active);
+  }
+
+  .picker-hint {
+    font-size: 11.5px;
+    color: var(--muted);
+    min-height: 16px;
+    margin-bottom: 7px;
+  }
+
+  .picker-hint.hit { color: var(--link); }
+  .picker-hint.miss { color: var(--note); }
+
+  .picker-crumb button {
+    background: none;
+    border: none;
+    color: var(--link);
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 0;
+  }
+
+  .picker-crumb button:hover { text-decoration: underline; }
+  .picker-crumb .sep { color: var(--muted); margin: 0 6px; font-weight: normal; }
+
+  .picker-close {
+    background: none;
+    border: none;
+    color: var(--muted);
+    font-size: 24px;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0 4px;
+  }
+
+  .picker-close:hover { color: var(--text); }
+
+  /* Genre bands, so the grid groups itself by colour and needs no headings.
+     Five colours cover all 66 books; genres pair across the testaments the way
+     the reader meets them -- narrative of origins, national history, reflective
+     writing, prophecy, apocalyptic. */
+  :root {
+    --g-olive: #cfc98f;    /* Torah + Gospels          */
+    --g-teal: #a8c8cb;     /* OT history + Acts        */
+    --g-brown: #d3b5a4;    /* Wisdom + the epistles    */
+    --g-green: #b6ccad;    /* Major prophets + general letters */
+    --g-maroon: #d3aeb3;   /* Minor prophets + Revelation      */
+    --g-fg: #2b2620;
+    --grid-line: var(--intro-border);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --g-olive: #5f5c26;
+      --g-teal: #23515a;
+      --g-brown: #5b3d2f;
+      --g-green: #35502e;
+      --g-maroon: #5d333a;
+      --g-fg: #ece7dd;
+      --grid-line: #14120f;
+    }
+  }
+
+  /* Gaps show the page background rather than a grid colour, so trailing empty
+     cells in a part-filled row simply disappear instead of leaving a slab. */
+  .blocks {
+    display: grid;
+    gap: 1px;
+    background: var(--bg);
+    border: 1px solid var(--grid-line);
+  }
+
+  .blocks.books { grid-template-columns: repeat(5, 1fr); }
+  .blocks.nums  { grid-template-columns: repeat(auto-fill, minmax(32px, 1fr)); }
+
+  .block {
+    background: var(--toggle-bg);
+    border: none;
+    padding: 5px 2px;
+    font-size: 11.5px;
+    color: var(--text);
+    cursor: pointer;
+    font-family: inherit;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .block.g-law,
+  .block.g-gospel          { background: var(--g-olive);  color: var(--g-fg); }
+  .block.g-history         { background: var(--g-teal);   color: var(--g-fg); }
+  .block.g-wisdom,
+  .block.g-epistle         { background: var(--g-brown);  color: var(--g-fg); }
+  .block.g-prophets,
+  .block.g-general         { background: var(--g-green);  color: var(--g-fg); }
+  .block.g-prophets-minor,
+  .block.g-apocalyptic     { background: var(--g-maroon); color: var(--g-fg); }
+
+  .block:hover {
+    filter: brightness(1.18);
+  }
+
+  .blocks.nums .block:hover {
+    background: var(--toggle-active);
+    color: var(--bg);
+    filter: none;
+  }
+
+  .block.current {
+    outline: 2px solid var(--toggle-active);
+    outline-offset: -2px;
+    font-weight: 700;
+  }
+
+  /* ---- Narrow screens: the pane becomes a bottom sheet ---- */
+
+  @media (max-width: 1100px) {
+    .layout { display: block; padding: 0 20px; }
+    /* Stacked, so there is no split to drag and the text is already full width. */
+    .container { margin: 0 auto; max-width: var(--text-max-wide); }
+    body.show-commentary .divider { display: none; }
+
+    .pane {
+      position: fixed;
+      top: auto;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      width: auto;
+      max-height: 46vh;
+      border-left: none;
+      border-right: none;
+      border-top: 1px solid var(--pane-border);
+      box-shadow: 0 -4px 16px rgba(0,0,0,0.14);
+      z-index: 150;
+      padding-bottom: 24px;
+    }
+
+    body.show-commentary .container { padding-bottom: 48vh; }
+  }
+
+  /* Two toggles plus the title will not fit a phone, and the title is the part
+     a reader already knows. Keep Home and the book name. */
+  @media (max-width: 620px) {
+    .toolbar { padding: 8px 12px; }
+    .toolbar-title { display: none; }
+    .book-select { margin-left: 0; font-size: 14px; }
+    .toggle-btn { padding: 6px 10px; font-size: 12px; }
+  }
 </style>
 </head>
 <body>
@@ -251,15 +685,35 @@
   <div>
     <a href="../index.html" class="home-link">Home</a>
     <span class="toolbar-title">Restored Context Bible</span>
-    <span class="toolbar-subtitle" id="toolbar-book"></span>
+    <button class="book-select" id="bookSelect" onclick="openPicker()"
+            title="Go to a passage">
+      <span id="toolbar-book"></span><span class="caret">&#9662;</span>
+    </button>
   </div>
-  <button class="toggle-btn active" id="toggleBtn" onclick="toggleRestorations()">
-    Restorations: ON
-  </button>
+  <div class="toolbar-buttons">
+    <button class="toggle-btn active" id="toggleBtn" onclick="toggleRestorations()">
+      Restorations: ON
+    </button>
+    <button class="toggle-btn" id="commentaryBtn" onclick="toggleCommentary()">
+      Commentary: OFF
+    </button>
+  </div>
 </div>
 
-<div class="container" id="content"></div>
+<div class="layout">
+  <div class="container" id="content"></div>
+  <div class="divider" id="divider" title="Drag to resize"></div>
+  <aside class="pane" id="pane">
+    <div class="pane-label">Commentary</div>
+    <div id="paneInner"><p class="pane-empty">Scroll the text to follow along.</p></div>
+  </aside>
+</div>
 
+<div class="picker-backdrop" id="pickerBackdrop">
+  <div class="picker" id="picker"></div>
+</div>
+
+<script src="data/index.js"></script>
 <script>
 function slugify(text) {
   return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
@@ -408,6 +862,9 @@ function toggleRestorations() {
   var hidden = document.body.classList.contains('hide-restorations');
   btn.textContent = hidden ? 'Restorations: OFF' : 'Restorations: ON';
   btn.classList.toggle('active', !hidden);
+  // Verse offsets move when the restorations collapse.
+  measureVerses();
+  updatePane();
 }
 
 let popupPinned = false;
@@ -447,27 +904,709 @@ document.addEventListener('click', function() {
   document.getElementById('footnotePopup').style.display = 'none';
 });
 
+/* ==================== Commentary pane ====================
+ *
+ * The RCB, the exegesis and the two topical reports were built separately but
+ * share one key: a verse range. So the pane syncs on verse containment rather
+ * than by matching section headings -- the RCB's \s1 divisions and the
+ * exegesis's divisions agree most of the time but not always (Romans 8 breaks
+ * at v9 in the RCB and v5 in the exegesis), and containment is immune to that.
+ */
+
+// USFM code -> the stem used by exegesis/nt/{Stem}_{NN}.html
+var EXEGESIS_BOOKS = {
+  MAT: 'Matthew', MRK: 'Mark', LUK: 'Luke', JHN: 'John', ACT: 'Acts',
+  ROM: 'Romans', '1CO': '1Corinthians', '2CO': '2Corinthians',
+  GAL: 'Galatians', EPH: 'Ephesians', PHP: 'Philippians', COL: 'Colossians',
+  '1TH': '1Thessalonians', '2TH': '2Thessalonians', '1TI': '1Timothy',
+  '2TI': '2Timothy', TIT: 'Titus', PHM: 'Philemon', HEB: 'Hebrews',
+  JAS: 'James', '1PE': '1Peter', '2PE': '2Peter', '1JN': '1John',
+  '2JN': '2John', '3JN': '3John', JUD: 'Jude', REV: 'Revelation'
+};
+
+var TOPIC_NAMES = { o: 'OSAS', d: 'Determinism' };
+var TOPIC_PATHS = { o: 'osas', d: 'determinism' };
+
+var currentBook = null;
+var verseIndex = [];        // [{ch, v, top}] sorted by document position
+var exegesisCache = {};     // chapter -> [{start, end, title, html}] | 'loading' | null
+var topicsLoaded = false;
+var paneOn = false;
+var lastKey = null;
+
+// Where a section starts or ends mid-verse the id holds only its first verse
+// token -- the heading "Verses 16b-18" carries id="16" -- so reading ranges off
+// the ids alone leaves gaps the pane would render blank (31 of them across the
+// NT). The heading text has the true range; the id is the fallback.
+function parseHeadingRange(text, id) {
+  var m = /^Verses?\s+(\d+)[ab]?(?:\s*[-–]\s*(\d+)[ab]?)?/i.exec(String(text).trim());
+  if (m) return { start: parseInt(m[1], 10), end: parseInt(m[2] || m[1], 10) };
+  var n = /^(\d+)[a-z]?(?:-(\d+)[a-z]?)?$/.exec(String(id).trim());
+  if (!n) return null;
+  return { start: parseInt(n[1], 10), end: parseInt(n[2] || n[1], 10) };
+}
+
+function pad2(n) { return (n < 10 ? '0' : '') + n; }
+
+// Record where every verse sits, so scroll tracking is a binary search rather
+// than a getBoundingClientRect over ~1,100 elements per scroll event.
+function measureVerses() {
+  verseIndex = [];
+  var spans = document.querySelectorAll('#content .verse-num');
+  for (var i = 0; i < spans.length; i++) {
+    var parts = spans[i].id.substring(1).split('-');
+    verseIndex.push({
+      ch: parseInt(parts[0], 10),
+      v: parseInt(parts[1], 10),
+      top: spans[i].getBoundingClientRect().top + window.scrollY
+    });
+  }
+}
+
+var READING_LINE = 140;
+
+/* A verse arrived at by link or by the picker governs the pane until the
+ * reader scrolls away. Without this the pane follows the scroll position
+ * instead of the request, and the two disagree wherever the page cannot put
+ * the verse on the reading line -- Revelation 22:21 is the last verse in the
+ * NT, so the document simply ends and the pane fell back to 22:12. */
+var pinnedVerse = null;
+
+function pinVerse(ch, v) {
+  pinnedVerse = { ch: ch, v: v };
+  ['wheel', 'touchstart', 'keydown', 'mousedown'].forEach(function(ev) {
+    window.addEventListener(ev, unpinVerse, { passive: true, once: true });
+  });
+}
+
+function unpinVerse() {
+  if (!pinnedVerse) return;
+  pinnedVerse = null;
+  lastKey = null;
+  updatePane();
+}
+
+// The verse being read: the last one starting at or above the reading line.
+function currentVerse() {
+  if (!verseIndex.length) return null;
+  var line = window.scrollY + READING_LINE;
+  var lo = 0, hi = verseIndex.length - 1, best = 0;
+  while (lo <= hi) {
+    var mid = (lo + hi) >> 1;
+    if (verseIndex[mid].top <= line) { best = mid; lo = mid + 1; }
+    else hi = mid - 1;
+  }
+  return verseIndex[best];
+}
+
+function loadExegesis(chapter, done) {
+  if (exegesisCache[chapter] === 'loading') return;
+  if (exegesisCache[chapter] !== undefined) { done(); return; }
+
+  var stem = EXEGESIS_BOOKS[currentBook];
+  if (!stem) { exegesisCache[chapter] = null; done(); return; }
+
+  exegesisCache[chapter] = 'loading';
+  fetch('../exegesis/nt/' + stem + '_' + pad2(chapter) + '.html')
+    .then(function(r) {
+      if (!r.ok) throw new Error('not found');
+      return r.text();
+    })
+    .then(function(text) {
+      var doc = new DOMParser().parseFromString(text, 'text/html');
+      var sections = [];
+      var heads = doc.querySelectorAll('h2[id]');
+      for (var i = 0; i < heads.length; i++) {
+        var range = parseHeadingRange(heads[i].textContent, heads[i].id);
+        if (!range) continue;
+        var html = '';
+        var node = heads[i].nextElementSibling;
+        while (node && node.tagName !== 'H2') {
+          if (node.tagName !== 'HR' && !node.classList.contains('nav')) {
+            html += node.outerHTML;
+          }
+          node = node.nextElementSibling;
+        }
+        var title = heads[i].textContent.replace(/^Verses?\s+[\d\-a-z]+:\s*/i, '');
+        sections.push({ start: range.start, end: range.end, title: title, html: html });
+      }
+      exegesisCache[chapter] = sections.length ? sections : null;
+      done();
+    })
+    .catch(function() {
+      exegesisCache[chapter] = null;
+      done();
+    });
+}
+
+function categoryClass(cat) {
+  if (cat.indexOf('STRONG') === 0) return 'cat-strong';
+  if (cat.indexOf('LEANS') === 0) return 'cat-leans';
+  if (cat === 'MISAPPLIED') return 'cat-mis';
+  return 'cat-na';
+}
+
+function topicsFor(chapter, verse) {
+  if (!topicsLoaded || typeof TOPICS === 'undefined') return [];
+  var byBook = TOPICS[currentBook];
+  if (!byBook) return [];
+  var rows = byBook[String(chapter)] || [];
+  var hits = [];
+  for (var i = 0; i < rows.length; i++) {
+    var r = rows[i];
+    var after = chapter > r.sc || (chapter === r.sc && verse >= r.sv);
+    var before = chapter < r.ec || (chapter === r.ec && verse <= r.ev);
+    if (after && before) hits.push(r);
+  }
+  return hits;
+}
+
+function renderTopics(hits) {
+  if (!hits.length) return '';
+  var html = '<div class="topics"><div class="pane-label">Topical assessment</div>';
+  ['o', 'd'].forEach(function(t) {
+    var row = null;
+    for (var i = 0; i < hits.length; i++) {
+      if (hits[i].t === t) { row = hits[i]; break; }
+    }
+    if (!row) return;
+    var href = '../reports/' + TOPIC_PATHS[t] + '/index.html';
+    html += '<div class="topic-row">' +
+            '<span class="topic-name">' + TOPIC_NAMES[t] + '</span>' +
+            '<a class="badge ' + categoryClass(row.c) + '" href="' + href + '" target="_blank" ' +
+            'title="' + escapeAttr(row.n) + ' (' + row.r + ')">' +
+            row.c.replace(/_/g, ' ') + '</a></div>';
+  });
+  return html + '</div>';
+}
+
+function escapeAttr(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+}
+
+// What the reader is on: an explicit request if there is one, else the scroll.
+function activeVerse() { return pinnedVerse || currentVerse(); }
+
+function updatePane() {
+  if (!paneOn) return;
+  var pos = activeVerse();
+  var inner = document.getElementById('paneInner');
+  if (!pos) {
+    inner.innerHTML = '<p class="pane-empty">Scroll the text to follow along.</p>';
+    return;
+  }
+
+  var cached = exegesisCache[pos.ch];
+  if (cached === undefined) {
+    loadExegesis(pos.ch, function() { lastKey = null; updatePane(); });
+    return;
+  }
+  if (cached === 'loading') return;
+
+  // Containment only, with no nearest-section fallback. 17 of the RCB's 7,943
+  // verses have no exegesis section (John 7:53-8:11, Titus 2:7-10, Revelation
+  // 12:18); showing a neighbouring section there would present commentary on
+  // one passage as though it covered another.
+  var section = null;
+  if (cached) {
+    for (var i = 0; i < cached.length; i++) {
+      if (pos.v >= cached[i].start && pos.v <= cached[i].end) { section = cached[i]; break; }
+    }
+  }
+
+  // Re-render only when the pane's content would actually change. The exegesis
+  // section and the report rows divide the chapter differently (1,966 exegesis
+  // sections against 1,956 and 1,975 report rows), so both go in the key --
+  // keying on the section alone would freeze the badges mid-section.
+  var hits = topicsFor(pos.ch, pos.v);
+  var key = pos.ch + ':' + (section ? section.start + '-' + section.end : 'v' + pos.v) +
+            '|' + hits.map(function(h) { return h.t + h.r; }).join(',');
+  if (key === lastKey) return;
+  lastKey = key;
+
+  var stem = EXEGESIS_BOOKS[currentBook];
+  var full = stem ? '../exegesis/nt/' + stem + '_' + pad2(pos.ch) + '.html' : null;
+  var html = '';
+
+  if (section) {
+    html += '<div class="pane-ref">' + bookLabel() + ' ' + pos.ch + ':' +
+            section.start + (section.end !== section.start ? '-' + section.end : '') + '</div>';
+    html += '<div class="pane-title">' + section.title + '</div>';
+    html += '<div class="pane-body">' + section.html + '</div>';
+  } else {
+    html += '<div class="pane-ref">' + bookLabel() + ' ' + pos.ch + ':' + pos.v + '</div>';
+    html += '<p class="pane-empty">The exegesis has no section covering this verse, ' +
+            'so there is nothing to show rather than something approximate.</p>';
+  }
+
+  html += renderTopics(hits);
+
+  if (full) {
+    html += '<div class="pane-footer"><a href="' + full + '" target="_blank">' +
+            'Full chapter exegesis &rarr;</a></div>';
+  }
+
+  inner.innerHTML = html;
+  document.getElementById('pane').scrollTop = 0;
+}
+
+function bookLabel() {
+  return document.getElementById('toolbar-book').textContent || '';
+}
+
+// Put a verse on the reading line -- the same line currentVerse() measures
+// against, so the verse scrolled to is the verse the pane then reports.
+function scrollToVerse(ch, v) {
+  var el = document.getElementById('v' + ch + '-' + v);
+  if (!el) return false;
+  // Land the verse a little ABOVE the reading line. Placing it exactly on the
+  // line made the comparison in currentVerse() a coin toss, which reported the
+  // preceding verse -- Hebrews 11:1 read as 10:39.
+  var top = el.getBoundingClientRect().top + window.scrollY;
+  window.scrollTo(0, Math.max(0, top - READING_LINE + 8));
+  return true;
+}
+
+function toggleCommentary() {
+  // Hiding the commentary widens the reading column, which reflows the text and
+  // would otherwise carry the passage off screen. Note the place, then return
+  // to it once the new width has been laid out.
+  var anchor = activeVerse();
+
+  paneOn = !paneOn;
+  document.body.classList.toggle('show-commentary', paneOn);
+  var btn = document.getElementById('commentaryBtn');
+  btn.textContent = 'Commentary: ' + (paneOn ? 'ON' : 'OFF');
+  btn.classList.toggle('active', paneOn);
+  try { localStorage.setItem('rcb-commentary', paneOn ? '1' : '0'); } catch (e) {}
+
+  measureVerses();
+  if (anchor) {
+    scrollToVerse(anchor.ch, anchor.v);
+    measureVerses();
+  }
+
+  if (paneOn) {
+    if (!topicsLoaded) {
+      var s = document.createElement('script');
+      s.src = 'data/topics.js';
+      s.onload = function() { topicsLoaded = true; lastKey = null; updatePane(); };
+      s.onerror = function() { topicsLoaded = false; };
+      document.head.appendChild(s);
+    }
+    lastKey = null;
+    updatePane();
+  }
+}
+
+var ticking = false;
+window.addEventListener('scroll', function() {
+  if (!paneOn || ticking) return;
+  ticking = true;
+  requestAnimationFrame(function() { ticking = false; updatePane(); });
+}, { passive: true });
+
+window.addEventListener('resize', function() {
+  // A narrower window can leave the saved pane width wider than MIN_TEXT allows.
+  var cur = parseInt(getComputedStyle(document.documentElement)
+                       .getPropertyValue('--pane-w'), 10);
+  if (cur) setPaneWidth(cur);
+  measureVerses();
+});
+
+/* ==================== Reference picker ====================
+ *
+ * Books -> chapters -> verses, each step a grid of blocks. It draws from
+ * data/index.js, which records what the RCB actually contains, so a verse the
+ * critical text omits (Romans 16:24, Mark 11:26) is never offered.
+ */
+
+var pickerStep = 'books';
+var pickerBook = null;
+var pickerChapter = null;
+
+function openPicker() {
+  pickerStep = 'books';
+  pickerBook = null;
+  pickerChapter = null;
+  document.getElementById('pickerBackdrop').classList.add('open');
+  renderPicker();
+}
+
+function closePicker() {
+  document.getElementById('pickerBackdrop').classList.remove('open');
+}
+
+function pickBook(code) {
+  pickerBook = code;
+  pickerStep = 'chapters';
+  renderPicker();
+}
+
+function pickChapter(n) {
+  pickerChapter = n;
+  var verses = RCB_INDEX.books[pickerBook].chapters[n - 1] || [];
+  // A one-verse chapter has nothing to choose; go straight there.
+  if (verses.length <= 1) return goTo(pickerBook, n, verses[0] || 1);
+  pickerStep = 'verses';
+  renderPicker();
+}
+
+function goTo(code, chapter, verse) {
+  closePicker();
+  var frag = '#v' + chapter + '-' + verse;
+  if (code === currentBook && scrollToVerse(chapter, verse)) {
+    // Same book: no reload, just move.
+    history.replaceState(null, '', location.pathname + location.search + frag);
+    pinVerse(chapter, verse);
+    lastKey = null;
+    updatePane();
+    return;
+  }
+  location.href = location.pathname + '?book=' + code + frag;
+}
+
+function esc(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+}
+
+/* ---- Passage entry: "rom 8:28", "1 john 2", "Rev 21 4" ---- */
+
+function normKey(s) { return String(s).toLowerCase().replace(/[^a-z0-9]/g, ''); }
+
+// Short forms a reader is likely to type that are not a prefix of the name.
+var BOOK_ALIASES = {
+  mt: 'MAT', mk: 'MRK', lk: 'LUK', jn: 'JHN', ac: 'ACT', rm: 'ROM',
+  philem: 'PHM', phlm: 'PHM', hb: 'HEB', jm: 'JAS', rv: 'REV', apoc: 'REV',
+  '1co': '1CO', '2co': '2CO', '1th': '1TH', '2th': '2TH',
+  '1ti': '1TI', '2ti': '2TI', '1pt': '1PE', '2pt': '2PE',
+  '1jn': '1JN', '2jn': '2JN', '3jn': '3JN'
+};
+
+// Every spelling of a book that should resolve to its code.
+var BOOK_KEYS = (function () {
+  var map = {};
+  RCB_INDEX.order.forEach(function (code) {
+    var bk = RCB_INDEX.books[code];
+    [code, bk.abbrev, bk.name].forEach(function (form) {
+      var k = normKey(form);
+      if (k && !map[k]) map[k] = code;
+    });
+  });
+  for (var a in BOOK_ALIASES) if (!map[a]) map[a] = BOOK_ALIASES[a];
+  return map;
+})();
+
+function matchBook(text) {
+  var k = normKey(text);
+  if (!k) return null;
+  if (BOOK_KEYS[k]) return BOOK_KEYS[k];
+  // Prefix match, but only when it is unambiguous: "jo" could be John or Jonah,
+  // so it resolves to nothing rather than to a guess.
+  var hits = [];
+  for (var key in BOOK_KEYS) {
+    if (key.indexOf(k) === 0 && hits.indexOf(BOOK_KEYS[key]) === -1) {
+      hits.push(BOOK_KEYS[key]);
+    }
+  }
+  return hits.length === 1 ? hits[0] : null;
+}
+
+// -> {code, chapter, verse, error} ; chapter/verse null when not given
+function parseReference(text) {
+  var m = /^\s*([1-3]?\s*[A-Za-z][A-Za-z\s]*?)\s*\.?\s*(?:(\d+)\s*(?:[:.\s]\s*(\d+))?)?\s*$/.exec(text || '');
+  if (!m) return { error: 'Try something like "Rom 8:28"' };
+
+  var code = matchBook(m[1]);
+  if (!code) return { error: 'No book matches "' + m[1].trim() + '"' };
+
+  var bk = RCB_INDEX.books[code];
+  if (!m[2]) return { code: code, chapter: null, verse: null };
+
+  // In a one-chapter book a bare number is the verse -- "Jude 14" means verse
+  // 14, not chapter 14. An explicit "Jude 1:14" still parses the normal way.
+  if (bk.chapters.length === 1 && !m[3]) {
+    var only = bk.chapters[0];
+    var vv = parseInt(m[2], 10);
+    if (only.indexOf(vv) === -1) {
+      return { error: bk.name + ' has ' + only[only.length - 1] + ' verses' };
+    }
+    return { code: code, chapter: 1, verse: vv };
+  }
+
+  var ch = parseInt(m[2], 10);
+  if (ch < 1 || ch > bk.chapters.length) {
+    return { error: bk.name + ' has ' + bk.chapters.length + ' chapter' +
+                    (bk.chapters.length === 1 ? '' : 's') };
+  }
+
+  var verses = bk.chapters[ch - 1];
+  if (!m[3]) return { code: code, chapter: ch, verse: verses[0] };
+
+  var v = parseInt(m[3], 10);
+  if (verses.indexOf(v) === -1) {
+    // Distinguish "out of range" from "the RCB does not carry that verse".
+    var last = verses[verses.length - 1];
+    var msg = v >= 1 && v <= last
+      ? bk.name + ' ' + ch + ':' + v + ' is not in the critical text'
+      : bk.name + ' ' + ch + ' has ' + last + ' verses';
+    return { error: msg };
+  }
+  return { code: code, chapter: ch, verse: v };
+}
+
+function onSearchInput() {
+  var box = document.getElementById('pickerSearch');
+  var hint = document.getElementById('pickerHint');
+  var q = box.value.trim();
+  if (!q) { hint.className = 'picker-hint'; hint.textContent = ''; return; }
+
+  var r = parseReference(q);
+  if (r.error) {
+    hint.className = 'picker-hint miss';
+    hint.textContent = r.error;
+    return;
+  }
+  var bk = RCB_INDEX.books[r.code];
+  hint.className = 'picker-hint hit';
+  hint.textContent = '→ ' + bk.name + (r.chapter ? ' ' + r.chapter : '') +
+                     (r.chapter && r.verse ? ':' + r.verse : '') +
+                     '   (press Enter)';
+}
+
+function onSearchKey(e) {
+  if (e.key !== 'Enter') return;
+  var r = parseReference(document.getElementById('pickerSearch').value);
+  if (r.error) return;
+  if (r.chapter) return goTo(r.code, r.chapter, r.verse);
+  pickBook(r.code);   // book alone -> show its chapters
+}
+
+function renderPicker() {
+  var el = document.getElementById('picker');
+  var html = '<div class="picker-head"><div class="picker-crumb">';
+
+  if (pickerStep === 'books') {
+    html += 'Choose a book';
+  } else {
+    html += '<button onclick="openPicker()">Books</button>';
+    html += '<span class="sep">&rsaquo;</span>';
+    var bk = RCB_INDEX.books[pickerBook];
+    if (pickerStep === 'chapters') {
+      html += esc(bk.name);
+    } else {
+      html += '<button onclick="pickBook(\'' + pickerBook + '\')">' + esc(bk.name) + '</button>';
+      html += '<span class="sep">&rsaquo;</span>' + pickerChapter;
+    }
+  }
+
+  html += '</div><button class="picker-close" onclick="closePicker()" title="Close">&times;</button></div>';
+
+  if (pickerStep === 'books') {
+    html += '<input class="picker-search" id="pickerSearch" type="text" ' +
+            'placeholder="Enter passage — e.g. Rom 8:28" autocomplete="off" ' +
+            'oninput="onSearchInput()" onkeydown="onSearchKey(event)">' +
+            '<div class="picker-hint" id="pickerHint"></div>';
+    // One dense grid in canonical order; the genre colour does the grouping.
+    html += '<div class="blocks books">';
+    RCB_INDEX.order.forEach(function(code) {
+      var bk = RCB_INDEX.books[code];
+      var cur = code === currentBook ? ' current' : '';
+      html += '<button class="block g-' + bk.genre + cur + '" onclick="pickBook(\'' +
+              code + '\')" title="' + esc(bk.name) + '">' + esc(bk.abbrev) + '</button>';
+    });
+    html += '</div>';
+  } else if (pickerStep === 'chapters') {
+    var chapters = RCB_INDEX.books[pickerBook].chapters;
+    html += '<div class="blocks nums">';
+    for (var c = 1; c <= chapters.length; c++) {
+      html += '<button class="block" onclick="pickChapter(' + c + ')">' + c + '</button>';
+    }
+    html += '</div>';
+  } else {
+    var verses = RCB_INDEX.books[pickerBook].chapters[pickerChapter - 1] || [];
+    html += '<div class="blocks nums">';
+    verses.forEach(function(v) {
+      html += '<button class="block" onclick="goTo(\'' + pickerBook + '\',' +
+              pickerChapter + ',' + v + ')">' + v + '</button>';
+    });
+    html += '</div>';
+  }
+
+  el.innerHTML = html;
+
+  // Focus the box so a reference can be typed without reaching for the mouse.
+  var box = document.getElementById('pickerSearch');
+  if (box) box.focus();
+}
+
+document.getElementById('pickerBackdrop').addEventListener('click', function(e) {
+  if (e.target === this) closePicker();
+});
+
+document.addEventListener('keydown', function(e) {
+  if (e.key !== 'Escape') return;
+  if (document.getElementById('pickerBackdrop').classList.contains('open')) closePicker();
+});
+
+/* ==================== Resizable divider ==================== */
+
+var MIN_PANE = 280, MIN_TEXT = 340;
+
+function setPaneWidth(px) {
+  var layout = document.querySelector('.layout');
+  var max = layout.clientWidth - MIN_TEXT;
+  px = Math.max(MIN_PANE, Math.min(px, Math.max(MIN_PANE, max)));
+  document.documentElement.style.setProperty('--pane-w', px + 'px');
+  return px;
+}
+
+(function initDivider() {
+  var divider = document.getElementById('divider');
+  var dragging = false;
+  var dragAnchor = null;
+
+  function settle() {
+    measureVerses();
+    if (dragAnchor) {
+      scrollToVerse(dragAnchor.ch, dragAnchor.v);
+      measureVerses();
+    }
+    lastKey = null;
+    updatePane();
+  }
+
+  divider.addEventListener('mousedown', function(e) {
+    dragging = true;
+    // Resizing reflows the reading column just as toggling does, so hold the
+    // reader's place across the drag.
+    dragAnchor = activeVerse();
+    divider.classList.add('dragging');
+    document.body.classList.add('resizing');
+    e.preventDefault();
+  });
+
+  window.addEventListener('mousemove', function(e) {
+    if (!dragging) return;
+    var layout = document.querySelector('.layout');
+    // The pane is flush to the layout's right edge, so its width is whatever
+    // lies between the cursor and that edge.
+    setPaneWidth(layout.getBoundingClientRect().right - e.clientX - 10);
+  });
+
+  window.addEventListener('mouseup', function() {
+    if (!dragging) return;
+    dragging = false;
+    divider.classList.remove('dragging');
+    document.body.classList.remove('resizing');
+    try {
+      var w = getComputedStyle(document.documentElement).getPropertyValue('--pane-w');
+      localStorage.setItem('rcb-pane-w', parseInt(w, 10));
+    } catch (err) {}
+    settle();
+    dragAnchor = null;
+  });
+
+  // Double-click the divider to restore the default split.
+  divider.addEventListener('dblclick', function() {
+    dragAnchor = activeVerse();
+    setPaneWidth(400);
+    try { localStorage.setItem('rcb-pane-w', 400); } catch (err) {}
+    settle();
+    dragAnchor = null;
+  });
+
+  var saved = null;
+  try { saved = localStorage.getItem('rcb-pane-w'); } catch (err) {}
+  if (saved) setPaneWidth(parseInt(saved, 10));
+})();
+
+/* ==================== Boot ==================== */
+
+// Keep the browser from re-applying a stale scroll position over our anchor.
+if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+
 var params = new URLSearchParams(window.location.search);
 var bookCode = params.get('book');
 
 if (bookCode) {
+  currentBook = bookCode;
   var script = document.createElement('script');
   script.src = 'data/' + bookCode + '.js';
   script.onload = function() {
     document.getElementById('content').innerHTML = parseUSFM(USFM);
-    if (window.location.hash) {
-      setTimeout(function() {
-        var el = document.getElementById(window.location.hash.substring(1));
-        if (el) el.scrollIntoView();
-      }, 50);
-    }
+
+    // Settle the layout before resolving the hash. Showing the commentary
+    // narrows the reading column, and a column laid out at one width then
+    // reflowed to another leaves the earlier scroll position pointing
+    // somewhere else entirely -- ?book=LUK#v15-11 landed on Luke 10.
+    restoreCommentary();
+
+    // Anchor synchronously rather than inside requestAnimationFrame: rAF does
+    // not fire while the tab is not visible, so a link opened in a background
+    // tab never got anchored at all. measureVerses() forces layout itself, so
+    // there is nothing a frame would have waited for.
+    bootAnchor(window.location.hash ? window.location.hash.substring(1) : '');
   };
+
+function anchorTo(hash) {
+  var m = /^v(\d+)-(\d+)$/.exec(hash);
+  if (m) {
+    pinVerse(parseInt(m[1], 10), parseInt(m[2], 10));
+    return scrollToVerse(parseInt(m[1], 10), parseInt(m[2], 10));
+  }
+  if (hash) {
+    var el = document.getElementById(hash);
+    if (el) { el.scrollIntoView(); return true; }
+  }
+  return false;
+}
+
+/* Anchoring once is not enough. The browser applies its own scroll position
+ * while the document is still finishing, which lands on 0 and silently undoes
+ * the anchor set during boot -- ?book=ROM#v8-28 opened at Romans 1:1. So take
+ * scroll restoration off the browser and re-apply until the position holds
+ * still, giving up the moment the reader scrolls so we never fight them. */
+function bootAnchor(hash) {
+  measureVerses();
+
+  if (!hash) { lastKey = null; updatePane(); return; }
+
+  var abandoned = false;
+  function userTookOver() { abandoned = true; }
+  ['wheel', 'touchstart', 'keydown', 'mousedown'].forEach(function(ev) {
+    window.addEventListener(ev, userTookOver, { passive: true, once: true });
+  });
+
+  var tries = 0, lastY = -1;
+  (function attempt() {
+    if (abandoned) return;
+    measureVerses();
+    anchorTo(hash);
+    measureVerses();
+    lastKey = null;
+    updatePane();
+
+    var settled = window.scrollY === lastY;
+    lastY = window.scrollY;
+    if (!settled && ++tries < 8) setTimeout(attempt, 70);
+  })();
+}
   script.onerror = function() {
     document.getElementById('content').innerHTML = '<p class="error-msg">Book data not found.</p>';
   };
   document.head.appendChild(script);
 } else {
   document.getElementById('content').innerHTML = '<p class="error-msg">No book specified.</p>';
+}
+
+// Default the pane on where there is room for it beside the text, off where it
+// would cover the passage the reader arrived to read.
+function restoreCommentary() {
+  var saved = null;
+  try { saved = localStorage.getItem('rcb-commentary'); } catch (e) {}
+  var want = saved === null ? window.innerWidth > 1100 : saved === '1';
+  if (want && !paneOn) toggleCommentary();
 }
 </script>
 

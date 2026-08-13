@@ -18,9 +18,14 @@ assessments/nt-{topic}/{Book}_{Ch}.json  ← Pass 2: structured assessment
 docs/reports/{topic}/data.js        ← Aggregated JS array (MUST REGENERATE)
         ↓
 docs/reports/{topic}/index.html     ← Interactive report (reads data.js)
+        ↓
+docs/rcb/data/topics.js             ← Compact index for the RCB commentary pane
+                                      (MUST REGENERATE — see below)
 ```
 
 **Critical**: The report reads from `data.js`, NOT from the assessment JSONs. Any change to an assessment JSON requires regenerating `data.js` or the report will show stale data.
+
+**Also critical, and easy to forget**: the RCB commentary pane reads `docs/rcb/data/topics.js`, which is derived from *both* reports' `data.js`. Regenerating `data.js` without also running `python scripts/gen_topics_index.py` leaves the pane showing the old verdicts. Nothing errors — it just goes quietly stale.
 
 ## Regenerating data.js
 
@@ -133,6 +138,60 @@ python scripts/gen_rcb_data.py GAL
 ```
 
 The script reads `usfm/nt/{BOOK}.usfm`, escapes for a JS template literal, and writes `docs/rcb/data/{BOOK}.js`.
+
+### The commentary pane
+
+`docs/rcb/index.html` can show the exegesis beside the text, synced to whatever passage the reader is in, with the OSAS and determinism verdicts for that passage under it. The "Commentary" toolbar toggle shows and hides it; the choice is remembered in `localStorage`, defaulting on above 1100px and off below, where the pane becomes a bottom sheet.
+
+**It syncs by verse containment, not by matching headings.** The RCB's `\s1` divisions and the exegesis's divisions usually agree but not always — Romans 8 breaks at v9 in the RCB and v5 in the exegesis. So the pane takes the verse at the reading line and finds the section whose range contains it, which is immune to the mismatch. Do not "fix" this by aligning the two sets of headings.
+
+Two things it reads:
+
+- `docs/exegesis/nt/{Book}_{NN}.html`, fetched per chapter as the reader arrives. The section ranges come from the **heading text** (`Verses 16b-18:`), not the `id`, because the id holds only the first verse token of a split verse (`id="16"`). Parsing ids alone leaves 31 phantom gaps across the NT.
+- `docs/rcb/data/topics.js` for the verdict badges, lazy-loaded when the pane is first opened.
+
+**There is no nearest-section fallback**, deliberately. 17 of the RCB's 7,943 verses have no exegesis section, and the pane says so rather than showing a neighbouring passage's commentary as if it applied:
+
+| Passage | Why |
+|---|---|
+| John 7:53-8:11 | `John_07` ends at 7:52 and `John_08` starts at 8:12; the RCB carries the text |
+| Titus 2:7-10 | no section was written |
+| Revelation 12:18 | NA28 numbers it separately; the exegesis treats it under 13:1 |
+
+Verify with `python scripts/check_pane_coverage.py`. It walks every verse in every `usfm/nt/{BOOK}.usfm` against the exegesis section ranges and exits non-zero on any uncovered verse not in its expected list — so a new exegesis chapter, or an edit that renames a heading, gets caught. Run it after any change to an exegesis file's `<h2>` headings.
+
+### Book identifiers and abbreviations
+
+**The canonical identifier is the USFM 3-letter code** — already the USFM filename, the data filename, and the `?book=` parameter. Settled 2026-08-13 after checking the alternatives against the whole 66-book canon.
+
+**Two characters cannot identify a book.** The leading two letters collide seven ways across the canon:
+
+```
+JO -> Joshua, Job, Joel, Jonah, John      MA -> Malachi, Matthew, Mark
+EZ -> Ezra, Ezekiel                       PH -> Philippians, Philemon
+JU -> Judges, Jude                        ZE -> Zephaniah, Zechariah
+HA -> Habakkuk, Haggai
+```
+
+Three leading letters collide only twice — `JUD` (Judges/Jude) and `PHI` (Philippians/Philemon) — and the USFM codes exist precisely to break those: `JDG`/`JUD`, `PHP`/`PHM`. `scripts/gen_rcb_index.py` asserts code uniqueness on every run rather than assuming it.
+
+**Short input still works without inventing a scheme.** The viewer's `matchBook()` accepts any *unambiguous* prefix, and 40 of the 66 books resolve in two characters (`ro`, `ga`, `ep`, `ti`). Ambiguous input resolves to nothing rather than to a guess, so `jo` and `ph` simply fail. A small alias table covers common forms that are not prefixes (`jn`, `mt`, `mk`, `lk`, `rv`).
+
+**One case where a code and a natural prefix disagree**: `jud` is Jude's USFM code, so it resolves to Jude, not Judges — exact code match wins over prefix. Judges needs `judg`. The picker's live hint (`→ Jude 1:14`) shows the resolution before Enter, which is what keeps this visible rather than silent.
+
+**Block labels are readable short forms, not codes** (`1 Chron`, `Eccles`), because grid columns are fixed width — a longer label costs no space, and codes like `SNG`/`NAM` only cost legibility.
+
+`scripts/gen_rcb_index.py` holds the full 66-book table (code, label, genre). **Books whose USFM file is missing are skipped**, so an OT book joins the picker as soon as `usfm/ot/{CODE}.usfm` exists — no code change. Genres drive block colour only, and pair across the testaments: Torah with Gospels, OT history with Acts, Wisdom with the epistles, major prophets with the general letters, minor prophets with Revelation.
+
+### Regenerating topics.js
+
+After any change to either report's `data.js`:
+
+```
+python scripts/gen_topics_index.py
+```
+
+It strips both reports to what the pane shows — book, chapter, reference, category, section title — keyed by USFM code. The full `data.js` pair is ~3.9MB, far too much for a reading page; the index is ~495K.
 
 ### RCB file naming
 
