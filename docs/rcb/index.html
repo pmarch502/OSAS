@@ -1044,6 +1044,37 @@ function currentVerse() {
   return verseIndex[best];
 }
 
+/* ---- The reader's place ----
+ *
+ * A bookmark, not history. It exists so the front door can put the reader back
+ * where they were: Home from an exegesis chapter returns to the passage they
+ * left rather than to a default book, and closing the tab and coming back the
+ * next day keeps the place a physical ribbon would have kept.
+ *
+ * An explicit ?book= or #verse always wins, so this only ever fills in a bare
+ * visit. Following an RCB link from a report does move the bookmark -- that is
+ * reading, and a ribbon moves when you read.
+ */
+var PLACE_KEY = 'rcb-place';
+var placeSaved = '';
+
+function savePlace() {
+  if (!currentBook) return;
+  var pos = activeVerse();
+  if (!pos) return;
+  var val = currentBook + '.' + pos.ch + '.' + pos.v;
+  if (val === placeSaved) return;     // one write per verse, not per frame
+  placeSaved = val;
+  try { localStorage.setItem(PLACE_KEY, val); } catch (e) {}
+}
+
+function readPlace() {
+  var raw = null;
+  try { raw = localStorage.getItem(PLACE_KEY); } catch (e) { return null; }
+  var m = raw && /^([A-Z0-9]{3})\.(\d+)\.(\d+)$/.exec(raw);
+  return m ? { book: m[1], ch: parseInt(m[2], 10), v: parseInt(m[3], 10) } : null;
+}
+
 function loadExegesis(chapter, done) {
   if (exegesisCache[chapter] === 'loading') return;
   if (exegesisCache[chapter] !== undefined) { done(); return; }
@@ -1276,9 +1307,15 @@ function toggleCommentary() {
 
 var ticking = false;
 window.addEventListener('scroll', function() {
-  if (!paneOn || ticking) return;
+  if (ticking) return;
   ticking = true;
-  requestAnimationFrame(function() { ticking = false; updatePane(); });
+  requestAnimationFrame(function() {
+    ticking = false;
+    // Note this runs with the pane off too. The bookmark is a property of
+    // reading, not a commentary feature, and the guard used to sit above it.
+    savePlace();
+    if (paneOn) updatePane();
+  });
 }, { passive: true });
 
 window.addEventListener('resize', function() {
@@ -1336,6 +1373,7 @@ function goTo(code, chapter, verse) {
     pinVerse(chapter, verse);
     lastKey = null;
     updatePane();
+    savePlace();   // a jump inside the book may not scroll, so no scroll event
     return;
   }
   location.href = location.pathname + '?book=' + code + frag;
@@ -1603,6 +1641,21 @@ if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
 
 var params = new URLSearchParams(window.location.search);
 var bookCode = params.get('book');
+var bootHash = window.location.hash ? window.location.hash.substring(1) : '';
+
+// Nothing asked for: return the reader to where they left off, and failing
+// that open at the beginning of the New Testament rather than at an error.
+// (When the front matter exists, that is the better landing for a first
+// visit -- a Bible opens on its title page, not on Matthew 1.)
+if (!bookCode) {
+  var place = readPlace();
+  if (place) {
+    bookCode = place.book;
+    if (!bootHash) bootHash = 'v' + place.ch + '-' + place.v;
+  } else {
+    bookCode = 'MAT';
+  }
+}
 
 if (bookCode) {
   currentBook = bookCode;
@@ -1621,7 +1674,7 @@ if (bookCode) {
     // not fire while the tab is not visible, so a link opened in a background
     // tab never got anchored at all. measureVerses() forces layout itself, so
     // there is nothing a frame would have waited for.
-    bootAnchor(window.location.hash ? window.location.hash.substring(1) : '');
+    bootAnchor(bootHash);
   };
 
 function anchorTo(hash) {
@@ -1645,7 +1698,7 @@ function anchorTo(hash) {
 function bootAnchor(hash) {
   measureVerses();
 
-  if (!hash) { lastKey = null; updatePane(); return; }
+  if (!hash) { lastKey = null; updatePane(); savePlace(); return; }
 
   var abandoned = false;
   function userTookOver() { abandoned = true; }
@@ -1661,6 +1714,7 @@ function bootAnchor(hash) {
     measureVerses();
     lastKey = null;
     updatePane();
+    savePlace();
 
     var settled = window.scrollY === lastY;
     lastY = window.scrollY;

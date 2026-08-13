@@ -139,6 +139,19 @@ python scripts/gen_rcb_data.py GAL
 
 The script reads `usfm/nt/{BOOK}.usfm`, escapes for a JS template literal, and writes `docs/rcb/data/{BOOK}.js`.
 
+### The reader's place
+
+The viewer remembers where the reader was, in `localStorage` under `rcb-place` (`ROM.14.12`). A visit with no `?book=` and no hash returns there; a first-ever visit opens at Matthew 1:1. **An explicit `?book=` or `#verse` always wins**, so RCB links from the reports still land exactly where they point — the bookmark only ever fills in a bare visit to the front door.
+
+It exists because the front door needs to put the reader back where they were: Home from an exegesis chapter would otherwise drop them at a default book rather than the passage they left. It also survives closing the tab, which is what a physical ribbon does.
+
+It is a bookmark, **not history** — read Romans 8, jump to John 3, then come back to the front door and you land at John 3.
+
+Two things that are easy to break:
+
+- `savePlace()` rides the scroll handler, which used to `return` early when the pane was off. The bookmark is a property of reading, not a commentary feature, so the `paneOn` guard now sits *inside* the frame callback, around `updatePane()` only.
+- `bootAnchor()` returns early when there is no hash, so it needs its own `savePlace()` on that branch — the settling loop below it never runs for a bare visit.
+
 ### The commentary pane
 
 `docs/rcb/index.html` can show the exegesis beside the text, synced to whatever passage the reader is in, with the topical verdicts for that passage above it. The "Commentary" toolbar toggle shows and hides it; the choice is remembered in `localStorage`, defaulting on above 1100px and off below, where the pane becomes a bottom sheet.
