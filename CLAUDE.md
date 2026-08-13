@@ -290,8 +290,35 @@ Why it exists: a model's training is so deeply infused with Reformed theology th
 
 Two things to know if you work on this:
 
-- The whole-book analysis that `chapter_exegesis.md` requires as input was never saved for Galatians. There is no storage convention for it. Anyone re-running or extending the experiment has to produce one first, and should save it this time.
-- Any future correction to a Galatians chapter is being made against a framework that no longer exists in the repo.
+- The whole-book analysis that `chapter_exegesis.md` requires as input was never saved for Galatians. It lived in the session and is gone. Any future correction to a Galatians chapter is therefore made without it.
+- **CLOSED — do not raise this again.** Whether to re-run `whole_book_pass.md` on Galatians and save the result was put to the author on 2026-08-13 and he said drop it, permanently. The reasoning: a fresh run produces a *different* document, so it recovers nothing, and leaving it in the repo would invite someone later to mistake it for the notes the existing six chapters were actually written from. **Do not propose reconstructing it, and do not treat its absence as an open task.** The Galatians chapters stand as they are.
+
+The one thing that carries forward: **if these prompts are ever used on another book, save the whole-book analysis to a file as part of the run.** That is the whole lesson, and it costs nothing at the time.
+
+## The framing audit
+
+An experiment in QC-ing the exegesis for Reformed framing drift, agreed 2026-08-13. **It reports; it never edits.** The author decides what, if anything, follows.
+
+Two instruments, cheap before expensive:
+
+**1. `python scripts/check_framing.py`** — greps all 260 chapters for vocabulary with no first-century referent (`legalism`, `antinomian`, `sola fide`, the medieval moral/ceremonial division of Torah). Instant, always exits 0. Run it on any new chapter. Current NT state: 25 hits in 14 chapters, and reading every one, they are the category being *refused*, quoted, or translated — not one asserts a Reformed reading as the plain sense. **It cannot see framing drift**, which lives in emphasis and in which options go unmentioned. That is what the second instrument is for.
+
+**2. `prompts/framing_audit.md`** — one agent per chapter, opus, output to `audits/framing/{Book}_{Ch}.md`. Give it the prompt text verbatim plus "Audit {Book} {Chapter}." and the working directory. Pace 2-3 at a time per the standing rule.
+
+The sample to run first — the twelve chapters where a Reformed framework has the most to gain, so a null result across them is real evidence:
+
+```
+Romans 3, 4, 8, 9, 10, 11     justification, election
+Galatians 2, 3                the book that failed before
+Ephesians 2                   grace and works
+Hebrews 8                     covenant superseded
+John 6                        drawing and giving
+James 2                       the counter-case
+```
+
+**The null result is the point.** The prompt says a clean chapter is a real finding and that padding destroys the report's value. If the audit comes back mostly clean across the twelve worst chapters, that is strong evidence the drift is rarer than the Galatians experience suggested — and it means no 260-chapter sweep is owed. If it finds real things, it scales. Either way twelve runs answers it.
+
+Do not let the audit edit exegesis. A finding goes through the normal correction workflow, with the author's approval, or nowhere.
 
 ## Running Pass 2 (assessment)
 
