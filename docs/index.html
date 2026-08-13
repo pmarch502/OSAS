@@ -85,11 +85,18 @@
     color: var(--text);
   }
 
+  /* The title is the site's identity now, not a breadcrumb, so it is set in the
+     reading face rather than the interface one — and it is the way to the front
+     matter, which is why it underlines on hover. */
   .toolbar-title {
-    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', serif;
     color: var(--heading);
-    font-size: 15px;
+    font-size: 21px;
+    letter-spacing: 0.01em;
+    text-decoration: none;
   }
+
+  .toolbar-title:hover { text-decoration: underline; }
 
   /* The book name is the way into the picker -- no separate button for it, so
      it has to read as a control at a glance rather than as a label. */
@@ -122,28 +129,35 @@
     top: -1px;
   }
 
+  /* Smaller now that the title carries the weight. The words stay -- they are
+     what says which control this is, and "restorations" is a term this edition
+     has to teach -- so the on/off state is carried by the fill instead: filled
+     and dark is on, dimmed outline is off. */
   .toggle-btn {
-    background: var(--toggle-bg);
-    border: none;
-    padding: 6px 14px;
+    background: none;
+    border: 1px solid var(--intro-border);
+    padding: 3px 9px;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 13px;
-    color: var(--text);
+    font-size: 12px;
+    color: var(--muted);
     font-family: inherit;
-    transition: background 0.2s;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
     white-space: nowrap;
   }
 
   .toggle-btn:hover {
-    background: var(--toggle-active);
-    color: var(--bg);
+    border-color: var(--toggle-active);
+    color: var(--heading);
   }
 
   .toggle-btn.active {
     background: var(--toggle-active);
+    border-color: var(--toggle-active);
     color: var(--bg);
   }
+
+  .toggle-btn.active:hover { color: var(--bg); }
 
   /* ---- Layout: reading column beside the commentary pane ---- */
 
@@ -777,7 +791,9 @@
     .toolbar { padding: 8px 12px; }
     .toolbar-title { display: none; }
     .book-select { margin-left: 0; font-size: 14px; }
-    .toggle-btn { padding: 6px 10px; font-size: 12px; }
+    /* The toggles keep their desktop size here — they are already small, and
+       a tap target should not shrink further. The picker's head row is the
+       route to the front matter once the title is hidden. */
   }
 </style>
 </head>
@@ -785,18 +801,21 @@
 
 <div class="toolbar">
   <div>
-    <span class="toolbar-title">Restored Context Bible</span>
+    <a class="toolbar-title" href="index.html?book=FRONT"
+       title="Front matter &mdash; what this translation is">Restored Context Bible</a>
     <button class="book-select" id="bookSelect" onclick="openPicker()"
             title="Go to a passage">
       <span id="toolbar-book"></span><span class="caret">&#9662;</span>
     </button>
   </div>
   <div class="toolbar-buttons">
-    <button class="toggle-btn active" id="toggleBtn" onclick="toggleRestorations()">
-      Restorations: ON
+    <button class="toggle-btn active" id="toggleBtn" aria-pressed="true"
+            onclick="toggleRestorations()" title="Show or hide the restorations">
+      Restorations
     </button>
-    <button class="toggle-btn" id="commentaryBtn" onclick="toggleCommentary()">
-      Commentary: OFF
+    <button class="toggle-btn" id="commentaryBtn" aria-pressed="false"
+            onclick="toggleCommentary()" title="Show or hide the commentary">
+      Commentary
     </button>
   </div>
 </div>
@@ -961,8 +980,9 @@ function toggleRestorations() {
   var btn = document.getElementById('toggleBtn');
   document.body.classList.toggle('hide-restorations');
   var hidden = document.body.classList.contains('hide-restorations');
-  btn.textContent = hidden ? 'Restorations: OFF' : 'Restorations: ON';
+  // The label stays put; the button's fill carries the state.
   btn.classList.toggle('active', !hidden);
+  btn.setAttribute('aria-pressed', hidden ? 'false' : 'true');
   // Verse offsets move when the restorations collapse.
   measureVerses();
   updatePane();
@@ -1343,8 +1363,8 @@ function toggleCommentary() {
   paneOn = !paneOn;
   document.body.classList.toggle('show-commentary', paneOn);
   var btn = document.getElementById('commentaryBtn');
-  btn.textContent = 'Commentary: ' + (paneOn ? 'ON' : 'OFF');
   btn.classList.toggle('active', paneOn);
+  btn.setAttribute('aria-pressed', paneOn ? 'true' : 'false');
   try { localStorage.setItem('rcb-commentary', paneOn ? '1' : '0'); } catch (e) {}
 
   measureVerses();
