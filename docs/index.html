@@ -86,8 +86,8 @@
   }
 
   /* The title is the site's identity now, not a breadcrumb, so it is set in the
-     reading face rather than the interface one — and it is the way to the front
-     matter, which is why it underlines on hover. */
+     reading face rather than the interface one — and it is the way to the
+     introduction, which is why it underlines on hover. */
   .toolbar-title {
     font-family: Georgia, 'Times New Roman', serif;
     color: var(--heading);
@@ -406,12 +406,12 @@
     text-transform: uppercase;
   }
 
-  /* ---- Front matter (?book=FRONT) ----
+  /* ---- The introduction (?book=INTRO) ----
      A Bible opens on its title page, not on Matthew 1. This is that page: what
      the brackets are, what text is behind the translation, and who made it.
      It reuses the reading column, so it needs only its own headings. */
 
-  .front-h {
+  .rcb-intro-h {
     font-family: Georgia, 'Times New Roman', serif;
     font-size: 21px;
     font-weight: normal;
@@ -419,25 +419,25 @@
     margin: 38px 0 12px;
   }
 
-  .front-body p { margin-bottom: 14px; }
-  .front-body ul { margin: 0 0 14px 24px; }
-  .front-body li { margin-bottom: 8px; }
-  .front-body a { color: var(--link); }
+  .rcb-intro-body p { margin-bottom: 14px; }
+  .rcb-intro-body ul { margin: 0 0 14px 24px; }
+  .rcb-intro-body li { margin-bottom: 8px; }
+  .rcb-intro-body a { color: var(--link); }
 
   /* Shows the reader what a restoration looks like before they meet one. */
-  .front-eg {
+  .rcb-intro-eg {
     color: var(--restoration);
     background: var(--restoration-bg);
   }
 
-  .front-list {
+  .rcb-intro-list {
     color: var(--muted);
     font-size: 16.5px;
     padding-left: 18px;
     border-left: 2px solid var(--intro-border);
   }
 
-  .front-start {
+  .rcb-intro-start {
     margin-top: 44px;
     padding-top: 18px;
     border-top: 1px solid var(--intro-border);
@@ -447,13 +447,13 @@
 
   /* The reading column widens to 1100px with the commentary off, which suits
      verse text and is too long a line for continuous prose. */
-  body.front { --text-max: 720px; }
+  body.rcb-intro { --text-max: 720px; }
 
   /* Nothing to sync a commentary to, so the pane and its control step aside. */
-  body.front .pane,
-  body.front .divider,
-  body.front #commentaryBtn,
-  body.front #toggleBtn { display: none; }
+  body.rcb-intro .pane,
+  body.rcb-intro .divider,
+  body.rcb-intro #commentaryBtn,
+  body.rcb-intro #toggleBtn { display: none; }
 
   .intro {
     border-left: 3px solid var(--intro-border);
@@ -793,7 +793,7 @@
     .book-select { margin-left: 0; font-size: 14px; }
     /* The toggles keep their desktop size here — they are already small, and
        a tap target should not shrink further. The picker's head row is the
-       route to the front matter once the title is hidden. */
+       route to the introduction once the title is hidden. */
   }
 </style>
 </head>
@@ -801,8 +801,8 @@
 
 <div class="toolbar">
   <div>
-    <a class="toolbar-title" href="index.html?book=FRONT"
-       title="Front matter &mdash; what this translation is">Restored Context Bible</a>
+    <a class="toolbar-title" href="index.html?book=INTRO"
+       title="Introduction &mdash; what this translation is">Restored Context Bible</a>
     <button class="book-select" id="bookSelect" onclick="openPicker()"
             title="Go to a passage">
       <span id="toolbar-book"></span><span class="caret">&#9662;</span>
@@ -1594,11 +1594,11 @@ function renderPicker() {
     }
   }
 
-  // The way to the front matter. It sits on the head row rather than above the
+  // The way to the introduction. It sits on the head row rather than above the
   // grid so it costs no height -- the picker's whole value is that every target
   // is a short mouse move from every other.
   html += '</div><div class="picker-actions">' +
-          '<a class="picker-front" href="index.html?book=FRONT">Front matter</a>' +
+          '<a class="picker-front" href="index.html?book=INTRO">Introduction</a>' +
           '<button class="picker-close" onclick="closePicker()" title="Close">&times;</button>' +
           '</div></div>';
 
@@ -1731,7 +1731,7 @@ var bookCode = params.get('book');
 var bootHash = window.location.hash ? window.location.hash.substring(1) : '';
 
 // Nothing asked for: return the reader to where they left off, and failing that
-// open the front matter -- a Bible opens on its title page, not on Matthew 1,
+// open the introduction -- a Bible opens on its title page, not on Matthew 1,
 // and a first-time visitor needs to be told what the brackets are before
 // meeting one.
 if (!bookCode) {
@@ -1740,27 +1740,27 @@ if (!bookCode) {
     bookCode = place.book;
     if (!bootHash) bootHash = 'v' + place.ch + '-' + place.v;
   } else {
-    bookCode = 'FRONT';
+    bookCode = 'INTRO';
   }
 }
 
-/* The front matter is a page, not a book: no verses, so nothing for the
+/* The introduction is a page, not a book: no verses, so nothing for the
  * commentary to sync to and nothing for the bookmark to record. It rides the
  * same shell and the same loader, which is what keeps it feeling like part of
  * the Bible rather than a website page bolted to the side of one. */
-if (bookCode === 'FRONT') {
+if (bookCode === 'INTRO') {
   currentBook = null;
-  document.body.classList.add('front');
-  var frontScript = document.createElement('script');
-  frontScript.src = 'rcb/data/FRONT.js';
-  frontScript.onload = function() {
-    document.getElementById('content').innerHTML = '<div class="front-body">' + FRONT + '</div>';
-    document.getElementById('toolbar-book').textContent = 'Front Matter';
+  document.body.classList.add('rcb-intro');
+  var introScript = document.createElement('script');
+  introScript.src = 'rcb/data/INTRO.js';
+  introScript.onload = function() {
+    document.getElementById('content').innerHTML = '<div class="rcb-intro-body">' + INTRO + '</div>';
+    document.getElementById('toolbar-book').textContent = 'Introduction';
   };
-  frontScript.onerror = function() {
-    document.getElementById('content').innerHTML = '<p class="error-msg">Front matter not found.</p>';
+  introScript.onerror = function() {
+    document.getElementById('content').innerHTML = '<p class="error-msg">Introduction not found.</p>';
   };
-  document.head.appendChild(frontScript);
+  document.head.appendChild(introScript);
 } else if (bookCode) {
   currentBook = bookCode;
   var script = document.createElement('script');

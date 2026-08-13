@@ -1,12 +1,12 @@
-/* Front matter for the Restored Context Bible.
+/* The introduction to the Restored Context Bible.
  *
- * Loaded by the viewer as ?book=FRONT and injected into the reading column, so
+ * Loaded by the viewer as ?book=INTRO and injected into the reading column, so
  * it uses the same shell, theme and measure as the text. Hand-written -- unlike
  * the book data files, nothing generates this.
  *
  * Plain HTML in a template literal: no backticks and no dollar-brace inside.
  */
-var FRONT = `
+var INTRO = `
 <h1 class="book-title">Restored Context Bible</h1>
 
 <div class="intro">
@@ -19,9 +19,9 @@ later the explanation is exactly what is missing.</p>
 would have supplied it themselves.</p>
 </div>
 
-<h2 class="front-h">What the brackets are</h2>
+<h2 class="rcb-intro-h">What the brackets are</h2>
 
-<p>Text in <span class="front-eg">[square brackets and lighter type]</span> is not
+<p>Text in <span class="rcb-intro-eg">[square brackets and lighter type]</span> is not
 in the Greek. It is context restored &mdash; what the writer assumed his readers
 already knew, written into the sentence so it reads as one thought rather than as
 a verse followed by an explanation. The technique is old: this is a modern English
@@ -35,7 +35,7 @@ number of them. Some chapters take many, some almost none.</p>
 <p><strong>Turn them off any time.</strong> The <em>Restorations</em> button in the
 toolbar hides every one of them and leaves the bare translation.</p>
 
-<h2 class="front-h">Footnotes, commentary, and the assessments</h2>
+<h2 class="rcb-intro-h">Footnotes, commentary, and the assessments</h2>
 
 <p>Raised letters open footnotes: cross-references, textual notes, and alternative
 renderings &mdash; the material that would break the reading if it were set inline.</p>
@@ -57,7 +57,7 @@ Will</strong></a> &mdash; passage by passage, on divine determinism versus human
 agency in salvation.</li>
 </ul>
 
-<h2 class="front-h">The text behind the translation</h2>
+<h2 class="rcb-intro-h">The text behind the translation</h2>
 
 <p>This is an original translation from the Greek. It is not a revision of any
 existing English version and carries no debt to one.</p>
@@ -70,7 +70,7 @@ knowing before you meet one:</p>
 are absent from the critical text, so the numbering skips them rather than
 supplying them:</p>
 
-<p class="front-list">Matthew 17:21, 18:11, 23:14 &middot; Mark 7:16, 9:44, 9:46,
+<p class="rcb-intro-list">Matthew 17:21, 18:11, 23:14 &middot; Mark 7:16, 9:44, 9:46,
 11:26, 15:28 &middot; Luke 17:36, 23:17 &middot; John 5:4 &middot; Acts 8:37,
 15:34, 24:7, 28:29 &middot; Romans 16:24</p>
 
@@ -85,7 +85,7 @@ Luke the angel in Gethsemane (22:43&ndash;44) and the word from the cross
 being gone, a footnote marks it. In total the New Testament here runs to 7,943
 verses.</p>
 
-<h2 class="front-h">How it was translated</h2>
+<h2 class="rcb-intro-h">How it was translated</h2>
 
 <p>Every New Testament writer except Luke thinks like a Hebrew and writes in Greek.
 Greek is the container, not the content. So where a Greek word is carrying a Hebrew
@@ -111,7 +111,7 @@ knows he can rescue a hard sentence later with a bracket will lean on it. All 27
 books were translated whole rather than in pieces, because what a word means for a
 writer can only be judged across everything he wrote.</p>
 
-<h2 class="front-h">The exegesis</h2>
+<h2 class="rcb-intro-h">The exegesis</h2>
 
 <p>Every chapter of the New Testament receives a first-century textual reading:
 what does the text say, and what would its original audience have heard? The
@@ -127,7 +127,7 @@ reinterpreting the source text.</p>
 Where a problem is identified, the passage is re-examined against the specific
 textual question.</p>
 
-<h2 class="front-h">Who made this</h2>
+<h2 class="rcb-intro-h">Who made this</h2>
 
 <p>The translation, the restorations, the exegesis and the assessments were all
 produced by Claude, an AI model made by Anthropic, working from the Greek text and
@@ -141,7 +141,7 @@ the New Testament, published openly so the method and every source can be checke
 The method, the prompts, the corrections log and all source materials are at
 <a href="https://github.com/pmarch502/OSAS">github.com/pmarch502/OSAS</a>.</p>
 
-<div class="front-start">
+<div class="rcb-intro-start">
 <p>Choose a book from the toolbar to begin reading.</p>
 </div>
 `;

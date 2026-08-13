@@ -149,13 +149,17 @@ What this rests on: **every Home link in the project already pointed at `docs/in
 - Links out of the viewer — the pane's "Full chapter exegesis" and the topic badges — and the `RCB` links in reports all open in the **same tab**, not a new one. That is what makes Back and Home work, and it matters most on a phone. Don't reintroduce `target="_blank"`.
 - The exegesis chapter list that used to be `docs/index.html` is gone. The exegesis is reached through the commentary pane, and each chapter page carries its own prev/next nav, so nothing needs a table of contents.
 
-### Front matter
+### The introduction
 
-`?book=FRONT` loads `docs/rcb/data/FRONT.js` and injects it into the reading column. It is **hand-written** — nothing generates it, unlike every other file in `rcb/data/`. Plain HTML in a template literal, so no backticks and no `${` in the prose.
+`?book=INTRO` loads `docs/rcb/data/INTRO.js` and injects it into the reading column. It is **hand-written** — nothing generates it, unlike every other file in `rcb/data/`. Plain HTML in a template literal, so no backticks and no `${` in the prose.
 
-It is a page, not a book: no verses, so `currentBook` is left null, `body.front` hides the pane, the divider and both toggles, and the reading column narrows to 720px (1100px is right for verse text and too long a line for prose). Nothing is bookmarked while reading it.
+It is a page, not a book: no verses, so `currentBook` is left null, `body.rcb-intro` hides the pane, the divider and both toggles, and the reading column narrows to 720px (1100px is right for verse text and too long a line for prose). Nothing is bookmarked while reading it.
 
-A first visit with no saved place lands here rather than on Matthew 1, and the picker's head row carries the way back to it.
+A first visit with no saved place lands here rather than on Matthew 1. Two ways back to it: the toolbar title, and the picker's head row.
+
+Its classes are prefixed `rcb-intro-`, not `intro-`, because **`.intro` already belongs to the `\ip` book introductions** — the paragraphs at the head of each USFM book. Keep them apart.
+
+Don't call this "front matter" in reader-facing text. The author's objection, 2026-08-13: it reads as markdown/AI jargon.
 
 **Keep it true.** It states the textual basis to the reader — the sixteen verses absent from the numbering, the doubtful passages included and footnoted, the 7,943-verse total. Verify against the USFM before changing any of it (`scripts/` has no checker for this; a gap scan over `\c`/`\v` is what produced the list). It also discloses that the translation and analysis are AI-produced and not committee-reviewed; that paragraph is deliberate and should not be softened without the author's say-so.
 
