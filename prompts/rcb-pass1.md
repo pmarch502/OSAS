@@ -24,3 +24,15 @@ Write plain, natural English. Raw doesn't mean clumsy. If a sentence read smooth
 **Break the text into paragraphs where the argument turns.** Put a `\p` at each movement of the thought, not only at the start of a chapter. You have read the whole book; you are the one who knows where it turns. A short letter needs this as much as a long one — a book delivered as a single unbroken paragraph is not finished.
 
 Output USFM 3.x to `usfm/nt/{BOOK}-pass1.usfm`. The `\id` line reads `\id {BOOK} - Restored Context Bible (RCB)`. No pass label.
+
+## What the next pass cannot see
+
+Write a second file, `usfm/nt/{BOOK}-pass1-notes.md`, listing what a reader of your translation will need told and your translation itself cannot show. One line per item, each beginning with the chapter and verse. Nothing else belongs in this file — it is not a report on your work.
+
+Three kinds of thing go in it:
+
+- **A reading that differs from what most English versions have**, where you followed the critical text and they do not. Say what you rendered and what they render.
+- **Words a reader knows by heart that are not in the critical text** — a clause or a familiar ending absent from NA28. Whole verses missing from the numbering will be obvious to the next pass; a phrase dropped from inside a verse is invisible once you have written it, so it must be listed here.
+- **A place where the Greek held two readings open and English forced you to pick one.** Say which you took and what the other was.
+
+If a book has none of these, write the file and say so.

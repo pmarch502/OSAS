@@ -7,7 +7,10 @@ You must balance two competing goals. First, you should use the least number of 
 Read these two files first:
 
 - `usfm/nt/{BOOK}-pass1.usfm` — the translation you are amplifying.
+- `usfm/nt/{BOOK}-pass1-notes.md` — what the translator knew and the translation cannot show: readings that differ from the familiar English, words a reader expects that the critical text does not have, places where English had to pick one of two open readings.
 - `exegesis/nt/{Book}_*.md` — the neutral readings for every chapter of the book. This is where your context comes from. Do not supply context they do not support.
+
+Every item in the notes file gets a footnote. It is the one input you may not exercise judgment about leaving out — the reader it serves is the one who knows the familiar wording by heart and meets your text without it. Where the conventional rendering is not merely different but wrong, say that it is what most translations do; do not call it an alternative, which implies a live option. The notes change nothing in the base text, which is frozen exactly as below.
 
 The translation is finished and frozen. Change nothing outside the markers you add — not a word, not a mark of punctuation. It is not yours to judge. Where the wording is hard to follow, that is exactly what your amplification is for — clarify it there.
 
