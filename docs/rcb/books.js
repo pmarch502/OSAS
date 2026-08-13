@@ -33,10 +33,16 @@ function rcbLink(book, chapter, reference) {
   if (reference) {
     var colonIdx = reference.indexOf(':');
     if (colonIdx >= 0) {
+      // A few passages start in the previous chapter — John 7:53-8:11 sits on a
+      // row whose chapter is 8, and 2 Corinthians 6:14-7:1 on a row whose
+      // reference is '7:1'. The reference names the verse the passage opens on,
+      // so take the chapter from it too rather than from the row.
+      var refCh = parseInt(reference.substring(0, colonIdx), 10);
+      var c = isNaN(refCh) ? chapter : refCh;
       var afterColon = reference.substring(colonIdx + 1);
       var dash = afterColon.indexOf('-');
       var v = dash >= 0 ? afterColon.substring(0, dash) : afterColon;
-      frag = 'v' + chapter + '-' + v;
+      frag = 'v' + c + '-' + v;
     }
   }
   return ' <a class="exegesis-link" href="../../rcb/index.html?book=' + code + '#' + frag + '" target="_blank" title="Restored Context Bible: ' + book + ' ' + chapter + '">RCB</a>';
