@@ -26,7 +26,7 @@ The adjective hygiainousa ("sound, healthy, in good condition"), the present act
 
 ---
 
-## Verses 2-6: Behavioral Instructions by Social Category
+## Verses 2-10: Behavioral Instructions by Social Category
 
 ### Verse 2: Older Men
 

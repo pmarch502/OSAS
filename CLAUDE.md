@@ -189,15 +189,18 @@ Two things it reads:
 - `docs/exegesis/nt/{Book}_{NN}.html`, fetched per chapter as the reader arrives. The section ranges come from the **heading text** (`Verses 16b-18:`), not the `id`, because the id holds only the first verse token of a split verse (`id="16"`). Parsing ids alone leaves 31 phantom gaps across the NT.
 - `docs/rcb/data/topics.js` for the verdict badges, lazy-loaded when the pane is first opened.
 
-**There is no nearest-section fallback**, deliberately. 17 of the RCB's 7,943 verses have no exegesis section, and the pane says so rather than showing a neighbouring passage's commentary as if it applied:
+**There is no nearest-section fallback**, deliberately. 13 of the RCB's 7,943 verses have no exegesis section, and the pane says so rather than showing a neighbouring passage's commentary as if it applied:
 
 | Passage | Why |
 |---|---|
 | John 7:53-8:11 | `John_07` ends at 7:52 and `John_08` starts at 8:12; the RCB carries the text |
-| Titus 2:7-10 | no section was written |
 | Revelation 12:18 | NA28 numbers it separately; the exegesis treats it under 13:1 |
 
+Both are places the RCB followed the printed NA28 and the exegesis did not go. **Neither is a chapter with missing analysis, and no such chapter is known.**
+
 Verify with `python scripts/check_pane_coverage.py`. It walks every verse in every `usfm/nt/{BOOK}.usfm` against the exegesis section ranges and exits non-zero on any uncovered verse not in its expected list — so a new exegesis chapter, or an edit that renames a heading, gets caught. Run it after any change to an exegesis file's `<h2>` headings.
+
+**A reported gap is more likely a mislabelled heading than missing analysis.** Titus 2:7-10 sat on this list as "no section was written" until 2026-08-13, when it turned out the section covered 2-10 all along — subsections on the younger men (6-8) and on slaves (9-10) were both there — and only the `<h2>` said "Verses 2-6". The checker reads ranges from heading text, so the wrong heading invented a four-verse hole. Read the section body before commissioning a re-run. The assessments are a good cross-check: both had already assigned the passage (OSAS as `2:2-10`, determinism as `2:6-8` and `2:9-10`), because they read the text rather than the heading.
 
 ### Book identifiers and abbreviations
 

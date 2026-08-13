@@ -86,3 +86,35 @@ Record of passages returned to Claude for re-analysis. Each entry documents what
 **Outcome:** Four footnotes added, all following the formula pass 2 had already established in this book ("Some later copies add ... which the earliest copies do not have"). The doxology note goes further, because the reader's real question is why everyone says it: the Didache already carries a shorter form, Jewish prayer does not end on a bare request, and the words are David's at 1 Chronicles 29:11. The 20:16 note says the line is genuine but belongs at 22:14 and was carried back. The 25:13 note is the bare formula. At 27:35 the existing Psalm 22:18 footnote was extended rather than a second one added (the Jude 14 precedent) — it already made the point that no fulfilment formula is attached and the writer leaves the reader to notice, so the variant belongs on the end of it: later copies attach one and spend the restraint. Manuscripts are not named; the corpus register is plainer, and these are routine liturgical accretions rather than cases turning on external testimony as Mark's longer ending does. Base text untouched.
 **Ripple fixes:** Checked. check_freeze.py cannot run post-publication (the pass-1 baseline is deleted), so the equivalent check was a strip-and-diff against the committed file: with footnotes removed, zero base-text differences across all 1484 lines. Markers balanced (235 add, 443 f, 68 tl); footnote count 440 to 443, the fourth being an extension rather than a new note. Regenerated docs/rcb/data/MAT.js.
 **Assessment impact:** None. The correction is in the translation layer.
+
+## Titus 2:7-10 — a heading, not a gap (2026-08-13)
+
+**Problem:** `scripts/check_pane_coverage.py` reported Titus 2:7-10 as having no
+exegesis section, and the commentary pane told readers so. It had been on the
+expected-gaps list as "no section was written."
+
+**What was actually wrong:** nothing in the analysis. `Titus_02` has a section
+covering verses 2-10, with subsections `Verses 6-8: Younger Men and Titus as
+Model` and `Verses 9-10: Slaves -- Conduct That Adorns the Doctrine`. Only the
+`<h2>` was wrong: it read "Verses 2-6". The pane and the checker both take
+section ranges from heading text, so the mislabelled heading invented a
+four-verse hole in an otherwise complete New Testament.
+
+**Fix:** heading corrected to "Verses 2-10" in `exegesis/nt/Titus_02.md` and
+`docs/exegesis/nt/Titus_02.html`; the HTML anchor `id` moved from `2-6` to
+`2-10`. Titus removed from `EXPECTED` in the checker, which now reports 13
+uncovered verses rather than 17.
+
+**Side effect:** the OSAS report's row for this passage links to
+`Titus_02.html#2-10` (the anchor is built from the row's reference, `2:2-10`).
+That anchor matched nothing before and now resolves. The determinism rows
+`#6-8` and `#9-10` already resolved against the `<h3>` ids.
+
+**Assessment impact:** none. Both assessments had always covered 2:7-10 —
+OSAS as one section `2:2-10`, determinism split as `2:6-8` and `2:9-10` —
+because they were run against the section text, not its heading. No JSON
+changed, so no `data.js` or `topics.js` regeneration was needed.
+
+**Worth carrying forward:** a reported coverage gap is more likely a
+mislabelled heading than missing analysis. Read the section body first, and
+cross-check the assessments — they read the text.

@@ -37,18 +37,22 @@ BOOKS = {
     '3JN': '3John', 'JUD': 'Jude', 'REV': 'Revelation',
 }
 
-# Verses the RCB carries that no exegesis section covers. All three are places
-# where the RCB followed the printed NA28 and the exegesis did not go, not
-# parsing failures.
+# Verses the RCB carries that no exegesis section covers. Both are places where
+# the RCB followed the printed NA28 and the exegesis did not go, not parsing
+# failures.
+#
+# Titus 2:7-10 used to sit here as "no exegesis section written". That was
+# wrong: the section covers 2-10 and carries subsections on the younger men
+# (6-8) and on slaves (9-10). Only its heading said "Verses 2-6", and this
+# checker reads ranges from heading text, so a mislabelled heading invented a
+# four-verse hole. Fixed 2026-08-13. Suspect the heading before believing a
+# gap.
 EXPECTED = {
     'JHN 7:53': 'pericope adulterae -- John_07 ends at 7:52, John_08 starts at 8:12',
-    'TIT 2:7': 'no exegesis section written for Titus 2:7-10',
     'REV 12:18': 'NA28 numbers it separately; the exegesis treats it under 13:1',
 }
 for _v in range(1, 12):
     EXPECTED['JHN 8:%d' % _v] = EXPECTED['JHN 7:53']
-for _v in range(8, 11):
-    EXPECTED['TIT 2:%d' % _v] = EXPECTED['TIT 2:7']
 
 
 def parse_heading_range(text, ident):
