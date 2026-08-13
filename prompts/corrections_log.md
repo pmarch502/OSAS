@@ -118,3 +118,42 @@ changed, so no `data.js` or `topics.js` regeneration was needed.
 **Worth carrying forward:** a reported coverage gap is more likely a
 mislabelled heading than missing analysis. Read the section body first, and
 cross-check the assessments — they read the text.
+
+## Mark's five omitted verses, and Matthew 23:14 (2026-08-13)
+
+**Problem:** an audit of all 16 verses the RCB omits found five with no
+footnote anywhere in their book — Mark 7:16, 9:44, 9:46, 11:26, 15:28. A
+reader met a jump in the numbering with nothing to explain it. Matthew 23:14
+was footnoted but described only ("about devouring widows' houses") without
+giving the wording.
+
+**Why it was all Mark:** Mark was published (`4a22807`) before both fixes for
+this. Matthew hit the same problem next and was hand-corrected (`61cdc62`),
+and the pass-1 notes handoff that prevents it (`4a4e7aa`) came after both.
+Every book from Luke onward had the mechanism, and all their omissions are
+documented. Mark simply never got the pass Matthew got.
+
+**Fix:** each omission now names the verse, quotes what it says, and states
+that the earliest copies lack it — the pattern the other eleven already
+follow. Where the preceding verse already carried a footnote (9:43, 11:25,
+15:27, and Matthew 23:13) the existing note was **extended**, following the
+Jude 14 precedent, rather than hanging a second note mid-sentence. Two notes
+are new (7:15, 9:45). Mark's footnote count goes 225 to 227; Matthew's is
+unchanged at 443.
+
+Two of them fell out well. At 15:27 the note already quoted Isaiah 53:12
+("numbered with the transgressors"), so the added sentence just says later
+copies make that explicit as a verse 28. At 9:43 and 9:45 the omitted words
+are the genuine line that stands at 9:48, repeated by copyists after each
+warning, and the notes say so.
+
+**Verification:** the pass-1 baselines are long gone, so `check_freeze.py`
+could not run. Used the strip-and-diff substitute instead — remove every
+`\f...\f*` and unwrap every `\add`, and diff against the pre-edit file:
+**0 differing lines in the base text** for both books. Markers balanced
+(MRK add/f/tl 200/227/50, MAT 235/443/68), no `\add` inside a footnote and no
+footnote inside an `\add`, every `\s1` still followed by a `\p`, and the verse
+count unchanged at 16 gaps. Regenerated both data files and confirmed the new
+note text renders in the viewer.
+
+**Assessment impact:** none — no base text changed.
