@@ -1,4 +1,4 @@
-# Philippians 1 -- Neutral Reading
+# Philippians 1 -- First-Century Reading
 
 ## Context and Placement
 

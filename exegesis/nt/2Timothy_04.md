@@ -1,4 +1,4 @@
-# 2 Timothy 4 -- Neutral Reading
+# 2 Timothy 4 -- First-Century Reading
 
 ## Context and Placement
 

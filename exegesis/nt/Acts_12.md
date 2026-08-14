@@ -1,4 +1,4 @@
-# Acts 12 -- Neutral Reading
+# Acts 12 -- First-Century Reading
 
 ## Context and Placement
 

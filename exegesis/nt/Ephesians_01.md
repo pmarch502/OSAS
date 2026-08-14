@@ -1,4 +1,4 @@
-# Ephesians 1 -- Neutral Reading
+# Ephesians 1 -- First-Century Reading
 
 ## Context and Placement
 

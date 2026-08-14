@@ -1,4 +1,4 @@
-# Colossians 2 -- Neutral Reading
+# Colossians 2 -- First-Century Reading
 
 ## Context and Placement
 

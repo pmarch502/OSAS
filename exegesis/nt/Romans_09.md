@@ -1,4 +1,4 @@
-# Romans 9 -- Neutral Reading
+# Romans 9 -- First-Century Reading
 
 ## Context and Placement
 

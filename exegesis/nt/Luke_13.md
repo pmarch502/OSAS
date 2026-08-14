@@ -1,4 +1,4 @@
-# Luke 13 -- Neutral Reading
+# Luke 13 -- First-Century Reading
 
 ## Context and Placement
 

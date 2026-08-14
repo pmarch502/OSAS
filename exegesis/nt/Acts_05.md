@@ -1,4 +1,4 @@
-# Acts 5 -- Neutral Reading
+# Acts 5 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# 1 Corinthians 14 -- Neutral Reading
+# 1 Corinthians 14 -- First-Century Reading
 
 ## Context and Placement
 

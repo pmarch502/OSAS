@@ -1,4 +1,4 @@
-# Revelation 4 -- Neutral Reading
+# Revelation 4 -- First-Century Reading
 
 ## Context and Placement
 

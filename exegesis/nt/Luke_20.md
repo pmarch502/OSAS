@@ -1,4 +1,4 @@
-# Luke 20 -- Neutral Reading
+# Luke 20 -- First-Century Reading
 
 ## Context and Placement
 

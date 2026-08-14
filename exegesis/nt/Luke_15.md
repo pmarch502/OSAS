@@ -1,4 +1,4 @@
-# Luke 15 -- Analysis
+# Luke 15 -- First-Century Reading
 
 ## Context: The Argument Before and After
 

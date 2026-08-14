@@ -1,4 +1,4 @@
-# 1 Peter 4 -- Neutral Reading
+# 1 Peter 4 -- First-Century Reading
 
 ## Context and Placement
 

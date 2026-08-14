@@ -1,4 +1,4 @@
-# Mark 1 -- Neutral Reading
+# Mark 1 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Luke 9 -- Neutral Reading
+# Luke 9 -- First-Century Reading
 
 ## Context and Placement
 

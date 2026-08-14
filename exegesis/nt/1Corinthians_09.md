@@ -1,4 +1,4 @@
-# 1 Corinthians 9 -- Neutral Reading
+# 1 Corinthians 9 -- First-Century Reading
 
 ## Context and Placement
 

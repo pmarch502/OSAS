@@ -1,4 +1,4 @@
-# Mark 6 -- Neutral Reading
+# Mark 6 -- First-Century Reading
 
 ## Context and Placement
 

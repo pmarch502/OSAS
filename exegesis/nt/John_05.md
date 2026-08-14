@@ -1,4 +1,4 @@
-# John 5 -- Neutral Reading
+# John 5 -- First-Century Reading
 
 ## Context and Placement
 

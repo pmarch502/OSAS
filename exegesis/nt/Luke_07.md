@@ -1,4 +1,4 @@
-# Luke 7 -- Neutral Reading
+# Luke 7 -- First-Century Reading
 
 ## Context and Placement
 

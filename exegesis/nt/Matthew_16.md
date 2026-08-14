@@ -1,4 +1,4 @@
-# Matthew 16
+# Matthew 16 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

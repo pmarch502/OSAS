@@ -1,4 +1,4 @@
-# John 11 -- Neutral Reading
+# John 11 -- First-Century Reading
 
 ## Context and Placement
 

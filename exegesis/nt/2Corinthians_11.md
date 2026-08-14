@@ -1,4 +1,4 @@
-# 2 Corinthians 11 -- Neutral Reading
+# 2 Corinthians 11 -- First-Century Reading
 
 ## Context and Placement
 

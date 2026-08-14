@@ -1,4 +1,4 @@
-# Titus 2 -- Neutral Reading
+# Titus 2 -- First-Century Reading
 
 ## Context and Placement
 

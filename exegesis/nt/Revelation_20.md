@@ -1,4 +1,4 @@
-# Revelation 20 -- Neutral Reading
+# Revelation 20 -- First-Century Reading
 
 ## Context and Placement
 

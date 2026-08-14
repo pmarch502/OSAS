@@ -1,4 +1,4 @@
-# 1 Timothy 3 -- Neutral Reading
+# 1 Timothy 3 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# John 12 -- Neutral Reading
+# John 12 -- First-Century Reading
 
 ## Context and Placement
 

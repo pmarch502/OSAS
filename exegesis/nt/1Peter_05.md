@@ -1,4 +1,4 @@
-# 1 Peter 5 -- Neutral Reading
+# 1 Peter 5 -- First-Century Reading
 
 ## Context and Placement
 

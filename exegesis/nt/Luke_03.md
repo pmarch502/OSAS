@@ -1,4 +1,4 @@
-# Luke 3 -- Neutral Reading
+# Luke 3 -- First-Century Reading
 
 ## Context and Placement
 

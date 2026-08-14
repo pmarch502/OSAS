@@ -1,4 +1,4 @@
-# Romans 12 -- Neutral Reading
+# Romans 12 -- First-Century Reading
 
 ## Context and Placement
 

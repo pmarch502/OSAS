@@ -1,4 +1,4 @@
-# Matthew 4
+# Matthew 4 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

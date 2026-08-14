@@ -1,4 +1,4 @@
-# Matthew 17
+# Matthew 17 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

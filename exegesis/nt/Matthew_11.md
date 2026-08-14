@@ -1,4 +1,4 @@
-# Matthew 11
+# Matthew 11 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

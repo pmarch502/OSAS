@@ -1,4 +1,4 @@
-# Mark 11 -- Neutral Reading
+# Mark 11 -- First-Century Reading
 
 ## Context and Placement
 

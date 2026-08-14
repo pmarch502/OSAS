@@ -1,4 +1,4 @@
-# Romans 8 -- Neutral Reading
+# Romans 8 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Romans 2 -- Neutral Reading
+# Romans 2 -- First-Century Reading
 
 ## Context and Placement
 

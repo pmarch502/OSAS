@@ -1,4 +1,4 @@
-# Hebrews 10 -- Neutral Reading
+# Hebrews 10 -- First-Century Reading
 
 ## Context and Placement
 

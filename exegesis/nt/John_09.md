@@ -1,4 +1,4 @@
-# John 9 -- Neutral Reading
+# John 9 -- First-Century Reading
 
 ## Context and Placement
 

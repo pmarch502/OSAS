@@ -1,4 +1,4 @@
-# Mark 8 -- Neutral Reading
+# Mark 8 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# John 16 -- Neutral Reading
+# John 16 -- First-Century Reading
 
 ## Context and Placement
 

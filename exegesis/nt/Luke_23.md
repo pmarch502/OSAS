@@ -1,4 +1,4 @@
-# Luke 23 -- Neutral Reading
+# Luke 23 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Colossians 3 -- Neutral Reading
+# Colossians 3 -- First-Century Reading
 
 ## Context and Placement
 

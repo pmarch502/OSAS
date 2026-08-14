@@ -1,4 +1,4 @@
-# Revelation 2 -- Neutral Reading
+# Revelation 2 -- First-Century Reading
 
 ## Context and Placement
 

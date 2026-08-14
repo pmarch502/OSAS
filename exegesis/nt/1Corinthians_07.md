@@ -1,4 +1,4 @@
-# 1 Corinthians 7 -- Neutral Reading
+# 1 Corinthians 7 -- First-Century Reading
 
 ## Context and Placement
 

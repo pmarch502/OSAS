@@ -1,4 +1,4 @@
-# Matthew 5
+# Matthew 5 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

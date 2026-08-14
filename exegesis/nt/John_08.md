@@ -1,4 +1,4 @@
-# John 8 -- Neutral Reading
+# John 8 -- First-Century Reading
 
 ## Context and Placement
 

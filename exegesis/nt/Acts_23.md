@@ -1,4 +1,4 @@
-# Acts 23 -- Neutral Reading
+# Acts 23 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Acts 28 -- Neutral Reading
+# Acts 28 -- First-Century Reading
 
 ## Context and Placement
 

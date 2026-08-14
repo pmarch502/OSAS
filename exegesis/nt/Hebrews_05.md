@@ -1,4 +1,4 @@
-# Hebrews 5 -- Neutral Reading
+# Hebrews 5 -- First-Century Reading
 
 ## Context and Placement
 

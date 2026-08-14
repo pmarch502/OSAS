@@ -1,4 +1,4 @@
-# Matthew 13
+# Matthew 13 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

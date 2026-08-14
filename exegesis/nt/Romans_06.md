@@ -1,4 +1,4 @@
-# Romans 6 -- Neutral Reading
+# Romans 6 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Philippians 3 -- Neutral Reading
+# Philippians 3 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Acts 1 -- Neutral Reading
+# Acts 1 -- First-Century Reading
 
 ## Context and Placement
 

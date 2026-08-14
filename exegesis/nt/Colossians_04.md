@@ -1,4 +1,4 @@
-# Colossians 4 -- Neutral Reading
+# Colossians 4 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Acts 7 -- Neutral Reading
+# Acts 7 -- First-Century Reading
 
 ## Context and Placement
 

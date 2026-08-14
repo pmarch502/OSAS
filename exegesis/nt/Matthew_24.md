@@ -1,4 +1,4 @@
-# Matthew 24
+# Matthew 24 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

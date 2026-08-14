@@ -1,4 +1,4 @@
-# Luke 17 -- Neutral Reading
+# Luke 17 -- First-Century Reading
 
 ## Context and Placement
 

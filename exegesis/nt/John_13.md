@@ -1,4 +1,4 @@
-# John 13 -- Neutral Reading
+# John 13 -- First-Century Reading
 
 ## Context and Placement
 

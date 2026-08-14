@@ -1,4 +1,4 @@
-# John 4 -- Neutral Reading
+# John 4 -- First-Century Reading
 
 ## Context and Placement
 

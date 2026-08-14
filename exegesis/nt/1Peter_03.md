@@ -1,4 +1,4 @@
-# 1 Peter 3 -- Neutral Reading
+# 1 Peter 3 -- First-Century Reading
 
 ## Context and Placement
 

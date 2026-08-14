@@ -1,4 +1,4 @@
-# Matthew 28
+# Matthew 28 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

@@ -1,4 +1,4 @@
-# 2 Corinthians 5 -- Neutral Reading
+# 2 Corinthians 5 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# 2 Corinthians 12: Analysis
+# 2 Corinthians 12 -- First-Century Reading
 
 ## The Argument Before and After
 

@@ -1,4 +1,4 @@
-# 1 Thessalonians 4 -- Neutral Reading
+# 1 Thessalonians 4 -- First-Century Reading
 
 ## Context and Placement
 

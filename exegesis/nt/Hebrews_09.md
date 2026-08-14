@@ -1,4 +1,4 @@
-# Hebrews 9 -- Neutral Reading
+# Hebrews 9 -- First-Century Reading
 
 ## Context and Placement
 

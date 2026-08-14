@@ -1,4 +1,4 @@
-# Revelation 10 -- Neutral Reading
+# Revelation 10 -- First-Century Reading
 
 ## Context and Placement
 

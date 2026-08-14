@@ -1,4 +1,4 @@
-# Titus 3 -- Neutral Reading
+# Titus 3 -- First-Century Reading
 
 ## Context and Placement
 

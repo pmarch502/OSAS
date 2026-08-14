@@ -1,4 +1,4 @@
-# Luke 6 -- Neutral Reading
+# Luke 6 -- First-Century Reading
 
 ## Context and Placement
 

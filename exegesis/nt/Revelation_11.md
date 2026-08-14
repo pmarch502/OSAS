@@ -1,4 +1,4 @@
-# Revelation 11 -- Neutral Reading
+# Revelation 11 -- First-Century Reading
 
 ## Context and Placement
 

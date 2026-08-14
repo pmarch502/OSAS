@@ -1,4 +1,4 @@
-# Mark 3 -- Neutral Reading
+# Mark 3 -- First-Century Reading
 
 ## Context and Placement
 

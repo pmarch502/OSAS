@@ -1,4 +1,4 @@
-# Matthew 3
+# Matthew 3 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

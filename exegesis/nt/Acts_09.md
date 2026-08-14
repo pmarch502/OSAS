@@ -1,4 +1,4 @@
-# Acts 9 -- Neutral Reading
+# Acts 9 -- First-Century Reading
 
 ## Context and Placement
 

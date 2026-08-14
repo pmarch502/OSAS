@@ -1,4 +1,4 @@
-# Revelation 5 -- Neutral Reading
+# Revelation 5 -- First-Century Reading
 
 ## Context and Placement
 

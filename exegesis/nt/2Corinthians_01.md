@@ -1,4 +1,4 @@
-# 2 Corinthians 1 -- Neutral Reading
+# 2 Corinthians 1 -- First-Century Reading
 
 ## Context and Placement
 

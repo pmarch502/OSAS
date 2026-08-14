@@ -1,4 +1,4 @@
-# Mark 16 -- Neutral Reading
+# Mark 16 -- First-Century Reading
 
 ## Context and Placement
 

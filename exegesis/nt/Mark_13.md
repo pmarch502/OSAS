@@ -1,4 +1,4 @@
-# Mark 13 -- Neutral Reading
+# Mark 13 -- First-Century Reading
 
 ## Context and Placement
 

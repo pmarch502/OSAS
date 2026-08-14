@@ -1,4 +1,4 @@
-# Luke 5 -- Neutral Reading
+# Luke 5 -- First-Century Reading
 
 ## Context and Placement
 

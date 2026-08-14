@@ -1,4 +1,4 @@
-# Romans 11 -- Neutral Reading
+# Romans 11 -- First-Century Reading
 
 ## Context and Placement
 

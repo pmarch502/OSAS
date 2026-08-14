@@ -1,4 +1,4 @@
-# Mark 10 -- Neutral Reading
+# Mark 10 -- First-Century Reading
 
 ## Context and Placement
 

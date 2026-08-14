@@ -1,4 +1,4 @@
-# Hebrews 1 -- Neutral Reading
+# Hebrews 1 -- First-Century Reading
 
 ## Context and Placement
 

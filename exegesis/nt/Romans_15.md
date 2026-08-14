@@ -1,4 +1,4 @@
-# Romans 15 -- Neutral Reading
+# Romans 15 -- First-Century Reading
 
 ## Context and Placement
 

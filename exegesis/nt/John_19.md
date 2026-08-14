@@ -1,4 +1,4 @@
-# John 19 -- Neutral Reading
+# John 19 -- First-Century Reading
 
 ## Context and Placement
 

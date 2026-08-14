@@ -1,4 +1,4 @@
-# Mark 7 -- Neutral Reading
+# Mark 7 -- First-Century Reading
 
 ## Context and Placement
 

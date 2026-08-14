@@ -1,4 +1,4 @@
-# Acts 8 -- Neutral Reading
+# Acts 8 -- First-Century Reading
 
 ## Context and Placement
 

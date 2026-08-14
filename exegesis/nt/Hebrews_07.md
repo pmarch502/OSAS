@@ -1,4 +1,4 @@
-# Hebrews 7 -- Neutral Reading
+# Hebrews 7 -- First-Century Reading
 
 ## Context and Placement
 

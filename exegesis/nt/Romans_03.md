@@ -1,4 +1,4 @@
-# Romans 3 -- Neutral Reading
+# Romans 3 -- First-Century Reading
 
 ## Context and Placement
 

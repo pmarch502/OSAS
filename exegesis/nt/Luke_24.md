@@ -1,4 +1,4 @@
-# Luke 24 -- Neutral Reading
+# Luke 24 -- First-Century Reading
 
 ## Context and Placement
 

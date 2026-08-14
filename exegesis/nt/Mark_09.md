@@ -1,4 +1,4 @@
-# Mark 9 -- Neutral Reading
+# Mark 9 -- First-Century Reading
 
 ## Context and Placement
 

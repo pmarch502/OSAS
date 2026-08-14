@@ -1,4 +1,4 @@
-# Matthew 12
+# Matthew 12 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

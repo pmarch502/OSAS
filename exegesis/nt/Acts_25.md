@@ -1,4 +1,4 @@
-# Acts 25 -- Neutral Reading
+# Acts 25 -- First-Century Reading
 
 ## Context and Placement
 

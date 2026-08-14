@@ -1,4 +1,4 @@
-# Acts 11 -- Neutral Reading
+# Acts 11 -- First-Century Reading
 
 ## Context and Placement
 

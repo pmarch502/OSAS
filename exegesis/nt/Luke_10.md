@@ -1,4 +1,4 @@
-# Luke 10 -- Neutral Reading
+# Luke 10 -- First-Century Reading
 
 ## Context and Placement
 

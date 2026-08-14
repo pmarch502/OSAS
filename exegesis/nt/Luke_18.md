@@ -1,4 +1,4 @@
-# Luke 18 -- Neutral Reading
+# Luke 18 -- First-Century Reading
 
 ## Context and Placement
 

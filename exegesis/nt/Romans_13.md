@@ -1,4 +1,4 @@
-# Romans 13 -- Neutral Reading
+# Romans 13 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# 2 Corinthians 3 -- Neutral Reading
+# 2 Corinthians 3 -- First-Century Reading
 
 ## Context and Placement
 

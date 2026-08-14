@@ -1,4 +1,4 @@
-# Hebrews 3 -- Neutral Reading
+# Hebrews 3 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Luke 19 -- Neutral Reading
+# Luke 19 -- First-Century Reading
 
 ## Context and Placement
 

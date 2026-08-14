@@ -1,4 +1,4 @@
-# 1 Thessalonians 2 -- Neutral Reading
+# 1 Thessalonians 2 -- First-Century Reading
 
 ## Context and Placement
 

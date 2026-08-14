@@ -1,4 +1,4 @@
-# Luke 2 -- Neutral Reading
+# Luke 2 -- First-Century Reading
 
 ## Context and Placement
 

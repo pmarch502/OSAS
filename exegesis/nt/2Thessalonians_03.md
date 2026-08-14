@@ -1,4 +1,4 @@
-# 2 Thessalonians 3 -- Neutral Reading
+# 2 Thessalonians 3 -- First-Century Reading
 
 ## Context and Placement
 

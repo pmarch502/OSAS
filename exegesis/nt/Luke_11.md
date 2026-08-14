@@ -1,4 +1,4 @@
-# Luke 11 -- Neutral Reading
+# Luke 11 -- First-Century Reading
 
 ## Context and Placement
 

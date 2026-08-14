@@ -1,4 +1,4 @@
-# Acts 13 -- Neutral Reading
+# Acts 13 -- First-Century Reading
 
 ## Context and Placement
 

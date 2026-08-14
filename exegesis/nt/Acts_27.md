@@ -1,4 +1,4 @@
-# Acts 27 -- Neutral Reading
+# Acts 27 -- First-Century Reading
 
 ## Context and Placement
 

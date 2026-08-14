@@ -1,4 +1,4 @@
-# Luke 16 -- Neutral Reading
+# Luke 16 -- First-Century Reading
 
 ## Context and Placement
 

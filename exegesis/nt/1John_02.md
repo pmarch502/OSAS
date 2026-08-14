@@ -1,4 +1,4 @@
-# 1 John 2 -- Neutral Reading
+# 1 John 2 -- First-Century Reading
 
 ## Context and Placement
 

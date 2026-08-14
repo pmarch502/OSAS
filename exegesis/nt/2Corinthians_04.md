@@ -1,4 +1,4 @@
-# 2 Corinthians 4 -- Neutral Reading
+# 2 Corinthians 4 -- First-Century Reading
 
 ## Context and Placement
 

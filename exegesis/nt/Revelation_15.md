@@ -1,4 +1,4 @@
-# Revelation 15 -- Neutral Reading
+# Revelation 15 -- First-Century Reading
 
 ## Context and Placement
 

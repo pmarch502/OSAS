@@ -1,4 +1,4 @@
-# Romans 16 -- Neutral Reading
+# Romans 16 -- First-Century Reading
 
 ## Context and Placement
 

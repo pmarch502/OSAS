@@ -1,4 +1,4 @@
-# Luke 22 -- Neutral Reading
+# Luke 22 -- First-Century Reading
 
 ## Context and Placement
 

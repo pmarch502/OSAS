@@ -1,4 +1,4 @@
-# Matthew 8
+# Matthew 8 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

@@ -1,4 +1,4 @@
-# Acts 6 -- Neutral Reading
+# Acts 6 -- First-Century Reading
 
 ## Context and Placement
 

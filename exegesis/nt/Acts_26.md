@@ -1,4 +1,4 @@
-# Acts 26 -- Neutral Reading
+# Acts 26 -- First-Century Reading
 
 ## Context and Placement
 

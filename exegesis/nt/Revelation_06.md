@@ -1,4 +1,4 @@
-# Revelation 6 -- Neutral Reading
+# Revelation 6 -- First-Century Reading
 
 ## Context and Placement
 

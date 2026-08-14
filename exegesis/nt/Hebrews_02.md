@@ -1,4 +1,4 @@
-# Hebrews 2 -- Neutral Reading
+# Hebrews 2 -- First-Century Reading
 
 ## Context and Placement
 

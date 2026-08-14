@@ -1,4 +1,4 @@
-# 1 Timothy 1 -- Neutral Reading
+# 1 Timothy 1 -- First-Century Reading
 
 ## Context and Placement
 

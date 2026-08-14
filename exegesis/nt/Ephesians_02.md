@@ -1,4 +1,4 @@
-# Ephesians 2 -- Neutral Reading
+# Ephesians 2 -- First-Century Reading
 
 ## Context and Placement
 

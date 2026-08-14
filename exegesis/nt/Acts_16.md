@@ -1,4 +1,4 @@
-# Acts 16 -- Neutral Reading
+# Acts 16 -- First-Century Reading
 
 ## Context and Placement
 

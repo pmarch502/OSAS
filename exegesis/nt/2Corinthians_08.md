@@ -1,4 +1,4 @@
-# 2 Corinthians 8 -- Neutral Reading
+# 2 Corinthians 8 -- First-Century Reading
 
 ## Context and Placement
 

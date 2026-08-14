@@ -1,4 +1,4 @@
-# Mark 15 -- Neutral Reading
+# Mark 15 -- First-Century Reading
 
 ## Context and Placement
 

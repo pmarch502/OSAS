@@ -1,4 +1,4 @@
-# Hebrews 11 -- Neutral Reading
+# Hebrews 11 -- First-Century Reading
 
 ## Context and Placement
 

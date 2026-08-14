@@ -1,4 +1,4 @@
-# Ephesians 3 -- Neutral Reading
+# Ephesians 3 -- First-Century Reading
 
 ## Context and Placement
 

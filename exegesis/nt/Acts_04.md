@@ -1,4 +1,4 @@
-# Acts 4 -- Neutral Reading
+# Acts 4 -- First-Century Reading
 
 ## Context and Placement
 

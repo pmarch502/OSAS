@@ -1,4 +1,4 @@
-# John 7 -- Neutral Reading
+# John 7 -- First-Century Reading
 
 ## Context and Placement
 

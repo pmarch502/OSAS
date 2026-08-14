@@ -1,4 +1,4 @@
-# Revelation 22 -- Neutral Reading
+# Revelation 22 -- First-Century Reading
 
 ## Context and Placement
 

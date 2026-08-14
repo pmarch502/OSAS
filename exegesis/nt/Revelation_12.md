@@ -1,4 +1,4 @@
-# Revelation 12 -- Neutral Reading
+# Revelation 12 -- First-Century Reading
 
 ## Context and Placement
 

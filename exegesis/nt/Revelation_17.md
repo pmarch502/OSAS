@@ -1,4 +1,4 @@
-# Revelation 17 -- Neutral Reading
+# Revelation 17 -- First-Century Reading
 
 ## Context and Placement
 

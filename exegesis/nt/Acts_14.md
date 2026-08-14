@@ -1,4 +1,4 @@
-# Acts 14 -- Neutral Reading
+# Acts 14 -- First-Century Reading
 
 ## Context and Placement
 

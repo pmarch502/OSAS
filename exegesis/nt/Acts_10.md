@@ -1,4 +1,4 @@
-# Acts 10 -- Neutral Reading
+# Acts 10 -- First-Century Reading
 
 ## Context and Placement
 

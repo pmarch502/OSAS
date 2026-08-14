@@ -1,4 +1,4 @@
-# Acts 17 -- Neutral Reading
+# Acts 17 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Acts 15 -- Neutral Reading
+# Acts 15 -- First-Century Reading
 
 ## Context and Placement
 

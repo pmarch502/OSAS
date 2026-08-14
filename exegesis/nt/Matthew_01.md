@@ -1,4 +1,4 @@
-# Matthew 1 -- Neutral Reading
+# Matthew 1 -- First-Century Reading
 
 ## Context and Placement
 

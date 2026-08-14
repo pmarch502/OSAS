@@ -1,4 +1,4 @@
-# 1 Timothy 6 -- Neutral Reading
+# 1 Timothy 6 -- First-Century Reading
 
 ## Context and Placement
 

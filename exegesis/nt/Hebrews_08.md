@@ -1,4 +1,4 @@
-# Hebrews 8 -- Neutral Reading
+# Hebrews 8 -- First-Century Reading
 
 ## Context and Placement
 

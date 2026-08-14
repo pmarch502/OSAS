@@ -1,4 +1,4 @@
-# Luke 1 -- Neutral Reading
+# Luke 1 -- First-Century Reading
 
 ## Context and Placement
 

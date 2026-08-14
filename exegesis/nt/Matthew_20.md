@@ -1,4 +1,4 @@
-# Matthew 20
+# Matthew 20 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

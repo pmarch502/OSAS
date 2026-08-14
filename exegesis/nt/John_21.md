@@ -1,4 +1,4 @@
-# John 21 -- Neutral Reading
+# John 21 -- First-Century Reading
 
 ## Context and Placement
 

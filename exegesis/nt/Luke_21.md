@@ -1,4 +1,4 @@
-# Luke 21 -- Neutral Reading
+# Luke 21 -- First-Century Reading
 
 ## Context and Placement
 

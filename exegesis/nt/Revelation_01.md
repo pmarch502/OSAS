@@ -1,4 +1,4 @@
-# Revelation 1 -- Neutral Reading
+# Revelation 1 -- First-Century Reading
 
 ## Preliminary Note on the Document's Genre and Structure
 

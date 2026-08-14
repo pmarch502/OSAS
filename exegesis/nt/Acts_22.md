@@ -1,4 +1,4 @@
-# Acts 22 -- Neutral Reading
+# Acts 22 -- First-Century Reading
 
 ## Context and Placement
 

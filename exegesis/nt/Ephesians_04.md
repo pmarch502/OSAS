@@ -1,4 +1,4 @@
-# Ephesians 4 -- Neutral Reading
+# Ephesians 4 -- First-Century Reading
 
 ## Context and Placement
 

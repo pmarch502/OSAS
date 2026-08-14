@@ -1,4 +1,4 @@
-# Matthew 2 -- Neutral Reading
+# Matthew 2 -- First-Century Reading
 
 ## Contextual Framing: The Author's Argument Before and After
 

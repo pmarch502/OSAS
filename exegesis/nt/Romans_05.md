@@ -1,4 +1,4 @@
-# Romans 5 -- Neutral Reading
+# Romans 5 -- First-Century Reading
 
 ## Context and Placement
 

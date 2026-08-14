@@ -1,4 +1,4 @@
-# Revelation 8 -- Neutral Reading
+# Revelation 8 -- First-Century Reading
 
 ## Context and Placement
 

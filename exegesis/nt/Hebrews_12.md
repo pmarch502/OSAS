@@ -1,4 +1,4 @@
-# Hebrews 12 -- Neutral Reading
+# Hebrews 12 -- First-Century Reading
 
 ## Context and Placement
 

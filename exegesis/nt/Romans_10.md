@@ -1,4 +1,4 @@
-# Romans 10 -- Neutral Reading
+# Romans 10 -- First-Century Reading
 
 ## Context and Placement
 

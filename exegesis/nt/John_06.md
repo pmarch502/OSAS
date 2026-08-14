@@ -1,4 +1,4 @@
-# John 6 -- Neutral Reading
+# John 6 -- First-Century Reading
 
 ## Context and Placement
 

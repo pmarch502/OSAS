@@ -1,4 +1,4 @@
-# John 18 -- Neutral Reading
+# John 18 -- First-Century Reading
 
 ## Context and Placement
 

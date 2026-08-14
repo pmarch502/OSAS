@@ -1,4 +1,4 @@
-# Revelation 19 -- Neutral Reading
+# Revelation 19 -- First-Century Reading
 
 ## Context and Placement
 

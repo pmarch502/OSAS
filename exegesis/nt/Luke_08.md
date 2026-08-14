@@ -1,4 +1,4 @@
-# Luke 8 -- Neutral Reading
+# Luke 8 -- First-Century Reading
 
 ## Context and Placement
 

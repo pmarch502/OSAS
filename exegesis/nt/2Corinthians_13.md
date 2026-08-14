@@ -1,4 +1,4 @@
-# 2 Corinthians 13 -- Neutral Reading
+# 2 Corinthians 13 -- First-Century Reading
 
 ## Context and Placement
 

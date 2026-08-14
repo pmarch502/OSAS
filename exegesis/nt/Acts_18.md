@@ -1,4 +1,4 @@
-# Acts 18 -- Neutral Reading
+# Acts 18 -- First-Century Reading
 
 ## Context and Placement
 

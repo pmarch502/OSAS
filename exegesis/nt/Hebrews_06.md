@@ -1,4 +1,4 @@
-# Hebrews 6 -- Neutral Reading
+# Hebrews 6 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Acts 24 -- Neutral Reading
+# Acts 24 -- First-Century Reading
 
 ## Context and Placement
 

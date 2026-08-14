@@ -1,4 +1,4 @@
-# Romans 1 -- Neutral Reading
+# Romans 1 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# James 3 -- Neutral Reading
+# James 3 -- First-Century Reading
 
 ## Context and Placement
 

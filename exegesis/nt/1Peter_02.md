@@ -1,4 +1,4 @@
-# 1 Peter 2 -- Neutral Reading
+# 1 Peter 2 -- First-Century Reading
 
 ## Context and Placement
 

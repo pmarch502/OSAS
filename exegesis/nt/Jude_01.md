@@ -1,4 +1,4 @@
-# Jude
+# Jude 1 -- First-Century Reading
 
 ## Preliminary Note on the Letter's Structure
 

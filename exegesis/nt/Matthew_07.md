@@ -1,4 +1,4 @@
-# Matthew 7
+# Matthew 7 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

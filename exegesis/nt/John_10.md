@@ -1,4 +1,4 @@
-# John 10 -- Neutral Reading
+# John 10 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Matthew 19
+# Matthew 19 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

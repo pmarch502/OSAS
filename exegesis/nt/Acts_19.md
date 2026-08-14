@@ -1,4 +1,4 @@
-# Acts 19 -- Neutral Reading
+# Acts 19 -- First-Century Reading
 
 ## Context and Placement
 

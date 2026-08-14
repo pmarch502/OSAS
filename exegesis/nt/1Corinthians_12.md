@@ -1,4 +1,4 @@
-# 1 Corinthians 12 -- Neutral Reading
+# 1 Corinthians 12 -- First-Century Reading
 
 ## Context and Placement
 

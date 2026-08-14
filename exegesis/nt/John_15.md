@@ -1,4 +1,4 @@
-# John 15 -- Neutral Reading
+# John 15 -- First-Century Reading
 
 ## Context and Placement
 

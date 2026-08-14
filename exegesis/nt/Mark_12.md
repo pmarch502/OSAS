@@ -1,4 +1,4 @@
-# Mark 12 -- Neutral Reading
+# Mark 12 -- First-Century Reading
 
 ## Context and Placement
 

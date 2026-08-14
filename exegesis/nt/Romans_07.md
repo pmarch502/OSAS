@@ -1,4 +1,4 @@
-# Romans 7 -- Neutral Reading
+# Romans 7 -- First-Century Reading
 
 ## Context and Placement
 

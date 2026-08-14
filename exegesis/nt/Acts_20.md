@@ -1,4 +1,4 @@
-# Acts 20 -- Neutral Reading
+# Acts 20 -- First-Century Reading
 
 ## Context and Placement
 

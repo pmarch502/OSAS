@@ -1,4 +1,4 @@
-# Matthew 25
+# Matthew 25 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

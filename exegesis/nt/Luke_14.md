@@ -1,4 +1,4 @@
-# Luke 14 -- Neutral Reading
+# Luke 14 -- First-Century Reading
 
 ## Context and Placement
 

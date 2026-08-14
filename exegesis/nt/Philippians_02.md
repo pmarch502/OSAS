@@ -1,4 +1,4 @@
-# Philippians 2 -- Neutral Reading
+# Philippians 2 -- First-Century Reading
 
 ## Context and Placement
 

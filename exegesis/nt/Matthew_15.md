@@ -1,4 +1,4 @@
-# Matthew 15
+# Matthew 15 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

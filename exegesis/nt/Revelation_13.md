@@ -1,4 +1,4 @@
-# Revelation 13 -- Neutral Reading
+# Revelation 13 -- First-Century Reading
 
 ## Context and Placement
 

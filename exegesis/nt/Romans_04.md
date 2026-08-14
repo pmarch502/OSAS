@@ -1,4 +1,4 @@
-# Romans 4 -- Neutral Reading
+# Romans 4 -- First-Century Reading
 
 ## Context and Placement
 

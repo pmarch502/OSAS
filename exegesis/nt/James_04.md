@@ -1,4 +1,4 @@
-# James 4 -- Neutral Reading
+# James 4 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Revelation 7 -- Neutral Reading
+# Revelation 7 -- First-Century Reading
 
 ## Context and Placement
 

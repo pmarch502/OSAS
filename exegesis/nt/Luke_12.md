@@ -1,4 +1,4 @@
-# Luke 12 -- Neutral Reading
+# Luke 12 -- First-Century Reading
 
 ## Context and Placement
 

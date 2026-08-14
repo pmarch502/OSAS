@@ -1,4 +1,4 @@
-# John 3 -- Neutral Reading
+# John 3 -- First-Century Reading
 
 ## Context and Placement
 

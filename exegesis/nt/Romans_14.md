@@ -1,4 +1,4 @@
-# Romans 14 -- Neutral Reading
+# Romans 14 -- First-Century Reading
 
 ## Context and Placement
 

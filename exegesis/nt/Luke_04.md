@@ -1,4 +1,4 @@
-# Luke 4 -- Neutral Reading
+# Luke 4 -- First-Century Reading
 
 ## Context and Placement
 

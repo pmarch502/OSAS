@@ -1,4 +1,4 @@
-# Colossians 1 -- Neutral Reading
+# Colossians 1 -- First-Century Reading
 
 ## Context and Placement
 

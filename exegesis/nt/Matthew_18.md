@@ -1,4 +1,4 @@
-# Matthew 18
+# Matthew 18 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

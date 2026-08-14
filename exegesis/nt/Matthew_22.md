@@ -1,4 +1,4 @@
-# Matthew 22
+# Matthew 22 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

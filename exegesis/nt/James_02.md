@@ -1,4 +1,4 @@
-# James 2 -- Neutral Reading
+# James 2 -- First-Century Reading
 
 ## Context and Placement
 

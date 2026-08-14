@@ -1,4 +1,4 @@
-# Matthew 27
+# Matthew 27 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

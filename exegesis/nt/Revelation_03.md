@@ -1,4 +1,4 @@
-# Revelation 3 -- Neutral Reading
+# Revelation 3 -- First-Century Reading
 
 ## Context and Placement
 

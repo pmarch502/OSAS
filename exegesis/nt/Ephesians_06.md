@@ -1,4 +1,4 @@
-# Ephesians 6 -- Neutral Reading
+# Ephesians 6 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# John 17 -- Neutral Reading
+# John 17 -- First-Century Reading
 
 ## Context and Placement
 

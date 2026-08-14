@@ -1,4 +1,4 @@
-# 1 Corinthians 16 -- Neutral Reading
+# 1 Corinthians 16 -- First-Century Reading
 
 ## Context and Placement
 

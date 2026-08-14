@@ -1,4 +1,4 @@
-# Hebrews 13 -- Neutral Reading
+# Hebrews 13 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# 1 Timothy 5 -- Neutral Reading
+# 1 Timothy 5 -- First-Century Reading
 
 ## Context and Placement
 

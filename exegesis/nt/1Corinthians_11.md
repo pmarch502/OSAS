@@ -1,4 +1,4 @@
-# 1 Corinthians 11 -- Neutral Reading
+# 1 Corinthians 11 -- First-Century Reading
 
 ## Context and Placement
 

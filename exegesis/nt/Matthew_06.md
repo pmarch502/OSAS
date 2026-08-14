@@ -1,4 +1,4 @@
-# Matthew 6
+# Matthew 6 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

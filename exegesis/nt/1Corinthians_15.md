@@ -1,4 +1,4 @@
-# 1 Corinthians 15 -- Neutral Reading
+# 1 Corinthians 15 -- First-Century Reading
 
 ## Context and Placement
 

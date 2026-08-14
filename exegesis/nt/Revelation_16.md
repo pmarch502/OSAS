@@ -1,4 +1,4 @@
-# Revelation 16 -- Neutral Reading
+# Revelation 16 -- First-Century Reading
 
 ## Context and Placement
 

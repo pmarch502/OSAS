@@ -1,4 +1,4 @@
-# John 20 -- Neutral Reading
+# John 20 -- First-Century Reading
 
 ## Context and Placement
 

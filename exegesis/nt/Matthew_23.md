@@ -1,4 +1,4 @@
-# Matthew 23
+# Matthew 23 -- First-Century Reading
 
 ## Context Within the Author's Argument
 

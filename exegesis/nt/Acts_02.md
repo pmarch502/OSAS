@@ -1,4 +1,4 @@
-# Acts 2 -- Neutral Reading
+# Acts 2 -- First-Century Reading
 
 ## Context and Placement
 

@@ -1,4 +1,4 @@
-# Matthew 10
+# Matthew 10 -- First-Century Reading
 
 ## Context Within the Author's Argument
 
