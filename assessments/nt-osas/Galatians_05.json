@@ -3,45 +3,43 @@
     "chapter": 5,
     "sections": [
         {
-            "reference": "5:1",
-            "section_title": "The Transitional Declaration -- Freedom as Christ's Purpose",
-            "category": "LEANS_CONDITIONAL",
-            "conventional_use": "not_in_debate",
-            "summary": "Paul declares that Christ set believers free for the purpose of freedom and commands them to stand firm and not submit again to a yoke of slavery.",
-            "relevance": "The imperative 'stand firm' and the warning 'do not submit again to a yoke of slavery' imply that the freedom Christ accomplished can be surrendered by the believer's own choice. The believer's position requires active maintenance -- standing firm against pressure -- which presupposes the real possibility of failing to stand and thereby losing the freedom that constitutes their standing before God.",
-            "key_phrases": ["for freedom Christ has set us free", "stand firm therefore", "do not submit again to a yoke of slavery"],
-            "confidence": "medium"
-        },
-        {
-            "reference": "5:2-6",
-            "section_title": "The Consequences of Circumcision Stated Without Qualification",
+            "reference": "5:1-6",
+            "section_title": "Freedom, and What Circumcision Would Cost",
             "category": "STRONG_CONDITIONAL",
             "conventional_use": "cited_for_conditionality",
-            "summary": "Paul states without qualification that accepting circumcision as the basis of justification severs the believer from Christ, renders Christ of no advantage, obligates the person to keep the whole law, and constitutes falling from grace.",
-            "relevance": "This is one of the most direct statements in the New Testament about the believer's standing being conditional. The neutral reading establishes that these warnings are addressed to believers who have the Spirit (3:2), are sons of God (3:26), and are Abraham's seed (3:29). Paul describes severance from Christ and falling from grace not as threats of future punishment but as the inherent consequence of relocating to the law-track. The reading explicitly states: 'The inheritance is real -- and it is forfeit-able.' The mutual exclusivity of grace and law as bases of justification means that choosing one forfeits the other, and this applies to people who already possess standing before God through faith.",
-            "key_phrases": ["Christ will be of no advantage to you", "obligated to keep the whole law", "you are severed from Christ", "you have fallen from grace", "faith working through love"],
+            "summary": "Paul commands the Galatians to hold the position Christ won for them and states in the letter's most emphatic language that accepting circumcision would enroll them as debtors to the whole law, sever them from Christ, and drop them out of grace.",
+            "relevance": "The neutral reading takes 5:4 as the plainest statement in the letter of what the conversion programme would cost, and it is Paul's own argument rather than an illustration: katergeo (aorist passive) breaks a connection to a person, not a benefit, and ekpipto describes falling out of the sphere of grace where the Galatians were standing. The reading is careful about the grammar: neither verb describes a possession confiscated or a credit reversed, which is a different shape from what a reader's prior theology tends to supply in either direction. It also notes two counterweights within the same section -- the present tense of 'you who would be justified by law' describes people in the act rather than people who have arrived, and 5:5 places righteousness among things eagerly awaited rather than only already held, a tension the reading declines to resolve. 5:6's 'faith working through love' further rules out treating standing as an inert state.",
+            "key_phrases": ["stand firm therefore", "do not submit again to a yoke of slavery", "Christ will be of no benefit to you", "he is a debtor to do the whole law", "you are severed from Christ", "you have fallen from grace", "we eagerly await the hope of righteousness", "faith working through love"],
             "confidence": "high"
         },
         {
             "reference": "5:7-12",
-            "section_title": "The Agitators Denounced -- The Scandal of the Cross",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul denounces the rival teachers as intruders who cut into the Galatians' path, denies divine origin of their persuasion, warns about leaven contaminating the whole lump, expresses confidence the Galatians will ultimately think rightly, and wishes the agitators would castrate themselves."
+            "section_title": "The Ones Who Cut In",
+            "category": "LEANS_CONDITIONAL",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul asks who cut across the Galatians' course, denies that the campaign of persuasion comes from the God who calls them, cites the leaven proverb, states his confidence that they will take no other view, and ends with a bitter wish about the other teachers.",
+            "relevance": "The section is chiefly an attack on the other teachers, but its images bear on the question sideways. The imperfect 'you were running well' describes a course that was going well and was then obstructed, and the leaven proverb denies that a single accepted requirement can be contained -- both presuppose that a believing community's position can be spoiled from where it stood. Against that, 5:10 is what the neutral reading calls the most hopeful sentence in the letter, and it locates the ground of Paul's confidence outside the congregations ('in the Lord') while the present participle 'him who calls you' has God still calling. The reading insists both registers belong to the same paragraph, so the section does not settle the question on its own.",
+            "key_phrases": ["you were running well", "who cut in on you", "a little leaven leavens the whole lump", "I have confidence in the Lord that you will take no other view", "him who calls you"],
+            "confidence": "medium"
         },
         {
             "reference": "5:13-15",
-            "section_title": "Freedom Expressed as Torah-Fulfilling Love",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul defines freedom not as license but as the arena for voluntary love-service, citing Leviticus 19:18 as the fulfillment of the whole law, and warns against communal self-destruction through mutual hostility."
+            "section_title": "Freedom for Service",
+            "category": "LEANS_CONDITIONAL",
+            "conventional_use": "not_in_debate",
+            "summary": "The letter turns at 5:13 from what the Galatians must not do to what they should: freedom is what they were called into, and it is not to become a base of operations for the flesh but is discharged as mutual slavery in love, the whole law standing fulfilled in Leviticus 19:18.",
+            "relevance": "The reading treats 5:13 as the hinge of the letter and states its logic directly: freedom here is not the absence of obligation but the transfer of it -- a servitude freely given replacing one exacted as the price of standing. That bears on the question because it forecloses reading the letter's freedom as release from accountability, and because aphorme (a fortified base from which a campaign is launched) warns that freedom can be actively used for the flesh rather than merely misunderstood. The closing warning that they may be consumed by one another is a consequence-warning within the believing community, though the consumption in view is communal destruction rather than a stated loss of standing.",
+            "key_phrases": ["you were called to freedom", "do not use your freedom as an opportunity for the flesh", "through love serve one another", "the whole law is fulfilled in one word", "watch out that you are not consumed by one another"],
+            "confidence": "medium"
         },
         {
             "reference": "5:16-18",
-            "section_title": "The Spirit-Flesh Opposition Introduced",
+            "section_title": "Spirit and Flesh",
             "category": "LEANS_CONDITIONAL",
             "conventional_use": "not_in_debate",
-            "summary": "Paul introduces the Spirit-flesh opposition as two incompatible powers, commands believers to walk by the Spirit to avoid gratifying the flesh, and states that those led by the Spirit are not under the law.",
-            "relevance": "The passage structures the believer's ethical life as requiring ongoing Spirit-walking, with Spirit and flesh as mutually exclusive governing powers. The believer is 'not autonomous but governed -- either by the Spirit or by the flesh,' and the neutral reading identifies no neutral ground. This framework implies that the believer's trajectory depends on which power governs their conduct. Combined with the consequences stated in 5:4 (law-path) and 5:21 (flesh-path), the Spirit-flesh opposition means the believer's ongoing alignment with the Spirit is not optional but essential to remaining on the path that leads to the inheritance.",
-            "key_phrases": ["walk by the Spirit, and you will not gratify the desires of the flesh", "the desires of the flesh are against the Spirit", "these are opposed to each other", "if you are led by the Spirit, you are not under the law"],
+            "summary": "Paul commands walking by the Spirit with a categorical promise attached, describes flesh and Spirit as standing opposed like armies drawn up against each other, and says that those led by the Spirit are not under law.",
+            "relevance": "Everything favourable here is stated conditionally: the ou me promise ('you will certainly not carry out the desire of the flesh') is attached to a command, and 'you are not under law' hangs on the present passive 'if you are being led by the Spirit,' an ongoing condition rather than a settled acquisition. The reading stresses that peripateo is the Jewish idiom for daily conduct step by step, 'not of a stance or a state,' and that the verse's placement immediately before a list of behaviours that forfeit the kingdom is what keeps it from being read as release from obligation. The section itself does not say standing can be lost; its conditional grammar is what leans.",
+            "key_phrases": ["walk by the Spirit, and you will not carry out the desire of the flesh", "these are opposed to each other", "if you are led by the Spirit, you are not under law"],
             "confidence": "medium"
         },
         {
@@ -49,25 +47,19 @@
             "section_title": "The Works of the Flesh",
             "category": "STRONG_CONDITIONAL",
             "conventional_use": "cited_for_conditionality",
-            "summary": "Paul lists the works of the flesh -- prominently including social-relational sins that destroy community -- and warns that those who practice such things will not inherit the kingdom of God.",
-            "relevance": "The warning 'those who do such things will not inherit the kingdom of God' is addressed directly to believers who have the Spirit, are sons and heirs, and are children of the free woman. The neutral reading states that Paul 'gives the warning precisely because they are believers who might nonetheless forfeit their inheritance by practicing the works of the flesh.' The inheritance language (kleronomeo) connects to the heir-status established throughout the letter (3:29; 4:7), and the reading identifies this as one of two ways believers can forfeit the inheritance -- alongside severance from Christ through the law-path (5:4). The present participle prassontes ('those who practice') describes habitual conduct as the condition for exclusion.",
-            "key_phrases": ["the works of the flesh are evident", "those who do such things will not inherit the kingdom of God", "I warn you, as I warned you before"],
+            "summary": "Paul names fifteen works of the flesh -- eight of them concerning the breakdown of relations within a group -- and repeats a warning he had already given them, that those who practise such things will not inherit the kingdom of God.",
+            "relevance": "This is Paul's own argument, not an aside, and the neutral reading is explicit that the addressees are the same people addressed throughout the letter: those who received the Spirit (3:2), who are sons of God (3:26), who are Abraham's offspring and heirs according to promise (3:29), in whose hearts the Spirit cries Abba. The warning is therefore about believers and about the inheritance they were said to hold. Two details shape it rather than soften it: the present participle 'those who practise' denotes a settled way of going on rather than a single act, and the warning is expressed as an inheritance not entered -- the same grammar the reading traces through 5:4 and 6:8-9, in which nothing is confiscated but a relation is departed from or a destination not reached. The list is aimed at a congregation already biting and devouring one another (5:15), so the warning is live rather than hypothetical.",
+            "key_phrases": ["the works of the flesh are evident", "I warn you, as I warned you before", "those who practise such things", "will not inherit the kingdom of God"],
             "confidence": "high"
         },
         {
-            "reference": "5:22-23",
+            "reference": "5:22-26",
             "section_title": "The Fruit of the Spirit",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul lists the nine-fold fruit of the Spirit as a unified organic harvest -- love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control -- and states that against such things there is no law."
-        },
-        {
-            "reference": "5:24-26",
-            "section_title": "The Crucifixion of the Flesh and Life by the Spirit",
-            "category": "LEANS_CONDITIONAL",
+            "category": "LEANS_PERMANENT",
             "conventional_use": "not_in_debate",
-            "summary": "Paul declares that those who belong to Christ have crucified the flesh with its passions and desires, then exhorts believers to keep in step with the Spirit and avoid conceit, provocation, and envy.",
-            "relevance": "The section contains a tension between the completed act of crucifying the flesh (aorist tense, past event) and the imperatives that follow: 'let us keep in step with the Spirit,' 'let us not become conceited.' The neutral reading states that 'status and conduct must align: if the Spirit is the source of life, the Spirit must also be the director of conduct.' This alignment is not automatic -- the imperatives presuppose that believers who have crucified the flesh can still fail to keep in step with the Spirit, producing the conceit, provocation, and envy that belong to the flesh-works. The ongoing requirement to walk in step with the Spirit implies that the benefits of belonging to Christ are connected to continued faithfulness, not merely to a past decisive act.",
-            "key_phrases": ["those who belong to Christ Jesus have crucified the flesh", "if we live by the Spirit, let us also keep in step with the Spirit", "let us not become conceited, provoking one another, envying one another"],
+            "summary": "Paul sets the singular fruit of the Spirit against the plural works of the flesh, says there is no law against such things, states that those who belong to Christ crucified the flesh with its passions and desires, and calls the community to keep in step with the Spirit rather than provoke and envy one another.",
+            "relevance": "This section supplies the chapter's main counterweight to its warnings. 5:24 is an aorist describing a completed act, and the reading notes that crucifixion is the letter's recurring image for a decisive and irreversible severance, involving participation in Christ's death rather than a separate act alongside it. 5:25's structure is the section's whole logic on the reading's account -- the indicative comes first and the imperative follows from it, so they are told to become what they already are, which is a standing presupposed rather than earned by the conduct enjoined. What keeps this from being stronger is that the section is cast almost entirely as exhortation, that the believers themselves are the subject of the crucifying, and that the imperatives assume keeping in step is not automatic. Categorized as leaning permanent on the priority of the indicative, with the ambiguity real.",
+            "key_phrases": ["the fruit of the Spirit", "against such things there is no law", "those who belong to Christ Jesus have crucified the flesh", "if we live by the Spirit, let us also walk in line by the Spirit", "provoking one another, envying one another"],
             "confidence": "medium"
         }
     ]

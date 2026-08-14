@@ -4,53 +4,45 @@
     "sections": [
         {
             "reference": "1:1-5",
-            "section_title": "The Greeting as Argument",
+            "section_title": "The Greeting",
             "category": "LEANS_PERMANENT",
             "conventional_use": "not_in_debate",
-            "summary": "Paul embeds two foundational claims in the salutation: his apostleship originates from God through the risen Christ, and Christ's self-giving has already accomplished deliverance from the present evil age as a completed, one-time act according to God's predetermined will.",
-            "relevance": "The neutral reading emphasizes that Christ's deliverance is 'accomplished, completed, done' and that 'any message that implies God's will requires additional human performance for standing before God is already implicitly rejected.' This completed-deliverance language has permanence implications -- if the rescue is finished, standing before God rests on what Christ has already accomplished rather than on ongoing human performance. However, the passage's argument is directed against supplementation by proselyte conversion, not against the possibility that a believer might abandon the deliverance voluntarily.",
-            "key_phrases": ["who gave himself for our sins", "so that he might deliver us from the present evil age", "according to the will of our God and Father"],
-            "confidence": "medium"
+            "summary": "An unusually weighted salutation in which Paul denies any human source for his commission and attaches to the greeting a clause defining Christ's work as a voluntary self-giving that rescues the hearers out of the present evil age according to God's will.",
+            "relevance": "The neutral reading identifies exaireo as the exodus verb of the Greek scriptures and reads the clause as announcing a rescue enacted by God's own initiative and located in his purpose rather than in an emergency measure, which is language of divine action on the hearers' behalf rather than of their performance. But the reading also stresses that the rescue is out of an age the recipients are still standing in -- something has happened to them that has not yet happened to the world around them -- so the clause states the ground of their deliverance without saying anything about whether it can be forfeited.",
+            "key_phrases": ["who gave himself for our sins", "so that he might deliver us out of the present evil age", "according to the will of our God and Father"],
+            "confidence": "low"
         },
         {
             "reference": "1:6-10",
-            "section_title": "The Rebuke and Anathema",
+            "section_title": "A Different Gospel",
             "category": "LEANS_CONDITIONAL",
-            "conventional_use": "not_in_debate",
-            "summary": "Paul expresses shocked disbelief that the Galatians are in the process of deserting the God who called them in the sphere of grace, turning to a qualitatively different message, and he pronounces the cherem twice on anyone who preaches a gospel at variance with what was originally delivered.",
-            "relevance": "The neutral reading states that the Galatians are 'abandoning the God who summoned them' and that 'to desert the one who called them in grace is to exit that sphere,' explicitly connecting this to 5:4 ('you have fallen from grace') and identifying grace and law-based justification as 'mutually exclusive operating systems -- to enter one is to depart from the other.' The passage describes real believers, called by God in grace, who are in the process of removing themselves from that sphere. The present tense (metatithesthe) indicates the action is underway but not complete, implying their standing is not irrevocably fixed. However, the section's direct argument concerns the gospel's integrity and the anathema on false teachers, not a systematic treatment of whether standing is permanent or conditional.",
-            "key_phrases": ["you are so quickly deserting him who called you in the grace of Christ", "turning to a different gospel", "let him be accursed"],
+            "conventional_use": "cited_for_conditionality",
+            "summary": "Paul replaces the customary thanksgiving with a formula of rebuke, states that the Galatians are in the act of transferring away from the God who called them in grace toward something that is not a second gospel at all, and twice pronounces anathema on anyone preaching a message contrary to what they received.",
+            "relevance": "The neutral reading makes two points that bear directly on the question. First, what they are leaving is described as a person, not a doctrine -- apo tou kalesantos hymas, 'from the one who called you,' a participle that refers to God throughout Paul's usage -- so people who were called in grace are described as walking away from the caller. Second, metatithesthe is present tense and means changing sides, so the movement is under way and not complete: the letter is written to people the writer believes can still turn back, which presupposes both that the departure is real and that its outcome is not yet settled. The section is nonetheless arguing about the gospel's integrity and the standing of those who preach it, not systematically about whether a believer's standing can be lost, so the conditionality is carried in the premise rather than asserted as the point.",
+            "key_phrases": ["you are so quickly deserting him who called you in the grace of Christ", "turning to a different gospel", "not that there is another one", "let him be accursed"],
             "confidence": "medium"
         },
         {
             "reference": "1:11-12",
-            "section_title": "The Thesis of the Autobiographical Defense",
+            "section_title": "Not Received, Not Taught",
             "category": "NOT_APPLICABLE",
-            "summary": "Paul states the thesis that his gospel is not of human origin -- he did not receive it from any human being nor was he taught it, but received it through a revelation of Jesus Christ."
+            "summary": "Paul states the thesis of the autobiography -- that his gospel is not patterned on human thinking, was not received by transmitted tradition and was not taught to him, but came through a revelation of Jesus Christ."
         },
         {
-            "reference": "1:13-14",
-            "section_title": "Paul's Former Life -- Evidence of Discontinuity",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul cites his former life in Judaism -- violent persecution of God's assembly and extreme zeal for ancestral traditions -- as evidence that his gospel could not have developed from his previous commitments and must have required divine intervention."
+            "reference": "1:13-17",
+            "section_title": "The Former Life, and the Call",
+            "category": "MISAPPLIED",
+            "conventional_use": "cited_for_permanence",
+            "summary": "Paul describes his former life of zealous violence against the assembly in the vocabulary of Ioudaismos, ancestral tradition and zeal, and then describes God setting him apart from the womb, calling him by grace and revealing his Son in him so that he might announce him among the nations, after which he consulted no one and did not go to Jerusalem.",
+            "relevance": "The womb-language of 1:15-16 is conventionally enlisted, alongside Romans 8:29-30 and Jeremiah 1:5, to argue for an unconditional individual election to salvation fixed before birth and therefore unlosable. The neutral reading shows the sentence is built from Jeremiah 1:5 and Isaiah 49:1, 6 and has the form of a prophetic commissioning rather than a conversion: nothing here describes guilt relieved, beliefs exchanged or a religion left, and the purpose clause states what the setting-apart was for -- preaching among the nations. This is election to an assignment, and the neutral reading's own conclusion is that the Gentile mission is the content of the call rather than a later development. Nothing in the passage addresses whether the standing of a believer before God is secure; the section is functioning as evidence that Paul's message did not come from Jerusalem.",
+            "key_phrases": ["set me apart from my mother's womb", "called me through his grace", "to reveal his Son in me", "so that I might preach him among the Gentiles"],
+            "confidence": "high"
         },
         {
-            "reference": "1:15-17",
-            "section_title": "The Call -- Prophetic Commissioning and Deliberate Independence",
+            "reference": "1:18-24",
+            "section_title": "Jerusalem at Last, and Then Away Again",
             "category": "NOT_APPLICABLE",
-            "summary": "Paul describes his commission using the language of Jeremiah 1:5 and Isaiah 49:1,6 -- set apart before birth and called by grace to preach God's Son among the Gentiles -- and documents his deliberate avoidance of Jerusalem, going instead to Arabia and then Damascus."
-        },
-        {
-            "reference": "1:18-20",
-            "section_title": "The Brief Visit to Jerusalem -- Controlled and Limited",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul testifies under oath that three years after his call he visited Cephas for only fifteen days and saw no other apostle except James the Lord's brother, establishing that his gospel was fully formed before any contact with the Jerusalem leadership."
-        },
-        {
-            "reference": "1:21-24",
-            "section_title": "The Judean Churches -- Unknown by Face, Confirmed by God's Glory",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul reports that after leaving Jerusalem he went to Syria and Cilicia, remained unknown by face to the Judean churches, and those churches glorified God when they heard the former persecutor was now preaching the faith he once tried to destroy."
+            "summary": "Paul establishes by chronology and by oath that his first Jerusalem visit came three years after his call, lasted fifteen days and involved two people, that he remained personally unknown to the Judean assemblies, and that those assemblies glorified God over the report that their former persecutor now preached the faith he once tried to destroy."
         }
     ]
 }

@@ -157,3 +157,83 @@ count unchanged at 16 gaps. Regenerated both data files and confirmed the new
 note text renders in the viewer.
 
 **Assessment impact:** none — no base text changed.
+
+## Galatians rewritten, and everything downstream rebuilt (2026-08-14)
+
+**Problem:** not a passage correction. All six Galatians chapters were replaced
+with new exegesis produced in a prior session. The author accepted them as
+better than what they replaced while stating they still do not reflect
+everything he argued, and directed that they be integrated as final for this
+pass rather than corrected further. Everything downstream of the exegesis was
+therefore stale: two sets of assessments, both reports, the commentary pane
+index, and the RCB's amplification layer.
+
+**Exegesis:** `docs/exegesis/nt/Galatians_0*.html` regenerated from the
+markdown with `scripts/md_to_html.py`; byte-identical to what was already in
+the working copy, so md and html agree. `check_pane_coverage.py` reports 0 new
+uncovered verses. `check_framing.py` for the whole NT drops from 25 hits in 14
+chapters to 18 in 11; Galatians goes from 7 to 2.
+
+**Assessments:** all twelve re-run from the new readings — six OSAS, six
+determinism. The section divisions themselves changed, not just the verdicts,
+so no verdict could have been carried over: OSAS goes 38 sections to 30,
+determinism 35 to 30. Chapter 6 went five sections to three in both. Verse
+coverage is contiguous 1:1-6:18 in both topics.
+
+Category changes that carry content, all traceable to the rewrite:
+
+- OSAS 3:10-14, LEANS_PERMANENT to MISAPPLIED. The curse is the covenant
+  sanction of Deuteronomy 27-30, and the rewrite judges the "nobody can keep
+  it" premise the weakest of three.
+- OSAS 4:21-31, LEANS_CONDITIONAL to MISAPPLIED — corporate covenant columns,
+  with Paul putting himself in the free one.
+- Determinism 3:19-22, LEANS_LIBERTARIAN to MISAPPLIED, on `ta panta` being
+  neuter: the confinement is comprehensive, not a claim about individual
+  capacity.
+- Determinism 4:21-31 likewise to MISAPPLIED.
+- OSAS 2:15-21 went LEANS_CONDITIONAL to LEANS_PERMANENT in both halves; the
+  old reading took v18's "transgressor" as post-justification conduct, where
+  the rewrite has the transgression being the reimposition of the Jew-Gentile
+  separation.
+
+Both `data.js` files regenerated (OSAS 1959 to 1951 rows, determinism 1975 to
+1970) and `gen_topics_index.py` re-run — 3925 entries, 27 books.
+
+**RCB impact:** the amplification was rebuilt from scratch rather than
+repaired, at the author's direction: the EAs and footnotes were written from
+the superseded exegesis and nothing in them was judged worth salvaging.
+
+The pass-1 intermediate had been deleted at publication, so it was
+reconstructed by stripping the five pass-2 markers out of the published book —
+`check_freeze.py GAL` reports 0 against the reconstruction, so it is an exact
+baseline and the freeze is verifiable again. One detail worth keeping: the
+strip must *not* close up the space before an em-dash, which is spaced in this
+text, or every `\add` that preceded one leaves the base text subtly wrong.
+`check_freeze.py` normalizes both sides and would not catch it.
+
+Galatians predates the pass-1 notes handoff, so there was no notes file. It
+was written to say exactly that, with no mandated items, rather than
+fabricating a list. Two facts make the loss small: no Galatians verse is
+absent from the critical text, and the superseded book contained no
+manuscript or variant footnotes at all.
+
+Pass 2 output: 32 `\s1` headings, 77 `\add`, 119 footnotes, a four-paragraph
+introduction. Verified independently of the agent's own report — markers
+balanced 77/77, 119/119, 32/32; no `\add` inside a footnote and no footnote
+inside an `\add`; every `\s1` followed by a `\p`; `\p` count 39 in both files;
+no markers outside the permitted set; all 119 `\fr` references in range; verse
+counts 24/21/29/31/26/18 with no numbering gaps. At 0.80 footnotes per verse
+Galatians sits fifth of 27 books, inside the band the other short letters
+already occupy (2 John 1.38, Jude 1.36, 2 Peter 0.89, Titus 0.76).
+Regenerated `docs/rcb/data/GAL.js`.
+
+**Ripple:** 147 references to Galatians across 83 other exegesis chapters. The
+ones touching passages whose reading changed were read. One is affected and
+was **left alone for the author to decide**: `exegesis/nt/Colossians_02.md`
+says the stoicheia in Galatians are "associated with both the pre-Christian
+Jewish observance of Torah (4:3-5)" and Gentile worship, and the rewritten
+Galatians 4 explicitly refuses the stoicheia/Torah equation. Colossians is now
+leaning on Galatians for a reading Galatians no longer holds. The rest are
+inert citations — Abba at Romans 8, "by nature not gods" at Ephesians 2,
+`kopiaō` at Colossians 1 and 1 Timothy 4, "fallen from grace" at 2 Peter 3 —
+and none asserts a reading the rewrite overturned.

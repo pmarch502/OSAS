@@ -4,53 +4,45 @@
     "sections": [
         {
             "reference": "1:1-5",
-            "section_title": "The Greeting as Argument",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul embeds his apostolic credentials and a creedal declaration about Christ's completed deliverance from the present evil age into the letter's salutation, establishing the divine origin of his authority and the sufficiency of Christ's accomplished work as the letter's two governing claims."
+            "section_title": "The Greeting",
+            "category": "LEANS_DETERMINISTIC",
+            "conventional_use": "not_in_debate",
+            "summary": "Paul's greeting withholds the usual commendation of the recipients, defends the non-human origin of his commission, and attaches to Christ an unusual relative clause describing his self-giving as a rescue out of the present evil age in accordance with God's will.",
+            "relevance": "The rescue is described entirely from the divine side: Christ gave himself voluntarily, using the exodus verb of the Greek scriptures for a people taken out from where they were held, and the whole of it is located 'according to the will of our God and Father' rather than in an emergency measure. Nothing is said about any human contribution to that rescue. But the clause is about the act of deliverance and its author, not about who is included in it or how, and the neutral reading treats it as the letter's apocalyptic two-age frame rather than a statement about individual outcomes -- so it bears on the question only indirectly.",
+            "key_phrases": ["who gave himself for our sins", "so that he might deliver us out of the present evil age", "according to the will of our God and Father"],
+            "confidence": "low"
         },
         {
             "reference": "1:6-10",
-            "section_title": "The Rebuke and Anathema",
+            "section_title": "A Different Gospel",
             "category": "LEANS_LIBERTARIAN",
-            "conventional_use": "not_in_debate",
-            "summary": "Paul expresses shocked disbelief that the Galatians are in the process of deserting the God who called them in the sphere of grace, turning to a qualitatively different message, and he pronounces the cherem twice on anyone who preaches a gospel at variance with the one originally delivered.",
-            "relevance": "God is identified as the one who called the Galatians into the sphere of grace (divine initiative), yet they are actively deserting him -- the middle voice of metatithesthe ('you are transferring yourselves') emphasizes self-removal, and the present tense indicates the process is underway but not complete, implying they can still reverse course. The combination of divine calling with genuine possibility of human desertion implies that God's call does not unilaterally determine the outcome: the Galatians' own choice to stay or leave the sphere of grace has real consequences for their standing before God.",
-            "key_phrases": ["deserting him who called you in the grace of Christ", "you are transferring yourselves", "turning to a different gospel"],
+            "conventional_use": "cited_for_agency",
+            "summary": "In place of the customary thanksgiving Paul writes that he is astonished the Galatians are so quickly changing sides from the God who called them, pronounces a double curse on anyone preaching a contrary gospel, and denies that he is courting human approval.",
+            "relevance": "God is named as the one who called them -- the participle 'the one who called' refers to God throughout Paul's usage -- and yet the people so called are described as moving away from him, in a verb of defection (metatithemi, changing over from one party or allegiance to another) that stands in the present tense. The neutral reading makes the tense governing for the whole letter: the transfer is under way and not complete, nobody has yet been circumcised, and everything harsh in the letter is written to people the writer believes can still turn around. A divine call that can be walked away from, addressed by argument and warning to people whose direction is not yet settled, is not a call that unilaterally fixes the outcome. The passage does not, however, state in so many words what the Galatians stand to lose; that comes later in the letter.",
+            "key_phrases": ["you are so quickly deserting him who called you", "metatithesthe", "turning to a different gospel", "let him be accursed"],
             "confidence": "medium"
         },
         {
             "reference": "1:11-12",
-            "section_title": "The Thesis of the Autobiographical Defense",
+            "section_title": "Not Received, Not Taught",
             "category": "NOT_APPLICABLE",
-            "summary": "Paul states the thesis that his gospel was not received from any human source or through human instruction but through a direct revelation of Jesus Christ, establishing the claim that the rest of the chapter will defend with biographical evidence."
+            "summary": "Paul states the thesis of the autobiography that follows: the gospel he preached is not patterned on human thinking, since he neither received it as transmitted tradition nor was taught it, but had it through a revelation of Jesus Christ."
         },
         {
-            "reference": "1:13-14",
-            "section_title": "Paul's Former Life -- Evidence of Discontinuity",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul cites his former life of violent persecution of God's assembly and extreme zeal for ancestral traditions as evidence that his gospel could not have developed naturally from his previous commitments, since his former trajectory was diametrically opposed to the message he now proclaims."
-        },
-        {
-            "reference": "1:15-17",
-            "section_title": "The Call -- Prophetic Commissioning and Deliberate Independence",
+            "reference": "1:13-17",
+            "section_title": "The Former Life, and the Call",
             "category": "MISAPPLIED",
             "conventional_use": "cited_for_determinism",
-            "summary": "Paul describes his call using the prophetic commissioning language of Jeremiah 1:5 and Isaiah 49:1,6, identifying himself as set apart before birth and called by grace to proclaim God's Son among the Gentiles, then documents his deliberate avoidance of Jerusalem and the senior apostles after his call.",
-            "relevance": "Galatians 1:15 ('set me apart before I was born') is conventionally cited as evidence that God unilaterally determines individual salvation outcomes through pre-birth election. However, the neutral reading shows that Paul is drawing directly from prophetic call narratives -- Jeremiah's appointment as 'a prophet to the nations' and the Servant's commission as 'a light for the nations' -- both of which are vocational commissions to specific missions, not determinations of individual soteriological destiny. The purpose clause makes this explicit: 'in order that I might preach him among the Gentiles.' God's pre-birth action here is setting Paul apart for apostolic ministry to the Gentiles, not predetermining his personal salvation. The passage is about prophetic commissioning to a vocation, not about divine selection of who will be saved.",
-            "key_phrases": ["set me apart before I was born", "called me by his grace", "was pleased to reveal his Son in me", "in order that I might preach him among the Gentiles"],
+            "summary": "Paul recalls his former life of violent zeal for ancestral tradition, describes the one who set him apart from his mother's womb and called him being pleased to reveal his Son in him so that he might preach among the Gentiles, and then lists the places he did not go afterward -- not to any human counsel and not to Jerusalem.",
+            "relevance": "Galatians 1:15 is conventionally cited for determinism, as evidence that God settles an individual's salvation before birth and independently of anything that individual does. The neutral reading shows the sentence is built out of two prophetic call texts -- Jeremiah 1:5, 'before I formed you in the womb I knew you... I appointed you a prophet to the nations,' and Isaiah 49:1, 'the LORD called me from my mother's womb' -- and that it carries their content: an appointment to a task, with the task stated in the purpose clause that follows. The reading is explicit that this is the form of a prophetic commissioning and not of a conversion: nothing here describes guilt relieved, beliefs exchanged, or a religion left, and the Gentile mission is the stated content of the call rather than a later development. What is determined before birth is therefore a vocation, not a soteriological destiny -- the distinction the assessment rules require to be kept. That said, the pre-natal setting apart, the calling 'through his grace,' and 'was pleased' (God's good pleasure, a determination made with satisfaction rather than reluctance) do place the initiative wholly with God in Paul's own case; what they do not do is address who is saved.",
+            "key_phrases": ["he who had set me apart from my mother's womb", "called me through his grace", "was pleased to reveal his Son in me", "so that I might preach him among the Gentiles"],
             "confidence": "high"
         },
         {
-            "reference": "1:18-20",
-            "section_title": "The Brief Visit to Jerusalem -- Controlled and Limited",
+            "reference": "1:18-24",
+            "section_title": "Jerusalem at Last, and Then Away Again",
             "category": "NOT_APPLICABLE",
-            "summary": "Paul documents his first visit to Jerusalem three years after his call -- a fifteen-day stay during which he met only Cephas and James -- and swears under oath that his account is true, establishing that the visit was too brief and limited to have been the source of his gospel."
-        },
-        {
-            "reference": "1:21-24",
-            "section_title": "The Judean Churches -- Unknown by Face, Confirmed by God's Glory",
-            "category": "NOT_APPLICABLE",
-            "summary": "Paul notes that after his Jerusalem visit he went to Syria and Cilicia, remaining unknown by face to the Judean churches, who heard reports of his transformation from persecutor to proclaimer and glorified God -- providing independent confirmation that his transformation was recognized as divine action rather than human training."
+            "summary": "Paul completes the chronology that establishes his independence from Jerusalem -- a first visit only after three years, fifteen days long, two men seen, an oath that he is not lying, then Syria and Cilicia, still unknown by face to the Judean assemblies, who only heard reports of him and glorified God."
         }
     ]
 }

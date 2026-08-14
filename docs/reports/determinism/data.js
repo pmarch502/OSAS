@@ -10320,27 +10320,32 @@ const DATA = [
     },
     {
         "reference": "1:1-5",
-        "section_title": "The Greeting as Argument",
-        "category": "NOT_APPLICABLE",
-        "summary": "Paul embeds his apostolic credentials and a creedal declaration about Christ's completed deliverance from the present evil age into the letter's salutation, establishing the divine origin of his authority and the sufficiency of Christ's accomplished work as the letter's two governing claims.",
+        "section_title": "The Greeting",
+        "category": "LEANS_DETERMINISTIC",
+        "conventional_use": "not_in_debate",
+        "summary": "Paul's greeting withholds the usual commendation of the recipients, defends the non-human origin of his commission, and attaches to Christ an unusual relative clause describing his self-giving as a rescue out of the present evil age in accordance with God's will.",
+        "relevance": "The rescue is described entirely from the divine side: Christ gave himself voluntarily, using the exodus verb of the Greek scriptures for a people taken out from where they were held, and the whole of it is located 'according to the will of our God and Father' rather than in an emergency measure. Nothing is said about any human contribution to that rescue. But the clause is about the act of deliverance and its author, not about who is included in it or how, and the neutral reading treats it as the letter's apocalyptic two-age frame rather than a statement about individual outcomes -- so it bears on the question only indirectly.",
+        "key_phrases": [
+            "who gave himself for our sins",
+            "so that he might deliver us out of the present evil age",
+            "according to the will of our God and Father"
+        ],
+        "confidence": "low",
         "book": "Galatians",
-        "chapter": 1,
-        "conventional_use": "",
-        "relevance": "",
-        "key_phrases": [],
-        "confidence": ""
+        "chapter": 1
     },
     {
         "reference": "1:6-10",
-        "section_title": "The Rebuke and Anathema",
+        "section_title": "A Different Gospel",
         "category": "LEANS_LIBERTARIAN",
-        "conventional_use": "not_in_debate",
-        "summary": "Paul expresses shocked disbelief that the Galatians are in the process of deserting the God who called them in the sphere of grace, turning to a qualitatively different message, and he pronounces the cherem twice on anyone who preaches a gospel at variance with the one originally delivered.",
-        "relevance": "God is identified as the one who called the Galatians into the sphere of grace (divine initiative), yet they are actively deserting him -- the middle voice of metatithesthe ('you are transferring yourselves') emphasizes self-removal, and the present tense indicates the process is underway but not complete, implying they can still reverse course. The combination of divine calling with genuine possibility of human desertion implies that God's call does not unilaterally determine the outcome: the Galatians' own choice to stay or leave the sphere of grace has real consequences for their standing before God.",
+        "conventional_use": "cited_for_agency",
+        "summary": "In place of the customary thanksgiving Paul writes that he is astonished the Galatians are so quickly changing sides from the God who called them, pronounces a double curse on anyone preaching a contrary gospel, and denies that he is courting human approval.",
+        "relevance": "God is named as the one who called them -- the participle 'the one who called' refers to God throughout Paul's usage -- and yet the people so called are described as moving away from him, in a verb of defection (metatithemi, changing over from one party or allegiance to another) that stands in the present tense. The neutral reading makes the tense governing for the whole letter: the transfer is under way and not complete, nobody has yet been circumcised, and everything harsh in the letter is written to people the writer believes can still turn around. A divine call that can be walked away from, addressed by argument and warning to people whose direction is not yet settled, is not a call that unilaterally fixes the outcome. The passage does not, however, state in so many words what the Galatians stand to lose; that comes later in the letter.",
         "key_phrases": [
-            "deserting him who called you in the grace of Christ",
-            "you are transferring yourselves",
-            "turning to a different gospel"
+            "you are so quickly deserting him who called you",
+            "metatithesthe",
+            "turning to a different gospel",
+            "let him be accursed"
         ],
         "confidence": "medium",
         "book": "Galatians",
@@ -10348,9 +10353,9 @@ const DATA = [
     },
     {
         "reference": "1:11-12",
-        "section_title": "The Thesis of the Autobiographical Defense",
+        "section_title": "Not Received, Not Taught",
         "category": "NOT_APPLICABLE",
-        "summary": "Paul states the thesis that his gospel was not received from any human source or through human instruction but through a direct revelation of Jesus Christ, establishing the claim that the rest of the chapter will defend with biographical evidence.",
+        "summary": "Paul states the thesis of the autobiography that follows: the gospel he preached is not patterned on human thinking, since he neither received it as transmitted tradition nor was taught it, but had it through a revelation of Jesus Christ.",
         "book": "Galatians",
         "chapter": 1,
         "conventional_use": "",
@@ -10359,51 +10364,27 @@ const DATA = [
         "confidence": ""
     },
     {
-        "reference": "1:13-14",
-        "section_title": "Paul's Former Life -- Evidence of Discontinuity",
-        "category": "NOT_APPLICABLE",
-        "summary": "Paul cites his former life of violent persecution of God's assembly and extreme zeal for ancestral traditions as evidence that his gospel could not have developed naturally from his previous commitments, since his former trajectory was diametrically opposed to the message he now proclaims.",
-        "book": "Galatians",
-        "chapter": 1,
-        "conventional_use": "",
-        "relevance": "",
-        "key_phrases": [],
-        "confidence": ""
-    },
-    {
-        "reference": "1:15-17",
-        "section_title": "The Call -- Prophetic Commissioning and Deliberate Independence",
+        "reference": "1:13-17",
+        "section_title": "The Former Life, and the Call",
         "category": "MISAPPLIED",
         "conventional_use": "cited_for_determinism",
-        "summary": "Paul describes his call using the prophetic commissioning language of Jeremiah 1:5 and Isaiah 49:1,6, identifying himself as set apart before birth and called by grace to proclaim God's Son among the Gentiles, then documents his deliberate avoidance of Jerusalem and the senior apostles after his call.",
-        "relevance": "Galatians 1:15 ('set me apart before I was born') is conventionally cited as evidence that God unilaterally determines individual salvation outcomes through pre-birth election. However, the neutral reading shows that Paul is drawing directly from prophetic call narratives -- Jeremiah's appointment as 'a prophet to the nations' and the Servant's commission as 'a light for the nations' -- both of which are vocational commissions to specific missions, not determinations of individual soteriological destiny. The purpose clause makes this explicit: 'in order that I might preach him among the Gentiles.' God's pre-birth action here is setting Paul apart for apostolic ministry to the Gentiles, not predetermining his personal salvation. The passage is about prophetic commissioning to a vocation, not about divine selection of who will be saved.",
+        "summary": "Paul recalls his former life of violent zeal for ancestral tradition, describes the one who set him apart from his mother's womb and called him being pleased to reveal his Son in him so that he might preach among the Gentiles, and then lists the places he did not go afterward -- not to any human counsel and not to Jerusalem.",
+        "relevance": "Galatians 1:15 is conventionally cited for determinism, as evidence that God settles an individual's salvation before birth and independently of anything that individual does. The neutral reading shows the sentence is built out of two prophetic call texts -- Jeremiah 1:5, 'before I formed you in the womb I knew you... I appointed you a prophet to the nations,' and Isaiah 49:1, 'the LORD called me from my mother's womb' -- and that it carries their content: an appointment to a task, with the task stated in the purpose clause that follows. The reading is explicit that this is the form of a prophetic commissioning and not of a conversion: nothing here describes guilt relieved, beliefs exchanged, or a religion left, and the Gentile mission is the stated content of the call rather than a later development. What is determined before birth is therefore a vocation, not a soteriological destiny -- the distinction the assessment rules require to be kept. That said, the pre-natal setting apart, the calling 'through his grace,' and 'was pleased' (God's good pleasure, a determination made with satisfaction rather than reluctance) do place the initiative wholly with God in Paul's own case; what they do not do is address who is saved.",
         "key_phrases": [
-            "set me apart before I was born",
-            "called me by his grace",
+            "he who had set me apart from my mother's womb",
+            "called me through his grace",
             "was pleased to reveal his Son in me",
-            "in order that I might preach him among the Gentiles"
+            "so that I might preach him among the Gentiles"
         ],
         "confidence": "high",
         "book": "Galatians",
         "chapter": 1
     },
     {
-        "reference": "1:18-20",
-        "section_title": "The Brief Visit to Jerusalem -- Controlled and Limited",
+        "reference": "1:18-24",
+        "section_title": "Jerusalem at Last, and Then Away Again",
         "category": "NOT_APPLICABLE",
-        "summary": "Paul documents his first visit to Jerusalem three years after his call -- a fifteen-day stay during which he met only Cephas and James -- and swears under oath that his account is true, establishing that the visit was too brief and limited to have been the source of his gospel.",
-        "book": "Galatians",
-        "chapter": 1,
-        "conventional_use": "",
-        "relevance": "",
-        "key_phrases": [],
-        "confidence": ""
-    },
-    {
-        "reference": "1:21-24",
-        "section_title": "The Judean Churches -- Unknown by Face, Confirmed by God's Glory",
-        "category": "NOT_APPLICABLE",
-        "summary": "Paul notes that after his Jerusalem visit he went to Syria and Cilicia, remaining unknown by face to the Judean churches, who heard reports of his transformation from persecutor to proclaimer and glorified God -- providing independent confirmation that his transformation was recognized as divine action rather than human training.",
+        "summary": "Paul completes the chronology that establishes his independence from Jerusalem -- a first visit only after three years, fifteen days long, two men seen, an oath that he is not lying, then Syria and Cilicia, still unknown by face to the Judean assemblies, who only heard reports of him and glorified God.",
         "book": "Galatians",
         "chapter": 1,
         "conventional_use": "",
@@ -10413,9 +10394,9 @@ const DATA = [
     },
     {
         "reference": "2:1-5",
-        "section_title": "The Jerusalem Visit -- Revelation, Not Summons",
+        "section_title": "The Journey and the Test Case",
         "category": "NOT_APPLICABLE",
-        "summary": "Paul narrates his divinely directed visit to Jerusalem with Barnabas and Titus, demonstrating that the Jerusalem leaders did not require Titus's circumcision despite pressure from false brothers who infiltrated the community to undermine Gentile believers' freedom in Christ.",
+        "summary": "Paul recounts going up to Jerusalem after fourteen years with Barnabas and the uncircumcised Greek Titus, who was not compelled to be circumcised despite pressure from infiltrators who came to spy out the freedom of Gentile believers.",
         "book": "Galatians",
         "chapter": 2,
         "conventional_use": "",
@@ -10425,9 +10406,9 @@ const DATA = [
     },
     {
         "reference": "2:6-10",
-        "section_title": "The Pillars' Endorsement -- Nothing Added",
+        "section_title": "What Jerusalem Added",
         "category": "NOT_APPLICABLE",
-        "summary": "The recognized leaders James, Cephas, and John added nothing to Paul's gospel, recognized God's effective working through both Peter to the circumcised and Paul to the Gentiles, and extended the right hand of fellowship with a division of labor by audience, asking only that Paul remember the poor.",
+        "summary": "The Jerusalem leaders added no requirement to Paul's message, recognized that the same God was effectively at work in Peter's mission to the circumcised and Paul's to the Gentiles, and sealed a division of mission fields with a handshake and a single stipulation to remember the poor.",
         "book": "Galatians",
         "chapter": 2,
         "conventional_use": "",
@@ -10437,29 +10418,52 @@ const DATA = [
     },
     {
         "reference": "2:11-14",
-        "section_title": "The Antioch Confrontation -- Hypocrisy Exposed",
-        "category": "NOT_APPLICABLE",
-        "summary": "Paul narrates his public confrontation of Cephas at Antioch, who withdrew from table fellowship with Gentile believers under pressure from men associated with James, exposing the internal contradiction of a Jew who lived like a Gentile but through his withdrawal effectively forced Gentiles to Judaize.",
-        "book": "Galatians",
-        "chapter": 2,
-        "conventional_use": "",
-        "relevance": "",
-        "key_phrases": [],
-        "confidence": ""
-    },
-    {
-        "reference": "2:15-21",
-        "section_title": "Justification by Faith, Not by Works of the Law",
+        "section_title": "Antioch",
         "category": "LEANS_LIBERTARIAN",
         "conventional_use": "not_in_debate",
-        "summary": "Paul states the letter's central thesis -- no one is justified by works of the law but through faith in Christ Jesus -- declaring this three times in a single sentence and culminating in the claim that if righteousness came through the law, Christ died for no purpose.",
-        "relevance": "While the passage's primary concern is the basis of justification (faith vs. law-covenant entry) rather than who determines the response of faith, it consistently presents believing as a genuine human act. The aorist 'we also have believed in Christ Jesus' (episteusamen, v. 16) describes Jewish believers who recognized the law's insufficiency and deliberately placed their trust in Christ -- a purposeful act with a stated goal ('in order to be justified'). Paul's 'the life I now live in the flesh I live by faith in the Son of God' (v. 20) presents faith as the ongoing operative principle of his existence, something he actively does. The passage pairs divine initiative (Christ's self-giving love, co-crucifixion with Christ) with genuine human response (believing, living by faith), without suggesting that God unilaterally determined who would believe. Verse 18's warning that rebuilding what was torn down makes the rebuilder a transgressor implies genuine agency: the person can choose to rebuild or not, and bears responsibility for that choice.",
+        "summary": "Peter's settled practice of eating with Gentile believers changed when men came from James, and Paul publicly charged that the withdrawal, though it commanded nothing, functioned as compulsion on Gentiles to take on Jewish identity.",
+        "relevance": "The scene treats human conduct as genuinely undetermined and genuinely culpable: Peter's change is attributed to fear rather than to conviction or divine direction, he 'stood condemned' for it, Barnabas was 'carried away,' and Paul rebukes them for not walking straight toward the truth of the gospel. It also assumes that human action can materially alter other people's covenant standing -- a leader's withdrawal leaves Gentile believers one route back to full inclusion, and that route is conversion. This is agency in conduct and in social pressure, not an argument about who determines final salvation, so it bears on the question only indirectly.",
         "key_phrases": [
-            "so we also have believed in Christ Jesus, in order to be justified by faith in Christ",
-            "the life I now live in the flesh I live by faith in the Son of God",
-            "who loved me and gave himself for me",
+            "he drew back and separated himself, fearing those of the circumcision",
+            "because he stood condemned",
+            "even Barnabas was carried away by their hypocrisy",
+            "they were not walking straight toward the truth of the gospel",
+            "how can you compel the Gentiles to Judaize?"
+        ],
+        "confidence": "medium",
+        "book": "Galatians",
+        "chapter": 2
+    },
+    {
+        "reference": "2:15-16",
+        "section_title": "What Jews Know",
+        "category": "LEANS_LIBERTARIAN",
+        "conventional_use": "cited_by_both",
+        "summary": "The letter's hinge states as shared Jewish knowledge that a person is not justified by works of law but through the faith/faithfulness of Jesus Christ, with three contested terms -- erga nomou, dikaioo, and pistis Iesou Christou -- that the neutral reading says the verse itself does not adjudicate.",
+        "relevance": "The verse names the route to a favourable verdict and includes a first-person act of believing -- 'even we believed in Christ Jesus' -- presented as something Paul and Peter did with a purpose in view, which is a genuine human response rather than a decision made for them. Nothing in the reading introduces divine selection of who believes: the contrast drawn is between two routes to being reckoned in the right, not between divine determination and human choice. The ambiguity is real and cuts the other way in one respect -- if pistis Iesou Christou is a subjective genitive, the securing factor is Christ's own faithfulness rather than the believer's trust, which would weaken the agency reading, though even then the text says nothing about God determining who responds. The forensic sense of dikaioo (a verdict pronounced, not a nature altered) and the unresolved question of when the verdict falls both leave the passage short of settling the question.",
+        "key_phrases": [
+            "knowing that a person is not justified by works of law",
+            "even we believed in Christ Jesus",
+            "in order that we might be justified by faith of Christ",
+            "because by works of law no flesh will be justified"
+        ],
+        "confidence": "medium",
+        "book": "Galatians",
+        "chapter": 2
+    },
+    {
+        "reference": "2:17-21",
+        "section_title": "Died to Law, Alive to God",
+        "category": "LEANS_LIBERTARIAN",
+        "conventional_use": "cited_by_both",
+        "summary": "Paul rejects the inference that seeking justification in Christ makes Christ a servant of sin, describes his death to law through law as a completed crucifixion with Christ whose effect is his present condition, and closes with a reductio: if righteousness comes through law, Christ died for nothing.",
+        "relevance": "Two conditionals in the section treat Paul himself as capable of acting against his own standing -- 'if I rebuild what I tore down, I prove myself a transgressor,' and 'I do not nullify the grace of God,' where atheteo means to render void or set aside, so the denial presupposes that grace is the kind of thing a person could set aside. The determinism-flavoured material here is initiative rather than determination: the crucifixion with Christ is a perfect passive whose result stands, and Christ 'loved me and gave himself for me,' but the reading also has Paul still living in the flesh 'by faith of the Son of God,' and it explicitly leaves the paradox of 2:20 unresolved rather than collapsing the person into Christ. On the prompt's own distinction, God initiating and indwelling is not God unilaterally determining, while the two conditionals are genuine agency exercised with respect to standing before God.",
+        "key_phrases": [
+            "for if I rebuild what I tore down, I prove myself a transgressor",
             "I have been crucified with Christ",
-            "if I rebuild what I tore down, I prove myself to be a transgressor"
+            "it is no longer I who live, but Christ who lives in me",
+            "the life I now live in the flesh I live by faith of the Son of God",
+            "I do not nullify the grace of God"
         ],
         "confidence": "medium",
         "book": "Galatians",
@@ -10467,15 +10471,16 @@ const DATA = [
     },
     {
         "reference": "3:1-5",
-        "section_title": "The Appeal to the Galatians' Own Experience",
+        "section_title": "The Argument from Their Own Experience",
         "category": "LEANS_LIBERTARIAN",
         "conventional_use": "not_in_debate",
-        "summary": "Paul appeals to the Galatians' undeniable experience of receiving the Spirit through faith-hearing rather than through proselyte conversion, and challenges their proposed regression from Spirit to flesh.",
-        "relevance": "The passage treats faith-hearing as a genuine human response that was the basis for receiving the Spirit. Paul addresses the Galatians as agents whose choices are real and consequential: they began by the Spirit through their faith-response, and their potential turn to circumcision would render their experience 'in vain' (v. 4), implying the outcome remains undetermined and depends on their decision. God supplies the Spirit on the basis of hearing with faith, which presupposes that the Galatians' believing was a genuine act of response, not a unilateral divine determination.",
+        "summary": "Paul argues from evidence rather than authority, asking twice whether the Galatians received the Spirit — and still experience it — by works of law or by a hearing of faith.",
+        "relevance": "The disjunction of verses 2 and 5 sets 'something done' against 'something heard,' and the reading notes that the contrast survives every resolution of the ambiguity in ex akoes pisteos; on either rendering, reception of the Spirit is tied to the readers' own hearing and believing rather than to a prior selection. Verses 3-4 treat their present course as consequential and unsettled — Paul raises the possibility that everything they experienced has come to nothing, then declines to assert it ('if indeed it really was in vain'), which presupposes an outcome still open to their choice. Against this, God is the one who supplies the Spirit at his own cost (epichoregeo, the chorus-financing word), but that is divine initiative and generosity, not a statement that human response is excluded.",
         "key_phrases": [
-            "Did you receive the Spirit by works of the law or by hearing with faith?",
-            "Having begun by the Spirit, are you now being perfected by the flesh?",
-            "Did you suffer so many things in vain -- if indeed it was in vain?"
+            "did you receive the Spirit by works of law or by a hearing of faith?",
+            "having begun by the Spirit, are you now being perfected by flesh?",
+            "did you experience so many things in vain -- if indeed it was in vain?",
+            "he who supplies the Spirit to you and works miracles among you"
         ],
         "confidence": "medium",
         "book": "Galatians",
@@ -10483,16 +10488,16 @@ const DATA = [
     },
     {
         "reference": "3:6-9",
-        "section_title": "The Argument from Abraham -- Faith, Not Circumcision, Defines Sonship",
+        "section_title": "Abraham and the Nations",
         "category": "LEANS_LIBERTARIAN",
         "conventional_use": "not_in_debate",
-        "summary": "Paul argues from Genesis 15:6 that Abraham was justified by faith, that those who share Abraham's faith are his sons, and that the Abrahamic promise foresaw God justifying the Gentiles by faith.",
-        "relevance": "Abraham's faith is presented as a genuine human act that defined his status before God: he 'believed God, and it was counted to him as righteousness.' Abrahamic sonship is constituted by sharing Abraham's faith, not by ethnic descent or divine selection apart from faith. The category 'those of faith' (hoi ek pisteos) is an open category defined by a human response -- anyone who believes qualifies -- implying that one's standing before God depends on whether one exercises faith rather than on prior divine determination of who will believe.",
+        "summary": "Paul cites Genesis 15:6 — Abraham believed and it was reckoned to him as righteousness, before circumcision existed — and reads the promise of Genesis 12:3/18:18 as scripture preaching the gospel beforehand to the nations, so that 'those of faith' are Abraham's sons and share his blessing.",
+        "relevance": "The reading stresses that hoi ek pisteos names a group by what characterizes it — people whose defining derivation is faith — and that the claim is not that faith supplies a substitute family but that faith identifies who the real family is. Membership in Abraham's line is therefore constituted by believing rather than by descent or by a prior divine sorting of individuals, and the promise is described as aimed at the nations from its first announcement rather than at a restricted number. The reckoning language (logizomai, a bookkeeping word) records something entered on Abraham's side of the ledger in response to his believing.",
         "key_phrases": [
             "Abraham believed God, and it was counted to him as righteousness",
-            "it is those of faith who are the sons of Abraham",
+            "those of faith, these are sons of Abraham",
             "God would justify the Gentiles by faith",
-            "those of faith are blessed along with Abraham, the man of faith"
+            "in you shall all the nations be blessed"
         ],
         "confidence": "medium",
         "book": "Galatians",
@@ -10500,52 +10505,60 @@ const DATA = [
     },
     {
         "reference": "3:10-14",
-        "section_title": "The Law's Curse and Christ's Redemption",
+        "section_title": "Curse and Blessing",
         "category": "LEANS_LIBERTARIAN",
         "conventional_use": "not_in_debate",
-        "summary": "Paul argues that those under the law-covenant are under its curse, that the righteous live by faith rather than by law-performance, and that Christ exhausted the law's curse so that the Abrahamic blessing might reach the Gentiles and the Spirit might be received through faith.",
-        "relevance": "While Christ's redemption is presented as God's sovereign initiative, the culmination of the argument (v. 14) identifies faith as the means of receiving the promise and defines the recipients as 'those who believe' (tois pisteuousin) -- an open category with no qualifier other than human response. The passage presents divine initiative and human response as complementary without collapsing faith into divine determination. The citation 'the righteous shall live by faith' (Hab 2:4) treats faith as the operative principle of life before God, and the law's inability to produce life (by its performance-based mechanism) is contrasted with the promise's faith-based mechanism, where the human act of trusting is the means of reception.",
+        "summary": "Paul sets Deuteronomy 27:26, Habakkuk 2:4 and Leviticus 18:5 against one another to distinguish two operating principles, then states that Christ redeemed 'us' from the law's curse by becoming a curse, so that Abraham's blessing might reach the Gentiles and 'we' might receive the promised Spirit through faith.",
+        "relevance": "The passage bears on the question only obliquely and pulls in two directions. Verse 13 is unilateral divine action — a redemption accomplished without the redeemed doing anything — while verse 14 names faith as the means by which the promised Spirit is received. The reading weighs three candidates for the unstated premise of verse 10 and judges the traditional 'nobody can keep it' reading the weakest of the three, holding it against Deuteronomy 30:11-14, Philippians 3:6, Luke 1:6 and the Torah's own atonement provisions; that judgment removes from this passage the universal-inability premise on which a deterministic reading of it usually rests. Verses 11-12 contrast two principles of life without stating that either is beyond human reach.",
         "key_phrases": [
-            "The righteous shall live by faith",
-            "so that we might receive the promise of the Spirit through faith",
-            "the blessing of Abraham might come to the Gentiles",
-            "those who believe"
-        ],
-        "confidence": "medium",
-        "book": "Galatians",
-        "chapter": 3
-    },
-    {
-        "reference": "3:15-18",
-        "section_title": "The Priority of Promise over Law",
-        "category": "NOT_APPLICABLE",
-        "summary": "Paul argues from covenant law that the Abrahamic promise, ratified by God 430 years before the Sinai law, cannot be annulled or supplemented by the law, and that the inheritance comes by promise and grace rather than by law and performance.",
-        "book": "Galatians",
-        "chapter": 3,
-        "conventional_use": "",
-        "relevance": "",
-        "key_phrases": [],
-        "confidence": ""
-    },
-    {
-        "reference": "3:19-22",
-        "section_title": "The Purpose of the Law -- Added for a Defined Role, Subordinate to the Promise",
-        "category": "LEANS_LIBERTARIAN",
-        "conventional_use": "not_in_debate",
-        "summary": "Paul explains that the law was added temporarily to define transgressions until Christ came, that the law cannot give life, and that Scripture imprisoned everything under sin so that the promise might be given to those who believe.",
-        "relevance": "The conclusion of the argument (v. 22) identifies the recipients of the promise as 'those who believe' (tois pisteuousin) -- an open category defined by human response with no ethnic or covenant-status qualifier. The divine orchestration of salvation history (adding the law, imprisoning under sin) served the purpose of directing all toward the promise received through faith, implying that believing is a genuine human response that determines who receives the promise rather than a predetermined selection.",
-        "key_phrases": [
-            "so that the promise by faith in Jesus Christ might be given to those who believe"
+            "the righteous shall live by faith",
+            "the one who does them shall live by them",
+            "Christ redeemed us from the curse of the law",
+            "so that we might receive the promise of the Spirit through faith"
         ],
         "confidence": "low",
         "book": "Galatians",
         "chapter": 3
     },
     {
+        "reference": "3:15-18",
+        "section_title": "A Ratified Will",
+        "category": "LEANS_DETERMINISTIC",
+        "conventional_use": "not_in_debate",
+        "summary": "Arguing from ordinary legal practice, Paul says a ratified diatheke cannot be annulled or amended, that the promises were spoken to Abraham and to his single offspring, and that the law arriving 430 years later cannot invalidate the earlier instrument or void the promise.",
+        "relevance": "The instrument in view is unilateral and irrevocable: God gave the inheritance to Abraham by promise, one party drew it up, it was ratified (kekyromene), and no one may annul it or bolt a clause onto it. The reading also notes that kleronomia denotes something received because of who one is rather than something earned. That structure favours divine determination of the terms of the inheritance — but the passage says nothing about which persons are inside it, and the same paragraph's singular-offspring argument sets up the conditional entry stated at 3:29 ('if you are Christ's'). The reading is explicit that the argument's terms are priority and irrevocability, not rank, and it makes no claim about selection of individuals.",
+        "key_phrases": [
+            "once it has been ratified, no one annuls it or adds a codicil to it",
+            "the law... does not annul a covenant previously ratified by God",
+            "if the inheritance is by law, it is no longer by promise",
+            "God gave it to Abraham by promise"
+        ],
+        "confidence": "low",
+        "book": "Galatians",
+        "chapter": 3
+    },
+    {
+        "reference": "3:19-22",
+        "section_title": "Why Then the Law?",
+        "category": "MISAPPLIED",
+        "conventional_use": "cited_for_determinism",
+        "summary": "Paul answers the objection his own argument raises: the law was added because of transgressions until the offspring came, it is not against the promises because no law able to make alive was ever given, and scripture shut up all things under sin so that the promise might be given to those who believe.",
+        "relevance": "Verse 22 is conventionally cited — with Romans 3:9 and 11:32 — for universal bondage to sin and the consequent inability of anyone to believe without a unilateral divine act, and verse 21 is read alongside it as proof that the law exposed that inability. The neutral reading undercuts both moves on textual grounds: ta panta is neuter plural, 'all things,' so the confinement is comprehensive rather than a statement about individual capacity; and verse 21 is a contrary-to-fact conditional about the law's remit — no life-giving law was ever issued — offered in the law's defence, which is 'a claim about purpose, not about performance,' not an assertion that people tried the law and failed. What the sentence does state about salvation outcomes is its purpose clause: the promise is given tois pisteuousin, to those who believe, a class named by response with no further qualifier.",
+        "key_phrases": [
+            "the scripture shut up everything under sin",
+            "so that the promise... might be given to those who believe",
+            "if a law had been given that was able to make alive, then righteousness would indeed have been by law",
+            "it was added because of transgressions, until the offspring should come"
+        ],
+        "confidence": "medium",
+        "book": "Galatians",
+        "chapter": 3
+    },
+    {
         "reference": "3:23-25",
-        "section_title": "The Paidagogos -- The Law's Temporary Custodial Function",
+        "section_title": "The Escort",
         "category": "NOT_APPLICABLE",
-        "summary": "Paul describes the law's function as a paidagogos (custodian-escort) for Jewish believers -- a temporary supervisory role that ended with the arrival of faith and Christ, after which justification operates by faith rather than by covenant-jurisdictional custody.",
+        "summary": "Paul describes a custody under law before 'the faith' came — 'faith' functioning here as a period marker rather than an individual's act — with the law as the household paidagogos whose term ended by the calendar at the heir's majority, so that 'we' are no longer under it.",
         "book": "Galatians",
         "chapter": 3,
         "conventional_use": "",
@@ -10555,15 +10568,15 @@ const DATA = [
     },
     {
         "reference": "3:26-29",
-        "section_title": "Identity in Christ -- Sons, Seed, Heirs",
+        "section_title": "Sons, Offspring, and Heirs",
         "category": "LEANS_LIBERTARIAN",
         "conventional_use": "not_in_debate",
-        "summary": "Paul declares that in Christ Jesus the Galatians are all sons of God through faith, that baptism into Christ constitutes putting on Christ and abolishes ethnic, social, and gender distinctions for standing before God, and that those who belong to Christ are Abraham's seed and heirs according to promise.",
-        "relevance": "Sonship is received 'through faith' (dia tes pisteos) and enacted through baptism -- both presented as genuine human responses that determine one's identity. The phrasing 'as many of you as were baptized into Christ' treats incorporation into Christ as contingent on a human act of response. The abolition of all distinctions (Jew/Greek, slave/free, male/female) for standing before God implies that the determining factor is not divine preselection of a subset but a faith-response open to all without restriction or qualification.",
+        "summary": "The chapter closes by telling the Galatians that they are all sons of God through faith, that as many as were baptized into Christ have put on him, that the three great distinctions do not obtain within that sphere, and that those who are Christ's are Abraham's offspring and heirs according to promise.",
+        "relevance": "This is the chapter's own answer to the question it set out to settle — who is Abraham's offspring and therefore who inherits — and the reading records that the qualification is stated in two words, hymeis Christou, with no rite in the answer. Standing is constituted by faith and by belonging to Christ, and the emphatic pantes plus the explicit denial that ethnicity, status or sex bears on standing leaves the category open rather than restricted to a pre-selected number. Two cautions belong here: the sonship and offspring language is corporate covenant-family language (Israel's own designation applied to Gentiles), not a statement about the eternal destiny of individuals; and the text does not say who authors the faith through which sonship comes.",
         "key_phrases": [
-            "in Christ Jesus you are all sons of God, through faith",
+            "you are all sons of God through faith in Christ Jesus",
             "as many of you as were baptized into Christ have put on Christ",
-            "you are all one in Christ Jesus",
+            "there is neither Jew nor Greek... for you are all one in Christ Jesus",
             "if you are Christ's, then you are Abraham's offspring, heirs according to promise"
         ],
         "confidence": "medium",
@@ -10572,16 +10585,17 @@ const DATA = [
     },
     {
         "reference": "4:1-7",
-        "section_title": "The Heir Under Guardians — From Minority to Sonship",
+        "section_title": "The Heir Comes of Age",
         "category": "LEANS_DETERMINISTIC",
         "conventional_use": "not_in_debate",
-        "summary": "The neutral reading presents God as the sole agent in the salvation process: God set the appointed time for the heir's maturity, sent the Son into the law's jurisdiction to redeem those held there, sent the Spirit of the Son into believers' hearts to confirm their adoption, and established them as heirs through his own action.",
-        "relevance": "The entire salvation process described in this section — the timing (the father's appointed date, v.2), the double sending (God sent the Son, v.4; God sent the Spirit, v.6), redemption (v.5), adoption (v.5), and inheritance (v.7) — is attributed exclusively to God's initiative and action. The phrase 'heir through God' (dia theou, v.7) explicitly credits God as the agent. The neutral reading notes: 'The entire process is God's initiative. The Galatians did not earn their inheritance; God gave it to them through the double sending.' No human response, choice, or agency is mentioned in this section's account of how salvation was accomplished. While the passage addresses salvation history (the corporate transition from law-era to faith-era) rather than individual election, its exclusive attribution of the salvation mechanism to divine action has implications favoring divine determination.",
+        "summary": "A household metaphor completes the paidagogos argument: the minor heir owns the estate throughout but is under guardians until a date the father fixed in advance, and that date arrived when God sent the Son to redeem those under law and then sent the Spirit of his Son into the hearts of those who are already sons.",
+        "relevance": "Every active verb in the paragraph is God's -- he sets the date, sends the Son, redeems, adopts, sends the Spirit -- and the neutral reading stresses that the end of the minority \"is a date, not an achievement\" that \"does not depend on his conduct,\" with the standing held \"through God\" and not through any procedure or descent, which cuts against outcomes turning on human performance. But the reading is equally clear that this is redemptive-historical timing for a group, not the selection of individuals: the minority is \"a phase in the life of an owner, not the condition of an outsider,\" so the passage never asks who is inside. It also contains a datum pulling the other way, which the reading flags as frequently reversed: the Spirit is sent *because* (hoti) they are already sons, making it the evidence of the status rather than the mechanism that produces it.",
         "key_phrases": [
+            "until the date set by the father",
             "when the fullness of time had come, God sent forth his Son",
-            "to redeem those who were under the law, so that we might receive adoption as sons",
-            "because you are sons, God has sent the Spirit of his Son into our hearts",
-            "So you are no longer a slave, but a son, and if a son, then an heir through God"
+            "so that we might receive the adoption as sons",
+            "because you are sons, God sent forth the Spirit of his Son",
+            "an heir through God"
         ],
         "confidence": "medium",
         "book": "Galatians",
@@ -10589,16 +10603,16 @@ const DATA = [
     },
     {
         "reference": "4:8-11",
-        "section_title": "The Stoicheia Equation — Proselyte Conversion as Return to Pagan Bondage",
+        "section_title": "Turning Back",
         "category": "LEANS_LIBERTARIAN",
-        "conventional_use": "not_in_debate",
-        "summary": "The neutral reading shows Paul equating the Galatians' proposed adoption of Torah-covenant membership with a return to their former pagan bondage under elemental principles, warning them that both systems function identically as slavery conditioning access to God on human compliance with external regulations.",
-        "relevance": "Paul's self-correction 'or rather to be known by God' (v.9) emphasizes that God's initiative is prior to and the ground of the Galatians' relationship with him, echoing election language (Amos 3:2). However, the dominant thrust of the section presupposes genuine human agency affecting salvation outcomes. The questions 'how can you turn back again' and 'do you wish to be enslaved by them all over again' (thelo, active volition, v.9) treat the Galatians' defection as a genuine choice they are actively making. Paul's fear that his labor 'may have been in vain' (v.11) implies genuine uncertainty about the Galatians' spiritual outcome — an uncertainty that presupposes their choices, not a divine decree, will determine the result. The 'known by God' phrase serves to make the Galatians' proposed defection more inexcusable rather than to exclude their agency.",
+        "conventional_use": "cited_by_both",
+        "summary": "Paul confronts former pagans who, having come to know God, are turning back to the weak and beggarly elements and observing days, months, seasons and years, and says he fears he has laboured over them in vain.",
+        "relevance": "The paragraph is built on the premise that the readers can undo their own position: they are \"turning back again,\" and Paul says they \"want\" (thelete) to be enslaved \"all over again from the beginning,\" which makes the movement their own choice and its direction reversible. His fear that his labour may have been \"in vain\" -- stated here without the withdrawal he attached to it at 3:4 -- treats the outcome as genuinely open. Pulling the other way is his mid-sentence self-correction, \"or rather to be known by God,\" which relocates the initiative from their knowing to God's knowing of them, using an idiom the reading traces to God's regard for his own (Ps 1:6; Jer 1:5; Amos 3:2); that clause is real but it is a correction of emphasis, not a denial that the readers are the ones turning.",
         "key_phrases": [
+            "how can you turn back again",
+            "to which you want to be enslaved all over again",
             "or rather to be known by God",
-            "how can you turn back again to the weak and worthless elementary principles",
-            "Do you wish to be enslaved by them all over again",
-            "I am afraid I may have labored over you in vain"
+            "I am afraid for you, that perhaps I have labored over you in vain"
         ],
         "confidence": "medium",
         "book": "Galatians",
@@ -10606,15 +10620,16 @@ const DATA = [
     },
     {
         "reference": "4:12-20",
-        "section_title": "The Personal Appeal — From Warmth to Estrangement",
+        "section_title": "The Personal Appeal",
         "category": "LEANS_LIBERTARIAN",
         "conventional_use": "not_in_debate",
-        "summary": "The neutral reading presents Paul's personal appeal recalling the Galatians' initial extraordinary reception of him, exposing the rival teachers' manipulative motives of creating dependence, and expressing pastoral anguish through the metaphor of childbirth over the Galatians' uncertain spiritual trajectory.",
-        "relevance": "Paul's perplexity about the Galatians ('I am perplexed about you,' v.20) and his renewed labor pains 'until Christ is formed in you' (v.19) imply that their spiritual outcome is genuinely uncertain and depends on their response rather than being predetermined. The neutral reading notes that Paul's fear 'is not that the gospel is wrong but that the Galatians' response may undo the gospel's effects.' If God had unilaterally determined their salvation, Paul's perplexity would be misplaced and his anguished labor unnecessary. The ongoing, incomplete process of Christ being 'formed' in them presupposes that the outcome is contingent on factors including the Galatians' own choices.",
+        "summary": "Nine verses of personal address with no scripture and no argument, recalling how the Galatians received Paul when he was ill, contrasting the rival teachers' courting of them with his own labour, and ending in his admission that he is at a loss.",
+        "relevance": "The section bears on the question only by its form and its stated goal. Paul entreats rather than declares -- deomai hymon, \"I beg you\" -- and closes by saying he is aporoumai, without a way through, which presupposes an outcome he cannot settle and they can. And 4:19 states what his labour is for: not a completed status or admission but Christ being \"formed\" in them, a shape still in process at the time of writing. Neither point addresses who determines salvation directly, so this is weak evidence in the direction of real human agency rather than a statement about it.",
         "key_phrases": [
-            "for whom I am again in the anguish of childbirth until Christ is formed in you",
-            "I am perplexed about you",
-            "Have I then become your enemy by telling you the truth"
+            "Become as I am",
+            "brothers, I beg you",
+            "again in labor until Christ is formed in you",
+            "I am perplexed about you"
         ],
         "confidence": "low",
         "book": "Galatians",
@@ -10622,50 +10637,37 @@ const DATA = [
     },
     {
         "reference": "4:21-31",
-        "section_title": "The Hagar-Sarah Allegory — The Torah Against the Proselyte Program",
-        "category": "LEANS_LIBERTARIAN",
-        "conventional_use": "not_in_debate",
-        "summary": "The neutral reading presents the Hagar-Sarah allegory as demonstrating from the Torah itself that the flesh-method of becoming Abraham's child (proselyte conversion through circumcision) produces slavery, while the promise-method (faith) produces freedom, with Scripture commanding the expulsion of the flesh-method and its products.",
-        "relevance": "The passage assumes the Galatians have genuine agency to choose between two covenant methods with divergent salvation consequences. Paul addresses 'you who desire to be under the law' (v.21), treating their movement toward proselyte conversion as a real choice with real consequences — choosing the flesh-method means choosing slavery and forfeiting the inheritance, since 'the son of the slave woman shall not inherit with the son of the free woman' (v.30). The warning structure presupposes that which method the Galatians follow affects their standing before God: they are currently children of promise like Isaac (v.28), but their active desire to enter the law's covenant jurisdiction could place them among the slave woman's children instead. The declaration 'we are not children of the slave but of the free woman' (v.31) describes a status the Galatians could forfeit by their own decision to pursue circumcision.",
+        "section_title": "Hagar and Sarah",
+        "category": "MISAPPLIED",
+        "conventional_use": "cited_for_determinism",
+        "summary": "Paul announces that he is allegorizing the Genesis narrative of Abraham's two sons, builds two columns -- slave woman / flesh / Sinai / the present Jerusalem against free woman / promise / the Jerusalem above -- quotes Isaiah 54:1 and an adapted Genesis 21:10, and concludes that \"we\" are children of the free woman.",
+        "relevance": "Conventionally this passage is cited, usually alongside Romans 9:6-13, to prove that God unilaterally constitutes a line of the saved: Isaac is \"born through promise\" while Ishmael is \"born according to flesh,\" the Galatians are \"children of promise like Isaac,\" and the other son is cast out and does not inherit -- read as two classes of humanity fixed by God's choice. The neutral reading shows the passage is doing something else. Paul flags the whole thing as allegory (allegoroumena), so he is declaring what he is doing with Genesis rather than stating what Genesis means, and the columns are columns of covenant *standing* -- what a covenant \"used this way\" produces (eis douleian gennosa, an effect and not an essence) and a political fact about \"the *present* Jerusalem,\" a city in slavery under Rome. The contrast kata sarka / di' epangelias is the letter's running contrast between what human contrivance produces and what God promises -- the reading notes kata sarka means circumcision explicitly at 6:12-13 -- not eternal destinies assigned before birth. Two features close it off: at 4:26 and 4:31 Paul, a Jew by birth, places himself in the free column, so the columns cannot be classes of people fixed by descent; and \"cast out\" is an imperative given to Galatian congregations, whose only actionable referent is the faction operating among them now, not a divinely rejected class. The reading also observes that the Genesis source undercuts the harsher reading -- the expulsion words are Sarah's, not God's, and God twice provides for the expelled son in the same chapter.",
         "key_phrases": [
-            "you who desire to be under the law",
-            "you, brothers, like Isaac, are children of promise",
-            "Cast out the slave woman and her son, for the son of the slave woman shall not inherit with the son of the free woman",
-            "we are not children of the slave but of the free woman"
+            "these women are two covenants",
+            "this may be interpreted allegorically",
+            "born according to flesh",
+            "born through promise",
+            "the present Jerusalem",
+            "children of promise",
+            "Cast out the slave woman and her son",
+            "we are not children of the slave woman but of the free"
         ],
         "confidence": "medium",
         "book": "Galatians",
         "chapter": 4
     },
     {
-        "reference": "5:1",
-        "section_title": "The Transitional Declaration — Freedom as Christ's Purpose",
-        "category": "LEANS_LIBERTARIAN",
-        "conventional_use": "not_in_debate",
-        "summary": "The neutral reading presents freedom as the stated purpose of Christ's liberating act, with the imperative 'stand firm' and 'do not submit again to a yoke of slavery' demanding an active human response to maintain the freedom Christ accomplished.",
-        "relevance": "The indicative-imperative structure presupposes genuine human agency: Christ's completed act of liberation (indicative) generates a command to the Galatians to hold their position against pressure (imperative). The warning 'do not submit again to a yoke of slavery' directly implies the Galatians can choose to surrender the freedom Christ secured — and as 5:4 will make explicit, such surrender carries salvation consequences. If God unilaterally determined who remains in the sphere of freedom, the urgent imperative to 'stand firm' would be pointless. Paul treats the maintenance of their freed status as contingent on their active resistance to the rival teachers' pressure.",
-        "key_phrases": [
-            "For freedom Christ has set us free",
-            "stand firm therefore",
-            "do not submit again to a yoke of slavery"
-        ],
-        "confidence": "medium",
-        "book": "Galatians",
-        "chapter": 5
-    },
-    {
-        "reference": "5:2-6",
-        "section_title": "The Consequences of Circumcision Stated Without Qualification",
+        "reference": "5:1-6",
+        "section_title": "Freedom, and What Circumcision Would Cost",
         "category": "STRONG_LIBERTARIAN",
         "conventional_use": "cited_for_agency",
-        "summary": "The neutral reading presents the consequences of accepting circumcision — Christ being of no advantage, obligation to keep the whole law, severance from Christ, and falling from grace — as real possibilities for real believers whose choices will determine whether they remain on the grace-faith track or relocate to the law-performance track.",
-        "relevance": "This section directly addresses human choices as determining salvation outcomes, and does so as the load-bearing argument of Paul's letter. The warnings are addressed to believers — people who have the Spirit (3:2-5), are sons of God (3:26), and are Abraham's seed (3:29). Paul states that if they accept circumcision, Christ will be of zero value to them (v.2), they will be severed from Christ (v.4), and they will have fallen from grace (v.4). The neutral reading is explicit: 'The inheritance is real (3:29; 4:7) — and it is forfeit-able. The warnings of 5:4 describe real possibilities for real believers.' The mutual exclusivity principle operates automatically based on the Galatians' choice of track: choosing the law-track forfeits the grace-track. The entire structure presupposes that the Galatians' decision — not a divine decree — will determine whether they remain in Christ or are severed from him. The positive alternative (vv.5-6) likewise locates believers' eschatological hope in Spirit-and-faith as the ongoing means of salvation, with 'faith working through love' as the operative reality that replaces circumcision status.",
+        "summary": "The neutral reading takes this as the letter's plainest statement of what accepting circumcision would cost — enrolment in a covenant carrying the whole of its obligation, and separation from Christ for those in the act of seeking a standing by law.",
+        "relevance": "Paul addresses a choice not yet made ('if you accept circumcision' is present subjunctive, a live possibility; 'whoever are being justified by law' is present tense, a process under way) and states that making it severs the person from Christ and drops him out of grace. The addressees are people the letter has already called sons, heirs, and recipients of the Spirit, so a human decision is being presented as determining a salvation outcome, and it is the load-bearing argument of the letter rather than an aside. The neutral reading also observes the grammar of the loss — katargeo breaks a connection, ekpipto describes falling out of a position — so what is described is a relation departed from rather than a possession withdrawn by God; and 5:6's 'faith working through love' defines the faith that counts by what it actively does, which cuts against reading faith here as an inert state produced upon a person.",
         "key_phrases": [
-            "if you accept circumcision, Christ will be of no advantage to you",
-            "he is obligated to keep the whole law",
-            "You are severed from Christ, you who would be justified by the law",
+            "stand firm therefore, and do not submit again to a yoke of slavery",
+            "if you accept circumcision, Christ will be of no benefit to you",
+            "you are severed from Christ, you who would be justified by law",
             "you have fallen from grace",
-            "through the Spirit, by faith, we ourselves eagerly wait for the hope of righteousness",
             "faith working through love"
         ],
         "confidence": "high",
@@ -10674,33 +10676,33 @@ const DATA = [
     },
     {
         "reference": "5:7-12",
-        "section_title": "The Agitators Denounced — The Scandal of the Cross",
+        "section_title": "The Ones Who Cut In",
         "category": "LEANS_LIBERTARIAN",
         "conventional_use": "not_in_debate",
-        "summary": "The neutral reading presents Paul's denunciation of the rival teachers as intruders who cut into the Galatians' path, denying divine authorization for their persuasion, invoking the leaven metaphor for contamination, and expressing confidence in the Galatians' eventual right judgment while warning that the troubler will bear divine penalty.",
-        "relevance": "The entire section presupposes that the Galatians' spiritual trajectory depends on genuine human choices rather than divine predetermination. Paul's urgent appeals — the rhetorical question 'who hindered you from obeying the truth?' (v.7), the warning about leaven contaminating the whole lump (v.9), and the bitter wish about the agitators (v.12) — would be pointless if the outcome were already determined by God. Paul's confidence 'in the Lord that you will take no other view' (v.10) is stated as expectation rather than certainty, and the fact that he writes this letter at all — arguing, warning, denouncing — presupposes that the Galatians' response to both God's call and the agitators' persuasion is not fixed. Their 'running well' was interrupted by human agents (v.7), not redirected by divine decree, and Paul treats their course as recoverable through their own renewed obedience.",
+        "summary": "The neutral reading takes this as a direct attack on the other teachers — a runner cut off mid-race, a persuasion campaign that does not come from God, a proverb about leaven, a statement of confidence in the Galatians, and a bitter wish.",
+        "relevance": "The picture is of a course that was going well and was interrupted by human agents, not redirected by God: the persuasion at work among them is explicitly denied divine origin ('not from him who calls you'), which means the Galatians are being moved by something other than the God who calls, and are being moved effectively. God's calling is present-tense and ongoing while the readers are being drawn away from it, so calling here is not portrayed as an outcome-securing act. Paul's confidence is located 'in the Lord' rather than in the congregations, which is the one element pulling the other way, but it is stated as settled expectation about people he is still arguing with rather than as a decree. The section is about the source and effect of persuasion, not directly about who determines salvation, hence LEANS rather than STRONG.",
         "key_phrases": [
-            "You were running well. Who hindered you from obeying the truth?",
-            "This persuasion is not from him who calls you",
-            "A little leaven leavens the whole lump",
+            "you were running well",
+            "who cut in on you, to keep you from obeying the truth?",
+            "this persuasion is not from him who calls you",
             "I have confidence in the Lord that you will take no other view"
         ],
-        "confidence": "low",
+        "confidence": "medium",
         "book": "Galatians",
         "chapter": 5
     },
     {
         "reference": "5:13-15",
-        "section_title": "Freedom Expressed as Torah-Fulfilling Love",
+        "section_title": "Freedom for Service",
         "category": "LEANS_LIBERTARIAN",
         "conventional_use": "not_in_debate",
-        "summary": "The neutral reading presents Paul's redefinition of freedom as the arena for voluntary love-service rather than license, citing Leviticus 19:18 as the fulfillment of the whole law and warning that the alternative — communal self-destruction through biting and devouring one another — is the actual product of the agitators' program.",
-        "relevance": "The imperative structure presupposes genuine human agency in determining one's spiritual trajectory. 'You were called to freedom' (v.13) attributes the initiative to God (the one who calls), but the commands that follow — 'do not use your freedom as an opportunity for the flesh' and 'through love serve one another' — treat the Galatians' response to that calling as a genuine choice with consequences. The warning that mutual destruction awaits those who 'bite and devour one another' (v.15) connects ethical choices to communal outcomes that, in the letter's three-path structure, lead either toward the kingdom (Spirit-path) or away from it (flesh-path, 5:21). The passage presents the Galatians as genuinely capable of choosing either love-service or communal predation, with their choice affecting their standing.",
+        "summary": "The neutral reading takes 5:13 as the hinge of the letter, where the freedom the Galatians were called into becomes an obligation to serve one another, summarized by Leviticus 19:18, against the background of a congregation already tearing at itself.",
+        "relevance": "'You were called to freedom' is passive with God as the implied agent, so the initiative is God's — but the neutral reading stresses that what follows is a command about what the Galatians may do with that freedom, including a warning that it could become 'a base of operations' for the flesh. That is not the grammar of an outcome already secured; it is the grammar of a gift that can be put to two different uses by the person who received it. The prohibition, the imperative, and the warning about mutual destruction all presuppose that the readers can go either way. Since the passage concerns conduct within freedom rather than the determination of salvation as such, this leans rather than settles.",
         "key_phrases": [
             "you were called to freedom",
             "do not use your freedom as an opportunity for the flesh",
             "through love serve one another",
-            "if you bite and devour one another, watch out that you are not consumed by one another"
+            "watch out that you are not consumed by one another"
         ],
         "confidence": "medium",
         "book": "Galatians",
@@ -10708,17 +10710,17 @@ const DATA = [
     },
     {
         "reference": "5:16-18",
-        "section_title": "The Spirit-Flesh Opposition Introduced",
+        "section_title": "Spirit and Flesh",
         "category": "LEANS_LIBERTARIAN",
-        "conventional_use": "not_in_debate",
-        "summary": "The neutral reading presents the Spirit and flesh as two incompatible powers whose desires oppose each other, with the imperative to walk by the Spirit as the means of not gratifying the flesh's desires, and with Spirit-guidance replacing the law's covenant jurisdiction as the governing authority over conduct.",
-        "relevance": "The imperative 'walk by the Spirit' (v.16) presupposes genuine human agency — believers are commanded to choose which power governs their conduct. The Spirit-flesh opposition (v.17) describes two paths between which the believer navigates, not a unilateral divine determination of which path the believer will follow. The neutral reading notes: 'The believer is not autonomous but governed — either by the Spirit (which produces freedom) or by the flesh (which produces bondage).' This binary structure implies a real choice. The emphatic promise that Spirit-walking will prevent flesh-gratification (v.16, 'you will certainly not gratify the desire of the flesh') attributes effective power to the Spirit, but this power operates contingently upon the human choice to walk by the Spirit, not as a unilateral override of human agency. The conditional 'if you are led by the Spirit' (v.18) treats Spirit-guidance as a present reality for these believers while implying the alternative remains possible.",
+        "conventional_use": "cited_by_both",
+        "summary": "The neutral reading takes this as a command to walk by the Spirit with a promise attached, followed by a description of the standing opposition between flesh and Spirit and a statement that those led by the Spirit are not under law.",
+        "relevance": "This is the most genuinely ambiguous section in the chapter and the neutral reading declines to resolve it. Verse 16 is one command with a stated consequence, not two commands — the Spirit is the effective agent in defeating the flesh's desire, which is the element that could be read deterministically, and the third of the three readings the neutral reading offers for 5:17 ('there is no neutral ground on which the will operates autonomously; a person is governed by one or the other') is explicitly a picture of a will that is never self-governing. Against that: the whole thing is issued as an imperative to people who may or may not obey it, 'if you are led by the Spirit' is a conditional rather than an assertion about all of them, and the passage is immediately followed by a warning that conduct can forfeit the kingdom. The governing-power framework describes what governs a person's conduct, not who decides a person's eternal outcome, and the sentence that carries it is a command. Best judgment is that agency is presupposed, with real ambiguity acknowledged.",
         "key_phrases": [
-            "walk by the Spirit, and you will not gratify the desires of the flesh",
-            "the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh",
-            "if you are led by the Spirit, you are not under the law"
+            "walk by the Spirit, and you will not carry out the desire of the flesh",
+            "these are opposed to each other, to keep you from doing what you want",
+            "if you are led by the Spirit, you are not under law"
         ],
-        "confidence": "medium",
+        "confidence": "low",
         "book": "Galatians",
         "chapter": 5
     },
@@ -10727,40 +10729,30 @@ const DATA = [
         "section_title": "The Works of the Flesh",
         "category": "STRONG_LIBERTARIAN",
         "conventional_use": "cited_for_agency",
-        "summary": "The neutral reading presents the works of the flesh as the publicly recognizable products of the flesh-system — fragmented, destructive behaviors concentrated in community-destroying social sins — with the warning that those who practice them will not inherit the kingdom of God, a warning addressed to believers about a real possibility of forfeiting their inheritance.",
-        "relevance": "The concluding warning directly addresses human conduct as determining a salvation outcome: 'those who do such things will not inherit the kingdom of God' (v.21). The verb prasso ('to practice habitually') describes a sustained pattern of human behavior, and the consequence — exclusion from the kingdom, i.e., loss of the inheritance — is a salvation outcome. The neutral reading states explicitly: 'Paul does not say that their status as believers makes the warning unnecessary; he gives the warning precisely because they are believers who might nonetheless forfeit their inheritance by practicing the works of the flesh.' This is addressed to the same Galatians who have the Spirit (3:2-5), are sons and heirs (3:26, 29; 4:7), and are children of the free woman (4:31). The three-path structure is now complete: the law-path leads to severance from Christ (5:4); the flesh-path leads to exclusion from the kingdom (5:21). Both forfeitures result from human choices, not divine decrees. The repeated warning ('I warn you, as I warned you before') underscores that Paul treats this as a genuine danger requiring active avoidance, not a theoretical impossibility for the elect.",
+        "summary": "The neutral reading takes the vice list as aimed at a congregation already fighting itself — eight of the fifteen items concern communal breakdown — and the closing sentence as a warning, repeated from Paul's original teaching, that those whose settled practice consists in such things will not inherit the kingdom of God.",
+        "relevance": "A salvation outcome is stated to depend on a pattern of human conduct, and it is stated to the very people the letter has identified as Spirit-receivers, sons of God, and heirs according to promise. The present participle marks a habitual practice rather than an isolated act, so the condition is a way of living that a person sustains. The neutral reading notes the shape of the warning: an inheritance not entered, matching the severed connection of 5:4 and the unreaped harvest of 6:8-9 — a destination not reached rather than a possession confiscated. That Paul had already given this warning before the crisis, and gives it again, makes it part of his own argument rather than an illustration.",
         "key_phrases": [
-            "the works of the flesh are evident",
-            "those who do such things will not inherit the kingdom of God",
-            "I warn you, as I warned you before"
+            "those who practise such things will not inherit the kingdom of God",
+            "I warn you, as I warned you before",
+            "and things like these"
         ],
         "confidence": "high",
         "book": "Galatians",
         "chapter": 5
     },
     {
-        "reference": "5:22-23",
+        "reference": "5:22-26",
         "section_title": "The Fruit of the Spirit",
-        "category": "NOT_APPLICABLE",
-        "summary": "The neutral reading presents the fruit of the Spirit as a unified, organic harvest of nine character qualities — love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control — produced by the Spirit's indwelling presence rather than by human effort, with the note that no law prohibits these qualities, rendering the law's regulatory function superfluous for Spirit-led believers.",
-        "book": "Galatians",
-        "chapter": 5,
-        "conventional_use": "",
-        "relevance": "",
-        "key_phrases": [],
-        "confidence": ""
-    },
-    {
-        "reference": "5:24-26",
-        "section_title": "The Crucifixion of the Flesh and Life by the Spirit",
         "category": "LEANS_LIBERTARIAN",
         "conventional_use": "not_in_debate",
-        "summary": "The neutral reading presents the crucifixion of the flesh as a completed event for all who belong to Christ, with the imperative to keep in step with the Spirit demanding that believers align their conduct with the Spirit from whom they receive life, and the warning against conceit, provocation, and envy addressing specific flesh-behaviors that destroy community.",
-        "relevance": "The indicative-imperative structure again presupposes genuine human agency: the theological reality that believers have crucified the flesh (v.24, completed act) generates the ethical demand that they walk in conformity with the Spirit (v.25, imperative). The imperative 'let us keep in step with the Spirit' treats continued alignment with the Spirit as a genuine human responsibility, not an automatic consequence of belonging to Christ. The warning against conceit, provocation, and envy (v.26) — all works of the flesh (5:20-21) — presupposes that believers can choose these destructive behaviors despite having crucified the flesh. Within the letter's framework, choosing these flesh-behaviors places believers on the path that leads to exclusion from the kingdom (5:21). The ongoing human responsibility to keep in step with the Spirit, despite the flesh's crucifixion, implies that the outcome is not unilaterally secured but depends on continued human cooperation with the Spirit's leading.",
+        "summary": "The neutral reading contrasts the singular karpos of the Spirit — grown rather than manufactured — with the plural erga of the flesh, notes that the law does not stand against what the Spirit produces, and observes that the believers themselves are the active subject of 'crucified the flesh' and that the imperatives of 25-26 follow from an assumed indicative.",
+        "relevance": "The fruit metaphor genuinely pulls toward divine production — what grows is borne rather than achieved, and the qualities are named as the Spirit's crop — which is the deterministic-leaning element here. But the neutral reading is emphatic that in 5:24 the verb is active and the believers are its subject: Paul does not write that God crucified the flesh. And 5:25 sets an imperative on top of an assumed indicative — they are told to bring their conduct into line with a life they already have — closing with a prohibition against behaviours drawn from the vice list, which would be pointless if alignment were automatic for those who belong to Christ. The section concerns the source and shape of Christian conduct rather than the determination of who is saved, so it leans rather than settles.",
         "key_phrases": [
-            "those who belong to Christ Jesus have crucified the flesh with its passions and desires",
-            "If we live by the Spirit, let us also keep in step with the Spirit",
-            "Let us not become conceited, provoking one another, envying one another"
+            "the fruit of the Spirit is love, joy, peace",
+            "against such things there is no law",
+            "those who belong to Christ Jesus have crucified the flesh",
+            "if we live by the Spirit, let us also walk in line by the Spirit",
+            "let us not become conceited, provoking one another"
         ],
         "confidence": "medium",
         "book": "Galatians",
@@ -10768,79 +10760,58 @@ const DATA = [
     },
     {
         "reference": "6:1-5",
-        "section_title": "Restoring the Fallen and Testing One's Own Work",
+        "section_title": "Burdens and Loads",
         "category": "LEANS_LIBERTARIAN",
         "conventional_use": "not_in_debate",
-        "summary": "Paul instructs the Spirit-led community to gently restore members caught in transgression, to bear one another's burdens as fulfillment of 'the law of Christ,' and to practice honest self-examination rather than competitive comparison, while maintaining that each person bears individual accountability before God.",
-        "relevance": "The passage presupposes genuine human agency at multiple points: believers can be 'caught in transgression' and need restoration (not permanently secured against falling); the restorer is warned 'lest you too be tempted,' placing every believer in the same category of vulnerability; and each person 'will have to bear his own load' before God, implying individual eschatological accountability for one's own conduct. While the section's primary focus is community ethics rather than the question of who determines salvation, the logic throughout assumes that believers' choices and conduct genuinely matter for their standing.",
+        "summary": "The neutral reading presents instruction to a congregation described as biting and envying one another: a person caught in a trespass is to be mended (katartizo, the word for repairing a net or setting a bone) in gentleness, the restorer is warned in the singular that he stands in the same exposure, crushing weights (bare) are to be shared while each carries his own assigned load (phortion).",
+        "relevance": "The section does not address who determines salvation, but every instruction in it presupposes that the people addressed are genuine agents whose conduct is not fixed. Those the letter has consistently described as possessing the Spirit (3:2-5; 4:6; 5:18, 25) are the ones who can be 'caught in any trespass,' and the abrupt shift to the singular in 'watch yourself, lest you too be tempted' places the one doing the mending under the same live possibility of falling rather than above it. The neutral reading notes the future 'each will bear his own load' may look toward a final accounting, which would attach individual responsibility to an outcome; it also notes the tense may be a simple general future, so the eschatological weight is not certain.",
         "key_phrases": [
-            "if anyone is caught in any transgression",
-            "lest you too be tempted",
+            "if anyone is caught in any trespass",
+            "restore such a one in a spirit of gentleness",
+            "watch yourself, lest you too be tempted",
             "let each one test his own work",
-            "each will have to bear his own load"
+            "each will bear his own load"
         ],
         "confidence": "medium",
         "book": "Galatians",
         "chapter": 6
     },
     {
-        "reference": "6:6",
-        "section_title": "Supporting Those Who Teach",
-        "category": "NOT_APPLICABLE",
-        "summary": "Paul instructs those receiving oral teaching to share material goods with their teachers, establishing a reciprocal relationship of spiritual and material support.",
-        "book": "Galatians",
-        "chapter": 6,
-        "conventional_use": "",
-        "relevance": "",
-        "key_phrases": [],
-        "confidence": ""
-    },
-    {
-        "reference": "6:7-10",
-        "section_title": "The Sowing-Reaping Principle -- Flesh and Spirit in Eschatological Terms",
+        "reference": "6:6-10",
+        "section_title": "Sowing and Reaping",
         "category": "STRONG_LIBERTARIAN",
-        "conventional_use": "not_in_debate",
-        "summary": "Paul applies the agricultural principle of sowing and reaping to the flesh-Spirit contrast, declaring that sowing to the flesh reaps corruption while sowing to the Spirit reaps eternal life, and exhorting the community to persist in doing good since the harvest depends on not giving up.",
-        "relevance": "This passage directly addresses human choices as determinative of salvation outcomes, and it does so as the core of Paul's own argument. The sowing-reaping principle ('whatever one sows, that will he also reap') places the determining action squarely with the human agent: the person chooses the field (flesh or Spirit) and the harvest follows accordingly (corruption or eternal life). The neutral reading identifies this as the third in a series of warnings addressed to believers (alongside 5:4 and 5:21), all describing 'real possibilities' of forfeiting the inheritance. The conditional 'if we do not give up' in verse 9 makes perseverance -- a human action -- an explicit condition of receiving the eschatological harvest. The neutral reading concludes that 'the inheritance -- the kingdom of God, eternal life -- is genuine, but it is not automatically guaranteed regardless of subsequent choices.'",
+        "conventional_use": "cited_for_agency",
+        "summary": "The neutral reading presents the proverbial sowing-and-reaping principle — with its two standing components of correspondence and delay — applied to the flesh/Spirit contrast of chapter 5, so that what a person sows determines what he reaps, corruption from the flesh or eternal life from the Spirit, in a season not of his choosing and on the stated condition that he does not give out.",
+        "relevance": "This is the chapter's direct engagement with the question, and it is Paul's own argument rather than an illustration or aside. The neutral reading stresses that both harvests use the same verb in the same tense and both follow from what was sown, so that eternal life is stated 'as a crop reaped, which is to say as something arrived at rather than something held from the beginning and merely retained' — the sower is the human agent and the outcome corresponds to his sowing. It further notes that 'the conditional is explicit and Paul does not soften it': the harvest comes in its season if we do not give out, a promise with a condition attached and both halves stated. Set beside 5:4 and 5:21, the reading identifies three warnings of a single shape — a connection severed, an inheritance not entered, a harvest not brought in — none of which describes a possession confiscated. The one qualification: the field sown to is the Spirit, so the crop is not represented as a human product, and 'do not be deceived: God is not mocked' locates the guarantee of correspondence in God rather than in the sower; but nothing here removes the determination of which field is sown from the person doing the sowing.",
         "key_phrases": [
-            "whatever one sows, that will he also reap",
+            "do not be deceived: God is not mocked",
+            "whatever a man sows, that he will also reap",
             "the one who sows to his own flesh will from the flesh reap corruption",
             "the one who sows to the Spirit will from the Spirit reap eternal life",
-            "if we do not give up",
-            "God is not mocked"
+            "we will reap, if we do not give up",
+            "let us not grow weary in doing good"
         ],
         "confidence": "high",
         "book": "Galatians",
         "chapter": 6
     },
     {
-        "reference": "6:11-17",
-        "section_title": "Paul's Handwritten Summary -- The Cross Against Circumcision",
+        "reference": "6:11-18",
+        "section_title": "The Postscript in Paul's Own Hand",
         "category": "LEANS_LIBERTARIAN",
         "conventional_use": "not_in_debate",
-        "summary": "Paul takes the pen himself to expose the agitators' motives as vanity and cowardice, declares his sole boast in the cross through which the world-system has been crucified, announces that what matters is neither circumcision nor uncircumcision but 'new creation,' and presents his own bodily scars as the marks of Jesus contrasted with the circumcision marks the agitators promote.",
-        "relevance": "The section is primarily about identity markers (cross vs. circumcision) rather than directly about who determines salvation, but its logic presupposes genuine human agency throughout. The agitators choose to compel circumcision; the Galatians face a real decision with real consequences; Paul chooses to boast in the cross. The command to 'walk by this rule' (v. 16) assumes the Galatians can choose to align with the new creation standard or not. While 'new creation' (kaine ktisis) is God's eschatological act, participation in it is framed throughout the letter as contingent on faith -- a genuine human response -- not on unilateral divine selection. The entire rhetorical force of the passage depends on the Galatians being genuine agents whose decision matters.",
+        "summary": "The neutral reading presents Paul's handwritten closing as his own compressed summary of the letter — the other teachers' motive in compelling circumcision, boasting, the cross through which the world has been crucified to him, 'neither circumcision nor uncircumcision but a new creation,' a blessing on those who walk by this rule and on the Israel of God, and his own scars answering the mark the rite was offered to make.",
+        "relevance": "The postscript is about what counts and what may be boasted in, not about who determines salvation, and it makes no statement either way about the origin of a person's standing. What bearing it has is indirect: the whole closing argues against a course of action the readers have not yet taken (the reading notes the circumcision has not yet happened at 5:2 and the desertion is still in progress), and the blessing is pronounced on 'as many as will walk in line by this rule' — an alignment described as something people do. Two cautions the neutral reading supports. 'New creation' (kaine ktisis) is sometimes drawn into arguments for a unilateral divine act, but the reading leaves the phrase genuinely undecided between the renewed order and the person made new, notes that 2 Corinthians 5:17 supplies no verb of its own, and never specifies an agent — so nothing about who effects it can be taken from this verse. And 'the Israel of God' is a question of corporate identity turning on a single conjunction, not a statement about individual salvation; the reading declines to settle it and shows the epexegetic reading carries an unpaid burden of proof.",
         "key_phrases": [
+            "they would compel you to be circumcised",
+            "far be it from me to boast, except in the cross of our Lord Jesus Christ",
             "neither circumcision counts for anything, nor uncircumcision, but a new creation",
-            "all who walk by this rule",
-            "who would force you to be circumcised",
-            "far be it from me to boast except in the cross"
+            "as for all who walk by this rule",
+            "I bear on my body the marks of Jesus"
         ],
-        "confidence": "medium",
+        "confidence": "low",
         "book": "Galatians",
         "chapter": 6
-    },
-    {
-        "reference": "6:18",
-        "section_title": "The Final Benediction",
-        "category": "NOT_APPLICABLE",
-        "summary": "Paul closes the letter with a prayer that the grace of the Lord Jesus Christ be with the Galatians' spirit, maintaining the familial address 'brothers' despite the letter's severity.",
-        "book": "Galatians",
-        "chapter": 6,
-        "conventional_use": "",
-        "relevance": "",
-        "key_phrases": [],
-        "confidence": ""
     },
     {
         "reference": "1:1-2a",
