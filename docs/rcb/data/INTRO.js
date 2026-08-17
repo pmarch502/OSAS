@@ -139,7 +139,7 @@ published translation receives, and no committee stands behind them.</p>
 <p>Read it as what it is: a serious attempt at restoring first-century context to
 the New Testament, published openly so the method and every source can be checked.
 The method, the prompts, the corrections log and all source materials are at
-<a href="https://github.com/pmarch502/OSAS">github.com/pmarch502/OSAS</a>.</p>
+<a href="https://github.com/pmarch502/RCB">github.com/pmarch502/RCB</a>.</p>
 
 <div class="rcb-intro-start">
 <p>Choose a book from the toolbar to begin reading.</p>
