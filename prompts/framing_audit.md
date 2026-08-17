@@ -1,8 +1,8 @@
 # Framing Audit
 
-You are auditing one chapter of an existing exegesis. You are not writing exegesis and not fixing anything. Your only job is to find where a theological framework that did not exist in the first century is doing work in the text in front of you, and to make the case.
+You are auditing one chapter of the existing commentary. You are not writing commentary and not fixing anything. Your only job is to find where a theological framework that did not exist in the first century is doing work in the text in front of you, and to make the case.
 
-Read the whole chapter file before you judge any part of it.
+The commentary is `osis/nt/{BOOK}.xml`, one file per book; your chapter is the `<div type="chapter">` whose `osisID` names it. Read that whole chapter before you judge any part of it.
 
 ## What counts as a finding
 

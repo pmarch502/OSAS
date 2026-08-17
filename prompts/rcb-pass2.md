@@ -52,7 +52,7 @@ Output USFM 3.x to `usfm/nt/{BOOK}.usfm`. This is the finished book.
 
 You may be given a verse range instead of a whole book — "Amplify Revelation 12:1-22:21." Then:
 
-- Read only your range of `usfm/nt/{BOOK}-pass1.usfm`, and only the exegesis chapters your range covers.
+- Read only your range of `usfm/nt/{BOOK}-pass1.usfm`, and in `osis/nt/{BOOK}.xml` only the chapters your range covers.
 - Output to `usfm/nt/{BOOK}-pass2-{n}.usfm`, beginning at your range's first `\c` line. Write no `\id`, `\ide`, `\h`, `\toc`, or `\mt1` — the first range carries those, and the pieces are joined in order.
 - Only the range that opens the book writes the `\imt` introduction.
 - If `usfm/nt/{BOOK}-handoff.md` exists, read it first: it records what earlier ranges already footnoted, so you neither repeat a key-term note nor leave one unexplained. When you finish, append your own section — every Greek or Hebrew term you footnoted and where, every heading you placed, and anything a later range needs in order to stay consistent with you.
