@@ -853,114 +853,8 @@
 
 <script src="rcb/data/index.js"></script>
 <script src="commentary/osis.js"></script>
+<script src="rcb/usfm.js"></script>
 <script>
-function slugify(text) {
-  return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
-}
-
-function parseUSFM(usfm) {
-  const lines = usfm.split('\n');
-  let html = '';
-  let bookTitle = '';
-  let inIntro = false;
-  let introHtml = '';
-  let inParagraph = false;
-  let currentChapter = 0;
-
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i].trim();
-    if (!line) continue;
-
-    if (line.startsWith('\\id ') || line.startsWith('\\toc')) continue;
-    if (line.startsWith('\\h ')) {
-      bookTitle = line.substring(3).trim();
-      continue;
-    }
-    if (line.startsWith('\\mt1 ')) {
-      html += '<div class="book-title">' + line.substring(5).trim() + '</div>';
-      continue;
-    }
-
-    if (line.startsWith('\\imt ')) {
-      inIntro = true;
-      introHtml = '';
-      continue;
-    }
-    if (line.startsWith('\\ip ')) {
-      introHtml += '<p>' + renderInline(line.substring(4).trim()) + '</p>';
-      continue;
-    }
-
-    if (line.startsWith('\\c ')) {
-      if (inIntro) {
-        html += '<div class="intro">' + introHtml + '</div>';
-        inIntro = false;
-      }
-      if (inParagraph) {
-        html += '</div>';
-        inParagraph = false;
-      }
-      currentChapter = parseInt(line.substring(3).trim());
-      noteCounter = 0;
-      html += '<span class="chapter-num" id="ch' + currentChapter + '">' + currentChapter + '</span>';
-      continue;
-    }
-
-    if (line.startsWith('\\s1 ')) {
-      if (inParagraph) {
-        html += '</div>';
-        inParagraph = false;
-      }
-      var headingText = line.substring(4).trim();
-      var id = 'ch' + currentChapter + '-' + slugify(headingText);
-      html += '<div class="section-heading" id="' + id + '">' + renderInline(headingText) + '</div>';
-      continue;
-    }
-
-    if (line === '\\p') {
-      if (inParagraph) {
-        html += '</div>';
-      }
-      html += '<div class="paragraph">';
-      inParagraph = true;
-      continue;
-    }
-
-    if (line.startsWith('\\v ')) {
-      const rest = line.substring(3).trim();
-      const spaceIdx = rest.indexOf(' ');
-      const verseNum = rest.substring(0, spaceIdx);
-      const verseText = rest.substring(spaceIdx + 1);
-      html += '<span class="verse-num" id="v' + currentChapter + '-' + verseNum + '">' + verseNum + '</span>' + renderInline(verseText) + ' ';
-      continue;
-    }
-  }
-
-  if (inParagraph) html += '</div>';
-  if (inIntro) html += '<div class="intro">' + introHtml + '</div>';
-
-  document.getElementById('toolbar-book').textContent = bookTitle;
-  return html;
-}
-
-let noteCounter = 0;
-
-function renderInline(text) {
-  text = text.replace(/\\u([0-9a-fA-F]{4})/g, function(_, hex) { return String.fromCharCode(parseInt(hex, 16)); });
-
-  text = text.replace(/\\f \+ \\fr ([^ ]+) \\ft (.*?)\\f\*/g, function(match, ref, noteText) {
-    noteCounter++;
-    var letter = String.fromCharCode(96 + ((noteCounter - 1) % 26) + 1);
-    var safeText = noteText.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;').replace(/</g, '&lt;');
-    safeText = safeText.replace(/\\tl\s+(.*?)\\tl\*/g, '<em>$1</em>');
-    return '<span class="note-marker" data-note="' + safeText + '" onclick="showNote(event, this)" onmouseenter="showNoteHover(event, this)" onmouseleave="hideNoteHover()">' + letter + '</span>';
-  });
-
-  text = text.replace(/\\add\s+(.*?)\\add\*/g, '<span class="restoration">$1</span>');
-  text = text.replace(/\\tl\s+(.*?)\\tl\*/g, '<em>$1</em>');
-
-  return text;
-}
 
 // Truncate HTML without cutting inside a tag or an entity, and close any open <em>.
 function truncateHtml(html, max) {
@@ -1788,7 +1682,12 @@ if (bookCode === 'INTRO') {
   var script = document.createElement('script');
   script.src = 'rcb/data/' + bookCode + '.js';
   script.onload = function() {
-    document.getElementById('content').innerHTML = parseUSFM(USFM);
+    // Bible.parse returns the title rather than writing it into the toolbar,
+    // so the renderer can also run on a page that has no toolbar -- the
+    // editor's preview. Placing it is the caller's job now.
+    var book = Bible.parse(USFM);
+    document.getElementById('content').innerHTML = book.html;
+    document.getElementById('toolbar-book').textContent = book.title;
 
     // Settle the layout before resolving the hash. Showing the commentary
     // narrows the reading column, and a column laid out at one width then
