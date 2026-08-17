@@ -17,3 +17,9 @@ usfm/nt/*-pass2-*.usfm
 usfm/nt/*-handoff.md
 docs/rcb/data/*-pass1.js
 docs/rcb/data/*-pass2.js
+
+# The conversation records behind the exegesis - kept locally, not published
+conversations/
+
+# Framing audit output - reports only, never a source
+audits/
