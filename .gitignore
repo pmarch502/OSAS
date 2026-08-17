@@ -23,3 +23,6 @@ conversations/
 
 # Framing audit output - reports only, never a source
 audits/
+
+# Python bytecode
+__pycache__/

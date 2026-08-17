@@ -58,6 +58,44 @@ a{color:var(--accent)}
 .nav-bottom{border-bottom:none;border-top:1px solid var(--border);padding:16px 0 0;margin-top:28px;margin-bottom:0}"""
 
 
+# A chapter-qualified verse range: '7:53-8:11', '12:18-13:2', '8:3-11', '3:16'.
+# The end may drop the chapter when it does not change.
+CHAPTER_QUALIFIED = re.compile(
+    r"\d+:\d+[ab]?(?:\s*[-–]\s*(?:\d+:)?\d+[ab]?)?")
+TRAILING = re.compile(r"^[):\s]*$")
+LAST_WORD = re.compile(r"([A-Za-z]+)\s*$")
+CQ_LEAD = re.compile(r"^(?:Verses?\s+)?\d+:\d+", re.I)
+# The plain form, which must not require a colon straight after the range:
+# 'Verses 31-33 and 11:1:' and 'Verses 18-25 (through 4:1):' are both real
+# section headings, and demanding the colon left them with no id at all -- so
+# the checker saw the section and the pane did not.
+PLAIN = re.compile(r"^Verses?\s+(\d+[ab]?(?:\s*[-–]\s*\d+[ab]?)?)", re.I)
+
+
+def about_range(title):
+    """The chapter-qualified range a heading is *about*, or None.
+
+    Mirrors cq_anywhere() in check_pane_coverage.py, and the two must agree:
+    this decides whether the heading gets an id, and without an id the pane
+    never looks at the section at all.
+
+    The range has to open or close the heading -- 'The Lost Sheep (15:4-7)',
+    'A Note on 7:53-8:11' -- and must not follow a capitalised word, which is
+    how a cross-reference names its book. 'The Fulfillment of Acts 1:8' is a
+    heading inside Acts 10 and is not a section on Acts 1.
+    """
+    for m in CHAPTER_QUALIFIED.finditer(title):
+        before, after = title[:m.start()], title[m.end():]
+        at_start = before.strip().lower() in ("", "verse", "verses")
+        if not (at_start or TRAILING.match(after)):
+            continue
+        w = LAST_WORD.search(before)
+        if w and w.group(1)[0].isupper():
+            continue
+        return m
+    return None
+
+
 def flat(book, chapter):
     """('Galatians', 1) -> 'Galatians_01'"""
     return "%s_%02d" % (book, chapter)
@@ -90,10 +128,41 @@ def inline(text):
     return text
 
 
-def heading_id(title):
-    """'Verses 16b-18: The Sign' -> '16b-18'. Non-verse headings get no id."""
-    m = re.match(r"Verses?\s+([0-9][0-9a-z:.\-–]*)\s*:", title)
-    return m.group(1) if m else None
+def heading_id(title, chapter):
+    """'Verses 16b-18: The Sign' -> '16b-18'. Non-verse headings get no id.
+
+    A heading may also carry a chapter-qualified range anywhere in its text --
+    'A Note on 7:53-8:11', 'The Lost Sheep (15:4-7)' -- and those get an id
+    too. Without one the pane skips the heading entirely, because it queries
+    h2[id], which is how a fully written section came to be reported as
+    missing analysis.
+    """
+    if CQ_LEAD.match(title):
+        m = CHAPTER_QUALIFIED.search(title)
+        if m:
+            return qualified_id(m, chapter)
+    m = PLAIN.match(title)
+    if m:
+        return re.sub(r"\s+", "", m.group(1))
+    m = about_range(title)
+    return qualified_id(m, chapter) if m else None
+
+
+def qualified_id(m, chapter):
+    """'(2:1-12)' in Matthew 2 -> '1-12'; 'A Note on 7:53-8:11' -> '7.53-8.11'.
+
+    A range wholly inside the chapter it is written in keeps the bare verse
+    form, because that is what the reports build their anchors from --
+    exegesisHref() takes the part of '2:1-12' after the colon. Anything that
+    reaches into another chapter has to say so, and is dotted rather than
+    colon-separated to stay usable as a fragment and in a selector.
+    """
+    raw = re.sub(r"\s+", "", m.group(0)).replace("–", "-")
+    parts = raw.split("-")
+    chapters = set(p.split(":")[0] for p in parts if ":" in p)
+    if chapters == {str(chapter)}:
+        return "-".join(p.split(":")[-1] for p in parts)
+    return raw.replace(":", ".")
 
 
 def convert(book, chapter):
@@ -136,7 +205,7 @@ def convert(book, chapter):
         if line.startswith("## "):
             flush_para(); flush_list()
             text = line[3:].strip()
-            hid = heading_id(text)
+            hid = heading_id(text, chapter)
             attr = ' id="%s"' % hid if hid else ""
             body.append("<h2%s>%s</h2>" % (attr, inline(text)))
             continue

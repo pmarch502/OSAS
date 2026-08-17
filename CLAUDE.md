@@ -189,18 +189,26 @@ Two things it reads:
 - `docs/exegesis/nt/{Book}_{NN}.html`, fetched per chapter as the reader arrives. The section ranges come from the **heading text** (`Verses 16b-18:`), not the `id`, because the id holds only the first verse token of a split verse (`id="16"`). Parsing ids alone leaves 31 phantom gaps across the NT.
 - `docs/rcb/data/topics.js` for the verdict badges, lazy-loaded when the pane is first opened.
 
-**There is no nearest-section fallback**, deliberately. 13 of the RCB's 7,943 verses have no exegesis section, and the pane says so rather than showing a neighbouring passage's commentary as if it applied:
+**There is no nearest-section fallback**, deliberately. 1 of the RCB's 7,943 verses has no exegesis section, and the pane says so rather than showing a neighbouring passage's commentary as if it applied:
 
 | Passage | Why |
 |---|---|
-| John 7:53-8:11 | `John_07` ends at 7:52 and `John_08` starts at 8:12; the RCB carries the text |
-| Revelation 12:18 | NA28 numbers it separately; the exegesis treats it under 13:1 |
+| Revelation 12:18 | `Revelation_13` discusses the clause, Greek and both textual traditions — but under "Context and Placement", which carries no verse range, so no section claims the verse |
 
-Both are places the RCB followed the printed NA28 and the exegesis did not go. **Neither is a chapter with missing analysis, and no such chapter is known.**
+**No chapter with missing analysis is known.** Closing this last one is an authoring decision, not a parser change: either Revelation 13's first heading grows to cover 12:18, or Revelation 12 gains a short closing section.
 
 Verify with `python scripts/check_pane_coverage.py`. It walks every verse in every `usfm/nt/{BOOK}.usfm` against the exegesis section ranges and exits non-zero on any uncovered verse not in its expected list — so a new exegesis chapter, or an edit that renames a heading, gets caught. Run it after any change to an exegesis file's `<h2>` headings.
 
-**A reported gap is more likely a mislabelled heading than missing analysis.** Titus 2:7-10 sat on this list as "no section was written" until 2026-08-13, when it turned out the section covered 2-10 all along — subsections on the younger men (6-8) and on slaves (9-10) were both there — and only the `<h2>` said "Verses 2-6". The checker reads ranges from heading text, so the wrong heading invented a four-verse hole. Read the section body before commissioning a re-run. The assessments are a good cross-check: both had already assigned the passage (OSAS as `2:2-10`, determinism as `2:6-8` and `2:9-10`), because they read the text rather than the heading.
+**A reported gap is a suspect, not a finding.** Three times running it has been a heading the checker could not parse, sitting on top of analysis that was written all along:
+
+- **Titus 2:7-10**, until 2026-08-13. The section covered 2-10, with subsections on the younger men (6-8) and on slaves (9-10). Only the `<h2>` said "Verses 2-6".
+- **John 7:53-8:11**, until 2026-08-17. `John_08` carries a full reading of the passage — the entrapment between Rome's monopoly on capital sentences and Moses, the missing man of Deuteronomy 22:22, the witnesses casting first at Deuteronomy 17:7. Its heading is "A Note on 7:53-8:11", which did not begin "Verses", so `md_to_html.py` gave it no id at all and the pane never looked at it. CLAUDE.md recorded it as a place "the exegesis did not go". It had gone there.
+
+Read the section body before commissioning a re-run, and check the neighbouring chapter's file — analysis of a passage straddling a chapter boundary is written in one file and belongs to both. The assessments are a good cross-check: for Titus both had already assigned the passage (OSAS as `2:2-10`, determinism as `2:6-8` and `2:9-10`), because they read the text rather than the heading.
+
+**What the heading parser accepts**, since a heading that misses it becomes an invisible section. `Verses 13-18:` and `Verse 12:` as always; `Verses 16b-18:` with the part-verse; a chapter-qualified range for a passage that crosses a chapter boundary (`A Note on 7:53-8:11`, `Verses 12:18-13:2:`); and a trailing parenthesised range, which is how Matthew 2 and Luke 15 head every one of their sections (`The Lost Sheep (15:4-7)`). A chapter-qualified range must open or close the heading and must not follow a capitalised word — that is how a cross-reference names its book, so `The Fulfillment of Acts 1:8` inside Acts 10 is correctly *not* read as a section on Acts 1. The same rule is implemented three times — `scripts/md_to_html.py`, `scripts/check_pane_coverage.py`, and `parseHeadingRange()` in `docs/index.html` — and all three must agree or the checker and the pane will disagree about what exists.
+
+**`md_to_html.py` does not round-trip the existing HTML.** It was written after the 260 chapters were published and has only ever been run on Galatians. Regenerating the whole corpus with it rewrites far more than headings (Acts 12 alone shifts 55 lines). Fix a heading by editing the `<h2>` in the HTML, not by regenerating the file, unless you intend to review the whole diff.
 
 ### Book identifiers and abbreviations
 
