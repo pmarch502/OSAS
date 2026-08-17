@@ -45,7 +45,7 @@
 ## Production Process
 - **Prompts**: `prompts/rcb-pass1.md` (translation), then `prompts/rcb-pass2.md` (amplification, intro, headings)
 - Translation and restorations are produced in two separate passes, a whole book at a time. Pass 1 is frozen before pass 2 runs; pass 2 writes the finished `{BOOK}.usfm`
-- Primary reference: exegesis files in `exegesis/nt/` (260 chapters of first-century contextual analysis)
+- Primary reference: the commentary in `osis/nt/{BOOK}.xml` (260 chapters of first-century contextual analysis, one file per book). Until 2026-08-17 this was `exegesis/nt/*.md`, one file per chapter
 - Output: `usfm/nt/{BOOK}.usfm` (three-letter book code)
 - Galatians is the proof of concept and reference example
 
