@@ -1,4 +1,4 @@
-# Bible Study Project — Directory Structure
+# RCB — Directory Structure
 
 ## Overview
 
@@ -7,7 +7,7 @@ This project builds a neutral first-century exegetical foundation for the entire
 ## Directory Layout
 
 ```
-BibleStudy/
+RCB/
 ├── prompts/
 │   ├── neutral_reading.md              Shared prompt for all exegesis
 │   ├── osas.md                         OSAS assessment prompt

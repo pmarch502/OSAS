@@ -350,10 +350,20 @@ House format, for hand edits:
 
 ## Hosting
 
-- GitHub repo: `pmarch502/OSAS` (public)
+- GitHub repo: `pmarch502/RCB` (public). Renamed from `OSAS` on 2026-08-17; GitHub
+  redirects the old URL, so older clones and links still resolve
 - Hosted on **Cloudflare Pages** at `osas-eu8.pages.dev`
 - Auto-deploys from `main` branch, build output directory: `docs/`
 - GitHub Pages is disabled (was flaky with 260+ static files)
+
+The Pages URL still carries the old name. A Cloudflare Pages project cannot be
+renamed in place, and the author's decision (2026-08-17) is to leave it until
+there is a real product, then put a bought domain in front of it — which makes
+the Pages project name permanently irrelevant rather than fixing it twice.
+
+**`OSAS` remains the name of the *topic*.** `assessments/nt-osas/`,
+`docs/reports/osas/`, `prompts/osas.md` and the report's own title are the
+doctrine under assessment, not the project, and none of them change.
 
 ## Agent pacing
 
