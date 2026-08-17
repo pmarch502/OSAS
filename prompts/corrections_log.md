@@ -237,3 +237,47 @@ leaning on Galatians for a reading Galatians no longer holds. The rest are
 inert citations — Abba at Romans 8, "by nature not gods" at Ephesians 2,
 `kopiaō` at Colossians 1 and 1 Timothy 4, "fallen from grace" at 2 Peter 3 —
 and none asserts a reading the rewrite overturned.
+
+## Revelation 12:18 — the dragon on the sand, put back in chapter 12 (2026-08-17)
+
+**Problem:** the clause "And he stood on the sand of the sea" had no section of
+its own anywhere. It was discussed in `Revelation_13`, in the opening "Context
+and Placement" paragraph, which carries no verse range — so the coverage
+checker counted the verse as uncovered and the commentary pane showed nothing
+for it.
+
+The deeper issue was not the missing range but the chapter. Treating the clause
+as an introduction to chapter 13 is the Textus Receptus framing, where it is
+13:1a and reads `estathēn` — "and *I* stood on the sand of the sea," the seer
+taking his position. The RCB follows the earlier witnesses: `estathē`, third
+person, the *dragon* stands. On that reading it is the last beat of chapter 12
+and belongs where NA28 numbers it. The exegesis was carrying a versification
+the project does not use.
+
+**Outcome:** `Revelation_12`'s closing section extended from 13-17 to 13-18,
+its heading now "The Dragon Pursues the Woman and Her Offspring, and Takes His
+Station". Three paragraphs added: `estathē` as taking up a position rather than
+an idle posture, the sand as the boundary the beast is about to come up over
+(13:1, with Daniel 7:2-3 behind it), verse 18 completing verse 17's "he went
+off" by saying where he went, and the dragon equipping the beast rather than
+becoming it (13:2). The variant is stated rather than passed over.
+
+Both md and html edited by hand.
+
+**Ripple:** none needed. `Revelation_13`'s context paragraph already names both
+traditions ("12:18, or 13:1a in some textual traditions") and is accurate as
+context, so it stands.
+
+**Assessment impact:** the last section's reference in both topics moves
+`12:13-17` to `12:13-18`, and the section title follows. **Neither verdict was
+re-run**: a dragon taking his stand on a beach bears on neither the permanence
+question nor the determinism question, so the content behind the categories is
+unchanged. Both `data.js` regenerated and `gen_topics_index.py` re-run.
+
+**RCB impact:** none. The RCB already had the verse, the numbering, and a
+restoration ("at the water's edge, waiting for what is about to come up out of
+it"). The exegesis has now caught up to it.
+
+**Coverage:** `check_pane_coverage.py` goes to **7,943 of 7,943, 100.00%**, and
+its expected-gap list is now empty. Every verse of the RCB has commentary
+behind it.

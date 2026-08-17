@@ -46,11 +46,12 @@ BOOKS = {
     '3JN': '3John', 'JUD': 'Jude', 'REV': 'Revelation',
 }
 
-# Verses the RCB carries that no exegesis section covers.
+# Verses the RCB carries that no exegesis section covers. Empty, and it should
+# stay that way -- every verse of the RCB now has commentary behind it.
 #
-# Treat every entry here as a suspect, not a finding. Three times running, a
-# reported gap has turned out to be a heading this checker could not parse
-# sitting on top of analysis that was written all along:
+# Treat any entry that appears here as a suspect, not a finding. Three times
+# running, a reported gap turned out to be a heading this checker could not
+# parse sitting on top of analysis that was written all along:
 #
 #   Titus 2:7-10        the section covered 2-10, with subsections on the
 #                       younger men (6-8) and on slaves (9-10). Only its
@@ -65,19 +66,19 @@ BOOKS = {
 #                       here as the exegesis having "not gone there".
 #                       Fixed 2026-08-17.
 #
+#   Revelation 12:18    the clause was discussed in Revelation_13, under
+#                       "Context and Placement", which carries no verse range.
+#                       That was the Textus Receptus framing, where the clause
+#                       is 13:1a and the one standing is the seer. The RCB
+#                       follows the earlier witnesses -- the dragon stands, and
+#                       it is the last beat of chapter 12 -- so the section was
+#                       written where the verse is numbered and Revelation 12's
+#                       closing section now runs 13-18. Fixed 2026-08-17.
+#
 # Read the section body before believing a gap, and check the neighbouring
 # chapter's file -- analysis of a passage that straddles a chapter boundary is
 # written in one file and belongs to both.
-#
-# Revelation 12:18 is the one genuine entry, and it is still not missing
-# analysis: Revelation_13 opens by discussing the clause, with the Greek and
-# both textual traditions. But it discusses it under "Context and Placement",
-# which carries no verse range by design, so no section claims the verse.
-# Closing it means an authoring decision, not a parser change.
-EXPECTED = {
-    'REV 12:18': 'discussed in Revelation_13 under "Context and Placement", '
-                 'which carries no verse range',
-}
+EXPECTED = {}
 
 
 def cq_anywhere(text):

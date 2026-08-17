@@ -23448,8 +23448,8 @@ const DATA = [
         "chapter": 12
     },
     {
-        "reference": "12:13-17",
-        "section_title": "The Dragon Pursues the Woman and Her Offspring",
+        "reference": "12:13-18",
+        "section_title": "The Dragon Pursues the Woman and Her Offspring, and Takes His Station",
         "category": "LEANS_CONDITIONAL",
         "conventional_use": "not_in_debate",
         "summary": "The neutral reading narrates the dragon's failed pursuit of the woman and his redirection of fury toward the rest of her offspring, defined as those who keep the commandments of God and hold to the testimony of Jesus.",
