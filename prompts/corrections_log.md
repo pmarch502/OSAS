@@ -2,6 +2,8 @@
 
 Record of passages returned to Claude for re-analysis. Each entry documents what was flagged, the question sent, and the outcome.
 
+Entries before 2026-08-17 name files under `exegesis/nt/` and `docs/exegesis/nt/`. Those are gone — the commentary became `osis/nt/{BOOK}.xml` on that date. The paths are left as written because this is a record of what was done at the time, not a description of the tree as it stands.
+
 ---
 
 ## Format
@@ -9,7 +11,7 @@ Record of passages returned to Claude for re-analysis. Each entry documents what
 ```
 ### [Book Chapter]:[Verse(s)] — [Short description]
 **Date:** YYYY-MM-DD
-**File:** exegesis/nt/[filename].md — or usfm/nt/[BOOK].usfm for an RCB correction
+**File:** osis/nt/[BOOK].xml — or usfm/nt/[BOOK].usfm for an RCB correction
 **Problem:** [What the original analysis got wrong or missed]
 **Question sent:** [The specific textual question given to Claude via the correction prompt]
 **Outcome:** [What Claude's re-analysis concluded — corrected / revised / original reading upheld]

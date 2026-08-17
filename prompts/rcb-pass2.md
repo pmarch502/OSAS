@@ -8,7 +8,7 @@ Read these two files first:
 
 - `usfm/nt/{BOOK}-pass1.usfm` — the translation you are amplifying.
 - `usfm/nt/{BOOK}-pass1-notes.md` — what the translator knew and the translation cannot show: readings that differ from the familiar English, words a reader expects that the critical text does not have, places where English had to pick one of two open readings.
-- `exegesis/nt/{Book}_*.md` — the neutral readings for every chapter of the book. This is where your context comes from. Do not supply context they do not support.
+- `osis/nt/{BOOK}.xml` — the commentary on every chapter of the book, in OSIS. This is where your context comes from. Do not supply context it does not support. Each `<div type="section">` names the passage it covers in its `annotateRef`, so you can find the section covering a verse rather than reading the whole book; a section whose reference is a bare chapter (`Rom.8`) is about the chapter as a whole.
 
 Every item in the notes file gets a footnote. It is the one input you may not exercise judgment about leaving out — the reader it serves is the one who knows the familiar wording by heart and meets your text without it. Where the conventional rendering is not merely different but wrong, say that it is what most translations do; do not call it an alternative, which implies a live option. The notes change nothing in the base text, which is frozen exactly as below.
 

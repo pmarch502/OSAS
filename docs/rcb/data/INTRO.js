@@ -41,7 +41,7 @@ toolbar hides every one of them and leaves the bare translation.</p>
 renderings &mdash; the material that would break the reading if it were set inline.</p>
 
 <p>The <em>Commentary</em> button opens a panel beside the text carrying a
-verse-by-verse exegesis of whatever passage you are reading, drawn from a study of
+verse-by-verse commentary on whatever passage you are reading, drawn from a study of
 all 260 chapters of the New Testament. At the top of that panel one line reports
 whether either topical assessment has anything to say about the passage in front of
 you; opening it shows the verdict and links to the full report.</p>
@@ -111,7 +111,7 @@ knows he can rescue a hard sentence later with a bracket will lean on it. All 27
 books were translated whole rather than in pieces, because what a word means for a
 writer can only be judged across everything he wrote.</p>
 
-<h2 class="rcb-intro-h">The exegesis</h2>
+<h2 class="rcb-intro-h">The commentary</h2>
 
 <p>Every chapter of the New Testament receives a first-century textual reading:
 what does the text say, and what would its original audience have heard? The
@@ -129,7 +129,7 @@ textual question.</p>
 
 <h2 class="rcb-intro-h">Who made this</h2>
 
-<p>The translation, the restorations, the exegesis and the assessments were all
+<p>The translation, the restorations, the commentary and the assessments were all
 produced by Claude, an AI model made by Anthropic, working from the Greek text and
 from the prompts and method recorded in the project repository. They are reviewed
 by the project's author for factual error and overlooked evidence, and corrected

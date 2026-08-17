@@ -48,7 +48,7 @@ def load(topic):
 def verse_range(reference, chapter):
     """Parse '8:28-30' or '7:53-8:11' into (start_ch, start_v, end_ch, end_v).
 
-    Matthew 13's exegesis uses '1-3a'/'3b-9', so trailing letters are stripped.
+    Matthew 13's commentary uses '1-3a'/'3b-9', so trailing letters are stripped.
     A reference with no colon is treated as covering the whole chapter.
     """
     ref = str(reference).strip()

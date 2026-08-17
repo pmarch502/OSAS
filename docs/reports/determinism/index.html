@@ -64,8 +64,8 @@ tr:hover { background: var(--hover-bg); }
 .conf-medium { color: var(--medium); }
 .conf-low { color: var(--low); }
 .conv-badge { font-size: 0.75rem; padding: 1px 6px; border-radius: 3px; border: 1px solid var(--border); white-space: nowrap; }
-.exegesis-link { font-size: 0.78rem; color: var(--link); text-decoration: none; white-space: nowrap; }
-.exegesis-link:hover { text-decoration: underline; }
+.ref-link { font-size: 0.78rem; color: var(--link); text-decoration: none; white-space: nowrap; }
+.ref-link:hover { text-decoration: underline; }
 .filters { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px; align-items: flex-end; }
 .filters select, .filters input { padding: 6px 10px; border: 1px solid var(--border); border-radius: 4px; background: var(--card-bg); color: var(--fg); font-size: 0.85rem; }
 .filters input { width: 220px; }
@@ -185,20 +185,11 @@ function normBook(b) {
   return b.replace(/^(\d)([A-Z])/, '$1 $2');
 }
 
-function exegesisHref(book, chapter, reference) {
-  var slug = (book || '').replace(/\s/g, '');
-  var ch = String(chapter || 1).padStart(2, '0');
-  var frag = '';
-  if (reference) {
-    var colonIdx = reference.indexOf(':');
-    if (colonIdx >= 0) frag = '#' + reference.substring(colonIdx + 1);
-  }
-  return '../../exegesis/nt/' + slug + '_' + ch + '.html' + frag;
-}
-
-function exegesisLink(book, chapter, reference) {
-  return '<a class="exegesis-link" href="' + exegesisHref(book, chapter, reference) + '" target="_blank" title="View neutral reading for ' + book + ' ' + chapter + '">Exegesis</a>';
-}
+/* exegesisHref()/exegesisLink() used to build a path into
+   docs/exegesis/nt/{Book}_{NN}.html. Those files are gone; the
+   commentary is OSIS now, read through one viewer. commentaryLink()
+   lives in ../../rcb/books.js beside rcbLink(), so both links into a
+   passage are defined once for every report. */
 
 /* RCB_BOOKS and rcbLink() live in ../../rcb/books.js (loaded above) */
 
@@ -462,14 +453,14 @@ function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').re
     '<th data-sort="title">Section<span class="sort-arrow"></span></th>' +
     '<th data-sort="conf">Conf.<span class="sort-arrow"></span></th>' +
     '<th data-sort="conv">Conv.<span class="sort-arrow"></span></th>' +
-    '<th>Summary</th><th>Exegesis</th><th></th>' +
+    '<th>Summary</th><th>Commentary</th><th></th>' +
     '</tr></thead><tbody>';
   strongLib.forEach(function(s, idx) {
     html += '<tr data-orig-idx="' + idx + '" data-ref="' + s.book + ' ' + s.reference + '" data-title="' + escHtml(s.section_title) + '" data-conf="' + ({high:0,medium:1,low:2}[s.confidence]||3) + '" data-conv="' + (s.conventional_use||'') + '">';
     html += '<td><strong>' + s.book + ' ' + s.reference + '</strong></td><td>' + escHtml(s.section_title) + '</td>';
     html += '<td>' + confSpan(s.confidence) + '</td><td>' + convBadge(s.conventional_use) + '</td>';
     html += '<td style="max-width:400px">' + escHtml(s.summary) + '</td>';
-    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>';
+    html += '<td>' + commentaryLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>';
     html += '<td>' + (s.relevance ? '<button class="expand-btn" data-arr="sl" data-aidx="' + idx + '">&#9654;</button>' : '') + '</td>';
     html += '</tr>';
   });
@@ -491,14 +482,14 @@ function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').re
     '<th data-sort="title">Section<span class="sort-arrow"></span></th>' +
     '<th data-sort="conf">Conf.<span class="sort-arrow"></span></th>' +
     '<th data-sort="conv">Conv.<span class="sort-arrow"></span></th>' +
-    '<th>Summary</th><th>Exegesis</th><th></th>' +
+    '<th>Summary</th><th>Commentary</th><th></th>' +
     '</tr></thead><tbody>';
   leansDet.forEach(function(s, idx) {
     html += '<tr data-orig-idx="' + idx + '" data-ref="' + s.book + ' ' + s.reference + '" data-title="' + escHtml(s.section_title) + '" data-conf="' + ({high:0,medium:1,low:2}[s.confidence]||3) + '" data-conv="' + (s.conventional_use||'') + '">';
     html += '<td><strong>' + s.book + ' ' + s.reference + '</strong></td><td>' + escHtml(s.section_title) + '</td>';
     html += '<td>' + confSpan(s.confidence) + '</td><td>' + convBadge(s.conventional_use) + '</td>';
     html += '<td style="max-width:400px">' + escHtml(s.summary) + '</td>';
-    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>';
+    html += '<td>' + commentaryLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>';
     html += '<td>' + (s.relevance ? '<button class="expand-btn" data-arr="ld" data-aidx="' + idx + '">&#9654;</button>' : '') + '</td>';
     html += '</tr>';
   });
@@ -520,14 +511,14 @@ function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').re
       '<th data-sort="title">Section<span class="sort-arrow"></span></th>' +
       '<th data-sort="conf">Conf.<span class="sort-arrow"></span></th>' +
       '<th data-sort="conv">Conv.<span class="sort-arrow"></span></th>' +
-      '<th>Summary</th><th>Exegesis</th><th></th>' +
+      '<th>Summary</th><th>Commentary</th><th></th>' +
       '</tr></thead><tbody>';
     strongDet.forEach(function(s, idx) {
       html += '<tr data-orig-idx="' + idx + '" data-ref="' + s.book + ' ' + s.reference + '" data-title="' + escHtml(s.section_title) + '" data-conf="' + ({high:0,medium:1,low:2}[s.confidence]||3) + '" data-conv="' + (s.conventional_use||'') + '">';
       html += '<td><strong>' + s.book + ' ' + s.reference + '</strong></td><td>' + escHtml(s.section_title) + '</td>';
       html += '<td>' + confSpan(s.confidence) + '</td><td>' + convBadge(s.conventional_use) + '</td>';
       html += '<td style="max-width:400px">' + escHtml(s.summary) + '</td>';
-      html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>';
+      html += '<td>' + commentaryLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>';
       html += '<td>' + (s.relevance ? '<button class="expand-btn" data-arr="sd" data-aidx="' + idx + '">&#9654;</button>' : '') + '</td>';
       html += '</tr>';
     });
@@ -578,14 +569,14 @@ function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').re
     '<th data-sort="title">Section<span class="sort-arrow"></span></th>' +
     '<th data-sort="conv">Conv. Use<span class="sort-arrow"></span></th>' +
     '<th data-sort="conf">Conf.<span class="sort-arrow"></span></th>' +
-    '<th>Summary</th><th>Exegesis</th><th></th>' +
+    '<th>Summary</th><th>Commentary</th><th></th>' +
     '</tr></thead><tbody>';
   misapplied.forEach(function(s, idx) {
     html += '<tr data-orig-idx="' + idx + '" data-ref="' + s.book + ' ' + s.reference + '" data-title="' + escHtml(s.section_title) + '" data-conv="' + (s.conventional_use||'') + '" data-conf="' + ({high:0,medium:1,low:2}[s.confidence]||3) + '">';
     html += '<td><strong>' + s.book + ' ' + s.reference + '</strong></td><td>' + escHtml(s.section_title) + '</td>';
     html += '<td>' + convBadge(s.conventional_use) + '</td><td>' + confSpan(s.confidence) + '</td>';
     html += '<td style="max-width:400px">' + escHtml(s.summary) + '</td>';
-    html += '<td>' + exegesisLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>';
+    html += '<td>' + commentaryLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>';
     html += '<td>' + (s.relevance ? '<button class="expand-btn" data-aidx="' + idx + '">&#9654;</button>' : '') + '</td>';
     html += '</tr>';
   });
@@ -647,7 +638,7 @@ function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').re
     '<th data-sort="cat">Category<span class="sort-arrow"></span></th>' +
     '<th data-sort="conf">Conf.<span class="sort-arrow"></span></th>' +
     '<th data-sort="conv">Conv.<span class="sort-arrow"></span></th>' +
-    '<th>Summary</th><th>Exegesis</th><th></th>' +
+    '<th>Summary</th><th>Commentary</th><th></th>' +
     '</tr></thead><tbody id="all-tbody"></tbody></table></div>';
   el.innerHTML = html;
 
@@ -683,7 +674,7 @@ function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').re
         '<td>' + confSpan(s.confidence) + '</td>' +
         '<td>' + convBadge(s.conventional_use) + '</td>' +
         '<td style="max-width:400px">' + escHtml(s.summary) + '</td>' +
-        '<td>' + exegesisLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>' +
+        '<td>' + commentaryLink(s.book, s.chapter, s.reference) + rcbLink(s.book, s.chapter, s.reference) + '</td>' +
         '<td>' + (s.relevance ? '<button class="expand-btn" data-sect-idx="' + i + '">&#9654;</button>' : '') + '</td>';
       tbody.appendChild(tr);
     });

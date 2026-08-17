@@ -1046,11 +1046,11 @@ document.addEventListener('click', function() {
 
 /* ==================== Commentary pane ====================
  *
- * The RCB, the exegesis and the two topical reports were built separately but
+ * The RCB, the commentary and the two topical reports were built separately but
  * share one key: a verse range. So the pane syncs on verse containment rather
  * than by matching section headings -- the RCB's \s1 divisions and the
- * exegesis's divisions agree most of the time but not always (Romans 8 breaks
- * at v9 in the RCB and v5 in the exegesis), and containment is immune to that.
+ * commentary's divisions agree most of the time but not always (Romans 8 breaks
+ * at v9 in the RCB and v5 in the commentary), and containment is immune to that.
  */
 
 // The commentary is keyed by the same USFM code as the Bible -- commentary/
@@ -1135,7 +1135,7 @@ function currentVerse() {
 /* ---- The reader's place ----
  *
  * A bookmark, not history. It exists so the front door can put the reader back
- * where they were: Home from an exegesis chapter returns to the passage they
+ * where they were: Home from a commentary chapter returns to the passage they
  * left rather than to a default book, and closing the tab and coming back the
  * next day keeps the place a physical ribbon would have kept.
  *

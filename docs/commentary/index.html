@@ -264,6 +264,28 @@ function render() {
   anchor();
 }
 
+/* The section covering the verse a fragment names, for a fragment that matches
+ * no section exactly.
+ *
+ * The reports and the commentary divide a chapter differently and always have:
+ * Matthew 6 is read as one section on 6:2-18, while the assessments carve out
+ * 6:14-15 as its own passage, so '#14-15' names nothing. Landing the reader at
+ * the top of the chapter in that case is a worse answer than landing them on
+ * the section that actually discusses verse 14. */
+function sectionCovering(frag) {
+  var m = /^(?:(\d+)\.)?(\d+)/.exec(frag);
+  if (!m || !data) return null;
+  var ch = m[1] ? parseInt(m[1], 10) : chapter;
+  var s = Commentary.findSection(data.sections, ch, parseInt(m[2], 10));
+  if (!s) return null;
+  var want = Commentary.sectionId(s);
+  var all = document.querySelectorAll('section');
+  for (var i = 0; i < all.length; i++) {
+    if (all[i].id === want || all[i].id.indexOf(want + '-') === 0) return all[i];
+  }
+  return null;
+}
+
 /* Resolve the fragment after the content exists -- a report links straight to
  * '#13-18', and the browser resolved that against an empty page.
  *
@@ -278,7 +300,8 @@ function render() {
  * the sticky toolbar, so "is the element at the top" is the wrong question. */
 function anchor() {
   if (!location.hash) return;
-  var el = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+  var frag = decodeURIComponent(location.hash.slice(1));
+  var el = document.getElementById(frag) || sectionCovering(frag);
   if (!el) return;
 
   if ('scrollRestoration' in history) history.scrollRestoration = 'manual';

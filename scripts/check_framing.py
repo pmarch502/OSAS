@@ -1,4 +1,4 @@
-"""Scan the neutral readings for post-first-century framing vocabulary.
+"""Scan the commentary for post-first-century framing vocabulary.
 
 This is NOT a bias detector, and passing it proves nothing about neutrality.
 It catches one specific failure: reaching for a category that only exists
@@ -16,8 +16,12 @@ Usage:
     python scripts/check_framing.py --context  # with surrounding text
 
 Every hit needs reading before it means anything. Most legitimate uses are the
-exegesis *refusing* the category ("this is not legalism but consistency") or
+commentary *refusing* the category ("this is not legalism but consistency") or
 quoting a text that contains it (James 2:24, "not by faith alone").
+
+A hit is reported against the section it sits in, not a line number: the source
+is osis/nt/{BOOK}.xml, where one file holds a whole book and a line number would
+say nothing useful.
 
 Two terms were tried and dropped as pure noise: "merit" (64 hits, nearly all
 "unmerited favor" glossing charis) and "forensic" (28, mostly actual Roman
@@ -28,6 +32,9 @@ import sys
 import glob
 import os
 import collections
+import xml.etree.ElementTree as ET
+
+NS = '{http://www.bibletechnologies.net/2003/OSIS/namespace}'
 
 # Vocabulary with no first-century referent. The value is why it is a flag.
 TERMS = {
@@ -52,23 +59,33 @@ COMPILED = [(re.compile(p, re.I), p, why) for p, why in TERMS.items()]
 
 
 def scan(pattern):
+    """-> (chapters scanned, hits). A hit is (where, section, found, pattern,
+    why, context)."""
     hits = []
-    files = sorted(glob.glob(pattern))
-    for path in files:
-        text = open(path, encoding='utf-8').read()
-        name = os.path.basename(path)[:-3]
-        for rx, pat, why in COMPILED:
-            for m in rx.finditer(text):
-                line = text.count('\n', 0, m.start()) + 1
-                s, e = max(0, m.start() - 95), min(len(text), m.end() + 95)
-                hits.append((name, line, m.group(0), pat, why,
-                             ' '.join(text[s:e].split())))
-    return files, hits
+    chapters = []
+    for path in sorted(glob.glob(pattern)):
+        book = os.path.basename(path)[:-4]
+        for ch in ET.parse(path).getroot().iter(NS + 'div'):
+            if ch.get('type') != 'chapter':
+                continue
+            where = '%s %s' % (book, (ch.get('osisID') or '.?').split('.')[-1])
+            chapters.append(where)
+            for sec in ch:
+                if sec.tag != NS + 'div' or sec.get('type') != 'section':
+                    continue
+                title = next((c.text or '' for c in sec if c.tag == NS + 'title'), '')
+                text = ' '.join(''.join(sec.itertext()).split())
+                for rx, pat, why in COMPILED:
+                    for m in rx.finditer(text):
+                        s, e = max(0, m.start() - 95), min(len(text), m.end() + 95)
+                        hits.append((where, title.strip(), m.group(0), pat, why,
+                                     text[s:e]))
+    return chapters, hits
 
 
 def main():
     show_context = '--context' in sys.argv
-    files, hits = scan('exegesis/nt/*.md')
+    files, hits = scan('osis/nt/*.xml')
 
     by_file = collections.Counter(h[0] for h in hits)
     by_term = collections.Counter(h[3] for h in hits)
@@ -86,8 +103,8 @@ def main():
 
     if show_context:
         print('\nHITS')
-        for name, line, found, pat, why, ctx in hits:
-            print('\n%s:%d  [%s] -- %s' % (name, line, found, why))
+        for name, section, found, pat, why, ctx in hits:
+            print('\n%s  %s  [%s] -- %s' % (name, section, found, why))
             print('    ...%s...' % ctx)
 
     # Never fails the build. Every hit needs a human, and most are innocent.
