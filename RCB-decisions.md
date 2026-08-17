@@ -63,7 +63,7 @@
 
 ## Rendering
 - **USFM**: No special rendering — `\add` with brackets; platforms render as they will
-- **HTML (our site)**: Built. `docs/index.html` is both the viewer and the site's front door — the reading column with a "Restorations" toggle, footnotes, a synced exegesis pane, and an introduction at `?book=INTRO`. See CLAUDE.md for the mechanics
+- **HTML (our site)**: Built. `docs/index.html` is both the viewer and the site's front door — the reading column with a "Restorations" toggle, footnotes, a synced commentary pane, and an introduction at `?book=INTRO`. See CLAUDE.md for the mechanics
 - Brackets in the text guarantee restorations are always distinguishable regardless of platform
 
 ## Open Questions
