@@ -138,6 +138,34 @@ def parse_heading_range(text, chapter, ident=''):
     return None
 
 
+# The verse label exactly as the heading writes it, part-verse letters and all:
+# 'Verses 1-3a:' -> '1-3a', 'The Setting (vv. 1-3a)' -> '1-3a'. annotateRef can
+# only speak in whole verses, so without this the fact that Matthew 13 splits
+# verse 3 between two sections is lost, and the anchor a report links to
+# ('#1-3a') stops existing. Both heading shapes have to be read: Matthew and
+# the Luke parables use the parenthesised one throughout.
+LABEL = re.compile(r'^Verses?\s+(\d+[a-z]?(?:\s*[-–]\s*\d+[a-z]?)?)\s*:', re.I)
+LABEL_VV = re.compile(r'\(vv?\.\s*(\d+[a-z]?(?:\s*[-–]\s*\d+[a-z]?)?)\)\s*$', re.I)
+
+
+def heading_label(text):
+    text = text.strip()
+    m = LABEL.match(text) or LABEL_VV.search(text)
+    if not m:
+        return None
+    return re.sub(r'\s*[-–]\s*', '-', m.group(1))
+
+
+def plain_id(rng):
+    """What the label would be if the heading named whole verses only."""
+    if rng is None:
+        return None
+    sc, sv, ec, ev = rng
+    if sc != ec:
+        return '%d.%d-%d.%d' % (sc, sv, ec, ev)
+    return str(sv) if ev == sv else '%d-%d' % (sv, ev)
+
+
 def annotate_ref(osis_id, chapter, rng):
     """The Bible passage a section is about, as an osisRef."""
     if rng is None:
@@ -392,8 +420,12 @@ def build_book(code, stem, osis_id, name):
         add('        <title>%s</title>' % inline(title or '%s %d' % (name, chapter)))
         for heading, rng, body in sections:
             ref = annotate_ref(osis_id, chapter, rng)
+            label = heading_label(heading)
+            n = ''
+            if label and label != plain_id(rng):
+                n = ' n="%s"' % escape(label, {'"': '&quot;'})
             add('        <div type="section" annotateType="commentary" '
-                'annotateRef="%s">' % ref)
+                'annotateRef="%s"%s>' % (ref, n))
             add('          <title>%s</title>' % inline(heading))
             for block in body:
                 lines.extend(render(block, 10))

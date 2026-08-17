@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+const OSIS = `<?xml version="1.0" encoding="UTF-8"?>
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
@@ -4525,3 +4525,4 @@
     </div>
   </osisText>
 </osis>
+`;

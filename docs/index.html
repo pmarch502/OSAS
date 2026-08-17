@@ -351,6 +351,24 @@
 
   .topic-row:last-child { margin-bottom: 0; }
 
+  /* The chapter notes ride the same disclosure as the verdicts, and sit below
+     them: the verdicts are about this passage, these are about the chapter
+     around it, and the section itself is what the reader came for. */
+  .context .topic-list { margin-top: 14px; }
+  .context-item { margin-bottom: 18px; }
+  .context-item:last-child { margin-bottom: 0; }
+
+  .context-title {
+    font-size: 13px;
+    color: var(--heading);
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+
+  .context-item .pane-body { font-size: 13.5px; color: var(--muted); }
+  .context-item .pane-body p { margin-bottom: 10px; }
+  .context-item .pane-body p:last-child { margin-bottom: 0; }
+
   .topic-name {
     color: var(--muted);
     flex-shrink: 0;
@@ -834,6 +852,7 @@
 </div>
 
 <script src="rcb/data/index.js"></script>
+<script src="commentary/osis.js"></script>
 <script>
 function slugify(text) {
   return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
@@ -1034,112 +1053,31 @@ document.addEventListener('click', function() {
  * at v9 in the RCB and v5 in the exegesis), and containment is immune to that.
  */
 
-// USFM code -> the stem used by exegesis/nt/{Stem}_{NN}.html
-var EXEGESIS_BOOKS = {
-  MAT: 'Matthew', MRK: 'Mark', LUK: 'Luke', JHN: 'John', ACT: 'Acts',
-  ROM: 'Romans', '1CO': '1Corinthians', '2CO': '2Corinthians',
-  GAL: 'Galatians', EPH: 'Ephesians', PHP: 'Philippians', COL: 'Colossians',
-  '1TH': '1Thessalonians', '2TH': '2Thessalonians', '1TI': '1Timothy',
-  '2TI': '2Timothy', TIT: 'Titus', PHM: 'Philemon', HEB: 'Hebrews',
-  JAS: 'James', '1PE': '1Peter', '2PE': '2Peter', '1JN': '1John',
-  '2JN': '2John', '3JN': '3John', JUD: 'Jude', REV: 'Revelation'
-};
+// The commentary is keyed by the same USFM code as the Bible -- commentary/
+// data/{BOOK}.js beside rcb/data/{BOOK}.js -- so no book-name table is needed.
 
 var TOPIC_NAMES = { o: 'OSAS', d: 'Determinism' };
 var TOPIC_PATHS = { o: 'osas', d: 'determinism' };
 
 var currentBook = null;
 var verseIndex = [];        // [{ch, v, top}] sorted by document position
-var exegesisCache = {};     // chapter -> [{start, end, title, html}] | 'loading' | null
+var commentary = null;      // null | 'loading' | 'none' | [sections] for the book
 var topicsLoaded = false;
 var paneOn = false;
-var topicsOpen = readTopicsOpen();   // whether the verdict list is expanded
+var topicsOpen = readTopicsOpen();     // whether the verdict list is expanded
+var contextOpen = readContextOpen();   // whether the chapter notes are expanded
 
 function readTopicsOpen() {
   try { return localStorage.getItem('rcb-topics-open') === '1'; } catch (e) { return false; }
 }
+
+function readContextOpen() {
+  try { return localStorage.getItem('rcb-context-open') === '1'; } catch (e) { return false; }
+}
 var lastKey = null;
 
-// Where a section starts or ends mid-verse the id holds only its first verse
-// token -- the heading "Verses 16b-18" carries id="16" -- so reading ranges off
-// the ids alone leaves gaps the pane would render blank (31 of them across the
-// NT). The heading text has the true range; the id is the fallback.
-/* A chapter-qualified range, for a section whose passage crosses a chapter
-   boundary: 'A Note on 7:53-8:11'. The end may drop the chapter when it does
-   not change. Mirrored by parse_heading_range() in check_pane_coverage.py. */
-var CQ_RE = /(\d+):(\d+)[ab]?(?:\s*[-–]\s*(?:(\d+):)?(\d+)[ab]?)?/;
-var CQ_RE_G = /(\d+):(\d+)[ab]?(?:\s*[-–]\s*(?:(\d+):)?(\d+)[ab]?)?/g;
-var CQ_LEAD_RE = /^(?:Verses?\s+)?\d+:\d+/i;
-
-/* The chapter-qualified range a heading is *about*, or null. Mirrors
-   cq_anywhere() in check_pane_coverage.py.
-
-   The range has to open or close the heading -- 'The Lost Sheep (15:4-7)',
-   'A Note on 7:53-8:11' -- and must not follow a capitalised word, which is
-   how a cross-reference names its book. 'The Fulfillment of Acts 1:8' is a
-   heading inside Acts 10 and is not a section on Acts 1. */
-function aboutRange(text) {
-  CQ_RE_G.lastIndex = 0;
-  var m;
-  while ((m = CQ_RE_G.exec(text)) !== null) {
-    var before = text.slice(0, m.index);
-    var after = text.slice(m.index + m[0].length);
-    var lead = before.trim().toLowerCase();
-    var atStart = lead === '' || lead === 'verse' || lead === 'verses';
-    if (!atStart && !/^[):\s]*$/.test(after)) continue;
-    var w = /([A-Za-z]+)\s*$/.exec(before);
-    if (w && w[1][0] === w[1][0].toUpperCase()) continue;
-    return m;
-  }
-  return null;
-}
-
-function chapterQualified(m) {
-  var sc = parseInt(m[1], 10), sv = parseInt(m[2], 10);
-  return {
-    sc: sc, sv: sv,
-    ec: m[3] ? parseInt(m[3], 10) : sc,
-    ev: m[4] ? parseInt(m[4], 10) : sv
-  };
-}
-
-/* Returns an absolute {sc, sv, ec, ev} -- the same shape the topics index
-   uses -- because a section may cover a passage that crosses a chapter
-   boundary and so cannot be described by verse numbers alone.
-
-   Order matters. The plain form is tried before searching the text for a
-   chapter-qualified range, so 'Verses 1-5: The 3:16 Principle' reads as
-   verses 1-5 and not as chapter 3. */
-function parseHeadingRange(text, id, chapter) {
-  var t = String(text).trim(), m;
-  if (CQ_LEAD_RE.test(t)) {
-    m = CQ_RE.exec(t);
-    if (m) return chapterQualified(m);
-  }
-  m = /^Verses?\s+(\d+)[ab]?(?:\s*[-–]\s*(\d+)[ab]?)?/i.exec(t);
-  if (m) {
-    return { sc: chapter, sv: parseInt(m[1], 10),
-             ec: chapter, ev: parseInt(m[2] || m[1], 10) };
-  }
-  m = aboutRange(t);
-  if (m) return chapterQualified(m);
-  var n = /^(\d+)[a-z]?(?:-(\d+)[a-z]?)?$/.exec(String(id).trim());
-  if (!n) return null;
-  return { sc: chapter, sv: parseInt(n[1], 10),
-           ec: chapter, ev: parseInt(n[2] || n[1], 10) };
-}
-
-/* '8:1-11', '12', or '7:53-8:11' when the section crosses a chapter. */
-function sectionLabel(s) {
-  if (s.sc !== s.ec) return s.sc + ':' + s.sv + '-' + s.ec + ':' + s.ev;
-  return s.sc + ':' + s.sv + (s.ev !== s.sv ? '-' + s.ev : '');
-}
-
-function sectionContains(s, chapter, verse) {
-  var after = chapter > s.sc || (chapter === s.sc && verse >= s.sv);
-  var before = chapter < s.ec || (chapter === s.ec && verse <= s.ev);
-  return after && before;
-}
+/* Parsing the OSIS lives in commentary/osis.js, shared with the full-chapter
+   page, so the two cannot come to disagree about what a section covers. */
 
 function pad2(n) { return (n < 10 ? '0' : '') + n; }
 
@@ -1225,45 +1163,25 @@ function readPlace() {
   return m ? { book: m[1], ch: parseInt(m[2], 10), v: parseInt(m[3], 10) } : null;
 }
 
-function loadExegesis(chapter, done) {
-  if (exegesisCache[chapter] === 'loading') return;
-  if (exegesisCache[chapter] !== undefined) { done(); return; }
+/* One file per book, loaded once. The HTML pipeline fetched a file per chapter
+   and then had to peek into the neighbouring chapter for a section spanning a
+   boundary; with the whole book in hand that special case disappears. */
+function loadCommentary(done) {
+  if (commentary === 'loading') return;
+  if (commentary !== null) { done(); return; }
+  if (!currentBook) { commentary = 'none'; done(); return; }
 
-  var stem = EXEGESIS_BOOKS[currentBook];
-  if (!stem) { exegesisCache[chapter] = null; done(); return; }
-
-  exegesisCache[chapter] = 'loading';
-  fetch('exegesis/nt/' + stem + '_' + pad2(chapter) + '.html')
-    .then(function(r) {
-      if (!r.ok) throw new Error('not found');
-      return r.text();
-    })
-    .then(function(text) {
-      var doc = new DOMParser().parseFromString(text, 'text/html');
-      var sections = [];
-      var heads = doc.querySelectorAll('h2[id]');
-      for (var i = 0; i < heads.length; i++) {
-        var range = parseHeadingRange(heads[i].textContent, heads[i].id, chapter);
-        if (!range) continue;
-        var html = '';
-        var node = heads[i].nextElementSibling;
-        while (node && node.tagName !== 'H2') {
-          if (node.tagName !== 'HR' && !node.classList.contains('nav')) {
-            html += node.outerHTML;
-          }
-          node = node.nextElementSibling;
-        }
-        var title = heads[i].textContent.replace(/^Verses?\s+[\d\-a-z]+:\s*/i, '');
-        sections.push({ sc: range.sc, sv: range.sv, ec: range.ec, ev: range.ev,
-                        file: chapter, title: title, html: html });
-      }
-      exegesisCache[chapter] = sections.length ? sections : null;
-      done();
-    })
-    .catch(function() {
-      exegesisCache[chapter] = null;
-      done();
-    });
+  commentary = 'loading';
+  var s = document.createElement('script');
+  s.src = 'commentary/data/' + currentBook + '.js';
+  s.onload = function() {
+    var parsed = null;
+    try { parsed = Commentary.parse(OSIS); } catch (e) { parsed = null; }
+    commentary = parsed ? parsed.sections : 'none';
+    done();
+  };
+  s.onerror = function() { commentary = 'none'; done(); };
+  document.head.appendChild(s);
 }
 
 function categoryClass(cat) {
@@ -1337,6 +1255,40 @@ function toggleTopics(btn) {
   try { localStorage.setItem('rcb-topics-open', topicsOpen ? '1' : '0'); } catch (e) {}
 }
 
+/* What the chapter says about itself, on the same terms as the verdicts: one
+   quiet line, opened on demand, remembered.
+
+   These sections -- "Context and Placement", "The Chapter's Argument as a
+   Whole" -- are about the chapter rather than any verse in it, so they cannot
+   be the pane's answer to "what covers this verse". They were written all the
+   same, and until now they were the one part of the commentary a reader of
+   the Bible could not reach. */
+function renderContext(notes) {
+  if (!notes.length) return '';
+  var body = '';
+  for (var i = 0; i < notes.length; i++) {
+    body += '<div class="context-item">' +
+            '<div class="context-title">' + esc(notes[i].title) + '</div>' +
+            '<div class="pane-body">' + notes[i].html + '</div></div>';
+  }
+  var label = notes.length === 1 ? 'On the chapter as a whole'
+                                 : 'On the chapter as a whole (' + notes.length + ')';
+  return '<div class="topics context' + (contextOpen ? ' open' : '') + '">' +
+         '<button class="topic-summary" type="button" onclick="toggleContext(this)" ' +
+         'aria-expanded="' + (contextOpen ? 'true' : 'false') + '">' +
+         '<span class="topic-caret">&#9656;</span>' +
+         '<span class="topic-summary-text">' + label + '</span></button>' +
+         '<div class="topic-list">' + body + '</div></div>';
+}
+
+function toggleContext(btn) {
+  contextOpen = !contextOpen;
+  var box = btn.parentNode;
+  box.className = 'topics context' + (contextOpen ? ' open' : '');
+  btn.setAttribute('aria-expanded', contextOpen ? 'true' : 'false');
+  try { localStorage.setItem('rcb-context-open', contextOpen ? '1' : '0'); } catch (e) {}
+}
+
 function escapeAttr(s) {
   return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
 }
@@ -1353,79 +1305,54 @@ function updatePane() {
     return;
   }
 
-  var cached = exegesisCache[pos.ch];
-  if (cached === undefined) {
-    loadExegesis(pos.ch, function() { lastKey = null; updatePane(); });
+  if (commentary === null) {
+    loadCommentary(function() { lastKey = null; updatePane(); });
     return;
   }
-  if (cached === 'loading') return;
+  if (commentary === 'loading') return;
 
-  // Containment only, with no nearest-section fallback. 1 of the RCB's 7,943
-  // verses has no exegesis section (Revelation 12:18); showing a neighbouring
-  // section there would present commentary on one passage as though it
-  // covered another.
-  var section = null;
-  if (cached) {
-    for (var i = 0; i < cached.length; i++) {
-      if (sectionContains(cached[i], pos.ch, pos.v)) { section = cached[i]; break; }
-    }
-  }
+  // Containment only, with no nearest-section fallback. Where nothing covers
+  // the verse the pane says so, rather than showing a neighbouring passage's
+  // commentary as though it applied. All 7,943 verses are in fact covered.
+  var sections = commentary === 'none' ? [] : commentary;
+  var section = Commentary.findSection(sections, pos.ch, pos.v);
+  var notes = Commentary.chapterNotes(sections, pos.ch);
 
-  // A section covering a passage that crosses a chapter boundary is written in
-  // one chapter's file and covers verses in the other's -- John 7:53-8:11
-  // lives in John_08 and reaches back to 7:53. Only runs for a verse nothing
-  // in its own chapter covers, so it costs one extra fetch on the handful of
-  // verses that would otherwise show "no section", and nothing anywhere else.
-  if (!section) {
-    var neighbours = [pos.ch + 1, pos.ch - 1];
-    for (var k = 0; k < neighbours.length; k++) {
-      if (neighbours[k] < 1) continue;
-      var near = exegesisCache[neighbours[k]];
-      if (near === undefined) {
-        loadExegesis(neighbours[k], function() { lastKey = null; updatePane(); });
-        return;
-      }
-      if (near === 'loading') return;
-      if (!near) continue;
-      for (var j = 0; j < near.length; j++) {
-        if (sectionContains(near[j], pos.ch, pos.v)) { section = near[j]; break; }
-      }
-      if (section) break;
-    }
-  }
-
-  // Re-render only when the pane's content would actually change. The exegesis
-  // section and the report rows divide the chapter differently (1,966 exegesis
-  // sections against 1,956 and 1,975 report rows), so both go in the key --
-  // keying on the section alone would freeze the badges mid-section.
+  // Re-render only when the pane's content would actually change. The
+  // commentary sections and the report rows divide the chapter differently
+  // (2,522 sections against 1,956 and 1,975 report rows), so both go in the
+  // key -- keying on the section alone would freeze the badges mid-section.
   var hits = topicsFor(pos.ch, pos.v);
-  var key = pos.ch + ':' + (section ? sectionLabel(section) : 'v' + pos.v) +
+  var key = pos.ch + ':' + (section ? Commentary.label(section) : 'v' + pos.v) +
             '|' + hits.map(function(h) { return h.t + h.r; }).join(',');
   if (key === lastKey) return;
   lastKey = key;
 
-  var stem = EXEGESIS_BOOKS[currentBook];
-  // The chapter file the section was written in, which for a section spanning
-  // a chapter boundary is not the chapter the reader is sitting in.
-  var srcCh = section ? section.file : pos.ch;
-  var full = stem ? 'exegesis/nt/' + stem + '_' + pad2(srcCh) + '.html' : null;
+  // The chapter the section was written in, which for a section spanning a
+  // chapter boundary is not the chapter the reader is sitting in.
+  var srcCh = section ? section.chapter : pos.ch;
+  var full = currentBook
+    ? 'commentary/index.html?book=' + currentBook + '&ch=' + srcCh
+    : null;
   var html = '';
 
   if (section) {
-    html += '<div class="pane-ref">' + bookLabel() + ' ' + sectionLabel(section) + '</div>';
-    html += '<div class="pane-title">' + section.title + '</div>';
+    html += '<div class="pane-ref">' + bookLabel() + ' ' + Commentary.label(section) + '</div>';
+    html += '<div class="pane-title">' + esc(section.title) + '</div>';
     html += renderTopics(hits);
+    html += renderContext(notes);
     html += '<div class="pane-body">' + section.html + '</div>';
   } else {
     html += '<div class="pane-ref">' + bookLabel() + ' ' + pos.ch + ':' + pos.v + '</div>';
     html += renderTopics(hits);
-    html += '<p class="pane-empty">The exegesis has no section covering this verse, ' +
+    html += renderContext(notes);
+    html += '<p class="pane-empty">The commentary has no section covering this verse, ' +
             'so there is nothing to show rather than something approximate.</p>';
   }
 
   if (full) {
     html += '<div class="pane-footer"><a href="' + full + '">' +
-            'Full chapter exegesis &rarr;</a></div>';
+            'Full chapter commentary &rarr;</a></div>';
   }
 
   inner.innerHTML = html;
