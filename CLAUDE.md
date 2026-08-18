@@ -359,23 +359,27 @@ Same arrangement as the Bible, deliberately: source outside `docs/`, a thin wrap
 ## The italics pass
 
 Marking the commentary's transliterated Greek, Hebrew and Aramaic, its Latin
-scholarly terms, and the titles of ancient works. **Complete** — all 27 NT
-books, 260 chapters, 51,629 spans, finished 2026-08-18. Whether
-`osis/nt-italics/` ever replaces `osis/nt/` is the author's call and has not
-been made.
+scholarly terms, and the titles of ancient works. **Complete and promoted** —
+all 27 NT books, 260 chapters, 51,629 spans, finished 2026-08-18. The marked
+books replaced `osis/nt/` and `docs/commentary/data/` was regenerated from
+them, so the italics are the commentary now (commit `0973a56`).
+`osis/nt-italics/` and `preview/` were deleted with the promotion.
 
 **`ITALICS-run.md` at the repo root is the guide.** Read it before touching
 this. The rules are in `prompts/italics.md`, the tools are
-`scripts/italics.py` and `scripts/italics_preview.py`.
+`scripts/italics.py` and `scripts/italics_sweep.py`.
 
-Three things that matter even if you read nothing else:
+Four things that matter even if you read nothing else:
 
-- **`osis/nt/` is read-only for this pass.** The marked book is written to
-  `osis/nt-italics/{BOOK}.xml` and read through `preview/italics-{BOOK}.html`.
-  Whether it ever replaces the original is the author's call and has not been
-  made. Nothing regenerates `docs/commentary/data/` from it.
+- **The run never wrote to `osis/nt/`.** It wrote `osis/nt-italics/{BOOK}.xml`
+  and was read through `preview/italics-{BOOK}.html`. Both are gone now the
+  promotion has happened, so `italics.py build`, `italics_preview.py` and
+  `italics_unmark.py` point at a deleted directory and would need that path
+  changed to run again — which is what an OT pass would want.
 - **Run `python scripts/italics.py verify` on every chapter yourself.**
-  Agents have reported a byte-for-byte check they had not done.
+  Agents have reported a byte-for-byte check they had not done. It now
+  compares a marked book against itself, so it only means something on a
+  fresh pass.
 - **`verify` cannot see a missed word.** It proves the prose is untouched,
   not that the marking is complete. `python scripts/italics_sweep.py {BOOK}`
   is the second check: it lists every word the book italicises somewhere and
