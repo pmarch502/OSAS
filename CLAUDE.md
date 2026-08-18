@@ -356,6 +356,34 @@ Same arrangement as the Bible, deliberately: source outside `docs/`, a thin wrap
 
 **Writing a new book**: an agent writes the OSIS directly, the way pass 2 writes USFM directly. Do not reintroduce markdown as an intermediate — one source is the whole point.
 
+## The italics pass
+
+Marking the commentary's transliterated Greek, Hebrew and Aramaic, its Latin
+scholarly terms, and the titles of ancient works. **Complete** — all 27 NT
+books, 260 chapters, 51,629 spans, finished 2026-08-18. Whether
+`osis/nt-italics/` ever replaces `osis/nt/` is the author's call and has not
+been made.
+
+**`ITALICS-run.md` at the repo root is the guide.** Read it before touching
+this. The rules are in `prompts/italics.md`, the tools are
+`scripts/italics.py` and `scripts/italics_preview.py`.
+
+Three things that matter even if you read nothing else:
+
+- **`osis/nt/` is read-only for this pass.** The marked book is written to
+  `osis/nt-italics/{BOOK}.xml` and read through `preview/italics-{BOOK}.html`.
+  Whether it ever replaces the original is the author's call and has not been
+  made. Nothing regenerates `docs/commentary/data/` from it.
+- **Run `python scripts/italics.py verify` on every chapter yourself.**
+  Agents have reported a byte-for-byte check they had not done.
+- **`verify` cannot see a missed word.** It proves the prose is untouched,
+  not that the marking is complete. `python scripts/italics_sweep.py {BOOK}`
+  is the second check: it lists every word the book italicises somewhere and
+  finds it sitting plain elsewhere. It caught six real misses across the run
+  that nothing else would have.
+- **Do not hand-edit and do not regex.** An agent reads the chapter and marks
+  it; the verifier proves the prose is untouched.
+
 ## Hosting
 
 - GitHub repo: `pmarch502/RCB` (public). Renamed from `OSAS` on 2026-08-17; GitHub
